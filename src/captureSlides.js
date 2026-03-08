@@ -89,12 +89,12 @@ async function main() {
     });
 
     const page = await browser.newPage();
-    await page.setViewport({ width: 1920, height: 1080, deviceScaleFactor: 2 }); // High res
+    await page.setViewport({ width: 1920, height: 1080, deviceScaleFactor: 1 }); // Standard res for email
 
     for (const item of filesToCapture) {
         console.log(`Capturing: ${item.category}`);
         await page.goto(`file://${item.htmlFile}`, { waitUntil: 'networkidle0' });
-        await page.screenshot({ path: item.imgFile, type: 'jpeg', quality: 80 });
+        await page.screenshot({ path: item.imgFile, type: 'jpeg', quality: 70 });
         console.log(`Saved image: ${item.imgFile}`);
     }
 
