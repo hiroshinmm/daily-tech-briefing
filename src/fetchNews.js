@@ -5,10 +5,8 @@ const config = require('./config');
 
 const parser = new Parser({
     headers: {
-        'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36'
-    },
-    xml2js: {
-        strict: false, // Handle malformed XML like "Attribute without value"
+        'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36',
+        'Accept': 'application/rss+xml, application/rdf+xml;q=0.8, application/xml;q=0.6, text/xml;q=0.6, */*;q=0.1'
     }
 });
 
