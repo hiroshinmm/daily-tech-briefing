@@ -29,6 +29,20 @@ async function main() {
     const filesToCapture = [];
     const slidesForIndex = [];
 
+    // Predefined high-quality Unsplash image IDs
+    const imageMap = {
+        "ai": "photo-1677442136019-21780ecad995",
+        "srd / xr": "photo-1622979135225-d2ba269cf1ac",
+        "gaming monitor": "photo-1542744173-8e7e53415bb0",
+        "production monitor": "photo-1551817150-13ced97858c1",
+        "camera control": "photo-1516035069371-29a1b244cc32",
+        "projector": "photo-1585771724684-38269d6639fd",
+        "led wall display": "photo-1550745165-9bc0b252726f",
+        "tv": "photo-1593359677879-a4bb92f829d1",
+        "sony": "photo-1616423640778-28d1b53229bd",
+        "tcl": "photo-1593784991095-a205069470b6"
+    };
+
     for (const [category, insight] of Object.entries(insightsData)) {
         if (!insight) continue;
 
@@ -40,21 +54,9 @@ async function main() {
         const pngFileFull = path.join(imageOutDir, pngFileName);
         const jpgFileFull = path.join(imageOutDir, jpgFileName);
 
-        // Normalize category name for matching
-        const normCategory = category.toLowerCase().trim();
-        const imageMap = {
-            "ai": "photo-1677442136019-21780ecad995",
-            "srd / xr": "photo-1622979135225-d2ba269cf1ac",
-            "gaming monitor": "photo-1542744173-8e7e53415bb0",
-            "production monitor": "photo-1551817150-13ced97858c1",
-            "camera control": "photo-1516035069371-29a1b244cc32",
-            "projector": "photo-1585771724684-38269d6639fd",
-            "led wall display": "photo-1550745165-9bc0b252726f",
-            "tv": "photo-1593359677879-a4bb92f829d1",
-            "sony": "photo-1616423640778-28d1b53229bd",
-            "tcl": "photo-1593784991095-a205069470b6"
-        };
-        const photoId = imageMap[normCategory] || "photo-1451187580459-43490279c0fa";
+        // Normalize category name for matching (lowercase and unified spaces)
+        const normCategory = category.toLowerCase().replace(/\s+/g, ' ').trim();
+        const photoId = imageMap[normCategory] || "photo-1451187580459-43490279c0fa"; // fallback tech image
         const imageUrl = `https://images.unsplash.com/${photoId}?q=80&w=1920&h=1080&auto=format&fit=crop`;
 
         const htmlContent = ejs.render(templateString, {
@@ -89,6 +91,9 @@ async function main() {
     for (const item of filesToCapture) {
         console.log(`Capturing: ${item.category}`);
         await page.goto(`file://${item.htmlFile}`, { waitUntil: 'networkidle0' });
+
+        // Wait a bit to ensure everything is rendered
+        await new Promise(resolve => setTimeout(resolve, 1000));
 
         // 1. Capture high-res PNG for Web
         await page.setViewport({ width: 1920, height: 1080, deviceScaleFactor: 2 });
