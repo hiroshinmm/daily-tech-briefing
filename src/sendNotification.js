@@ -49,7 +49,7 @@ async function main() {
       </div>
       
       <h3 style="margin-top: 30px; font-size: 18px;">📌 ピックアップトピック概要</h3>
-      <div style="display: flex; flex-direction: column; gap: 20px;">
+      <div>
   `;
 
   for (const [category, insight] of Object.entries(insightsData)) {
@@ -60,19 +60,19 @@ async function main() {
     const imgWebUrl = GITHUB_PAGES_URL ? `${GITHUB_PAGES_URL}images/${safeName}.png` : '#';
 
     htmlContent += `
-      <div style="border: 1px solid #eee; border-radius: 8px; padding: 15px; background: #fafafa; margin-bottom: 20px;">
+      <div style="border: 1px solid #eee; border-radius: 8px; padding: 15px; background: #fafafa; margin-bottom: 30px; display: block; overflow: hidden;">
         <div style="margin-bottom: 8px;">
           <strong style="color: #4A90E2; font-size: 14px;">${category}</strong>
         </div>
         <div style="margin-bottom: 8px;">
-          <strong style="font-size: 16px;">${insight.title}</strong>
+          <strong style="font-size: 16px; color: #333;">${insight.title}</strong>
         </div>
-        <div style="font-size: 13px; color: #555; line-height: 1.5; margin-bottom: 15px;">
+        <div style="font-size: 13px; color: #555; line-height: 1.6; margin-bottom: 15px;">
           ${insight.summary}
         </div>
         <div style="margin-bottom: 15px; text-align: center;">
           <a href="${imgWebUrl}" target="_blank" style="display: inline-block;">
-            <img src="cid:${cid}" alt="${insight.title}" style="width: 100%; max-width: 600px; height: auto; border-radius: 4px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);" />
+            <img src="cid:${cid}" alt="${insight.title}" style="width: 100%; max-width: 600px; height: auto; border-radius: 4px; border: 1px solid #ddd; display: block; margin: 0 auto;" />
           </a>
         </div>
         <div>
@@ -103,7 +103,7 @@ async function main() {
   const mailOptions = {
     from: `"Tech Briefing Bot" <${GMAIL_USER}>`,
     to: GMAIL_TO,
-    subject: `【自動生成】Daily Tech Briefing スライド更新通知 (${today})`,
+    subject: `Daily Tech Briefing スライド更新通知 (${today})`,
     html: htmlContent,
     attachments: attachments
   };
