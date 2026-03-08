@@ -24,3 +24,4 @@
   - [x] スライド内出典テキストからのURL除去 (`src/templates/slide.ejs`)
   - [x] メールテキスト本文への Gemini Insight 文章の埋め込み
   - [x] Webギャラリーおよびメール内の記事タイトルをソース元記事へのリンク化
+  - [x] 記事要約（Summary）の生成文字数を約150文字へ調整 (`src/generateInsights.js`)
