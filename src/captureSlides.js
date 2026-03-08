@@ -55,7 +55,9 @@ async function main() {
             "SONY": "photo-1616423640778-28d1b53229bd",
             "TCL": "photo-1593784991095-a205069470b6"
         };
-        const photoId = imageMap[category] || "photo-1451187580459-43490279c0fa"; // fallback tech image
+        // Use trimmed category name for safer matching
+        const trimmedCategory = category.trim();
+        const photoId = imageMap[trimmedCategory] || "photo-1451187580459-43490279c0fa"; // fallback tech image
         const imageUrl = `https://images.unsplash.com/${photoId}?q=80&w=1920&h=1080&auto=format&fit=crop`;
 
         const htmlContent = ejs.render(templateString, {
