@@ -45,19 +45,20 @@ async function main() {
         // source.unsplash.com is deprecated and often returns blank.
         // We use a predefined Unsplash image ID mapping based on category to guarantee high-quality non-blank images.
         const imageMap = {
-            "AI": "photo-1677442136019-21780ecad995",
-            "SRD / XR": "photo-1622979135225-d2ba269cf1ac",
-            "Gaming Monitor": "photo-1542744173-8e7e53415bb0",
-            "Production Monitor": "photo-1516223725307-6fc76b1a117c",
-            "Camera Control": "photo-1516035069371-29a1b244cc32",
-            "Projector": "photo-1585771724684-38269d6639fd",
-            "LED Wall Display": "photo-1550745165-9bc0b252726f",
-            "SONY": "photo-1616423640778-28d1b53229bd",
-            "TCL": "photo-1593784991095-a205069470b6"
+            "ai": "photo-1677442136019-21780ecad995",
+            "srd / xr": "photo-1622979135225-d2ba269cf1ac",
+            "gaming monitor": "photo-1542744173-8e7e53415bb0",
+            "production monitor": "photo-1551817150-13ced97858c1", // Updated ID for better reliability
+            "camera control": "photo-1516035069371-29a1b244cc32",
+            "projector": "photo-1585771724684-38269d6639fd",
+            "led wall display": "photo-1550745165-9bc0b252726f",
+            "tv": "photo-1593359677879-a4bb92f829d1",
+            "sony": "photo-1616423640778-28d1b53229bd",
+            "tcl": "photo-1593784991095-a205069470b6"
         };
-        // Use trimmed category name for safer matching
-        const trimmedCategory = category.trim();
-        const photoId = imageMap[trimmedCategory] || "photo-1451187580459-43490279c0fa"; // fallback tech image
+        // Normalize category name for matching (lowercase and trimmed)
+        const normCategory = category.toLowerCase().trim();
+        const photoId = imageMap[normCategory] || "photo-1451187580459-43490279c0fa"; // fallback tech image
         const imageUrl = `https://images.unsplash.com/${photoId}?q=80&w=960&h=1080&auto=format&fit=crop`;
 
         const htmlContent = ejs.render(templateString, {

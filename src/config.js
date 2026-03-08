@@ -50,6 +50,10 @@ module.exports = {
             "https://www.ledinside.com/rss.xml",
             "https://news.google.com/rss/search?q=%22LED+Wall%22+OR+%22MicroLED+display%22+when:7d&hl=en-US&gl=US&ceid=US:en"
         ],
+        "TV": [
+            "https://news.google.com/rss/search?q=TV+OR+Television+OR+%E3%83%86%E3%83%AC%E3%83%93+when:7d&hl=ja&gl=JP&ceid=JP:ja",
+            "https://news.google.com/rss/search?q=%22MiniLED+TV%22+OR+%22OLED+TV%22+when:7d&hl=en-US&gl=US&ceid=US:en"
+        ],
         "SONY": [
             "https://news.google.com/rss/search?q=Sony+AND+(Display+OR+Monitor+OR+Camera+OR+XR)+when:7d&hl=en-US&gl=US&ceid=US:en",
             "https://news.google.com/rss/search?q=%E3%82%BD%E3%83%8B%E3%83%BC+AND+(%E3%83%87%E3%82%A3%E3%82%B9%E3%83%97%E3%83%AC%E3%82%A4+OR+%E3%83%A2%E3%83%8B%E3%82%BF%E3%83%BC+OR+%E3%82%AB%E3%83%A1%E3%83%A9+OR+XR)+when:7d&hl=ja&gl=JP&ceid=JP:ja"
