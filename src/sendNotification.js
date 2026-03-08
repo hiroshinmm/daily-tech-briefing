@@ -13,53 +13,65 @@ async function main() {
 
   const dataDir = path.join(__dirname, '..', 'data');
   const insightsFile = path.join(dataDir, 'insights.json');
+  const imagesDir = path.join(__dirname, '..', 'dist', 'images');
 
   let insightsData = {};
   if (fs.existsSync(insightsFile)) {
     insightsData = JSON.parse(fs.readFileSync(insightsFile, 'utf-8'));
   }
 
+  // Prepare attachments
+  const attachments = [];
+  if (fs.existsSync(imagesDir)) {
+    const imageFiles = fs.readdirSync(imagesDir).filter(file => /\.(jpg|jpeg|png|gif)$/i.test(file));
+    for (const file of imageFiles) {
+      attachments.push({
+        filename: file,
+        path: path.join(imagesDir, file),
+        cid: path.parse(file).name // Use filename without extension as Content-ID
+      });
+    }
+  }
+
   // Build Email Content
   const today = new Date().toLocaleDateString('ja-JP', { month: 'short', day: 'numeric' });
   let htmlContent = `
-    <div style="font-family: Arial, sans-serif; color: #333; max-width: 800px; margin: 0 auto;">
-      <h2 style="color: #1A2980; border-bottom: 2px solid #26D0CE; padding-bottom: 10px;">
-        🚀 Weekly Tech Briefing - ${today}
+    <div style="font-family: Arial, sans-serif; color: #333; max-width: 800px; margin: 0 auto; padding: 10px;">
+      <h2 style="color: #1A2980; border-bottom: 2px solid #26D0CE; padding-bottom: 10px; font-size: 20px;">
+        🚀 Daily Tech Briefing - ${today}
       </h2>
-      <p>おはようございます。今週のアイスブレイク用 最新技術トレンドスライドが生成されました。</p>
+      <p style="font-size: 14px; line-height: 1.6;">おはようございます。本日の最新技術トレンドスライドが生成されました。添付画像の各カテゴリ別スライドをご覧いただくか、以下のサマリーをご確認ください。</p>
       
-      <div style="margin: 30px 0; text-align: center;">
-        <a href="${GITHUB_PAGES_URL || '#'}" style="background-color: #4A90E2; color: white; padding: 12px 24px; text-decoration: none; border-radius: 5px; font-weight: bold; font-size: 16px;">
-          今週のスライドを開く (ギャラリー)
-        </a>
-      </div>
-      
-      <h3>📌 ピックアップトピック概要</h3>
-      <table style="width: 100%; border-collapse: collapse; margin-top: 20px;">
+      <h3 style="margin-top: 30px; font-size: 18px;">📌 ピックアップトピック概要</h3>
+      <div style="display: flex; flex-direction: column; gap: 20px;">
   `;
 
   for (const [category, insight] of Object.entries(insightsData)) {
     if (!insight) continue;
 
     htmlContent += `
-      <tr>
-        <td style="padding: 15px; border-bottom: 1px solid #eee; width: 30%; vertical-align: top;">
-          <strong style="color: #4A90E2;">${category}</strong>
-        </td>
-        <td style="padding: 15px; border-bottom: 1px solid #eee;">
-          <strong>${insight.title}</strong><br>
-          <span style="font-size: 13px; color: #666;">${insight.summary}</span><br>
-          <a href="${insight.sourceUrl}" style="font-size: 12px; color: #999; text-decoration: none;">[Source: ${insight.sourceName}]</a>
-        </td>
-      </tr>
+      <div style="border: 1px solid #eee; border-radius: 8px; padding: 15px; background: #fafafa;">
+        <div style="margin-bottom: 8px;">
+          <strong style="color: #4A90E2; font-size: 14px;">${category}</strong>
+        </div>
+        <div style="margin-bottom: 8px;">
+          <strong style="font-size: 16px;">${insight.title}</strong>
+        </div>
+        <div style="font-size: 13px; color: #555; line-height: 1.5; margin-bottom: 10px;">
+          ${insight.summary}
+        </div>
+        <div>
+          <a href="${insight.sourceUrl}" style="font-size: 12px; color: #999; text-decoration: none; display: inline-block;">[Source: ${insight.sourceName}]</a>
+        </div>
+      </div>
     `;
   }
 
   htmlContent += `
-      </table>
+      </div>
       
       <div style="margin-top: 40px; font-size: 12px; color: #999; text-align: center;">
-        <p>このメールは Automated Weekly Icebreaks システムによって自動送信されています。</p>
+        <p>このメールは Automated Daily Icebreaks システムによって自動送信されています。</p>
       </div>
     </div>
   `;
@@ -76,8 +88,9 @@ async function main() {
   const mailOptions = {
     from: `"Tech Briefing Bot" <${GMAIL_USER}>`,
     to: GMAIL_TO,
-    subject: `【自動生成】Weekly Tech Briefing スライド更新通知 (${today})`,
-    html: htmlContent
+    subject: `【自動生成】Daily Tech Briefing スライド更新通知 (${today})`,
+    html: htmlContent,
+    attachments: attachments
   };
 
   try {

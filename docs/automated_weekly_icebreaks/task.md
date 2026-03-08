@@ -8,13 +8,13 @@
   - [x] Gemini API連携スクリプト (`src/generateInsights.js`) の作成
     - [x] 抽出したニュースからGemini APIで考察 (INSIGHT) を生成するプロンプトの設計
     - [x] API呼び出し処理の実装とエラーハンドリング
-- [x] Phase 2: スライド生成（Puppeteer）とGitHub Pagesの公開
+- [x] Phase 2: スライド生成（Puppeteer）
   - [x] Node.js パッケージの追加 (`puppeteer`)
   - [x] HTML/CSS スライドテンプレート (`src/templates/slide.html`) の作成
   - [x] スライドHTML等生成スクリプト (`src/generateSlideHtml.js` -> 統合済み)
   - [x] 画像保存スクリプト (`src/captureSlides.js`) の作成
-  - [x] ギャラリーページ (`src/index.html` テンプレート) の作成
-  - [x] GitHub Actions ワークフロー (`.github/workflows/daily-icebreak.yml`) の設定
+  - [x] GitHub Actions ワークフロー (`.github/workflows/daily-icebreak.yml`) の設定とGH Pagesデプロイの廃止
 - [x] Phase 3: 自動プッシュとGmail通知の統合
   - [x] Nodemailer によるリッチなメール送信 (`src/sendNotification.js`)
-  - [x] GitHub Pages公開URLを含むメール通知連携
+  - [x] スマートフォンでの閲覧に最適化した1カラムUIのレイアウト実装
+  - [x] 生成スライド画像（PNG形式）の自動添付処理
