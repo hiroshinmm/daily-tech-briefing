@@ -34,7 +34,7 @@ async function main() {
         "ai": "photo-1677442136019-21780ecad995",
         "srd / xr": "photo-1622979135225-d2ba269cf1ac",
         "gaming monitor": "photo-1542744173-8e7e53415bb0",
-        "production monitor": "photo-1551817150-13ced97858c1",
+        "production monitor": "photo-1492691527719-9d1e07e534b4", // Updated for stability
         "camera control": "photo-1516035069371-29a1b244cc32",
         "projector": "photo-1585771724684-38269d6639fd",
         "led wall display": "photo-1550745165-9bc0b252726f",
@@ -46,7 +46,6 @@ async function main() {
     for (const [category, insight] of Object.entries(insightsData)) {
         if (!insight) continue;
 
-        // Sanitize category name for filename
         const safeName = category.replace(/[^a-z0-9]/gi, '_').toLowerCase();
         const htmlFile = path.join(htmlOutDir, `${safeName}.html`);
         const pngFileName = `${safeName}.png`;
@@ -54,10 +53,12 @@ async function main() {
         const pngFileFull = path.join(imageOutDir, pngFileName);
         const jpgFileFull = path.join(imageOutDir, jpgFileName);
 
-        // Normalize category name for matching (lowercase and unified spaces)
+        // Normalize category name strictly for mapping
         const normCategory = category.toLowerCase().replace(/\s+/g, ' ').trim();
-        const photoId = imageMap[normCategory] || "photo-1451187580459-43490279c0fa"; // fallback tech image
+        const photoId = imageMap[normCategory] || "photo-1451187580459-43490279c0fa";
         const imageUrl = `https://images.unsplash.com/${photoId}?q=80&w=1920&h=1080&auto=format&fit=crop`;
+
+        console.log(`[DEBUG] Category: "${category}" -> Norm: "${normCategory}" -> PhotoId: ${photoId}`);
 
         const htmlContent = ejs.render(templateString, {
             category: category,
@@ -74,16 +75,14 @@ async function main() {
             summary: insight.summary,
             sourceName: insight.sourceName,
             sourceUrl: insight.sourceUrl,
-            imageFile: pngFileName // Web uses high-res PNG
+            imageFile: pngFileName
         });
-
-        console.log(`Created HTML: ${htmlFile}`);
     }
 
     console.log('\nLaunching Puppeteer to capture slides...');
     const browser = await puppeteer.launch({
         headless: "new",
-        args: ['--no-sandbox', '--disable-setuid-sandbox']
+        args: ['--no-sandbox', '--disable-setuid-sandbox', '--allow-file-access-from-files']
     });
 
     const page = await browser.newPage();
@@ -92,30 +91,42 @@ async function main() {
         console.log(`Capturing: ${item.category}`);
         await page.goto(`file://${item.htmlFile}`, { waitUntil: 'networkidle0' });
 
-        // Wait a bit to ensure everything is rendered
-        await new Promise(resolve => setTimeout(resolve, 1000));
+        // Ensure images are fully loaded before screenshot
+        await page.evaluate(async () => {
+            const images = Array.from(document.querySelectorAll('img'));
+            await Promise.all(images.map(img => {
+                if (img.complete) return;
+                return new Promise((resolve) => {
+                    img.onload = resolve;
+                    img.onerror = resolve; // resolve anyway
+                    // Set timeout in case it hangs
+                    setTimeout(resolve, 5000);
+                });
+            }));
+        });
 
-        // 1. Capture high-res PNG for Web
+        // Extra buffer for rendering
+        await new Promise(resolve => setTimeout(resolve, 2000));
+
+        // 1. Web PNG (High Res)
         await page.setViewport({ width: 1920, height: 1080, deviceScaleFactor: 2 });
         await page.screenshot({ path: item.pngFile, type: 'png' });
-        console.log(`Saved Web PNG: ${item.pngFile}`);
 
-        // 2. Capture low-res JPG for Email
+        // 2. Email JPG (Standard Res)
         await page.setViewport({ width: 1920, height: 1080, deviceScaleFactor: 1 });
         await page.screenshot({ path: item.jpgFile, type: 'jpeg', quality: 60 });
-        console.log(`Saved Email JPG: ${item.jpgFile}`);
+
+        console.log(`Saved: ${item.category} (PNG & JPG)`);
     }
 
     await browser.close();
-    console.log('\nAll slides captured successfully.');
 
-    // Generate index.html
     console.log('\nGenerating index.html gallery...');
     const indexTemplateString = fs.readFileSync(indexTemplateFile, 'utf-8');
     const indexContent = ejs.render(indexTemplateString, { slides: slidesForIndex });
-    const indexOutFile = path.join(distDir, 'index.html');
-    fs.writeFileSync(indexOutFile, indexContent, 'utf-8');
-    console.log(`Saved index.html to ${indexOutFile}`);
+    fs.writeFileSync(path.join(distDir, 'index.html'), indexContent, 'utf-8');
+
+    console.log('Process completed.');
     process.exit(0);
 }
 
