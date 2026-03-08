@@ -1,0 +1,25 @@
+{
+  "name": "ice-break",
+  "version": "1.0.0",
+  "description": "",
+  "main": "checkUrls.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "@google/generative-ai": "^0.24.1",
+    "axios": "^1.13.6",
+    "dotenv": "^17.3.1",
+    "ejs": "^5.0.1",
+    "nodemailer": "^8.0.1",
+    "puppeteer": "^24.38.0",
+    "rss-parser": "^3.13.0"
+  }
+}

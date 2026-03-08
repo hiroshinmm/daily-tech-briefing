@@ -1,0 +1,20 @@
+- [x] Phase 1: 動的ニュース取得と考察ロジック (今すぐ着手)
+  - [x] Node.js プロジェクトの初期化 (`package.json`)
+  - [x] 必要なパッケージ (`rss-parser`, `axios`, `dotenv`, `@google/genai` 等) のインストール
+  - [x] ニュース取得スクリプト (`src/fetchNews.js`) の作成
+    - [x] 各カテゴリーに対応するRSSフィードURLの収集と設定
+    - [x] 過去7日間の記事のフィルタリングロジックの実装
+    - [x] カテゴリーキーワードによる重要記事の抽出
+  - [x] Gemini API連携スクリプト (`src/generateInsights.js`) の作成
+    - [x] 抽出したニュースからGemini APIで考察 (INSIGHT) を生成するプロンプトの設計
+    - [x] API呼び出し処理の実装とエラーハンドリング
+- [x] Phase 2: スライド生成（Puppeteer）とGitHub Pagesの公開
+  - [x] Node.js パッケージの追加 (`puppeteer`)
+  - [x] HTML/CSS スライドテンプレート (`src/templates/slide.html`) の作成
+  - [x] スライドHTML等生成スクリプト (`src/generateSlideHtml.js` -> 統合済み)
+  - [x] 画像保存スクリプト (`src/captureSlides.js`) の作成
+  - [x] ギャラリーページ (`src/index.html` テンプレート) の作成
+  - [x] GitHub Actions ワークフロー (`.github/workflows/daily-icebreak.yml`) の設定
+- [x] Phase 3: 自動プッシュとGmail通知の統合
+  - [x] Nodemailer によるリッチなメール送信 (`src/sendNotification.js`)
+  - [x] GitHub Pages公開URLを含むメール通知連携
