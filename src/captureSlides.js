@@ -58,7 +58,7 @@ async function main() {
         // Use trimmed category name for safer matching
         const trimmedCategory = category.trim();
         const photoId = imageMap[trimmedCategory] || "photo-1451187580459-43490279c0fa"; // fallback tech image
-        const imageUrl = `https://images.unsplash.com/${photoId}?q=80&w=1920&h=1080&auto=format&fit=crop`;
+        const imageUrl = `https://images.unsplash.com/${photoId}?q=80&w=960&h=1080&auto=format&fit=crop`;
 
         const htmlContent = ejs.render(templateString, {
             category: category,
