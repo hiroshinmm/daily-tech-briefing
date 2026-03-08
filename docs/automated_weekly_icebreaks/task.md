@@ -13,8 +13,8 @@
   - [x] HTML/CSS スライドテンプレート (`src/templates/slide.html`) の作成
   - [x] スライドHTML等生成スクリプト (`src/generateSlideHtml.js` -> 統合済み)
   - [x] 画像保存スクリプト (`src/captureSlides.js`) の作成
-  - [x] GitHub Actions ワークフロー (`.github/workflows/daily-icebreak.yml`) の設定とGH Pagesデプロイの廃止
+  - [x] GitHub Actions ワークフロー (`.github/workflows/daily-icebreak.yml`) の設定とGH Pagesへのデプロイ
 - [x] Phase 3: 自動プッシュとGmail通知の統合
   - [x] Nodemailer によるリッチなメール送信 (`src/sendNotification.js`)
-  - [x] スマートフォンでの閲覧に最適化した1カラムUIのレイアウト実装
-  - [x] 生成スライド画像（PNG形式）の自動添付処理
+  - [x] スマートフォンでの閲覧に最適化した1カラムUIのレイアウト実装 (テキストと画像の交互表示)
+  - [x] 生成スライド画像（PNG形式）のインライン埋め込みとWeb拡大リンクの実装

@@ -40,7 +40,13 @@ async function main() {
       <h2 style="color: #1A2980; border-bottom: 2px solid #26D0CE; padding-bottom: 10px; font-size: 20px;">
         🚀 Daily Tech Briefing - ${today}
       </h2>
-      <p style="font-size: 14px; line-height: 1.6;">おはようございます。本日の最新技術トレンドスライドが生成されました。添付画像の各カテゴリ別スライドをご覧いただくか、以下のサマリーをご確認ください。</p>
+      <p style="font-size: 14px; line-height: 1.6;">おはようございます。本日の最新技術トレンドスライドが生成されました。以下のサマリーと画像をご確認ください。</p>
+      
+      <div style="margin: 30px 0; text-align: center;">
+        <a href="${GITHUB_PAGES_URL || '#'}" style="background-color: #4A90E2; color: white; padding: 12px 24px; text-decoration: none; border-radius: 5px; font-weight: bold; font-size: 16px;">
+          Webでスライドを開く
+        </a>
+      </div>
       
       <h3 style="margin-top: 30px; font-size: 18px;">📌 ピックアップトピック概要</h3>
       <div style="display: flex; flex-direction: column; gap: 20px;">
@@ -49,16 +55,25 @@ async function main() {
   for (const [category, insight] of Object.entries(insightsData)) {
     if (!insight) continue;
 
+    const safeName = category.replace(/[^a-z0-9]/gi, '_').toLowerCase();
+    const cid = safeName;
+    const imgWebUrl = GITHUB_PAGES_URL ? `${GITHUB_PAGES_URL}images/${safeName}.png` : '#';
+
     htmlContent += `
-      <div style="border: 1px solid #eee; border-radius: 8px; padding: 15px; background: #fafafa;">
+      <div style="border: 1px solid #eee; border-radius: 8px; padding: 15px; background: #fafafa; margin-bottom: 20px;">
         <div style="margin-bottom: 8px;">
           <strong style="color: #4A90E2; font-size: 14px;">${category}</strong>
         </div>
         <div style="margin-bottom: 8px;">
           <strong style="font-size: 16px;">${insight.title}</strong>
         </div>
-        <div style="font-size: 13px; color: #555; line-height: 1.5; margin-bottom: 10px;">
+        <div style="font-size: 13px; color: #555; line-height: 1.5; margin-bottom: 15px;">
           ${insight.summary}
+        </div>
+        <div style="margin-bottom: 15px; text-align: center;">
+          <a href="${imgWebUrl}" target="_blank" style="display: inline-block;">
+            <img src="cid:${cid}" alt="${insight.title}" style="width: 100%; max-width: 600px; height: auto; border-radius: 4px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);" />
+          </a>
         </div>
         <div>
           <a href="${insight.sourceUrl}" style="font-size: 12px; color: #999; text-decoration: none; display: inline-block;">[Source: ${insight.sourceName}]</a>
