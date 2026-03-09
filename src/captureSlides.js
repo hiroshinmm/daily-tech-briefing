@@ -78,7 +78,8 @@ async function main() {
 
     for (const item of filesToCapture) {
         console.log(`Capturing: ${item.category}`);
-        await page.goto(`file://${item.htmlFile}`, { waitUntil: 'networkidle0' });
+        // Increased timeout (90s) to allow for AI image generation which can be slow.
+        await page.goto(`file://${item.htmlFile}`, { waitUntil: 'load', timeout: 90000 });
 
         // Ensure images are fully loaded before screenshot
         await page.evaluate(async () => {
