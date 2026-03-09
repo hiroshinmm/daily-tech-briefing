@@ -39,22 +39,29 @@ async function main() {
         const pngFileFull = path.join(imageOutDir, pngFileName);
         const jpgFileFull = path.join(imageOutDir, jpgFileName);
 
-        // Dynamic Keyword Search Strategy (v3 - High Relevance)
-        // Focus on maximum uniqueness to the specific news topic.
-        let keywords = category;
+        // Dynamic Keyword Search Strategy (v4 - Stability & Variety)
+        // Clean up keywords, limit to top 3 for better matching, and add random seed.
+        let rawKeywords = category;
         if (insight.imageKeywords) {
-            keywords = insight.imageKeywords;
+            rawKeywords = insight.imageKeywords;
         } else if (insight.imagePrompt) {
-            keywords = insight.imagePrompt;
+            rawKeywords = insight.imagePrompt;
         }
 
-        // Convert the string into tags by replacing spaces/delimiters with commas
-        const queryTags = keywords.replace(/[\s\-_]+/g, ',').replace(/[^a-z0-9,]/gi, '').toLowerCase();
+        // Split by comma or space/dot, filter out empty/short words, and take top 3
+        const tagList = rawKeywords
+            .split(/[,\s.]+/)
+            .map(t => t.replace(/[^a-z0-9]/gi, '').toLowerCase())
+            .filter(t => t.length > 2)
+            .slice(0, 3);
 
-        // Use LoremFlickr with all tags for better uniqueness
-        const imageUrl = `https://loremflickr.com/1920/1080/${encodeURIComponent(queryTags)}/all`;
+        const queryTags = tagList.join(',');
 
-        console.log(`[DEBUG] Category: "${category}" -> Tags: "${queryTags}"`);
+        // Use LoremFlickr without /all (too restrictive) and add a random lock to prevent identical images
+        const randomLock = Math.floor(Math.random() * 1000000);
+        const imageUrl = `https://loremflickr.com/1920/1080/${encodeURIComponent(queryTags)}?lock=${randomLock}`;
+
+        console.log(`[DEBUG] Category: "${category}" -> Search Tags: "${queryTags}" -> URL: ${imageUrl}`);
 
         const htmlContent = ejs.render(templateString, {
             category: category,
