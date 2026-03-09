@@ -204,7 +204,7 @@
 
     <header>
         <h1>Daily Tech Briefing</h1>
-        <p>Latest summaries from <%= new Date().toLocaleDateString('ja-JP') %>
+        <p>Latest summaries from <%= new Date().toLocaleDateString('ja-JP', { timeZone: 'Asia/Tokyo' }) %>
         </p>
     </header>
 

@@ -27,3 +27,6 @@
   - [x] 記事要約（Summary）の生成文字数を約150文字へ調整 (`src/generateInsights.js`)
   - [x] 全Web/スライドテンプレートの「Weekly」から「Daily」への統合変更
   - [x] Unsplash画像取得プロセスの静的マッピングによる安定化 (`src/captureSlides.js`)
+- [x] 他プロジェクトとの比較調査
+  - [x] HighYield/weekly-icebreak-email との比較
+

@@ -34,7 +34,11 @@ async function main() {
   }
 
   // Build Email Content
-  const today = new Date().toLocaleDateString('ja-JP', { month: 'short', day: 'numeric' });
+  const today = new Date().toLocaleDateString('ja-JP', {
+    timeZone: 'Asia/Tokyo',
+    month: 'short',
+    day: 'numeric'
+  });
   let htmlContent = `
     <div style="font-family: Arial, sans-serif; color: #333; max-width: 800px; margin: 0 auto; padding: 10px;">
       <h2 style="color: #1A2980; border-bottom: 2px solid #26D0CE; padding-bottom: 10px; font-size: 20px;">
