@@ -39,15 +39,16 @@ async function main() {
         const pngFileFull = path.join(imageOutDir, pngFileName);
         const jpgFileFull = path.join(imageOutDir, jpgFileName);
 
-        // AI Image Generation Strategy (Pollinations.ai)
-        // Use the detailed imagePrompt from Gemini to generate a unique visual.
-        const seed = Math.floor(Math.random() * 1000000);
-        let prompt = insight.imagePrompt || `A futuristic technology concept related to ${category}, cinematic lighting, high quality`;
-
-        // Build Pollinations.ai URL (1024x1024 is optimal for consistency and slide layout)
-        const imageUrl = `https://image.pollinations.ai/prompt/${encodeURIComponent(prompt)}?width=1024&height=1024&nologo=true&seed=${seed}`;
-
-        console.log(`[DEBUG] Category: "${category}" -> Generating AI Image with prompt: "${prompt.substring(0, 50)}..."`);
+        // Image Selection Logic: Prioritize original image from news site, fallback to AI generation.
+        let imageUrl = insight.originalImageUrl;
+        if (imageUrl) {
+            console.log(`[INFO] Category: "${category}" -> Original image found. Using: "${imageUrl.substring(0, 60)}..."`);
+        } else {
+            const seed = Math.floor(Math.random() * 1000000);
+            let prompt = insight.imagePrompt || `A futuristic technology concept related to ${category}, cinematic lighting, high quality`;
+            imageUrl = `https://image.pollinations.ai/prompt/${encodeURIComponent(prompt)}?width=1024&height=1024&nologo=true&seed=${seed}`;
+            console.log(`[INFO] Category: "${category}" -> No original image found. Generating AI Image with prompt: "${prompt.substring(0, 50)}..."`);
+        }
 
         const htmlContent = ejs.render(templateString, {
             category: category,

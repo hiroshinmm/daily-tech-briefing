@@ -7,6 +7,13 @@ const parser = new Parser({
     headers: {
         'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36',
         'Accept': 'application/rss+xml, application/rdf+xml;q=0.8, application/xml;q=0.6, text/xml;q=0.6, */*;q=0.1'
+    },
+    customFields: {
+        item: [
+            ['media:content', 'mediaContent', { keepArray: true }],
+            ['media:thumbnail', 'mediaThumbnail'],
+            ['image', 'image']
+        ]
     }
 });
 
@@ -24,13 +31,28 @@ async function fetchCategoryNews(urls, days) {
         try {
             const feed = await parser.parseURL(url);
             const recentItems = feed.items.filter(item => isRecent(item.isoDate || item.pubDate, days));
-            allItems.push(...recentItems.map(item => ({
-                title: item.title,
-                link: item.link,
-                pubDate: item.isoDate || item.pubDate,
-                source: feed.title || new URL(url).hostname,
-                snippet: item.contentSnippet || item.content || ''
-            })));
+            allItems.push(...recentItems.map(item => {
+                // Try to extract image URL
+                let imageUrl = null;
+                if (item.enclosure && item.enclosure.url) {
+                    imageUrl = item.enclosure.url;
+                } else if (item.mediaContent && item.mediaContent[0] && item.mediaContent[0].$) {
+                    imageUrl = item.mediaContent[0].$.url;
+                } else if (item.mediaThumbnail && item.mediaThumbnail.$) {
+                    imageUrl = item.mediaThumbnail.$.url;
+                } else if (item.image) {
+                    imageUrl = typeof item.image === 'string' ? item.image : (item.image.url || null);
+                }
+
+                return {
+                    title: item.title,
+                    link: item.link,
+                    pubDate: item.isoDate || item.pubDate,
+                    source: feed.title || new URL(url).hostname,
+                    imageUrl: imageUrl,
+                    snippet: item.contentSnippet || item.content || ''
+                };
+            }));
         } catch (error) {
             console.error(`Error fetching ${url}:`, error.message);
             // Skip this feed and continue parsing others

@@ -71,6 +71,13 @@ ${newsText}
 
             // The response is expected to be a valid JSON string because of responseMimeType
             const parsed = JSON.parse(jsonText);
+
+            // Add originalImageUrl if available from the source news item
+            const pickedItem = items.find(item => item.link === parsed.sourceUrl);
+            if (pickedItem && pickedItem.imageUrl) {
+                parsed.originalImageUrl = pickedItem.imageUrl;
+            }
+
             insights[category] = parsed;
             console.log(`Success: ${parsed.title}`);
         } catch (error) {
