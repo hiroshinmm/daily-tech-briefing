@@ -39,15 +39,15 @@ async function main() {
         const pngFileFull = path.join(imageOutDir, pngFileName);
         const jpgFileFull = path.join(imageOutDir, jpgFileName);
 
-        // Image Selection Logic: Prioritize original image from news site, fallback to AI generation.
+        // Image Selection Logic: Prioritize original image from news site, fallback to local default icon.
         let imageUrl = insight.originalImageUrl;
         if (imageUrl) {
             console.log(`[INFO] Category: "${category}" -> Original image found. Using: "${imageUrl.substring(0, 60)}..."`);
         } else {
-            const seed = Math.floor(Math.random() * 1000000);
-            let prompt = insight.imagePrompt || `A futuristic technology concept related to ${category}, cinematic lighting, high quality`;
-            imageUrl = `https://image.pollinations.ai/prompt/${encodeURIComponent(prompt)}?width=1024&height=1024&nologo=true&seed=${seed}`;
-            console.log(`[INFO] Category: "${category}" -> No original image found. Generating AI Image with prompt: "${prompt.substring(0, 50)}..."`);
+            // Using the user-selected default icon (Sample 1)
+            const defaultIconPath = path.resolve(__dirname, 'assets', 'default_news.png');
+            imageUrl = `file://${defaultIconPath}`;
+            console.log(`[INFO] Category: "${category}" -> No original image. Using local default icon.`);
         }
 
         const htmlContent = ejs.render(templateString, {
@@ -79,8 +79,8 @@ async function main() {
 
     for (const item of filesToCapture) {
         console.log(`Capturing: ${item.category}`);
-        // Increased timeout (90s) to allow for AI image generation which can be slow.
-        await page.goto(`file://${item.htmlFile}`, { waitUntil: 'load', timeout: 90000 });
+        // Reset timeout to 30s as we use existing images
+        await page.goto(`file://${item.htmlFile}`, { waitUntil: 'networkidle2', timeout: 30000 });
 
         // Ensure images are fully loaded before screenshot
         await page.evaluate(async () => {
@@ -90,14 +90,10 @@ async function main() {
                 return new Promise((resolve) => {
                     img.onload = resolve;
                     img.onerror = resolve; // resolve anyway
-                    // Set timeout in case it hangs
-                    setTimeout(resolve, 10000); // Increased timeout for AI generation
+                    setTimeout(resolve, 5000); // 5s wait is enough for local/pre-fetched images
                 });
             }));
         });
-
-        // Extra buffer for AI image rendering
-        await new Promise(resolve => setTimeout(resolve, 3000));
 
         // 1. Web PNG (High Res)
         await page.setViewport({ width: 1920, height: 1080, deviceScaleFactor: 2 });
