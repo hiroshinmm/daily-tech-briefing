@@ -1,22 +1,25 @@
-# 実装計画: Google News リンク解決と画像取得の強化
+# 実装計画: Google News リンク解決と画像取得の強化 (修正版)
 
 ## 概要
-ニュースソースが Google News (`news.google.com`) の場合に、リダイレクトリンクを解消して本来の記事 URL を取得し、さらにその記事ページからアイキャッチ画像（`og:image` 等）を抽出するように `fetchNews.js` を改修します。これにより、画像表示のヒット率を向上させます。
+一部の Google News URL（`rss/articles/CBM...` 形式）において、オリジナルの記事 URL および画像（OGP）が取得できない問題を修正します。
+調査の結果、Google News の仕様変更（バイナリ構造の採用）により、従来の単純な Base64 デコードでは対応できないことが判明したため、ロジックを強化します。
 
-## 変更内容
+## 修正内容
 
-### 1. `src/fetchNews.js` の改修
-以下を新機能として追加します：
-- **`decodeGoogleNewsUrl(url)`**: Google News のエンコードされた URL をオフラインでデコード（Base64）。
-- **`resolveUrlOnline(url)`**: `fetch` を使用してリダイレクト先（Meta Refresh 等）を追跡し、最終的な URL を取得。
-- **`fetchOgImage(url)`**: 解決したターゲット URL の HTML を取得し、`og:image` や `twitter:image` メタタグから画像 URL を抽出。
+### 1. `fetchNews.js` の改善
+- **`decodeGoogleNewsUrl` の強化**: 
+  - Base64 デコード後のデータを `latin1` (binary) として扱い、その中から `http` プレフィックスを検索する「バイナリ・ブルートフォース抽出」を導入します。
+  - これにより、Protobuf 形式でラップされた URL も抽出可能になります。
+- **`resolveUrlOnline` の強化**:
+  - HTML ボディ内から `data-n-au` および `data-p` 属性を検索するロジックを追加します。これらは最新の Google News でリダイレクト先を保持するために使用されています。
+  - User-Agent をよりモバイル向け（iPhone等）に変更し、シンプルなリダイレクトページが返されやすくします。
 
-### 2. 処理フローの更新
-`fetchCategoryNews` 関数内のループを以下のように修正します：
-1. RSS アイテムのリンクが `news.google.com` の場合、デコードおよびオンライン解決を試みる。
-2. RSS 自体に `media:content` 等の画像が含まれていない場合、解決したリンク先に対して `fetchOgImage` を実行する。
-3. 取得した `imageUrl` と `link` を `news.json` に保存する。
+### 2. 検証用スクリプトによる動作確認
+- 問題のあった3つの URL に対して、修正後のロジックが正しく記事 URL と画像を抽出できるか確認します。
 
-## 検証プラン
-- GitHub Actions を手動実行し、`Google News` 由来の記事で `imageUrl` が正しく補完されているかログを確認。
-- `data/news.json` を開き、リンクがリダイレクト後のものになっていること、画像 URL が設定されていることを確認。
+## 期待される効果
+- Google News 経由のニュースでも、高確率でオリジナルのアイキャッチ画像（OGP）が表示されるようになります。
+- デフォルトアイコン（新聞アイコン）へのフォールバックを最小限に抑えます。
+
+## 自動テスト
+- `node /tmp/debug_final.js` を作成して実行し、提供された URL の解決を確認します。
