@@ -17,6 +17,14 @@ const parser = new Parser({
     }
 });
 
+const isRecent = (dateStr, days) => {
+    if (!dateStr) return false;
+    const pubDate = new Date(dateStr);
+    const cutoff = new Date();
+    cutoff.setDate(cutoff.getDate() - days);
+    return pubDate >= cutoff;
+};
+
 /**
  * Google NewsのリンクからオリジナルのURLを抽出する（Base64デコード）
  */
