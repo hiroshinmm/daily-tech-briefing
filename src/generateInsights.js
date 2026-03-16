@@ -168,7 +168,8 @@ async function fetchOgImage(url, browser) {
                     imgUrl = urlObj.origin + imgUrl;
                 } else if (!imgUrl.startsWith('http')) {
                     const urlObj = new URL(url);
-                    imgUrl = urlObj.origin + (urlObj.pathname.endsWith('/') ? urlObj.pathname : path.dirname(urlObj.pathname) + '/') + imgUrl;
+                    const basePath = urlObj.pathname.endsWith('/') ? urlObj.pathname : urlObj.pathname.substring(0, urlObj.pathname.lastIndexOf('/') + 1);
+                    imgUrl = urlObj.origin + basePath + imgUrl;
                 }
                 return imgUrl;
             }
@@ -281,10 +282,13 @@ ${newsText}
                     parsed.sourceUrl = resolved;
                 }
 
-                // 画像がない、またはリンクが解決された場合はOGP取得を試みる（Puppeteerで取れなかった場合のみ、または解決済みリンクに対して）
-                if (!pickedItem.imageUrl && !pickedItem.link.includes('google.com')) {
-                    console.log(`Fetching OG image for: ${pickedItem.link.substring(0, 50)}...`);
-                    pickedItem.imageUrl = await fetchOgImage(pickedItem.link, browser);
+                // 選ばれた1件については、RSSのサムネイル等がある場合でも、より高品質な画像を求めて再取得を試みる
+                if (!pickedItem.link.includes('google.com')) {
+                    console.log(`Ensuring high quality OGP image for: ${pickedItem.link.substring(0, 50)}...`);
+                    const ogImage = await fetchOgImage(pickedItem.link, browser);
+                    if (ogImage) {
+                        pickedItem.imageUrl = ogImage;
+                    }
                 }
 
                 if (pickedItem.imageUrl) {

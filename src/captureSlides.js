@@ -95,7 +95,7 @@ async function main() {
                 return new Promise((resolve) => {
                     img.onload = resolve;
                     img.onerror = resolve; // resolve anyway
-                    setTimeout(resolve, 5000); // 5s wait is enough for local/pre-fetched images
+                    setTimeout(resolve, 10000); // Increased from 5s to 10s for better reliability with slow servers
                 });
             }));
         });
