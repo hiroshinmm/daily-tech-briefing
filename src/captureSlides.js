@@ -4,6 +4,44 @@ const fs = require('fs');
 const path = require('path');
 const config = require('./config');
 
+/**
+ * 画像URLからファイルをダウンロードして指定パスに保存する
+ * CDNのホットリンク保護を回避するため、記事URLをRefererとして送信する
+ * @returns {string|null} 保存したファイルの拡張子 (例: '.jpg'), 失敗時 null
+ */
+async function downloadImageToFile(imageUrl, articleUrl, destPath) {
+    if (!imageUrl) return null;
+    const UA = 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36';
+    try {
+        const res = await fetch(imageUrl, {
+            headers: {
+                'User-Agent': UA,
+                'Referer': articleUrl || imageUrl,
+                'Accept': 'image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8'
+            },
+            signal: AbortSignal.timeout(15000)
+        });
+        if (!res.ok) {
+            console.log(`[Image DL] Failed (${res.status}): ${imageUrl.substring(0, 60)}`);
+            return null;
+        }
+        const contentType = res.headers.get('content-type') || '';
+        if (!contentType.startsWith('image/')) {
+            console.log(`[Image DL] Non-image content-type (${contentType}): ${imageUrl.substring(0, 60)}`);
+            return null;
+        }
+        const buffer = await res.arrayBuffer();
+        fs.writeFileSync(destPath, Buffer.from(buffer));
+        const size = Math.round(buffer.byteLength / 1024);
+        console.log(`[Image DL] Saved ${size}KB -> ${path.basename(destPath)}`);
+        return destPath;
+    } catch (e) {
+        console.log(`[Image DL] Error: ${e.message}`);
+        return null;
+    }
+}
+
+
 async function main() {
     const dataDir = path.join(__dirname, '..', 'data');
     const insightsFile = path.join(dataDir, 'insights.json');
@@ -39,15 +77,32 @@ async function main() {
         const pngFileFull = path.join(imageOutDir, pngFileName);
         const jpgFileFull = path.join(imageOutDir, jpgFileName);
 
-        // Image Selection Logic: Prioritize base64 data URL if available (bypasses CDN hotlink protection),
-        // then original URL, finally fallback to local default icon.
-        let imageUrl = insight.originalImageDataUrl || insight.originalImageUrl;
+        // 画像選択ロジック:
+        // 1. originalImageUrl を Referer 付きでダウンロードして一時ファイルに保存 (CDNホットリンク対策)
+        // 2. ダウンロード失敗 → 外部 URL をそのまま使用
+        // 3. 画像なし → デフォルトアイコン
+        let imageUrl = null;
         let isDefaultImage = false;
-        if (imageUrl) {
-            const label = insight.originalImageDataUrl ? 'base64 data URL' : insight.originalImageUrl.substring(0, 60);
-            console.log(`[INFO] Category: "${category}" -> Image: "${label}"`);
-        } else {
-            // Using the user-selected default icon
+
+        if (insight.originalImageUrl) {
+            const cachedImagePath = path.join(htmlOutDir, `${safeName}_image`);
+            const saved = await downloadImageToFile(
+                insight.originalImageUrl,
+                insight.originalImageArticleUrl || insight.sourceUrl,
+                cachedImagePath
+            );
+            if (saved) {
+                // file:// パスでローカルファイルを参照 (外部リクエスト不要)
+                imageUrl = `file://${cachedImagePath}`;
+                console.log(`[INFO] Category: "${category}" -> Cached image: ${safeName}_image`);
+            } else {
+                // ダウンロード失敗なら外部 URL をフォールバック
+                imageUrl = insight.originalImageUrl;
+                console.log(`[INFO] Category: "${category}" -> Using remote URL: ${insight.originalImageUrl.substring(0, 60)}`);
+            }
+        }
+
+        if (!imageUrl) {
             const defaultIconPath = path.resolve(__dirname, 'assets', 'default_news.png');
             imageUrl = `file://${defaultIconPath}`;
             isDefaultImage = true;
