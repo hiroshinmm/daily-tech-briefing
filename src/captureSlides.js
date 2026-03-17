@@ -39,11 +39,13 @@ async function main() {
         const pngFileFull = path.join(imageOutDir, pngFileName);
         const jpgFileFull = path.join(imageOutDir, jpgFileName);
 
-        // Image Selection Logic: Prioritize original image from news site, fallback to local default icon.
-        let imageUrl = insight.originalImageUrl;
+        // Image Selection Logic: Prioritize base64 data URL if available (bypasses CDN hotlink protection),
+        // then original URL, finally fallback to local default icon.
+        let imageUrl = insight.originalImageDataUrl || insight.originalImageUrl;
         let isDefaultImage = false;
         if (imageUrl) {
-            console.log(`[INFO] Category: "${category}" -> Original image found. Using: "${imageUrl.substring(0, 60)}..."`);
+            const label = insight.originalImageDataUrl ? 'base64 data URL' : insight.originalImageUrl.substring(0, 60);
+            console.log(`[INFO] Category: "${category}" -> Image: "${label}"`);
         } else {
             // Using the user-selected default icon
             const defaultIconPath = path.resolve(__dirname, 'assets', 'default_news.png');

@@ -222,6 +222,42 @@ async function fetchOgImage(url, browser) {
     return null;
 }
 
+/**
+ * 画像URLからサーバーサイドで画像をダウンロードし、base64 Data URL に変換する
+ * CDNのホットリンク保護を回避するため、記事URLをRefererとして送信する
+ */
+async function downloadImageAsDataUrl(imageUrl, articleUrl) {
+    if (!imageUrl || imageUrl.startsWith('data:')) return imageUrl; // 既にdata URIなら変換不要
+    try {
+        const res = await fetch(imageUrl, {
+            headers: {
+                'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
+                'Referer': articleUrl || imageUrl, // 記事URLをRefererに設定してホットリンク制限を回避
+                'Accept': 'image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8'
+            },
+            signal: AbortSignal.timeout(15000)
+        });
+        if (!res.ok) {
+            console.log(`[Image DL] Failed (${res.status}): ${imageUrl.substring(0, 60)}`);
+            return null;
+        }
+        const contentType = res.headers.get('content-type') || 'image/jpeg';
+        // 画像以外のレスポンス（HTMLエラーページ等）は無視
+        if (!contentType.startsWith('image/')) {
+            console.log(`[Image DL] Non-image content-type (${contentType}): ${imageUrl.substring(0, 60)}`);
+            return null;
+        }
+        const buffer = await res.arrayBuffer();
+        const base64 = Buffer.from(buffer).toString('base64');
+        const mimeType = contentType.split(';')[0].trim();
+        console.log(`[Image DL] OK (${mimeType}, ${Math.round(buffer.byteLength / 1024)}KB): ${imageUrl.substring(0, 60)}`);
+        return `data:${mimeType};base64,${base64}`;
+    } catch (e) {
+        console.log(`[Image DL] Error: ${e.message}`);
+        return null;
+    }
+}
+
 async function main() {
     if (!config.GEMINI_API_KEY) {
         console.error('Error: GEMINI_API_KEY is not set in .env');
@@ -327,8 +363,16 @@ ${newsText}
                 }
 
                 if (pickedItem.imageUrl) {
-                    console.log(`Setting final image URL: ${pickedItem.imageUrl}`);
+                    console.log(`Setting final image URL: ${pickedItem.imageUrl.substring(0, 60)}`);
                     parsed.originalImageUrl = pickedItem.imageUrl;
+                    // CDNのホットリンク制限を回避するため、サーバーサイドで画像をダウンロードしてbase64に変換
+                    const dataUrl = await downloadImageAsDataUrl(pickedItem.imageUrl, pickedItem.link);
+                    if (dataUrl) {
+                        parsed.originalImageDataUrl = dataUrl;
+                        console.log(`[Image DL] Stored as base64 data URL.`);
+                    } else {
+                        console.log(`[Image DL] Fallback: will use remote URL directly.`);
+                    }
                 } else {
                     console.log(`No image found for ${category}. Will use default icon.`);
                 }
