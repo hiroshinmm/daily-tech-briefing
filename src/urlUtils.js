@@ -46,36 +46,60 @@ async function resolveUrlOnline(googleUrl) {
                 .replace('/rss/articles/', '/articles/')
                 .replace(/\?.*$/, '');
             try {
+                // 詳細なヘッダーを使用してリダイレクトを追跡
                 const res = await fetch(articlesUrl, {
                     method: 'GET',
-                    headers: { 'User-Agent': userAgent },
+                    headers: {
+                        'User-Agent': userAgent,
+                        'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7',
+                        'Accept-Language': 'ja,en-US;q=0.9,en;q=0.8',
+                        'Referer': 'https://news.google.com/',
+                        'Cache-Control': 'max-age=0'
+                    },
                     redirect: 'follow',
                     signal: AbortSignal.timeout(10000)
                 });
+
+                // Google Sorry ページ（CAPTCHA）に飛ばされた場合は元のURLを返す
+                if (res.url && (res.url.includes('google.com/sorry') || res.url.includes('consent.google.com'))) {
+                    console.warn(`Redirected to Google Sorry/Consent page for: ${googleUrl}`);
+                    return googleUrl;
+                }
+
                 if (res.url && !res.url.includes('google.com')) {
                     return res.url;
                 }
             } catch (_) { /* fallthrough to legacy method */ }
         }
 
-        // 旧フォーマット (CBM) および /articles/ では解決できなかった場合の従来方式
-        const response = await fetch(googleUrl, {
-            method: 'GET',
-            headers: { 'User-Agent': userAgent },
-            signal: AbortSignal.timeout(10000)
-        });
-        const text = await response.text();
+        // 旧フォーマット (CBM) および /articles/ では解決できなかった、または Sorry ページを回避した場合の従来方式
+        try {
+            const response = await fetch(googleUrl, {
+                method: 'GET',
+                headers: { 'User-Agent': userAgent },
+                redirect: 'follow',
+                signal: AbortSignal.timeout(10000)
+            });
 
-        const nauMatch = text.match(/data-n-au="([^"]+)"/);
-        if (nauMatch) return nauMatch[1];
+            // リダイレクト先が Sorry ページなら元のURLを返す
+            if (response.url && (response.url.includes('google.com/sorry') || response.url.includes('consent.google.com'))) {
+                return googleUrl;
+            }
 
-        const pMatch = text.match(/data-p="([^"]+)"/);
-        if (pMatch && pMatch[1].startsWith('http')) return pMatch[1];
+            const text = await response.text();
+            const nauMatch = text.match(/data-n-au="([^"]+)"/);
+            if (nauMatch) return nauMatch[1];
 
-        const refreshMatch = text.match(/url=(http[^"]+)"/i);
-        if (refreshMatch) return refreshMatch[1];
+            const pMatch = text.match(/data-p="([^"]+)"/);
+            if (pMatch && pMatch[1].startsWith('http')) return pMatch[1];
 
-        if (response.url && !response.url.includes('google.com')) return response.url;
+            const refreshMatch = text.match(/url=(http[^"]+)"/i);
+            if (refreshMatch) return refreshMatch[1];
+
+            if (response.url && !response.url.includes('google.com')) return response.url;
+        } catch (e) {
+            // Ignore
+        }
         return googleUrl;
     } catch (e) {
         return googleUrl;

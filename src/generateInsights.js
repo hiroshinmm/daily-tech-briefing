@@ -286,7 +286,7 @@ If the news is not directly relevant to displays, cameras, XR, or technology, tr
 Output a valid JSON object with the following structure:
 {
   "title": "A catchy, short title for the slide (Japanese, max 40 chars)",
-  "summary": "A summary of the news (Japanese, around 150 characters, capturing the main points clearly)",
+  "summary": "A summary of the news (Japanese, around 200 characters, capturing the main points clearly)",
   "insight": "A deep insight 'INSIGHT' tailored for display software engineers. Why does this matter? What is the technical implication? (Japanese, 3-4 sentences)",
   "sourceUrl": "The exact URL of the picked article from the provided list",
   "sourceName": "The name of the source (e.g. 4Gamer, The Verge)"
@@ -322,8 +322,14 @@ ${newsText}
                             pickedItem.imageUrl = result.detectedImageUrl;
                         }
                     }
-                    pickedItem.link = resolved;
-                    parsed.sourceUrl = resolved;
+                    
+                    // sorry ページや Consent ページが返された場合は、元の Google News リンクのままで耐える
+                    if (resolved && !resolved.includes('google.com/sorry') && !resolved.includes('consent.google.com')) {
+                        pickedItem.link = resolved;
+                        parsed.sourceUrl = resolved;
+                    } else {
+                        console.warn(`Resolution failed or returned sorry page for ${category}. Keeping original link.`);
+                    }
                 }
 
                 // 選ばれた1件については、RSSのサムネイル等がある場合でも、より高品質な画像を求めて再取得を試みる

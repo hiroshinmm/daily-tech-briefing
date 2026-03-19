@@ -23,7 +23,7 @@
 
 ### 2.2 AI分析・画像抽出 (`src/generateInsights.js`)
 - **LLM**: Google Gemini API (`gemini-3.1-flash-lite-preview`)
-    - 役割: 各カテゴリから1件を厳選、150文字要約、技術的インサイトの生成。
+    - 役割: 各カテゴリから1件を厳選、200文字要約、技術的インサイトの生成。
 - **リンク解決**: Google Newsの短縮・リダイレクトURLを `urlUtils.js` または Puppeteer でデコードし、オリジナルの記事URLを特定。
 - **画像抽出**: 
     - `fetch` による OGP (og:image) および Twitter Card 取得。
@@ -66,7 +66,7 @@
 {
   "AI": {
     "title": "スライド見出し",
-    "summary": "150文字要約",
+    "summary": "200文字要約",
     "insight": "技術的考察",
     "sourceUrl": "元記事リンク",
     "sourceName": "メディア名",
@@ -93,4 +93,4 @@
 - **セキュリティ**: APIキーやパスワードは GitHub Secrets で管理。
 
 ---
-*最終更新日: 2026年3月17日*
+*最終更新日: 2026年3月19日*
