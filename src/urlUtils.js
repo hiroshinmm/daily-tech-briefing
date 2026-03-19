@@ -37,55 +37,63 @@ function decodeGoogleNewsUrl(encodedUrl) {
  * ※ タイムアウト 10 秒でハング防止
  */
 async function resolveUrlOnline(googleUrl) {
-    // iPhoneのUser-Agentを使用してモバイル版を要求（検知を回避しやすい）
-    const userAgent = 'Mozilla/5.0 (iPhone; CPU iPhone OS 16_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.6 Mobile/15E148 Safari/604.1';
+    // 複数の User-Agent を試行してレート制限を回避しやすくする
+    const commonUAs = [
+        'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
+        'Mozilla/5.0 (iPhone; CPU iPhone OS 16_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.6 Mobile/15E148 Safari/604.1'
+    ];
+    
+    // 最初はデスクトップ UA で試す（成功率が高い場合がある）
+    const userAgent = commonUAs[0];
+    
     try {
-        // CBMi 新フォーマット: /articles/ エンドポイントへのリダイレクト追跡
-        // fetch の redirect: 'follow' で最終URLを取得する
         if (googleUrl.includes('/rss/articles/')) {
             const articlesUrl = googleUrl
                 .replace('/rss/articles/', '/articles/')
                 .replace(/\?.*$/, '');
             try {
-                // 詳細なヘッダーを使用してリダイレクトを追跡
                 const res = await fetch(articlesUrl, {
                     method: 'GET',
                     headers: {
                         'User-Agent': userAgent,
-                        'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7',
+                        'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8',
                         'Accept-Language': 'ja,en-US;q=0.9,en;q=0.8',
                         'Referer': 'https://news.google.com/',
-                        'Cache-Control': 'max-age=0'
+                        'DNT': '1',
+                        'Connection': 'keep-alive',
+                        'Upgrade-Insecure-Requests': '1'
                     },
                     redirect: 'follow',
                     signal: AbortSignal.timeout(10000)
                 });
 
-                // Google Sorry ページ（CAPTCHA）に飛ばされた場合は元のURLを返す
                 if (res.url && (res.url.includes('google.com/sorry') || res.url.includes('consent.google.com'))) {
-                    console.warn(`Redirected to Google Sorry/Consent page for: ${googleUrl}`);
-                    return googleUrl;
+                    // モバイル UA で再試行
+                    const res2 = await fetch(articlesUrl, {
+                        method: 'GET',
+                        headers: { 'User-Agent': commonUAs[1], 'Referer': 'https://news.google.com/' },
+                        redirect: 'follow',
+                        signal: AbortSignal.timeout(10000)
+                    });
+                    if (res2.url && !res2.url.includes('google.com')) return res2.url;
                 }
 
                 if (res.url && !res.url.includes('google.com')) {
                     return res.url;
                 }
-            } catch (_) { /* fallthrough to legacy method */ }
+            } catch (_) { /* fallthrough */ }
         }
 
-        // 旧フォーマット (CBM) および /articles/ では解決できなかった、または Sorry ページを回避した場合の従来方式
+        // Legacy/Fallback
         try {
             const response = await fetch(googleUrl, {
                 method: 'GET',
-                headers: { 'User-Agent': userAgent },
+                headers: { 'User-Agent': commonUAs[1], 'Referer': 'https://news.google.com/' },
                 redirect: 'follow',
                 signal: AbortSignal.timeout(10000)
             });
 
-            // リダイレクト先が Sorry ページなら元のURLを返す
-            if (response.url && (response.url.includes('google.com/sorry') || response.url.includes('consent.google.com'))) {
-                return googleUrl;
-            }
+            if (response.url && !response.url.includes('google.com')) return response.url;
 
             const text = await response.text();
             const nauMatch = text.match(/data-n-au="([^"]+)"/);
@@ -93,11 +101,6 @@ async function resolveUrlOnline(googleUrl) {
 
             const pMatch = text.match(/data-p="([^"]+)"/);
             if (pMatch && pMatch[1].startsWith('http')) return pMatch[1];
-
-            const refreshMatch = text.match(/url=(http[^"]+)"/i);
-            if (refreshMatch) return refreshMatch[1];
-
-            if (response.url && !response.url.includes('google.com')) return response.url;
         } catch (e) {
             // Ignore
         }

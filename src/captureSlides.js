@@ -31,20 +31,20 @@ async function resizeImageWithPuppeteer(browser, inputPath, outputPath) {
     let page = null;
     try {
         page = await browser.newPage();
-        const html = `<html><body style="margin:0;padding:0;"><img src="file://${inputPath}" style="width:600px;display:block;"></body></html>`;
+        const html = `<html><body style="margin:0;padding:0;"><img src="file://${inputPath}" style="width:400px;display:block;"></body></html>`;
         await page.setContent(html);
         const imgElement = await page.$('img');
         if (!imgElement) return false;
         
-        await page.setViewport({ width: 600, height: 1200 }); // 十分な高さ
+        await page.setViewport({ width: 400, height: 1200 }); // 十分な高さ
         const rect = await imgElement.boundingBox();
         if (!rect) return false;
 
         await page.screenshot({
             path: outputPath,
-            clip: { x: 0, y: 0, width: 600, height: rect.height },
+            clip: { x: 0, y: 0, width: 400, height: Math.min(rect.height, 800) }, // 極端に長い画像は制限
             type: 'jpeg',
-            quality: 60
+            quality: 50
         });
         return true;
     } catch (e) {
@@ -120,19 +120,36 @@ async function main() {
 
     await browser.close();
 
-    console.log('\nGenerating index.html gallery...');
     const indexTemplateString = fs.readFileSync(indexTemplateFile, 'utf-8');
-    const indexContent = ejs.render(indexTemplateString, { slides: galleryItems });
-    fs.writeFileSync(path.join(distDir, 'index.html'), indexContent, 'utf-8');
+    try {
+        const indexContent = ejs.render(indexTemplateString, { slides: galleryItems });
+        console.log('EJS Render Success');
+        const outputPath = path.join(distDir, 'index.html');
+        fs.writeFileSync(outputPath, indexContent, 'utf-8');
+        console.log('index.html Written Success');
+    } catch (renderError) {
+        console.error('EJS/Write Error:', renderError);
+        throw renderError;
+    }
 
-    // tmpDirのクリーンアップ（任意）
-    try { fs.rmSync(tempDir, { recursive: true, force: true }); } catch(_) {}
+    // tmpDirのクリーンアップ（Windowsのファイルロック対策にリトライ追加）
+    console.log('Cleaning up temp directory...');
+    for (let i = 0; i < 3; i++) {
+        try {
+            if (fs.existsSync(tempDir)) {
+                fs.rmSync(tempDir, { recursive: true, force: true });
+            }
+            break;
+        } catch (_) {
+            await new Promise(r => setTimeout(r, 1000));
+        }
+    }
 
-    console.log('Process completed.');
+    console.log('Process completed successfully.');
     process.exit(0);
 }
 
 main().catch(error => {
-    console.error(error);
+    console.error('CRITICAL ERROR:', error);
     process.exit(1);
 });
