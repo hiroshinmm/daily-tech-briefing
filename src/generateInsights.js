@@ -266,6 +266,7 @@ async function main() {
 
     try {
         for (const [category, items] of Object.entries(newsData)) {
+            if (category !== 'AI') continue; // 一時的に AI カテゴリのみに絞る
             console.log(`\nGenerating insight for category: ${category}`);
 
             if (!items || items.length === 0) {
