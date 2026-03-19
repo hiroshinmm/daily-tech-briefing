@@ -308,6 +308,9 @@ ${newsText}
                     pickedItem = items[0];
                 }
 
+                // RSS等から既に画像URLを持っている場合はそれを保持しておく
+                const rssImageUrl = pickedItem.imageUrl;
+
                 // Google Newsリンクなら解決を試みる
                 if (pickedItem.link.includes('news.google.com')) {
                     console.log(`Resolving picked article link: ${pickedItem.link.substring(0, 50)}...`);
@@ -323,30 +326,35 @@ ${newsText}
                         }
                     }
                     
-                    // sorry ページや Consent ページが返された場合は、元の Google News リンクのままで耐える
+                    // sorry ページが返された場合は元のリンクを維持
                     if (resolved && !resolved.includes('google.com/sorry') && !resolved.includes('consent.google.com')) {
                         pickedItem.link = resolved;
                         parsed.sourceUrl = resolved;
-                    } else {
-                        console.warn(`Resolution failed or returned sorry page for ${category}. Keeping original link.`);
                     }
                 }
 
-                // 選ばれた1件については、RSSのサムネイル等がある場合でも、より高品質な画像を求めて再取得を試みる
-                if (!pickedItem.link.includes('google.com')) {
-                    console.log(`Ensuring high quality OGP image for: ${pickedItem.link.substring(0, 50)}...`);
+                // 選ばれた1件について、解決済みURLから再度高品質な画像を求めて再取得を試みる
+                // ただし、既に強力な Puppeteer 側で取得できている場合はスキップ
+                if (!pickedItem.imageUrl && !pickedItem.link.includes('google.com')) {
+                    console.log(`Ensuring high quality OGP image for resolved article: ${pickedItem.link.substring(0, 50)}...`);
                     const ogImage = await fetchOgImage(pickedItem.link, browser);
                     if (ogImage) {
                         pickedItem.imageUrl = ogImage;
                     }
                 }
 
+                // 全ての試行の末、画像が null なら RSS 由来の画像に戻す
+                if (!pickedItem.imageUrl && rssImageUrl) {
+                    pickedItem.imageUrl = rssImageUrl;
+                }
+
                 if (pickedItem.imageUrl) {
                     console.log(`Setting final image URL: ${pickedItem.imageUrl.substring(0, 60)}`);
                     parsed.originalImageUrl = pickedItem.imageUrl;
-                    parsed.originalImageArticleUrl = pickedItem.link; // Referer用に記事URLも保存
+                    parsed.originalImageArticleUrl = pickedItem.link;
                 } else {
                     console.log(`No image found for ${category}. Will use default icon.`);
+                    parsed.originalImageUrl = null;
                 }
 
                 insights[category] = parsed;

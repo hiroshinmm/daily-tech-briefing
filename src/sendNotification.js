@@ -71,12 +71,12 @@ async function main() {
   for (const [category, insight] of Object.entries(insightsData)) {
     if (!insight) continue;
 
-    const safeName = category.replace(/[^a-z0-9]/gi, '_').toLowerCase();
-    const cid = `${safeName}_image`;
-    
     // この記事の画像が添付ファイルにあるか確認
     const hasImage = attachments.some(a => a.cid === cid);
     const displayCid = hasImage ? cid : 'default_icon';
+    const imgStyle = hasImage 
+      ? "width: 100%; max-width: 600px; height: auto; border-radius: 8px; border: 1px solid #f1f5f9; display: block; margin: 0 auto;"
+      : "width: 100%; max-width: 150px; height: auto; border-radius: 8px; border: 1px solid #f1f5f9; display: block; margin: 0 auto; filter: grayscale(100%); opacity: 0.5;";
 
     htmlContent += `
       <div style="border: 1px solid #e2e8f0; border-radius: 12px; padding: 20px; background: #ffffff; margin-bottom: 30px; display: block; overflow: hidden; box-shadow: 0 4px 6px -1px rgba(0,0,0,0.05);">
@@ -91,7 +91,7 @@ async function main() {
         
         <div style="margin-bottom: 20px; text-align: center;">
           <a href="${insight.sourceUrl}" target="_blank" style="display: inline-block; width: 100%;">
-            <img src="cid:${displayCid}" alt="${insight.title}" style="width: 100%; max-width: 600px; height: auto; border-radius: 8px; border: 1px solid #f1f5f9; display: block; margin: 0 auto;" />
+            <img src="cid:${displayCid}" alt="${insight.title}" style="${imgStyle}" />
           </a>
         </div>
 

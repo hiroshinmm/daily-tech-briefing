@@ -57,6 +57,19 @@ async function fetchCategoryNews(urls, days) {
                     imageUrl = typeof item.image === 'string' ? item.image : (item.image.url || null);
                 }
 
+                // Description/Content 内の <img> タグから抽出を試みるフォールバック
+                if (!imageUrl) {
+                    const desc = item.content || item.description || item.contentSnippet || '';
+                    const imgMatch = desc.match(/<img[^>]+src=["']([^"']+)["']/i);
+                    if (imgMatch) {
+                        imageUrl = imgMatch[1];
+                        // Google Newsのピクセル追跡用などの小さい画像を除外
+                        if (imageUrl.includes('resizing.marketwatch.com') || imageUrl.includes('pixel.ads') || (imageUrl.startsWith('http') && imageUrl.length < 20)) {
+                            imageUrl = null;
+                        }
+                    }
+                }
+
                 allItems.push({
                     title: item.title,
                     link: link,

@@ -37,7 +37,8 @@ function decodeGoogleNewsUrl(encodedUrl) {
  * ※ タイムアウト 10 秒でハング防止
  */
 async function resolveUrlOnline(googleUrl) {
-    const userAgent = 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36';
+    // iPhoneのUser-Agentを使用してモバイル版を要求（検知を回避しやすい）
+    const userAgent = 'Mozilla/5.0 (iPhone; CPU iPhone OS 16_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.6 Mobile/15E148 Safari/604.1';
     try {
         // CBMi 新フォーマット: /articles/ エンドポイントへのリダイレクト追跡
         // fetch の redirect: 'follow' で最終URLを取得する
