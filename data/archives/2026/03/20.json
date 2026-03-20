@@ -1,0 +1,102 @@
+{
+  "AI": {
+    "title": "GitHubが解説：リポジトリ内でAIエージェントを協調運用する手法",
+    "summary": "GitHubブログにて、リポジトリ内でAIエージェントをどのように協調させて運用しているかという実践的な手法が公開されました。開発フローにおける自律的なAI活用の先進事例です。",
+    "insight": "複数のAIエージェントをコードベースに統合し、自律的なワークフローを構築する試みはエンジニアにとって今後必須のスキルセットとなります。単一のLLM呼び出しを超え、エージェント同士の協調（オーケストレーション）とリポジトリのコンテキスト管理が開発効率化の鍵を握るでしょう。",
+    "sourceUrl": "https://github.blog/ai-and-ml/github-copilot/how-squad-runs-coordinated-ai-agents-inside-your-repository/",
+    "sourceName": "The GitHub Blog",
+    "originalImageUrl": "https://github.blog/wp-content/uploads/2026/01/generic-github-copilot-commit-logo.png",
+    "originalImageArticleUrl": "https://github.blog/ai-and-ml/github-copilot/how-squad-runs-coordinated-ai-agents-inside-your-repository/",
+    "displayDate": "2026-03-20"
+  },
+  "Gaming Monitor": {
+    "title": "MSI、4K/144HzとFHD/288Hzを切り替え可能なゲーミングモニター発売",
+    "summary": "MSIは、1枚のモニターで高解像度の4K/144Hzモードと、高リフレッシュレートのフルHD/288Hzモードを切り替え可能な「MAG 275UPD E14」を日本国内で発売しました。用途に合わせて画質と速度を最適化できるデュアルモード機能が特徴です。",
+    "insight": "1台のハードウェアをソフトウェア制御で異なる解像度・リフレッシュレート特性に最適化するアプローチは、限られたデスクトップ環境での生産性向上に貢献します。エンジニアの観点では、OSレベルでのディスプレイ設定の切り替えや、ドライバ側の描画処理の最適化がどのように行われているのか非常に興味深い技術トピックです。",
+    "sourceUrl": "https://saiganak.com/product/msi-mag-275upd-e14/",
+    "sourceName": "Saiga NAK",
+    "originalImageUrl": "https://i0.wp.com/uploads.saigacdn.com/2026/03/msi-mag-275upd-e14-00.jpg?resize=1200,630",
+    "originalImageArticleUrl": "https://saiganak.com/product/msi-mag-275upd-e14/",
+    "displayDate": "2026-03-20"
+  },
+  "SRD / XR": {
+    "title": "VRゲーム『Gorilla Tag』が成長し続ける秘訣とは？",
+    "summary": "GDC 2026で明かされた、大ヒットVRゲーム『Gorilla Tag』の成功要因。特別な機能よりも、超高速な開発サイクルによるユーザーとの対話と継続的な改善が、コミュニティの熱量を維持する鍵であることが語られました。",
+    "insight": "アジャイル開発の真髄をVRのLiveOpsで体現している好事例です。機能の詰め込みよりも、ユーザーのフィードバックを即座に反映するサイクルを高速化することが、メタバース環境におけるエンゲージメント最大化に直結することを証明しています。",
+    "sourceUrl": "https://www.moguravr.com/gdc-2026-session-gorilla-tag/",
+    "sourceName": "Mogura VR",
+    "originalImageUrl": "https://assets.moguravr.com/uploads/2026/03/ae425c265e048507e2d6ec111f0468f9-kix.jqjufvzdjtj7-300x169.webp",
+    "originalImageArticleUrl": "https://www.moguravr.com/gdc-2026-session-gorilla-tag/",
+    "displayDate": "2026-03-20"
+  },
+  "TCL": {
+    "title": "TCLがMicroLEDの低価格化に成功！ディスプレイ技術の転換点",
+    "summary": "TCLが従来のMiniLEDに近い価格帯のMicroLED TVを発表しました。「OLEDキラー」とも称されるMicroLEDが、高コストという最大の課題を克服し、普及フェーズへと大きく一歩踏み出しました。",
+    "insight": "MicroLEDは自己発光と高輝度を両立しつつ、OLEDの懸念である焼き付きがない次世代のディスプレイ技術です。エンジニアとしては、製造プロセス（転写技術など）のコスト削減がどう進んだか、今後の量産歩留まりの変化に注目すべきです。",
+    "sourceUrl": "https://www.techradar.com/televisions/is-this-the-game-changer-tcls-new-micro-led-tv-massively-cuts-the-price-of-the-oled-killer-tech-and-it-launched-a-new-300hz-super-quantum-dot-tv-too",
+    "sourceName": "TechRadar",
+    "originalImageUrl": "https://cdn.mos.cms.futurecdn.net/sqW2nbVj8QXftBZQMju9Gb-2048-80.jpg",
+    "originalImageArticleUrl": "https://www.techradar.com/televisions/is-this-the-game-changer-tcls-new-micro-led-tv-massively-cuts-the-price-of-the-oled-killer-tech-and-it-launched-a-new-300hz-super-quantum-dot-tv-too",
+    "displayDate": "2026-03-20"
+  },
+  "Production Monitor": {
+    "title": "照明制御のUI刷新：Sidus Link Pro 2.2",
+    "summary": "Aputureの照明制御アプリ「Sidus Link Pro 2.2」がアップデートされました。新たに実装された「Layout View」により、リスト形式ではなく、実際の撮影現場の配置に合わせた空間グリッド上で各ライトを直感的に操作可能になり、視覚的なフィードバックが大幅に強化されています。",
+    "insight": "複雑な分散システムを管理する際、従来のリストベースのUIから物理構成を反映した空間的なダッシュボードへの移行は、運用効率を劇的に高める好例です。エッジデバイスの監視や管理システムを設計する際、ユーザーのメンタルモデルに即したトポロジー表示の実装はUX改善のヒントになります。",
+    "sourceUrl": "https://www.provideocoalition.com/aputure-releases-sidus-link-pro-2-2-with-layout-view/",
+    "sourceName": "ProVideo Coalition",
+    "originalImageUrl": "https://www.provideocoalition.com/wp-content/uploads/aputuresiduslinkpronews001.jpg",
+    "originalImageArticleUrl": "https://www.provideocoalition.com/aputure-releases-sidus-link-pro-2-2-with-layout-view/",
+    "displayDate": "2026-03-20"
+  },
+  "SONY": {
+    "title": "ソニーのシネマカメラ「FX6」が大型アップデートで進化",
+    "summary": "ソニーのプロ向けシネマカメラ「FX6」に最新アップデートが提供されました。今回の更新により、撮影時の表示オプションが大幅に拡充され、同社のハイエンド機「VENICE」に近いワークフローや操作性が実現されています。",
+    "insight": "ファームウェアアップデートによる既存ハードウェアの機能強化は、製品寿命を延ばしユーザーエンゲージメントを高める好例です。カメラのような組込みデバイスにおいて、ソフトウェアスタックの柔軟な拡張性を維持することは、長期間愛用されるエンジニアリング品質の鍵となります。",
+    "sourceUrl": "https://nofilmschool.com/sony-fx6-firmware-update-2676363809",
+    "sourceName": "No Film School",
+    "originalImageUrl": "https://nofilmschool.com/media-library/image.jpg?id=65321590&width=1200&height=600&coordinates=0%2C40%2C0%2C40",
+    "originalImageArticleUrl": "https://nofilmschool.com/sony-fx6-firmware-update-2676363809",
+    "displayDate": "2026-03-20"
+  },
+  "TV": {
+    "title": "日本テレビが映像制作大手KANAMELを約372億円で買収",
+    "summary": "日本テレビHDは、AOI Pro.やTYOなどの有力映像制作会社を傘下に持つKANAMELを、米カーライル・グループから約372億円で買収し、完全子会社化すると発表しました。地上波放送の枠を超えたコンテンツ制作力の強化と、グローバルな映像市場への対応を加速させる狙いがあります。",
+    "insight": "テレビ業界におけるM&Aは、従来の放送モデルからデジタル・映像制作主導型への転換を象徴しています。エンジニアの視点では、大規模な映像アセットの統合管理や、配信プラットフォームへの最適化など、メディアテック分野での大規模なシステム統合案件が今後増えると考えられます。",
+    "sourceUrl": "https://jp.reuters.com/markets/global-markets/SQR4Z6ERPNP5LG4IDEBSOVTFWQ-2026-03-19/",
+    "sourceName": "Reuters",
+    "originalImageUrl": "https://www.reuters.com/resizer/v2/3HJMLYOA5BNRVBAQ7UHI7DGA4M.jpg?auth=a20968fdb8efced15e2201b0833d19bf238c545f60f2d95faaeb13a156040328&height=1005&width=1920&quality=80&smart=true",
+    "originalImageArticleUrl": "https://jp.reuters.com/markets/global-markets/SQR4Z6ERPNP5LG4IDEBSOVTFWQ-2026-03-19/",
+    "displayDate": "2026-03-20"
+  },
+  "Projector": {
+    "title": "XGIMIのフラッグシップ4Kプロジェクター「TITAN」登場",
+    "summary": "XGIMIから同社初となるシネマ級の旗艦4Kプロジェクター「TITAN」が登場。従来のホームプロジェクターの枠を超え、特に「黒の表現力」と「出力の安定性」を追求。家庭で本格的な映画体験を実現するための最新技術が詰め込まれた注目のモデルです。",
+    "insight": "プロジェクターにおいて黒の表現（コントラスト比）は、光源制御とパネル技術の精度が問われるエンジニアリングの核心です。HDRコンテンツが標準化する中で、高輝度と黒浮き抑制の両立は、映像処理アルゴリズムと冷却・光学設計の高度な最適化が不可欠です。",
+    "sourceUrl": "https://www.phileweb.com/sp/review/article/202603/19/6444_2.html",
+    "sourceName": "PHILE WEB",
+    "originalImageUrl": "https://www.phileweb.com/news/ogp/review/64/294cae5e3169e46683084ea7f579f572.jpg",
+    "originalImageArticleUrl": "https://www.phileweb.com/sp/review/article/202603/19/6444_2.html",
+    "displayDate": "2026-03-20"
+  },
+  "Camera Control": {
+    "title": "AI学習のために家庭でカメラを装着する動き",
+    "summary": "ロサンゼルスにて、AIシステムを訓練するためのデータを生成することを目的に、数百人が自宅で家事等のタスクを行う際にカメラを装着して生活するという取り組みが行われています。実世界の行動データを収集する新たなアプローチとして注目されています。",
+    "insight": "AIモデルの学習において、クリーンな動画データではなく「日常の非定型な動作データ」の重要性が高まっていることを示唆しています。エンジニアとしては、エッジデバイスでの映像処理と高品質な教師データセット構築の統合技術に注目すべきでしょう。",
+    "sourceUrl": "https://petapixel.com/2026/03/19/people-are-wearing-cameras-while-cleaning-to-teach-ai/",
+    "sourceName": "PetaPixel",
+    "originalImageUrl": "https://petapixel.com/assets/uploads/2026/03/washing-dishes.jpg",
+    "originalImageArticleUrl": "https://petapixel.com/2026/03/19/people-are-wearing-cameras-while-cleaning-to-teach-ai/",
+    "displayDate": "2026-03-20"
+  },
+  "LED Wall Display": {
+    "title": "米軍が次世代MicroLED開発を支援：KopinがSBIRを受託",
+    "summary": "Kopinが米国政府のSBIR（中小企業技術革新研究）フェーズIを獲得しました。兵士が装着するウェアラブルデバイス向けに、高輝度・高解像度を実現する次世代MicroLEDディスプレイの研究開発に着手します。",
+    "insight": "軍事用途で要求される極めて高い耐久性と低消費電力性能は、民生用AR/VRディスプレイ技術の進化を加速させる重要な指標となります。高密度な画素実装や駆動制御技術のブレイクスルーが、商用MicroLED製品の低価格化にも波及する可能性に注目すべきです。",
+    "sourceUrl": "https://investingnews.com/kopin-awarded-phase-i-sbir-from-u-s-government-for-new-microled-displays-for-a-range-of-soldier-borne-applications/",
+    "sourceName": "Investing News Network",
+    "originalImageUrl": "https://investingnews.com/media-library/image.jpg?id=51575528&width=1200&height=600&coordinates=0%2C75%2C0%2C75",
+    "originalImageArticleUrl": "https://investingnews.com/kopin-awarded-phase-i-sbir-from-u-s-government-for-new-microled-displays-for-a-range-of-soldier-borne-applications/",
+    "displayDate": "2026-03-20"
+  }
+}
