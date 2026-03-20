@@ -47,7 +47,7 @@ jobs:
           
       # Step 3: Download Images & Generate Web Gallery
       - name: Process Images and Gallery
-        run: node src/captureSlides.js
+        run: node src/generateGallery.js
 
       # Step 4: Setup, Build and Deploy to GitHub Pages
       - name: Setup Pages
