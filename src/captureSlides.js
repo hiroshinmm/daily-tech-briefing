@@ -31,18 +31,40 @@ async function resizeImageWithPuppeteer(browser, inputPath, outputPath) {
     let page = null;
     try {
         page = await browser.newPage();
-        const html = `<html><body style="margin:0;padding:0;"><img src="file://${inputPath}" style="width:400px;display:block;"></body></html>`;
-        await page.setContent(html);
-        const imgElement = await page.$('img');
-        if (!imgElement) return false;
         
+        // 画像ファイルを Data URI に変換して読み込む（パスやアクセス権の問題を回避）
+        const buffer = fs.readFileSync(inputPath);
+        const base64 = buffer.toString('base64');
+        // もし元の形式が不明でもブラウザが判定してくれることが多いが、
+        // 一般的な jpeg プレフィックスを付ける
+        const dataUri = `data:image/jpeg;base64,${base64}`;
+
+        await page.setContent(`<html><body style="margin:0;padding:0;"><img src="${dataUri}" style="width:400px;display:block;"></body></html>`);
+        
+        // 画像が正常に読み込まれたか確認
+        const isLoaded = await page.evaluate(() => {
+            const img = document.querySelector('img');
+            return img && img.complete && img.naturalWidth > 0;
+        });
+
+        if (!isLoaded) {
+            console.log(`[Image Resize] Warning: Image might be broken at: ${inputPath}`);
+            // 失敗しても一応続行してエラーを確認
+        }
+
         await page.setViewport({ width: 400, height: 1200 }); // 十分な高さ
-        const rect = await imgElement.boundingBox();
-        if (!rect) return false;
+        const rect = await page.evaluate(() => {
+            const img = document.querySelector('img');
+            if (!img) return null;
+            const { x, y, width, height } = img.getBoundingClientRect();
+            return { x, y, width, height };
+        });
+
+        if (!rect || rect.height === 0) return false;
 
         await page.screenshot({
             path: outputPath,
-            clip: { x: 0, y: 0, width: 400, height: Math.min(rect.height, 800) }, // 極端に長い画像は制限
+            clip: { x: 0, y: 0, width: 400, height: Math.min(rect.height, 800) },
             type: 'jpeg',
             quality: 50
         });
