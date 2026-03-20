@@ -1,0 +1,102 @@
+{
+  "SRD / XR": {
+    "title": "Autodesk VREDがApple Vision Proに対応、産業用VRの進化",
+    "summary": "Autodeskの3D可視化ソフト「VRED」が、NVIDIA CloudXRを介してApple Vision Proへのストリーミングに対応しました。BMWやKiaなどの大手自動車メーカーが、高品質な産業デザインレビューに活用しています。",
+    "insight": "高精細なCADデータをスタンドアロンVRで動かすのではなく、クラウドレンダリングと広帯域ストリーミングを組み合わせる手法は、製造業におけるXR活用の標準となりつつあります。遅延と解像度のトレードオフを解消するCloudXRの実装例として、大規模なレンダリング環境を構築するエンジニアにとって注目すべき構成です。",
+    "sourceUrl": "https://www.uploadvr.com/autodesk-vred-immersive-mode-apple-vision-pro-cloudxr/",
+    "sourceName": "UploadVR",
+    "originalImageUrl": "https://www.uploadvr.com/content/images/2026/03/Autodesk-VRED-Apple-Vision-Pro-immersive-mode-Kia-closeup.jpeg",
+    "originalImageArticleUrl": "https://www.uploadvr.com/autodesk-vred-immersive-mode-apple-vision-pro-cloudxr/",
+    "displayDate": "2026-03-21"
+  },
+  "AI": {
+    "title": "米政権がAI政策の統一枠組みを発表",
+    "summary": "米政府は、州ごとに異なるAI規制を標準化し、統一的な政策枠組みを策定する方針を発表しました。これは州レベルでの過度な規制を抑制し、連邦政府主導でAIのイノベーションと開発環境を保護・促進することを目的としています。",
+    "insight": "米国でのAI規制標準化の動きは、グローバルに展開するソフトウェアのコンプライアンス設計に影響を与える可能性があります。エンジニアは、今後の米国内法規制の統一動向を注視し、リージョナルな制約に縛られない設計思想を維持することが重要です。",
+    "sourceUrl": "https://jp.reuters.com/world/security/Q6A6MBWFOVO3JLQOYJ2OQQ2OTE-2026-03-20/",
+    "sourceName": "Reuters",
+    "originalImageUrl": "https://www.reuters.com/resizer/v2/UIDDCD4ET5PPXF6XWVJSDI2TPI.jpg?auth=e73bf54f0d86e553c902f109280e6a427ff4078087fab09538afe54fb6c7a45e&height=1005&width=1920&quality=80&smart=true",
+    "originalImageArticleUrl": "https://jp.reuters.com/world/security/Q6A6MBWFOVO3JLQOYJ2OQQ2OTE-2026-03-20/",
+    "displayDate": "2026-03-21"
+  },
+  "Production Monitor": {
+    "title": "Aputureの照明制御アプリが空間UI「Layout View」を導入",
+    "summary": "Aputureは照明制御アプリ「Sidus Link Pro 2.2」をリリースしました。最大の特徴は、従来のリスト形式の制御から、実際の現場の配置に合わせて照明を配置・視覚的に操作できる「Layout View」が追加された点です。",
+    "insight": "GUI/UXデザインにおいて、テキストベースのリストから空間的なマップ表示への転換は、複雑なコンフィグ管理を直感的にする強力な手法です。現場の「配置」をそのままデジタル上のインターフェースとして再構築する設計思想は、デジタルツインやIoT管理ツールのUI開発においても非常に参考になります。",
+    "sourceUrl": "https://www.provideocoalition.com/aputure-releases-sidus-link-pro-2-2-with-layout-view/",
+    "sourceName": "ProVideo Coalition",
+    "originalImageUrl": "https://www.provideocoalition.com/wp-content/uploads/aputuresiduslinkpronews001.jpg",
+    "originalImageArticleUrl": "https://www.provideocoalition.com/aputure-releases-sidus-link-pro-2-2-with-layout-view/",
+    "displayDate": "2026-03-21"
+  },
+  "TCL": {
+    "title": "TCLがMicroLEDの価格破壊に挑戦",
+    "summary": "TCLが次世代ディスプレイ技術である「MicroLED」搭載TVの価格を大幅に引き下げました。これまで高額で手が届きにくかったOLED（有機EL）の代替技術が、一般消費者向けに普及し始める転換点となる可能性があります。",
+    "insight": "MicroLEDは自発光型で高輝度・長寿命というエンジニア的に魅力的な特性を持ちますが、製造コストが最大のボトルネックでした。今回の大幅な価格改定が歩留まり向上によるものか、低価格化を優先した設計変更によるものか、今後の技術的信頼性の推移を注視する必要があります。",
+    "sourceUrl": "https://www.flatpanelshd.com/news.php?subaction=showfull&id=1773908110",
+    "sourceName": "FlatpanelsHD",
+    "originalImageUrl": "https://www.flatpanelshd.com/pictures/tclmicroled2026.jpg",
+    "originalImageArticleUrl": "https://www.flatpanelshd.com/news.php?subaction=showfull&id=1773908110",
+    "displayDate": "2026-03-21"
+  },
+  "SONY": {
+    "title": "ソニーの業務用カメラ「FX6」がファームウェアアップデートで大幅強化",
+    "summary": "ソニーの人気業務用シネマカメラ「FX6」に、メジャーアップデートとなるVer.6.0が提供されました。プロの映像制作現場のワークフローを改善する重要な機能拡張が含まれており、既存ユーザーにとって実用性が大きく向上します。",
+    "insight": "業務用機器のファームウェア更新は、現場の信頼性を高めるために非常に重要です。ハードウェアを買い替えずにソフトウェアで機能を拡充させる手法は、長期間の製品運用が求められるプロ向けエンジニアリングにおいて見習うべきアプローチと言えます。",
+    "sourceUrl": "https://www.sonyalpharumors.com/sony-fx6-gets-massive-6-0-firmware-update/",
+    "sourceName": "SonyAlphaRumors",
+    "originalImageUrl": "https://www.sonyalpharumors.com/wp-content/uploads/2026/03/Screenshot-2026-03-19-at-21.23.00.png",
+    "originalImageArticleUrl": "https://www.sonyalpharumors.com/sony-fx6-gets-massive-6-0-firmware-update/",
+    "displayDate": "2026-03-21"
+  },
+  "Gaming Monitor": {
+    "title": "2026年版ゲーミングモニター最新トレンドとおすすめモデル",
+    "summary": "信頼性の高いレビューサイトRTINGS.comが「2026年のベストゲーミングモニター」を発表しました。4K高画質モデルや最新のOLEDモニターなど、現在の市場を牽引する選択肢が網羅されており、用途に応じたモニター選びの決定版といえるガイドラインになっています。",
+    "insight": "エンジニアにとって、高リフレッシュレートかつ高精細なモニターは長時間作業の疲労軽減に直結します。特に最近のOLEDモデルは応答速度が劇的に向上しているため、パフォーマンスを重視するデスク環境のアップグレードに最適です。",
+    "sourceUrl": "https://www.rtings.com/monitor/reviews/best/gaming-monitors-4k",
+    "sourceName": "RTINGS.com",
+    "originalImageUrl": "https://i.rtings.com/assets/pages/UzlAzYNI/best-4k-gaming-monitors-20251125-medium.jpg?format=auto",
+    "originalImageArticleUrl": "https://www.rtings.com/monitor/reviews/best/gaming-monitors-4k",
+    "displayDate": "2026-03-21"
+  },
+  "TV": {
+    "title": "2026年版「最高のOLEDモニター」選び",
+    "summary": "RTINGS.comが2026年版のベストOLEDモニターを公開。高リフレッシュレートや応答速度、画質性能がさらに進化しており、ゲームやプロフェッショナルなクリエイティブ作業において、PCユーザーにとってのモニター選びの基準が再び更新されています。",
+    "insight": "最新のOLEDパネルは焼き付き対策と輝度性能が向上しており、エンジニアやデザイナーにとって長時間使用に耐えるメインモニターの有力な選択肢となっています。デスクトップ環境におけるモニターの「OLED化」は、コーディングやUIデザインの視認性を劇的に改善するため、ハードウェア選定のトレンドとして要注目です。",
+    "sourceUrl": "https://www.rtings.com/monitor/reviews/best/oled",
+    "sourceName": "RTINGS.com",
+    "originalImageUrl": "https://i.rtings.com/assets/pages/S7ANU7mT/best-oled-monitors-20230926-4-medium.jpg?format=auto",
+    "originalImageArticleUrl": "https://www.rtings.com/monitor/reviews/best/oled",
+    "displayDate": "2026-03-21"
+  },
+  "Projector": {
+    "title": "ゲーミング環境に革命？プロジェクターによる大画面体験",
+    "summary": "120インチの4K映像を安価に実現できるプロジェクターが、高額なゲーミングモニターの代わりとして注目されています。没入感のあるゲーム体験を求める層にとって、価格とスペースの効率面からプロジェクターが有力な選択肢になりつつあります。",
+    "insight": "高リフレッシュレート対応の小型プロジェクターの普及により、リビングを簡易的なeスポーツ環境に変えることが容易になりました。遅延や設置距離の課題はあるものの、広視野角・大画面を低予算で提供できる技術的進化は注目に値します。",
+    "sourceUrl": "https://www.msn.com/en-us/news/technology/this-projector-gives-me-a-120-inch-4k-screen-for-gaming-thats-cheaper-than-most-high-end-monitors/ar-AA1Yw08o",
+    "sourceName": "MSN",
+    "originalImageUrl": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1Yvmkm.img?w=612&h=344&m=4&q=79",
+    "originalImageArticleUrl": "https://www.msn.com/en-us/news/technology/this-projector-gives-me-a-120-inch-4k-screen-for-gaming-thats-cheaper-than-most-high-end-monitors/ar-AA1Yw08o",
+    "displayDate": "2026-03-21"
+  },
+  "Camera Control": {
+    "title": "Sonyユーザー必見：カメラ設定の最適化テクニック",
+    "summary": "DPReviewによる、Sony製カメラのポテンシャルを最大限に引き出すための推奨設定ガイド。AF-Cへの固定、AFエリア制限、シャッター設定、RAW形式の最適化など、実用的なカスタマイズを解説。",
+    "insight": "カメラのUI/UX設計において、デフォルト設定が必ずしもすべてのユースケースに適しているわけではないという好例です。ソフトウェアエンジニアにとっても、ユーザーのワークフローを深く理解し、重要な機能を直感的にカスタマイズ可能にすることの重要性を再確認できます。",
+    "sourceUrl": "https://www.dpreview.com/articles/4306983510/settings-to-change-on-your-new-sony-camera",
+    "sourceName": "Digital Photography Review",
+    "originalImageUrl": "https://4.img-dpreview.com/files/p/E~C213x0S3413x2560T1200x900~articles/4306983510/Sony_a7CR_3qtr.jpeg",
+    "originalImageArticleUrl": "https://www.dpreview.com/articles/4306983510/settings-to-change-on-your-new-sony-camera",
+    "displayDate": "2026-03-21"
+  },
+  "LED Wall Display": {
+    "title": "小売の未来：没入型体験とLEDウォール",
+    "summary": "brick-and-mortar（実店舗）が消滅するとの予測に反し、LEDウォールなどの最新AV技術を活用した「体験型リテール」が再評価されています。単なる物販ではなく、デジタルとフィジカルを融合させた没入型空間の構築が、店舗の新たな競争優位性として注目されています。",
+    "insight": "エンジニア視点では、大型LEDディスプレイを制御する低遅延の映像配信基盤と、センサーデータによるインタラクティブ制御の統合が重要です。特に、リアルタイムな環境変化に応答する高負荷なレンダリング処理と、店舗運営システムとのAPI連携におけるスケーラビリティ設計が鍵となります。",
+    "sourceUrl": "https://ravepubs.com/experiential-retail-future-brick-and-mortar/",
+    "sourceName": "rAVe [PUBS]",
+    "originalImageUrl": "https://ravepubs.com/wp-content/uploads/2025/08/interactive-retail-mobile-phone-800x400.webp",
+    "originalImageArticleUrl": "https://ravepubs.com/experiential-retail-future-brick-and-mortar/",
+    "displayDate": "2026-03-21"
+  }
+}
