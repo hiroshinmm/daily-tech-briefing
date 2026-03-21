@@ -1,0 +1,102 @@
+{
+  "SRD / XR": {
+    "title": "GDC 2026：Roblox成功の鍵はデータ分析超えの「文化理解」",
+    "summary": "GDC 2026にて、Robloxで成功するためのフレームワークが語られました。単なるデータ分析による最適化だけでなく、現在のトレンドや文化的な文脈を的確に捉え、ユーザーの共感を呼ぶコンテンツを創出する重要性が強調されました。",
+    "insight": "メタバースやゲーム開発において、数値データのみに頼ったUI/UX改善には限界があります。ユーザーの心理やトレンドの移り変わりという「定性的な文脈」をいかにエンジニアリングやシステム設計に落とし込めるかが、長期的なエンゲージメント維持の鍵となります。",
+    "sourceUrl": "https://www.moguravr.com/gdc-2026-session-roblox-creator/",
+    "sourceName": "Mogura VR",
+    "originalImageUrl": "https://assets.moguravr.com/uploads/2026/03/1ae6f4f77609a8d82b73fbc0bba147de-kix.nc0n7ugnkojg-300x169.webp",
+    "originalImageArticleUrl": "https://www.moguravr.com/gdc-2026-session-roblox-creator/",
+    "displayDate": "2026-03-22"
+  },
+  "AI": {
+    "title": "新人に「AI使用禁止令」をどう捉えるか",
+    "summary": "一部の企業で導入が進む「新人へのAI使用禁止令」が議論を呼んでいます。業務効率化を推進する活用派に対し、言語脳科学の権威らは「思考力を育てる機会を奪う」と警鐘を鳴らしており、AI時代の育成とスキルのあり方が問われています。",
+    "insight": "AIに依存しすぎると基礎的な論理的思考や言語能力が低下する懸念があり、エンジニア育成の観点でも「AIを使いこなす」以前の「AIが生成したコードの正当性を評価する力」の教育が重要です。AIを補助輪として活用しつつ、自身の基礎スキルをどう磨き続けるかのバランス設計が今後の組織課題となります。",
+    "sourceUrl": "https://news.yahoo.co.jp/articles/9b6f170440c87a61475c63e8573373f4781717e3",
+    "sourceName": "Yahoo!ニュース",
+    "originalImageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260321-10233022-abema-000-4-view.jpg?exp=10800",
+    "originalImageArticleUrl": "https://news.yahoo.co.jp/articles/9b6f170440c87a61475c63e8573373f4781717e3",
+    "displayDate": "2026-03-22"
+  },
+  "Production Monitor": {
+    "title": "Blackmagic PYXIS 6KにAF機能が追加",
+    "summary": "Blackmagic Designは、PYXIS 6K向けにフェーズ検出オートフォーカス（PDAF）を導入するテストビルドv10.0.3を公開しました。顔認識、オブジェクトトラッキング、リサイズ可能なフォーカス枠に対応し、Lマウントレンズでの撮影体験が大幅に向上しました。",
+    "insight": "シネマカメラにおけるソフトウェアベースのPDAF実装は、従来の手動フォーカス主体のワークフローを劇的に効率化させるトレンドです。センサーデータからのリアルタイムなオブジェクト追跡処理は、今後の映像制作においてAI支援型撮影の標準的な技術基盤になるでしょう。",
+    "sourceUrl": "https://www.cined.com/blackmagic-pyxis-6k-autofocus-introduced-via-new-test-build-face-detection-object-tracking-and-resizable-focus-box/",
+    "sourceName": "CineD",
+    "originalImageUrl": "https://www.cined.com/content/uploads/2026/03/PYXIS-6K-AF-featured-300x169.jpg",
+    "originalImageArticleUrl": "https://www.cined.com/blackmagic-pyxis-6k-autofocus-introduced-via-new-test-build-face-detection-object-tracking-and-resizable-focus-box/",
+    "displayDate": "2026-03-22"
+  },
+  "TCL": {
+    "title": "TCLのMicroLEDが価格破壊、普及へ一歩",
+    "summary": "TCLが最新のMicroLED TVで大幅な価格引き下げを発表しました。これまで高級品として手が届きにくかったMicroLED技術が、より消費者にとって身近なものになる可能性を秘めており、ディスプレイ市場の競争環境を大きく変えるきっかけとして注目されています。",
+    "insight": "MicroLEDは自発光による高コントラストと長寿命が強みですが、製造コストが最大のボトルネックでした。この価格破壊が実現すれば、既存のOLEDやMiniLED市場との力関係が塗り替わる可能性があり、ディスプレイの設計や採用戦略の見直しが必要になるでしょう。",
+    "sourceUrl": "https://www.flatpanelshd.com/news.php?subaction=showfull&id=1773908110",
+    "sourceName": "FlatpanelsHD",
+    "originalImageUrl": "https://www.flatpanelshd.com/pictures/tclmicroled2026.jpg",
+    "originalImageArticleUrl": "https://www.flatpanelshd.com/news.php?subaction=showfull&id=1773908110",
+    "displayDate": "2026-03-22"
+  },
+  "TV": {
+    "title": "OLEDテレビの焼き付きリスクと管理術",
+    "summary": "高画質なOLED（有機EL）テレビやモニターですが、不適切な使用により焼き付きが発生するリスクが指摘されています。特に長時間同じ画面を表示し続けることによる劣化を防ぐためのメンテナンスや設定が重要です。最新の製品評価でも画質競争が激化していますが、エンジニアとしてはその表示技術の特性を理解しておくことが、長期運用において賢い選択となります。",
+    "insight": "OLEDの焼き付きは有機発光層の経年劣化による輝度低下が原因であり、ハードウェアの寿命と画質維持のトレードオフです。エンジニアとしては、静止画を長時間表示するユースケースでは輝度制限やピクセルシフト設定の有効化など、デバイスの特性に合わせた運用設計が求められます。",
+    "sourceUrl": "https://www.msn.com/en-in/lifestyle/shopping/do-you-have-an-oled-tv-or-monitor-you-could-be-damaging-it-without-knowing/ar-AA1Z2yQV",
+    "sourceName": "MSN",
+    "originalImageUrl": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1Z2GuA.img?w=612&h=306&m=4&q=100",
+    "originalImageArticleUrl": "https://www.msn.com/en-in/lifestyle/shopping/do-you-have-an-oled-tv-or-monitor-you-could-be-damaging-it-without-knowing/ar-AA1Z2yQV",
+    "displayDate": "2026-03-22"
+  },
+  "SONY": {
+    "title": "ソニーセミコン、監視用センサーの新製品でノイズ・白飛びを抑制",
+    "summary": "ソニーセミコンダクタソリューションズが、監視カメラ向けイメージセンサーの新製品を発表しました。独自の積層技術を活かし、明暗差の激しい環境下でもノイズや白飛びを劇的に抑制する性能を実現。高精度な画像認識が求められる防犯や自動運転技術などの分野において、エッジAIの処理負荷軽減にも寄与する技術として注目されています。",
+    "insight": "イメージセンサーの多階調化とノイズ低減は、コンピュータビジョンの精度に直結する重要な要素です。高ダイナミックレンジ技術は単なる画質向上だけでなく、後段の推論エンジンへの入力データの質を高め、エッジ処理の計算資源効率を改善するアーキテクチャとしてもエンジニアには興味深いトピックです。",
+    "sourceUrl": "https://newswitch.jp/p/48684",
+    "sourceName": "ニュースイッチ by 日刊工業新聞社",
+    "originalImageUrl": "https://images.newswitch.jp/images/7929e86b-ce4f-4fc3-aff6-4851c6af2c9e.jpg",
+    "originalImageArticleUrl": "https://newswitch.jp/p/48684",
+    "displayDate": "2026-03-22"
+  },
+  "Projector": {
+    "title": "「N3 Ultimate」上陸：AIと新エンジン搭載の4Kプロジェクター",
+    "summary": "JMGOより、AI空間認識、新世代MALC 5.0レーザーエンジン、高精度レンズを搭載した4Kプロジェクター「N3 Ultimate」の日本展開が発表されました。業界最高クラスの画質と設置性を両立した注目モデルです。",
+    "insight": "最新のプロジェクターは、単なる映像出力機器から、AIを用いた自動台形補正や空間認識を行うスマートデバイスへと進化しています。ハードウェアの光学性能と、それを制御するアルゴリズムの統合が競争力の源泉となっており、家庭内空間のAV環境のあり方が大きく変わろうとしています。",
+    "sourceUrl": "https://www.asahi.com/and/pressrelease/16394481",
+    "sourceName": "朝日新聞",
+    "originalImageUrl": "https://www.asahi.com/and/ogp/ogp_and.png",
+    "originalImageArticleUrl": "https://www.asahi.com/and/pressrelease/16394481",
+    "displayDate": "2026-03-22"
+  },
+  "Gaming Monitor": {
+    "title": "2027年に24インチQD-OLEDモニターが登場か",
+    "summary": "24インチのQD-OLEDモニターが2027年に市場投入されるとの噂が浮上しました。これまで大型や高リフレッシュレートが主流だったゲーミングモニター市場において、コンパクトかつ高精細なQD-OLEDの選択肢が増えることは、PCゲーマーや作業環境を重視する層にとって大きな関心事となりそうです。",
+    "insight": "QD-OLEDは自発光による高コントラストと応答速度の速さが特徴ですが、小サイズ化には製造技術上の課題が伴います。この噂は、低画素密度になりがちな小型モニターにおける量子ドット技術の成熟と、高精細なデスク環境での作業効率化が期待できる技術的転換点を示唆しています。",
+    "sourceUrl": "https://www.flatpanelshd.com/news.php?subaction=showfull&id=1773896691",
+    "sourceName": "FlatpanelsHD",
+    "originalImageUrl": "https://www.flatpanelshd.com/pictures/samsungqdoledfloor_1_small.jpg",
+    "originalImageArticleUrl": "https://www.flatpanelshd.com/news.php?subaction=showfull&id=1773896691",
+    "displayDate": "2026-03-22"
+  },
+  "LED Wall Display": {
+    "title": "体験型小売の未来：LEDディスプレイの役割",
+    "summary": " brick-and-mortar（実店舗）が衰退する中で、いかにして体験価値を再定義するかが議論されています。単なる商品陳列を超え、LEDウォールを活用した没入型空間やインタラクティブな演出が、消費者を再び店舗へと呼び戻す鍵として期待されています。",
+    "insight": "エンジニア視点では、高精細LEDとリアルタイムレンダリングエンジン（Unreal Engine等）の統合が、店舗体験のコアとなっています。センサーデータと連動した動的コンテンツの配信アーキテクチャが、今後のO2Oマーケティングにおける重要な差別化要素になるでしょう。",
+    "sourceUrl": "https://ravepubs.com/experiential-retail-future-brick-and-mortar/",
+    "sourceName": "rAVe [PUBS]",
+    "originalImageUrl": "https://ravepubs.com/wp-content/uploads/2025/08/interactive-retail-mobile-phone-800x400.webp",
+    "originalImageArticleUrl": "https://ravepubs.com/experiential-retail-future-brick-and-mortar/",
+    "displayDate": "2026-03-22"
+  },
+  "Camera Control": {
+    "title": "ハードウェアの体験を拡張する「レンズユーティリティ」の重要性",
+    "summary": "PetaPixelの記事では、タムロンが提供する「Lens Utility App」の有用性が取り上げられています。タイムラプス中のフォーカス制御など、レンズの物理的な限界を超えてソフトウェアで機能を拡張できる点が、これからのレンズメーカーに求められる共通の課題であると指摘しています。",
+    "insight": "ハードウェア（光学系）の制御をソフトウェア（アプリ）で抽象化し、後から機能を追加・更新可能にするアプローチは、製品価値を長期間維持する上で不可欠です。カメラ周辺機器においても、単なる「道具」ではなく、APIや制御インターフェースをどう提供するかがエンジニアリングの差別化要因となるでしょう。",
+    "sourceUrl": "https://petapixel.com/2026/03/21/every-lens-maker-needs-to-do-what-tamron-is-doing/",
+    "sourceName": "PetaPixel",
+    "originalImageUrl": "https://petapixel.com/assets/uploads/2026/03/Every-Lens-Maker-Needs-to-Do-What-Tamron-Is-Doing.jpg",
+    "originalImageArticleUrl": "https://petapixel.com/2026/03/21/every-lens-maker-needs-to-do-what-tamron-is-doing/",
+    "displayDate": "2026-03-22"
+  }
+}
