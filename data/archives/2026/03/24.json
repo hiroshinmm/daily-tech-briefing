@@ -1,0 +1,102 @@
+{
+  "Gaming Monitor": {
+    "title": "デル、240Hz駆動の27型QD-OLEDモニターを発売",
+    "summary": "デル・テクノロジーズは、240Hzの高リフレッシュレートとWQHD解像度に対応した27型有機ELゲーミングモニター「AW2726DM」を3月26日に発売する。価格は6万4,980円。QD-OLED技術により優れた発色と応答速度を実現しており、ハイエンドゲーマー向けの製品となっている。",
+    "insight": "QD-OLEDの普及により、高リフレッシュレートと高画質の両立が低価格化しつつあります。開発環境としても、高解像度かつ残像感の少ない有機ELディスプレイは、UIの細かな動きやレスポンスを確認する際に重要な機材となりそうです。",
+    "sourceUrl": "https://pc.watch.impress.co.jp/docs/news/2095541.html",
+    "sourceName": "PC Watch",
+    "originalImageUrl": "https://pc.watch.impress.co.jp/img/pcw/list/2095/541/01.jpg",
+    "originalImageArticleUrl": "https://pc.watch.impress.co.jp/docs/news/2095541.html",
+    "displayDate": "2026-03-24"
+  },
+  "AI": {
+    "title": "Nvidiaと電力会社が連携、AIファクトリー建設へ",
+    "summary": "NvidiaとEmerald AIが電力会社とパートナーシップを結び、新たなAIファクトリー（データセンター）の構築に着手。増大するAIモデルの計算負荷に対し、エネルギー供給網との連携が不可欠となっている状況を示唆しています。",
+    "insight": "AIの計算リソース需要と電力インフラは不可分であり、今後は「エネルギー効率」と「電力供給の安定性」がAIインフラエンジニアの最重要課題となります。単なる演算性能だけでなく、電力供給制約を見越したスケーラブルなシステム設計の知見が、今後さらに価値を高めるでしょう。",
+    "sourceUrl": "https://www.wsj.com/tech/ai/nvidia-emerald-ai-partner-with-power-companies-on-new-ai-factories-107d61cc?gaa_at=eafs&gaa_n=AWEtsqdd307ppHwSZZawxgHjxdF5gG-C8hNd6w9OdG28ngAmx0h4HvX4nbsY&gaa_ts=69c1d74b&gaa_sig=4XFeuUINpLytQA_TNrRSLhc7VvH-fxbwLPkPlPXzlcESyIpsKTO8yBQHqQOapratxL4kysx4VW5oH_WPKxfgqQ%3D%3D",
+    "sourceName": "WSJ",
+    "originalImageUrl": null,
+    "originalImageArticleUrl": "https://www.wsj.com/tech/ai/nvidia-emerald-ai-partner-with-power-companies-on-new-ai-factories-107d61cc?gaa_at=eafs&gaa_n=AWEtsqdd307ppHwSZZawxgHjxdF5gG-C8hNd6w9OdG28ngAmx0h4HvX4nbsY&gaa_ts=69c1d74b&gaa_sig=4XFeuUINpLytQA_TNrRSLhc7VvH-fxbwLPkPlPXzlcESyIpsKTO8yBQHqQOapratxL4kysx4VW5oH_WPKxfgqQ%3D%3D",
+    "displayDate": "2026-03-24"
+  },
+  "SRD / XR": {
+    "title": "スマートグラス「Even G2」実機レビュー：情報の提示に特化",
+    "summary": "AI搭載スマートグラス「Even G2」の先行レビューが公開。カメラやスピーカーを排除し、軽量化と「情報の提示」という機能に特化させた設計が注目されています。直感的な操作性と実用性が評価されています。",
+    "insight": "デバイスの多機能化が進む中、あえて特定の機能を削ぎ落とし「情報表示」に特化させる設計は、装着感と集中力を両立させる重要なアプローチです。ウェアラブルエンジニアとしては、UI/UXのミニマリズムがいかに実用的な装着時間を伸ばせるかの好例として注目すべきです。",
+    "sourceUrl": "https://www.moguravr.com/even-g2-even-r1-review-2026-3-23/",
+    "sourceName": "Mogura VR",
+    "originalImageUrl": "https://assets.moguravr.com/uploads/2026/03/f1d0b9ed4bdf0338af78b3a859d3da86-kix.5sqtzl47pdwh-300x208.webp",
+    "originalImageArticleUrl": "https://www.moguravr.com/even-g2-even-r1-review-2026-3-23/",
+    "displayDate": "2026-03-24"
+  },
+  "Projector": {
+    "title": "Xiaomi連携で進化するJMGOの新プロジェクター",
+    "summary": "JMGOが新型プロジェクター「N1 Air 4th Gen」を発表しました。Dolby Audioへの対応に加え、Xiaomiのスマートホームエコシステムとの連携機能が強化されており、ホームシアター環境の利便性が大幅に向上しています。",
+    "insight": "家電のオープンな相互運用性は、スマートホーム構築における重要な技術トレンドです。特定のブランドだけでなく、既存のエコシステムとの統合が進むことで、プロジェクターが単なる映像出力機器からホームオートメーションのハブとして進化しています。",
+    "sourceUrl": "https://www.gizmochina.com/2026/03/23/jmgo-n1-air-4th-gen-projector-launched-specs-price/",
+    "sourceName": "Gizmochina",
+    "originalImageUrl": "https://www.gizmochina.com/wp-content/uploads/2026/03/JMGO-N1-Air-4th-Gen-projector.png",
+    "originalImageArticleUrl": "https://www.gizmochina.com/2026/03/23/jmgo-n1-air-4th-gen-projector-launched-specs-price/",
+    "displayDate": "2026-03-24"
+  },
+  "TV": {
+    "title": "ソニーグループ、テレビ事業の一部譲渡を検討か",
+    "summary": "ソニーグループがテレビ事業における株式譲渡を巡り、中国のTCL集団と交渉中であると報じられました。規模は約10億ドルに達する見込みで、競争が激化するグローバルなテレビ市場における戦略的転換の可能性が注目されています。",
+    "insight": "ハードウェア製造とソフトウェアサービスの収益構造を分離する動きは、家電大手における一般的なポートフォリオ再編のトレンドです。エンジニアの視点では、ハードウェア部門の売却が将来的な独自OSや映像エンジン技術のエコシステムにどのような影響を及ぼすか、その動向を注視する必要があります。",
+    "sourceUrl": "https://www.bloomberg.com/jp/news/articles/2026-03-23/TCCAJ4T9NJMG00",
+    "sourceName": "Bloomberg.com",
+    "originalImageUrl": null,
+    "originalImageArticleUrl": "https://www.bloomberg.com/jp/news/articles/2026-03-23/TCCAJ4T9NJMG00",
+    "displayDate": "2026-03-24"
+  },
+  "SONY": {
+    "title": "ソニーが10K/100fpsの新センサー技術をデモ公開",
+    "summary": "ソニーが、10K解像度、105メガピクセル、かつ100fpsの高速読み出しを実現する、ラージフォーマットのグローバルシャッターセンサー技術をデモ公開しました。圧倒的な画素数とフレームレートを両立させる技術力は、映像制作や産業用途の新たな可能性を示唆しています。",
+    "insight": "グローバルシャッターによる歪みのない高解像・高速撮影技術は、コンピュータビジョンや高精度なマシンビジョンへの応用が期待されます。センサーの読み出し速度と画像処理パイプラインの進化は、次世代の映像デバイスにおけるデータ処理負荷を大きく変える要因となります。",
+    "sourceUrl": "https://www.digitalcameraworld.com/cameras/digital-cameras/sony-demos-new-10k-105mp-100fps-large-format-global-shutter-sensor",
+    "sourceName": "Digital Camera World",
+    "originalImageUrl": "https://cdn.mos.cms.futurecdn.net/h6NLUhpgTGY5Vi8nWbc3DR-2038-80.jpg",
+    "originalImageArticleUrl": "https://www.digitalcameraworld.com/cameras/digital-cameras/sony-demos-new-10k-105mp-100fps-large-format-global-shutter-sensor",
+    "displayDate": "2026-03-24"
+  },
+  "LED Wall Display": {
+    "title": "没入型体験を生む車両シミュレーション技術の進化",
+    "summary": "Vector SimulationsとScalable Display Technologiesが提携し、球体スクリーンと5台のプロジェクターを用いた高度な自動車運転シミュレーターを開発しました。没入感の高いリアリティを追求し、多様な車両環境を再現可能なトレーニングソリューションとして展開します。",
+    "insight": "物理的な投影技術とシミュレーションソフトウェアの統合は、産業用UXの精度を左右します。単なる高解像度化ではなく、幾何学的補正やマルチプロジェクションの同期制御など、低遅延かつ高精度なレンダリングパイプラインの設計がエンジニアには求められます。",
+    "sourceUrl": "https://ravepubs.com/vector-simulations-and-scalable-display-technologies-develop-automotive-training-simulation-solution/",
+    "sourceName": "rAVe [PUBS]",
+    "originalImageUrl": "https://ravepubs.com/wp-content/uploads/2026/03/SDTVector-800x400.webp",
+    "originalImageArticleUrl": "https://ravepubs.com/vector-simulations-and-scalable-display-technologies-develop-automotive-training-simulation-solution/",
+    "displayDate": "2026-03-24"
+  },
+  "TCL": {
+    "title": "Sony、TV事業の一部をTCLへ売却か？10億ドル規模の交渉",
+    "summary": "Sonyが自社のTV事業部門の株式をTCL Electronicsに売却するため、約10億ドル規模の交渉を進めていると報じられました。業界の勢力図が大きく塗り替わる可能性があり、注目が集まっています。",
+    "insight": "家電業界におけるハードウェア製造の集約化と、中国メーカーの垂直統合モデルの強さを象徴する動きです。エンジニアの視点では、OSやファームウェア層でのエコシステム統合が今後どのように進化するかに注目すべきです。",
+    "sourceUrl": "https://www.mediaplaynews.com/sony-nearing-1-billion-deal-selling-tv-business-to-chinas-tcl/",
+    "sourceName": "Media Play News",
+    "originalImageUrl": "https://cdn.mediaplaynews.com/wp-content/uploads/2021/01/BRAVIA_XR_Lineup.jpg",
+    "originalImageArticleUrl": "https://www.mediaplaynews.com/sony-nearing-1-billion-deal-selling-tv-business-to-chinas-tcl/",
+    "displayDate": "2026-03-24"
+  },
+  "Production Monitor": {
+    "title": "ハリウッドのスタジオ稼働率が急落：市場の現在地",
+    "summary": "LAの撮影用スタジオの総面積は世界最大規模を維持しているものの、稼働率はかつての90%台から62%へと大幅に低下しています。かつての「ハリウッドの活況」に陰りが見え、業界全体で生産体制の変化が指摘されています。",
+    "insight": "デジタル制作環境の進化とリモートワークの普及が、物理的な撮影インフラの必要性に大きな転換をもたらしていると考えられます。エンジニアの視点では、リソースの最適化や遊休資産の再活用など、需要変動に対するインフラ設計の重要性を再考する好例です。",
+    "sourceUrl": "https://www.cined.com/la-is-building-more-stages-than-ever-so-why-are-they-empty-filmla-sound-stage-report/",
+    "sourceName": "CineD",
+    "originalImageUrl": "https://www.cined.com/content/uploads/2026/03/LA-empty-stage-featured-300x169.jpg",
+    "originalImageArticleUrl": "https://www.cined.com/la-is-building-more-stages-than-ever-so-why-are-they-empty-filmla-sound-stage-report/",
+    "displayDate": "2026-03-24"
+  },
+  "Camera Control": {
+    "title": "人気カメラアプリHalideが創業メンバーを提訴",
+    "summary": "iPhone向け高機能カメラアプリ「Halide」を手がけるLux Opticsが、Appleに引き抜かれた共同創業者のSebastiaan de With氏を提訴しました。同社の経営権やIPを巡る争いで、Appleの関与の深さも注目されています。",
+    "insight": "技術スタックやIPの帰属に関する競合避止義務や引き抜き問題は、スタートアップにおいて非常に深刻なリスクとなります。Appleのような巨大テック企業による人材獲得が、既存の小規模な優良アプリ開発会社の存続にどのような影響を与えるか、法務と戦略の両面で学ぶべき事例です。",
+    "sourceUrl": "https://petapixel.com/2026/03/23/halide-is-suing-its-co-founder-who-was-just-was-hired-by-apple/",
+    "sourceName": "PetaPixel",
+    "originalImageUrl": "https://petapixel.com/assets/uploads/2026/03/All-Hell-Broke-Loose-After-Apple-Considered-Buying-Halides-Developer.jpg",
+    "originalImageArticleUrl": "https://petapixel.com/2026/03/23/halide-is-suing-its-co-founder-who-was-just-was-hired-by-apple/",
+    "displayDate": "2026-03-24"
+  }
+}
