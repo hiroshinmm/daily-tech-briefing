@@ -1,0 +1,102 @@
+{
+  "AI": {
+    "title": "OpenAI、動画生成AI「Sora」の提供終了へ",
+    "summary": "OpenAIが動画生成AI「Sora」の一般向けサービス提供を終了し、今後は企業向けソリューションに注力する方針を明らかにしました。著作権問題や安全性への懸念などが背景にあると報じられています。",
+    "insight": "生成AIの社会実装において、単なる技術力だけでなく、著作権保護や安全性の確保がプロダクト存続の鍵となることを示唆しています。エンジニアとしては、モデル開発だけでなく、法規制対応やデータガバナンスを考慮したアーキテクチャ設計の重要性が増しています。",
+    "sourceUrl": "https://www.nikkei.com/article/DGXZQOGN2503R0V20C26A3000000/",
+    "sourceName": "日本経済新聞",
+    "originalImageUrl": "https://article-image-ix.nikkei.com/https%3A%2F%2Fimgix-proxy.n8s.jp%2FDSXZQO2798669025032026000000-1.jpg?auto=format&bg=FFFF&crop=focalpoint&fit=crop&h=630&w=1200&s=888660cb3da992f95542d5143c8678e0",
+    "originalImageArticleUrl": "https://www.nikkei.com/article/DGXZQOGN2503R0V20C26A3000000/",
+    "displayDate": "2026-03-25"
+  },
+  "Gaming Monitor": {
+    "title": "ハイエンド4K OLEDモニターが31%OFFに！",
+    "summary": "ASUSの高性能ゲーミングモニター「ROG Swift 32-inch 4K OLED」が、現在31%という大幅な割引価格で販売されています。OLEDの美しい映像体験をより手軽に導入できるチャンスです。",
+    "insight": "OLEDパネルは応答速度やコントラスト比で圧倒的な優位性がありますが、焼付き対策などの制御ロジックは常に進化しています。このクラスのデバイスが値下がりするタイミングは、開発環境のディスプレイ構成を見直す良い機会です。",
+    "sourceUrl": "https://tech.sportskeeda.com/gaming-news/news-asus-rog-swift-32-inch-4k-oled-gaming-monitor-sees-massive-31",
+    "sourceName": "Sportskeeda Tech",
+    "originalImageUrl": "https://staticg.sportskeeda.com/editor/2026/03/d6d3c-17743919313276-1920.jpg",
+    "originalImageArticleUrl": "https://tech.sportskeeda.com/gaming-news/news-asus-rog-swift-32-inch-4k-oled-gaming-monitor-sees-massive-31",
+    "displayDate": "2026-03-25"
+  },
+  "SONY": {
+    "title": "Xperia 1 VIIIスペック情報：4K 180Hz搭載か",
+    "summary": "次期Xperiaフラッグシップ「Xperia 1 VIII」に関するリーク情報が浮上。4K解像度かつ180Hzの高リフレッシュレート駆動、さらに8K動画撮影への対応など、クリエイターのニーズに特化したハイエンドスペックが示唆されており、注目が集まっています。",
+    "insight": "モバイルデバイスにおける4K 180Hzの駆動は、電力効率と熱設計において非常に高いレベルのエンジニアリングが求められます。特にストリーミングや動画編集時のパイプライン処理において、どのようにバッテリー消費とパフォーマンスを両立させているのか、ディスプレイ駆動技術の進化に注目です。",
+    "sourceUrl": "https://sumahodigest.com/?p=57306",
+    "sourceName": "スマホダイジェスト",
+    "originalImageUrl": "https://sumahodigest.com/wp-content/uploads/2026/03/Screenshot-2026-03-24-100040.jpg",
+    "originalImageArticleUrl": "https://sumahodigest.com/?p=57306",
+    "displayDate": "2026-03-25"
+  },
+  "TCL": {
+    "title": "TCLの躍進とSonyのTV事業売却の噂：市場のパラダイムシフト",
+    "summary": "Sonyが約10億ドル規模でTV事業の売却を検討しているという報道が業界を揺るがしています。一方、TCLはMini LEDやMicro LED技術を武器に、ハイエンド層へも圧倒的なコストパフォーマンスで急速にシェアを拡大しており、ディスプレイ市場の勢力図が大きく塗り替えられようとしています。",
+    "insight": "レガシーなプレミアムブランドがハードウェア製造の採算性に苦しむ一方、TCLのような垂直統合型のサプライチェーンを持つ企業が、高度なディスプレイ技術をコモディティ価格で提供するモデルが強さを増しています。エンジニアとしては、単なるパネルスペックだけでなく、バックライト制御アルゴリズムや画質処理チップのソフトウェアスタックが、いかに差別化要因になっているかに注目すべきです。",
+    "sourceUrl": "https://www.channelnews.com.au/sony-nears-1-billion-tv-exit-in-industry-shaking-deal-with-tcl-retailers-excited/",
+    "sourceName": "channelnews.com.au",
+    "originalImageUrl": "https://www.channelnews.com.au/wp-content/uploads/2026/01/TCL-display-panels-and-Sony-microphone.png",
+    "originalImageArticleUrl": "https://www.channelnews.com.au/sony-nears-1-billion-tv-exit-in-industry-shaking-deal-with-tcl-retailers-excited/",
+    "displayDate": "2026-03-25"
+  },
+  "TV": {
+    "title": "2026年最新：高性能OLEDテレビの市場トレンドと価格競争",
+    "summary": "2026年3月現在、AmazonのビッグスプリングセールなどでLG C4/C5 OLEDテレビに大幅な割引が適用されています。最高の色再現性を求める層に向けた高性能モデルの価格が下落しており、技術進化に伴う買い替え需要が高まっています。",
+    "insight": "最新のOLEDやMiniLED技術は、ピーク輝度と色精度の向上により、クリエイター向けのモニター代替としても実用レベルに達しています。エンジニア目線では、パネル制御のアルゴリズムや消費電力効率の進化を比較検証するのが面白い時期です。",
+    "sourceUrl": "https://www.tomsguide.com/tvs/oled-tvs/best-buy-is-matching-amazons-big-spring-sale-with-this-epic-lg-c5-oled-tv-deal-usd1-300-off-the-price",
+    "sourceName": "Tom's Guide",
+    "originalImageUrl": "https://cdn.mos.cms.futurecdn.net/rbmxVZTSyoUL5dMjUKctwh-2000-80.jpg",
+    "originalImageArticleUrl": "https://www.tomsguide.com/tvs/oled-tvs/best-buy-is-matching-amazons-big-spring-sale-with-this-epic-lg-c5-oled-tv-deal-usd1-300-off-the-price",
+    "displayDate": "2026-03-25"
+  },
+  "SRD / XR": {
+    "title": "VR版『PAYDAY: Aces High』発表：2026年発売へ",
+    "summary": "人気協力型FPS『PAYDAY』シリーズのVR新作『PAYDAY: Aces High』が発表。SteamVRおよびMeta Quest向けに最大4人の協力プレイが可能で、2026年内のリリースを予定しています。VRゲームショーケースで注目を集めました。",
+    "insight": "AAAタイトルのVR移植において、最大4人の協力プレイをいかに快適なパフォーマンスで維持し、VR特有の操作性と同期させるかが開発の要となります。クロスプラットフォーム展開が主流となる中、ネットワーク遅延と没入感の両立に向けた最適化技術の進化が期待されます。",
+    "sourceUrl": "https://news.yahoo.co.jp/articles/4083da43d3e50b46227869a3b7fece5ac2ee0423",
+    "sourceName": "Yahoo!ニュース",
+    "originalImageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260325-00000005-gamespav-000-1-view.jpg?exp=10800",
+    "originalImageArticleUrl": "https://news.yahoo.co.jp/articles/4083da43d3e50b46227869a3b7fece5ac2ee0423",
+    "displayDate": "2026-03-25"
+  },
+  "Projector": {
+    "title": "Epsonが新型プロジェクターを発表、テレビ不要の未来へ",
+    "summary": "Epsonが発表した最新のプロジェクター「Lifestudio Grand Plus」が話題です。大画面かつ高画質な視聴体験を実現し、家庭でのテレビ代わりとしてのポテンシャルを強力に押し出しています。",
+    "insight": "プロジェクターの光出力向上や高コントラスト化により、環境光がある場所でもテレビ並みの視聴体験が可能になりつつあります。エンジニア視点では、ハードウェアのスペック向上だけでなく、UI/UXやストリーミング環境との統合が普及の鍵となるでしょう。",
+    "sourceUrl": "https://www.androidauthority.com/epson-lifestudio-grand-plus-launch-3651643/",
+    "sourceName": "Android Authority",
+    "originalImageUrl": "https://www.androidauthority.com/wp-content/uploads/2026/03/Epson-Lifestudio-Grand-Plus-scaled.jpg",
+    "originalImageArticleUrl": "https://www.androidauthority.com/epson-lifestudio-grand-plus-launch-3651643/",
+    "displayDate": "2026-03-25"
+  },
+  "Production Monitor": {
+    "title": "2025年版：デスクトップLinuxの現状と課題",
+    "summary": "Ubuntuの開発元Canonicalが、デスクトップUXの専門家スコット・ジェンソン氏を招き、Linuxデスクトップの現状と今後の展望について議論。UI/UXの進化と、OSとしての実用性が再評価されています。",
+    "insight": "映像制作現場ではMacやWindowsが主流ですが、エンジニアリングの観点からは、LinuxのUX改善はインフラからクリエイティブツールへの進出を加速させる重要な動向です。OSSエコシステムの成長とデスクトップとしての使い勝手の乖離をどう埋めるかが、今後の技術的焦点となります。",
+    "sourceUrl": "https://www.provideocoalition.com/2025-in-review-linux-on-the-desktop/",
+    "sourceName": "ProVideo Coalition",
+    "originalImageUrl": "https://www.provideocoalition.com/wp-content/uploads/pexels-markusspiske-177598-1024x683.jpg",
+    "originalImageArticleUrl": "https://www.provideocoalition.com/2025-in-review-linux-on-the-desktop/",
+    "displayDate": "2026-03-25"
+  },
+  "LED Wall Display": {
+    "title": "エッジAIで通信コストを激減！次世代ビデオプラットフォーム",
+    "summary": "TotalMediaとInventecが、ISC West 2026でAIビデオ圧縮技術を活用した分散型ビデオAI安全プラットフォームを発表しました。この技術は、エッジ側でAIによる知覚圧縮を行うことで、LTE/5Gの伝送コストとストレージ要件を大幅に削減します。",
+    "insight": "映像データの圧縮にAIを組み込み、エッジ側で推論・軽量化を行うアプローチは、高精細なLEDウォールや監視システムにおける通信帯域のボトルネックを解消する鍵となります。単なる伝送技術ではなく、コンピューティング資源を分散配置するアーキテクチャの設計が、今後のAV/IT融合領域でますます重要視されるでしょう。",
+    "sourceUrl": "https://ravepubs.com/totalmedia-and-inventec-debut-distributed-ai-video-intelligence-platform-at-isc-west-2026/",
+    "sourceName": "rAVe [PUBS]",
+    "originalImageUrl": "https://ravepubs.com/wp-content/uploads/2026/03/TotalMedia-Aware-Platform-Image-resized-for-rAVe-800x496.webp",
+    "originalImageArticleUrl": "https://ravepubs.com/totalmedia-and-inventec-debut-distributed-ai-video-intelligence-platform-at-isc-west-2026/",
+    "displayDate": "2026-03-25"
+  },
+  "Camera Control": {
+    "title": "OpenAIがSoraを開発中止、著作権リスクが要因か",
+    "summary": "OpenAIが昨年9月にリリースした動画生成AI「Sora 2」の開発をわずか数ヶ月で中止しました。巨額投資をしていたディズニーの撤退が報じられるなど、AIモデルの学習における著作権問題や法的リスクが、急速に進化する生成AI業界に大きな影響を及ぼしていることが浮き彫りとなりました。",
+    "insight": "生成AIにおける学習データのライセンス問題は、企業の投資判断を左右するクリティカルなリスクとなっています。エンジニアとしては、モデル開発におけるデータセットのコンプライアンス確保や、透明性のあるAIガバナンス構築の重要性が今後さらに増していくでしょう。",
+    "sourceUrl": "https://petapixel.com/2026/03/24/openai-kills-sora-and-loses-disneys-1b-investment/",
+    "sourceName": "PetaPixel",
+    "originalImageUrl": "https://petapixel.com/assets/uploads/2026/03/sora-dead-featured.jpg",
+    "originalImageArticleUrl": "https://petapixel.com/2026/03/24/openai-kills-sora-and-loses-disneys-1b-investment/",
+    "displayDate": "2026-03-25"
+  }
+}
