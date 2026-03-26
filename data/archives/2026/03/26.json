@@ -1,0 +1,102 @@
+{
+  "SRD / XR": {
+    "title": "VR×歴史遺産：NHKが渋谷で大阪城VR体験イベントを開催",
+    "summary": "NHKのドラマ「豊臣兄弟！」放映に合わせ、渋谷にて大阪城を題材にしたVR体験イベントが開催されます。歴史コンテンツを最新のVR技術で再現し、都市部での没入体験を創出する取り組みです。",
+    "insight": "歴史・教育コンテンツとVRの融合は、物理的な制約を超える強力なソリューションです。開発者視点では、特定のロケーションに紐付いた体験や、高精細なCGと現実の歴史的文脈をどうUXとして統合するかが重要になります。",
+    "sourceUrl": "https://www.shibukei.com/headline/19805/",
+    "sourceName": "シブヤ経済新聞",
+    "originalImageUrl": "https://images.keizai.biz/shibukei/headline/1774421112_photo.jpg",
+    "originalImageArticleUrl": "https://www.shibukei.com/headline/19805/",
+    "displayDate": "2026-03-26"
+  },
+  "AI": {
+    "title": "AI研究の完全自動化へ：Natureが示す未来",
+    "summary": "科学誌Natureが、AI研究そのものをAIが自動化する「エンドツーエンドの自動化」への展望を報じました。AIが実験の立案から実行、解析までを自律的に行う手法の確立は、科学的発見のサイクルを劇的に加速させる可能性を秘めています。",
+    "insight": "AIが単なるツールから、研究プロセスを完結させる「自律的エージェント」へと進化している点は注目すべき技術的転換点です。エンジニアとしては、実験の自動生成からフィードバックループの構築に至るまで、AIワークフローをいかに設計・統合できるかが、今後の研究開発競争の鍵となります。",
+    "sourceUrl": "https://www.nature.com/articles/s41586-026-10265-5",
+    "sourceName": "Nature",
+    "originalImageUrl": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-026-10265-5/MediaObjects/41586_2026_10265_Fig1_HTML.png",
+    "originalImageArticleUrl": "https://www.nature.com/articles/s41586-026-10265-5",
+    "displayDate": "2026-03-26"
+  },
+  "TCL": {
+    "title": "TCLのMicroLED、低価格化で普及へ",
+    "summary": "TCLが次世代ディスプレイ技術である「True MicroLED TV」の価格を大幅に引き下げました。これまで高額で導入のハードルが高かったMicroLEDが、民生機として現実的な価格帯へ移行しつつあります。",
+    "insight": "MicroLEDはバックライト不要で各画素が自己発光するため、究極のコントラストと応答速度を実現できる次世代ディスプレイ技術です。量産コストの低下は、既存のOLED市場を塗り替える可能性があり、フロントエンドエンジニアにとってもデバイスの表示性能や色空間の新しい標準として注視すべき動向です。",
+    "sourceUrl": "https://www.flatpanelshd.com/news.php?subaction=showfull&id=1773908110",
+    "sourceName": "FlatpanelsHD",
+    "originalImageUrl": "https://www.flatpanelshd.com/pictures/tclmicroled2026.jpg",
+    "originalImageArticleUrl": "https://www.flatpanelshd.com/news.php?subaction=showfull&id=1773908110",
+    "displayDate": "2026-03-26"
+  },
+  "SONY": {
+    "title": "海外で4Kブラビア新製品発表、最大100インチの大型ラインナップ",
+    "summary": "海外ソニーより、2026年モデルとなる4Kブラビア「BRAVIA 3 II」および「BRAVIA 2 II」が発表されました。最大100インチという超大型サイズの展開や、HDMI 2.1を4ポート搭載するなど高いスペックが注目されています。また、OSにはGoogle TVを採用し、AIツールGeminiとの連携も強化されています。",
+    "insight": "大型ディスプレイにおけるHDMI 2.1のフル活用やGoogle TVを通じたAI統合は、近年のスマートTVが単なる映像出力デバイスからAIエッジ端末へと進化していることを示しています。ソフトウェア側の要件定義や、AI処理を見越したハードウェアの演算リソース確保といったエンジニアリングの観点でも示唆に富むニュースです。",
+    "sourceUrl": "https://kunkoku.jp/bravia2026-4.html",
+    "sourceName": "ソニーが基本的に好き。",
+    "originalImageUrl": "https://kunkoku.jp/wp-content/uploads/2026/03/260326a22.jpg",
+    "originalImageArticleUrl": "https://kunkoku.jp/bravia2026-4.html",
+    "displayDate": "2026-03-26"
+  },
+  "Gaming Monitor": {
+    "title": "眠れるNPUを叩き起こせ：LLM活用で変わるハードウェア運用",
+    "summary": "最新のPCに標準搭載されながらも、稼働率が低いNPU（Neural Processing Unit）の活用法について。LLMを組み込むことで、遊休状態のハードウェアリソースを効率的に活用し、ローカル環境での推論処理を高速化する試みが注目されています。",
+    "insight": "AI特化型ハードウェアが普及する中で、OSやミドルウェアがいかにNPUへ処理をオフロードするかがエンジニアリングの鍵となります。既存のCPU/GPU依存のパイプラインからNPUアクセラレーションへ移行する際のオーバーヘッドと最適化手法は、今後クライアントサイドのAI実装における重要な課題です。",
+    "sourceUrl": "https://pc.watch.impress.co.jp/docs/topic/feature/2096319.html",
+    "sourceName": "PC Watch",
+    "originalImageUrl": "https://pc.watch.impress.co.jp/img/pcw/list/2096/319/1.png",
+    "originalImageArticleUrl": "https://pc.watch.impress.co.jp/docs/topic/feature/2096319.html",
+    "displayDate": "2026-03-26"
+  },
+  "TV": {
+    "title": "ソニーのゲーミングTV新機能に潜む「落とし穴」",
+    "summary": "ソニーがゲーミング向けTVのアップデートを発表しましたが、特定のモデルや設定において、期待していたパフォーマンスが発揮できない「落とし穴」が存在することがWhat Hi-Fi?の検証で報じられました。ゲーマーにとって待望の機能更新でしたが、ハードウェア制約とソフトウェア仕様の乖離が議論を呼んでいます。",
+    "insight": "ファームウェアやハードウェアのアップデートにおいて、スペック上の数値だけでなく、実際のレンダリングパイプラインや入力遅延への影響をエンジニア視点で評価することの重要性を示唆しています。消費者向け製品であっても、実装における技術的な制約事項を事前に特定・検証するプロセスは非常に重要です。",
+    "sourceUrl": "https://www.whathifi.com/tv-home-cinema/televisions/theres-finally-a-sony-tv-with-four-hdmi-2-1-sockets-but-there-are-two-big-problems",
+    "sourceName": "What Hi-Fi?",
+    "originalImageUrl": "https://cdn.mos.cms.futurecdn.net/KAXV6HMzNBde68U37w5ZYP-1600-80.jpg",
+    "originalImageArticleUrl": "https://www.whathifi.com/tv-home-cinema/televisions/theres-finally-a-sony-tv-with-four-hdmi-2-1-sockets-but-there-are-two-big-problems",
+    "displayDate": "2026-03-26"
+  },
+  "LED Wall Display": {
+    "title": "大型LEDディスプレイと音響の融合：課題と技術解法",
+    "summary": "米国の国立アフリカ系アメリカ人音楽博物館における、約20メートル（60フィート）の湾曲大型スクリーン導入事例。巨大ディスプレイと高音質な音響システムの共存が、設計上の課題とされました。",
+    "insight": "巨大なLED壁面は反射面となり、空間の音響設計を複雑にします。エンジニアにとって、視覚的インパクトだけでなく、空間内の音響特性（反射・吸収）をシミュレーションし、DSPや配置でどう制御するかという統合的なシステム設計が重要です。",
+    "sourceUrl": "https://ravepubs.com/powersoft-ottocanali-powers-innovox-system/",
+    "sourceName": "rAVe [PUBS]",
+    "originalImageUrl": "https://ravepubs.com/wp-content/uploads/2026/03/powersof-nmaam-800x400.webp",
+    "originalImageArticleUrl": "https://ravepubs.com/powersoft-ottocanali-powers-innovox-system/",
+    "displayDate": "2026-03-26"
+  },
+  "Production Monitor": {
+    "title": "OpenAIがSoraを終了、Disneyとの10億ドル契約も破棄",
+    "summary": "OpenAIが動画生成AI「Sora」の提供を突如終了しました。これに伴い、Disneyと締結していた10億ドル規模のAI動画制作契約も解消されます。同社は計算リソースをプロダクティビティツールやエージェント型AI、ロボティクス研究へシフトし、年内のIPO準備を優先する方針です。",
+    "insight": "華々しく登場した生成AIモデルが戦略的理由で撤退する稀な事例です。AI開発における計算リソースの最適化がいかに経営上の重要な意思決定であるかを物語っており、エンジニアとしては「流行の技術」よりも「ビジネスのROI」に基づくポートフォリオ管理の重要性を再認識させられます。",
+    "sourceUrl": "https://www.cined.com/openai-shuts-down-sora-as-disney-exits-1-billion-ai-video-deal/",
+    "sourceName": "CineD",
+    "originalImageUrl": "https://www.cined.com/content/uploads/2026/03/Sora-shutdown1-300x169.jpg",
+    "originalImageArticleUrl": "https://www.cined.com/openai-shuts-down-sora-as-disney-exits-1-billion-ai-video-deal/",
+    "displayDate": "2026-03-26"
+  },
+  "Camera Control": {
+    "title": "AIの倫理的開発を宣言：Aftershootが掲げる3つの柱",
+    "summary": "AIによる写真の自動選別・編集プラットフォームを提供するAftershootが、AI開発における「写真家の権利を守り、サポートする」ための拘束力のある公約を発表しました。技術がクリエイターの代替ではなく、パートナーとして機能するための透明性と倫理指針を明確化しています。",
+    "insight": "AIツールを開発・導入する際、ツールがユーザーのワークフローをどのように補完し、著作権やアイデンティティを尊重するかという『AI倫理』の観点が非常に重要になっています。単なる効率化だけでなく、ユーザーとの信頼関係を維持するためのガバナンス設計は、現代のソフトウェア開発において不可欠な差別化要因です。",
+    "sourceUrl": "https://petapixel.com/2026/03/25/aftershoot-promises-to-develop-ai-that-works-for-never-against-photographers/",
+    "sourceName": "PetaPixel",
+    "originalImageUrl": "https://petapixel.com/assets/uploads/2026/03/aftershoot-ai-featured.jpg",
+    "originalImageArticleUrl": "https://petapixel.com/2026/03/25/aftershoot-promises-to-develop-ai-that-works-for-never-against-photographers/",
+    "displayDate": "2026-03-26"
+  },
+  "Projector": {
+    "title": "Hisenseのトリプルレーザープロジェクター「XR10」が予約開始",
+    "summary": "Hisenseの最新プロジェクター「XR10」の予約受付が開始されました。トリプルレーザー光源を搭載し、高コントラストで鮮やかな映像表現を実現するモデルとして注目されています。ホームシアターの質を一段引き上げる新たな選択肢となります。",
+    "insight": "トリプルレーザー技術は、従来の光源に比べて色域再現率が飛躍的に向上しており、エンジニア視点でも色彩制御アルゴリズムや光学設計の進化が注目されます。高出力・高精細なディスプレイデバイスの小型化が進み、家庭での没入型環境構築がより身近になっています。",
+    "sourceUrl": "https://www.twice.com/product/video/projectors/hisense-xr10-triple-laser-projector-available-for-pre-order",
+    "sourceName": "Consumer Electronic News",
+    "originalImageUrl": "https://www.twice.com/wp-content/uploads/2026/03/unnamed-87.jpg",
+    "originalImageArticleUrl": "https://www.twice.com/product/video/projectors/hisense-xr10-triple-laser-projector-available-for-pre-order",
+    "displayDate": "2026-03-26"
+  }
+}
