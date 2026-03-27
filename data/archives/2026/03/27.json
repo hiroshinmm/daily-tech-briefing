@@ -1,0 +1,102 @@
+{
+  "Gaming Monitor": {
+    "title": "5K・330Hzのデュアルモード液晶が登場",
+    "summary": "ASUSが発売した「ROG Strix 5K XG27JCG」は、5K（5120×2880）の高精細表示と最大330Hzのリフレッシュレートを切り替えて使える「デュアルモード」を搭載。作業領域とゲーミング性能の両立を極めたユニークなディスプレイです。",
+    "insight": "解像度とフレームレートという、従来はトレードオフだった要素をパネル制御技術で両立させた点がエンジニアとして興味深いです。スケーラー技術や伝送帯域の最適化がどのように行われているのか、ディスプレイコントローラーの進化を感じさせます。",
+    "sourceUrl": "https://www.4gamer.net/games/047/G004755/20260311060/",
+    "sourceName": "4Gamer.net − 最新記事",
+    "originalImageUrl": "https://www.4gamer.net/games/047/G004755/20260311060/SS/002.jpg",
+    "originalImageArticleUrl": "https://www.4gamer.net/games/047/G004755/20260311060/",
+    "displayDate": "2026-03-27"
+  },
+  "AI": {
+    "title": "ネット上のトラフィックの過半数がボットに：AI時代のネット環境",
+    "summary": "最新のレポートにより、インターネット上のトラフィックにおいて人間以外のAIやボットが占める割合が過半数に達したことが明らかになりました。AIの急速な普及とWebスクレイピングの増加が、オンライン上のデータ環境を根本から変えつつあることを示唆しています。",
+    "insight": "エンジニアは今やWebトラフィックの多くがAIエージェントによるものであることを前提に、WAFやレート制限、ボット対策を設計する必要があります。また、クローラーからのアクセス増加を考慮したスケーラブルなインフラ構築と、人間と非人間を識別する堅牢な認証の実装がこれまで以上に重要です。",
+    "sourceUrl": "https://www.cnbc.com/2026/03/26/ai-bots-humans-internet.html",
+    "sourceName": "CNBC",
+    "originalImageUrl": "https://image.cnbcfm.com/api/v1/image/108282949-1774456630971-gettyimages-2193072141-dsc03513.jpeg?v=1774456650&w=1920&h=1080",
+    "originalImageArticleUrl": "https://www.cnbc.com/2026/03/26/ai-bots-humans-internet.html",
+    "displayDate": "2026-03-27"
+  },
+  "SRD / XR": {
+    "title": "スマートグラスにAI搭載！Even G2の新機能「Prep Notes」",
+    "summary": "Even Realitiesのスマートグラス「Even G2」がアップデートされ、会議の事前準備と会話中の情報を視界に統合して表示する「Prep Notes」が登場しました。AI連携により実用性が向上しています。",
+    "insight": "ウェアラブルデバイスにおいて、AR表示を単なる情報提示から「文脈依存の支援ツール」へと進化させる好例です。AIモデルの推論結果を低遅延でUIに反映させるアーキテクチャの重要性が今後さらに高まるでしょう。",
+    "sourceUrl": "https://www.moguravr.com/even-realities-even-g2-prep-notes/",
+    "sourceName": "Mogura VR",
+    "originalImageUrl": "https://assets.moguravr.com/uploads/2026/03/8ac080f7eca26e8fdfb785a155bb010a-kix.jvqtubqna8nu-300x169.webp",
+    "originalImageArticleUrl": "https://www.moguravr.com/even-realities-even-g2-prep-notes/",
+    "displayDate": "2026-03-27"
+  },
+  "SONY": {
+    "title": "ソニー、スマホをサブモニター化する特許を出願",
+    "summary": "ソニーが、スマートフォンをDualSenseコントローラーに装着し、セカンドスクリーンやカメラ連動を行うための特許を出願したことが判明しました。将来的にPS6での2画面プレイやUI拡張の実現が期待されています。",
+    "insight": "モバイルデバイスを専用インターフェースとして再定義し、既存のゲーミング環境を拡張するアーキテクチャの好例です。エッジデバイスの計算リソースやタッチUIを既存の周辺機器に統合するこの設計思想は、低レイテンシな通信とUI同期のエンジニアリングが鍵となります。",
+    "sourceUrl": "https://daily-gadget.net/game_gaming/111542/",
+    "sourceName": "デイリーガジェット",
+    "originalImageUrl": "https://i0.wp.com/daily-gadget.net/wp-content/uploads/2026/03/article7_image1.jpg?fit=1892%2C1056&ssl=1",
+    "originalImageArticleUrl": "https://daily-gadget.net/game_gaming/111542/",
+    "displayDate": "2026-03-27"
+  },
+  "TCL": {
+    "title": "TCLがMicroLEDテレビを大幅値下げ",
+    "summary": "TCLが次世代ディスプレイ技術であるMicroLEDテレビの価格を劇的に引き下げました。従来は非常に高価だった技術を消費者向けに現実的な価格帯へ近づける動きとして注目されています。",
+    "insight": "MicroLEDは有機ELを超える輝度と寿命を持ちますが、製造コストが最大のボトルネックでした。この価格改定は、転写技術や歩留まりの改善が進んでいる可能性を示唆しており、将来的なディスプレイの主流交代を予感させます。",
+    "sourceUrl": "https://www.flatpanelshd.com/news.php?subaction=showfull&id=1773908110",
+    "sourceName": "FlatpanelsHD",
+    "originalImageUrl": "https://www.flatpanelshd.com/pictures/tclmicroled2026.jpg",
+    "originalImageArticleUrl": "https://www.flatpanelshd.com/news.php?subaction=showfull&id=1773908110",
+    "displayDate": "2026-03-27"
+  },
+  "TV": {
+    "title": "OLEDテレビ市場の覇権争いが激化",
+    "summary": "LG ElectronicsがTCL・ソニー連合を意識し、OLED TV市場でのシェア1位維持に自信を見せています。一方でHisenseが新型のRGB MiniLED TVを発表し、特典付きの予約販売を開始するなど、高画質テレビ市場におけるメーカー間の競争がかつてないほど激化しています。",
+    "insight": "家電業界では、ディスプレイ技術の進化とあわせて、ソフトウェアの統合やエコシステム戦略が重視されています。ハードウェアの性能競争だけでなく、購入特典などの顧客体験を組み合わせたマーケティング戦略は、他分野のエンジニアにとっても興味深いトレンドです。",
+    "sourceUrl": "https://www.msn.com/en-us/lifestyle/shopping/lg-electronics-confident-of-retaining-no-1-spot-in-oled-tv-market-over-tcl-sony-alliance/ar-AA1ZpdBU?ocid=Peregrine",
+    "sourceName": "MSN",
+    "originalImageUrl": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1ZpDcp.img?w=612&h=383&m=4&q=99",
+    "originalImageArticleUrl": "https://www.msn.com/en-us/lifestyle/shopping/lg-electronics-confident-of-retaining-no-1-spot-in-oled-tv-market-over-tcl-sony-alliance/ar-AA1ZpdBU?ocid=Peregrine",
+    "displayDate": "2026-03-27"
+  },
+  "LED Wall Display": {
+    "title": "映像と照明が融合！CALICO PROの制御進化",
+    "summary": "tvONEは映像プロセッサ「CALICO PRO」のアップデート（v1.5）を発表しました。最大の特徴は、sACN経由のDMX制御に対応した点です。これにより、照明コンソールから直接、映像の切り替えやキューの実行が可能になり、照明エンジニアと映像エンジニアのワークフローが統合されます。",
+    "insight": "プロAV機器が照明用プロトコルであるDMX/sACNをネイティブサポートする動きは、演出機材のボーダレス化を象徴しています。映像システム側で制御APIや通信プロトコルを柔軟に拡張することは、統合型演出環境を構築するエンジニアにとって不可欠なスキルとなるでしょう。",
+    "sourceUrl": "https://ravepubs.com/tvone-calico-pro-v1-5-brings-video-processing-to-the-lighting-console/",
+    "sourceName": "rAVe [PUBS]",
+    "originalImageUrl": "https://ravepubs.com/wp-content/uploads/2026/03/tvONE-CALICO-2200-1-800x424.webp",
+    "originalImageArticleUrl": "https://ravepubs.com/tvone-calico-pro-v1-5-brings-video-processing-to-the-lighting-console/",
+    "displayDate": "2026-03-27"
+  },
+  "Projector": {
+    "title": "エプソン、AI統合型ホームプロジェクターを発表",
+    "summary": "エプソンが最新の「Lifestudio Grand Plus」を発表しました。本機はAI機能をホームシアターシステムに統合しており、画質最適化やコンテンツ体験の向上を図る新世代モデルです。AIを活用した自動調整機能が、今後の家電デバイスにおける標準的なUXになることが期待されます。",
+    "insight": "AV機器にもAIの統合が進んでおり、ハードウェア性能だけでなく、画質や音響をリアルタイムに最適化するソフトウェアアルゴリズムの重要性が増しています。エンジニアとしては、AIがどのようにコンテキストを理解し、UXに反映させているかという視点を持つことが、プロダクト開発の参考になります。",
+    "sourceUrl": "https://androidguys.com/news/epson-lifestudio-grand-plus-ust-projector-boasts-4k-bose-audio-google-tv/",
+    "sourceName": "AndroidGuys",
+    "originalImageUrl": "https://i0.wp.com/androidguys.com/wp-content/uploads/2026/03/20002531000_epson.webp?fit=1200%2C673&ssl=1",
+    "originalImageArticleUrl": "https://androidguys.com/news/epson-lifestudio-grand-plus-ust-projector-boasts-4k-bose-audio-google-tv/",
+    "displayDate": "2026-03-27"
+  },
+  "Production Monitor": {
+    "title": "OpenAIが「Sora」公開を断念？業界激震のニュース",
+    "summary": "CineDのポッドキャストにて、OpenAIがSoraアプリの提供を終了し、Disneyとの提携も解消されたことが報告されました。期待されていた生成AI動画ツールが撤退した背景は、業界全体に大きな波紋を呼んでいます。",
+    "insight": "AI生成技術の実用化には、法規制や著作権だけでなく、商用展開におけるビジネスモデルの持続可能性が極めて重要であることを示唆しています。エンジニアとしては、特定のプラットフォーム依存のリスクを再評価し、技術選定における保守的かつ柔軟なスタンスが求められます。",
+    "sourceUrl": "https://www.cined.com/dji-avata-360-takes-on-antigravity-a1-openai-kills-sora-and-gopro-won-on-looks-but-lost-on-tech-focus-check-ep109/",
+    "sourceName": "CineD",
+    "originalImageUrl": "https://www.cined.com/content/uploads/2026/03/ep109_Focus_Check-featured1-300x169.jpg",
+    "originalImageArticleUrl": "https://www.cined.com/dji-avata-360-takes-on-antigravity-a1-openai-kills-sora-and-gopro-won-on-looks-but-lost-on-tech-focus-check-ep109/",
+    "displayDate": "2026-03-27"
+  },
+  "Camera Control": {
+    "title": "カメラメーカーが「生成AI」を否定する理由",
+    "summary": "カメラ業界の主要メーカー各社が、カメラ本体への生成AI機能の統合を拒否する姿勢を明確にしました。テクノロジー業界全体がAI活用に熱狂する中、なぜ彼らが「写真の真実性」という根源的な価値を守るために、敢えてAIの導入に一線を画すのか。その哲学と戦略的背景について議論します。",
+    "insight": "デバイスの進化において、AIによる生成・改変を排除し、光学的な記録の信頼性を担保することは、プロフェッショナル市場における重要な差別化要因となります。ソフトウェアエンジニアの視点で見ると、ポスト処理が前提のAI時代において、あえてハードウェアレベルでの「非AI」をブランド価値として確立するビジネスモデルは非常に興味深いです。",
+    "sourceUrl": "https://petapixel.com/2026/03/26/every-camera-brand-agrees-generative-ai-doesnt-belong-in-photography/",
+    "sourceName": "PetaPixel",
+    "originalImageUrl": "https://petapixel.com/assets/uploads/2026/03/Every-Camera-Brand-Agrees-Generative-AI-Doesnt-Belong-in-Photography.jpg",
+    "originalImageArticleUrl": "https://petapixel.com/2026/03/26/every-camera-brand-agrees-generative-ai-doesnt-belong-in-photography/",
+    "displayDate": "2026-03-27"
+  }
+}
