@@ -1,0 +1,102 @@
+{
+  "SRD / XR": {
+    "title": "手首の動きでVRを操作：高精度ハンドトラッキングの新手法",
+    "summary": "ロボットやVRの手をより人間らしくリアルタイムに動かすことができる、新しいリストバンド型デバイスが登場しました。従来よりも直感的で精緻な操作を可能にする技術として注目されています。",
+    "insight": "ハンドトラッキングの精度向上は、VR/XRの没入感を決定づける重要な技術課題です。光学式だけでなく、筋肉の動きを検知するウェアラブルデバイスの併用は、遅延や遮蔽問題を解決する有力なアプローチになるでしょう。",
+    "sourceUrl": "https://www.gizmodo.jp/2026/03/real-time-hand-tracker.html",
+    "sourceName": "ギズモード・ジャパン",
+    "originalImageUrl": "https://media.loom-app.com/gizmodo/dist/images/2026/03/29/Areal-timehandtracker0-32screenshot.png?w=1280",
+    "originalImageArticleUrl": "https://www.gizmodo.jp/2026/03/real-time-hand-tracker.html",
+    "displayDate": "2026-03-30"
+  },
+  "AI": {
+    "title": "AI人材の市場価値、米国で平均年収2400万円へ",
+    "summary": "AI需要の急増に伴い、数学やAI専門知識を持つ人材の争奪戦が米国で激化しています。AIエンジニアやデータサイエンティストの平均年収が約2400万円に達しており、専門的スキルの価値がかつてないほど高まっています。",
+    "insight": "AI分野での競争力維持には、深層学習の理論背景（数学）を深く理解し、それをプロダクトに適用できるエンジニアの確保が不可欠です。今後は単なるライブラリ利用者ではなく、計算効率と精度を最適化できる専門人材の希少性が一層増すでしょう。",
+    "sourceUrl": "https://www.nikkei.com/article/DGXZQOSG024JL0S6A200C2000000/",
+    "sourceName": "日本経済新聞",
+    "originalImageUrl": "https://article-image-ix.nikkei.com/https%3A%2F%2Fimgix-proxy.n8s.jp%2FDSXZQO2779580019032026000000-1.jpg?auto=format&bg=FFFF&crop=focalpoint&fit=crop&h=630&w=1200&s=a9dcd2c54b983961328c191922f6b3e4",
+    "originalImageArticleUrl": "https://www.nikkei.com/article/DGXZQOSG024JL0S6A200C2000000/",
+    "displayDate": "2026-03-30"
+  },
+  "SONY": {
+    "title": "ソニーがCFexpressメモリーの受注を一時停止",
+    "summary": "世界的な半導体不足の影響を受け、ソニーはCFexpress Type Aメモリーカードの受注を一時停止すると発表しました。高速転送が求められるプロ向けの映像制作環境において、ストレージ供給の停滞はワークフローへの影響が懸念されます。",
+    "insight": "CFexpressのような高度なデータ転送規格における半導体依存の高さが浮き彫りになりました。エンジニアの視点からは、サプライチェーンの供給リスクが単なる製品購入だけでなく、特定のハードウェアに最適化された撮影・記録ソリューション全体の持続可能性に直結する教訓と言えます。",
+    "sourceUrl": "https://mirrorless-camera.info/news/sony-news/54422.html",
+    "sourceName": "ミラーレスカメラ情報",
+    "originalImageUrl": "https://mirrorless-camera.info/wp-content/uploads/2023/12/20231209_002.jpg",
+    "originalImageArticleUrl": "https://mirrorless-camera.info/news/sony-news/54422.html",
+    "displayDate": "2026-03-30"
+  },
+  "Gaming Monitor": {
+    "title": "春のAmazonセールでゲーミングモニターが大幅値下げ",
+    "summary": "AmazonのSpring Saleにて、Samsungの40インチG7やLGの曲面4Kモニターなど、主要メーカーのゲーミングモニターが大幅に割引されています。特にハイエンドモデルが500ドル以上安くなるなど、アップグレードの好機となっています。",
+    "insight": "OLED技術の進化と価格の低下が加速しており、開発者の作業環境改善にも絶好のタイミングです。解像度やリフレッシュレートの向上に加え、OLEDの焼き付き防止技術などの信頼性向上にも注目したいところです。",
+    "sourceUrl": "https://mashable.com/article/march-29-best-amazon-spring-sale-samsung-odyssey-g7-gaming-monitor-deal",
+    "sourceName": "Mashable",
+    "originalImageUrl": "https://helios-i.mashable.com/imagery/articles/02z9KzUCuSEn9w6sLyk97KU/hero-image.fill.size_1200x675.v1774785940.jpg",
+    "originalImageArticleUrl": "https://mashable.com/article/march-29-best-amazon-spring-sale-samsung-odyssey-g7-gaming-monitor-deal",
+    "displayDate": "2026-03-30"
+  },
+  "TV": {
+    "title": "高市内閣の支持率72％へ回復 - テレ東・日経世論調査",
+    "summary": "テレビ東京と日本経済新聞が実施した3月の世論調査によると、高市内閣の支持率が前月から上昇し、3カ月ぶりに7割台となる72％を記録しました。政治動向が注目される中、この数値は大きな転換点として各方面で議論を呼んでいます。",
+    "insight": "世論調査データの急激な変動は、エンジニアリングにおける「異常検知」や「トレンド分析」の考え方を想起させます。社会現象を定量データで捉える際、どのようなアルゴリズムやサンプリングが適用されているかを想像すると、データ解析の視点が養われます。",
+    "sourceUrl": "https://txbiz.tv-tokyo.co.jp/readings/2833",
+    "sourceName": "テレ東BIZ",
+    "originalImageUrl": "https://txbiz.tv-tokyo.co.jp/static/images/fblogo.png",
+    "originalImageArticleUrl": "https://txbiz.tv-tokyo.co.jp/readings/2833",
+    "displayDate": "2026-03-30"
+  },
+  "TCL": {
+    "title": "TCLのQLED表示を巡る訴訟：仕様の透明性が議論に",
+    "summary": "一部のTCL製QLEDテレビにおいて、実際のパネルがQLED技術を使用していない可能性があるとして訴訟が提起されました。消費者の信頼と製品表記の正確性が問われており、テック業界におけるマーケティング用語とハードウェア実態の乖離が注目されています。",
+    "insight": "ハードウェアエンジニアの視点では、ディスプレイ技術（QLED vs OLED等）のマーケティング用語が実態を正しく反映しているかの検証は重要です。製品仕様の透明性はブランドの信頼性を左右するため、設計と市場コミュニケーションの整合性は将来的なリスク管理に直結します。",
+    "sourceUrl": "https://www.bgr.com/2130188/tcl-qled-tv-might-not-have-correct-panel/",
+    "sourceName": "bgr.com",
+    "originalImageUrl": "https://www.bgr.com/img/gallery/some-tcl-qled-tvs-might-not-actually-have-a-qled-panel-according-to-this-lawsuit/l-intro-1774288149.jpg",
+    "originalImageArticleUrl": "https://www.bgr.com/2130188/tcl-qled-tv-might-not-have-correct-panel/",
+    "displayDate": "2026-03-30"
+  },
+  "LED Wall Display": {
+    "title": "スマート制御×LED：最新壁掛けヒーターのトレンド",
+    "summary": "Wi-Fi接続とアプリによる遠隔操作、そしてLED表示を組み合わせたスマートなガラスパネル電気ヒーターが注目されています。壁掛け式で空間効率を高めつつ、現代のIoT環境に馴染む家電として、インテリジェントなホームオートメーションの一端を担う製品です。",
+    "insight": "LEDディスプレイとIoTコントローラーの統合は、ハードウェアの差別化において重要です。エンジニアの視点では、単なる照明制御から一歩進んだ、環境センサー連携や電力最適化アルゴリズムを実装したスマート家電のUXデザインが、次世代のUI設計として参考になります。",
+    "sourceUrl": "https://www.digitamol.com/product-p-842327.html",
+    "sourceName": "hotelier.com.py",
+    "originalImageUrl": null,
+    "originalImageArticleUrl": "https://www.digitamol.com/product-p-842327.html",
+    "displayDate": "2026-03-30"
+  },
+  "Projector": {
+    "title": "Hisenseから6,000ルーメンの超強力4Kプロジェクターが登場",
+    "summary": "Hisenseの新型4Kプロジェクター「XR10」が発表されました。6,000ルーメンという圧倒的な輝度に加え、液冷システムとDevialet（デビアレ）製スピーカーを搭載。ホームシアター向けとして非常にハイスペックな仕様が注目されています。",
+    "insight": "AV機器の高性能化において、熱設計と音響設計の統合が重要な差別化要因になっています。特に高輝度レーザー光源における液冷システムの採用は、筐体の小型化と静音化を両立するエンジニアリング上の興味深いトレンドです。",
+    "sourceUrl": "https://www.yankodesign.com/2026/03/29/the-hisense-xr10-packs-6000-lumens-liquid-cooling-and-devialet-audio-into-one-very-serious-4k-projector/",
+    "sourceName": "Yanko Design",
+    "originalImageUrl": "https://www.yankodesign.com/images/design_news/2026/03/the-hisense-xr10-packs-6000-lumens-liquid-cooling-and-devialet-audio-into-one-very-serious-4k-projector/hisense_xr10_projector_1.jpeg",
+    "originalImageArticleUrl": "https://www.yankodesign.com/2026/03/29/the-hisense-xr10-packs-6000-lumens-liquid-cooling-and-devialet-audio-into-one-very-serious-4k-projector/",
+    "displayDate": "2026-03-30"
+  },
+  "Camera Control": {
+    "title": "SF映画のような自作カメラ「Saturnix」が面白い",
+    "summary": "Raspberry Piとメカニカルキーボードのスイッチを搭載した、オープンソースのDIYデジタルカメラ「Saturnix」が話題です。Yutani氏が開発したこのプロジェクトは、レトロフューチャーな外観とPythonベースの独自UIが特徴で、まもなく詳細なビルドガイドが公開予定です。",
+    "insight": "Raspberry Pi Zero 2Wを核に、あえて制約のある環境で独自のUIやフィルムシミュレーションを実装するエンジニアリングの遊び心が素晴らしいです。メカニカルスイッチを採用した物理的な操作感の追求は、現代のタッチパネル偏重なカメラ設計に対するアンチテーゼとしても興味深い事例です。",
+    "sourceUrl": "https://www.dpreview.com/articles/9055612016/saturnix-diy-camera-alien-sci-fi-raspberry-pi",
+    "sourceName": "Digital Photography Review",
+    "originalImageUrl": "https://1.img-dpreview.com/files/p/E~C0x308S960x720T1200x900~articles/9055612016/saturnix_camera_on_rock_with_red_strap.jpeg",
+    "originalImageArticleUrl": "https://www.dpreview.com/articles/9055612016/saturnix-diy-camera-alien-sci-fi-raspberry-pi",
+    "displayDate": "2026-03-30"
+  },
+  "Production Monitor": {
+    "title": "映像技術の基礎：EDIDとUVC Probeの違い",
+    "summary": "カメラやモニターの接続トラブルでよく耳にするEDIDと、Webカメラ等の規格であるUVC。これら技術の役割や違い、そしてシステム構築におけるそれぞれの関与について解説した技術記事です。",
+    "insight": "デバイス間のハンドシェイクの仕組みを理解することは、映像伝送系エンジニアにとってトラブルシューティングの要です。特にHDMI周辺の仕様やプロトコルの差異を整理しておくことで、ハードウェア統合時の「なぜ映らないのか」という問題解決のヒントになります。",
+    "sourceUrl": "https://www.provideocoalition.com/edid-vs-uvc-probe-and-commit-understanding-the-similarities-differences-for-cameras-monitors/",
+    "sourceName": "ProVideo Coalition",
+    "originalImageUrl": "https://www.provideocoalition.com/wp-content/uploads/EDID-vs-UVC-Probe-and-Command-Hero.jpg",
+    "originalImageArticleUrl": "https://www.provideocoalition.com/edid-vs-uvc-probe-and-commit-understanding-the-similarities-differences-for-cameras-monitors/",
+    "displayDate": "2026-03-30"
+  }
+}
