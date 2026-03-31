@@ -1,0 +1,102 @@
+{
+  "SRD / XR": {
+    "title": "Apple Vision ProでBBC Promsを体験、イマーシブ映像の新境地",
+    "summary": "Apple Vision Pro向けに、ロイヤル・アルバート・ホールで開催されたBBC Promsの演奏を収めた35分間のイマーシブ映像が公開されました。高品質な空間オーディオと立体映像で、没入感のある音楽体験を提供しています。",
+    "insight": "AppleのImmersive Video技術は、空間コンピューティングにおけるコンテンツの質を定義しつつあります。特に広大な空間をステレオスコピックな3D映像と空間音響でキャプチャする技術は、今後のエンターテインメント開発における標準となる可能性が高いでしょう。",
+    "sourceUrl": "https://www.uploadvr.com/views-of-debut-at-the-bbc-proms-in-apple-immersive-video/",
+    "sourceName": "UploadVR",
+    "originalImageUrl": "https://www.uploadvr.com/content/images/2026/03/CVR169-TVA-WW-Debut_at_the_BBC_Proms.png",
+    "originalImageArticleUrl": "https://www.uploadvr.com/views-of-debut-at-the-bbc-proms-in-apple-immersive-video/",
+    "displayDate": "2026-03-31"
+  },
+  "AI": {
+    "title": "PCを自律操作する「AIエージェント」の衝撃",
+    "summary": "AIが自ら考えPCを直接操作する新時代のAIエージェント「OpenClaw」が注目を集めています。開発者は1年以内に誰でも直感的に使えるレベルを目指すと語っており、従来の対話型AIから「実行型AI」への急速な進化が期待されています。",
+    "insight": "LLMの推論能力をPCのUI操作と組み合わせることで、自動化の範囲が大きく広がっています。エンジニアとしては、単なるAPI連携を超え、OSレベルで自律的にタスクを完遂するエージェント型アーキテクチャへの適応が今後の開発の鍵となるでしょう。",
+    "sourceUrl": "https://news.yahoo.co.jp/articles/165ce66877b7ed52555902bbd653060ce71337d4",
+    "sourceName": "Yahoo!ニュース",
+    "originalImageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260330-07295424-jnn-000-3-thumb.jpg?exp=10800",
+    "originalImageArticleUrl": "https://news.yahoo.co.jp/articles/165ce66877b7ed52555902bbd653060ce71337d4",
+    "displayDate": "2026-03-31"
+  },
+  "TCL": {
+    "title": "TCLが2026年モデル発表：新技術搭載へ",
+    "summary": "TCLが2026年モデルとして、高度な量子ドット技術「Super QD」やRGB Mini LEDを採用した最新テレビを発表しました。高コントラストと高輝度を両立させる次世代ディスプレイ技術への注力が伺えます。",
+    "insight": "Mini LEDのバックライト制御や量子ドットの光変換効率向上は、ディスプレイ工学における重要なトレンドです。単なる解像度競争から、色再現性とピーク輝度の最適化へ開発軸がシフトしている点が技術的に注目されます。",
+    "sourceUrl": "https://www.flatpanelshd.com/news.php?subaction=showfull&id=1774620000",
+    "sourceName": "flatpanelshd.com",
+    "originalImageUrl": "https://www.flatpanelshd.com/pictures/tclrm7l_1_small.jpg",
+    "originalImageArticleUrl": "https://www.flatpanelshd.com/news.php?subaction=showfull&id=1774620000",
+    "displayDate": "2026-03-31"
+  },
+  "Gaming Monitor": {
+    "title": "ゲーミングモニターの残像問題、原因と対策",
+    "summary": "ゲーミングモニターで発生する「ゴースト（残像現象）」の識別方法と、それを改善するための5つの具体的な対策が紹介されました。ハードウェア設定から接続環境まで、原因を特定し調整する方法を解説しています。",
+    "insight": "エンジニアとしては、リフレッシュレートや応答速度だけでなく、パネル特性による駆動制御の仕組みを理解することが重要です。ゴースト現象のデバッグ手法は、ディスプレイのレンダリングパイプラインや信号遅延を考える上で有益な知見となります。",
+    "sourceUrl": "https://www.bgr.com/2127584/how-to-fix-monitor-ghosting-explained/",
+    "sourceName": "bgr.com",
+    "originalImageUrl": "https://www.bgr.com/img/gallery/how-to-tell-if-you-have-monitor-ghosting-and-5-ways-to-fix-it/l-intro-1773948756.jpg",
+    "originalImageArticleUrl": "https://www.bgr.com/2127584/how-to-fix-monitor-ghosting-explained/",
+    "displayDate": "2026-03-31"
+  },
+  "TV": {
+    "title": "高性能OLED TVがセールで大幅値下げ",
+    "summary": "Amazonのスプリングセールにおいて、LGの65インチEvo C5 4K OLED TVが998ドルまで値下げされました。高画質なOLEDディスプレイの価格が低下傾向にあり、ホームエンターテインメントや高精細なディスプレイ環境を構築する絶好の機会となっています。",
+    "insight": "エンジニアにとって高精細なOLEDパネルは、UIデザインや映像処理の品質確認を行う際の重要なモニターとなります。特にOLED特有の黒の表現やコントラスト比の正確性は、低価格化が進むことで、デスク環境のアップグレードとして検討しやすくなっています。",
+    "sourceUrl": "https://www.ign.com/articles/lg-evo-c5-4k-oled-tv-deal-amazon-spring-sale",
+    "sourceName": "IGN",
+    "originalImageUrl": "https://assets-prd.ignimgs.com/2026/03/30/lgc5oled2-1774891829631.jpg?width=1280&format=jpg&auto=webp&quality=80",
+    "originalImageArticleUrl": "https://www.ign.com/articles/lg-evo-c5-4k-oled-tv-deal-amazon-spring-sale",
+    "displayDate": "2026-03-31"
+  },
+  "SONY": {
+    "title": "産業用カメラ市場が拡大：Sonyセンサー採用のHDR製品が拡充",
+    "summary": "Vadzo Imaging社が、SonyのSTARVISやPregius Sなどの高性能イメージセンサーを搭載した産業用HDR GigEカメラのラインナップを世界規模で拡充しました。2MPから8.4MPまでの幅広い解像度を提供し、高度な画像処理と耐久性が求められる産業分野での活用が進みます。",
+    "insight": "産業用画像処理において、SonyのSTARVIS/Pregius Sは高感度・低ノイズを実現する事実上の業界標準であり、今回の製品拡充は工場の自動化や検査機器の設計者に恩恵をもたらします。エンジニアは、これらのセンサーを用いたマルチスレッド処理や高速データ転送プロトコル（GigE Vision）の実装技術を再確認しておく価値があります。",
+    "sourceUrl": "https://www.accessnewswire.com/newsroom/en/electronics-and-engineering/vadzo-imaging-expands-industrial-hdr-gige-camera-portfolio-2mp-to-8.4mp-1152846",
+    "sourceName": "ACCESS Newswire",
+    "originalImageUrl": "https://app.accessnewswire.com/imagelibrary/886691c8-153e-4d97-af32-eee9e8ee17d6/1152846/innova-gige-camera-deterministic-ip-streaming-wi.webp",
+    "originalImageArticleUrl": "https://www.accessnewswire.com/newsroom/en/electronics-and-engineering/vadzo-imaging-expands-industrial-hdr-gige-camera-portfolio-2mp-to-8.4mp-1152846",
+    "displayDate": "2026-03-31"
+  },
+  "Production Monitor": {
+    "title": "映像エンジニア必読：EDIDとUVCプロトコルの技術解説",
+    "summary": "ProVideo Coalitionが、映像機器の接続設定で重要な役割を果たす「EDID」と「UVC Probe and Commit」の共通点と相違点を詳細に解説。カメラやモニターの接続トラブルを根本から理解するための必読の技術論考です。",
+    "insight": "映像の入出力規格を制御するこれらプロトコルは、ストリーミングや制作パイプライン構築において避けられない技術です。デバッグ時の切り分けを迅速化するためにも、仕組みを深く理解しておくことは非常に有益です。",
+    "sourceUrl": "https://www.provideocoalition.com/edid-vs-uvc-probe-and-commit-understanding-the-similarities-differences-for-cameras-monitors/",
+    "sourceName": "ProVideo Coalition",
+    "originalImageUrl": "https://www.provideocoalition.com/wp-content/uploads/EDID-vs-UVC-Probe-and-Command-Hero.jpg",
+    "originalImageArticleUrl": "https://www.provideocoalition.com/edid-vs-uvc-probe-and-commit-understanding-the-similarities-differences-for-cameras-monitors/",
+    "displayDate": "2026-03-31"
+  },
+  "Projector": {
+    "title": "Valerionの4Kレーザープロジェクタが国内初上陸",
+    "summary": "新興プロジェクターブランド「Valerion」の高性能4KレーザーDLPプロジェクター「Vision Master Max」の国内取り扱いがアバックから開始されました。日本独占販売となり、アバック全店舗およびECサイトで展開。価格は649,800円で、全国8店舗にて実機展示も行われます。",
+    "insight": "最新のDLP技術とレーザー光源を組み合わせた高輝度・高画質モデルが登場しており、ホームシアター市場の競争が激化しています。4msの低遅延やVRR対応など、ゲーミング用途を見据えたスペックを備えており、大画面ディスプレイの代替としてのプロジェクターの進化がエンジニア目線でも興味深いです。",
+    "sourceUrl": "https://av.watch.impress.co.jp/docs/news/2097550.html",
+    "sourceName": "AV Watch",
+    "originalImageUrl": "https://av.watch.impress.co.jp/img/avw/list/2097/550/s03.jpg",
+    "originalImageArticleUrl": "https://av.watch.impress.co.jp/docs/news/2097550.html",
+    "displayDate": "2026-03-31"
+  },
+  "LED Wall Display": {
+    "title": "スタジアムの没入体験を創出：Daktronicsの最新LED導入事例",
+    "summary": "米国のウェイクフォレスト大学が、AllegacyスタジアムにDaktronics製の最新LEDビデオディスプレイシステムを導入します。エンドゾーン用の大型スクリーンとサイドディスプレイ、さらに統合制御システム「Show Control」を組み合わせ、観客へ臨場感あふれる試合体験を提供します。",
+    "insight": "ハードウェア性能だけでなく、映像配信と制御を同期させる統合制御システムが、現代のスタジアム体験において中核を担っています。エンジニアとしては、高解像度パネルのシームレスな制御や、リアルタイム性が求められるコンテンツ配信基盤の技術スタックに注目すべきでしょう。",
+    "sourceUrl": "https://ravepubs.com/daktronics-to-develop-new-video-display-experience-at-wake-forest-universitys-allegacy-stadium/",
+    "sourceName": "rAVe [PUBS]",
+    "originalImageUrl": "https://ravepubs.com/wp-content/uploads/2026/03/DaktronicsWF-800x400.webp",
+    "originalImageArticleUrl": "https://ravepubs.com/daktronics-to-develop-new-video-display-experience-at-wake-forest-universitys-allegacy-stadium/",
+    "displayDate": "2026-03-31"
+  },
+  "Camera Control": {
+    "title": "カメラ撮影を支援するAI搭載の外骨格「Vastnaut One」",
+    "summary": "アウトドア撮影の物理的負荷を軽減する、世界初のAI搭載4x4ウェアラブル・エクソスケルトン（外骨格）「Vastnaut One」が登場。重装備を背負って険しい場所へ撮影に行くカメラマンの移動をサポートし、これまでアクセス困難だった秘境での撮影を可能にする革新的なギアです。",
+    "insight": "ハードウェアとAIの統合により、物理的な身体機能を拡張するソリューションは今後あらゆる産業で重要になります。画像解析による歩行支援や姿勢制御といった制御アルゴリズムの最適化は、エンジニアとしても注目すべき実装領域です。",
+    "sourceUrl": "https://petapixel.com/2026/03/30/the-vastnaut-one-exoskeleton-expands-outdoor-photographys-horizons/",
+    "sourceName": "PetaPixel",
+    "originalImageUrl": "https://petapixel.com/assets/uploads/2026/03/DSF8778_1.jpg",
+    "originalImageArticleUrl": "https://petapixel.com/2026/03/30/the-vastnaut-one-exoskeleton-expands-outdoor-photographys-horizons/",
+    "displayDate": "2026-03-31"
+  }
+}
