@@ -1,0 +1,102 @@
+{
+  "SRD / XR": {
+    "title": "『サイバーパンク2077』の世界がVRで体験可能に！",
+    "summary": "人気RPG『サイバーパンク2077』の世界観を舞台にしたVR体験が、ウェアハウススケールVRを展開する「Zero Latency VR」の施設で提供されることが発表されました。没入型のVR体験が新たなステージへ進みます。",
+    "insight": "物理的な移動を伴う大規模VR（ロケーションベースVR）は、家庭用VRとは異なる圧倒的な臨場感を提供できる点が強みです。IP活用により、ゲームファンをVR施設へと誘導する強力なユースケースとなり、空間コンピューティング体験の新たな標準となる可能性があります。",
+    "sourceUrl": "https://www.uploadvr.com/cyberpunk-2077-experience-coming-to-zero-latency-vr-locations/",
+    "sourceName": "UploadVR",
+    "originalImageUrl": "https://www.uploadvr.com/content/images/2026/03/Youtube_Thumbnail_copy.webp",
+    "originalImageArticleUrl": "https://www.uploadvr.com/cyberpunk-2077-experience-coming-to-zero-latency-vr-locations/",
+    "displayDate": "2026-04-01"
+  },
+  "AI": {
+    "title": "Armが「AGI向けCPU」を発表：エージェントAI時代の基盤へ",
+    "summary": "Armは、エージェント型AIの実行に特化した新しいCPUアーキテクチャの戦略を発表しました。クラウド環境におけるAI推論とエージェントの自律的な処理を加速させるため、従来の汎用プロセッサの枠を超えたシリコン設計への転換を図ります。",
+    "insight": "AIワークロードがモデル推論から自律的なエージェント実行へとシフトする中で、メモリ帯域幅や命令セットの最適化が再び重要視されています。低消費電力とAI特化型演算の融合は、エッジからクラウドまでエンジニアが考慮すべきハードウェアスタックのトレンドとなるでしょう。",
+    "sourceUrl": "https://newsroom.arm.com/blog/introducing-arm-agi-cpu",
+    "sourceName": "Arm Newsroom",
+    "originalImageUrl": "https://newsroom.arm.com/wp-content/uploads/2026/03/20260216_VISION25_ExplodedTight_Chip-01-16x9_16bit-768x432.png",
+    "originalImageArticleUrl": "https://newsroom.arm.com/blog/introducing-arm-agi-cpu",
+    "displayDate": "2026-04-01"
+  },
+  "Production Monitor": {
+    "title": "AIデータセンター需要でSony製SD/CFexpressが販売停止",
+    "summary": "Sonyが世界的なフラッシュメモリ供給不足を背景に、CFexpressおよびSDメモリーカードの大半の受注を停止しました。AIデータセンターによる需要急増が主な要因とされており、プロの映像制作現場でのメディア調達に大きな影響が出ています。",
+    "insight": "AI分野へのインフラ投資が物理的なハードウェア供給網を圧迫する一例です。ソフトウェアエンジニアとしては、クラウドインフラの調達競争がサプライチェーン全体に及ぼす波及効果を意識しておく必要があるでしょう。",
+    "sourceUrl": "https://www.cined.com/sony-suspends-nearly-all-memory-card-sales-as-global-flash-shortage-hits-filmmakers/",
+    "sourceName": "CineD",
+    "originalImageUrl": "https://www.cined.com/content/uploads/2023/06/SonyTOUGH960GB_Featured-300x169.jpg",
+    "originalImageArticleUrl": "https://www.cined.com/sony-suspends-nearly-all-memory-card-sales-as-global-flash-shortage-hits-filmmakers/",
+    "displayDate": "2026-04-01"
+  },
+  "SONY": {
+    "title": "ソニーとTCL、ディスプレイ分野でパートナーシップを締結",
+    "summary": "ソニーとTCLがディスプレイ技術に関する戦略的パートナーシップを締結しました。家庭用・業務用ディスプレイ市場での競争力を高める狙いがあると見られ、今後の製品開発や技術融合の動きが注目されます。",
+    "insight": "家電大手同士の提携は、次世代ディスプレイの標準化やサプライチェーンの最適化を加速させる可能性があります。エンジニアとしては、両社の技術スタックがどのように統合され、特にOLEDやXR分野へどう影響するかを注視すべきでしょう。",
+    "sourceUrl": "https://invidis.com/news/2026/03/joint-venture-tcl-and-sony-sign-display-partnership/",
+    "sourceName": "invidis.com",
+    "originalImageUrl": "https://invidis.com/wp-content/uploads/2026/03/2026-03-TYO-TCL-Sony.jpg",
+    "originalImageArticleUrl": "https://invidis.com/news/2026/03/joint-venture-tcl-and-sony-sign-display-partnership/",
+    "displayDate": "2026-04-01"
+  },
+  "TCL": {
+    "title": "ソニーとTCL、テレビ事業で提携・合弁会社設立へ",
+    "summary": "ソニーがテレビ・AV事業の一部を分社化し、中国の家電大手TCLと合弁会社を設立することで合意しました。約6.5億ドルから7.5億円規模の出資を伴うこの提携は、激化するディスプレイ市場での競争力強化と、ブラビア事業の立て直しを目指す動きとして業界で大きな注目を集めています。",
+    "insight": "家電メーカー間でのこうした巨大な合弁事業は、サプライチェーンの統合によるコスト最適化だけでなく、AI画像処理や高度なバックライト制御技術の共同開発を加速させる可能性があります。エンジニアの視点からは、ハードウェアのリソース共有が今後のファームウェア開発やUI/UXの標準化にどのような影響を与えるかが注目ポイントです。",
+    "sourceUrl": "https://www.flatpanelshd.com/news.php?subaction=showfull&id=1774951256",
+    "sourceName": "FlatpanelsHD",
+    "originalImageUrl": "https://www.flatpanelshd.com/pictures/sonytcltv.jpg",
+    "originalImageArticleUrl": "https://www.flatpanelshd.com/news.php?subaction=showfull&id=1774951256",
+    "displayDate": "2026-04-01"
+  },
+  "Gaming Monitor": {
+    "title": "ハイエンドOLEDモニターの価格が下落、導入のチャンス到来",
+    "summary": "LGの27インチUltraGearやSonyのINZONE M10Sといった高性能OLEDゲーミングモニターの価格が相次いで下落しています。解像度や応答速度に優れた最新パネルの市場価格が調整されており、高精細な環境構築を検討しているエンジニアにとって非常に魅力的なタイミングとなっています。",
+    "insight": "OLED特有の焼き付き対策や駆動制御の進化により、長時間のコーディング環境でも実用的なレベルに達しています。開発環境の視認性向上のために、こうしたハイエンドモニターをメインディスプレイとして再検討する価値が高いでしょう。",
+    "sourceUrl": "https://www.technobezz.com/best/lgs-27-inch-ultragear-oled-gaming-monitor-drops-to-79999",
+    "sourceName": "technobezz.com",
+    "originalImageUrl": "https://cdn.technobezz.com/deals-branded/2ea555f55d71a50a_branded.jpg",
+    "originalImageArticleUrl": "https://www.technobezz.com/best/lgs-27-inch-ultragear-oled-gaming-monitor-drops-to-79999",
+    "displayDate": "2026-04-01"
+  },
+  "TV": {
+    "title": "2026年度のテレビ・ラジオ営業収入見通しが発表",
+    "summary": "日本民間放送連盟が「2026年度のテレビ、ラジオ営業収入見通し」を公開しました。デジタル化が進むメディア業界において、マスメディアの収益構造の変化と今後の経営予測は、業界の持続可能性を測る重要な指標となります。",
+    "insight": "レガシーメディアの収益予測データは、広告配信プラットフォームやコンテンツ配信技術を開発するエンジニアにとって、市場のトレンド変化を読み解く貴重なインサイトとなります。特に広告モデルと視聴データの相関関係を再考する際の基礎資料として有用です。",
+    "sourceUrl": "https://j-ba.or.jp/news/jba106809.html",
+    "sourceName": "一般社団法人 日本民間放送連盟",
+    "originalImageUrl": "https://j-ba.or.jp/asset/ogp.jpg",
+    "originalImageArticleUrl": "https://j-ba.or.jp/news/jba106809.html",
+    "displayDate": "2026-04-01"
+  },
+  "Projector": {
+    "title": "ソニーとTCLの合弁「BRAVIA株式会社」誕生へ",
+    "summary": "ソニーとTCLが合弁会社「BRAVIA株式会社」を設立。出資比率はTCL 51％、ソニー 49％。テレビ、プロジェクター、ホームシアターシステムなどのAV事業が対象となり、今後の製品開発や市場戦略に大きな変化が予想される。",
+    "insight": "家電業界におけるグローバルなサプライチェーン再編の動きを示しており、特にハードウェアの製造コスト最適化とプラットフォーム統合の加速が予想されます。エンジニア視点では、将来的に両社の技術が融合するインターフェースやエコシステムの統合プロセスに注目です。",
+    "sourceUrl": "https://kunkoku.jp/sony-tcl-bravia-4.html",
+    "sourceName": "ソニーが基本的に好き。",
+    "originalImageUrl": "https://kunkoku.jp/wp-content/uploads/2026/03/260331a19.jpg",
+    "originalImageArticleUrl": "https://kunkoku.jp/sony-tcl-bravia-4.html",
+    "displayDate": "2026-04-01"
+  },
+  "LED Wall Display": {
+    "title": "Absenが2026年春の新製品発表会を開催",
+    "summary": "LEDディスプレイ大手のAbsenが、東江インテリジェント製造センターにて2026年春の製品発表会を開催しました。25カ国から100名以上の専門家やパートナーが集まり、革新的な製品ラインを通じた技術と文化の融合について議論されました。",
+    "insight": "製造拠点を活用した製品発表は、サプライチェーンと開発の透明性を高める有効な戦略です。エンジニアの視点では、単なるハードウェアの進化だけでなく、製造プロセスと連動した品質管理の高度化に注目すべきでしょう。",
+    "sourceUrl": "https://ravepubs.com/absen-2026-spring-launch-brings-products-as-the-bridge-and-culture-as-the-bond/",
+    "sourceName": "rAVe [PUBS]",
+    "originalImageUrl": "https://ravepubs.com/wp-content/uploads/2026/03/absen-spring-event-3-800x534.webp",
+    "originalImageArticleUrl": "https://ravepubs.com/absen-2026-spring-launch-brings-products-as-the-bridge-and-culture-as-the-bond/",
+    "displayDate": "2026-04-01"
+  },
+  "Camera Control": {
+    "title": "スーパーボウルに見るライブ中継の舞台裏と技術トレンド",
+    "summary": "大規模イベントのライブ中継が、従来の放送から映画的な演出へとシフトしています。専門のジブオペレーターであるダニエル・バルトン氏のインタビューから、厳密にスクリプト化された撮影手法と、シネマカメラ導入によるフォーカスプーラーの重要性など、放送業界の技術的な進化を解説します。",
+    "insight": "ライブ中継において、シネマカメラの導入は単なる高画質化ではなく、マニュアルフォーカス等の職人的なワークフローを再定義しています。リアルタイム性が求められる環境下での精密な機材運用と、AIなどの新技術を取り入れる柔軟性が、次世代の映像制作エンジニアには不可欠です。",
+    "sourceUrl": "https://www.dpreview.com/articles/7509120791/daniel-balton-jib-operator-interview",
+    "sourceName": "DPReview",
+    "originalImageUrl": "https://2.img-dpreview.com/files/p/E~C0x0S4032x3024T1200x900~articles/7509120791/IMG_7162.jpeg",
+    "originalImageArticleUrl": "https://www.dpreview.com/articles/7509120791/daniel-balton-jib-operator-interview",
+    "displayDate": "2026-04-01"
+  }
+}
