@@ -1,0 +1,102 @@
+{
+  "Gaming Monitor": {
+    "title": "ハイエンドOLEDモニターの価格が急落、買い時到来か",
+    "summary": "ASUS ROG StrixやAcer Predatorなど、高精細な4K OLEDゲーミングモニターが軒並み800ドル前後に値下げされました。高性能なディスプレイ環境を構築するチャンスです。",
+    "insight": "OLEDモニターの低価格化は、開発者のデスク環境における作業効率向上と視認性改善の大きな転換点です。特に4K解像度かつOLEDの応答速度とコントラストは、長時間のコードリーディングやUI/UX確認において圧倒的な生産性をもたらします。",
+    "sourceUrl": "https://www.technobezz.com/best/asus-rog-strix-32-inch-4k-oled-gaming-monitor-drops-to-799-db8h",
+    "sourceName": "Technobezz",
+    "originalImageUrl": "https://cdn.technobezz.com/deals-branded/55d8cbfea74dcb8f_branded.jpg",
+    "originalImageArticleUrl": "https://www.technobezz.com/best/asus-rog-strix-32-inch-4k-oled-gaming-monitor-drops-to-799-db8h",
+    "displayDate": "2026-04-03"
+  },
+  "AI": {
+    "title": "Cursorが新AIエージェント機能を発表",
+    "summary": "AI開発プラットフォームのCursorが、Claude CodeやCodexに対抗する新たなAIエージェント体験を発表しました。開発効率を劇的に向上させるエージェント型コーディング環境の競争が激化しています。",
+    "insight": "AIがコードを書く時代から、自律的にタスクを完遂するエージェント型開発へとシフトしています。コンテキスト理解の精度向上とツール実行能力が、開発ツールの覇権を握る鍵となるでしょう。",
+    "sourceUrl": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5fNTJHanpLWG5HNnF0Rm5keV9XSUM4dE1oWk1qUjJqcDl5cm00S2NYQ2wxc3I0aU5rRUFHeG9OWTB1RExXUS1jOWM4c2QtamxLRWc5U2w2TWdTQ24wby1JODk5UVhUUmNWOWkwamwwenExZjBmS3lJS0VNdms1dw?oc=5",
+    "sourceName": "WIRED",
+    "originalImageUrl": null,
+    "originalImageArticleUrl": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5fNTJHanpLWG5HNnF0Rm5keV9XSUM4dE1oWk1qUjJqcDl5cm00S2NYQ2wxc3I0aU5rRUFHeG9OWTB1RExXUS1jOWM4c2QtamxLRWc5U2w2TWdTQ24wby1JODk5UVhUUmNWOWkwamwwenExZjBmS3lJS0VNdms1dw?oc=5",
+    "displayDate": "2026-04-03"
+  },
+  "SRD / XR": {
+    "title": "Autodesk VREDがApple Vision Proに対応",
+    "summary": "オートデスクは、3Dビジュアライゼーションソフト「VRED」をApple Vision Proへ提供すると発表。自動車デザインなどの高度な3Dモデルを空間コンピューティング上で共有・検証可能になります。",
+    "insight": "NVIDIAやAppleとの連携による、産業用設計レビューの空間コンピューティング化が本格化しています。高精細なCADデータと高解像度XRデバイスの組み合わせは、従来の物理プロトタイプを置き換える重要なユースケースとなるでしょう。",
+    "sourceUrl": "https://www.moguravr.com/autodesk-vred-apple-vision-pro/",
+    "sourceName": "Mogura VR",
+    "originalImageUrl": "https://assets.moguravr.com/uploads/2026/04/b44ac372d2bf3e664c5113796fb9f133-kix.t1t6xqve5fpu-300x169.webp",
+    "originalImageArticleUrl": "https://www.moguravr.com/autodesk-vred-apple-vision-pro/",
+    "displayDate": "2026-04-03"
+  },
+  "Projector": {
+    "title": "「ぼっち・ざ・ろっく！」×自動運転タクシー、没入空間の衝撃",
+    "summary": "横浜・みなとみらい地区にて、「ぼっち・ざ・ろっく！」の世界観を再現した自動運転タクシーが運行。立体音響、映像投影、香りの演出を組み合わせた、移動空間をエンタメ化する没入体験の事例です。",
+    "insight": "ハードウェアとソフトウェアを組み合わせ、車両という閉鎖空間を「没入型シアター」に変える試みは、UX設計における面白いアプローチです。単なる移動手段をエクスペリエンスに変える技術実装は、今後のモビリティ開発において重要なヒントになります。",
+    "sourceUrl": "https://av.watch.impress.co.jp/docs/news/2098691.html",
+    "sourceName": "AV Watch",
+    "originalImageUrl": "https://av.watch.impress.co.jp/img/avw/list/2098/691/_DSC1011.jpg",
+    "originalImageArticleUrl": "https://av.watch.impress.co.jp/docs/news/2098691.html",
+    "displayDate": "2026-04-03"
+  },
+  "LED Wall Display": {
+    "title": "LGが2026年モデルのMicro LEDディスプレイ「MAGNIT」を発売",
+    "summary": "LG Electronicsが最新のMicro LEDディスプレイ「2026 LG MAGNIT」を米国で発売しました。LMPBシリーズとして展開される本製品は、高品質な映像表現と設置の簡便化、そして信頼性の向上に注力したアップデートが施されており、プレミアムな映像体験を提供します。",
+    "insight": "Micro LEDは画素ごとに自発光するため、従来のLEDウォールと比較してコントラストや輝度精度の制御が格段に向上しています。エンジニアとしては、ディスプレイの制御基板やソフトウェア側の処理性能が、高精細なMicro LEDの解像度をどのように効率化・最適化しているかに注目すべきでしょう。",
+    "sourceUrl": "https://ravepubs.com/lg-launches-2026-lg-magnit-micro-led-display/",
+    "sourceName": "rAVe [PUBS]",
+    "originalImageUrl": "https://ravepubs.com/wp-content/uploads/2026/04/Untitled-design2-800x400.webp",
+    "originalImageArticleUrl": "https://ravepubs.com/lg-launches-2026-lg-magnit-micro-led-display/",
+    "displayDate": "2026-04-03"
+  },
+  "SONY": {
+    "title": "NASAアルテミス計画にソニーのカメラが採用",
+    "summary": "NASAが月面探査を行うアルテミス計画の公式カメラとして、ソニーのカメラを採用しました。過酷な宇宙空間や月面での撮影に耐えうる、ソニーのイメージング技術の信頼性と高性能が改めて証明された形となります。",
+    "insight": "宇宙空間での画像処理技術は、極限状態における耐放射線性能や高ダイナミックレンジ（HDR）処理など、エッジコンピューティングの究極的なユースケースです。商用製品がそのまま採用された背景には、ソニーのCMOSセンサーが持つ極低照度性能や高効率なデータ転送技術が、特殊な宇宙開発ニーズにも適応できる高いポテンシャルを有していることが示唆されています。",
+    "sourceUrl": "https://www.diyphotography.net/nasa-chooses-sony-as-official-camera-on-artemis-lunar-missions/",
+    "sourceName": "DIYPhotography",
+    "originalImageUrl": "https://www.diyphotography.net/wp-content/uploads/2026/04/55182789108_80582ae0f6_k.jpg",
+    "originalImageArticleUrl": "https://www.diyphotography.net/nasa-chooses-sony-as-official-camera-on-artemis-lunar-missions/",
+    "displayDate": "2026-04-03"
+  },
+  "TCL": {
+    "title": "ソニーがマレーシア子会社をTCLに売却、事業再編へ",
+    "summary": "ソニーはテレビ事業の再編の一環として、マレーシアのテレビ製造子会社を中国のTCLグループに売却することを決定しました。これによりTCLは製造拠点を強化し、ソニーはアセットライトな戦略を加速させます。",
+    "insight": "AV機器業界における大規模なサプライチェーン再編の動きです。エンジニアの視点では、ODM/OEM委託先との垂直統合や製造戦略の変化が、今後のデバイスの品質管理やコスト構造、そしてOSなどのソフトウェア実装方針にどう影響するか注目です。",
+    "sourceUrl": "https://www.asiainfonet.com/2026/04/02/03-1364/",
+    "sourceName": "asia infonet.com",
+    "originalImageUrl": "https://www.asiainfonet.com/wp-content/uploads/2020/06/cropped-【企業ロゴ】ASIA-INFONET-青.png",
+    "originalImageArticleUrl": "https://www.asiainfonet.com/2026/04/02/03-1364/",
+    "displayDate": "2026-04-03"
+  },
+  "TV": {
+    "title": "Samsungの最新OLED TV「S95H」が話題に",
+    "summary": "Samsungの新型QD-OLEDテレビ「S95H」のレビューが各メディアで公開され、その圧倒的な画質とデザインが注目を集めています。また、既存モデルのS90が大幅値下げされるなど、最新の有機ELディスプレイ技術の市場競争が加速しています。",
+    "insight": "最新のQD-OLED技術は、ピーク輝度と色再現性の両立という課題を克服しており、ハードウェアエンジニアにとってディスプレイの進化を象徴する製品です。また、これら高価格帯モデルの値下げトレンドは、次世代パネルの量産効率が向上し、一般普及フェーズに入ったことを示唆しています。",
+    "sourceUrl": "https://www.businessinsider.com/guides/tech/samsung-2026-s90h-s95h-s85h-oled-4k-tvs-price-impressions",
+    "sourceName": "Business Insider",
+    "originalImageUrl": "https://i.insider.com/69ce934ac02a678bd7e475cd?width=1200&format=jpeg",
+    "originalImageArticleUrl": "https://www.businessinsider.com/guides/tech/samsung-2026-s90h-s95h-s85h-oled-4k-tvs-price-impressions",
+    "displayDate": "2026-04-03"
+  },
+  "Camera Control": {
+    "title": "月面へ到達したNikon Z9：宇宙開発の裏側",
+    "summary": "NASAのアルテミスIIミッションにおいて、当初予定されていたD5に加え、直前のクルーの要望によりNikon Z9が急遽搭載されたというニュース。極限環境での信頼性が求められる宇宙開発でミラーレス機が採用された事例として注目されています。",
+    "insight": "宇宙という過酷な環境下でのデジタルカメラの採用は、センサーの耐放射線性や熱設計、UIの信頼性が問われるハードウェアエンジニアリングの極致です。民生品が宇宙開発の現場でどう活用されるかは、製品の耐久性に対する最高の実証実験とも言えます。",
+    "sourceUrl": "https://petapixel.com/2026/04/02/a-nikon-z9-made-it-aboard-the-artemis-ii-moon-mission-at-the-last-minute/",
+    "sourceName": "PetaPixel",
+    "originalImageUrl": "https://petapixel.com/assets/uploads/2026/04/nikon-z9-artemis-ii-featured.jpg",
+    "originalImageArticleUrl": "https://petapixel.com/2026/04/02/a-nikon-z9-made-it-aboard-the-artemis-ii-moon-mission-at-the-last-minute/",
+    "displayDate": "2026-04-03"
+  },
+  "Production Monitor": {
+    "title": "映像機材大手Videndum、3年連続の赤字で経営再建へ",
+    "summary": "撮影機材大手Videndum（SmallHD、Manfrotto、Teradek等を傘下に持つ）が、2025年度も赤字を計上。売上高は2022年のピーク時から半減し、8,500万ポンドの借り換えを実施しました。監査人からは事業継続への懸念が指摘されており、業界スタンダードとなっている各ブランドの今後の動向が注目されます。",
+    "insight": "製造・ハードウェア企業における負債構造の改善と、事業継続性（Going Concern）のリスク評価は、エンジニアにとってもサプライチェーン安定性の観点から重要です。機材選定や長期運用計画において、ベンダーの財務健全性は「エコシステムの存続可能性」を測る不可欠な指標といえます。",
+    "sourceUrl": "https://www.cined.com/videndum-posts-third-straight-year-of-losses-as-85-million-refinancing-reshapes-the-future-of-teradek-smallhd-and-manfrotto/",
+    "sourceName": "CineD",
+    "originalImageUrl": "https://www.cined.com/content/uploads/2026/04/Videndum_Debts-feat-300x169.jpg",
+    "originalImageArticleUrl": "https://www.cined.com/videndum-posts-third-straight-year-of-losses-as-85-million-refinancing-reshapes-the-future-of-teradek-smallhd-and-manfrotto/",
+    "displayDate": "2026-04-03"
+  }
+}
