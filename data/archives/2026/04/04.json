@@ -1,0 +1,102 @@
+{
+  "SRD / XR": {
+    "title": "PikaがリアルタイムAIアバタービデオ通話を実現",
+    "summary": "AI動画生成のPikaが、リアルタイムモデル「PikaStream 1.0」を搭載したビデオ通話スキルをベータ公開しました。AIエージェントが会話中の記憶と個性を保持しつつ、低遅延で表情豊かに対話可能です。",
+    "insight": "リアルタイムで動画生成を行う推論パイプラインの高速化は、LLMと対話するUIの進化において重要です。WebRTC等のストリーミング技術と軽量な生成モデルの組み合わせは、カスタマーサポートやバーチャルエージェントの実装に応用可能です。",
+    "sourceUrl": "https://www.moguravr.com/pika-pikastream-1-0-video-chat-beta/",
+    "sourceName": "Mogura VR",
+    "originalImageUrl": "https://assets.moguravr.com/uploads/2026/04/cea17c6f843730c003c553c245548fb6-kix.r4l0jaeuu86j-300x170.webp",
+    "originalImageArticleUrl": "https://www.moguravr.com/google-vids-ai-video-generation/",
+    "displayDate": "2026-04-04"
+  },
+  "AI": {
+    "title": "日本へ1.6兆円投資、MSがデータセンターを拡充",
+    "summary": "米マイクロソフトのブラッド・スミス社長は、日本国内でAIインフラ強化のため今後2年間で29億ドル（約1兆6000億円）を投資すると発表しました。国内のデータセンター増強や、AI人材育成プログラムを通じ、日本のデジタル経済基盤を支える狙いです。",
+    "insight": "AIモデルの巨大化に伴い、計算リソースの地域偏在が課題となる中で、GPUサーバーを含む物理インフラの国内増強は重要です。クラウドネイティブな開発者にとって、低遅延な推論基盤の確保やリージョン最適化の観点から注視すべきニュースです。",
+    "sourceUrl": "https://www.bloomberg.com/jp/news/articles/2026-04-03/TCV2HCT96OSL00",
+    "sourceName": "Bloomberg.com",
+    "originalImageUrl": null,
+    "originalImageArticleUrl": "https://www.bloomberg.com/jp/news/articles/2026-04-03/TCV2HCT96OSL00",
+    "displayDate": "2026-04-04"
+  },
+  "Gaming Monitor": {
+    "title": "高級ゲーミングモニターの梱包不良問題",
+    "summary": "ASUSの約20万円（1,299ドル）のOLEDゲーミングモニターにおいて、配送中のパネル破損が多発しています。原因は簡略化された梱包材による保護不足とされており、製品の品質だけでなく物流・パッケージ設計の重要性が浮き彫りになっています。",
+    "insight": "高価な電子精密機器において、性能だけでなく「ラストワンマイルの物流に耐えうる梱包設計」がプロダクト品質の定義に含まれることを示唆しています。エンジニアにとっても、デリケートなハードウェアのUXを損なわないための輸送コストと梱包強度のトレードオフ検討は、重要な設計課題と言えるでしょう。",
+    "sourceUrl": "https://www.tomshardware.com/monitors/gaming-monitors/asus-usd1-299-oled-gaming-monitors-are-arriving-with-cracked-panels-for-many-buyers-cut-down-packaging-with-no-protection-for-the-panel-gets-the-blame",
+    "sourceName": "tomshardware.com",
+    "originalImageUrl": "https://cdn.mos.cms.futurecdn.net/Emg6xcVxri7ZtLhjqCi7rU-2560-80.jpg",
+    "originalImageArticleUrl": "https://www.tomshardware.com/monitors/gaming-monitors/asus-usd1-299-oled-gaming-monitors-are-arriving-with-cracked-panels-for-many-buyers-cut-down-packaging-with-no-protection-for-the-panel-gets-the-blame",
+    "displayDate": "2026-04-04"
+  },
+  "SONY": {
+    "title": "次期Xperia 1 VIIIのリーク情報：デザイン刷新へ",
+    "summary": "ソニーの次期フラッグシップスマートフォン「Xperia 1 VIII」のレンダリング画像が流出し、背面のカメラモジュールが従来の縦長から正方形に変更される可能性が浮上しました。前面デザインにもパンチホールスクリーン採用の可能性が示唆されており、長年維持されてきたデザイン言語が大きく変わる注目トピックです。",
+    "insight": "ハードウェアエンジニアの視点では、カメラレイアウトの変更は内部基板（メインボード）の配置や放熱設計の刷新を意味します。特に空間効率が求められるモバイル設計において、モジュール形状の変化が積層構造やアンテナ配置にどのような影響を与えるかは非常に興味深い検討ポイントです。",
+    "sourceUrl": "https://www.mixvale.com.br/2026/04/03/sony-xperia-1-viii-%E3%81%AE%E6%AD%A3%E6%96%B9%E5%BD%A2%E3%82%AB%E3%83%A1%E3%83%A9%E3%83%A2%E3%82%B8%E3%83%A5%E3%83%BC%E3%83%AB%E3%82%92%E4%BD%BF%E7%94%A8%E3%81%97%E3%81%9F%E3%83%AC%E3%83%B3%E3%83%80/amp/",
+    "sourceName": "Mix Vale",
+    "originalImageUrl": null,
+    "originalImageArticleUrl": "https://www.mixvale.com.br/2026/04/03/sony-xperia-1-viii-%E3%81%AE%E6%AD%A3%E6%96%B9%E5%BD%A2%E3%82%AB%E3%83%A1%E3%83%A9%E3%83%A2%E3%82%B8%E3%83%A5%E3%83%BC%E3%83%AB%E3%82%92%E4%BD%BF%E7%94%A8%E3%81%97%E3%81%9F%E3%83%AC%E3%83%B3%E3%83%80/amp/",
+    "displayDate": "2026-04-04"
+  },
+  "Projector": {
+    "title": "全室4Kプロジェクター完備ホテルが大阪に開業",
+    "summary": "大阪・桜川に、全客室に4Kプロジェクターを完備したホテル「SABLIER by R HOTEL」が開業しました。「時間を忘れる砂の映画館」をコンセプトに、プライベートな空間で高画質な映像体験を楽しめる宿泊施設として注目されています。",
+    "insight": "プロジェクターの小型化と高精細化により、ホテルなどの宿泊施設が単なる「寝る場所」から「没入型シアター体験」を提供する場へと変貌しています。空間設計とAV機器の統合によるUXの向上は、宿泊施設以外のオフィススペースやコワーキング施設の付加価値向上にも応用できるトレンドです。",
+    "sourceUrl": "https://news.livedoor.com/topics/detail/30898759/",
+    "sourceName": "ライブドアニュース",
+    "originalImageUrl": "https://image.news.livedoor.com/newsimage/stf/9/4/943f7_1815_923d8e48_3506c897.jpg",
+    "originalImageArticleUrl": "https://news.livedoor.com/topics/detail/30898759/",
+    "displayDate": "2026-04-04"
+  },
+  "TV": {
+    "title": "SamsungのOLED戦略に変化？パネル供給の動向が話題",
+    "summary": "Samsungの最新テレビシリーズS90Hにおいて、従来のQD-OLEDではなくWOLEDパネルが採用されている可能性が浮上しました。さらに新型The Frame Proなどの発表も続き、Samsungのディスプレイ製品戦略が大きな転換期を迎えています。",
+    "insight": "OLED技術の二大陣営であるQD-OLEDとWOLEDのハイブリッド化が進むことで、製造コストと供給網の柔軟性がエンジニアリング上の選定基準として重要になります。ディスプレイ技術の多様化は、パネルの仕様や特性の理解がデバイスの性能最適化に直結することを示唆しています。",
+    "sourceUrl": "https://www.notebookcheck.net/Early-reviews-suggest-Samsung-may-have-ditched-QD-OLED-panels-for-WOLEDs-on-the-S90H-TV-series-even-in-the-US.1265616.0.html",
+    "sourceName": "notebookcheck.net",
+    "originalImageUrl": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Samsung-S90H.png",
+    "originalImageArticleUrl": "https://www.notebookcheck.net/Early-reviews-suggest-Samsung-may-have-ditched-QD-OLED-panels-for-WOLEDs-on-the-S90H-TV-series-even-in-the-US.1265616.0.html",
+    "displayDate": "2026-04-04"
+  },
+  "LED Wall Display": {
+    "title": "OOH広告の進化：静的から参加型への転換",
+    "summary": "デジタルサイネージ技術の進化により、OOH（屋外広告）の役割が単なる情報の掲出から、人と文化が交差する「参加型」環境へと劇的に変化しています。物理空間がインタラクティブな体験の場になりつつあります。",
+    "insight": "大型LEDディスプレイの普及と高度な計測プラットフォームの統合により、広告効果測定の精度が向上しています。エンジニアとしては、単なる描画エンジンの最適化だけでなく、人流データや環境センサと連動したリアルタイムなインタラクション設計が今後の鍵となります。",
+    "sourceUrl": "https://www.digitalsignagetoday.com/blogs/ooh-evolving-from-placement-to-participation/",
+    "sourceName": "Digital Signage Today",
+    "originalImageUrl": "https://nmgprod.s3.amazonaws.com/media/file/95/13/c854994cbe133e7de5dff9417478/cover_image__5z8GxMBg__AdobeStock_1932139228.jpeg.360x190_q85_crop_upscale.jpg",
+    "originalImageArticleUrl": "https://www.digitalsignagetoday.com/blogs/ooh-evolving-from-placement-to-participation/",
+    "displayDate": "2026-04-04"
+  },
+  "TCL": {
+    "title": "TCLの2026年最新モデル：進化したMini LED技術",
+    "summary": "TCLが2026年モデルを発表。新技術「Super QD」やRGB Mini LEDを採用し、従来のOLEDを凌駕する明るさと画質を実現しています。ディスプレイの進化は、エンジニアにとっても注目すべき技術トレンドです。",
+    "insight": "Mini LEDと量子ドット（QD）の統合技術は、輝度とコントラスト比の限界を押し広げています。高輝度化に伴う熱設計やHDRレンダリングアルゴリズムの最適化は、低消費電力と高品質描画を両立させるための重要な工学課題です。",
+    "sourceUrl": "https://www.flatpanelshd.com/news.php?subaction=showfull&id=1774620000",
+    "sourceName": "FlatpanelsHD",
+    "originalImageUrl": "https://www.flatpanelshd.com/pictures/tclrm7l_1_small.jpg",
+    "originalImageArticleUrl": "https://www.flatpanelshd.com/news.php?subaction=showfull&id=1774620000",
+    "displayDate": "2026-04-04"
+  },
+  "Production Monitor": {
+    "title": "EditReady、Avid向けメタデータ保持ALEエクスポートに対応",
+    "summary": "プロ向けトランスコードツール「EditReady」がアップデートされ、ALE（Avid Log Exchange）エクスポートに対応しました。これにより、カメラのメタデータを維持したままAvid Media Composer用プロキシ作成が可能になり、ポストプロダクションのワークフロー効率が大幅に向上します。",
+    "insight": "メタデータの保持は、大規模なポストプロダクション環境での追跡性に不可欠なエンジニアリング上の課題です。ALEファイルの構造を理解し、トランスコード時にカスタムメタデータをいかに正確にマッピングさせるかという点は、自動化パイプライン設計における重要な知見となります。",
+    "sourceUrl": "https://www.newsshooter.com/2026/04/02/editready-ale-exports/",
+    "sourceName": "Newsshooter",
+    "originalImageUrl": "https://www.provideocoalition.com/wp-content/uploads/T5plus-hero.jpg",
+    "originalImageArticleUrl": "https://www.provideocoalition.com/osee-t5-powerful-instrument-monitor-with-hidden-unadvertised-feature-that-surpasses-the-competition-in-its-price-bracket/",
+    "displayDate": "2026-04-04"
+  },
+  "Camera Control": {
+    "title": "Artemis IIの衝撃：宇宙で撮影された地球の絶景",
+    "summary": "Artemis IIミッションの司令官が、Nikon D5を使用して宇宙船Orionから地球の姿を捉えました。オーロラや黄道光を鮮明に記録したこれらの写真は、極限環境下でのカメラ性能と宇宙撮影の醍醐味を改めて世界に示しています。",
+    "insight": "宇宙放射線下で信頼性を担保する民生機(Nikon D5)の堅牢性と、過酷な条件下でのデータ取得プロセスはエンジニアとして非常に興味深いです。センサーの保護技術や宇宙空間特有の画像処理アルゴリズムについて議論を広げられます。",
+    "sourceUrl": "https://www.dpreview.com/articles/8323099020/the-first-photos-from-artemis-ii-are-here-and-they-are-stunning",
+    "sourceName": "Digital Photography Review",
+    "originalImageUrl": "https://4.img-dpreview.com/files/p/E~C309x0S4949x3712T1200x900~articles/8323099020/art002e000192_orig.jpeg",
+    "originalImageArticleUrl": "https://www.dpreview.com/articles/8323099020/the-first-photos-from-artemis-ii-are-here-and-they-are-stunning",
+    "displayDate": "2026-04-04"
+  }
+}
