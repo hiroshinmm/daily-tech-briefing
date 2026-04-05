@@ -1,0 +1,102 @@
+{
+  "SRD / XR": {
+    "title": "Metaスマートグラスが大幅進化：AI機能で日常をアップデート",
+    "summary": "Metaのスマートグラスが次期アップデートで、栄養摂取トラッキングやWhatsAppの要約、ディスプレイ録画などの高度なAI機能を追加予定。AR/スマートグラスの活用が生活補助へと拡大しています。",
+    "insight": "エッジデバイスでのAI処理とマルチモーダルな入力（視覚・音声）の統合は、今後のAR開発における重要なトレンドです。単なる表示デバイスから、LLMを活用した「パーソナルAIアシスタント」への進化が注目されます。",
+    "sourceUrl": "https://www.uploadvr.com/meta-glasses-spring-summer-2026-software-updates/",
+    "sourceName": "UploadVR",
+    "originalImageUrl": "https://www.uploadvr.com/content/images/2026/04/Ray-Ban-Meta-Skyler-in-seasonal-color-Shiny-Transparent-Peach-with-Transitions-Brown-Lenses.png",
+    "originalImageArticleUrl": "https://www.uploadvr.com/meta-glasses-spring-summer-2026-software-updates/",
+    "displayDate": "2026-04-05"
+  },
+  "AI": {
+    "title": "コードを書かない時代？エンジニアの不安",
+    "summary": "AIがコーディングを支援する中で、数カ月間コードを書いていないエンジニアが増えています。AI活用により開発プロセスが劇的に変化する中、エンジニアの本来の価値やスキルの維持方法について、業界全体で問い直しが始まっています。",
+    "insight": "AI時代のエンジニアにとって、単純な実装能力よりもアーキテクチャ設計やAIへの適切な指示出しが重要になっています。手を動かす重要性を再定義し、技術の抽象度を高めるスキルの習得がキャリアの分かれ目となるでしょう。",
+    "sourceUrl": "https://www.businessinsider.jp/article/2604-ai-engineer-says-hasnt-touched-code-since-december/",
+    "sourceName": "Business Insider Japan",
+    "originalImageUrl": "https://media.loom-app.com/loom/2026/03/26/720b147f-875f-4365-8ae3-0967095d277b/original.jpg?w=1200&h=630",
+    "originalImageArticleUrl": "https://www.businessinsider.jp/article/2604-ai-engineer-says-hasnt-touched-code-since-december/",
+    "displayDate": "2026-04-05"
+  },
+  "TV": {
+    "title": "Samsungの新作OLEDテレビにVision AI搭載",
+    "summary": "Samsungが最新のS85H OLEDテレビを発表しました。このモデルには「Vision AI」技術が統合されており、コンテンツの最適化や画質向上などのインテリジェントな処理が強化されています。ディスプレイ技術の進化だけでなく、AIによる付加価値の提供が現在の家電トレンドとなっています。",
+    "insight": "家電製品へのAI統合が本格化しており、単なるハードウェアのスペック競争からアルゴリズムの差別化へとフェーズが変わっています。エンジニアとしては、エッジデバイス上での軽量なAI推論処理や、低遅延で映像を最適化するアーキテクチャの動向を追うことが重要です。",
+    "sourceUrl": "https://letsdatascience.com/news/samsung-launches-s85h-oled-tv-with-vision-ai-74929c58",
+    "sourceName": "Let's Data Science",
+    "originalImageUrl": null,
+    "originalImageArticleUrl": "https://letsdatascience.com/news/samsung-launches-s85h-oled-tv-with-vision-ai-74929c58",
+    "displayDate": "2026-04-05"
+  },
+  "SONY": {
+    "title": "ソニーの一眼カメラが売れ筋ランキングを席巻",
+    "summary": "ヨドバシカメラなどの主要販売ランキングにおいて、ソニーのデジタル一眼カメラが上位を独占。特に「α7 V」が4連覇を達成するなど、高い市場シェアとブランド力を維持しています。キヤノンとの激しいシェア争いが続く中、プロ・アマ問わずソニー機が選ばれ続けている現状が浮き彫りとなりました。",
+    "insight": "カメラの売れ筋は、単なるスペック競争から、ソニーが注力しているAF性能や画像処理エンジンを含む『統合的なシステム体験』への信頼性が大きく寄与していると言えます。エンジニア視点で見ると、ハードウェアの性能だけでなく、ファームウェア更新による機能強化やエコシステムの完成度が顧客ロイヤリティに直結している好例です。",
+    "sourceUrl": "https://getnavi.jp/capa/news/494926/",
+    "sourceName": "GetNavi web",
+    "originalImageUrl": "https://getnavi.jp/capa/wps/wp-content/uploads/2026/04/260404ranking_ichigan_sn.jpg",
+    "originalImageArticleUrl": "https://getnavi.jp/capa/news/494926/",
+    "displayDate": "2026-04-05"
+  },
+  "TCL": {
+    "title": "TCLが2026年モデル発表、新技術「Super QD」搭載",
+    "summary": "TCLは2026年向けの最新テレビモデルを発表しました。次世代のディスプレイ技術である「Super QD（量子ドット）」やRGBミニLEDを採用し、画質と性能を大幅に強化しています。コスト競争力の高いOLEDパネル生産の進展と合わせ、ディスプレイ市場での存在感をさらに高めています。",
+    "insight": "量子ドット技術の進化により、従来のLCDディスプレイでOLEDに匹敵するコントラストと色再現性が実現されつつあります。ハードウェアエンジニアとしては、PWM制御やバックライト駆動アルゴリズムがパネル性能に与える影響を追うことが重要です。",
+    "sourceUrl": "https://www.flatpanelshd.com/news.php?subaction=showfull&id=1774620000",
+    "sourceName": "FlatpanelsHD",
+    "originalImageUrl": "https://www.flatpanelshd.com/pictures/tclrm7l_1_small.jpg",
+    "originalImageArticleUrl": "https://www.flatpanelshd.com/news.php?subaction=showfull&id=1774620000",
+    "displayDate": "2026-04-05"
+  },
+  "Gaming Monitor": {
+    "title": "LGが5K2K OLEDモニターを発表、驚異のスペックに注目",
+    "summary": "LGは、5K2Kの超高解像度と最大330Hzのデュアルモードリフレッシュレートに対応したOLEDゲーミングモニター「LG UltraGear 39GX950B」を発表しました。高解像度による作業領域の広さと、高フレームレートによる滑らかな描画性能を両立したハイエンドモデルです。",
+    "insight": "高解像度と高リフレッシュレートの両立は、エンジニアにとって開発環境の生産性向上とゲーム体験の改善の両面で大きなメリットとなります。特にOLED特有の応答速度の速さと、作業用途に応じたデュアルモード制御は、UI描画の検証環境としても非常に興味深い技術スタックです。",
+    "sourceUrl": "https://news.google.com/rss/articles/CBMijAFBVV95cUxObVlFdHNvNTRPNWRaNGJLdFRQNkhCWE45SlVkcHdQT2ZWdDBzSjBRbzlyazA5dThJbF9fWWU3X3oyUVczTFNObmNreW5UMk9YanBLTTU3NnhMbkd4Z2tLM08zX0k1cEZmYURIY2haRTlUdGtuZTBHc0IyOEh1WjNXaTFlZ1ktU0ZFbENGUQ?oc=5",
+    "sourceName": "Gizmochina",
+    "originalImageUrl": null,
+    "originalImageArticleUrl": "https://news.google.com/rss/articles/CBMijAFBVV95cUxObVlFdHNvNTRPNWRaNGJLdFRQNkhCWE45SlVkcHdQT2ZWdDBzSjBRbzlyazA5dThJbF9fWWU3X3oyUVczTFNObmNreW5UMk9YanBLTTU3NnhMbkd4Z2tLM08zX0k1cEZmYURIY2haRTlUdGtuZTBHc0IyOEh1WjNXaTFlZ1ktU0ZFbENGUQ?oc=5",
+    "displayDate": "2026-04-05"
+  },
+  "LED Wall Display": {
+    "title": "デジタルサイネージのSOC 2 Type II認証取得",
+    "summary": "デジタルサイネージプラットフォームを提供するFusion Signageが、セキュリティ基準である「SOC 2 Type II」認証を取得しました。これにより、クラウドベースのサイネージ管理システムにおける情報セキュリティ管理の有効性が第三者機関によって証明されました。",
+    "insight": "デジタルサイネージは単なる表示機器から、ネットワーク接続されたIoTデバイスへと進化しています。顧客や運用データを扱うシステムにおいて、SOC 2のような強固なセキュリティ認証は、企業導入時の重要な選定基準になるでしょう。",
+    "sourceUrl": "https://www.digitalsignagetoday.com/news/fusion-signage-achieves-soc-2-type-ii-attestation/",
+    "sourceName": "Digital Signage Today",
+    "originalImageUrl": "https://nmgprod.s3.amazonaws.com/media/file/02/aa/ed6de1d45df01bd65931eeb50796/cover_image__NE7pkEZq__AdobeStock_2180089551.jpeg.360x190_q85_crop_upscale.jpg",
+    "originalImageArticleUrl": "https://www.digitalsignagetoday.com/news/fusion-signage-achieves-soc-2-type-ii-attestation/",
+    "displayDate": "2026-04-05"
+  },
+  "Projector": {
+    "title": "全室4Kプロジェクター完備のコンセプトホテルが開業",
+    "summary": "大阪・桜川に「時間を忘れる砂の映画館」をコンセプトにしたホテル「SABLIER by R HOTEL」が開業。全客室に4Kプロジェクターを完備しており、宿泊しながらシアター体験ができる点が特徴です。",
+    "insight": "ハードウェアのコモディティ化により、全室4K投影環境のようなUX特化型の宿泊体験が差別化要因となっています。エンジニア視点では、単なるハードウェアスペックの向上だけでなく、空間全体を統合したシステム設計や没入体験のエンジニアリングが重要になっています。",
+    "sourceUrl": "https://news.livedoor.com/article/image_detail/30898759/?img_id=53072618",
+    "sourceName": "ライブドアニュース",
+    "originalImageUrl": "https://image.news.livedoor.com/newsimage/stf/9/4/943f7_1815_923d8e48_3506c897.jpg",
+    "originalImageArticleUrl": "https://news.livedoor.com/article/image_detail/30898759/?img_id=53072618",
+    "displayDate": "2026-04-05"
+  },
+  "Camera Control": {
+    "title": "カメラ市場の未来は「ニッチ」が鍵？",
+    "summary": "DPReviewの分析によると、2025年のカメラ市場は汎用的なアップデートよりも、特定の目的に特化した「ニッチ」な製品開発が今後の主流になるという見方を示しています。市場のトレンド転換について考察しています。",
+    "insight": "汎用製品がコモディティ化する中、特定用途への特化（バーティカルな進化）は製品開発の生存戦略として重要です。エンジニアリング視点でも、多機能化による複雑さより、特定のユースケースを徹底的に最適化する設計思想への回帰が示唆されます。",
+    "sourceUrl": "https://www.dpreview.com/videos/6974383313/why-niche-cameras-are-the-future-of-photography",
+    "sourceName": "Digital Photography Review",
+    "originalImageUrl": "https://2.img-dpreview.com/files/p/E~C0x0S4333x3250T1200x900~articles/6974383313/canon_waistlevel_concept.jpeg",
+    "originalImageArticleUrl": "https://www.dpreview.com/videos/6974383313/why-niche-cameras-are-the-future-of-photography",
+    "displayDate": "2026-04-05"
+  },
+  "Production Monitor": {
+    "title": "EditReadyがALE書き出しに対応：プロの映像編集効率化",
+    "summary": "映像トランスコードソフト「EditReady」が新たにALE（Avid Log Exchange）書き出しをサポートしました。これにより、Avid Media Composerでプロキシを作成する際にも、シーンやテイク情報、レンズデータなどの重要なメタデータを保持したままスムーズにオフライン編集へ移行可能となります。",
+    "insight": "メタデータの保持は大規模なポストプロダクションのパイプラインにおいて最も重要な要素の一つです。今回のアップデートは、トランスコード工程で情報欠落を防ぐ実用的なエンジニアリングの改善例であり、メディアの資産価値を維持する上で非常に価値があります。",
+    "sourceUrl": "https://www.newsshooter.com/2026/04/02/editready-ale-exports/",
+    "sourceName": "Newsshooter",
+    "originalImageUrl": "https://www.provideocoalition.com/wp-content/uploads/T5plus-hero.jpg",
+    "originalImageArticleUrl": "https://www.provideocoalition.com/osee-t5-powerful-instrument-monitor-with-hidden-unadvertised-feature-that-surpasses-the-competition-in-its-price-bracket/",
+    "displayDate": "2026-04-05"
+  }
+}
