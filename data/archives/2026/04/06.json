@@ -1,0 +1,102 @@
+{
+  "AI": {
+    "title": "次世代AIエージェントの動向とClaude Codeの示唆",
+    "summary": "Claude Codeのソースコード流出により、自律的にコードベースを操作・実行する次世代AIエージェントの内部実装やアーキテクチャの全貌が明らかになりました。開発現場におけるAI活用の未来を占う重要なトピックです。",
+    "insight": "AIエージェントが単なる生成ツールから、リポジトリ全体を理解して自律的にデバッグやデプロイを行う『実行主体』へと進化していることが分かります。エンジニアとしては、エージェントのワークフローとセキュリティ境界をいかに設計するかが今後の差別化要因となるでしょう。",
+    "sourceUrl": "https://www.sbbit.jp/article/cont1/183912",
+    "sourceName": "ビジネス+IT",
+    "originalImageUrl": "https://www.sbbit.jp/article/image/183912/OGP_bit202604051424162631.jpg",
+    "originalImageArticleUrl": "https://www.sbbit.jp/article/cont1/183912",
+    "displayDate": "2026-04-06"
+  },
+  "Production Monitor": {
+    "title": "フィルムカメラがデジタル化？注目の新ガジェット「I’m Back Roll」",
+    "summary": "フィルムカメラのフィルム室に収まるAPS-Cセンサーユニット「I’m Back Roll」がKickstarterに登場。外部ユニット不要で、往年の名機を現代のデジタルカメラとして蘇らせる革新的なアプローチが注目されています。",
+    "insight": "ハードウェアのレガシーをソフトウェア（センサー変換）で拡張するエンジニアリングの好例です。古いインターフェースに最新のデジタル処理を組み込むレトロフィット技術は、ハードウェアエンジニアにとって非常に示唆に富むトピックです。",
+    "sourceUrl": "https://www.cined.com/im-back-roll-aps-c-now-on-kickstarter-digital-film-cartridge-moves-to-aps-c-sensor/",
+    "sourceName": "CineD",
+    "originalImageUrl": "https://www.cined.com/content/uploads/2026/04/feature-1-300x169.jpg",
+    "originalImageArticleUrl": "https://www.cined.com/im-back-roll-aps-c-now-on-kickstarter-digital-film-cartridge-moves-to-aps-c-sensor/",
+    "displayDate": "2026-04-06"
+  },
+  "Gaming Monitor": {
+    "title": "27型OLEDゲーミングモニターが大幅値下げ",
+    "summary": "LGの27インチ有機EL（OLED）ゲーミングモニター「27GS93QE-B」が、海外市場で400ドルOFFの499ドルまで大幅値下げされました。240Hzのリフレッシュレート、1440pの高解像度、そしてピーク輝度1,300nitsを誇るハイエンド仕様が、非常に手頃な価格で入手可能になっています。",
+    "insight": "OLEDゲーミングモニターの価格競争が激化しており、ハイエンドなリフレッシュレートとHDR性能が一般開発者にも手が届く価格帯に降りてきています。高フレームレート環境の検証や、正確な色再現性が求められるUI/UXデザインの確認用としても、検討価値の高い時期と言えます。",
+    "sourceUrl": "https://www.tomshardware.com/pc-components/get-a-27-1440p-oled-monitor-with-a-blazing-fast-240-hz-refresh-rate-for-just-usd499-lgs-27gs93qe-b-is-usd400-off-right-now-features-1-300-nits-of-peak-hdr-brightness",
+    "sourceName": "Tom's Hardware",
+    "originalImageUrl": "https://cdn.mos.cms.futurecdn.net/RPYAbM892z2bZRfAh2LtaN-1920-80.png",
+    "originalImageArticleUrl": "https://www.tomshardware.com/pc-components/get-a-27-1440p-oled-monitor-with-a-blazing-fast-240-hz-refresh-rate-for-just-usd499-lgs-27gs93qe-b-is-usd400-off-right-now-features-1-300-nits-of-peak-hdr-brightness",
+    "displayDate": "2026-04-06"
+  },
+  "SRD / XR": {
+    "title": "坂本龍一のピアノ演奏がMRで蘇る「KAGAMI」日本初上演",
+    "summary": "故・坂本龍一氏のピアノ演奏を複合現実（MR）技術で体験できる作品「KAGAMI」が日本で初めて上演されました。最新のMRヘッドセットを使用し、空間に現れる坂本氏の演奏をあらゆる角度から鑑賞できる、没入型音楽体験の新たな形です。",
+    "insight": "MR技術による「空間再現」は、単なる映像視聴を超え、アーティストの存在感をデジタル空間にアーカイブする極めて強力な手法です。空間コンピューティングのUI/UX設計における、現実と仮想の融合バランスを考察する上で非常に示唆に富む事例といえます。",
+    "sourceUrl": "https://bijutsutecho.com/magazine/news/exhibition/32348/pictures/1",
+    "sourceName": "美術手帖",
+    "originalImageUrl": "https://bt.imgix.net/magazine/32348/main/1775210732005_2494b7922897ed003b31ba8eec5e397d.png?v=2&cs=origin&q=90&fm=jpg&fit=crop&crop=faces%2Cedges&w=1200&h=630",
+    "originalImageArticleUrl": "https://bijutsutecho.com/magazine/news/exhibition/32348/pictures/1",
+    "displayDate": "2026-04-06"
+  },
+  "Projector": {
+    "title": "レーザープロジェクター市場の拡大と進化",
+    "summary": "2031年に向けたレーザープロジェクター市場の調査レポートが発表されました。家庭用から業務用まで、レーザー技術を用いた高精細な映像システムへの移行が進んでおり、ホームシアター環境の高度化や、IMAXなどの商業施設における最新鋭の4Kレーザー導入が注目を集めています。",
+    "insight": "レーザー光源は、従来のランプ式と比較して長寿命かつ高い輝度・色域を実現できるため、ハードウェア開発における光学設計の重要性が増しています。エンジニアとしては、高精細な映像を処理するSoC性能や、ワイヤレス通信による利便性向上といった周辺技術の統合が、次世代の映像体験を決定づける鍵となるでしょう。",
+    "sourceUrl": "https://www.atpress.ne.jp/news/5732810",
+    "sourceName": "株式会社マーケットリサーチセンター - アットプレス",
+    "originalImageUrl": "https://www.atpress.ne.jp/attachments/QU9NkokF7LfBBwnCwHC7.png",
+    "originalImageArticleUrl": "https://www.atpress.ne.jp/news/5732810",
+    "displayDate": "2026-04-06"
+  },
+  "TCL": {
+    "title": "ソニーとTCLのテレビ事業提携：再編の加速",
+    "summary": "ソニーがTCLとの合弁事業を通じてテレビ・AV事業の分離を進めています。家電業界における製造の効率化と垂直統合の再編が加速しており、大手メーカーが製造機能を外部化する大きな転換点となっています。",
+    "insight": "製造コストの最適化を目的に、伝統的なAVメーカーが自社工場を持たないファブレス・セミファブレス化へ舵を切るトレンドが強まっています。ソフトウェアプラットフォームが重視される現代のテレビ市場において、ハードウェア製造をメガサプライヤーと共有・統合する戦略は、今後のエレクトロニクス業界のスタンダードになるでしょう。",
+    "sourceUrl": "https://www.flatpanelshd.com/news.php?subaction=showfull&id=1774951256",
+    "sourceName": "FlatpanelsHD",
+    "originalImageUrl": "https://www.flatpanelshd.com/pictures/sonytcltv.jpg",
+    "originalImageArticleUrl": "https://www.flatpanelshd.com/news.php?subaction=showfull&id=1774951256",
+    "displayDate": "2026-04-06"
+  },
+  "TV": {
+    "title": "LG OLED G6 vs G5：ファームウェアで画質はどう変わった？",
+    "summary": "TechRadarによるLGの最新OLED TV「G6」と旧モデル「G5」の比較検証記事。最新のファームウェアアップデート適用後、両モデルの画質やパフォーマンスにどのような変化が生じたのかを専門的な視点で解説しています。",
+    "insight": "ファームウェアによる画像処理エンジンの最適化が、ハードウェア性能をどこまで引き出せるかという興味深いケーススタディです。UI/UXのみならず、デバイスの制御ロジック改善がエンドユーザー体験をどう変えるかを考える良い題材になります。",
+    "sourceUrl": "https://www.techradar.com/televisions/the-lg-g6-oled-tv-got-a-picture-changing-firmware-update",
+    "sourceName": "TechRadar",
+    "originalImageUrl": "https://cdn.mos.cms.futurecdn.net/NzdVxifWn3FMkTdFYpDsQk-2560-80.jpg",
+    "originalImageArticleUrl": "https://www.techradar.com/televisions/the-lg-g6-oled-tv-got-a-picture-changing-firmware-update",
+    "displayDate": "2026-04-06"
+  },
+  "SONY": {
+    "title": "一眼カメラ売れ筋ランキング、ソニーが圧倒的シェアを維持",
+    "summary": "最新のヨドバシカメラ等の売れ筋ランキングにおいて、一眼カメラおよびレンズ部門でソニー製品がトップ10の半数を占めるなど、圧倒的な存在感を示しています。特に標準ズームレンズの首位奪還など、堅調な市場シェアが改めて浮き彫りとなりました。",
+    "insight": "市場シェアを維持する背景には、Eマウントの圧倒的なレンズ資産と、プロ向けからコンシューマー向けまで網羅する製品ポートフォリオの強さがあります。エンジニア視点では、ハードウェアの性能だけでなく、長期的なプラットフォーム戦略とエコシステム構築が製品寿命とシェアに与える影響を再認識させられます。",
+    "sourceUrl": "https://www.chiba-tv.com/plus/detail/2026041484765",
+    "sourceName": "千葉テレビ放送",
+    "originalImageUrl": "https://img.nordot.app/f_auto,q_auto:eco/ch/units/973134880215891968/header_1.png",
+    "originalImageArticleUrl": "https://www.chiba-tv.com/plus/detail/2026041484765",
+    "displayDate": "2026-04-06"
+  },
+  "LED Wall Display": {
+    "title": "OOH広告の進化：単なる配置から参加型へ",
+    "summary": "GeopathとOAAAによる新しい測定プラットフォームの発表を機に、屋外広告（OOH）の概念が大きく変化しています。単に広告を設置する段階から、物理空間と人々の動きや文化が交差し、視聴者が能動的に参加するインタラクティブな環境へと進化しています。",
+    "insight": "デジタルサイネージやLEDディスプレイの活用は、単なる視覚的インパクトの追求から、センサーやデータ分析を統合した「行動変容を促すインターフェース」へとシフトしています。エンジニアとしては、広告表示制御と人流・行動ログをリアルタイムに連携させるバックエンドのデータパイプライン設計が今後より重要になります。",
+    "sourceUrl": "https://www.digitalsignagetoday.com/blogs/ooh-evolving-from-placement-to-participation/",
+    "sourceName": "Digital Signage Today",
+    "originalImageUrl": "https://nmgprod.s3.amazonaws.com/media/file/95/13/c854994cbe133e7de5dff9417478/cover_image__5z8GxMBg__AdobeStock_1932139228.jpeg.360x190_q85_crop_upscale.jpg",
+    "originalImageArticleUrl": "https://www.digitalsignagetoday.com/blogs/ooh-evolving-from-placement-to-participation/",
+    "displayDate": "2026-04-06"
+  },
+  "Camera Control": {
+    "title": "Sony A7V実写レビュー！アラスカでの過酷な検証",
+    "summary": "著名な写真家Jake Sloan氏が、新型カメラ「Sony A7V」をアラスカの過酷な環境下で徹底検証しました。ワイルドライフ撮影における最新鋭のAF性能や信頼性が試されており、実戦的なレビューとして注目を集めています。",
+    "insight": "最新のAI駆動AFやセンサー技術が、過酷なフィールド環境でどう機能するかを理解することは、ハードウェアの信頼性を評価する上で重要です。エンジニア視点では、極限状態での熱設計やオートフォーカスの追従アルゴリズムの進化に注目すべきでしょう。",
+    "sourceUrl": "https://www.sonyalpharumors.com/jake-sloan-tested-the-sony-a7v-in-alaska/",
+    "sourceName": "sonyalpharumors",
+    "originalImageUrl": "https://www.sonyalpharumors.com/wp-content/uploads/2025/12/Sony-A7V-in-Stock-now-at-BHphoto.png",
+    "originalImageArticleUrl": "https://www.sonyalpharumors.com/jake-sloan-tested-the-sony-a7v-in-alaska/",
+    "displayDate": "2026-04-06"
+  }
+}
