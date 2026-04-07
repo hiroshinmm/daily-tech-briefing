@@ -1,0 +1,102 @@
+{
+  "AI": {
+    "title": "OpenAIが政策提言：AI自動化への課税と週4日勤務を推奨",
+    "summary": "OpenAIが発表した最新の政策提言では、AIによる業務自動化が急速に進む中で、社会保障を維持するためのAI課税や、労働者の生産性向上を見込んだ週4日勤務の導入を推奨しました。AI技術の進歩がもたらす労働環境の激変に対し、経済的・社会的なセーフティネットのあり方を問う内容となっています。",
+    "insight": "AIモデルの社会実装が進む中で、単なる技術導入から『経済政策としてのAI』への議論がシフトしています。エンジニアとしては、単に効率化ツールを作るだけでなく、AIが雇用や社会インフラに与える長期的影響を考慮した設計思想が、今後のプロダクト開発において不可欠になるでしょう。",
+    "sourceUrl": "https://www.nikkei.com/article/DGXZQOGN06B0S0W6A400C2000000/",
+    "sourceName": "日本経済新聞",
+    "originalImageUrl": "https://article-image-ix.nikkei.com/https%3A%2F%2Fimgix-proxy.n8s.jp%2FDSXZQO2857341007042026000000-1.jpg?auto=format&bg=FFFF&crop=focalpoint&fit=crop&fp-x=0.27&fp-y=0.41&h=630&w=1200&s=96eb1ad81ca4fd2466bfe6925ea6715c",
+    "originalImageArticleUrl": "https://www.nikkei.com/article/DGXZQOGN06B0S0W6A400C2000000/",
+    "displayDate": "2026-04-07"
+  },
+  "SRD / XR": {
+    "title": "MetaがAIグラス開発ツールを公開、実用アプリの可能性",
+    "summary": "Metaが「Wearables Device Access Toolkit」の詳細を公開。視覚障害者向けの聴覚アシスタントや学習支援アプリなど、スマートグラスのセンサーを活用した実用的な開発事例が紹介されており、クロスプラットフォーム（iOS/Android）対応でウェアラブル開発の裾野が広がっています。",
+    "insight": "単なるAR/VRの描画だけでなく、エッジデバイスでのAI処理とセンサー入力の統合が進んでいます。既存のモバイルOSエコシステムとスマートグラスをどう繋ぐかというアーキテクチャ設計は、今後ウェアラブル開発の重要なポイントになるでしょう。",
+    "sourceUrl": "https://www.moguravr.com/meta-wearables-device-access-toolkit/",
+    "sourceName": "Mogura VR",
+    "originalImageUrl": "https://assets.moguravr.com/uploads/2026/04/4fe1aaee9112aee73378f3d1086e517d-kix.j1ajnoms0gku-300x158.webp",
+    "originalImageArticleUrl": "https://www.moguravr.com/meta-wearables-device-access-toolkit/",
+    "displayDate": "2026-04-07"
+  },
+  "Gaming Monitor": {
+    "title": "Samsung 27型Odyssey OLEDが$519.99に値下げ",
+    "summary": "Samsungの27インチゲーミングモニター「Odyssey OLED G6」の価格が519.99ドルまで大幅値下げされました。OLEDパネル特有の高速応答速度と高コントラストを備えたモデルが手に届きやすい価格となり、ハイエンド環境の構築を検討しているゲーマーには注目のニュースです。",
+    "insight": "OLEDパネルは応答速度が極めて速く、モーションブラーが抑えられるため、高速なレンダリングを追求するゲーム開発者にとっても検証機材として非常に優秀です。最近のパネル価格の低下は、デスクトップ環境におけるOLEDの標準化が加速していることを示唆しています。",
+    "sourceUrl": "https://www.technobezz.com/best/samsung-27-inch-odyssey-oled-g6-gaming-monitor-drops-to-51999",
+    "sourceName": "technobezz.com",
+    "originalImageUrl": "https://cdn.technobezz.com/deals-branded/76f32f3031335f41_branded.jpg",
+    "originalImageArticleUrl": "https://www.technobezz.com/best/samsung-27-inch-odyssey-oled-g6-gaming-monitor-drops-to-51999",
+    "displayDate": "2026-04-07"
+  },
+  "TCL": {
+    "title": "SonyとTCLがテレビ生産で提携：グローバル戦略の転換点",
+    "summary": "家電大手のSonyとTCLがテレビ製造における新たな提携を発表しました。今回の協業は、激化するグローバルなテレビ市場において、TCLの製造リソースとSonyのブランド・技術力を掛け合わせる戦略的な動きであり、業界構造の変化を示唆しています。",
+    "insight": "製造委託先であるODM/OEMの動向は、ハードウェアのコスト構造やサプライチェーン戦略を理解する上で重要です。グローバルな巨大企業同士が提携する背景には、製造効率化と市場シェア維持のシビアな最適化があるため、今後どのような技術統合が進むかに注目です。",
+    "sourceUrl": "https://www.twice.com/product/video/tv/its-official-tcl-will-make-sonys-future-tvs-in-a-new-joint-venture",
+    "sourceName": "twice.com",
+    "originalImageUrl": "https://www.twice.com/wp-content/uploads/2026/03/A-glass-building-identified-as-Sonys-headquarters-by-a-large-Sony-sign-on-a-silver-panel-in-front-of-it-Image-credit-Sony-Interactive-Entertainment-.jpg",
+    "originalImageArticleUrl": "https://www.twice.com/product/video/tv/its-official-tcl-will-make-sonys-future-tvs-in-a-new-joint-venture",
+    "displayDate": "2026-04-07"
+  },
+  "Projector": {
+    "title": "八王子に「IMAXレーザー」導入！次世代の映像体験",
+    "summary": "東京都八王子市に「イオンシネマ八王子滝山」が6月26日にグランドオープン。同館には、高精細かつ鮮やかなコントラストを実現する次世代映画上映システム「IMAXレーザー」が八王子市で初めて導入されることが決定しました。",
+    "insight": "映画館の映像体験がデジタルプロジェクションとレーザー光源の進化により、従来の投影技術から一段高いレベルへ移行しています。エンジニア視点では、輝度向上と広色域化がどのように視聴覚の没入感を最適化しているかという視点での技術トレンドに注目です。",
+    "sourceUrl": "https://www.excite.co.jp/news/article/AMP_495761/",
+    "sourceName": "Excite エキサイト",
+    "originalImageUrl": "https://s.eximg.jp/exnews/feed/AMP/3f/AMP_495761/AMP_495761_1.jpg",
+    "originalImageArticleUrl": "https://www.excite.co.jp/news/article/AMP_495761/",
+    "displayDate": "2026-04-07"
+  },
+  "TV": {
+    "title": "Xiaomiが挑む高コスパなMini LEDテレビ市場",
+    "summary": "Xiaomiが発売した「Xiaomi TV S Pro Mini LED 55 2026」が注目されています。Mini LED技術を搭載しつつ、初めてのテレビ購入にも適した価格帯を実現しており、家庭用ディスプレイ市場の価格競争が激化しています。",
+    "insight": "Mini LEDはローカルディミングによる高いコントラストと輝度が特徴で、かつての高級品から身近な選択肢へと進化しています。ソフトウェア開発者視点では、こうしたハードウェアの進化がUIデザインや動画配信サービスのUX品質基準（HDR対応等）にどう影響するか注目すべきです。",
+    "sourceUrl": "https://k-tai.watch.impress.co.jp/docs/column/todays_goods/2099448.html",
+    "sourceName": "ケータイ Watch",
+    "originalImageUrl": "https://k-tai.watch.impress.co.jp/img/ktw/list/2099/448/000.jpg",
+    "originalImageArticleUrl": "https://k-tai.watch.impress.co.jp/docs/column/todays_goods/2099448.html",
+    "displayDate": "2026-04-07"
+  },
+  "Production Monitor": {
+    "title": "リアルタイム縦型動画生成：GoVertical! AiDi",
+    "summary": "NAB 2026で発表された「GoVertical! AiDi」は、NVIDIAの最新GPUを搭載し、リアルタイムでの9:16（縦型）オートクロッピングを実現するAIソリューションです。NBC Sportsでの導入実績もあり、モバイル向けストリーミングのワークフローを劇的に効率化します。",
+    "insight": "エッジデバイスでの推論最適化が進み、動画編集のパイプラインにAIが深く組み込まれ始めています。特にRTX 50シリーズのような次世代ハードウェアによるローカル処理は、遅延が許されないライブ配信環境において非常に強力な技術スタックとなります。",
+    "sourceUrl": "https://www.provideocoalition.com/govertical-aidi-real-time-916-autocropping-at-nab-2026/",
+    "sourceName": "ProVideo Coalition",
+    "originalImageUrl": "https://www.provideocoalition.com/wp-content/uploads/govertical001.jpg",
+    "originalImageArticleUrl": "https://www.provideocoalition.com/govertical-aidi-real-time-916-autocropping-at-nab-2026/",
+    "displayDate": "2026-04-07"
+  },
+  "SONY": {
+    "title": "ソニー「α7 V」ズームレンズキット発売決定",
+    "summary": "ソニーのフルサイズミラーレス「α7 V」のズームレンズキット（ILCE-7M5M）の発売日が4月10日（金）に決定しました。新キットレンズ「FE 28-70mm F3.5-5.6 OSS II」が追加2万円で同梱されるコストパフォーマンスの高いパッケージです。",
+    "insight": "最新のキットレンズ「SEL28702」は、前モデルから光学設計を刷新し軽量化と解像度向上を実現しており、システム全体の機動性が高まっています。エンジニア視点では、単なるハードウェア更新だけでなく、同梱レンズとの最適化によるシステム全体のUX改善が、カメラ市場の競争力をどう底上げするかに注目です。",
+    "sourceUrl": "https://kunkoku.jp/ilce-7m5-28.html",
+    "sourceName": "ソニーが基本的に好き。",
+    "originalImageUrl": "https://kunkoku.jp/wp-content/uploads/2026/04/ILCE-7M5_SEL28702_02.jpg",
+    "originalImageArticleUrl": "https://kunkoku.jp/ilce-7m5-28.html",
+    "displayDate": "2026-04-07"
+  },
+  "Camera Control": {
+    "title": "月面ミッションにNikon D5が選ばれた理由",
+    "summary": "アルテミスII計画において、10年前のデジタル一眼レフNikon D5が主要カメラとして採用された背景を解説。最新のミラーレスカメラが主流の時代に、なぜこのモデルが信頼されたのかを考察しています。",
+    "insight": "極限環境での信頼性は、最新のスペックよりも堅牢性や操作性というレガシーな価値が優先される好例です。技術選定においては、単なる新しさだけでなく、ミッションクリティカルな状況下での実績と枯れた技術の安定感を再評価すべきだと感じさせられます。",
+    "sourceUrl": "https://petapixel.com/2026/04/06/the-10-year-old-nikon-d5-dslr-really-is-the-best-camera-for-artemis-ii/",
+    "sourceName": "PetaPixel",
+    "originalImageUrl": "https://petapixel.com/assets/uploads/2026/04/artemis-ii-nikon-d5-featured.jpg",
+    "originalImageArticleUrl": "https://petapixel.com/2026/04/06/the-10-year-old-nikon-d5-dslr-really-is-the-best-camera-for-artemis-ii/",
+    "displayDate": "2026-04-07"
+  },
+  "LED Wall Display": {
+    "title": "AlfaliteがNAB Show 2026で最新LEDパネルを公開",
+    "summary": "Alfaliteは、2026年のNAB Showにて、放送・コントロールルーム・バーチャルプロダクション向けに設計された最新LEDディスプレイ「Litepix」「Neopix」「UHD Finepix MATIX AlfaCOB」を展示します。高精細かつ専門的なニーズに応える次世代パネル技術に注目が集まっています。",
+    "insight": "放送やバーチャルプロダクションにおいて、AlfaCOBのような高い堅牢性と光学性能を両立させる実装技術は、今後のLEDウォール設計の標準となるでしょう。エンジニアとしては、単なる画素ピッチの追求だけでなく、高輝度・高コントラストを維持しつつ、カメラ撮影時のフリッカーを抑えるリフレッシュレート設計にも注目すべきです。",
+    "sourceUrl": "https://ravepubs.com/alfalite-led-displays-nab-show-2026-litepix-neopix-uhd-finepix/",
+    "sourceName": "rAVe [PUBS]",
+    "originalImageUrl": "https://ravepubs.com/wp-content/uploads/2026/03/Alfalite-800x400.webp",
+    "originalImageArticleUrl": "https://ravepubs.com/alfalite-led-displays-nab-show-2026-litepix-neopix-uhd-finepix/",
+    "displayDate": "2026-04-07"
+  }
+}
