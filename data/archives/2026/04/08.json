@@ -1,0 +1,102 @@
+{
+  "SRD / XR": {
+    "title": "Nianticが「Scaniverse」法人版を発表、空間コンピューティング活用が加速",
+    "summary": "Nianticが法人向け3Dスキャンアプリ「Scaniverse for business」と、高精度な位置推定システム「VPS 2.0」を発表。フィジカルAI開発やチームでの空間データ運用を強化し、業務効率化を支援する新ソリューションです。",
+    "insight": "VPS 2.0や法人版SDKの登場により、空間コンピューティングが「個人の趣味」から「産業用途」へ急速にシフトしています。特にデジタルツイン構築やフィジカルAIの空間認識精度向上が、今後の開発現場の重要な鍵となるでしょう。",
+    "sourceUrl": "https://www.moguravr.com/niantic-spatial-scaniverse-for-business-vps2/",
+    "sourceName": "Mogura VR",
+    "originalImageUrl": "https://assets.moguravr.com/uploads/2026/04/692b079e219ece9a26c8d08698675850-kix.tjb2v0cc3qh4-300x169.webp",
+    "originalImageArticleUrl": "https://www.moguravr.com/niantic-spatial-scaniverse-for-business-vps2/",
+    "displayDate": "2026-04-08"
+  },
+  "AI": {
+    "title": "Anthropicの新モデル「Mythos」とAIセキュリティの最前線",
+    "summary": "Anthropicが発表した新モデル「Mythos」がサイバーセキュリティ分野に激震を与えています。その高度な攻撃能力から悪用を懸念し、同社は公開を一部制限する異例の判断を下しました。AIの進化に伴う脆弱性対策と安全性のバランスが喫緊の課題となっています。",
+    "insight": "AIモデルの攻撃能力向上は、防御側にとっても強力なツールとなる一方、デュアルユースの懸念を浮き彫りにしています。エンジニアとしては、AIを活用した脅威モデリングや、AI自身の安全性確保（Project Glasswing等）に関する最新の防御フレームワークへの注目が必要です。",
+    "sourceUrl": "https://www.cnbc.com/2026/04/07/anthropic-claude-mythos-ai-hackers-cyberattacks.html",
+    "sourceName": "CNBC",
+    "originalImageUrl": "https://image.cnbcfm.com/api/v1/image/108254385-17689274872026-01-20t124832z_629620600_rc205ja69ak1_rtrmadp_0_davos-meeting.jpeg?v=1775581111&w=1920&h=1080",
+    "originalImageArticleUrl": "https://www.cnbc.com/2026/04/07/anthropic-claude-mythos-ai-hackers-cyberattacks.html",
+    "displayDate": "2026-04-08"
+  },
+  "TCL": {
+    "title": "Sony、TV/AV事業の一部をTCLへ売却",
+    "summary": "Sonyが6.5億ドル規模のテレビ・AV事業スピンオフ取引を完了し、TCLが当該事業を継承しました。業界再編が加速する中、ディスプレイ技術のリーダーであるTCLの今後の戦略に注目が集まっています。",
+    "insight": "大手メーカー間の事業譲渡は、サプライチェーンやOS統合の観点から今後の製品ロードマップに大きな影響を与えます。ハードウェアエンジニアとしては、TCLの製造技術とSonyの信号処理アルゴリズムが融合することで、次世代ディスプレイの品質がどう変化するかに注目すべきです。",
+    "sourceUrl": "https://www.flatpanelshd.com/news.php?subaction=showfull&id=1774951256",
+    "sourceName": "FlatpanelsHD",
+    "originalImageUrl": "https://www.flatpanelshd.com/pictures/sonytcltv.jpg",
+    "originalImageArticleUrl": "https://www.flatpanelshd.com/news.php?subaction=showfull&id=1774951256",
+    "displayDate": "2026-04-08"
+  },
+  "TV": {
+    "title": "77インチ有機ELテレビがAmazonで過去最安値を記録",
+    "summary": "Amazonにて、LGのハイエンドモデル「77インチ Evo C5 4K OLED TV」がこれまでの記録を更新する過去最安値で販売されています。大型かつ高画質な有機ELディスプレイの価格低下は、リビングのホームシアター環境構築を検討しているエンジニアにとって注目のトピックです。",
+    "insight": "OLEDパネルの低価格化は、高リフレッシュレートや応答速度を求めるゲーミング環境の大型化を加速させます。高精細なディスプレイ開発やUXデザインに携わる技術者にとって、民生用ハイエンド機がどこまで普及価格帯に降りてくるかの指標となります。",
+    "sourceUrl": "https://www.ign.com/articles/best-lg-evo-c5-4k-oled-tv-deal-in-april-2026",
+    "sourceName": "IGN",
+    "originalImageUrl": "https://assets-prd.ignimgs.com/2026/04/06/lgc5oled2-1775494341435.jpg?width=1280&format=jpg&auto=webp&quality=80",
+    "originalImageArticleUrl": "https://www.ign.com/articles/best-lg-evo-c5-4k-oled-tv-deal-in-april-2026",
+    "displayDate": "2026-04-08"
+  },
+  "Production Monitor": {
+    "title": "PremiereからResolveへの直変換！「CornerCut」登場",
+    "summary": "XMLを介さずAdobe Premiereのプロジェクト(.prproj)をDaVinci Resolveのプロジェクト(.drp)へ直接変換する新ツール「CornerCut」が公開されました。従来のエクスポートの手間を省き、スムーズな移行を実現します。",
+    "insight": "XML経由のコンフォームはメタデータ欠落や同期ズレの温床になりがちですが、DRP形式への直接変換はプロジェクトの完全性を維持する画期的なアプローチです。バイナリ解析やAPIの活用により、異なるNLE間の相互運用性を高める技術として非常に興味深い事例です。",
+    "sourceUrl": "https://www.newsshooter.com/2026/04/06/cornercut-adobe-premiere-to-davinci-resolve-engine/",
+    "sourceName": "Newsshooter",
+    "originalImageUrl": "https://www.newsshooter.com/wp-content/uploads/2026/04/Vertical-Camera-Bracket-The-L-of-Steel-and-Bolt-On-ARRI-Dovetails.jpeg",
+    "originalImageArticleUrl": "https://www.newsshooter.com/2026/04/07/mid49-announces-the-l-of-steel-a-stainless-steel-vertical-camera-mounting-bracket/?utm_source=rss&utm_medium=rss&utm_campaign=mid49-announces-the-l-of-steel-a-stainless-steel-vertical-camera-mounting-bracket",
+    "displayDate": "2026-04-08"
+  },
+  "Gaming Monitor": {
+    "title": "ハイエンドOLEDモニターが過去最安値に！今の狙い目は？",
+    "summary": "Amazonにて、LGやSamsungのハイエンドなOLEDゲーミングモニターが大幅値下げされ、過去最安値圏で販売されています。特にOLED技術を採用したモデルが相次いで価格改定されており、ゲーマーやエンジニアにとってディスプレイ環境をアップグレードする絶好の機会となっています。",
+    "insight": "OLEDモニターの低価格化は、パネル生産技術の成熟と供給網の最適化を反映しています。高リフレッシュレートと応答速度の速さは、開発時の生産性向上やデバッグ作業の快適性に直結するため、エンジニアには注目の投資対象です。",
+    "sourceUrl": "https://mashable.com/article/april-2-lg-gaming-monitor-deal",
+    "sourceName": "Mashable",
+    "originalImageUrl": "https://helios-i.mashable.com/imagery/articles/00WDPlFaau34teau4DYaPMy/hero-image.fill.size_1200x675.v1775039965.jpg",
+    "originalImageArticleUrl": "https://mashable.com/article/april-2-lg-gaming-monitor-deal",
+    "displayDate": "2026-04-08"
+  },
+  "Projector": {
+    "title": "プロジェクターにもAIの波？「JMGO N3 Ultimate」の登場",
+    "summary": "家庭用プロジェクター市場が競争激化により低価格・高機能化する中、JMGOからAIを搭載した「N3 Ultimate」が登場。単なる投影機から、AIによる最適化機能を備えたインテリジェントなホームデバイスへと進化しています。",
+    "insight": "AV機器の差別化要因がハードウェアスペックだけでなく、AIを活用した映像補正やユーザー体験の最適化にシフトしている点は注目です。エンジニアの視点で見ると、投影アルゴリズムやリアルタイム処理の最適化といったエッジAI実装の動向が今後の製品開発の鍵となります。",
+    "sourceUrl": "https://av.watch.impress.co.jp/docs/series/zooma/2099811.html",
+    "sourceName": "AV Watch",
+    "originalImageUrl": "https://av.watch.impress.co.jp/img/avw/list/2099/811/DSC00573.jpg",
+    "originalImageArticleUrl": "https://av.watch.impress.co.jp/docs/series/zooma/2099811.html",
+    "displayDate": "2026-04-08"
+  },
+  "SONY": {
+    "title": "Sonyの次世代「True RGB」ディスプレイ技術がOLEDに挑む",
+    "summary": "Sonyが次世代ディスプレイ技術として「True RGB」を搭載したBRAVIAの新モデルを発表しました。従来のOLED（有機EL）技術の課題を克服する新しい画素構造や光制御が注目されており、専門家による試写レビューでもその高い表現力が評価されています。",
+    "insight": "True RGBディスプレイは、画素レベルでの正確な色再現と高い輝度効率を両立させることで、従来のRGBWやWOLED構造が抱える課題を解決する可能性があります。エンジニアの視点からは、この新しいハードウェア設計がどのように輝度制御や焼き付き対策（寿命管理）を最適化しているのか、そのアルゴリズムと製造プロセスの革新に注目すべきです。",
+    "sourceUrl": "https://www.cepro.com/news/sony-teases-true-rgb-bravia-tvs-as-next-gen-display-tech-targets-oled/626238/",
+    "sourceName": "cepro.com",
+    "originalImageUrl": "https://www.cepro.com/wp-content/uploads/2026/04/Coming-Soon-True-RGB-scaled.jpg",
+    "originalImageArticleUrl": "https://www.cepro.com/news/sony-teases-true-rgb-bravia-tvs-as-next-gen-display-tech-targets-oled/626238/",
+    "displayDate": "2026-04-08"
+  },
+  "Camera Control": {
+    "title": "NASAがArtemis IIで撮影した極限環境下の貴重な写真",
+    "summary": "NASAのArtemis IIミッションにて、月周回中の宇宙飛行士がNikon Z9やD5を使い、歴史的な「Earthset」や月による日食の撮影に成功しました。地球上では再現不可能な過酷な光環境下での撮影データが公開されています。",
+    "insight": "過酷な宇宙空間という極限条件下で、市販のカメラ（Nikon Z9/D5）がどのような挙動を示すかはエンジニアとして非常に興味深いトピックです。特に高コントラスト環境でのセンサー性能や、宇宙放射線対策を含むハードウェアの信頼性確保という観点で深い議論が可能です。",
+    "sourceUrl": "https://www.dpreview.com/articles/7117300423/nasa-has-recreated-its-most-iconic-photo",
+    "sourceName": "Digital Photography Review",
+    "originalImageUrl": "https://1.img-dpreview.com/files/p/E~C309x0S4949x3712T1200x900~articles/7117300423/art002e009288_orig.jpeg",
+    "originalImageArticleUrl": "https://www.dpreview.com/articles/7117300423/nasa-has-recreated-its-most-iconic-photo",
+    "displayDate": "2026-04-08"
+  },
+  "LED Wall Display": {
+    "title": "LEDウォールの配線効率化、ハイブリッドケーブルの新潮流",
+    "summary": "Van Dammeが、LEDウォール向けにCat 6Aデータ通信と電源供給を一体化した「Tourcat Hybrid Multicore」を発表しました。これにより、複雑なLED設置現場でのケーブルマネジメントが大幅に簡素化されます。",
+    "insight": "大規模なLEDウォール運用において、データと電力を1本にまとめるハイブリッド構造は、現場の信頼性と設営速度を劇的に向上させます。物理レイヤーの制約を減らすこのようなインフラソリューションは、システム設計におけるケーブルノイズや電圧降下のリスクを管理する上でも非常に重要です。",
+    "sourceUrl": "https://ravepubs.com/van-damme-supports-led-walls-with-new-cat-6a-tourcat-hybrid-multicore/",
+    "sourceName": "rAVe [PUBS]",
+    "originalImageUrl": "https://ravepubs.com/wp-content/uploads/2026/04/IMG_6893-removebg-preview.webp",
+    "originalImageArticleUrl": "https://ravepubs.com/van-damme-supports-led-walls-with-new-cat-6a-tourcat-hybrid-multicore/",
+    "displayDate": "2026-04-08"
+  }
+}
