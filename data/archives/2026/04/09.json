@@ -1,0 +1,75 @@
+{
+  "SRD / XR": {
+    "title": "DNP、メタバースで3Dアイテム流通の実証実験を開始",
+    "summary": "大日本印刷(DNP)とメタバースクリエイターズが、VTuberと3Dクリエイターの共創を通じた3Dアイテム流通の実証実験を開始。VRChat上での流通やクリエイターエコノミーの構築を目指す動きです。",
+    "insight": "メタバース内の経済圏構築において、3Dアセットの権利管理と流通は今後のエンジニアリングにおける重要な課題です。VRChatを活用したこの取り組みは、コンテンツの二次流通やクリエイター収益化を支えるインフラ開発の参考になります。",
+    "sourceUrl": "https://www.moguravr.com/np-vtuber-3d-creator-vrchat-experiment/",
+    "sourceName": "Mogura VR",
+    "originalImageUrl": "https://assets.moguravr.com/uploads/2026/04/0a21688f540e864ca2d93dce389d771a-kix.njf7hmln1hkc-300x175.webp",
+    "originalImageArticleUrl": "https://www.moguravr.com/np-vtuber-3d-creator-vrchat-experiment/",
+    "displayDate": "2026-04-09"
+  },
+  "AI": {
+    "title": "Metaが新AI「Muse Spark」を発表",
+    "summary": "Metaが同社のスーパーインテリジェンス開発チームによる初のAIモデル「Muse Spark」を発表しました。開発競争での挽回を図る重要な一手となり、同社の株価上昇にも寄与するなど注目を集めています。",
+    "insight": "LLMの推論能力向上に向けた計算資源への大規模投資が、いよいよモデルの成果物として結実し始めています。エンジニアとしては、単なるモデル性能だけでなく、SNSやウェアラブルデバイスへの統合による実サービスへの落とし込みが今後の主流になる点に注目すべきです。",
+    "sourceUrl": "https://jp.reuters.com/markets/japan/NXOOD2WC4BN2VI2Y6VKR7SYBJA-2026-04-08/",
+    "sourceName": "Reuters",
+    "originalImageUrl": "https://www.reuters.com/resizer/v2/5TNP4S24TZPFJORTZUN3SRNNFE.jpg?auth=8392f7d4cb49536cbac68e7a4aa46ad7bd2afe98097c00b86ee1e9600364a35c&height=1005&width=1920&quality=80&smart=true",
+    "originalImageArticleUrl": "https://jp.reuters.com/markets/japan/NXOOD2WC4BN2VI2Y6VKR7SYBJA-2026-04-08/",
+    "displayDate": "2026-04-09"
+  },
+  "TCL": null,
+  "SONY": {
+    "title": "ソニーが「True RGB TV」を今春発表へ",
+    "summary": "ソニーが海外公式サイトおよびXを通じて、新しいディスプレイ技術を採用した「True RGB TV」の今春発売を予告しました。詳細は明かされていませんが、既存の有機ELや液晶とは異なる画期的な表示技術への期待が高まっています。",
+    "insight": "「True RGB」は、従来の色生成プロセス（サブピクセル構造）を根本から見直す可能性を示唆しており、ディスプレイエンジニアリングの観点から非常に興味深いトピックです。特に発光効率や色域再現性の向上が見込まれ、次世代テレビのパラダイムシフトとなる可能性があります。",
+    "sourceUrl": "https://www.phileweb.com/news/d-av/202604/08/64906.html",
+    "sourceName": "PHILE WEB",
+    "originalImageUrl": "https://www.phileweb.com/news/ogp/d-av/649/e2c4727e7982f316f3827a1e29139a7c.jpg",
+    "originalImageArticleUrl": "https://www.phileweb.com/news/d-av/202604/08/64906.html",
+    "displayDate": "2026-04-09"
+  },
+  "Projector": {
+    "title": "XGIMIが新型4Kホームプロジェクター「TITAN Noir」を発表",
+    "summary": "ホームプロジェクター市場で注目を集めるXGIMIが、新たに4Kホームシネマ向けの「TITAN Noir」を発表しました。高品質な映像体験を追求する同社のラインナップ強化として注目されています。",
+    "insight": "プロジェクターの4K化とレーザー光源技術の進化は、ハードウェアレベルでの色域と輝度の向上を加速させています。高解像度コンテンツのストリーミング最適化とともに、没入型視聴環境の構築がエンジニアリング的にも身近なトレンドとなっています。",
+    "sourceUrl": "https://www.hiddenwires.co.uk/products/article/xgimi-unveils-titan-noir-4k-home-cinema-projectors",
+    "sourceName": "HiddenWires",
+    "originalImageUrl": "https://res.cloudinary.com/iml/image/upload/w_1024,c_scale/c_crop,g_custom/w_1024,c_scale/c_crop,g_custom//v1775651511/widgetdocs/image1_fxqy5u.jpg",
+    "originalImageArticleUrl": "https://www.hiddenwires.co.uk/products/article/xgimi-unveils-titan-noir-4k-home-cinema-projectors",
+    "displayDate": "2026-04-09"
+  },
+  "TV": {
+    "title": "ハイエンドOLED TVが大幅値下げ中",
+    "summary": "AmazonなどでLGやSamsungのフラッグシップモデルである65-77インチOLEDテレビが大幅に値下げされています。LG C5 77インチモデルが発売時の半額以下となるなど、ハイエンド機を導入するチャンスが到来しています。",
+    "insight": "OLEDパネルの量産効率改善と在庫整理が重なり、家庭用ディスプレイの価格破壊が起きています。エンジニアの作業環境として、高解像度・高リフレッシュレートの大型OLEDを採用するメリットを再評価する良い機会かもしれません。",
+    "sourceUrl": "https://9to5toys.com/2026/04/08/lg-77-inch-c5-oled-tv-deal/",
+    "sourceName": "9to5Toys",
+    "originalImageUrl": "https://i0.wp.com/9to5toys.com/wp-content/uploads/sites/5/2026/01/LG-OLED-C5.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+    "originalImageArticleUrl": "https://9to5toys.com/2026/04/08/lg-77-inch-c5-oled-tv-deal/",
+    "displayDate": "2026-04-09"
+  },
+  "LED Wall Display": {
+    "title": "サムスン：ベルリンのプラネタリウムに没入型LED壁面を実現",
+    "summary": "サムスンがベルリンのプラネタリウムに最新のLEDウォールを導入。従来のプロジェクション技術を超えた没入型の視覚体験を提供し、公共空間における大規模ディスプレイの新たな基準を打ち立てました。",
+    "insight": "大型LEDディスプレイの設計では、コントラスト比と輝度の制御が没入感を左右する重要な技術要素となります。単なる高解像度化ではなく、空間の物理構造と連動したコンテンツ同期の複雑なインフラ設計が、現在のAVエンジニアリングのトレンドです。",
+    "sourceUrl": "https://news.samsung.com/global/video-samsung-transforms-berlin-planetarium-with-immersive-led-installation",
+    "sourceName": "Samsung",
+    "originalImageUrl": "https://img.global.news.samsung.com/global/wp-content/uploads/2026/04/07194120/Samsung-TVs-and-Displays-IEA-series-LED-Signage-Zeiss-Grand-Planetarium_Thumb932_F.jpg",
+    "originalImageArticleUrl": "https://news.samsung.com/global/video-samsung-transforms-berlin-planetarium-with-immersive-led-installation",
+    "displayDate": "2026-04-09"
+  },
+  "Gaming Monitor": {
+    "title": "LGの最新ゲーミングモニター発表：技術と価格の市場動向",
+    "summary": "LGから極めて高性能かつ高価格帯のゲーミングモニター新シリーズが発表されました。円安や市場の変化がある中、ハイエンドモデルのスペック競争と、既存モデルのセール状況が交差する現在のモニター市場を俯瞰します。",
+    "insight": "高リフレッシュレートやOLED等の最新パネル技術は進化し続けていますが、エンジニア目線ではパネルのスペックだけでなく、長時間のデスクワークや開発環境における消費電力や冷却設計、入力遅延の検証指標にも注目すべきです。最新の製品ラインナップを追うことは、自身の開発環境を最適化する上で重要なベンチマークとなります。",
+    "sourceUrl": "https://www.pcgamer.com/hardware/gaming-monitors/lg-has-unveiled-the-worlds-first-39-inch-5k2k-curved-oled-gaming-monitor-and-its-about-as-expensive-as-you-think-it-would-be/",
+    "sourceName": "PC Gamer",
+    "originalImageUrl": "https://cdn.mos.cms.futurecdn.net/EF7Mh5UPJ6CKYq89JkCGfg-1920-80.jpg",
+    "originalImageArticleUrl": "https://www.pcgamer.com/hardware/gaming-monitors/lg-has-unveiled-the-worlds-first-39-inch-5k2k-curved-oled-gaming-monitor-and-its-about-as-expensive-as-you-think-it-would-be/",
+    "displayDate": "2026-04-09"
+  },
+  "Production Monitor": null,
+  "Camera Control": null
+}
