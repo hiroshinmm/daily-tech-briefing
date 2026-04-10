@@ -1,0 +1,102 @@
+{
+  "AI": {
+    "title": "Anthropicのセキュリティ懸念：AI時代の信頼構築",
+    "summary": "Anthropicが新モデル発表に際し、米国当局からAIセキュリティに関する厳格な質問を受けたことが報じられました。AIの急速な進化に対し、社会実装の安全性とリスク管理が今、かつてないほど重要視されています。",
+    "insight": "AIモデルのリリースにおいて、エンジニアは単なる性能だけでなく、サプライチェーンやモデルの堅牢性（Project Glasswingのような取組み）を考慮する必要があります。開発現場では、セキュリティ検品体制の不備がブランド毀損に直結する事例も増えており、実装前のリスク評価プロセスが重要です。",
+    "sourceUrl": "https://www.cnbc.com/2026/04/10/trump-white-house-ai-cyber-threat-anthropic-mythos.html",
+    "sourceName": "CNBC",
+    "originalImageUrl": "https://image.cnbcfm.com/api/v1/image/108204175-17588323702025-09-25t203203z_1915364590_rc28zgaxcjs6_rtrmadp_0_usa-trump-tiktok.jpeg?v=1775848608&w=1920&h=1080",
+    "originalImageArticleUrl": "https://www.cnbc.com/2026/04/10/trump-white-house-ai-cyber-threat-anthropic-mythos.html",
+    "displayDate": "2026-04-11"
+  },
+  "SRD / XR": {
+    "title": "Meta、Web VR開発にAIを統合。ノーコードでVR構築へ",
+    "summary": "MetaがWeb VR開発用オープンソースフレームワークにAIエージェントを統合したと発表。自然言語による指示でVR空間やインタラクションを構築可能になり、コード記述なしでのVR体験開発が現実味を帯びてきました。",
+    "insight": "WebベースのVR開発における参入障壁が、生成AIの活用で劇的に低下しています。エンジニアとしては、従来のWebGLやThree.js等のスキルに加え、自然言語で空間ロジックを制御するAIエージェントとの協調フローの構築が今後の開発効率を左右するでしょう。",
+    "sourceUrl": "https://www.moguravr.com/meta-iwsdk-ai-agentic-workflow-2026/",
+    "sourceName": "Mogura VR",
+    "originalImageUrl": null,
+    "originalImageArticleUrl": "https://www.moguravr.com/meta-iwsdk-ai-agentic-workflow-2026/",
+    "displayDate": "2026-04-11"
+  },
+  "SONY": {
+    "title": "ソニー「α7 V」本日発売！ミラーレス市場での強さも際立つ",
+    "summary": "ソニーの最新フルサイズミラーレス一眼「α7 V」が本日4月10日に発売されました。同時に、カメラのキタムラによる売れ筋ランキングでソニーのミラーレス機がトップ5を独占するなど、市場における圧倒的なシェアとブランド力の高さが改めて浮き彫りとなっています。",
+    "insight": "カメラのハードウェア性能が飽和する中、ソニーは一貫したUI/UXとエコシステムでユーザーの囲い込みに成功しています。エンジニア視点では、単なるスペック競争から、ソフトウェア統合や画像処理エンジンによる体験の差異化へ焦点が移っている点に注目すべきです。",
+    "sourceUrl": "https://dc.watch.impress.co.jp/docs/news/release/2100440.html",
+    "sourceName": "デジカメ Watch",
+    "originalImageUrl": "https://dc.watch.impress.co.jp/img/dcw/list/2100/440/01.jpg",
+    "originalImageArticleUrl": "https://dc.watch.impress.co.jp/docs/news/release/2100440.html",
+    "displayDate": "2026-04-11"
+  },
+  "TCL": {
+    "title": "SonyがTV事業をTCLへ委託、業界構造が変化",
+    "summary": "SonyがTV事業の制御権の一部をTCLに委託したことが話題となっています。長年積み上げたSonyの映像処理技術と、TCLの製造コスト競争力や規模の経済がどう融合するのか、TVメーカーのサプライチェーンとビジネスモデルのあり方に大きな転換点をもたらす可能性があります。",
+    "insight": "家電メーカーにおいて、設計・ブランド力と製造・調達の分業がさらに加速している兆候です。ソフトウェアによる付加価値とハードウェアのコモディティ化が混在する中で、エンジニアとしては、OEM/ODMの境界線が曖昧になる環境でのエコシステム連携やUI/UXの差別化戦略に注目すべきです。",
+    "sourceUrl": "https://www.digitaltrends.com/home-theater/sony-just-handed-control-of-its-tv-business-to-tcl-what-it-actually-means-for-you/",
+    "sourceName": "Digital Trends",
+    "originalImageUrl": "https://www.digitaltrends.com/tachyon/2024/10/Sony-Bravia-7-Review-21.jpg?resize=1200%2C630",
+    "originalImageArticleUrl": "https://www.digitaltrends.com/home-theater/sony-just-handed-control-of-its-tv-business-to-tcl-what-it-actually-means-for-you/",
+    "displayDate": "2026-04-11"
+  },
+  "Gaming Monitor": {
+    "title": "Philipsが5K解像度と高リフレッシュレートを両立するデュアルモードモニターを発表",
+    "summary": "Philipsは、新製品「Evnia 27M2G5800」を発表しました。この27インチモニターは、5Kの高解像度モードと、競技用ゲームに最適な高速リフレッシュレートモードを切り替え可能な「デュアルモード」を搭載しており、クリエイティブ作業とゲーミングの双方で高いパフォーマンスを発揮します。",
+    "insight": "「解像度優先」と「リフレッシュレート優先」を切り替えられるデュアルモード技術は、一台で仕事と遊びを完結させるエンジニアのデスク環境において非常に強力な選択肢になります。OSDメニューやファームウェアで異なるパネル特性を制御する技術トレンドにも注目です。",
+    "sourceUrl": "https://www.techpowerup.com/348149/philips-launches-evnia-27m2g5800-27-inch-5k-dual-mode-gaming-monitor",
+    "sourceName": "TechPowerUp",
+    "originalImageUrl": "https://www.techpowerup.com/img/tbGxxULFtkWLgETF.jpg",
+    "originalImageArticleUrl": "https://www.techpowerup.com/348149/philips-launches-evnia-27m2g5800-27-inch-5k-dual-mode-gaming-monitor",
+    "displayDate": "2026-04-11"
+  },
+  "Projector": {
+    "title": "Hisenseの4Kレーザープロジェクターが300ドル値下げ",
+    "summary": "Hisenseのプレミアムなポータブル4Kトリプルレーザープロジェクター「M2 Pro」が、価格改定により300ドル値下げされ、1,000ドルで購入可能になりました。高精細なレーザー光源を手軽に導入できるチャンスです。",
+    "insight": "トリプルレーザー光源の採用により、単一レーザーよりも優れた色再現性と高コントラスト比を実現しています。プロジェクターの性能限界に挑む光学設計や、設置の柔軟性を高める自動補正アルゴリズムの進化は、ハードウェアエンジニアにとっても注目すべきトレンドです。",
+    "sourceUrl": "https://9to5toys.com/2026/04/10/hisense-m2-pro-portable-4k-triple-laser-projector-1000/",
+    "sourceName": "9to5Toys",
+    "originalImageUrl": "https://i0.wp.com/9to5toys.com/wp-content/uploads/sites/5/2026/04/Hisense-M2-Pro-Triple-Laser-Smart-Projector-2.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+    "originalImageArticleUrl": "https://9to5toys.com/2026/04/10/hisense-m2-pro-portable-4k-triple-laser-projector-1000/",
+    "displayDate": "2026-04-11"
+  },
+  "LED Wall Display": {
+    "title": "車載ディスプレイの進化：ソフト定義型照明と音響統合",
+    "summary": "Auto China 2026に向け、MarelliやCarUXなどのメーカーが、次世代の「ソフトウェア定義型車両（SDV）」に向けた革新的な車載照明および音響統合技術を発表しました。単なる照明から、ブランドアイデンティティや知的なデジタル通信、没入型の車内体験を実現するプラットフォームへと進化しています。",
+    "insight": "車両の標準化が進む中、車載ディスプレイや照明をソフトウェアで制御し、ブランドの差別化を図るアプローチが加速しています。ハードウェアと音響・映像システムを高度に統合するプラットフォーム設計は、エンジニアにとって今後不可欠なスキルセットとなるでしょう。",
+    "sourceUrl": "//www.ledinside.com/news/2026/4/2026_04_10_05",
+    "sourceName": "LEDinside",
+    "originalImageUrl": null,
+    "originalImageArticleUrl": "//www.ledinside.com/news/2026/4/2026_04_10_05",
+    "displayDate": "2026-04-11"
+  },
+  "TV": {
+    "title": "LG最新C6 OLEDテレビの進化と評価",
+    "summary": "LGの最新OLEDテレビ「C6」が先代「C5」と比較され、その性能向上について専門サイトWhat Hi-Fi?が検証を行いました。画質や機能の進化が注目されており、最新のテレビ技術トレンドを示す興味深いトピックとなっています。",
+    "insight": "ディスプレイ技術において、OLEDは輝度と階調表現のバランスが継続的に改善されており、最新モデルでは信号処理アルゴリズムの最適化が図られています。エンジニアの視点では、ハードウェアのスペック向上だけでなく、AIを活用したアップスケーリングや映像最適化処理がUXにどれほど貢献しているかという観点で製品比較を行うと非常に面白いでしょう。",
+    "sourceUrl": "https://www.whathifi.com/tv-home-cinema/televisions/lg-c6-oled65c6",
+    "sourceName": "What Hi-Fi?",
+    "originalImageUrl": "https://cdn.mos.cms.futurecdn.net/K8u56zsoK6xe7soXEp6WRZ-1920-80.jpg",
+    "originalImageArticleUrl": "https://www.whathifi.com/tv-home-cinema/televisions/lg-c6-oled65c6",
+    "displayDate": "2026-04-11"
+  },
+  "Camera Control": {
+    "title": "Peak DesignのL型ブラケット開発とユーザー共創",
+    "summary": "人気カメラギアメーカーのPeak Designが、次期製品となるL型ブラケットの開発に向け、ユーザーアンケートを実施しています。クイック装着機構や隠しアクセサリ収納など、実用性を重視した設計のフィードバックを募っており、製品開発の初期段階からコミュニティの声を反映させる同社の姿勢が注目されています。",
+    "insight": "ハードウェア開発において、設計段階でユーザーニーズを詳細にヒアリングするアプローチは、製品のプロダクト・マーケット・フィット（PMF）を高めるための重要な戦略です。特にPeak Designのようにエコシステムを持つブランドが、既存の「Capture Clip」との親和性を調査することは、ユーザーのロックインと満足度を最大化する優れたエンジニアリング・デザインの事例と言えます。",
+    "sourceUrl": "https://www.dpreview.com/news/1255407909/peak-design-l-bracket-survey",
+    "sourceName": "Digital Photography Review (dpreview.com)",
+    "originalImageUrl": "https://2.img-dpreview.com/files/p/E~C480x0S2880x2160T1200x900~articles/1255407909/peak_design_logo_black.jpeg",
+    "originalImageArticleUrl": "https://www.dpreview.com/news/1255407909/peak-design-l-bracket-survey",
+    "displayDate": "2026-04-11"
+  },
+  "Production Monitor": {
+    "title": "ARRI、SmallHDモニター向けレンズデータ表示ライセンスを発表",
+    "summary": "ARRIは、Hi-5およびHi-5 SXワイヤレス制御システムを使用しているユーザー向けに、SmallHDモニター上でフォーカスやアイリスのスケールをリアルタイムにオーバーレイ表示できる有料ライセンス（680ユーロ）の提供を開始しました。これにより、フォーカスマンは手元のコントローラーとモニターを交互に見る必要がなくなり、撮影現場での視線移動の負担が軽減されます。",
+    "insight": "UI/UXにおいて「コンテキストスイッチ（視線移動）」を減らすことは、操作ミスの削減とパフォーマンス向上に直結します。ハードウェア製品においても、データと視覚情報を単一のディスプレイに統合する設計思想は、エンドユーザーのワークフローを最適化する強力なアプローチです。",
+    "sourceUrl": "https://www.cined.com/arri-hi-5-lens-data-overlay-license-for-smallhd-monitors-announced/",
+    "sourceName": "CineD",
+    "originalImageUrl": "https://www.cined.com/content/uploads/2026/04/ARRI-Hi-5-SmallHD-Monitor-Overlay-License-featured-300x169.jpeg",
+    "originalImageArticleUrl": "https://www.cined.com/arri-hi-5-lens-data-overlay-license-for-smallhd-monitors-announced/",
+    "displayDate": "2026-04-11"
+  }
+}
