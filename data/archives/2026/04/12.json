@@ -1,0 +1,102 @@
+{
+  "AI": {
+    "title": "Anthropicの非公開AI「Mythos」が金融界に波紋",
+    "summary": "Anthropicが開発した高性能AI「Mythos」が、金融システムの脆弱性を突く可能性があるとして米金融界で警戒されています。開発元が一般公開を控えていることからも、その強力な推論能力とセキュリティリスクが注目されています。",
+    "insight": "AIモデルの攻撃能力が既存の金融インフラを脅かす水準に達しており、モデルの性能向上に伴う安全性検証（AIセーフティ）の重要性が一層高まっています。エンジニアとしては、単なる生成能力だけでなく、システム全体を俯瞰した際の潜在的リスクを考慮した設計思想が今後不可欠になります。",
+    "sourceUrl": "https://www.nikkei.com/article/DGXZQOGN10CK20Q6A410C2000000/",
+    "sourceName": "日本経済新聞",
+    "originalImageUrl": "https://article-image-ix.nikkei.com/https%3A%2F%2Fimgix-proxy.n8s.jp%2FDSXZQO2879871010042026000000-1.jpg?auto=format&bg=FFFF&crop=focalpoint&fit=crop&h=630&w=1200&s=f3b9d0f059363e5033b38391ceb51049",
+    "originalImageArticleUrl": "https://www.nikkei.com/article/DGXZQOGN10CK20Q6A410C2000000/",
+    "displayDate": "2026-04-12"
+  },
+  "SRD / XR": {
+    "title": "Meta、ウェブVR開発にAIエージェントを統合",
+    "summary": "MetaがウェブVR開発用オープンソースフレームワークにAIエージェントを統合しました。これにより、複雑なコーディング作業なしでVR体験の構築が可能になり、開発の民主化と高速化が期待されます。",
+    "insight": "AIエージェントによるコード生成や構成支援は、XRコンテンツ制作の参入障壁を劇的に下げます。今後はWebXRとLLMを組み合わせた開発パイプラインの構築が、フロントエンドエンジニアの新たな武器になるでしょう。",
+    "sourceUrl": "https://www.moguravr.com/meta-iwsdk-ai-agentic-workflow-2026/",
+    "sourceName": "Mogura VR",
+    "originalImageUrl": "https://assets.moguravr.com/uploads/2026/04/4110576cbebed4ca678daec432e65a90-kix.j7wukw44m17g.webp",
+    "originalImageArticleUrl": "https://www.moguravr.com/meta-iwsdk-ai-agentic-workflow-2026/",
+    "displayDate": "2026-04-12"
+  },
+  "SONY": {
+    "title": "ソニー「α7R VI」が5月に発表か？最新噂が浮上",
+    "summary": "次期フルサイズミラーレスカメラ「α7R VI」と新型レンズ「100-400mm f/4.0」が、今年5月に発表されるとの新情報が浮上しました。高い解像度を誇るRシリーズの最新モデルとして注目が集まっています。",
+    "insight": "センサーの画素ピッチや画像処理エンジンの最適化など、高解像度機におけるハードウェアとソフトウェアの統合的な進化が期待されます。エンジニア視点では、画像処理パイプラインの高速化やAIオートフォーカス性能のアルゴリズム向上に注目すべきです。",
+    "sourceUrl": "https://mirrorless-camera.info/rumor/sony-rumor/54715.html",
+    "sourceName": "ミラーレスカメラ情報",
+    "originalImageUrl": "https://mirrorless-camera.info/wp-content/uploads/2024/12/20241214_001.jpg",
+    "originalImageArticleUrl": "https://mirrorless-camera.info/rumor/sony-rumor/54715.html",
+    "displayDate": "2026-04-12"
+  },
+  "TCL": {
+    "title": "TCLのテレビはなぜ安い？コスト構造の秘密",
+    "summary": "ブラックフライデーやホリデーシーズンに向け、TCLの大型ミニLEDテレビやQLEDモデルが大幅値下げされています。単なるセール情報だけでなく、なぜTCLがこれほどまでに低価格で高品質なパネルを提供し続けられるのか、その製造効率やサプライチェーンの最適化というビジネスモデルの背景に注目が集まっています。",
+    "insight": "家電メーカーの競争力は、垂直統合による部品コスト削減と、液晶パネルの製造工程における歩留まり改善に依存しています。エンジニアの視点では、低コスト化を実現する自動化ラインや、限られたハードウェアリソースで高度な画像処理を実行するアルゴリズムの実装レベルに興味がわきます。",
+    "sourceUrl": "https://www.aol.com/finance/tcl-tvs-stay-cheap-163000164.html",
+    "sourceName": "AOL.com",
+    "originalImageUrl": "https://s.yimg.com/ny/api/res/1.2/DbsAzsb6X.Q27yncdxjOUw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/aol_money_digest_516/3ea1918f35aeee7e27d509c029efa5e7",
+    "originalImageArticleUrl": "https://www.aol.com/finance/tcl-tvs-stay-cheap-163000164.html",
+    "displayDate": "2026-04-12"
+  },
+  "Production Monitor": {
+    "title": "映像制作のインフラを理解する：EDIDと信号伝送の重要性",
+    "summary": "撮影現場の機材トラブルを減らすために不可欠な、信号分配、EDID、遅延の仕組みを解説したエンジニア必読のガイド。機材が「動いて当然」の背後にあるインフラの複雑さに焦点を当てています。",
+    "insight": "EDIDのハンドシェイクや信号変換による遅延は、エンジニアリングにおけるプロトコル解析やネットワーク最適化と同様の課題です。ブラックボックス化しやすいハードウェア間の通信制御を理解することは、トラブルシューティングの精度向上に直結します。",
+    "sourceUrl": "https://www.provideocoalition.com/the-filmmakers-guide-to-signal-distribution-edid-and-latency/",
+    "sourceName": "ProVideo Coalition",
+    "originalImageUrl": "https://www.provideocoalition.com/wp-content/uploads/kramer2.jpg",
+    "originalImageArticleUrl": "https://www.provideocoalition.com/the-filmmakers-guide-to-signal-distribution-edid-and-latency/",
+    "displayDate": "2026-04-12"
+  },
+  "TV": {
+    "title": "2026年、今あえてOLEDテレビを買うべき理由",
+    "summary": "2026年現在のディスプレイ技術において、OLED（有機EL）テレビの価格が大幅に低下し、購入の好機が到来していると話題です。最新モデルの性能向上と価格競争の激化により、これまで高嶺の花だった高品質な視聴体験がかつてないほど身近になっています。",
+    "insight": "ディスプレイ技術のコモディティ化は、コンテンツ消費の品質基準を底上げする重要なトレンドです。エンジニアとしては、単なるハードウェアの安売りと捉えず、高リフレッシュレートや広色域が標準化する環境下で、どのようなUI/UX設計が最適解となるかを考察する良い機会です。",
+    "sourceUrl": "https://www.msn.com/en-us/lifestyle/shopping/don-t-wait-to-buy-an-oled-tv-in-2026-here-s-why/ar-AA20FbQL?item=flightsprg-tipsubsc-v1a?season",
+    "sourceName": "MSN",
+    "originalImageUrl": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA20EMB6.img?w=612&h=344&m=4&q=91",
+    "originalImageArticleUrl": "https://www.msn.com/en-us/lifestyle/shopping/don-t-wait-to-buy-an-oled-tv-in-2026-here-s-why/ar-AA20FbQL?item=flightsprg-tipsubsc-v1a?season",
+    "displayDate": "2026-04-12"
+  },
+  "Gaming Monitor": {
+    "title": "ハイエンドOLEDゲーミングモニターが軒並み大幅値下げ",
+    "summary": "現在、Amazon等の市場でLGやAlienwareの高性能な有機EL（OLED）ゲーミングモニターが過去最安値水準まで価格改定されています。高リフレッシュレートと応答速度を誇るハイエンドモデルが安価に入手できるチャンスとなっており、開発環境のアップグレードを検討する絶好の機会です。",
+    "insight": "OLEDパネルの普及により、エンジニアの作業環境としても色再現性の高いモニターが導入しやすくなっています。特に長時間のコーディングにおいて、OLEDの真の黒表現と低遅延は眼精疲労軽減や生産性向上にも寄与するため、この価格帯での選択肢拡大は注目すべき技術トレンドです。",
+    "sourceUrl": "https://mashable.com/article/april-2-lg-gaming-monitor-deal",
+    "sourceName": "Mashable",
+    "originalImageUrl": "https://helios-i.mashable.com/imagery/articles/00WDPlFaau34teau4DYaPMy/hero-image.fill.size_1200x675.v1775039965.jpg",
+    "originalImageArticleUrl": "https://mashable.com/article/april-2-lg-gaming-monitor-deal",
+    "displayDate": "2026-04-12"
+  },
+  "Projector": {
+    "title": "Hisense M2 Proが1,000ドルに値下げ",
+    "summary": "Hisenseのプレミアムポータブル4Kトリプルレーザープロジェクター「M2 Pro」が、300ドルの値下げにより1,000ドルで販売されています。高品質なレーザー投影を手頃な価格で導入できるチャンスです。",
+    "insight": "トリプルレーザー光源はRGB独立制御による広い色域と高い輝度が特徴で、ポータブル機でも映画館レベルの映像体験を可能にします。エンジニア視点では、光学設計の小型化と排熱管理のバランスが、モバイル機器の進化を象徴する興味深いケーススタディです。",
+    "sourceUrl": "https://9to5toys.com/2026/04/10/hisense-m2-pro-portable-4k-triple-laser-projector-1000/",
+    "sourceName": "9to5Toys",
+    "originalImageUrl": "https://i0.wp.com/9to5toys.com/wp-content/uploads/sites/5/2026/04/Hisense-M2-Pro-Triple-Laser-Smart-Projector-2.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+    "originalImageArticleUrl": "https://9to5toys.com/2026/04/10/hisense-m2-pro-portable-4k-triple-laser-projector-1000/",
+    "displayDate": "2026-04-12"
+  },
+  "LED Wall Display": {
+    "title": "車載照明がソフトウェア定義型へ進化",
+    "summary": "Auto China 2026でMarelliが発表した次世代車載照明技術は、照明を単なる明かりから、高度なデジタル通信や安全支援を担う「ソフトウェア定義型プラットフォーム」へと進化させています。LED技術と電子制御の融合が、今後の車両設計の差別化要因となります。",
+    "insight": "車載ディスプレイや照明の制御が、ハードウェア固定型からSDV（ソフトウェア定義型車両）のアーキテクチャへ移行している点が重要です。エンジニアは今後、車内空間全体の統合制御において、光と映像をどうオーケストレーションするかという視点が求められます。",
+    "sourceUrl": "//www.ledinside.com/news/2026/4/2026_04_10_05",
+    "sourceName": "LEDinside",
+    "originalImageUrl": null,
+    "originalImageArticleUrl": "//www.ledinside.com/news/2026/4/2026_04_10_05",
+    "displayDate": "2026-04-12"
+  },
+  "Camera Control": {
+    "title": "「積層センサー」がカメラを変える？仕組みと技術的メリットを解説",
+    "summary": "近年のハイエンドカメラで採用が進む「積層センサー」の技術的解説記事です。裏面照射型やグローバルシャッターといった関連技術との違いを整理し、なぜ高速連写や電子シャッター性能の向上に不可欠なのかを分かりやすく紐解いています。",
+    "insight": "エンジニア視点では、信号処理速度と回路設計の進化が画像センサーのボトルネックをいかに解消しているかを学ぶ良い事例です。特に「高速読み出し」がローリングシャッター歪みを減らし、実用的な電子シャッター体験を実現する仕組みは、ハードウェア制約をソフトウェア的工夫で突破するエンジニアリングの醍醐味と言えます。",
+    "sourceUrl": "https://dc.watch.impress.co.jp/docs/column/trend/2100146.html",
+    "sourceName": "デジカメ Watch",
+    "originalImageUrl": "https://dc.watch.impress.co.jp/img/dcw/list/2100/146/02.jpg",
+    "originalImageArticleUrl": "https://dc.watch.impress.co.jp/docs/column/trend/2100146.html",
+    "displayDate": "2026-04-12"
+  }
+}
