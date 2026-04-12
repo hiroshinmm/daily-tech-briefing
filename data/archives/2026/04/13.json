@@ -1,0 +1,102 @@
+{
+  "AI": {
+    "title": "ソフトバンク等4社が国産AI開発の新会社を設立",
+    "summary": "ソフトバンク、NEC、ホンダ、ソニーグループの4社を中心に、生成AIの基盤モデルを開発する新会社「日本AI基盤モデル開発」が設立されました。日本独自のデータや言語文化に即した高性能な基盤モデルの開発を目指します。",
+    "insight": "海外モデルへの依存から脱却し、国内産業のニーズに最適化された独自モデルを構築する動きは、セキュリティや法規制対応の観点から重要です。エンジニアとしては、汎用モデルと特定ドメインに特化した国産モデルを適材適所で使い分けるアーキテクチャ設計が今後は求められます。",
+    "sourceUrl": "https://newsdig.tbs.co.jp/articles/-/2594308",
+    "sourceName": "TBS NEWS DIG",
+    "originalImageUrl": "https://newsdig.ismcdn.jp/mwimgs/7/6/1200w/img_7663af742070e0709831a2216cc6a7a3529585.jpg",
+    "originalImageArticleUrl": "https://newsdig.tbs.co.jp/articles/-/2594308",
+    "displayDate": "2026-04-13"
+  },
+  "SRD / XR": {
+    "title": "MetaがWebVRにAI統合、ノーコードで体験構築へ",
+    "summary": "MetaがウェブVR開発用オープンソースフレームワークにAIエージェントを統合しました。これにより、自然言語による指示でVR体験を構築できるようになり、開発コストの大幅な削減と参入障壁の低下が期待されます。",
+    "insight": "AIとWebXRの融合は、GUI開発のあり方を根本から変える可能性があります。エンジニアとしては、従来のプログラミング言語による実装だけでなく、AIプロンプトによる空間コンピューティングの設計スキルが今後ますます重要になるでしょう。",
+    "sourceUrl": "https://www.moguravr.com/meta-iwsdk-ai-agentic-workflow-2026/",
+    "sourceName": "Mogura VR",
+    "originalImageUrl": "https://assets.moguravr.com/uploads/2026/04/4110576cbebed4ca678daec432e65a90-kix.j7wukw44m17g.webp",
+    "originalImageArticleUrl": "https://www.moguravr.com/meta-iwsdk-ai-agentic-workflow-2026/",
+    "displayDate": "2026-04-13"
+  },
+  "Gaming Monitor": {
+    "title": "Microsoft Gamingの「Project Helix」と次世代戦略",
+    "summary": "Microsoft Gamingが掲げる「Project Helix」は、PCとコンソールの境界を抹消する新たな開発・販売戦略。Game Passの変質やAI導入による効率化など、巨大な野心が停滞するゲーム市場の分水嶺となるか注目されている。",
+    "insight": "プラットフォームの垣根を越えたクロスプラットフォーム開発の抽象化は、今後のエンジニアにとって標準的な要件になります。ハードウェアの制約をAIやクラウドでいかに吸収し、ユーザー体験を均一化するかがアーキテクチャ設計の鍵となるでしょう。",
+    "sourceUrl": "https://www.4gamer.net/games/036/G003691/20260411005/",
+    "sourceName": "4Gamer.net",
+    "originalImageUrl": "https://www.4gamer.net/games/036/G003691/20260411005/SS/006.jpg",
+    "originalImageArticleUrl": "https://www.4gamer.net/games/036/G003691/20260411005/",
+    "displayDate": "2026-04-13"
+  },
+  "SONY": {
+    "title": "北米ソニーのINZONE新製品ティザー公開",
+    "summary": "北米のソニー公式サイトにて、ゲーミングギアブランド「INZONE」の2026年新製品を予告するティザーページが公開されました。また、True RGB MiniLEDを搭載した新型BRAVIAの発表も4月15日以降に控えており、ディスプレイ・ゲーミング市場での動向が注目されています。",
+    "insight": "ゲーミングディスプレイやモニター市場において、バックライト技術の進化とブランド戦略の転換が続いています。エンジニアの視点では、MiniLEDの制御アルゴリズムや高リフレッシュレート環境における応答速度の最適化が、今後の製品競争力を左右する重要な鍵となるでしょう。",
+    "sourceUrl": "https://kunkoku.jp/bravia2026-6.html",
+    "sourceName": "ソニーが基本的に好き。",
+    "originalImageUrl": "https://kunkoku.jp/wp-content/uploads/2026/04/260411a02.jpg",
+    "originalImageArticleUrl": "https://kunkoku.jp/bravia2026-6.html",
+    "displayDate": "2026-04-13"
+  },
+  "TCL": {
+    "title": "TCLの新型「A400 Pro」登場：壁掛けアートと一体化するQD-Mini LED",
+    "summary": "TCLから、壁掛けアートとしても機能するデザイン性の高いQD-Mini LEDテレビ「A400 Pro」が発表されました。高画質な量子ドット技術と極薄デザインを両立させ、空間に溶け込むインテリアとしての新しいテレビの形を提案しています。",
+    "insight": "デバイスの薄型化と高輝度化が進むMini LED技術において、インテリアとの調和（Ambient Computing）が重要なUX要素となっています。エンジニア視点では、単なる画質競争から、薄型筐体内での熱管理や、薄さを維持するためのパネル配線・電源設計の最適化技術に注目すべきです。",
+    "sourceUrl": "https://www.qoo10.co.id/en/gadget/83764/tcl-a400-pro-arrives-a-qd-mini-led-tv-that-doubles-as-wall-art/",
+    "sourceName": "Qoo10.co.id",
+    "originalImageUrl": "https://www.qoo10.co.id/en/wp-content/uploads/2026/04/TCL-A400-Pro-Arrives-A-QD-Mini-LED-TV-That-Doubles.jpg",
+    "originalImageArticleUrl": "https://www.qoo10.co.id/en/gadget/83764/tcl-a400-pro-arrives-a-qd-mini-led-tv-that-doubles-as-wall-art/",
+    "displayDate": "2026-04-13"
+  },
+  "TV": {
+    "title": "次世代有機ELテレビの到達点「LG G6」レビュー",
+    "summary": "TechRadarによるLG G6の最新レビューが公開されました。このモデルは従来の有機ELテレビの基準を塗り替える圧倒的な画質と性能を実現しており、特に輝度やコントラスト表現において新たなベンチマークとして評価されています。",
+    "insight": "デバイスの進化において、ハードウェアのスペック向上だけでなく、ユーザー体験を劇的に変える「新基準」の打ち出し方は非常に参考になります。エンジニアリングの観点でも、既存技術の限界を突破するチューニングの重要性が改めて示された好例と言えます。",
+    "sourceUrl": "https://www.techradar.com/televisions/lg-g6-oled-tv-review",
+    "sourceName": "TechRadar",
+    "originalImageUrl": "https://cdn.mos.cms.futurecdn.net/f7p893EJcVFE9oBcxBAHnP-2560-80.png",
+    "originalImageArticleUrl": "https://www.techradar.com/televisions/lg-g6-oled-tv-review",
+    "displayDate": "2026-04-13"
+  },
+  "Projector": {
+    "title": "109シネマズ川崎、IMAXレーザー導入で映像体験が進化",
+    "summary": "109シネマズ川崎にて、IMAXの最新鋭4K上映システム「IMAXレーザー」の導入が発表されました。従来のデジタルシアターから画質・明るさ・コントラストが大幅に向上し、没入感の高い映像体験が可能になります。",
+    "insight": "4K解像度と高コントラストを実現するレーザー光源技術は、映画館だけでなくホームシアター市場でも重要度が増しています。エンジニアとしては、高解像度映像の伝送負荷や、光源制御によるダイナミックレンジ拡張技術など、映像信号処理のアーキテクチャに関心を持つと興味深いです。",
+    "sourceUrl": "https://www.walkerplus.com/article/169199/image991543.html",
+    "sourceName": "ウォーカープラス",
+    "originalImageUrl": "https://news.walkerplus.com/article/169199/991542_615.jpg",
+    "originalImageArticleUrl": "https://www.walkerplus.com/article/169199/image991543.html",
+    "displayDate": "2026-04-13"
+  },
+  "Production Monitor": {
+    "title": "映像制作のインフラを支える信号伝送とEDIDの基本",
+    "summary": "撮影現場の映像制作において、見落とされがちな「信号伝送・EDID・レイテンシ」の重要性を解説するガイド記事が公開されました。制作の裏側にある「目に見えないインフラ」を技術的に理解することは、トラブルシューティングや機材選定において極めて重要です。",
+    "insight": "エンジニア視点で見ると、EDIDはディスプレイとソース間のネゴシエーションにおける古典的かつ頻出のボトルネックです。信号遅延や非互換性問題に対し、単なるブラックボックスとして扱うのではなく、仕様やプロトコルの階層を理解しておくことで現場の技術的信頼性が向上します。",
+    "sourceUrl": "https://www.provideocoalition.com/the-filmmakers-guide-to-signal-distribution-edid-and-latency/",
+    "sourceName": "ProVideo Coalition",
+    "originalImageUrl": "https://www.provideocoalition.com/wp-content/uploads/kramer2.jpg",
+    "originalImageArticleUrl": "https://www.provideocoalition.com/the-filmmakers-guide-to-signal-distribution-edid-and-latency/",
+    "displayDate": "2026-04-13"
+  },
+  "LED Wall Display": {
+    "title": "車載ディスプレイの進化：ソフトウェア定義型照明とUX統合",
+    "summary": "Auto China 2026に向け、MarelliやCarUXなどの企業が自動車のソフトウェア定義化（SDV）に伴う次世代ディスプレイ・照明技術を発表。単なる照明からデジタルコミュニケーション、車内での没入型音響・映像体験へと進化する、モビリティの未来が注目されています。",
+    "insight": "自動車分野におけるLED・ディスプレイ技術は、ハードウェアからソフトウェア主導のプラットフォームへと構造転換しています。エンジニアは、単体デバイスの性能向上だけでなく、ハードとソフトを抽象化し、多様な車載OSとシームレスに連携させる統合設計能力が今後より強く求められるでしょう。",
+    "sourceUrl": "https://www.ledinside.com/news/2026/4/2026_04_10_05",
+    "sourceName": "LEDinside",
+    "originalImageUrl": "https://ravepubs.com/wp-content/uploads/2026/04/nab-creator-800x400.webp",
+    "originalImageArticleUrl": "https://ravepubs.com/nab-content-creator-vip/",
+    "displayDate": "2026-04-13"
+  },
+  "Camera Control": {
+    "title": "無重力でメモリーカードが浮遊？NASAの撮影トラブル",
+    "summary": "アルテミスIIミッションのライブ配信中、Nikon D5から排出されたメモリーカードが微小重力下で勢いよく飛び出し、宇宙飛行士が追いかける様子が話題に。地球上では些細なミスも宇宙では深刻な問題になり得ることを示した興味深いインシデントです。",
+    "insight": "ハードウェアの排出機構（イジェクト機構）が重力を前提に設計されている典型例であり、特殊環境下でのUI/UX設計の難しさを物語っています。物理デバイスを設計する際は、常に動作環境の物理的制約を考慮し、フェイルセーフを考慮した機構設計が不可欠であることを再認識させられます。",
+    "sourceUrl": "https://www.dpreview.com/news/6416086072/artemis-ii-camera-card-eject",
+    "sourceName": "Digital Photography Review",
+    "originalImageUrl": "https://3.img-dpreview.com/files/p/E~C679x72S1080x810T1200x900~articles/6416086072/Screenshot_2026-04-09_at_13.14.20.png",
+    "originalImageArticleUrl": "https://www.dpreview.com/news/6416086072/artemis-ii-camera-card-eject",
+    "displayDate": "2026-04-13"
+  }
+}
