@@ -1,0 +1,93 @@
+{
+  "SRD / XR": {
+    "title": "Robloxが子供用アカウントを新設、メタバースの安全性向上へ",
+    "summary": "Robloxが若年層向けの新アカウント区分「Kids」と「Select」を発表しました。自動認証を用いて年齢に応じたコンテンツ制限とチャット機能を適用し、安全なメタバース体験の提供を目指します。",
+    "insight": "メタバースにおけるプラットフォームの安全性とモデレーションは、今後のエンジニアリングにおいて重要な課題です。単なる機能開発だけでなく、AIによる自動認証と適応的なアクセス制御をいかに組み込むかが、UXと安全性の両立の鍵となります。",
+    "sourceUrl": "https://www.moguravr.com/roblox-kids-select-account-2026/",
+    "sourceName": "Mogura VR",
+    "originalImageUrl": "https://assets.moguravr.com/uploads/2026/04/623b9155b9975066412dc57c7cc269f7-kix.jg292z9dypl9-274x300.webp",
+    "originalImageArticleUrl": "https://www.moguravr.com/roblox-kids-select-account-2026/",
+    "displayDate": "2026-04-14"
+  },
+  "AI": {
+    "title": "ソフトバンク等、国産AI開発の新会社設立へ",
+    "summary": "ソフトバンク、NEC、ソニー、ホンダの4社が、日本独自のAI基盤モデルを開発する新会社「日本AI基盤モデル開発」を設立します。日本の産業ニーズに最適化されたAI技術の確立を目指し、国内企業が主導してAI競争力を高める動きとして注目されています。",
+    "insight": "LLMのコモディティ化が進む中、特定産業へのドメイン特化型かつ自律制御が可能な基盤モデルを国内で確保することの重要性が増しています。エンジニアとしては、汎用モデルの利用だけでなく、このような国産モデルによるデータ主権や日本語処理精度の向上をどう業務に組み込めるかが焦点になります。",
+    "sourceUrl": "https://www.sbbit.jp/article/cont1/184305",
+    "sourceName": "ビジネス+IT",
+    "originalImageUrl": "https://www.sbbit.jp/article/image/184305/OGP_bit202604121339253945.jpg",
+    "originalImageArticleUrl": "https://www.sbbit.jp/article/cont1/184305",
+    "displayDate": "2026-04-14"
+  },
+  "Production Monitor": {
+    "title": "DaVinci Resolve 21発表：AI機能と新Photoページ",
+    "summary": "Blackmagic Designは、NAB 2026を前にDaVinci Resolve 21を発表しました。注目の新機能として、静止画編集に特化した「Photo」ページの追加や、8つの新たなAIツール、Fairlightの改善などが盛り込まれており、クリエイティブワークフローの大幅な拡張が期待されます。",
+    "insight": "動画編集ソフトが静止画編集ツールを統合するのは、AIを活用したクロスプラットフォームなメディア管理・編集ニーズへの最適解と言えます。エンジニア視点では、AIモデルの統合やUI/UXの拡張性において、既存のレンダリングパイプラインとAI推論がいかに効率よく融合されているかが注目点です。",
+    "sourceUrl": "https://www.cined.com/davinci-resolve-21-announced-new-photo-page-eight-new-ai-tools-tethered-camera-controls-and-more/",
+    "sourceName": "CineD",
+    "originalImageUrl": "https://www.cined.com/content/uploads/2026/04/DaVinci-Resolve-21-300x169.jpg",
+    "originalImageArticleUrl": "https://www.cined.com/davinci-resolve-21-announced-new-photo-page-eight-new-ai-tools-tethered-camera-controls-and-more/",
+    "displayDate": "2026-04-14"
+  },
+  "TCL": {
+    "title": "TCL CSOTが640Hzの超高リフレッシュレートパネルを開発か",
+    "summary": "TCLのディスプレイ部門であるTCL CSOTが、最大640Hzのリフレッシュレートに対応するゲーミングモニター向けパネルを開発中と報じられました。単一の解像度だけでなく、複数のリフレッシュレートを切り替え可能な「デュアルモード（またはマルチモード）」技術を採用し、2026年第3四半期頃の投入が噂されています。",
+    "insight": "「デュアルモード」パネルは、高解像度での画質重視と高リフレッシュレートでの競技プレイを両立させるため、近年のゲーミング市場で重要なトレンドです。単にHzを競うだけでなく、ドライバーICの制御能力やバックライトの追従性がボトルネックとなるため、パネルレベルでの駆動制御の最適化がエンジニアリングの焦点となります。",
+    "sourceUrl": "https://wccftech.com/tcl-csot-will-launch-a-dual-mode-monitor-with-4x-refresh-rate-switching-with-up-to-640-hz/",
+    "sourceName": "Wccftech",
+    "originalImageUrl": "https://cdn.wccftech.com/wp-content/uploads/2026/04/TCL-CSOT-4X-Dual-Mode-Monitor.jpg",
+    "originalImageArticleUrl": "https://wccftech.com/tcl-csot-will-launch-a-dual-mode-monitor-with-4x-refresh-rate-switching-with-up-to-640-hz/",
+    "displayDate": "2026-04-14"
+  },
+  "Gaming Monitor": {
+    "title": "次世代ゲーミングモニター、640Hz時代へ",
+    "summary": "TCLがリフレッシュレート640Hzに達する可能性がある次世代ゲーミングモニターの開発を進めていることが報じられました。これが実現すれば、現在のハイエンド帯である360Hzや540Hzを大きく凌駕する驚異的な滑らかさを提供することになります。",
+    "insight": "リフレッシュレートの高速化は、表示遅延（モーションブラー）の低減に直結し、特に競技性の高いゲームでの応答速度向上に寄与します。ただし、これほど高フレームレートで安定した描画を行うには、GPUのレンダリング負荷だけでなく、インターフェースの帯域幅やパネルの応答速度（GtG）において、ハードウェア設計の限界への挑戦が必要となります。",
+    "sourceUrl": "https://www.digitaltrends.com/gaming/tcls-next-gaming-monitor-could-hit-a-staggering-640hz-refresh-rate/",
+    "sourceName": "Digital Trends",
+    "originalImageUrl": "https://www.digitaltrends.com/tachyon/2026/03/Playing-on-Gaming-Monitor.jpg?resize=1200%2C630",
+    "originalImageArticleUrl": "https://www.digitaltrends.com/gaming/tcls-next-gaming-monitor-could-hit-a-staggering-640hz-refresh-rate/",
+    "displayDate": "2026-04-14"
+  },
+  "SONY": {
+    "title": "次期Xperia 1 VIIIがFCC通過、早期発売の可能性",
+    "summary": "ソニーの次世代フラッグシップスマートフォン「Xperia 1 VIII」と思われるモデルが米連邦通信委員会（FCC）の認証を通過しました。例年よりも早い時期に認証プロセスが進んでいることから、発売時期が前倒しされるのではないかと期待が高まっています。具体的な詳細スペックはまだ限定的ですが、今後の続報に注目が集まっています。",
+    "insight": "通信認証の早期通過は、製品開発サイクルやサプライチェーンの最適化を意味しており、エンジニアとしては市場投入までのリードタイム短縮に向けた取り組みに着目すべきです。特にモバイルハードウェアのファームウェアや通信最適化において、開発フローの迅速化が競争力にどう直結するかが重要な視点となります。",
+    "sourceUrl": "https://sumahodigest.com/?p=58836",
+    "sourceName": "スマホダイジェスト",
+    "originalImageUrl": "https://sumahodigest.com/wp-content/uploads/2026/04/Screenshot-2026-04-13-154317.jpg",
+    "originalImageArticleUrl": "https://sumahodigest.com/?p=58836",
+    "displayDate": "2026-04-14"
+  },
+  "Projector": {
+    "title": "ホームシアターの没入感を高める最新サラウンド体験",
+    "summary": "Sonosのワイヤレススピーカー「Era 100 SL」を活用した家庭用サラウンドシステム構築レビュー。サウンドバーと組み合わせることで、手軽に映画館のような臨場感ある音響環境を実現する手法が紹介されています。",
+    "insight": "ソフトウェア制御でスピーカーを同期させ、ワイヤレスでサラウンド環境を構築する技術は、配線の制約を取り払い、リビングをAV空間に変えるエンジニアリングの好例です。マルチデバイス間の低遅延な同期技術は、今後のホームIoTや没入型UX開発において非常に重要な要素といえます。",
+    "sourceUrl": "https://av.watch.impress.co.jp/docs/review/review/2100059.html",
+    "sourceName": "AV Watch",
+    "originalImageUrl": "https://av.watch.impress.co.jp/img/avw/list/2100/059/DSC04238.jpg",
+    "originalImageArticleUrl": "https://av.watch.impress.co.jp/docs/review/review/2100059.html",
+    "displayDate": "2026-04-14"
+  },
+  "TV": null,
+  "Camera Control": {
+    "title": "動画編集ソフトDaVinci Resolve 21が写真編集に対応",
+    "summary": "動画編集のデファクトスタンダード「DaVinci Resolve 21」が大型アップデートを発表。新たに「Photo」ページを追加し、RAW現像、テザー撮影、AIを活用したマスク処理など、Lightroomの対抗馬となる本格的な写真編集機能を実装しました。",
+    "insight": "ノードベースの非破壊編集やGPUアクセラレーションによる高速処理は、従来のレイヤーベースの編集ソフトとは異なる非常に強力なワークフローを提供します。特に動画と写真を同一プラットフォームで統合管理できる点は、クリエイティブエンジニアにとってエコシステムを一変させる可能性を秘めています。",
+    "sourceUrl": "https://petapixel.com/2026/04/13/davinci-resolve-21-is-now-a-lightroom-alternative-raw-editing-tethering-masking-and-more/",
+    "sourceName": "PetaPixel",
+    "originalImageUrl": "https://petapixel.com/assets/uploads/2026/04/DaVinci-Resolve-21-PHOTO_1.jpg",
+    "originalImageArticleUrl": "https://petapixel.com/2026/04/13/davinci-resolve-21-is-now-a-lightroom-alternative-raw-editing-tethering-masking-and-more/",
+    "displayDate": "2026-04-14"
+  },
+  "LED Wall Display": {
+    "title": "Sonyの次世代Mini LED「True RGB」技術発表",
+    "summary": "Sonyが新たに発表したMini LED技術「True RGB」は、赤・緑・青の各色を個別に制御するLEDバックライトシステムを採用。これにより、従来の液晶TVを凌駕する鮮やかな色再現性と高い輝度を実現し、同社史上最大の色ボリュームを達成しました。",
+    "insight": "直下型RGB制御は、従来のホワイトLED＋カラーフィルター方式と異なり、光のロスが少なく純度の高い発色が可能です。ハードウェアレベルでの色域改善は、今後の高輝度ディスプレイ開発における重要なアーキテクチャのトレンドとなるでしょう。",
+    "sourceUrl": "https://www.tvtechnology.com/production/sinclairs-wtov-taps-brightline-for-lighting-upgrade",
+    "sourceName": "LEDinside",
+    "originalImageUrl": "https://cdn.mos.cms.futurecdn.net/ptEpXhLZ4g7aD7LJQk5yc5-468-75.jpg",
+    "originalImageArticleUrl": "https://www.tvtechnology.com/production/sinclairs-wtov-taps-brightline-for-lighting-upgrade",
+    "displayDate": "2026-04-14"
+  }
+}
