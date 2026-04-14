@@ -1,0 +1,102 @@
+{
+  "SRD / XR": {
+    "title": "GoogleのVibe CodingでWebXR開発が爆速化",
+    "summary": "GoogleのGemini拡張機能「Vibe Coding XR」が登場。テキストで指示を出すだけで、インタラクティブなWebXR体験を数秒で構築できるワークフローが実現し、XRコンテンツ開発のハードルが劇的に下がりました。",
+    "insight": "LLMを抽象化レイヤーとして活用し、WebXRの宣言的なコード生成を行うアプローチは、プロトタイピングの速度を飛躍的に高めます。エンジニアにとっては、Three.js等の詳細な実装よりも、LLMが生成したコードの意図を制御し、空間UXを設計する能力がより重要になるでしょう。",
+    "sourceUrl": "https://www.uploadvr.com/google-vibe-coding-xr-gemini-extension-webxr/",
+    "sourceName": "UploadVR",
+    "originalImageUrl": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/04/Google-s-Vibe-Coding-XR-extension-for-Gemini-featured.png",
+    "originalImageArticleUrl": "https://www.uploadvr.com/google-vibe-coding-xr-gemini-extension-webxr/",
+    "displayDate": "2026-04-15"
+  },
+  "AI": {
+    "title": "NVIDIAが量子コンピューティング加速AIを発表",
+    "summary": "NVIDIAは、量子コンピューティングの研究開発を加速させる世界初のオープンAIモデル「Ising」を公開しました。量子回路のシミュレーションや最適化を効率化し、実用的な量子コンピュータの実現に向けた新たな一歩となる技術です。",
+    "insight": "量子コンピューティングとAIの融合は、従来手法では不可能だった複雑なシミュレーションを可能にするブレイクスルーとなる可能性があります。エンジニアとして、量子アルゴリズムとAIモデルの相互作用がどのように計算機科学の限界を押し広げるのか注目しておくべきです。",
+    "sourceUrl": "https://nvidianews.nvidia.com/news/nvidia-launches-ising-the-worlds-first-open-ai-models-to-accelerate-the-path-to-useful-quantum-computers",
+    "sourceName": "NVIDIA Newsroom",
+    "originalImageUrl": "https://iprsoftwaremedia.com/219/files/202604/69dd81573d633202e6df77bc_04132026q/04132026q_651f0725-2b7f-4b33-8240-d271595b2d15-prv.jpg",
+    "originalImageArticleUrl": "https://nvidianews.nvidia.com/news/nvidia-launches-ising-the-worlds-first-open-ai-models-to-accelerate-the-path-to-useful-quantum-computers",
+    "displayDate": "2026-04-15"
+  },
+  "Gaming Monitor": {
+    "title": "ついに540Hz！Sonyの次世代OLEDモニタが凄い",
+    "summary": "Sonyが刷新したOLEDゲーミングモニタ「INZONE M10S II」が登場。1440p解像度で驚異の540Hzリフレッシュレートを実現しました。高精細な映像表現と超低遅延の両立が注目されています。",
+    "insight": "OLEDパネルで540Hzという数値は、物理的な画素応答速度が飛躍的に向上したことを示しており、ディスプレイ技術の大きな転換点です。エンジニア視点では、この超高フレームレートを伝送・処理するためのDisplayPort 2.1やHDMI 2.1規格の帯域幅効率と、GPU側の最適化が技術的焦点となります。",
+    "sourceUrl": "https://en.gamegpu.com/news/zhelezo/sony-predstavila-inzone-m10s-ii-oled-monitor-s-540-gts",
+    "sourceName": "GameGPU",
+    "originalImageUrl": "https://gamegpu.com/images/1_2026/NEWS/Q1/April/Image_8wsrhi8wsrhi8wsr_ggpu.webp#joomlaImage://local-images/1_2026/NEWS/Q1/April/Image_8wsrhi8wsrhi8wsr_ggpu.webp?width=1376&amp;height=768",
+    "originalImageArticleUrl": "https://en.gamegpu.com/news/zhelezo/sony-predstavila-inzone-m10s-ii-oled-monitor-s-540-gts",
+    "displayDate": "2026-04-15"
+  },
+  "Projector": {
+    "title": "IMAXレーザーが川崎に登場、4K映像体験が進化",
+    "summary": "109シネマズ川崎のIMAXデジタルシアターが刷新され、最新鋭の4K上映システム「IMAXレーザー」が導入されました。これにより、高解像度かつ鮮明なコントラストを実現する次世代の映画体験が可能になります。",
+    "insight": "プロジェクター技術の進化により、家庭用だけでなく映画館でも4Kレーザー光源が標準となりつつあります。エンジニア視点では、この高輝度・高色域を支える映像処理エンジンと、効率的な排熱設計といったハードウェア最適化のトレンドに注目です。",
+    "sourceUrl": "https://www.walkerplus.com/article/169199/image991543.html",
+    "sourceName": "ウォーカープラス",
+    "originalImageUrl": "https://news.walkerplus.com/article/169199/991542_615.jpg",
+    "originalImageArticleUrl": "https://www.walkerplus.com/article/169199/image991543.html",
+    "displayDate": "2026-04-15"
+  },
+  "Production Monitor": {
+    "title": "映像業界の巨大再編：RiedelがARRIを買収",
+    "summary": "109年の歴史を持つ映画機材メーカーの雄、ARRIがRiedel Communicationsの創業者Thomas Riedel氏によって買収されました。今回の買収は、放送・ライブエンターテインメント技術のRiedelと、シネマ技術のARRIの融合を意味し、業界における両者の技術的な統合とさらなる市場拡大が期待される一大ニュースです。",
+    "insight": "ハードウェアメーカーが放送インフラ企業傘下に入ることで、映像制作のIPネットワーク化やライブプロダクションへの統合が加速する可能性があります。エンジニアとしては、従来のシネマ品質とライブ放送のワークフローが融合する際の、通信プロトコルや制御インターフェースの標準化動向に注目です。",
+    "sourceUrl": "https://www.cined.com/thomas-riedel-acquires-arri-broadcast-technology-entrepreneur-takes-over-cinemas-most-iconic-brand/",
+    "sourceName": "CineD",
+    "originalImageUrl": "https://www.cined.com/content/uploads/2026/04/Riedel_ARRI_140426_06-300x169.png",
+    "originalImageArticleUrl": "https://www.cined.com/thomas-riedel-acquires-arri-broadcast-technology-entrepreneur-takes-over-cinemas-most-iconic-brand/",
+    "displayDate": "2026-04-15"
+  },
+  "TCL": {
+    "title": "SonyとTCLの合弁事業が再編へ、TVハードウェア戦略に変化",
+    "summary": "SonyとTCLの合弁事業が、SonyグループのTVハードウェア戦略に大きな影響を与えています。また、TCLがインドのTV事業部門の株式売却を検討しているとの報道もあり、同社のグローバルな生産体制や市場戦略の転換が注目されています。",
+    "insight": "製造委託（EMS/ODM）と自社ブランドの境界線が曖昧になる中で、主要プレイヤーの資本再編はサプライチェーンの変動を予測する鍵となります。特にMiniLEDやQLED分野での技術シェア争いにおいて、TCLのような製造主導型企業の動きは、次世代ディスプレイのコスト構造に直結します。",
+    "sourceUrl": "https://simplywall.st/stocks/jp/consumer-durables/tse-6758/sony-group-shares/news/sony-and-tcl-jv-reshapes-tv-hardware-role-in-sony-group",
+    "sourceName": "simplywall.st",
+    "originalImageUrl": "https://images.simplywall.st/asset/industry/4111000-choice2-main-header/1585187046786",
+    "originalImageArticleUrl": "https://simplywall.st/stocks/jp/consumer-durables/tse-6758/sony-group-shares/news/sony-and-tcl-jv-reshapes-tv-hardware-role-in-sony-group",
+    "displayDate": "2026-04-15"
+  },
+  "SONY": {
+    "title": "ソニーが540Hz/720Hz対応の新型有機ELモニターを発表",
+    "summary": "ソニーはゲーミングギア「INZONE」シリーズの新製品として、最大720Hzの高速リフレッシュレートを実現した27インチOLEDゲーミングモニター「INZONE M10S II」を発表しました。eスポーツ市場を見据えた超低遅延・高応答性能が特徴で、ASUSやLGなどの競合製品に対抗します。",
+    "insight": "OLEDパネルで720Hzという驚異的な駆動を実現する技術力は、デバイスドライバーや映像信号処理の最適化が極限まで進んでいることを示唆しています。エンジニアとしては、単なるパネル性能だけでなく、信号処理遅延を最小化するための回路設計とソフトウェアスタックの同期手法に注目すべきです。",
+    "sourceUrl": "https://biggo.jp/news/202604141853_Sony_Inzone_M10S_II_OLED_Gaming_Monitor_Launch_Price_Specs",
+    "sourceName": "biggo.jp",
+    "originalImageUrl": "https://img.bgo.one/news-image/ai_generated/2026-04/202604141853_Sony_Inzone_M10S_II_OLED_Gaming_Monitor_Launch_Price_Specs_20260415_030056.jpg",
+    "originalImageArticleUrl": "https://biggo.jp/news/202604141853_Sony_Inzone_M10S_II_OLED_Gaming_Monitor_Launch_Price_Specs",
+    "displayDate": "2026-04-15"
+  },
+  "TV": {
+    "title": "SamsungのミドルレンジOLEDから一部機能が削除",
+    "summary": "Samsungが今年のミドルレンジOLED TVで、従来の主要機能を密かに削除したことが話題になっています。コスト削減か戦略的判断かは不明ですが、コンシューマー向け製品の仕様変更がエンジニアのハードウェア選定にも影響を与える事例です。",
+    "insight": "家電の仕様変更は、特定の周辺機器やAPI互換性に依存するシステム開発において潜在的な技術的負債となります。ハードウェア選定時にスペックシートだけでなく、長期的なファームウェア更新ポリシーや静かな仕様変更の動向も追う重要性が改めて示唆されています。",
+    "sourceUrl": "https://www.tomsguide.com/tvs/oled-tvs/samsung-quietly-dropped-a-key-feature-on-its-mid-range-oled-tv-this-year-heres-what-you-need-to-know",
+    "sourceName": "Tom's Guide",
+    "originalImageUrl": "https://cdn.mos.cms.futurecdn.net/oRncpUDsHSrFnVBNmtbMDQ-1401-80.jpg",
+    "originalImageArticleUrl": "https://www.tomsguide.com/tvs/oled-tvs/samsung-quietly-dropped-a-key-feature-on-its-mid-range-oled-tv-this-year-heres-what-you-need-to-know",
+    "displayDate": "2026-04-15"
+  },
+  "LED Wall Display": {
+    "title": "ついに普及期？低価格化するMicroLEDディスプレイ",
+    "summary": "DreamWall社が、富裕層向け住宅市場をターゲットにした高精度なMicroLEDビデオウォールを発表しました。これまで業務用が中心だったMicroLEDが、民生用としても導入可能な予算感で提供され始めており、家庭でのシネマティックな視聴体験やデジタルアートの表示ニーズに応える新たなトレンドとなっています。",
+    "insight": "MicroLEDは高輝度・高コントラストで焼き付きリスクが低いため、常時表示デバイスとして極めて有望です。コストダウンが進むことで、住宅内でのスマートホーム統合型ディスプレイとしての開発需要や、それに伴う制御ソフトウェアの最適化が今後のエンジニアリング課題となるでしょう。",
+    "sourceUrl": "https://ravepubs.com/dreamwall-launches-premium-microled-cooled-video-walls-reimagined-for-real-world-budgets/",
+    "sourceName": "rAVe [PUBS]",
+    "originalImageUrl": "https://ravepubs.com/wp-content/uploads/2026/04/unnamed-20-800x240.webp",
+    "originalImageArticleUrl": "https://ravepubs.com/dreamwall-launches-premium-microled-cooled-video-walls-reimagined-for-real-world-budgets/",
+    "displayDate": "2026-04-15"
+  },
+  "Camera Control": {
+    "title": "映画業界に激震！ARRIが実業家トーマス・リーデルに買収される",
+    "summary": "映画用カメラや照明機器で世界的なシェアを誇るドイツの老舗メーカー「ARRI」が、Riedel Communicationsの創業者であるトーマス・リーデル氏によって買収されました。業界の勢力図に大きな影響を与えるニュースです。",
+    "insight": "映画制作のハードウェア標準を支えてきたARRIの経営体制が変わることは、将来的な放送・撮影技術のロードマップに影響を与える可能性があります。技術スタックの標準化やハードウェアの相互運用性を追うエンジニアにとって、買収後の技術統合の動向は要注目です。",
+    "sourceUrl": "https://petapixel.com/2026/04/14/arri-has-been-acquired-by-german-entrepreneur-thomas-riedel/",
+    "sourceName": "PetaPixel",
+    "originalImageUrl": "https://petapixel.com/assets/uploads/2026/04/ThomasRiedel-ARRI.jpg",
+    "originalImageArticleUrl": "https://petapixel.com/2026/04/14/arri-has-been-acquired-by-german-entrepreneur-thomas-riedel/",
+    "displayDate": "2026-04-15"
+  }
+}
