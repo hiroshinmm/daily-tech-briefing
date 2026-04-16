@@ -1,0 +1,102 @@
+{
+  "SRD / XR": {
+    "title": "Meta Quest 3/3Sが国内で大幅値上げ、4/19から",
+    "summary": "Metaは世界的なメモリー価格の高騰を背景に、VR/MRヘッドセット「Meta Quest 3」および「3S」の販売価格を4月19日より引き上げることを発表した。日本市場ではQuest 3が2万円強、3Sが1万円強の値上げとなる。",
+    "insight": "ハードウェアの価格変動はサプライチェーンのコスト構造（今回はメモリー不足）を直接反映しており、XRデバイスの普及期における利益率維持の難しさを示しています。今後の開発案件では、こうしたボラティリティを考慮したコスト見積もりや、低価格なデバイス環境での最適化がより重要になるでしょう。",
+    "sourceUrl": "https://news.yahoo.co.jp/articles/73475d02ca75c0acc5165f7d7d03174f66c82b3b",
+    "sourceName": "Yahoo!ニュース",
+    "originalImageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260417-00000004-gamespav-000-1-view.jpg?exp=10800",
+    "originalImageArticleUrl": "https://news.yahoo.co.jp/articles/73475d02ca75c0acc5165f7d7d03174f66c82b3b",
+    "displayDate": "2026-04-17"
+  },
+  "AI": {
+    "title": "Anthropicの新モデル「Opus 4.7」発表と規制リスク",
+    "summary": "Anthropicが新モデル「Opus 4.7」を発表しましたが、ドイツの金融当局や銀行は、この強力な新AIがもたらすリスクを懸念し、導入に向けた精査を強めています。性能向上とガバナンスの両立が焦点です。",
+    "insight": "最新LLMの商用導入において、単なる性能だけでなく、コンプライアンスやデータセキュリティに関する当局の監視が厳格化しています。エンジニアは、モデルの推論能力向上と並行して、Explainable AIやガードレールの実装を強化する設計が求められます。",
+    "sourceUrl": "https://jp.reuters.com/markets/japan/IKGMNNNINNJXBPHSRI6FR4PICM-2026-04-16/",
+    "sourceName": "Reuters",
+    "originalImageUrl": "https://www.reuters.com/resizer/v2/PK75QELOXFODZBJFLWGEMKZBXM.jpg?auth=0eaf521bcc6a1b87b81eb49fe28c11841108ed3209fe7b96eada68b2e8047bb5&height=1005&width=1920&quality=80&smart=true",
+    "originalImageArticleUrl": "https://jp.reuters.com/markets/japan/IKGMNNNINNJXBPHSRI6FR4PICM-2026-04-16/",
+    "displayDate": "2026-04-17"
+  },
+  "Projector": {
+    "title": "Aladdin X、自宅でカラオケを楽しめる新セットを発表",
+    "summary": "Aladdin Xは、照明一体型プロジェクター「popIn Aladdin」シリーズやスマートフォンと連携し、家庭で本格的なカラオケ体験を実現する「Aladdin SoundMate Set」を発売しました。専用アプリとの接続により、手軽に自宅をエンタメ空間に変えることができます。",
+    "insight": "プロジェクターを単なる映像投写デバイスから、周辺機器と連携したマルチメディアハブへと進化させる製品戦略がトレンドです。エンジニア視点では、低遅延な無線オーディオストリーミングや、アプリとハードウェア間のシームレスな制御連携の実装技術が重要となります。",
+    "sourceUrl": "https://news.yahoo.co.jp/articles/c1e53ece8705edab4936092b47720842e343dde0/images/000",
+    "sourceName": "Yahoo!ニュース",
+    "originalImageUrl": "https://news-pctr.c.yimg.jp/uUzvQ3lML_bkIqyakc1vFhNrRI0RUQxg5aFkrX0xDg1_T0wXrbEJjtNGtrf1o9y3apXm7NOlaXyl0N6TOsDM8YuPHkLl9vG_IwBqbqPzcOOOmYjzSyFVar_IBYnlqrshJIU9RBNh64HEQ3FUAo9eTAu40opzfUL3jOAH9yEBkfYc0yWXgT6_pgqU4nT-b7t1",
+    "originalImageArticleUrl": "https://news.yahoo.co.jp/articles/c1e53ece8705edab4936092b47720842e343dde0/images/000",
+    "displayDate": "2026-04-17"
+  },
+  "Gaming Monitor": {
+    "title": "ハイエンド有機ELモニター「Odyssey OLED G9」が41%OFF",
+    "summary": "PCMagにて、Samsungのフラッグシップゲーミングモニター「Odyssey OLED G9」が41%オフで販売されている。圧倒的な没入感を生むウルトラワイドかつ高精細な有機ELディスプレイは、ゲーマーや開発者のデスク環境を大きく向上させる。",
+    "insight": "大型・高解像度モニターは作業領域の拡張による生産性向上が期待できる一方、GPU負荷やリフレッシュレートの要件も高まる。こうしたハイエンド機材のセール情報は、開発者自身の開発環境リプレイスの好機となる。",
+    "sourceUrl": "https://www.pcmag.com/deals/best-buy-deals-of-the-day-41-off-samsung-odyssey-g9-monitor-april-16",
+    "sourceName": "PCMag",
+    "originalImageUrl": "https://i.pcmag.com/imagery/articles/02pWVwBF30GZguxBTPPaGdA-4.fit_lim.size_1200x630.v1776359850.png",
+    "originalImageArticleUrl": "https://www.pcmag.com/deals/best-buy-deals-of-the-day-41-off-samsung-odyssey-g9-monitor-april-16",
+    "displayDate": "2026-04-17"
+  },
+  "Production Monitor": {
+    "title": "Blackmagic Camera for iOSがApple Watch対応",
+    "summary": "Blackmagic Designは、iOS向けカメラアプリのバージョン3.3をリリースしました。今回のアップデートにより、Apple Watchから録画の開始・停止やモニタリングが可能になり、遠隔操作の利便性が大幅に向上。さらにATEMスイッチャー連携やフォーカス・ズームデマンドへの対応も追加されています。",
+    "insight": "モバイルデバイスをプロ向け撮影機材として統合するエコシステムの進化が加速しています。特にApple Watchを制御インターフェースとして活用する設計は、UI/UXだけでなく、ハードウェア間の低遅延通信プロトコルの重要性をエンジニアリングの観点からも示唆しています。",
+    "sourceUrl": "https://www.newsshooter.com/2026/04/16/blackmagic-camera-for-ios-3-3/",
+    "sourceName": "Newsshooter",
+    "originalImageUrl": "https://www.provideocoalition.com/wp-content/uploads/aotfhail.jpg",
+    "originalImageArticleUrl": "https://www.provideocoalition.com/art-of-the-frame-podcast-editors-on-editing-with-project-hail-mary-editor-joel-negron/",
+    "displayDate": "2026-04-17"
+  },
+  "SONY": {
+    "title": "ソニー、NAB 2026で放送用カメラの新ラインナップ「HDC-Rシリーズ」を発表",
+    "summary": "世界最大級の放送機器展NAB 2026にて、ソニーは4K世代へ最適化した新たなシステムカメラ「HDC-Rシリーズ」を発表しました。シリーズ全体での互換性と一貫した操作性を重視しており、スイッチャーや新しいソフトウェアプラットフォームと統合することで、放送制作現場のワークフロー効率化と将来的な拡張性を両立させるソリューションとなっています。",
+    "insight": "放送用カメラのトレンドが単体性能から、ソフトウェア定義（Software-Defined）されたシステム全体のワークフロー統合へとシフトしています。ハードウェア間の互換性だけでなく、APIやプラットフォームを通じたエコシステム構築が今後の映像制作インフラの要となるでしょう。",
+    "sourceUrl": "https://news.nicovideo.jp/watch/nw19176228?news_ref=watch_60_nw19070104",
+    "sourceName": "ニコニコニュース",
+    "originalImageUrl": null,
+    "originalImageArticleUrl": "https://news.nicovideo.jp/watch/nw19176228?news_ref=watch_60_nw19070104",
+    "displayDate": "2026-04-17"
+  },
+  "LED Wall Display": {
+    "title": "ミッドランド・ロックハウンズがスタジアムに最新LEDディスプレイを導入",
+    "summary": "米マイナーリーグ球団のミッドランド・ロックハウンズが、Momentum Bank Ballparkのライト外野にDaktronics製の新しいLEDビデオディスプレイを導入しました。2026年シーズンより、観客への情報提供やエンターテインメント演出が大幅に強化されます。",
+    "insight": "スポーツ施設におけるLED導入は、単なる映像表示から、高リフレッシュレートと低遅延を活かしたリアルタイムな試合情報提供システムへと進化しています。エンジニアとしては、ハードウェアの選定だけでなく、既存のスタジアム制御システム（スコアボードや演出管理）との統合におけるプロトコル制御の安定性が重要な設計要素となります。",
+    "sourceUrl": "https://ravepubs.com/midland-rockhounds-head-into-2026-with-new-daktronics-display/",
+    "sourceName": "rAVe [PUBS]",
+    "originalImageUrl": "https://ravepubs.com/wp-content/uploads/2026/03/unnamed-5.webp",
+    "originalImageArticleUrl": "https://ravepubs.com/midland-rockhounds-head-into-2026-with-new-daktronics-display/",
+    "displayDate": "2026-04-17"
+  },
+  "TCL": {
+    "title": "TCLの新型TV「C7L」発表：288Hz駆動の驚異的性能",
+    "summary": "TCLから新型TV「C7L」が登場。次世代のSQD Mini LED技術を搭載し、Dolby Visionや288Hzの高リフレッシュレート（VRR）に対応。ゲーミング用途にも適した圧倒的な映像体験とスムーズな描画性能を両立したハイエンドモデルです。",
+    "insight": "最大288Hzというリフレッシュレートは、一般的なゲーミングモニターの標準を大きく凌駕しており、TVデバイスが競技性の高いゲーミング分野へ完全に浸透したことを示しています。高精細なMini LED制御と低遅延技術の組み合わせは、コンテンツ開発者にとっても出力デバイスのベンチマークとして注目すべき動きです。",
+    "sourceUrl": "https://www.msn.com/en-ie/lifestyle/shopping/tcl-c7l-tv-announced-with-sqd-mini-led-dolby-vision-and-288hz-vrr-support/ar-AA1ZPADJ?apiversion=v2&domshim=1&noservercache=1&noservertelemetry=1&batchservertelemetry=1&renderwebcomponents=1&wcseo=1",
+    "sourceName": "MSN",
+    "originalImageUrl": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1ZPe3K.img?w=612&h=245&m=4&q=81",
+    "originalImageArticleUrl": "https://www.msn.com/en-ie/lifestyle/shopping/tcl-c7l-tv-announced-with-sqd-mini-led-dolby-vision-and-288hz-vrr-support/ar-AA1ZPADJ?apiversion=v2&domshim=1&noservercache=1&noservertelemetry=1&batchservertelemetry=1&renderwebcomponents=1&wcseo=1",
+    "displayDate": "2026-04-17"
+  },
+  "Camera Control": {
+    "title": "動画編集の常識が変わる？DaVinci Resolve 21が写真編集に対応",
+    "summary": "Blackmagic Design社が発表したDaVinci Resolve 21にて、新たにRAW写真編集や管理機能が追加されました。動画編集ソフトの雄が写真編集市場へ本格参入した形となり、業界に波紋を呼んでいます。",
+    "insight": "ノンリニア編集（NLE）と写真編集のワークフロー統合は、クリエイターにとって大きな恩恵となります。特にネイティブでのRAW処理は、AI推論を活用したポストプロダクションの自動化において、データのサイロ化を防ぐ重要なトレンドと言えるでしょう。",
+    "sourceUrl": "https://petapixel.com/2026/04/16/the-davinci-resolve-21-photo-editing-tools-show-promise-but-are-imperfect/",
+    "sourceName": "PetaPixel",
+    "originalImageUrl": "https://petapixel.com/assets/uploads/2026/04/The-DaVinci-Resolve-21-Photo-Editing-Tools-Show-Promise-but-Are-Imperfect.jpg",
+    "originalImageArticleUrl": "https://petapixel.com/2026/04/16/the-davinci-resolve-21-photo-editing-tools-show-promise-but-are-imperfect/",
+    "displayDate": "2026-04-17"
+  },
+  "TV": {
+    "title": "LG OLED B5シリーズが大幅値引きセール",
+    "summary": "米Best Buyにて、LGの有機ELテレビ「B5シリーズ」が最大1,500ドルの大幅値引きで販売されており、さらに別の4Kテレビが無料特典として付与される大型セールが話題です。高画質モデルを安価に入手できる好機として注目されています。",
+    "insight": "大型家電のセール情報は、コンシューマー向けディスプレイ技術の市場価格トレンドを把握する上で参考になります。OLEDは焼き付きリスクが技術的課題ですが、普及価格帯への浸透が進むことで、将来的なUI/UXデザインにおける輝度や静止画表示の考慮点として重要性を増すでしょう。",
+    "sourceUrl": "https://www.zdnet.com/home-and-office/home-entertainment/lg-b5-oled-tv-deal-best-buy/",
+    "sourceName": "ZDNET",
+    "originalImageUrl": "https://www.zdnet.com/a/img/resize/75a7b033686c5b5fef2e3fbcddd1073330f4a85b/2026/04/15/8ad72b9f-1cc9-466c-883b-fcd7fc883d9b/lg-b5-oled.jpg?auto=webp&fit=crop&height=675&width=1200",
+    "originalImageArticleUrl": "https://www.zdnet.com/home-and-office/home-entertainment/lg-b5-oled-tv-deal-best-buy/",
+    "displayDate": "2026-04-17"
+  }
+}
