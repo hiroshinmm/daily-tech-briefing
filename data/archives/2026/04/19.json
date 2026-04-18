@@ -1,0 +1,102 @@
+{
+  "SRD / XR": {
+    "title": "IOWN技術でVTuberライブが進化！低遅延と遠隔握手の可能性",
+    "summary": "NTTが次世代光通信技術「IOWN（APN）」を活用し、VTuberとの遠隔ファンミーティングの実証実験を実施。スタジオと遠隔地を低遅延で繋ぐことで、リアルタイムなハイタッチ体験などを実現しました。",
+    "insight": "IOWNの低遅延通信は、メタバースや遠隔VR体験における物理的な距離の制約を打破する重要な技術基盤です。リアルタイム性が求められるXRアプリケーション開発において、ネットワーク側のボトルネック解消がUXをどう変えるか注目すべき点です。",
+    "sourceUrl": "https://www.moguravr.com/vtuber-iown-ntt-2026/",
+    "sourceName": "Mogura VR",
+    "originalImageUrl": "https://assets.moguravr.com/uploads/2026/04/3289b6089471c1130d46b0c990478f2e-kix.22grx7m7olxn-300x111.webp",
+    "originalImageArticleUrl": "https://www.moguravr.com/vtuber-iown-ntt-2026/",
+    "displayDate": "2026-04-19"
+  },
+  "AI": {
+    "title": "エージェント主導で起業：AI時代のアジャイル開発",
+    "summary": "AIによるレイオフを経験した元エンジニアが、わずか2人のパートナーと12個のAIエージェントのみで収益性の高い会社を構築したという成功事例が話題です。既存の組織構成に頼らず、AIエージェントを戦力として活用する新しいビジネスモデルの可能性を示唆しています。",
+    "insight": "エンジニアは、ツールを単なる生産性向上手段ではなく『チームのメンバー（エージェント）』として組み込む設計が求められます。単一のLLM活用から、複数の自律型エージェントを連携させたワークフロー構築こそが、今後の開発現場における競争優位性となるでしょう。",
+    "sourceUrl": "https://fortune.com/2026/04/18/ai-layoff-became-founder-team-of-3-instant-profit/",
+    "sourceName": "Fortune",
+    "originalImageUrl": "https://fortune.com/img-assets/wp-content/uploads/2026/04/1773549808956.jpg?resize=1200,600",
+    "originalImageArticleUrl": "https://fortune.com/2026/04/18/ai-layoff-became-founder-team-of-3-instant-profit/",
+    "displayDate": "2026-04-19"
+  },
+  "SONY": {
+    "title": "ソニー、驚異の720Hzリフレッシュレート対応OLEDモニターを発表",
+    "summary": "ソニーがゲーミングブランド「Inzone」の新製品として、OLED（有機EL）を採用し、驚異的な720Hzのリフレッシュレートを実現した最新ゲーミングモニターを発表しました。超低遅延が求められる競技シーンでの活用が期待されます。",
+    "insight": "720Hzという驚異的なリフレッシュレートは、描画エンジンおよびディスプレイコントローラーにおける信号処理の限界に挑む技術です。エンジニアの視点では、この超高フレームレートを維持するためのGPU負荷の最適化や、Motion Blurを極限まで抑える映像補間アルゴリズムの進化に注目すべきです。",
+    "sourceUrl": "https://www.msn.com/en-us/news/technology/sony-s-new-gaming-monitor-serves-a-720hz-refresh-rate-atop-an-oled-panel/ar-AA218RQF?apiversion=v2&domshim=1&noservercache=1&noservertelemetry=1&batchservertelemetry=1&renderwebcomponents=1&wcseo=1",
+    "sourceName": "MSN",
+    "originalImageUrl": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA218WKn.img?w=612&h=367&m=4&q=81",
+    "originalImageArticleUrl": "https://www.msn.com/en-us/news/technology/sony-s-new-gaming-monitor-serves-a-720hz-refresh-rate-atop-an-oled-panel/ar-AA218RQF?apiversion=v2&domshim=1&noservercache=1&noservertelemetry=1&batchservertelemetry=1&renderwebcomponents=1&wcseo=1",
+    "displayDate": "2026-04-19"
+  },
+  "TCL": {
+    "title": "TCLの新型RGB-Mini LEDテレビが登場",
+    "summary": "TCLが新たにRGB-Mini LED技術を採用した最新のスマートTVラインナップを発表しました。従来のディスプレイ技術を凌駕する映像性能を掲げており、特に高リフレッシュレート（最大288Hz）対応など、ゲーミング用途での進化が注目されています。",
+    "insight": "RGB-Mini LEDは、各画素レベルでの精密な輝度制御と広い色域を実現する次世代ディスプレイ技術です。ソフトウェアエンジニアの視点では、このハードウェアの進化が低遅延レンダリングや可変リフレッシュレート（VRR）の最適化をどこまで押し上げられるかが技術的な評価ポイントとなります。",
+    "sourceUrl": "https://themalaysianreserve.com/2026/04/17/tcls-first-rgb-mini-led-tv-is-about-to-be-the-industrys-best-rgb-mini-led-tv/",
+    "sourceName": "The Malaysian Reserve",
+    "originalImageUrl": null,
+    "originalImageArticleUrl": "https://themalaysianreserve.com/2026/04/17/tcls-first-rgb-mini-led-tv-is-about-to-be-the-industrys-best-rgb-mini-led-tv/",
+    "displayDate": "2026-04-19"
+  },
+  "Gaming Monitor": {
+    "title": "Philipsから第5世代QD-OLEDモニターが登場",
+    "summary": "PhilipsのゲーミングブランドEvniaより、第5世代QD-OLEDパネルを採用した34インチWQHDモニターが登場しました。最新のOLED技術による高コントラストと応答速度の向上が期待されます。",
+    "insight": "第5世代QD-OLEDパネルは、焼き付き耐性の向上と輝度・色彩表現の最適化が図られており、長時間利用するエンジニアにとってのサブモニターや作業環境のアップグレードとして有力な選択肢です。リフレッシュレートと解像度のバランスが向上しており、開発時のマルチタスク作業においても高い視認性が期待できます。",
+    "sourceUrl": "https://www.club386.com/philips-evnia-34m2c8600p-wqhd-5th-generation-qd-oled-gaming-monitor-surfaces/",
+    "sourceName": "Club386",
+    "originalImageUrl": "https://www.club386.com/wp-content/uploads/2026/04/34M2C8600P-Front.jpeg",
+    "originalImageArticleUrl": "https://www.club386.com/philips-evnia-34m2c8600p-wqhd-5th-generation-qd-oled-gaming-monitor-surfaces/",
+    "displayDate": "2026-04-19"
+  },
+  "TV": {
+    "title": "最新OLED技術の進化と市場動向",
+    "summary": "LGの「Hyper Radiant Color」技術によるOLEDディスプレイの画質向上や、Samsungが中位モデルから特定の機能を削除するなど、2024年のテレビ市場におけるハードウェア競争とスペックの取捨選択が注目されています。",
+    "insight": "ディスプレイ技術の進化は、単なるパネル性能向上だけでなく、色再現アルゴリズムなどのソフトウェア処理が重要になっています。エンジニアとしては、ハードウェア制約の中でメーカーがどのようにUXを差別化しているかの仕様変更を追うのが非常に興味深いです。",
+    "sourceUrl": "https://www.tomsguide.com/tvs/oled-tvs/heres-everything-you-need-to-know-about-lgs-hyper-radiant-color-technology-and-why-you-should-want-it-in-an-oled-tv",
+    "sourceName": "Tom's Guide",
+    "originalImageUrl": "https://cdn.mos.cms.futurecdn.net/TNsEcFENtEbemBXz8bHNsR-738-80.jpg",
+    "originalImageArticleUrl": "https://www.tomsguide.com/tvs/oled-tvs/heres-everything-you-need-to-know-about-lgs-hyper-radiant-color-technology-and-why-you-should-want-it-in-an-oled-tv",
+    "displayDate": "2026-04-19"
+  },
+  "LED Wall Display": {
+    "title": "デジタルサイネージの次なる焦点は「UXの質」",
+    "summary": "デジタルサイネージの技術競争は、画面の品質や解像度といったハードウェア偏重から、環境内でいかに明確で関連性の高い情報を届けられるかというUX（ユーザーエクスペリエンス）の質へシフトしているという指摘がなされています。",
+    "insight": "ハードウェアのスペック競争が落ち着く中、今後は配信ネットワークの最適化とコンテキストに応じたコンテンツ配信の自動化が重要になります。エンジニアは、単なるビジュアル出力の管理から、環境データと連動したインタラクティブな体験設計へとスキル領域を広げるべきでしょう。",
+    "sourceUrl": "https://www.digitalsignagetoday.com/blogs/common-ux-problems-with-digital-signage/",
+    "sourceName": "Digital Signage Today",
+    "originalImageUrl": "https://nmgprod.s3.amazonaws.com/media/file/39/85/f48e8e15802d2f7ff1feef2ab202/cover_image__5xOkYxHG__AdobeStock_1912333446.jpeg.360x190_q85_crop_upscale.jpg",
+    "originalImageArticleUrl": "https://www.digitalsignagetoday.com/blogs/common-ux-problems-with-digital-signage/",
+    "displayDate": "2026-04-19"
+  },
+  "Production Monitor": {
+    "title": "AvidとGoogle Cloudが提携、AIエージェントを導入",
+    "summary": "AvidがGoogle Cloudと提携し、Media ComposerとContent CoreにGeminiモデルとVertex AIを統合。自然言語検索やメタデータの自動タグ付けに加え、B-roll生成などの自律的なAIエージェントワークフローを実現し、NAB 2026で初披露されます。",
+    "insight": "クリエイティブツールへのエージェントAIの統合は、単なる自動化を超えて、ワークフローの自律化を加速させています。特に高負荷なポストプロダクション領域における、クラウドネイティブなデータ基盤と大規模言語モデルの連携は、今後のメディアエンジニアリングの重要な指標となるでしょう。",
+    "sourceUrl": "https://www.cined.com/avid-and-google-cloud-partner-to-bring-agentic-ai-into-media-composer-and-content-core/",
+    "sourceName": "CineD",
+    "originalImageUrl": "https://www.cined.com/content/uploads/2026/04/feature-5-300x169.jpg",
+    "originalImageArticleUrl": "https://www.cined.com/avid-and-google-cloud-partner-to-bring-agentic-ai-into-media-composer-and-content-core/",
+    "displayDate": "2026-04-19"
+  },
+  "Camera Control": {
+    "title": "なぜ「動画機能なしカメラ」は安くならないのか？",
+    "summary": "デジタルカメラにおいて、動画機能を省略すればコストダウンになるという期待は根強いですが、実際にはそう簡単ではありません。現代の製造プロセスと市場戦略の観点から、その理由を考察する興味深い記事です。",
+    "insight": "ハードウェアの共通化による規模の経済が働いているため、特定の機能のみを無効化しても開発・製造コストの削減には直結しません。エンジニアリングの観点では、機能の切り分けによる「人工的な制限」が逆に製品開発の複雑性を増す可能性がある点に注目すべきです。",
+    "sourceUrl": "https://www.dpreview.com/opinion/2487492530/why-omitting-video-won-t-make-your-camera-cheaper",
+    "sourceName": "Digital Photography Review",
+    "originalImageUrl": "https://2.img-dpreview.com/files/p/E~C0x0S3840x2880T1200x900~articles/2487492530/Nikon_Z6III_vs_ZR_as_video_cameras.jpeg",
+    "originalImageArticleUrl": "https://www.dpreview.com/opinion/2487492530/why-omitting-video-won-t-make-your-camera-cheaper",
+    "displayDate": "2026-04-19"
+  },
+  "Projector": {
+    "title": "ハイエンド体験の民主化：レーザープロジェクターの進化",
+    "summary": "Hisenseから最大150インチの大画面を実現する超短焦点（UST）レーザープロジェクターが登場。かつては高価だったホームシアター向け高性能機が、より手頃な価格帯で提供され始めています。",
+    "insight": "光学エンジニアリングと光源制御の進化により、高輝度・高精細なレーザー投影がより現実的なコストで実現可能になっています。ソフトウェアスタック（Android TV等）との統合も進んでおり、UI/UXを含めた「大画面の計算機」としてのポテンシャルが注目されます。",
+    "sourceUrl": "https://www.msn.com/en-us/news/technology/hisenses-new-ust-laser-projector-promises-premium-home-theater-up-to-150-inches-for-a-very-tempting-price/ar-AA1Neu24?apiversion=v2&domshim=1&noservercache=1&noservertelemetry=1&batchservertelemetry=1&renderwebcomponents=1&wcseo=1",
+    "sourceName": "MSN",
+    "originalImageUrl": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1Neu1B.img?w=612&h=377&m=4&q=79",
+    "originalImageArticleUrl": "https://www.msn.com/en-us/news/technology/hisenses-new-ust-laser-projector-promises-premium-home-theater-up-to-150-inches-for-a-very-tempting-price/ar-AA1Neu24?apiversion=v2&domshim=1&noservercache=1&noservertelemetry=1&batchservertelemetry=1&renderwebcomponents=1&wcseo=1",
+    "displayDate": "2026-04-19"
+  }
+}
