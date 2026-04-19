@@ -1,0 +1,102 @@
+{
+  "SRD / XR": {
+    "title": "Meta Questの撮影体験が進化！フレーム確認機能が追加",
+    "summary": "Meta Questの最新アップデートにより、「キャプチャーマーカー」機能が実装されました。撮影開始前にスクリーンショットや録画の画角を視覚的に確認できるようになり、コンテンツ制作や共有の利便性が大幅に向上しました。",
+    "insight": "XRデバイスにおけるUI/UXの改善事例として注目です。特にMR環境での撮影は画角調整が難しいため、キャプチャーの視覚化は開発者にとってもキャプチャー機能をアプリに統合する際の重要なUX設計のヒントになります。",
+    "sourceUrl": "https://www.uploadvr.com/meta-quest-capture-markers-feature-screenshots-video-recording/",
+    "sourceName": "UploadVR",
+    "originalImageUrl": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/04/A-Meta-Quest-screenshot-shows-the-UploadVR-home-page.jpg",
+    "originalImageArticleUrl": "https://www.uploadvr.com/meta-quest-capture-markers-feature-screenshots-video-recording/",
+    "displayDate": "2026-04-20"
+  },
+  "AI": {
+    "title": "「AIで生産性は上がるのか？」40年前のパラドックス再び",
+    "summary": "多くのCEOが「AIは雇用や生産性にまだ目立った影響を与えていない」と回答していることが判明しました。これはIT投資が生産性向上に寄与していないとされた40年前の「ソローのパラドックス」を彷彿とさせ、AI導入のROI（投資対効果）に対する議論が再燃しています。",
+    "insight": "エンジニアとしては、AI導入が個別のタスク効率化にとどまり、組織全体やマクロな経済指標としての生産性向上にはまだタイムラグがあることを理解する必要があります。実装フェーズでは、単なるAI導入ではなく、ワークフローの抜本的な再構築と評価指標の再定義が求められています。",
+    "sourceUrl": "https://fortune.com/article/why-do-thousands-of-ceos-believe-ai-not-having-impact-productivity-employment-study/",
+    "sourceName": "Fortune",
+    "originalImageUrl": "https://fortune.com/img-assets/wp-content/uploads/2026/02/GettyImages-521488522-e1771352623863.jpg?resize=1200,600",
+    "originalImageArticleUrl": "https://fortune.com/article/why-do-thousands-of-ceos-believe-ai-not-having-impact-productivity-employment-study/",
+    "displayDate": "2026-04-20"
+  },
+  "Gaming Monitor": {
+    "title": "ゲーミングモニターの価格動向と選び方",
+    "summary": "ASUSの4K OLEDモデルが今年最安値を記録し、Samsungの40インチ湾曲モニターも500ドル以上の割引となるなど、高性能ゲーミングモニターの市場価格が変動しています。また、PS5向けの最適なモニターの選び方も注目されています。",
+    "insight": "OLEDパネルや高解像度モニターの価格低下は、エンジニアの作業環境構築や検証用デバイスの導入ハードルを大きく下げています。高リフレッシュレートと低遅延が標準化する中、デスク環境における視覚情報の密度をどう最大化するかが今後の生産性向上において重要です。",
+    "sourceUrl": "https://mashable.com/article/april-17-asus-rog-strix-32-inch-4k-oled-gaming-monitor-deal",
+    "sourceName": "Mashable",
+    "originalImageUrl": "https://helios-i.mashable.com/imagery/articles/01hsBTsiCmYEF7WHzheyeNG/hero-image.fill.size_1200x675.v1776425514.jpg",
+    "originalImageArticleUrl": "https://mashable.com/article/april-17-asus-rog-strix-32-inch-4k-oled-gaming-monitor-deal",
+    "displayDate": "2026-04-20"
+  },
+  "Projector": {
+    "title": "Hisenseの150インチ超短焦点レーザープロジェクター",
+    "summary": "Hisenseから最大150インチの投写に対応した超短焦点レーザープロジェクターが登場。プレミアムなホームシアター体験を、従来のハイエンド機に比べて魅力的な価格帯で実現することを目指しており、市場の注目を集めています。",
+    "insight": "超短焦点（UST）技術は光学設計が複雑ですが、レーザー光源と組み合わせることで設置の柔軟性と画質の両立が進んでいます。エンジニアリングの視点では、大型画面を近距離で高精度に投影するための歪み補正アルゴリズムや、熱設計の最適化が製品競争力の要となっています。",
+    "sourceUrl": "https://www.msn.com/en-us/news/technology/hisenses-new-ust-laser-projector-promises-premium-home-theater-up-to-150-inches-for-a-very-tempting-price/ar-AA1Neu24?apiversion=v2&domshim=1&noservercache=1&noservertelemetry=1&batchservertelemetry=1&renderwebcomponents=1&wcseo=1",
+    "sourceName": "MSN",
+    "originalImageUrl": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1Neu1B.img?w=612&h=377&m=4&q=79",
+    "originalImageArticleUrl": "https://www.msn.com/en-us/news/technology/hisenses-new-ust-laser-projector-promises-premium-home-theater-up-to-150-inches-for-a-very-tempting-price/ar-AA1Neu24?apiversion=v2&domshim=1&noservercache=1&noservertelemetry=1&batchservertelemetry=1&renderwebcomponents=1&wcseo=1",
+    "displayDate": "2026-04-20"
+  },
+  "SONY": {
+    "title": "ソニーがゲーミング市場を加速、540Hzモニター投入",
+    "summary": "ソニーのゲーミングギアブランド「INZONE」から、超高リフレッシュレートを実現した540Hzモニターと新型ヘッドセットが登場しました。専用コミュニティも開始し、ハードウェアだけでなくユーザー体験の構築にも注力しています。",
+    "insight": "540Hzという極めて高いリフレッシュレートは、プロゲーミングやeスポーツにおける低遅延要求の限界に挑戦するもので、ディスプレイの応答速度技術の進化を物語っています。エンジニアとしては、この超高速描画に対応するための映像信号処理や熱設計といったハードウェア最適化の工夫に注目すべきです。",
+    "sourceUrl": "https://dxmagazine.jp/news/2615uk3/",
+    "sourceName": "DXマガジン",
+    "originalImageUrl": null,
+    "originalImageArticleUrl": "https://dxmagazine.jp/news/2615uk3/",
+    "displayDate": "2026-04-20"
+  },
+  "TCL": {
+    "title": "次世代のTV技術「SQD-Mini LED」とは？",
+    "summary": "TCLが発表した「SQD-Mini LED」技術を搭載した2026年モデルのTVが注目を集めています。従来のMini LEDをさらに進化させ、画質と精細度を劇的に向上させる新技術として、今後のディスプレイ市場のスタンダードになると期待されています。",
+    "insight": "SQD（Self-Quantized Display）技術は、量子ドットの配置と制御を最適化し、色の純度と輝度を両立させる高度な光学設計が肝です。ハードウェアエンジニアの視点では、バックライトのローカルディミング制御ロジックとパネルの物理層がいかに統合されているか、その制御アルゴリズムの進化に注目すべきです。",
+    "sourceUrl": "https://www.pocket-lint.com/tcl-x11l-is-superior-to-micro-rgb-led/",
+    "sourceName": "Pocket-lint",
+    "originalImageUrl": "https://static0.pocketlintimages.com/wordpress/wp-content/uploads/wm/2026/04/tcl-x11l-sqd-mini-led-blue-dragon-tapestry.jpg?w=1600&h=900&fit=crop",
+    "originalImageArticleUrl": "https://www.pocket-lint.com/tcl-x11l-is-superior-to-micro-rgb-led/",
+    "displayDate": "2026-04-20"
+  },
+  "Production Monitor": {
+    "title": "映像編集の常識が変わる？「Night Shift」機能",
+    "summary": "NAB 2026で発表されたEddie AIの「Night Shift」が注目されています。これは、撮影された膨大な素材をAIが夜間に自動処理し、翌朝には rough cut（ラフカット）を完成させるという画期的なワークフローです。編集者の創造性を損なわず、単調な作業時間を劇的に短縮するツールとして期待されています。",
+    "insight": "AIが編集の「作業（ドラッグ＆ドロップやカット）」を担い、人間が「演出（意思決定）」に集中する分業化が加速しています。エンジニアとしては、こうしたパイプライン自動化のためのAPI連携や、大規模なRAW素材をリアルタイムに処理するためのエッジ/クラウドコンピューティングの最適化が今後の鍵となります。",
+    "sourceUrl": "https://www.cined.com/eddie-ai-at-nab-2026-hands-on-demo-and-the-night-shift-mode/",
+    "sourceName": "CineD",
+    "originalImageUrl": "https://www.cined.com/content/uploads/2026/04/Eddie-AI-featured-300x169.jpg",
+    "originalImageArticleUrl": "https://www.cined.com/eddie-ai-at-nab-2026-hands-on-demo-and-the-night-shift-mode/",
+    "displayDate": "2026-04-20"
+  },
+  "LED Wall Display": {
+    "title": "デジタルサイネージの次なる焦点：画面サイズよりUXが重要に",
+    "summary": "デジタルサイネージの進化において、ハードウェアの画質やサイズ競争から、ユーザー体験（UX）重視のフェーズへ移行していると専門家が指摘しています。実社会の環境下で、いかに明確で関連性の高い情報を提供できるかが、今後のネットワーク構築における最大の課題となっています。",
+    "insight": "エンジニアとしては、ディスプレイの輝度や解像度だけでなく、リアルタイムで変化する環境データに基づいたコンテンツ配信ロジックの設計が鍵となります。UI/UXを損なわないレイテンシの極小化と、文脈を理解したデータ配信基盤の開発に注力すべきです。",
+    "sourceUrl": "https://www.digitalsignagetoday.com/blogs/common-ux-problems-with-digital-signage/",
+    "sourceName": "Digital Signage Today",
+    "originalImageUrl": "https://nmgprod.s3.amazonaws.com/media/file/39/85/f48e8e15802d2f7ff1feef2ab202/cover_image__5xOkYxHG__AdobeStock_1912333446.jpeg.360x190_q85_crop_upscale.jpg",
+    "originalImageArticleUrl": "https://www.digitalsignagetoday.com/blogs/common-ux-problems-with-digital-signage/",
+    "displayDate": "2026-04-20"
+  },
+  "Camera Control": {
+    "title": "中国メーカー初のAFズームレンズ「Thypoch Voyager」が登場",
+    "summary": "NAB 2026にて、中国メーカーThypochが初のAF対応フルサイズズームレンズ「Voyager 24-50mm F2.8」を発表しました。マニュアルフォーカスレンズで知られる同社が、AFズームという高難度な光学製品に参入し、大手メーカーに匹敵する製品開発力を示しました。",
+    "insight": "光学設計の精密さと高速・高精度なAF制御の統合は、ハードウェアエンジニアリングの極致です。これまでMFに強みを持っていたメーカーがAF領域へ進出することは、モータ制御やファームウェアの実装において、市場の競争環境を大きく変えるきっかけとなります。",
+    "sourceUrl": "https://www.dpreview.com/news/8832236897/thypoch-voyager-24-50mm-f2p8-announcement",
+    "sourceName": "Digital Photography Review",
+    "originalImageUrl": "https://2.img-dpreview.com/files/p/E~C427x0S3413x2560T1200x900~articles/8832236897/thypoch_24-50mm_f2p8_front_element.jpeg",
+    "originalImageArticleUrl": "https://www.dpreview.com/news/8832236897/thypoch-voyager-24-50mm-f2p8-announcement",
+    "displayDate": "2026-04-20"
+  },
+  "TV": {
+    "title": "台湾のテレビ局が京都の遺体発見でデマ報道",
+    "summary": "台湾のメディアが京都で発見された遺体に関する誤った情報を報道し、物議を醸しています。SNSでの拡散が早い現代において、メディアリテラシーと正確な情報源の検証の重要性が改めて問われる事態となりました。",
+    "insight": "AI時代の情報流通において、フェイクニュースの拡散速度は極めて速いため、エンジニアとしては情報の検証（ファクトチェック）のアルゴリズムや、不正確なデータが引き起こす社会的なリスクを考慮したシステム設計が求められます。特に誤情報の自動生成や自動拡散を防止する技術的な対策の重要性が高まっています。",
+    "sourceUrl": "https://news.yahoo.co.jp/pickup/6576660",
+    "sourceName": "Yahoo!ニュース",
+    "originalImageUrl": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/4/17/596896f25b4b768d0eb2b8f832b654dea0d6ced9ccd25a5cfa1fc1a62bde4c6b.jpg",
+    "originalImageArticleUrl": "https://news.yahoo.co.jp/pickup/6576660",
+    "displayDate": "2026-04-20"
+  }
+}
