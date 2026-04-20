@@ -1,0 +1,102 @@
+{
+  "AI": {
+    "title": "AdobeがAIエージェントを発表、業務自動化の波",
+    "summary": "Adobeがビジネス向けAIエージェントを発表しました。AIによる業務 disruption（破壊的変化）が叫ばれる中、同社は単なる生成AIから、実務を自律的に遂行するエージェント型サービスへの転換を加速させています。",
+    "insight": "LLMベースのチャットインターフェースから、APIを操作してタスクを完遂する『AIエージェント』への移行は、エンジニアにとって最も注視すべきアーキテクチャの変化です。今後はAIを『作る』だけでなく、既存のシステムと連携させて『エージェント化』するためのオーケストレーション技術が重要になります。",
+    "sourceUrl": "https://www.wsj.com/cio-journal/adobe-unveils-agents-for-businesses-amid-threat-of-ai-disruption-d3cf479c",
+    "sourceName": "WSJ",
+    "originalImageUrl": null,
+    "originalImageArticleUrl": "https://www.wsj.com/cio-journal/adobe-unveils-agents-for-businesses-amid-threat-of-ai-disruption-d3cf479c",
+    "displayDate": "2026-04-21"
+  },
+  "SRD / XR": {
+    "title": "鯖江発ARグラス発売、日常使いと投影の両立",
+    "summary": "福井県鯖江市から、文字や地図の投影機能を持つARグラスが登場。これまでのARデバイスとは異なり、「日常使い」をコンセプトにした一般向けモデルとして国内初の試みとなります。",
+    "insight": "眼鏡産地である鯖江の技術が、ARグラスの課題である「軽量・長時間装着」の壁を突破する鍵になる可能性があります。ハードウェアのUX向上は、エンタメだけでなく業務効率化ツールとしての社会実装を加速させる重要な指標です。",
+    "sourceUrl": "https://www.chunichi.co.jp/article/1240364?rct=",
+    "sourceName": "中日新聞Web",
+    "originalImageUrl": "https://static.chunichi.co.jp/image/article/size1/0/a/8/f/0a8f76441b16c3eb2823414dfc55273f_1.jpg",
+    "originalImageArticleUrl": "https://www.chunichi.co.jp/article/1240364?rct=",
+    "displayDate": "2026-04-21"
+  },
+  "TCL": {
+    "title": "TCLがPCモニター市場に参入、QD-Mini LEDを展開",
+    "summary": "TCLがテレビ市場で培ったQD-Mini LED技術をPCモニター分野に拡大。高輝度と広色域の両立を目指す新たなディスプレイ展開を強化しており、デスクトップ環境におけるハイエンド映像体験の提供を加速させています。",
+    "insight": "Mini LED技術がテレビからデスクトップモニターへ浸透することで、色精度とコントラスト比が重要な開発・クリエイティブ領域での選択肢が広がります。特にバックライト制御の最適化が課題となる高輝度パネル設計において、TCLの量産体制がPC周辺機器の価格性能比をどう変えるか注目です。",
+    "sourceUrl": "https://unbox.ph/news/tcl-qd-mini-led-monitors/amp/",
+    "sourceName": "Unbox PH",
+    "originalImageUrl": "https://unbox.ph/wp-content/uploads/2026/04/TCL-Brings-Its-Signature-Innovation-to-Your-Desktop-in-Partnership-with-Circuit-Base_1.jpeg",
+    "originalImageArticleUrl": "https://unbox.ph/news/tcl-qd-mini-led-monitors/amp/",
+    "displayDate": "2026-04-21"
+  },
+  "SONY": {
+    "title": "Sonyの次世代Xperia 1 VIII：カメラデザイン刷新の噂",
+    "summary": "次期フラッグシップモデル「Xperia 1 VIII」のレンダリング画像がリークされました。従来のデザインを大きく変更したスクエア型のカメラモジュールや、目を引く鮮やかなレッドのカラーバリエーションが確認されており、ソニーのモバイル製品戦略においてデザインの大きな転換点となる可能性があります。",
+    "insight": "コンシューマー向けデバイスにおいて、カメラバンプのデザイン変更はハードウェアの内部レイアウトやセンサー構成の刷新を示唆している可能性が高いです。特にXperiaシリーズのような静止画・動画性能を重視する製品では、冷却機構や信号処理回路の最適化がデザインの制約にどう反映されているかを分析することで、次世代デバイスの性能トレンドを予測できます。",
+    "sourceUrl": "https://www.mixvale.com.br/2026/04/20/%E3%83%AA%E3%83%BC%E3%82%AF%E3%81%AB%E3%81%AF%E6%AD%A3%E6%96%B9%E5%BD%A2%E3%81%AE%E3%82%AB%E3%83%A1%E3%83%A9%E3%83%A2%E3%82%B8%E3%83%A5%E3%83%BC%E3%83%AB%E3%81%A8%E8%B5%A4%E3%81%84%E3%82%AA%E3%83%97-j/",
+    "sourceName": "Mix Vale",
+    "originalImageUrl": null,
+    "originalImageArticleUrl": "https://www.mixvale.com.br/2026/04/20/%E3%83%AA%E3%83%BC%E3%82%AF%E3%81%AB%E3%81%AF%E6%AD%A3%E6%96%B9%E5%BD%A2%E3%81%AE%E3%82%AB%E3%83%A1%E3%83%A9%E3%83%A2%E3%82%B8%E3%83%A5%E3%83%BC%E3%83%AB%E3%81%A8%E8%B5%A4%E3%81%84%E3%82%AA%E3%83%97-j/",
+    "displayDate": "2026-04-21"
+  },
+  "Production Monitor": {
+    "title": "スマホが映画機材へ：iPhone用PL/Eマウントアダプター",
+    "summary": "NAB 2026にて、TiltaがiPhoneでPLレンズやEマウントレンズの使用を可能にする光学アダプター「Khronos Cine」を発表。Alexa Mini LF並みのカバー率を実現し、プロ仕様の光学系をモバイル環境に統合する注目のシステムです。",
+    "insight": "物理的な光学アダプターを用いてモバイルデバイスの撮影能力を拡張するアプローチは、小規模な制作環境における機材の境界を曖昧にします。センサーとレンズ間の光学設計や互換性技術は、ハードウェアエンジニアリングとしても非常に興味深い進化と言えます。",
+    "sourceUrl": "https://www.cined.com/tilta-khronos-cine-optical-lens-adapter-introduced-brings-pl-and-e-mount-lenses-to-your-iphone/",
+    "sourceName": "CineD",
+    "originalImageUrl": "https://www.cined.com/content/uploads/2026/04/Tilta_Khronos-Cine-300x169.jpg",
+    "originalImageArticleUrl": "https://www.cined.com/tilta-khronos-cine-optical-lens-adapter-introduced-brings-pl-and-e-mount-lenses-to-your-iphone/",
+    "displayDate": "2026-04-21"
+  },
+  "Gaming Monitor": {
+    "title": "MSI、第4世代パネル採用の31.5型4K/240Hz QD-OLEDモニターを発売",
+    "summary": "MSIは、サムスン製の第4世代QD-OLEDパネルを採用した31.5インチのゲーミングモニター2機種を新たに発表しました。4K解像度と240Hzのリフレッシュレートを両立し、最新の映像表現と高速応答を求めるハイエンドユーザー向けとなっています。",
+    "insight": "QD-OLEDの進化により、高解像度かつ高リフレッシュレートでの表示が現実的となり、モニターの性能向上が続いています。開発現場においては、こうした広色域・高コントラストなデバイス環境を想定したコンテンツ制作やUI設計の重要性が増していると言えるでしょう。",
+    "sourceUrl": "https://www.tweaktown.com/news/111147/msi-launches-two-new-qd-oled-4k-240hz-31-5-inch-gaming-monitors-with-4th-gen-samsung-panels/index.html",
+    "sourceName": "TweakTown",
+    "originalImageUrl": "https://static.tweaktown.com/news/1/1/111147_20260420124700_msi-launches-two-new-qd-oled-31-5-inch-gaming-monitors_full.jpg",
+    "originalImageArticleUrl": "https://www.tweaktown.com/news/111147/msi-launches-two-new-qd-oled-4k-240hz-31-5-inch-gaming-monitors-with-4th-gen-samsung-panels/index.html",
+    "displayDate": "2026-04-21"
+  },
+  "Projector": {
+    "title": "Optomaの新プロジェクターが提示する究極のホームシアター体験",
+    "summary": "Optomaから発表された最新プロジェクターは、4K解像度、Dolby Vision、IMAX Enhancedに対応し、最大300インチの投影が可能です。あらゆるハイエンド機能を一台に集約し、家庭での視聴環境を映画館レベルへ引き上げる意欲的なモデルです。",
+    "insight": "プロジェクターにおけるHDRや高精細映像技術の統合は、民生機の性能境界を押し広げています。信号処理の高度化と広大な投影面積の両立は、映像エンジニアにとっても注目すべきトレンドです。",
+    "sourceUrl": "https://hometheaterreview.com/this-new-optoma-projector-tries-to-do-everything-4k-dolby-vision-imax-and-300-inches/",
+    "sourceName": "HomeTheaterReview",
+    "originalImageUrl": "https://hometheaterreview.com/wp-admin/admin-ajax.php?action=rank_math_overlay_thumb&id=487447&type=htr-logo&hash=32fad40e0eec30bea3ad5bb88c61d9c3",
+    "originalImageArticleUrl": "https://hometheaterreview.com/this-new-optoma-projector-tries-to-do-everything-4k-dolby-vision-imax-and-300-inches/",
+    "displayDate": "2026-04-21"
+  },
+  "TV": {
+    "title": "LG・Samsungの4K OLED TVが大幅割引中",
+    "summary": "現在、LGとSamsungの人気4K OLEDテレビが大幅な価格引き下げを実施しており、市場価格が月間最安値に達しています。Amazon等では最大36%オフや500ドル引きのセールも報告されており、プレミアムディスプレイの導入を検討するには好機となっています。",
+    "insight": "OLEDパネルの低価格化は、高精細な開発環境を整えたいエンジニアにとって追い風です。UI設計やビジュアル開発において、正確な色再現性と高コントラストな検証環境を手頃な価格で構築できるチャンスといえます。",
+    "sourceUrl": "https://www.ign.com/articles/best-lg-samsung-4k-oled-tv-deals-april-2026",
+    "sourceName": "IGN",
+    "originalImageUrl": "https://assets-prd.ignimgs.com/2026/04/17/lgc5oled2-1776467503629.jpg?width=1280&format=jpg&auto=webp&quality=80",
+    "originalImageArticleUrl": "https://www.ign.com/articles/best-lg-samsung-4k-oled-tv-deals-april-2026",
+    "displayDate": "2026-04-21"
+  },
+  "Camera Control": {
+    "title": "Apple次期CEO、ハードウェアのスペシャリストTernus氏に決定",
+    "summary": "AppleのTim Cook氏がCEO退任を発表し、後任に現ハードウェアエンジニアリング担当SVPのJohn Ternus氏が就任します。カメラ産業としても世界最大級の影響力を持つAppleにおいて、ハードウェアの知見を持つリーダーへの交代が今後のiPhoneカメラ開発や製品戦略にどう影響するかが注目されています。",
+    "insight": "CEOのバックグラウンドが運営・物流からハードウェアエンジニアリングへ移行することで、将来的にカメラモジュールのスタック技術やセンサーの最適化においてより技術志向の製品開発が加速する可能性があります。エンジニアとしては、次期リーダーが率いるハードウェアエコシステムの今後のイノベーションを注視しておくべきでしょう。",
+    "sourceUrl": "https://www.dpreview.com/news/6793942138/apple-ceo-transition-announced-tim-cook",
+    "sourceName": "Digital Photography Review",
+    "originalImageUrl": "https://4.img-dpreview.com/files/p/E~C117x0S1761x1321T1200x900~articles/6793942138/tim_cook_waving_with_apple_logo_in_background.png",
+    "originalImageArticleUrl": "https://www.dpreview.com/news/6793942138/apple-ceo-transition-announced-tim-cook",
+    "displayDate": "2026-04-21"
+  },
+  "LED Wall Display": {
+    "title": "大学eスポーツ施設におけるLEDウォールの活用",
+    "summary": "カリフォルニア大学サンディエゴ校（UCSD）が、キャンパス内のeスポーツ施設にDaktronics製の大型LEDウォールを導入しました。高精細な映像体験により競技環境を強化し、学生のエンゲージメント向上と施設運営の効率化を両立させています。",
+    "insight": "eスポーツ施設において、LEDディスプレイは単なる表示装置ではなく、プレイヤーの没入感と観客の体験を決定づけるコアインフラです。エンジニアの観点では、高リフレッシュレートと低遅延、さらにシステム全体の信頼性が、ゲーミング体験の質を左右する重要な指標となります。",
+    "sourceUrl": "https://www.avinteractive.com/territories-news/us-canada/daktronics-led-wall-raises-game-for-uc-san-diego-esports-20-04-2026/",
+    "sourceName": "avinteractive.com",
+    "originalImageUrl": "https://d3hjf51r9j54j7.cloudfront.net/wp-content/uploads/sites/9/2026/04/imageUSE.webp",
+    "originalImageArticleUrl": "https://www.avinteractive.com/territories-news/us-canada/daktronics-led-wall-raises-game-for-uc-san-diego-esports-20-04-2026/",
+    "displayDate": "2026-04-21"
+  }
+}
