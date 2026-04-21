@@ -1,0 +1,102 @@
+{
+  "SRD / XR": {
+    "title": "東京都が公式始動、「AI都知事ユリコ」の可能性",
+    "summary": "東京都が小池都知事の姿と声を再現したAIアバター「AI都知事ユリコ」を公開しました。都政情報を知事本人の声でタイムリーに届けるサービス「Yuriko’s Voice」の一環で、行政情報の伝達効率化を目指す新たな取り組みです。",
+    "insight": "AIアバターによる行政情報の提供は、情報のアクセシビリティ向上とブランディングの両面で強力なユースケースになり得ます。エンジニアの視点では、LLMを活用した対話型UIや動画生成AIのリアルタイム合成技術の精度向上が、こうした公的サービスの実装を加速させている点に注目です。",
+    "sourceUrl": "https://www.moguravr.com/koike-ai/",
+    "sourceName": "Mogura VR",
+    "originalImageUrl": "https://assets.moguravr.com/uploads/2026/04/edd072a99aed0b59a3ea4478a32edd24-kix.5noq7ft0tsxc-169x300.webp",
+    "originalImageArticleUrl": "https://www.moguravr.com/koike-ai/",
+    "displayDate": "2026-04-22"
+  },
+  "AI": {
+    "title": "弥生が「AI駆動開発」で開発工数を5割削減",
+    "summary": "弥生が実施したAI駆動開発の実践事例が話題です。AI活用によって開発工数を50%削減することに成功しており、その具体的な導入プロセスや効果的な活用術がCTOによって語られました。単なる導入に留まらず、開発文化としてAIを組み込む重要性が浮き彫りになっています。",
+    "insight": "開発効率を劇的に高めるためには、ツール導入だけでなく開発プロセス自体の再設計が不可欠です。本事例は、AIを「補助ツール」から「ワークフローの標準」へ昇華させる組織的な取り組みの重要性を示唆しています。",
+    "sourceUrl": "https://www.sbbit.jp/article/cont1/184416",
+    "sourceName": "ビジネス+IT",
+    "originalImageUrl": "https://www.sbbit.jp/article/image/184416/OGP_bit202604141641498348.jpg",
+    "originalImageArticleUrl": "https://www.sbbit.jp/article/cont1/184416",
+    "displayDate": "2026-04-22"
+  },
+  "Gaming Monitor": {
+    "title": "Alienwareが最安の27型QHD 240Hz OLEDモニターを発売",
+    "summary": "Alienwareが、27インチのQHD解像度、リフレッシュレート240Hzに対応したゲーミングモニターを、過去最安級の価格設定で市場投入しました。ハイエンドなOLED体験がより身近になり、ゲーミング環境のアップグレードを検討するユーザーにとって有力な選択肢となっています。",
+    "insight": "OLEDモニターの価格競争が激化しており、QHD/240Hzクラスのスペックが普及価格帯に降りてきている点は注目です。エンジニアの作業環境においても、高リフレッシュレートかつ高コントラストなパネルが一般的になることで、視認性や長時間の作業負荷軽減という観点でディスプレイ選定の基準が底上げされそうです。",
+    "sourceUrl": "https://www.ign.com/articles/alienware-aw2726dm-oled-gaming-monitor-deal-new-release",
+    "sourceName": "IGN",
+    "originalImageUrl": "https://assets-prd.ignimgs.com/2026/04/21/alienwareaw2726dm-1776797506459.jpg?width=1280&format=jpg&auto=webp&quality=80",
+    "originalImageArticleUrl": "https://www.ign.com/articles/alienware-aw2726dm-oled-gaming-monitor-deal-new-release",
+    "displayDate": "2026-04-22"
+  },
+  "SONY": {
+    "title": "次期Xperia 1 VIII、正方形カメラモジュール搭載か",
+    "summary": "次期フラッグシップスマートフォン「Xperia 1 VIII」のリーク情報が報じられました。レンダリング画像によると、従来の縦型デザインから一新され、背面には正方形のカメラモジュールが採用される模様です。また、特徴的な赤色のカラーバリエーションの存在も示唆されており、デザインの大幅な見直しに注目が集まっています。",
+    "insight": "モバイルデバイスにおけるカメラユニットの配置変更は、単なる外観の変化だけでなく、内部のセンサーレイアウトやスタッキング技術の変化を意味する可能性があります。特にモバイル向けイメージングの設計において、限られた筐体スペースでどのように光学性能を維持・向上させるのか、ハードウェアエンジニアの視点からは内部構造の最適化プロセスが興味深い点です。",
+    "sourceUrl": "https://www.igeekphone.com/rendering-images-of-the-red-version-of-sony-xperia-1-viii-smartphone-have-been-released-featuring-a-square-camera-island-design/",
+    "sourceName": "igeekphone.com",
+    "originalImageUrl": "https://www.igeekphone.com/wp-content/uploads/2026/04/b3918a91-49a6-4fe9-8b34-60065c3.jpg",
+    "originalImageArticleUrl": "https://www.igeekphone.com/rendering-images-of-the-red-version-of-sony-xperia-1-viii-smartphone-have-been-released-featuring-a-square-camera-island-design/",
+    "displayDate": "2026-04-22"
+  },
+  "TCL": {
+    "title": "TCLが2026年グローバル戦略を発表",
+    "summary": "TCLは「2026 Global Partners Conference」を開催し、今後の製品ロードマップとイノベーション戦略を公開しました。強固な成長を背景に、ディスプレイ技術のさらなる進化とグローバル市場でのシェア拡大を目指す方針が示されました。",
+    "insight": "家電メーカーの戦略的ロードマップは、採用されるディスプレイ技術やエコシステムの方向性を読み解く重要な指標となります。特にMini-LEDや次世代パネル技術の動向は、今後数年のハードウェア開発やデバイス展開のトレンドを左右するため注目が必要です。",
+    "sourceUrl": "https://www.thailand-business-news.com/pr-news/tcl-industries-hosts-2026-global-partners-conference-unveiling-its-latest-roadmap-and-innovation-strategy-amid-strong-growth",
+    "sourceName": "Thailand Business News",
+    "originalImageUrl": "https://i3.wp.com/mma.prnasia.com/media2/2961969/TCL_GPC_2026.jpg?p=medium600&ssl=1",
+    "originalImageArticleUrl": "https://www.thailand-business-news.com/pr-news/tcl-industries-hosts-2026-global-partners-conference-unveiling-its-latest-roadmap-and-innovation-strategy-amid-strong-growth",
+    "displayDate": "2026-04-22"
+  },
+  "TV": {
+    "title": "LG「W6」発表：世界最薄のワイヤレスOLEDテレビ",
+    "summary": "LGが世界最薄の「OLED evo W6 Wallpaper TV」の価格と発売詳細を発表しました。真のワイヤレス接続を実現したこの超薄型モデルは、家電としての新しい設置体験を提案しています。価格は5,500ドルからの展開となります。",
+    "insight": "ハードウェアの極限の薄型化に伴う排熱設計や、ワイヤレス伝送における低遅延・高帯域通信技術の進化がエンジニアリングの鍵です。筐体と接続部を分離する構造により、物理制約をソフトウェアと無線アーキテクチャで解決するトレンドが顕著になっています。",
+    "sourceUrl": "https://www.prnewswire.com/news-releases/lg-announces-pricing-and-availability-for-lg-oled-evo-w6-wallpaper-tv-the-worlds-thinnest-true-wireless-oled-tv-302748205.html",
+    "sourceName": "PR Newswire",
+    "originalImageUrl": "https://mma.prnewswire.com/media/2961128/OLED_W6_2026_Lifestyle_Image_cut_03__1.jpg?p=facebook",
+    "originalImageArticleUrl": "https://www.prnewswire.com/news-releases/lg-announces-pricing-and-availability-for-lg-oled-evo-w6-wallpaper-tv-the-worlds-thinnest-true-wireless-oled-tv-302748205.html",
+    "displayDate": "2026-04-22"
+  },
+  "Production Monitor": {
+    "title": "DaVinci Resolve 21が写真編集に本格参入",
+    "summary": "NAB 2026で発表されたDaVinci Resolve 21のベータ版では、新たに「Photoページ」が追加されました。カラーグレーディングの業界標準ツールが静止画編集に拡張され、ハリウッド品質の高度な色補正機能を写真ワークフローでも利用可能になります。さらにAIによる新ツールも実装され、映像と写真の境界がより曖昧になっています。",
+    "insight": "映像制作のプロフェッショナル向けソフトが、静止画領域を統合するトレンドは、マルチメディア処理の抽象化が進んでいることを示唆しています。エンジニアとしては、特定のフォーマットやメディアに依存しない汎用的な画像・映像処理パイプラインを設計する際のヒントになりそうです。",
+    "sourceUrl": "https://www.newsshooter.com/2026/04/21/blackmagic-design-davinci-resolve-21-photo-page-preview-nab-2026/?utm_source=rss&utm_medium=rss&utm_campaign=blackmagic-design-davinci-resolve-21-photo-page-preview-nab-2026",
+    "sourceName": "Newsshooter",
+    "originalImageUrl": "https://www.newsshooter.com/wp-content/uploads/2026/04/Blackmagic-Design-DaVinci-Resolve-21-Beta.jpeg",
+    "originalImageArticleUrl": "https://www.newsshooter.com/2026/04/21/blackmagic-design-davinci-resolve-21-photo-page-preview-nab-2026/?utm_source=rss&utm_medium=rss&utm_campaign=blackmagic-design-davinci-resolve-21-photo-page-preview-nab-2026",
+    "displayDate": "2026-04-22"
+  },
+  "Projector": {
+    "title": "メタサーフェス技術「メタレンズ」搭載プロジェクターが日本初上陸",
+    "summary": "光学素子の常識を覆す次世代技術「メタレンズ」を搭載した、超小型プロジェクターが日本に初上陸しました。従来のレンズに代わり、ナノ構造で光を制御することで、劇的な小型化と性能向上を実現した革新的なモデルです。",
+    "insight": "メタレンズはフラットで超薄型の光学素子を実現する技術であり、従来の曲面レンズの製造・設計上の制約を打破するものです。精密なナノ加工プロセスが製品化レベルに達したことで、今後プロジェクターのみならずモバイルデバイスのカメラやセンサーの設計思想を大きく変える可能性があります。",
+    "sourceUrl": "https://news.nicovideo.jp/watch/nw19195891?news_ref=watch_60_nw19147468",
+    "sourceName": "ニコニコニュース",
+    "originalImageUrl": null,
+    "originalImageArticleUrl": "https://news.nicovideo.jp/watch/nw19195891?news_ref=watch_60_nw19147468",
+    "displayDate": "2026-04-22"
+  },
+  "LED Wall Display": {
+    "title": "AV設計を自動化するAIツール「Pleneo Planner」",
+    "summary": "AVIXAの基準に基づき、会議室の寸法を入力するだけでマイク、カメラ、スピーカー、ディスプレイ等の最適な配置を数分で自動生成するオンラインツール「Pleneo Planner」が登場しました。設計工数を大幅に削減し、標準化を支援します。",
+    "insight": "AVシステム設計におけるAIの活用は、手作業での配置検討から自動生成へとパラダイムシフトしています。この種の自動設計ツールは、シミュレーションと実装のギャップを埋めるためのエンジニアの判断支援において重要な役割を果たすでしょう。",
+    "sourceUrl": "https://ravepubs.com/pleneo-introduces-pleneo-planner-intelligent-room-design-in-minutes/",
+    "sourceName": "rAVe [PUBS]",
+    "originalImageUrl": "https://ravepubs.com/wp-content/uploads/2026/04/Pleneo-Planner-Launch-PR-thumbnail-scaled-1-800x640.webp",
+    "originalImageArticleUrl": "https://ravepubs.com/pleneo-introduces-pleneo-planner-intelligent-room-design-in-minutes/",
+    "displayDate": "2026-04-22"
+  },
+  "Camera Control": {
+    "title": "OpenAI「ChatGPT Images 2.0」発表：視覚ワークフローが進化",
+    "summary": "OpenAIが画像生成モデル「ChatGPT Images 2.0」を発表しました。単なる生成ツールから、より複雑な実世界のタスクを処理し、高い精度と柔軟性、制御性を備えた完全なビジュアルワークフロープラットフォームへと進化を目指します。",
+    "insight": "AIモデルが生成するだけでなく、具体的な「制御」を伴う実務ツールへと移行している点が注目です。エンジニアとしては、API経由でのシステム統合において、AIが生成したビジュアルデータを後続のワークフローでどう自動制御・管理するかという設計思想が重要になります。",
+    "sourceUrl": "https://petapixel.com/2026/04/21/openai-claims-chatgpt-images-2-0-can-think/",
+    "sourceName": "PetaPixel",
+    "originalImageUrl": "https://petapixel.com/assets/uploads/2026/04/ChatGPT-New-Image-Gen-News-Cover.jpg",
+    "originalImageArticleUrl": "https://petapixel.com/2026/04/21/openai-claims-chatgpt-images-2-0-can-think/",
+    "displayDate": "2026-04-22"
+  }
+}
