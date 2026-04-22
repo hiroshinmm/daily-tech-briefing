@@ -1,0 +1,102 @@
+{
+  "AI": {
+    "title": "Google AI Studioの新機能でアプリ開発が爆速化",
+    "summary": "Google AI Studioの最新アップデートにより、プロンプトからアプリケーションを即座に生成する機能が強化されました。エンジニアがアイデアを素早く検証・実装するための強力な支援ツールとして注目されています。",
+    "insight": "LLMを利用したアプリのプロトタイピングが、もはやUI構築すら不要なフェーズに突入しています。エンジニアは実装コストを下げることで、複雑なロジックやユーザー価値の設計により多くの時間を割くべきです。",
+    "sourceUrl": "https://news.yahoo.co.jp/articles/e11bd711fc66c21c4e391eaef0b27e732f5c9b75",
+    "sourceName": "Yahoo!ニュース",
+    "originalImageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260423-00184269-biz_plus-000-1-view.jpg?exp=10800",
+    "originalImageArticleUrl": "https://news.yahoo.co.jp/articles/e11bd711fc66c21c4e391eaef0b27e732f5c9b75",
+    "displayDate": "2026-04-23"
+  },
+  "SRD / XR": {
+    "title": "Brave groupが80億円調達：VTuber×メタバースの現在地",
+    "summary": "VTuber事業を展開するBrave groupがシリーズEで80億円超を調達。累計調達額は約140億円に達し、グリーグループが筆頭株主となりました。バーチャル経済圏の拡大を象徴する大型調達として注目されています。",
+    "insight": "メタバースおよびライブエンターテインメント領域における日本発企業の資金調達規模が拡大しています。IP活用と空間コンピューティングの融合はエンジニアにとっても重要な成長分野であり、今後のプラットフォーム間連携や技術スタックの標準化に注目すべきです。",
+    "sourceUrl": "https://www.moguravr.com/brave-group-series-e-gree-investment/",
+    "sourceName": "Mogura VR",
+    "originalImageUrl": "https://assets.moguravr.com/uploads/2026/04/99eb7a7c592b998f9d1f2f6e24c897e9-kix.ofk5xy9crf0a-300x158.webp",
+    "originalImageArticleUrl": "https://www.moguravr.com/brave-group-series-e-gree-investment/",
+    "displayDate": "2026-04-23"
+  },
+  "Projector": {
+    "title": "XGIMIの超薄型4Kレーザープロジェクター",
+    "summary": "XGIMIから、4K解像度、レーザー光源、そして光学ズームまで搭載した超薄型プロジェクター「Elfin Flip 4K」が登場。持ち運びやすさと高画質を両立し、ホームシアター環境の選択肢を広げる注目モデルとしてレビューされています。",
+    "insight": "小型プロジェクターでも4Kとレーザー光源が標準的になりつつあり、光学ズームの実装が設置の柔軟性を大きく向上させています。ハードウェアの小型化と光学設計の高度化により、エンジニアリング視点でもモバイル性とパフォーマンスの両立は興味深いトレンドです。",
+    "sourceUrl": "https://makuring.jp/elfin-flip-4k/",
+    "sourceName": "マクリン",
+    "originalImageUrl": "https://makuring.jp/wp-content/uploads/2026/04/image_2026_4_23.jpg",
+    "originalImageArticleUrl": "https://makuring.jp/elfin-flip-4k/",
+    "displayDate": "2026-04-23"
+  },
+  "Gaming Monitor": {
+    "title": "次世代ゲーミングモニターの潮流：QD-OLEDの普及加速",
+    "summary": "AOC AGONが最新のQD-OLEDモニター「PRO AG326UZD2」を発表しました。同時に、LG UltraGearやASUS ROG StrixのOLEDモデルで大型セールが実施されており、高性能な有機ELディスプレイがゲーミング環境の標準になりつつあります。",
+    "insight": "QD-OLED技術の採用により、従来液晶と比較して圧倒的な応答速度とコントラスト比が実現されています。エンジニアの作業環境としても、この表示性能の向上は長時間のコーディングにおける視覚疲労軽減やデバッグ時の視認性向上に大きく寄与するでしょう。",
+    "sourceUrl": "https://overclock3d.net/news/gpu-displays/aoc-agon-launch-their-next-gen-pro-ag326uzd2-qd-oled-monitor/",
+    "sourceName": "OC3D",
+    "originalImageUrl": "https://media.overclock3d.net/2026/04/AGON-PRO-AG326UZD2.jpg",
+    "originalImageArticleUrl": "https://overclock3d.net/news/gpu-displays/aoc-agon-launch-their-next-gen-pro-ag326uzd2-qd-oled-monitor/",
+    "displayDate": "2026-04-23"
+  },
+  "TCL": {
+    "title": "TCL CSOTが次世代OLED向け設備投資を加速",
+    "summary": "TCL傘下のディスプレイメーカーであるCSOTが、第8.6世代OLED生産ライン向けに、韓国ICDからドライエッチングシステムを導入する契約を締結しました。投資額は約414億ウォンにのぼり、次世代OLEDパネルの量産体制構築に向けた重要なステップとなります。",
+    "insight": "家電メーカーとして有名なTCLですが、パネル製造子会社CSOTによる大型OLED生産設備への投資は、今後のディスプレイ市場の勢力図を左右する重要な指標です。特に8.6世代のOLED製造技術は、パネル歩留まりとコスト競争力に直結するため、エッチング装置などの製造プロセスの進化はエンジニアとして注視すべき領域です。",
+    "sourceUrl": "https://www.oled-info.com/icd-supply-tcl-csot-dry-etching-systems-its-86-gen-oled-line",
+    "sourceName": "OLED-Info",
+    "originalImageUrl": null,
+    "originalImageArticleUrl": "https://www.oled-info.com/icd-supply-tcl-csot-dry-etching-systems-its-86-gen-oled-line",
+    "displayDate": "2026-04-23"
+  },
+  "SONY": {
+    "title": "ゲーミングヘッドセット「INZONE H6 Air」の空間表現に注目",
+    "summary": "ソニーのゲーミングヘッドセット「INZONE H6 Air」が、同社のモニターヘッドホン技術を継承した背面開放型として注目を集めています。空間表現に優れた設計で、没入感の高いゲーミング体験を提供する製品です。",
+    "insight": "背面開放型（オープンバック）は音場が広く、特に定位感が重要な競技系ゲームにおいて空間認識能力を向上させるため、エンジニア的な視点でもオーディオ設計の妙が光ります。ソフトウェアによる空間オーディオ処理と物理的な音響設計の組み合わせは、ハードウェア最適化の好例と言えます。",
+    "sourceUrl": "https://www.excite.co.jp/news/article/game_watch_1419701968780706739/",
+    "sourceName": "Excite エキサイト",
+    "originalImageUrl": "https://s.eximg.jp/exnews/feed/game_watch/b8/game_watch_1419701968780706739/game_watch_1419701968780706739_1.jpg",
+    "originalImageArticleUrl": "https://www.excite.co.jp/news/article/game_watch_1419701968780706739/",
+    "displayDate": "2026-04-23"
+  },
+  "LED Wall Display": {
+    "title": "AbsenLive、高精細なSaturnシリーズSA1.5を発表",
+    "summary": "AbsenLiveがライブイベント用LEDディスプレイプラットフォーム「Saturnシリーズ」の最新モデル「SA1.5」を発売。1.56mmの微細ピクセルピッチとCOB（Chip on Board）技術を採用し、物理的な堅牢性と画質の安定性を高めたプロ仕様のソリューションです。",
+    "insight": "COB技術の採用は、従来のSMD方式と比較して耐衝撃性やコントラスト比が向上するため、頻繁な設営・撤去が伴うライブイベント環境において非常に合理的です。ピクセルピッチの微細化と堅牢性の両立は、高精細LEDウォールの市場価値を左右する重要なエンジニアリングトレンドと言えます。",
+    "sourceUrl": "https://ravepubs.com/absenlive-launches-the-sa1-5-saturn-series-solution/",
+    "sourceName": "rAVe [PUBS]",
+    "originalImageUrl": "https://ravepubs.com/wp-content/uploads/2026/04/Untitled-design14-800x400.webp",
+    "originalImageArticleUrl": "https://ravepubs.com/absenlive-launches-the-sa1-5-saturn-series-solution/",
+    "displayDate": "2026-04-23"
+  },
+  "TV": {
+    "title": "音楽著作権料の詐取疑惑、元役員逮捕へ",
+    "summary": "テレビ番組用の音楽提供を行う会社の元役員が、JASRACから著作権使用料を不正に詐取した疑いで逮捕されました。業界内の契約や分配システムの脆弱性を突いた手口が注目されています。",
+    "insight": "著作権管理システムにおける「権利者証明」や「分配プロセス」の透明性は、エンジニアが関わる決済・認証プラットフォーム構築においても非常に重要な課題です。ブロックチェーン等の分散型台帳技術による権利関係の可視化が、このような不正を防止する解決策になり得るか議論する良い材料になります。",
+    "sourceUrl": "https://newsdig.tbs.co.jp/articles/-/2618721",
+    "sourceName": "TBS NEWS DIG",
+    "originalImageUrl": "https://newsdig.ismcdn.jp/mwimgs/2/0/1200w/img_20744719745981563017311324d08495298581.jpg",
+    "originalImageArticleUrl": "https://newsdig.tbs.co.jp/articles/-/2618721",
+    "displayDate": "2026-04-23"
+  },
+  "Camera Control": {
+    "title": "NASAの新望遠鏡「Roman」がもたらす3億画素の衝撃",
+    "summary": "NASAの次世代宇宙望遠鏡「Nancy Grace Roman Space Telescope」が完成。ハッブル宇宙望遠鏡の後継として、3億画素の超高解像度センサーを搭載し、宇宙の広範囲を精密にマッピングするミッションが期待されています。計画は予算内で進捗しており、科学的なブレイクスルーが目前です。",
+    "insight": "3億画素という超高解像度データの処理と保存、そして広域サーベイにおける画像処理パイプラインの構築は、エンジニアリングの観点からも非常に興味深い課題です。天文学における大規模データセットのハンドリング手法は、将来的なエッジAIやデータセンターのアーキテクチャ設計にも応用できるヒントが含まれています。",
+    "sourceUrl": "https://petapixel.com/2026/04/22/roman-hubbles-300-megapixel-successor-will-map-the-universe/",
+    "sourceName": "PetaPixel",
+    "originalImageUrl": "https://petapixel.com/assets/uploads/2026/04/roman-preparing-for-sept-launch-featured.jpg",
+    "originalImageArticleUrl": "https://petapixel.com/2026/04/22/roman-hubbles-300-megapixel-successor-will-map-the-universe/",
+    "displayDate": "2026-04-23"
+  },
+  "Production Monitor": {
+    "title": "SMPTE ST 2110とIPストリーミングの架け橋",
+    "summary": "NAB 2026でAJAが発表した「BRIDGE LIVE IP」は、従来の放送規格であるSMPTE ST 2110と現代のインターネットストリーミング環境をシームレスにつなぐゲートウェイです。放送インフラのIP化が進む中で生じている互換性の課題を解決する注目のソリューションです。",
+    "insight": "インフラのIP移行において、既存のプロトコルと現代のワークフローをいかに橋渡しするかがエンジニアリング上の大きな関心事となっています。ST 2110の非圧縮・低遅延特性を保ちつつ、グローバルなストリーミング配信へ変換する技術は、次世代の映像制作エコシステムの鍵となります。",
+    "sourceUrl": "https://www.provideocoalition.com/aja-at-nab-2026-seamlessly-connecting-st-2110-to-global-streaming-with-bridge-live-ip/",
+    "sourceName": "ProVideo Coalition",
+    "originalImageUrl": "https://www.provideocoalition.com/wp-content/uploads/aja2026.jpg",
+    "originalImageArticleUrl": "https://www.provideocoalition.com/aja-at-nab-2026-seamlessly-connecting-st-2110-to-global-streaming-with-bridge-live-ip/",
+    "displayDate": "2026-04-23"
+  }
+}
