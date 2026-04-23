@@ -1,0 +1,102 @@
+{
+  "AI": {
+    "title": "丸紅、AIデータセンターの消費電力を8割削減へ",
+    "summary": "丸紅がスペインのスタートアップと提携し、AIデータセンターの消費電力を最大8割削減する技術の導入を進める。計算処理量を圧縮する新技術により、AI開発の最大のボトルネックである電力問題の解消を目指す。",
+    "insight": "AIモデルの巨大化に伴い電力消費が深刻化する中、モデル圧縮や推論最適化は今後必須のエンジニアリングスキルとなります。ハードウェア側の改善だけでなく、ソフトウェアレベルでの効率化が持続可能なAI開発の鍵を握るでしょう。",
+    "sourceUrl": "https://www.nikkei.com/article/DGXZQOUC140T40U6A410C2000000/",
+    "sourceName": "日本経済新聞",
+    "originalImageUrl": "https://article-image-ix.nikkei.com/https%3A%2F%2Fimgix-proxy.n8s.jp%2FDSXZQO2935376023042026000000-1.jpg?auto=compress&bg=FFFF&crop=focalpoint&fit=crop&fm=jpg&h=630&w=1200&s=7e7f62aa0dade99317347c229e10d60d",
+    "originalImageArticleUrl": "https://www.nikkei.com/article/DGXZQOUC140T40U6A410C2000000/",
+    "displayDate": "2026-04-24"
+  },
+  "Gaming Monitor": {
+    "title": "Dell Alienwareから廉価版QD-OLEDモニターが登場",
+    "summary": "Dellが新たなQD-OLEDゲーミングモニター「Alienware AW2726DM」を発表しました。従来のハイエンド向けというイメージがあるQD-OLEDパネルですが、本モデルはより導入しやすい価格設定を目指しており、高品質なゲーミング体験が一般層にも広がりそうです。",
+    "insight": "量子ドット有機EL（QD-OLED）の低価格化は、開発環境やデバッグ用モニターのリプレイス需要を加速させる可能性があります。高リフレッシュレートと広色域を兼ね備えたデバイスが安価になることで、UI設計やレンダリング確認の基準環境が底上げされるでしょう。",
+    "sourceUrl": "https://tftcentral.co.uk/news/dell-alienware-aw2726dm-announced-offering-a-new-affordable-qd-oled-option",
+    "sourceName": "TFTCentral",
+    "originalImageUrl": "https://tftcentral.co.uk/wp-content/uploads/2026/04/Dell-AW2726DM_feature.jpg",
+    "originalImageArticleUrl": "https://tftcentral.co.uk/news/dell-alienware-aw2726dm-announced-offering-a-new-affordable-qd-oled-option",
+    "displayDate": "2026-04-24"
+  },
+  "TCL": {
+    "title": "SonyのTV事業とTCLの連携が業界に与える影響とは",
+    "summary": "Sonyが自社のテレビ事業における一部業務のコントロールをTCLへ委託する方針を示しました。これは製造やサプライチェーンにおける提携の一環と見られ、市場シェアを拡大するTCLと、リソース最適化を図るSonyの戦略的判断が注目されています。",
+    "insight": "家電メーカー間の製造委託や業務提携は、ハードウェアのコモディティ化が加速する現代において不可欠な戦略です。エンジニアの視点では、ODM/OEMモデルにおける品質管理とソフトウェアプラットフォームの統合が、今後のUX差別化の鍵になると考えられます。",
+    "sourceUrl": "https://www.msn.com/en-us/news/technology/sony-just-handed-control-of-its-tv-business-to-tcl-what-it-actually-means-for-you/ar-AA20NOcG?gemSnapshotKey=GM38765A09-snapshot-1&uxmode=ruby&apiversion=v2&domshim=1&noservercache=1&noservertelemetry=1&batchservertelemetry=1&renderwebcomponents=1&wcseo=1&bundles=feat-es2020-c",
+    "sourceName": "MSN",
+    "originalImageUrl": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA20NXSJ.img?w=1012&h=569&m=4&q=81",
+    "originalImageArticleUrl": "https://www.msn.com/en-us/news/technology/sony-just-handed-control-of-its-tv-business-to-tcl-what-it-actually-means-for-you/ar-AA20NOcG?gemSnapshotKey=GM38765A09-snapshot-1&uxmode=ruby&apiversion=v2&domshim=1&noservercache=1&noservertelemetry=1&batchservertelemetry=1&renderwebcomponents=1&wcseo=1&bundles=feat-es2020-c",
+    "displayDate": "2026-04-24"
+  },
+  "SONY": {
+    "title": "ソニーの卓球ロボット「エース」がプロに勝利",
+    "summary": "ソニーが開発したAI搭載の卓球ロボット「エース」が、プロ卓球選手との対戦でついに初勝利を収めました。高速なサーブや鋭いラリーの応酬にAIが適応し、ロボット工学とAIの融合における画期的な進展として注目されています。",
+    "insight": "リアルタイムの運動制御には高精度な視覚センサーと超低レイテンシの推論エンジンが不可欠であり、今回の勝利はエッジAIの進化を象徴しています。エンジニアとしては、物理挙動の予測モデルや強化学習における報酬関数の設計手法が今後の自動化技術へどう転用できるかという観点で非常に興味深い事例です。",
+    "sourceUrl": "https://www.vietnam.vn/ja/robot-ai-ace-cua-sony-lan-dau-danh-bai-van-dong-vien-bong-ban-chuyen-nghiep",
+    "sourceName": "Vietnam.vn",
+    "originalImageUrl": "https://vstatic.vietnam.vn/vietnam/resource/IMAGE/2026/04/23/1776944021405_anh-thumb-06571425.png",
+    "originalImageArticleUrl": "https://www.vietnam.vn/ja/robot-ai-ace-cua-sony-lan-dau-danh-bai-van-dong-vien-bong-ban-chuyen-nghiep",
+    "displayDate": "2026-04-24"
+  },
+  "Production Monitor": {
+    "title": "NAB 2026の総括：映像業界の現在地",
+    "summary": "NAB 2026のトレンドを総括。AIの現場実装、中国メーカーによる市場圧力、シネマ・放送業界の垣根の消失など、業界の大きな転換点について議論されています。また、ARRIの買収劇やNAB自体の存在意義の変化も注目されています。",
+    "insight": "AI活用やブロードキャストへのIP化（100G）など、ハードウェア主導からソフトウェア・インフラ主導へのシフトが加速しています。エンジニア視点では、従来の専用機材が汎用ハードウェアやクラウド/アプリへ置き換わる「プロダクションのDX」が今後の技術トレンドの中心となるでしょう。",
+    "sourceUrl": "https://www.cined.com/nab-2026-wrap-up-arri-under-riedel-the-cinema-to-broadcast-shift-and-is-nab-at-a-tipping-point-focus-check-ep113/",
+    "sourceName": "CineD",
+    "originalImageUrl": "https://www.cined.com/content/uploads/2026/04/Focus-Check-ep113-featured-300x167.jpg",
+    "originalImageArticleUrl": "https://www.cined.com/nab-2026-wrap-up-arri-under-riedel-the-cinema-to-broadcast-shift-and-is-nab-at-a-tipping-point-focus-check-ep113/",
+    "displayDate": "2026-04-24"
+  },
+  "Projector": {
+    "title": "世界初デュアル絞り搭載！XGIMIの新作4Kプロジェクター",
+    "summary": "XGIMIが新型フラッグシップ4Kプロジェクター「TITAN Noir」シリーズの受注を開始しました。世界初となる「デュアル・インテリジェント・アイリス（絞り）」システムを搭載し、明るさとコントラスト比を最適化。従来の大型テレビを置き換える没入型ホームシアター体験を標榜しており、Kickstarterでのキャンペーンも話題となっています。",
+    "insight": "ハードウェアレベルでの光学絞り制御（Dual Intelligent Iris）によるダイナミックレンジの拡張は、ソフトウェア補正に頼る従来機とは一線を画すアプローチです。プロジェクターの最大の課題である「黒の締まり」を物理機構でどう解決したか、エンジニアリング視点での実装の深堀りが注目されます。",
+    "sourceUrl": "https://www.thailand-business-news.com/pr-news/xgimi-opens-orders-for-titan-noir-series-4k-projectors-featuring-the-worlds-first-dual-intelligent-iris-system",
+    "sourceName": "Thailand Business News",
+    "originalImageUrl": "https://i0.wp.com/mma.prnasia.com/media2/2962878/image1.jpg?p=medium600&ssl=1",
+    "originalImageArticleUrl": "https://www.thailand-business-news.com/pr-news/xgimi-opens-orders-for-titan-noir-series-4k-projectors-featuring-the-worlds-first-dual-intelligent-iris-system",
+    "displayDate": "2026-04-24"
+  },
+  "LED Wall Display": {
+    "title": "歴史的劇場に巨大LEDウォール、DooHの進化",
+    "summary": "ドイツの歴史的劇場「Saarländisches Staatstheater」が、PPDSによる6x2mのPhilips製LEDウォールを導入。デジタル屋外広告（DooH）化により、紙のポスターを廃止し、環境負荷低減と視認性向上を同時に実現しました。",
+    "insight": "建築物へのLED壁面埋め込みは、物理的な看板を完全にデジタルレイヤーに置き換えるUI/UXの拡張と言えます。エンジニア視点では、単なるハード設置だけでなく、コンテンツ配信管理（CMS）や環境光に合わせた輝度自動調整アルゴリズムの統合が運用の鍵となります。",
+    "sourceUrl": "https://ravepubs.com/ppds-delivers-crystal-clear-dooh-advertising-to-historic-theater-with-a-6x2-meter-philips-urban-led-install/",
+    "sourceName": "rAVe [PUBS]",
+    "originalImageUrl": "https://ravepubs.com/wp-content/uploads/2026/04/Saarlandisches-Staatstheater-Front-800x600.webp",
+    "originalImageArticleUrl": "https://ravepubs.com/ppds-delivers-crystal-clear-dooh-advertising-to-historic-theater-with-a-6x2-meter-philips-urban-led-install/",
+    "displayDate": "2026-04-24"
+  },
+  "TV": {
+    "title": "史上最大！83インチQD-OLEDパネルが認証に登場",
+    "summary": "認証リストから、業界初となる83インチのQD-OLED（量子ドット有機EL）ディスプレイパネルの存在が明らかになりました。これまで大型サイズのQD-OLEDは供給が限定的でしたが、今回の発見により、ハイエンド大型テレビ市場における選択肢がさらに広がることが期待されます。",
+    "insight": "ディスプレイ技術の進化により、大型かつ高精細なパネルの歩留まりとコスト構造が改善されていることが伺えます。エンジニアの視点では、大型化に伴う熱設計や輝度均一性（ユニフォミティ）の最適化など、実装フェーズでの新たなハードウェア・チャレンジに注目が集まります。",
+    "sourceUrl": "https://www.flatpanelshd.com/news.php?subaction=showfull&id=1776935244",
+    "sourceName": "FlatpanelsHD",
+    "originalImageUrl": "https://www.flatpanelshd.com/pictures/samsungqdoledblack.jpg",
+    "originalImageArticleUrl": "https://www.flatpanelshd.com/news.php?subaction=showfull&id=1776935244",
+    "displayDate": "2026-04-24"
+  },
+  "SRD / XR": {
+    "title": "千葉大がVRChatにキャンパスを構築。教育現場のDX進む",
+    "summary": "千葉大学がVRChat上に「墨田サテライトキャンパス」と「未来の住まい」を公開。遠隔講義や交流イベントのプラットフォームとして活用し、現実とバーチャルを融合した新しい教育体験の提供を目指す取り組みです。",
+    "insight": "大学が専用アプリではなくVRChatのようなパブリックなソーシャルVRを活用する事例は、開発工数とアクセシビリティのバランスが良い戦略です。エンジニアとしては、VR空間での同時接続数やUXの品質担保、Web・Unity統合といった技術的な知見が今後より重要になります。",
+    "sourceUrl": "https://www.moguravr.com/chiba-university-vrchat-world-2026/",
+    "sourceName": "Mogura VR",
+    "originalImageUrl": "https://assets.moguravr.com/uploads/2018/12/186f0f810b383ab62143bbafc6214d41-kix.2di3evtezx7z-265x300.webp",
+    "originalImageArticleUrl": "https://www.moguravr.com/chiba-university-vrchat-world-2026/",
+    "displayDate": "2026-04-24"
+  },
+  "Camera Control": {
+    "title": "関税還付は消費者に還元されるべきか？カメラ業界の議論",
+    "summary": "米国の関税無効化に伴い、メーカーが受け取る還付金を消費者に還元すべきかという議論が浮上。Canon、Nikon、Sonyなどが関税を理由に値上げを行った経緯があり、透明性が求められています。",
+    "insight": "製品価格決定プロセスにおける外部コストと市場価格の相関性についての好例です。エンジニアの視点では、サプライチェーンのコスト変動がエンドユーザーにどのように反映されるべきか、価格透明性の設計という観点で興味深いトピックです。",
+    "sourceUrl": "https://petapixel.com/2026/04/23/camera-makers-should-share-tariff-refunds-with-customers/",
+    "sourceName": "PetaPixel",
+    "originalImageUrl": "https://petapixel.com/assets/uploads/2026/04/Camera-Makers-Should-Share-Tariff-Refunds-With-Customers.jpg",
+    "originalImageArticleUrl": "https://petapixel.com/2026/04/23/camera-makers-should-share-tariff-refunds-with-customers/",
+    "displayDate": "2026-04-24"
+  }
+}
