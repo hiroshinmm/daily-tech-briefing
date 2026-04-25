@@ -1,0 +1,102 @@
+{
+  "Gaming Monitor": {
+    "title": "名作「VA-11 HALL-A」開発元の最新作が今夏登場へ",
+    "summary": "インディーゲーム番組「INDIE Live Expo 2026.4.25」にて、世界的なヒット作「VA-11 HALL-A」を手がけたSukeban Gamesの最新作「.45 パラベラム ブラッドハウンド」が2026年夏ごろに発売されることが発表された。待望の新作発表に、多くのファンから期待が寄せられている。",
+    "insight": "インディーゲーム開発において、成功したタイトルからのコンセプトの継承やブランド力の活用は、市場での関心を維持する重要な戦略です。特にUI/UXやナラティブデザインの評価が高いスタジオの新作は、その開発手法自体が技術的・設計的なリファレンスとして注目されます。",
+    "sourceUrl": "https://www.4gamer.net/games/815/G081534/20260425023/",
+    "sourceName": "4Gamer.net − 最新記事",
+    "originalImageUrl": "https://www.4gamer.net/games/815/G081534/20260425023/SS/001.jpg",
+    "originalImageArticleUrl": "https://www.4gamer.net/games/815/G081534/20260425023/",
+    "displayDate": "2026-04-26"
+  },
+  "AI": {
+    "title": "プログラマーの未来：AI時代におけるキャリア再考",
+    "summary": "米Anthropicの調査により、AIの進化がプログラミングの現場に大きな影響を与えており、一部では将来的なキャリア変革の必要性が議論されています。AIを活用した開発が標準となる中で、エンジニアがどのような価値を発揮し続けるべきかが問われています。",
+    "insight": "AIコーディング支援が普及する中で、エンジニアは「コードを書く」だけでなく「要件定義からデプロイまでのライフサイクルを設計・統括する」アーキテクチャ思考へのシフトが求められます。単なる実装者から、AIを活用してプロダクトの価値を最大化するプロダクト志向のエンジニアへの進化が生存戦略となります。",
+    "sourceUrl": "https://www.sbbit.jp/article/cont1/185159",
+    "sourceName": "ビジネス+IT",
+    "originalImageUrl": "https://www.sbbit.jp/article/image/185159/OGP_bit202604251634486810.jpg",
+    "originalImageArticleUrl": "https://www.sbbit.jp/article/cont1/185159",
+    "displayDate": "2026-04-26"
+  },
+  "TV": {
+    "title": "新型Fire TV Stick HDが登場、30％高速化でUIも快適に",
+    "summary": "Amazonから新型「Fire TV Stick HD」が登場。従来モデルより動作が30％高速化したほか、給電ポートがUSB-Cに変更され、テレビ裏の配線管理も容易になりました。スマートテレビの動作にストレスを感じているユーザーにとって、手軽で強力なアップグレード選択肢となります。",
+    "insight": "ストリーミングデバイスの進化は、ハードウェアのリソース最適化がUIの体験に直結することを示す好例です。USB-Cへの移行など、レガシー規格の廃止による周辺機器の統合は、エンジニアリングにおけるUX改善の重要なステップです。",
+    "sourceUrl": "https://news.yahoo.co.jp/articles/2a8b0b229f2eb7de18f74d1723785195d0df1d12",
+    "sourceName": "Yahoo!ニュース",
+    "originalImageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260425-00010008-monomax-000-1-view.jpg?exp=10800",
+    "originalImageArticleUrl": "https://news.yahoo.co.jp/articles/2a8b0b229f2eb7de18f74d1723785195d0df1d12",
+    "displayDate": "2026-04-26"
+  },
+  "SRD / XR": {
+    "title": "新潟の遊園地、VR活用による低コスト再起戦略",
+    "summary": "赤字に苦しむ新潟県の遊園地「サントピアワールド」が、VRを活用したアトラクション導入で起死回生を図る事例が注目されています。物理的な大規模改装が困難な中でも、XR技術を導入することで低コストかつ魅力的な体験価値を創出し、運営を継続させる独自の生存戦略が示されています。",
+    "insight": "アミューズメント業界において、ハードウェアの更新を最小限に抑えつつ、VRで拡張体験を提供する手法はDXの一形態として非常に示唆に富んでいます。既存設備へのデジタル重畳による低コストな価値向上は、あらゆるレガシー産業のDXに応用可能なアーキテクチャ設計の好例と言えます。",
+    "sourceUrl": "https://www.nikkei.com/article/DGXZQOCC140C20U6A310C2000000/",
+    "sourceName": "日本経済新聞",
+    "originalImageUrl": "https://article-image-ix.nikkei.com/https%3A%2F%2Fimgix-proxy.n8s.jp%2FDSXZQO2756870015032026000000-1.jpg?auto=compress&bg=FFFF&crop=focalpoint&fit=crop&fm=jpg&fp-x=0.69&fp-y=0.46&h=630&upscale=false&w=1200&s=cfb7f7cf470a903843ea9748d33350ea",
+    "originalImageArticleUrl": "https://www.nikkei.com/article/DGXZQOCC140C20U6A310C2000000/",
+    "displayDate": "2026-04-26"
+  },
+  "TCL": {
+    "title": "SonyのTV事業、TCLへの委託が本格化",
+    "summary": "家電大手SonyがTV事業における一部の製造・開発の制御をTCLに事実上委託しているという動向が注目されています。かつての業界リーダーが製造・設計を外部化し、競争力を維持する戦略へシフトしている背景には、TV市場の劇的な変化とTCLの技術的台頭があります。",
+    "insight": "家電メーカーのビジネスモデルが、自社製造からサプライチェーン管理とソフトウェア体験（UX）へのシフトを加速させています。Mini-LEDやMicro-LEDなど物理的なパネル技術のコモディティ化が進む中で、今後はTCLのような巨大メーカーとのパートナーシップが、ハードウェア品質の底上げとソフトウェアの差別化の要になるでしょう。",
+    "sourceUrl": "https://www.msn.com/en-us/news/technology/sony-just-handed-control-of-its-tv-business-to-tcl-what-it-actually-means-for-you/ar-AA20NOcG?apiversion=v2&domshim=1&noservercache=1&noservertelemetry=1&batchservertelemetry=1&renderwebcomponents=1&wcseo=1&bundles=feat-es2020-c",
+    "sourceName": "MSN",
+    "originalImageUrl": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA20NXSJ.img?w=612&h=344&m=4&q=81",
+    "originalImageArticleUrl": "https://www.msn.com/en-us/news/technology/sony-just-handed-control-of-its-tv-business-to-tcl-what-it-actually-means-for-you/ar-AA20NOcG?apiversion=v2&domshim=1&noservercache=1&noservertelemetry=1&batchservertelemetry=1&renderwebcomponents=1&wcseo=1&bundles=feat-es2020-c",
+    "displayDate": "2026-04-26"
+  },
+  "Projector": {
+    "title": "プロジェクター×フォグで実現する歩き回れる3D空間",
+    "summary": "プロジェクターと霧（フォグ）を組み合わせ、空間に映像を浮かび上がらせて歩き回れる3Dシーンを作り出す技術が注目されています。従来のスクリーン投影とは異なり、立体的かつ没入感のある視覚体験を物理空間に構築するアプローチです。",
+    "insight": "この技術は単なる投影の枠を超え、ボリュームレンダリングや空間コンピューティングの新たな可能性を示唆しています。物理的な霧をメディアとして扱うため、レンダリング精度だけでなく、空気の流れや密度を制御する環境エンジニアリングの視点が重要になるでしょう。",
+    "sourceUrl": "https://www.techeblog.com/diy-custom-multiview-stereo-projection-3d-fog-scenes/",
+    "sourceName": "TechEBlog",
+    "originalImageUrl": "https://images.techeblog.com/wp-content/uploads/2026/04/25002406/diy-custom-multiview-stereo-projection-3d-fog-scenes.jpg",
+    "originalImageArticleUrl": "https://www.techeblog.com/diy-custom-multiview-stereo-projection-3d-fog-scenes/",
+    "displayDate": "2026-04-26"
+  },
+  "Production Monitor": {
+    "title": "iPhone 24台でガウス分布スプラッティング：次世代のバレットタイム撮影",
+    "summary": "NAB 2026にて、Radiant Imagesが24台のiPhoneを用いた次世代バレットタイム撮影技術を披露しました。従来のフレーム補間ではなくGaussian Splattingを活用することで、シーン全体を3D再構築し、仮想カメラによる自由な視点移動やリタイミング、さらには点群レベルでの編集を可能にしています。",
+    "insight": "Gaussian Splattingは、安価なマルチカメラ構成から高品質な3Dシーンを構築できるため、実写と3DCGの境界を曖昧にする強力な技術です。映像制作だけでなく、デジタルツインや高精度な空間表現を必要とするエンジニアリング領域においても、データ効率と品質の観点から非常に注目すべき手法です。",
+    "sourceUrl": "https://www.cined.com/radiant-images-combines-24-iphones-with-gaussian-splatting-for-next-gen-bullet-time/",
+    "sourceName": "CineD",
+    "originalImageUrl": "https://www.cined.com/content/uploads/2026/04/Radiant-Images-300x169.jpg",
+    "originalImageArticleUrl": "https://www.cined.com/radiant-images-combines-24-iphones-with-gaussian-splatting-for-next-gen-bullet-time/",
+    "displayDate": "2026-04-26"
+  },
+  "SONY": {
+    "title": "ソニー未発表カメラが認証機関に登録、新モデル間近か",
+    "summary": "ソニーが認証機関に未発表のカメラ2機種を登録したことが判明しました。噂では、プロ向け動画機「FX3」の後継機となる「FX3II」や、エントリークラスの新モデルである可能性が指摘されており、詳細なスペックや発表時期に注目が集まっています。",
+    "insight": "ハードウェアエンジニアの視点では、認証機関への登録は量産直前のマイルストーンを意味し、製品サイクルや設計のトレンドを分析する好機です。特にFXシリーズのような特定用途向けの最適化が、次のモデルでどのようなハードウェア刷新（センサーや放熱設計）をもたらすか注目すべき点です。",
+    "sourceUrl": "https://digicame-info.com/2026/04/2-110.html",
+    "sourceName": "デジカメinfo",
+    "originalImageUrl": "https://digicame-info.com/assets_c/2026/04/sony_WW679476_e8m_001-thumb-320x320-9577.jpg",
+    "originalImageArticleUrl": "https://digicame-info.com/2026/04/2-110.html",
+    "displayDate": "2026-04-26"
+  },
+  "LED Wall Display": {
+    "title": "スタジアム体験を変革：4,100平米のLED壁面導入",
+    "summary": "マートルビーチ・ペリカンズの本拠地で、合計4,100平方フィートを超える大規模なLEDビデオディスプレイのアップグレードが実施されました。観客のゲームデー体験を劇的に向上させる最新の視覚演出基盤が構築されています。",
+    "insight": "大型LEDディスプレイの導入は単なる表示装置の刷新ではなく、リアルタイムなデータ連携や動的なコンテンツ配信によるUX向上を目指すシステム統合の好例です。エンジニアリング視点では、大規模パネルの同期制御や低遅延な映像信号伝送の最適化が、現代のスポーツエンターテインメントにおける重要な技術要件となります。",
+    "sourceUrl": "https://ravepubs.com/govision-installs-major-led-video-upgrades-at-pelicans-ballpark/",
+    "sourceName": "rAVe [PUBS]",
+    "originalImageUrl": "https://ravepubs.com/wp-content/uploads/2026/04/GoVision-at-Opening-Day-Out-field-Myrtle-Beach-Pelicans.jpg-1-scaled-1-800x600.webp",
+    "originalImageArticleUrl": "https://ravepubs.com/govision-installs-major-led-video-upgrades-at-pelicans-ballpark/",
+    "displayDate": "2026-04-26"
+  },
+  "Camera Control": {
+    "title": "「最新カメラ」は本当に必要か？進化の境界線",
+    "summary": "8年前の愛機と最新のミラーレスカメラを比較した検証記事。画質面での進化はわずかですが、オートフォーカスの精度、メニューUIの直感性、そして物理的なディスプレイの可動域という「体験」の改善が、撮影プロセスを劇的に変えることを明らかにしています。",
+    "insight": "レガシーシステムと最新機を比較した際、スペックシート上の微増よりも『UX（ユーザーエクスペリエンス）』の向上が生産性に寄与する点は、開発者にとっても重要な視点です。単なる機能追加ではなく、摩擦を減らす小さなUI/UXの改善が、ツールの評価を大きく変える好例といえます。",
+    "sourceUrl": "https://www.dpreview.com/opinion/3311070831/i-thought-my-camera-was-modern-not-quite",
+    "sourceName": "Digital Photography Review",
+    "originalImageUrl": "https://2.img-dpreview.com/files/p/E~C0x0S3840x2880T1200x900~articles/3311070831/the_sony_a7_iii_sits_on_a_white_table_with_harsh_sunlight_shining.jpeg",
+    "originalImageArticleUrl": "https://www.dpreview.com/opinion/3311070831/i-thought-my-camera-was-modern-not-quite",
+    "displayDate": "2026-04-26"
+  }
+}
