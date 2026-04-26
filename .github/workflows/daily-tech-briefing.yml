@@ -10,18 +10,20 @@ on:
 
 env:
   FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
+  # カテゴリ並列処理数。Gemini APIレートリミットに応じて調整する (デフォルト: 5)
+  INSIGHT_CONCURRENCY: 5
 
 jobs:
   build-and-deploy:
     runs-on: ubuntu-latest
-    
+
     # Allow pushing to the repository for Pages
     # Required permissions for GitHub Pages
     permissions:
       contents: write
       pages: write
       id-token: write
-      
+
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
@@ -38,14 +40,15 @@ jobs:
       # Step 1: Fetch News
       - name: Fetch News
         run: node src/fetchNews.js
-        
+
       # Step 2: Generate Insights via Gemini API
       - name: Generate Insights
         run: node src/generateInsights.js
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
-          
-      # Step 3: Download Images & Generate Web Gallery
+          INSIGHT_CONCURRENCY: ${{ env.INSIGHT_CONCURRENCY }}
+
+      # Step 3: Download Images & Generate Web Gallery (アーカイブ90日クリーンアップも含む)
       - name: Process Images and Gallery
         run: node src/generateGallery.js
 
@@ -69,13 +72,25 @@ jobs:
           GMAIL_USER: ${{ secrets.GMAIL_USER }}
           GMAIL_PASS: ${{ secrets.GMAIL_PASS }}
           GMAIL_TO: ${{ secrets.GMAIL_TO }}
-          GITHUB_PAGES_URL: "https://${{ github.repository_owner }}.github.io/${{ github.event.repository.name }}/" 
+          GITHUB_PAGES_URL: "https://${{ github.repository_owner }}.github.io/${{ github.event.repository.name }}/"
 
-      # Step 6: Commit and Push Archives
+      # Step 6: Commit and Push Archives (新規追加 + 90日超の削除済みファイルを含む)
       - name: Commit and push archives
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
-          git add data/archives/
+          git add -A -- data/archives/
+          git add data/seen_articles.json || true
           git commit -m "chore: archive daily insights [skip ci]" || echo "No changes to commit"
           git push
+
+      # Step 7: 失敗時通知 (いずれかのステップが失敗した場合のみ実行)
+      - name: Notify on failure
+        if: failure()
+        run: node src/sendFailureNotification.js
+        env:
+          GMAIL_USER: ${{ secrets.GMAIL_USER }}
+          GMAIL_PASS: ${{ secrets.GMAIL_PASS }}
+          GMAIL_TO: ${{ secrets.GMAIL_TO }}
+          RUN_URL: "${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}"
+          FAILED_JOB: "${{ github.job }}"

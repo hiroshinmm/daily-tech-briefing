@@ -170,6 +170,19 @@ async function main() {
     }
 
     const newsData = JSON.parse(fs.readFileSync(newsFile, 'utf-8'));
+
+    // 過去に選択済みのURLを読み込み、重複選択を防ぐ
+    const seenFile = path.join(dataDir, 'seen_articles.json');
+    const seenArticles = fs.existsSync(seenFile)
+        ? JSON.parse(fs.readFileSync(seenFile, 'utf-8'))
+        : {};
+    const cutoffDate = new Date();
+    cutoffDate.setDate(cutoffDate.getDate() - config.DAYS_TO_FETCH);
+    // DAYS_TO_FETCH より古いエントリを除去
+    for (const cat of Object.keys(seenArticles)) {
+        seenArticles[cat] = seenArticles[cat].filter(e => new Date(e.date) >= cutoffDate);
+    }
+
     const genAI = new GoogleGenerativeAI(config.GEMINI_API_KEY);
 
     console.log(`Using model: ${config.GEMINI_MODEL}`);
@@ -198,7 +211,7 @@ async function main() {
         if (!fs.existsSync(archiveDir)) fs.mkdirSync(archiveDir, { recursive: true });
 
         const categoryEntries = Object.entries(newsData);
-        const CONCURRENCY = 2;
+        const CONCURRENCY = parseInt(process.env.INSIGHT_CONCURRENCY, 10) || 2;
 
         for (let i = 0; i < categoryEntries.length; i += CONCURRENCY) {
             const chunk = categoryEntries.slice(i, i + CONCURRENCY);
@@ -211,7 +224,15 @@ async function main() {
 
                 console.log(`[Insight] Processing: ${category} (${items.length} items)`);
 
-                const newsText = items.slice(0, 10).map((item, index) =>
+                // 過去に選択済みのURLを除外（フォールバック: 全て既出なら除外しない）
+                const seenUrls = new Set((seenArticles[category] || []).map(e => e.url));
+                const freshItems = items.filter(item => !seenUrls.has(item.link));
+                const candidateItems = freshItems.length > 0 ? freshItems : items;
+                if (freshItems.length < items.length) {
+                    console.log(`[Insight] ${category}: ${items.length - freshItems.length} already-seen article(s) excluded.`);
+                }
+
+                const newsText = candidateItems.slice(0, 10).map((item, index) =>
                     `[${index + 1}] Title: ${item.title}\nSource: ${item.source}\nLink: ${item.link}\nSnippet: ${item.snippet}\n`
                 ).join('\n');
 
@@ -241,7 +262,7 @@ ${newsText}
                         return;
                     }
 
-                    let pickedItem = items.find(item => item.link === parsed.sourceUrl) || items[0];
+                    let pickedItem = candidateItems.find(item => item.link === parsed.sourceUrl) || candidateItems[0];
                     const rssImageUrl = pickedItem.imageUrl;
 
                     if (pickedItem.link.includes('google.com')) {
@@ -273,6 +294,10 @@ ${newsText}
                     parsed.originalImageArticleUrl = pickedItem.link;
                     parsed.displayDate = today;
 
+                    // 選択済みURLを記録
+                    if (!seenArticles[category]) seenArticles[category] = [];
+                    seenArticles[category].push({ url: pickedItem.link, date: today });
+
                     insights[category] = parsed;
                     console.log(`[Insight] Generated: ${parsed.title}`);
                 } catch (error) {
@@ -289,6 +314,9 @@ ${newsText}
         const archiveFile = path.join(archiveDir, `${day}.json`);
         console.log(`[Archive] Saving to ${archiveFile}`);
         fs.writeFileSync(archiveFile, JSON.stringify(insights, null, 2), 'utf-8');
+
+        // 選択済みURLの履歴を更新
+        fs.writeFileSync(seenFile, JSON.stringify(seenArticles, null, 2), 'utf-8');
 
     } finally {
         await browser.close();

@@ -6,6 +6,38 @@ const config = require('./config');
 const { getRandomUA, PUPPETEER_ARGS } = require('./urlUtils');
 
 /**
+ * archiveDir 配下から cutoff より古いJSONファイルを再帰的に削除し、空ディレクトリも除去する。
+ * 削除件数を返す。
+ */
+function pruneArchives(archiveDir, cutoff) {
+    let deleted = 0;
+    fs.readdirSync(archiveDir).forEach(entry => {
+        const entryPath = path.join(archiveDir, entry);
+        if (fs.statSync(entryPath).isDirectory()) {
+            deleted += pruneArchives(entryPath, cutoff);
+            if (fs.readdirSync(entryPath).length === 0) {
+                fs.rmdirSync(entryPath);
+            }
+        } else if (entry.endsWith('.json')) {
+            const rel = path.relative(archiveDir, entryPath).split(path.sep);
+            // rel = [] when file is directly under archiveDir (YYYY/MM/DD.json structure)
+            // entryPath = .../archives/2026/03/20.json → rel from parent = ['2026','03','20.json']
+            // But here archiveDir is the root, so we need to parse from the path segments
+            const parts = entryPath.replace(/\\/g, '/').split('/');
+            const day = entry.replace('.json', '');
+            const month = parts[parts.length - 2];
+            const year = parts[parts.length - 3];
+            const dateStr = `${year}-${month}-${day}`;
+            if (!isNaN(Date.parse(dateStr)) && new Date(dateStr) < cutoff) {
+                fs.unlinkSync(entryPath);
+                deleted++;
+            }
+        }
+    });
+    return deleted;
+}
+
+/**
  * 画像URLからファイルをダウンロードして指定パスに保存する
  */
 async function downloadImageToFile(imageUrl, articleUrl, destPath) {
@@ -123,9 +155,19 @@ async function main() {
         });
     }
 
-    // アーカイブデータのコピーとマニフェスト生成
+    // アーカイブクリーンアップ: data/archives/ から90日以上前のファイルを削除
+    const ARCHIVE_RETENTION_DAYS = 90;
     const srcArchiveDir = path.join(dataDir, 'archives');
     const distArchiveDir = path.join(distDir, 'archives');
+    if (fs.existsSync(srcArchiveDir)) {
+        const cutoff = new Date();
+        cutoff.setDate(cutoff.getDate() - ARCHIVE_RETENTION_DAYS);
+        const deletedCount = pruneArchives(srcArchiveDir, cutoff);
+        if (deletedCount > 0) {
+            console.log(`[Archive] Cleaned up ${deletedCount} archive file(s) older than ${ARCHIVE_RETENTION_DAYS} days.`);
+        }
+    }
+
     if (fs.existsSync(srcArchiveDir)) {
         console.log('[Gallery] Copying archives and generating manifest...');
         fs.mkdirSync(distArchiveDir, { recursive: true });
@@ -216,4 +258,4 @@ if (require.main === module) {
     });
 }
 
-module.exports = { downloadImageToFile };
+module.exports = { downloadImageToFile, pruneArchives };

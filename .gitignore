@@ -5,5 +5,6 @@ dist/
 data/news.json
 data/insights.json
 !data/archives/
+!data/seen_articles.json
 tmp_img/
 *.log
