@@ -243,7 +243,7 @@
                     <div class="card-body">
                         <div class="card-category"><%= item.category %></div>
                         <h2 class="card-title">
-                            <a href="<%= item.sourceUrl %>" target="_blank"><%= item.title %></a>
+                            <a href="<%= item.sourceUrl %>" target="_blank" rel="noopener noreferrer"><%= item.title %></a>
                         </h2>
                         <div class="card-summary">
                             <%= item.summary %>
@@ -256,7 +256,7 @@
                         </div>
                         <div class="card-footer">
                             <div class="card-source">
-                                Source: <a href="<%= item.sourceUrl %>" target="_blank"><%= item.sourceName %></a>
+                                Source: <a href="<%= item.sourceUrl %>" target="_blank" rel="noopener noreferrer"><%= item.sourceName %></a>
                             </div>
                         </div>
                     </div>
@@ -325,40 +325,84 @@
             }
         }
 
+        function safeUrl(url) {
+            try {
+                const u = new URL(url);
+                return (u.protocol === 'https:' || u.protocol === 'http:') ? url : '#';
+            } catch (_) { return '#'; }
+        }
+
         function renderGrid(data, date) {
             const grid = document.getElementById('insights-grid');
             grid.innerHTML = '';
-            
+
             Object.entries(data).forEach(([category, item]) => {
                 if (!item) return;
 
                 const card = document.createElement('div');
                 card.className = 'card';
-                
-                // 画像判定 (アーカイブはオリジナルURL優先)
-                let imgSrc = item.originalImageUrl || 'https://images.unsplash.com/photo-1485827404703-89b55fcc595e?auto=format&fit=crop&q=80&w=800';
-                
-                card.innerHTML = `
-                    <div class="card-image-section">
-                        <img src="${imgSrc}" alt="${item.title}">
-                    </div>
-                    <div class="card-body">
-                        <div class="card-category">${category}</div>
-                        <h2 class="card-title">
-                            <a href="${item.sourceUrl}" target="_blank">${item.title}</a>
-                        </h2>
-                        <div class="card-summary">${item.summary}</div>
-                        <div class="card-insight-box">
-                            <span class="card-insight-label">Technical Insight</span>
-                            <div class="card-insight-content">${item.insight}</div>
-                        </div>
-                        <div class="card-footer">
-                            <div class="card-source">
-                                Source: <a href="${item.sourceUrl}" target="_blank">${item.sourceName}</a>
-                            </div>
-                        </div>
-                    </div>
-                `;
+
+                // 画像セクション (アーカイブはオリジナルURL優先)
+                const imgSection = document.createElement('div');
+                imgSection.className = 'card-image-section';
+                const img = document.createElement('img');
+                img.src = item.originalImageUrl || 'https://images.unsplash.com/photo-1485827404703-89b55fcc595e?auto=format&fit=crop&q=80&w=800';
+                img.alt = item.title || '';
+                imgSection.appendChild(img);
+
+                // カード本体
+                const body = document.createElement('div');
+                body.className = 'card-body';
+
+                const catEl = document.createElement('div');
+                catEl.className = 'card-category';
+                catEl.textContent = category;
+
+                const titleEl = document.createElement('h2');
+                titleEl.className = 'card-title';
+                const titleLink = document.createElement('a');
+                titleLink.href = safeUrl(item.sourceUrl || '');
+                titleLink.target = '_blank';
+                titleLink.rel = 'noopener noreferrer';
+                titleLink.textContent = item.title || '';
+                titleEl.appendChild(titleLink);
+
+                const summaryEl = document.createElement('div');
+                summaryEl.className = 'card-summary';
+                summaryEl.textContent = item.summary || '';
+
+                const insightBox = document.createElement('div');
+                insightBox.className = 'card-insight-box';
+                const insightLabel = document.createElement('span');
+                insightLabel.className = 'card-insight-label';
+                insightLabel.textContent = 'Technical Insight';
+                const insightContent = document.createElement('div');
+                insightContent.className = 'card-insight-content';
+                insightContent.textContent = item.insight || '';
+                insightBox.appendChild(insightLabel);
+                insightBox.appendChild(insightContent);
+
+                const footer = document.createElement('div');
+                footer.className = 'card-footer';
+                const sourceDiv = document.createElement('div');
+                sourceDiv.className = 'card-source';
+                const sourceLink = document.createElement('a');
+                sourceLink.href = safeUrl(item.sourceUrl || '');
+                sourceLink.target = '_blank';
+                sourceLink.rel = 'noopener noreferrer';
+                sourceLink.textContent = item.sourceName || '';
+                sourceDiv.appendChild(document.createTextNode('Source: '));
+                sourceDiv.appendChild(sourceLink);
+                footer.appendChild(sourceDiv);
+
+                body.appendChild(catEl);
+                body.appendChild(titleEl);
+                body.appendChild(summaryEl);
+                body.appendChild(insightBox);
+                body.appendChild(footer);
+
+                card.appendChild(imgSection);
+                card.appendChild(body);
                 grid.appendChild(card);
             });
         }

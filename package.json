@@ -1,18 +1,29 @@
 {
   "name": "daily-tech-briefing",
   "version": "1.0.0",
-  "description": "",
-  "main": "checkUrls.js",
+  "description": "Automated daily tech news briefing via RSS + Gemini AI, published to GitHub Pages",
   "directories": {
     "doc": "docs"
   },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "fetch": "node src/fetchNews.js",
+    "insights": "node src/generateInsights.js",
+    "gallery": "node src/generateGallery.js",
+    "notify": "node src/sendNotification.js",
+    "generate": "npm run fetch && npm run insights && npm run gallery",
+    "check-urls": "node checkUrls.js",
+    "test": "jest"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "type": "commonjs",
+  "jest": {
+    "testEnvironment": "node",
+    "testMatch": [
+      "**/tests/**/*.test.js"
+    ]
+  },
   "dependencies": {
     "@google/generative-ai": "^0.24.1",
     "axios": "^1.13.6",
@@ -21,5 +32,8 @@
     "nodemailer": "^8.0.1",
     "puppeteer": "^24.38.0",
     "rss-parser": "^3.13.0"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0"
   }
 }

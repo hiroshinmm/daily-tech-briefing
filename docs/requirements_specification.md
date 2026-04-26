@@ -14,7 +14,7 @@
 ## 3. 技術仕様 (Technical Specifications)
 
 ### 3.1 AI インテリジェンス
-- **LLM**: Google Gemini API (`gemini-3.1-flash-lite-preview`)
+- **LLM**: Google Gemini API（デフォルト: `gemini-3.1-flash-lite-preview`、環境変数 `GEMINI_MODEL` でオーバーライド可）
   - **役割**: 記事抽出、200文字要約、技術インサイト生成。
 - **イメージ画像ポリシー**: 
   - 記事本来のイメージ画像を優先使用。
@@ -60,8 +60,10 @@
 
 ## 5. 品質・制約事項
 - **安定性**: スライド生成ステップの廃止により、GitHub Actions でのタイムアウトや描画エラーを完全に排除。
-- **保守性**: EJSテンプレートによる構造とデザインの分離。
+- **保守性**: EJSテンプレートによる構造とデザインの分離。共通ユーティリティ (`urlUtils.js`) への集約による重複排除。
 - **パフォーマンス**: AI画像生成およびPuppeteerキャプチャの廃止により、1回の実行時間を極限まで削減。
+- **セキュリティ**: クライアントサイドの DOM 操作を innerHTML から DOM API に切り替え、XSS を排除。メールテンプレートはエスケープ出力を使用。
+- **テスト**: Jest によるユニットテストを整備（31テストケース）。詳細は [docs/test_specification.md](test_specification.md) を参照。
 
 ---
-*最終更新日: 2026年3月20日 (JST)*
+*最終更新日: 2026年4月27日 (JST)*

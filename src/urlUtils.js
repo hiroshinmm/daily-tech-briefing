@@ -1,7 +1,25 @@
 /**
  * URLユーティリティ: fetchNews.js と generateInsights.js が共有する
- * Google News URL の解決ロジック
+ * Google News URL の解決ロジック、および共通のブラウザ設定
  */
+
+const USER_AGENTS = [
+    'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36',
+    'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36',
+    'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36'
+];
+
+function getRandomUA() {
+    return USER_AGENTS[Math.floor(Math.random() * USER_AGENTS.length)];
+}
+
+const PUPPETEER_ARGS = [
+    '--no-sandbox',
+    '--disable-setuid-sandbox',
+    '--disable-blink-features=AutomationControlled',
+    '--disable-dev-shm-usage',
+    '--disable-gpu'
+];
 
 /**
  * Google NewsのリンクからオリジナルのURLをオフラインで抽出する
@@ -37,15 +55,13 @@ function decodeGoogleNewsUrl(encodedUrl) {
  * ※ タイムアウト 10 秒でハング防止
  */
 async function resolveUrlOnline(googleUrl) {
-    // 複数の User-Agent を試行してレート制限を回避しやすくする
     const commonUAs = [
         'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
         'Mozilla/5.0 (iPhone; CPU iPhone OS 16_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.6 Mobile/15E148 Safari/604.1'
     ];
-    
-    // 最初はデスクトップ UA で試す（成功率が高い場合がある）
+
     const userAgent = commonUAs[0];
-    
+
     try {
         if (googleUrl.includes('/rss/articles/')) {
             const articlesUrl = googleUrl
@@ -68,7 +84,6 @@ async function resolveUrlOnline(googleUrl) {
                 });
 
                 if (res.url && (res.url.includes('google.com/sorry') || res.url.includes('consent.google.com'))) {
-                    // モバイル UA で再試行
                     const res2 = await fetch(articlesUrl, {
                         method: 'GET',
                         headers: { 'User-Agent': commonUAs[1], 'Referer': 'https://news.google.com/' },
@@ -84,7 +99,6 @@ async function resolveUrlOnline(googleUrl) {
             } catch (_) { /* fallthrough */ }
         }
 
-        // Legacy/Fallback
         try {
             const response = await fetch(googleUrl, {
                 method: 'GET',
@@ -110,4 +124,4 @@ async function resolveUrlOnline(googleUrl) {
     }
 }
 
-module.exports = { decodeGoogleNewsUrl, resolveUrlOnline };
+module.exports = { decodeGoogleNewsUrl, resolveUrlOnline, USER_AGENTS, getRandomUA, PUPPETEER_ARGS };

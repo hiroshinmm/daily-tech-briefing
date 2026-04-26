@@ -1,13 +1,13 @@
 require('dotenv').config();
 
 module.exports = {
-    // Weekly execution: fetch news from the last 7 days
+    // Daily execution: fetch news from the last 7 days
     DAYS_TO_FETCH: 7,
 
     // Gemini API configuration
     GEMINI_API_KEY: process.env.GEMINI_API_KEY,
-    // User requested models: 'gemini-3.1-flash-lite-preview', 'gemini-2.5-flash-lite', 'gemini-2.5-flash'
-    GEMINI_MODEL: 'gemini-3.1-flash-lite-preview',
+    // Override via env var GEMINI_MODEL. Available: 'gemini-3.1-flash-lite-preview', 'gemini-2.5-flash-lite', 'gemini-2.5-flash'
+    GEMINI_MODEL: process.env.GEMINI_MODEL || 'gemini-3.1-flash-lite-preview',
 
     feeds: {
         "AI": [

@@ -3,18 +3,7 @@ const path = require('path');
 const puppeteer = require('puppeteer');
 const { GoogleGenerativeAI } = require('@google/generative-ai');
 const config = require('./config');
-const { decodeGoogleNewsUrl, resolveUrlOnline } = require('./urlUtils');
-
-// 複数の User-Agent を定義してランダム性を待たせる
-const USER_AGENTS = [
-    'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36',
-    'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36',
-    'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36'
-];
-
-function getRandomUA() {
-    return USER_AGENTS[Math.floor(Math.random() * USER_AGENTS.length)];
-}
+const { decodeGoogleNewsUrl, resolveUrlOnline, getRandomUA, PUPPETEER_ARGS } = require('./urlUtils');
 
 /**
  * Gemini API リトライ付き生成
@@ -27,7 +16,7 @@ async function generateContentWithRetry(model, prompt, maxRetries = 3) {
         } catch (error) {
             const isRateLimit = error.message.includes('429') || error.message.toLowerCase().includes('rate limit');
             const isServerError = error.message.includes('500') || error.message.includes('503');
-            
+
             if ((isRateLimit || isServerError) && i < maxRetries - 1) {
                 const waitTime = Math.pow(2, i) * 2000 + Math.random() * 1000;
                 console.log(`[Gemini] Retry ${i + 1}/${maxRetries} after ${Math.round(waitTime)}ms due to: ${error.message.substring(0, 50)}`);
@@ -46,18 +35,17 @@ async function resolveUrlWithPuppeteer(googleUrl, browser) {
     let page = null;
     try {
         page = await browser.newPage();
-        // 自動化を検知されにくくするための設定
         await page.setUserAgent(getRandomUA());
         await page.setExtraHTTPHeaders({
             'Accept-Language': 'ja,en-US;q=0.9,en;q=0.8'
         });
-        
+
         const targetUrl = googleUrl.includes('/rss/articles/')
             ? googleUrl.replace('/rss/articles/', '/articles/').replace(/\?.*$/, '')
             : googleUrl;
-        
+
         await page.goto(targetUrl, { waitUntil: 'networkidle2', timeout: 30000 });
-        
+
         try {
             await page.waitForFunction(() => !window.location.href.includes('google.com'), { timeout: 15000 });
         } catch (e) {
@@ -67,7 +55,7 @@ async function resolveUrlWithPuppeteer(googleUrl, browser) {
         const detectedImageUrl = await page.evaluate(() => {
             const og = document.querySelector('meta[property="og:image"]');
             if (og && og.content) return og.content;
-            
+
             const tw = document.querySelector('meta[name="twitter:image"]');
             if (tw && tw.content) return tw.content;
 
@@ -130,22 +118,22 @@ async function resolveUrlWithPuppeteer(googleUrl, browser) {
 async function fetchOgImage(url, browser) {
     if (!url || url.includes('google.com')) return null;
     try {
-        const response = await fetch(url, { 
-            headers: { 
+        const response = await fetch(url, {
+            headers: {
                 'User-Agent': getRandomUA(),
                 'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
-                'Referer': url 
+                'Referer': url
             },
             signal: AbortSignal.timeout(10000)
         });
-        
+
         if (response.ok) {
             const text = await response.text();
             let imgUrl = null;
-            
+
             const ogImageMatch = text.match(/<meta[^>]*property=["']og:image["'][^>]*content=["']([^"']+)["']/i);
             if (ogImageMatch) imgUrl = ogImageMatch[1];
-            
+
             if (imgUrl && !imgUrl.startsWith('data:')) {
                 if (imgUrl.startsWith('//')) imgUrl = 'https:' + imgUrl;
                 else if (imgUrl.startsWith('/')) {
@@ -168,7 +156,6 @@ async function fetchOgImage(url, browser) {
 }
 
 async function main() {
-    // 環境変数のバリデーション
     if (!config.GEMINI_API_KEY) {
         console.error('CRITICAL ERROR: GEMINI_API_KEY is not set.');
         process.exit(1);
@@ -193,14 +180,9 @@ async function main() {
 
     const insights = {};
 
-    // Puppeteerのブラウザを起動
     const browser = await puppeteer.launch({
         headless: "new",
-        args: [
-            '--no-sandbox', 
-            '--disable-setuid-sandbox',
-            '--disable-blink-features=AutomationControlled' // ボット検知回避の基本
-        ]
+        args: PUPPETEER_ARGS
     });
 
     try {
@@ -209,18 +191,18 @@ async function main() {
             year: 'numeric',
             month: '2-digit',
             day: '2-digit'
-        }).replace(/\//g, '-'); // YYYY-MM-DD
-        
+        }).replace(/\//g, '-');
+
         const [year, month, day] = today.split('-');
         const archiveDir = path.join(dataDir, 'archives', year, month);
         if (!fs.existsSync(archiveDir)) fs.mkdirSync(archiveDir, { recursive: true });
 
         const categoryEntries = Object.entries(newsData);
         const CONCURRENCY = 2;
-        
+
         for (let i = 0; i < categoryEntries.length; i += CONCURRENCY) {
             const chunk = categoryEntries.slice(i, i + CONCURRENCY);
-            
+
             await Promise.all(chunk.map(async ([category, items]) => {
                 if (!items || items.length === 0) {
                     insights[category] = null;
@@ -250,7 +232,14 @@ ${newsText}
 
                 try {
                     const response = await generateContentWithRetry(model, prompt);
-                    const parsed = JSON.parse(response.text());
+                    let parsed;
+                    try {
+                        parsed = JSON.parse(response.text());
+                    } catch (parseError) {
+                        console.error(`[Insight] JSON parse failed for ${category}: ${parseError.message}`);
+                        insights[category] = null;
+                        return;
+                    }
 
                     let pickedItem = items.find(item => item.link === parsed.sourceUrl) || items[0];
                     const rssImageUrl = pickedItem.imageUrl;
@@ -282,8 +271,8 @@ ${newsText}
 
                     parsed.originalImageUrl = pickedItem.imageUrl || null;
                     parsed.originalImageArticleUrl = pickedItem.link;
-                    parsed.displayDate = today; // アーカイブ用に日付を付与
-                    
+                    parsed.displayDate = today;
+
                     insights[category] = parsed;
                     console.log(`[Insight] Generated: ${parsed.title}`);
                 } catch (error) {
@@ -297,7 +286,6 @@ ${newsText}
             }
         }
 
-        // アーカイブファイルの保存
         const archiveFile = path.join(archiveDir, `${day}.json`);
         console.log(`[Archive] Saving to ${archiveFile}`);
         fs.writeFileSync(archiveFile, JSON.stringify(insights, null, 2), 'utf-8');
@@ -312,7 +300,11 @@ ${newsText}
     process.exit(0);
 }
 
-main().catch(error => {
-    console.error(error);
-    process.exit(1);
-});
+if (require.main === module) {
+    main().catch(error => {
+        console.error(error);
+        process.exit(1);
+    });
+}
+
+module.exports = { generateContentWithRetry };

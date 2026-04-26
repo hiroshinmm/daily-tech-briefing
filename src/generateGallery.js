@@ -3,15 +3,7 @@ const ejs = require('ejs');
 const fs = require('fs');
 const path = require('path');
 const config = require('./config');
-
-const USER_AGENTS = [
-    'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36',
-    'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36'
-];
-
-function getRandomUA() {
-    return USER_AGENTS[Math.floor(Math.random() * USER_AGENTS.length)];
-}
+const { getRandomUA, PUPPETEER_ARGS } = require('./urlUtils');
 
 /**
  * 画像URLからファイルをダウンロードして指定パスに保存する
@@ -20,9 +12,9 @@ async function downloadImageToFile(imageUrl, articleUrl, destPath) {
     if (!imageUrl) return null;
     try {
         const res = await fetch(imageUrl, {
-            headers: { 
-                'User-Agent': getRandomUA(), 
-                'Referer': articleUrl || imageUrl 
+            headers: {
+                'User-Agent': getRandomUA(),
+                'Referer': articleUrl || imageUrl
             },
             signal: AbortSignal.timeout(15000)
         });
@@ -47,7 +39,7 @@ async function resizeImageWithPuppeteer(browser, inputPath, outputPath) {
         const dataUri = `data:image/jpeg;base64,${base64}`;
 
         await page.setContent(`<html><body style="margin:0;padding:0;"><img src="${dataUri}" style="width:400px;display:block;"></body></html>`);
-        
+
         const isLoaded = await page.evaluate(() => {
             const img = document.querySelector('img');
             return img && img.complete && img.naturalWidth > 0;
@@ -93,26 +85,20 @@ async function main() {
     }
 
     const insightsData = JSON.parse(fs.readFileSync(insightsFile, 'utf-8'));
-    
+
     if (!fs.existsSync(imageOutDir)) fs.mkdirSync(imageOutDir, { recursive: true });
     if (!fs.existsSync(tempDir)) fs.mkdirSync(tempDir, { recursive: true });
 
     const browser = await puppeteer.launch({
         headless: "new",
-        args: [
-            '--no-sandbox',
-            '--disable-setuid-sandbox',
-            '--disable-blink-features=AutomationControlled',
-            '--disable-dev-shm-usage',
-            '--disable-gpu'
-        ]
+        args: PUPPETEER_ARGS
     });
 
     console.log('[Gallery] Optimizing images...');
     const galleryItems = [];
     const entries = Object.entries(insightsData);
-    
-    // 画像のクリーンアップ (14日以上前を削除)
+
+    // 画像クリーンアップ: dist/images/ は 14日以上前を削除
     const retentionDays = 14;
     const now = Date.now();
     if (fs.existsSync(imageOutDir)) {
@@ -127,13 +113,23 @@ async function main() {
         });
     }
 
+    // tmp_img/ クリーンアップ: 処理済み生ファイルを削除
+    if (fs.existsSync(tempDir)) {
+        fs.readdirSync(tempDir).forEach(file => {
+            const filePath = path.join(tempDir, file);
+            if (fs.statSync(filePath).isFile()) {
+                fs.unlinkSync(filePath);
+            }
+        });
+    }
+
     // アーカイブデータのコピーとマニフェスト生成
     const srcArchiveDir = path.join(dataDir, 'archives');
     const distArchiveDir = path.join(distDir, 'archives');
     if (fs.existsSync(srcArchiveDir)) {
         console.log('[Gallery] Copying archives and generating manifest...');
         fs.mkdirSync(distArchiveDir, { recursive: true });
-        
+
         const allDates = [];
         const copyRecursive = (src, dest) => {
             if (!fs.existsSync(dest)) fs.mkdirSync(dest, { recursive: true });
@@ -145,18 +141,17 @@ async function main() {
                     copyRecursive(srcPath, destPath);
                 } else if (file.endsWith('.json')) {
                     fs.copyFileSync(srcPath, destPath);
-                    // data/archives/2026/03/20.json -> 2026-03-20
-                    const parts = srcPath.split(path.sep);
+                    // data/archives/2026/03/20.json → 2026-03-20
+                    const rel = path.relative(srcArchiveDir, srcPath).split(path.sep);
+                    const year = rel[0];
+                    const month = rel[1];
                     const day = file.replace('.json', '');
-                    const month = parts[parts.length - 2];
-                    const year = parts[parts.length - 3];
                     if (year && month && day) allDates.push(`${year}-${month}-${day}`);
                 }
             });
         };
         copyRecursive(srcArchiveDir, distArchiveDir);
-        
-        // 日付降順で保存
+
         const manifest = allDates.sort().reverse();
         fs.writeFileSync(path.join(distArchiveDir, 'manifest.json'), JSON.stringify(manifest), 'utf-8');
         console.log(`[Gallery] Manifest generated with ${manifest.length} dates.`);
@@ -214,7 +209,11 @@ async function main() {
     process.exit(0);
 }
 
-main().catch(error => {
-    console.error('CRITICAL ERROR:', error.message || error);
-    process.exit(1);
-});
+if (require.main === module) {
+    main().catch(error => {
+        console.error('CRITICAL ERROR:', error.message || error);
+        process.exit(1);
+    });
+}
+
+module.exports = { downloadImageToFile };
