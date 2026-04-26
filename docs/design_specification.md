@@ -8,8 +8,9 @@
 7.  **分析 (Insight)**: Gemini APIを用いて重要ニュースを抽出し、要約と技術インサイトを生成。
 8.  **画像抽出 (Images)**: 記事のOGP画像を取得。Puppeteerで動的な解決も実施。
 9.  **構成 (Assemble)**: EJSテンプレートを用いてWebギャラリー（index.html）を生成。画像はWebから取得したものを直接参照または軽量化して利用。
-10. **公開 (Deploy)**: 生成物を `dist` フォルダに集約し、GitHub Pagesにデプロイ。
-11. **通知 (Notify)**: 更新内容をメール（Nodemailer）で送信。
+11. **公開 (Deploy)**: 生成物を `dist` フォルダに集約し、GitHub Pagesにデプロイ。
+12. **アーカイブ (Archive)**: その日の JSON を `data/archives/` に永続化し、GitHub リポジトリへ自動コミット。
+13. **通知 (Notify)**: 更新内容をメール（Nodemailer）で送信。 アーカイブへのリンクも含む。
 
 ---
 
@@ -40,6 +41,11 @@
 ### 2.4 通知機能 (`src/sendNotification.js`)
 - **方式**: Nodemailer による Gmail SMTP 送信。
 - **内容**: カテゴリごとの技術インサイト本文と、HTMLメール内でのオリジナル画像表示（スライド画像の添付は廃止）。
+
+### 2.5 アーカイブ管理 (`data/archives/`)
+- **JSON永続化**: 各日の `insights.json` を `YYYY/MM/DD.json` 形式で保存。
+- **マニフェスト**: 全アーカイブ日をリスト化した `manifest.json` を自動生成。
+- **自動クリーンアップ**: `dist/images/` 内の画像は 14日経過後に自動削除し、リポジトリ容量を節約。
 
 ---
 
