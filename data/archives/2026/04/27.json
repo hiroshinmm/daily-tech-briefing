@@ -1,0 +1,102 @@
+{
+  "SRD / XR": {
+    "title": "Google、StreetView活用でAI空間生成へ",
+    "summary": "Googleは「Google Maps Platform」と「Google Earth AI」に関する新たなAI機能を発表。StreetViewの画像をAIによるコンテンツ生成に活用可能となり、現実の地理データに基づいた高精細なVR/XR空間の自動構築が加速すると期待されます。",
+    "insight": "現実世界の幾何学データや視覚情報をAIで構造化することで、XRコンテンツの制作コストを劇的に下げることができます。エンジニア視点では、デジタルツインやロケーションベースのメタバース開発におけるデータパイプラインの進化に注目すべきです。",
+    "sourceUrl": "https://www.moguravr.com/google-maps-imagery-grounding-earth-ai-2026/",
+    "sourceName": "Mogura VR",
+    "originalImageUrl": "https://assets.moguravr.com/uploads/2017/09/a3d21a77121144a39f83c6568a29bee5-kix.lj5wndmcgl3l-300x125.webp",
+    "originalImageArticleUrl": "https://www.moguravr.com/google-maps-imagery-grounding-earth-ai-2026/",
+    "displayDate": "2026-04-27"
+  },
+  "AI": {
+    "title": "次なるAIの主戦場「フィジカルAI」の衝撃",
+    "summary": "GoogleやMeta、NVIDIA、xAIが注力する「フィジカルAI」が注目されています。これはLLMを物理世界と接続し、ロボティクスや自動運転の制御を行う次世代AI技術で、生成AI以降の兆円規模の巨大市場として各社が開発競争を激化させています。",
+    "insight": "ソフトウェアエンジニアにとって、従来のテキストベースから物理的な推論・制御へのシフトは、エッジコンピューティングやロボットOS（ROS）等の理解を深める重要な転換点となります。マルチモーダルAIが物理空間にどう適応するか、今後はハードウェアとソフトウェアの境界線がさらに曖昧になるでしょう。",
+    "sourceUrl": "https://news.yahoo.co.jp/articles/45342ec0517c986266f06e8012e73fb207f43b62",
+    "sourceName": "ITmedia ビジネスオンライン",
+    "originalImageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260425-00000031-zdn_mkt-000-1-view.jpg?exp=10800",
+    "originalImageArticleUrl": "https://news.yahoo.co.jp/articles/45342ec0517c986266f06e8012e73fb207f43b62",
+    "displayDate": "2026-04-27"
+  },
+  "Production Monitor": {
+    "title": "iPhone×ガウシアンスプラッティングで映像制作が進化",
+    "summary": "NAB 2026にて、Radiant Imagesが24台のiPhoneを用いた次世代の「バレットタイム」撮影手法を公開しました。従来のフレーム補間ではなく、ガウシアンスプラッティングを用いてシーンを3D再構築することで、撮影後にバーチャルカメラでの移動、リタイミング、フォーカス調整、さらにはポイントクラウドレベルでの編集を可能にする画期的な技術です。",
+    "insight": "ガウシアンスプラッティングはNeRFに代わるリアルタイム3D再構成の有力技術として、映像制作のワークフローを根本から変える可能性があります。カメラの空間的配置をデータとして捉え直し、レンダリング後に視点や被写界深度を自由に変更できる点は、エンジニアリング視点でも非常に興味深いアプローチです。",
+    "sourceUrl": "https://www.cined.com/radiant-images-combines-24-iphones-with-gaussian-splatting-for-next-gen-bullet-time/",
+    "sourceName": "CineD",
+    "originalImageUrl": "https://www.cined.com/content/uploads/2026/04/Radiant-Images-300x169.jpg",
+    "originalImageArticleUrl": "https://www.cined.com/radiant-images-combines-24-iphones-with-gaussian-splatting-for-next-gen-bullet-time/",
+    "displayDate": "2026-04-27"
+  },
+  "Gaming Monitor": {
+    "title": "世界初の480Hz有機ELゲーミングモニターが値下げへ",
+    "summary": "世界初の480Hzリフレッシュレートを実現した有機EL（OLED）ゲーミングモニターが、100ドルの価格改定（値下げ）を行いました。高精細かつ超高速な表示体験がより手に届きやすくなり、ハイエンドディスプレイ市場の競争が加速しています。",
+    "insight": "OLEDパネルで480Hzというスペックは、駆動回路の応答速度と熱設計において非常に高い技術水準を要求します。この価格改定は、供給体制が安定し、ゲーミングモニター市場がリフレッシュレート競争から実用的な普及フェーズへ移行しつつあることを示唆しています。",
+    "sourceUrl": "https://m.dailyhunt.in/news/india/english/mashable-epaper-mashable/the+worlds+first+480hz+oled+gaming+monitor+just+got+a+100+price+cut-newsid-n709843037",
+    "sourceName": "Dailyhunt",
+    "originalImageUrl": "https://assets-news-bcdn.dailyhunt.in/cmd/resize/1200x630_90/fetchdata20/images/b4/4b/e9/b44be9c852270bb308ae8bad964af82e41d516e919d74faced9987b6912505a7.webp",
+    "originalImageArticleUrl": "https://m.dailyhunt.in/news/india/english/mashable-epaper-mashable/the+worlds+first+480hz+oled+gaming+monitor+just+got+a+100+price+cut-newsid-n709843037",
+    "displayDate": "2026-04-27"
+  },
+  "SONY": {
+    "title": "ソニーが新カメラ2機種を認証登録、発表間近か",
+    "summary": "中国の認証機関にて、ソニーの新型カメラ2機種が新たに登録されたことが判明しました。これまでに登録済みの製品と合わせ、近日中に合計3機種の新製品が発表される可能性があると期待が高まっています。有力視されているのは、プロ向けシネマカメラ「FX3 II」や、根強い人気のコンパクトデジカメ「RX100」シリーズの最新モデルです。",
+    "insight": "画像処理エンジンやセンサーの小型化・高性能化といった、ソニーのハードウェアエンジニアリングの進化が注目されます。特にシネマラインのアップデートは、低消費電力と放熱設計という組み込み技術の課題解決において参考になる要素が多いでしょう。",
+    "sourceUrl": "https://www.sonyalpharumors.com/two-new-sony-cameras-registered-in-china-probably-the-new-fx3ii-and-a-new-rx100-camera/",
+    "sourceName": "SonyAlphaRumors",
+    "originalImageUrl": "https://www.sonyalpharumors.com/wp-content/uploads/2021/02/Sony-FX3.jpg",
+    "originalImageArticleUrl": "https://www.sonyalpharumors.com/two-new-sony-cameras-registered-in-china-probably-the-new-fx3ii-and-a-new-rx100-camera/",
+    "displayDate": "2026-04-27"
+  },
+  "TCL": {
+    "title": "Sony、TV事業の一部をTCLへ委託の衝撃",
+    "summary": "SonyがTV事業の一部コントロールをTCLへ移行するというニュースが話題です。自社製造からOEM/ODM戦略への転換を示唆しており、家電市場におけるサプライチェーンとブランド力の力学が大きく変化しようとしています。",
+    "insight": "ハードウェア製造の外部委託はコスト最適化だけでなく、ソフトウェア/UIの統合戦略が重要になります。エンジニア視点では、ODM製品におけるファームウェア開発の内製率と、UXの一貫性をどう担保するかが今後の技術的競争力の鍵となります。",
+    "sourceUrl": "https://www.msn.com/en-us/news/technology/sony-just-handed-control-of-its-tv-business-to-tcl-what-it-actually-means-for-you/ar-AA20NOcG?apiversion=v2&domshim=1&noservercache=1&noservertelemetry=1&batchservertelemetry=1&renderwebcomponents=1&wcseo=1&bundles=feat-es2020-c",
+    "sourceName": "MSN",
+    "originalImageUrl": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA20NXSJ.img?w=612&h=344&m=4&q=81",
+    "originalImageArticleUrl": "https://www.msn.com/en-us/news/technology/sony-just-handed-control-of-its-tv-business-to-tcl-what-it-actually-means-for-you/ar-AA20NOcG?apiversion=v2&domshim=1&noservercache=1&noservertelemetry=1&batchservertelemetry=1&renderwebcomponents=1&wcseo=1&bundles=feat-es2020-c",
+    "displayDate": "2026-04-27"
+  },
+  "TV": {
+    "title": "「24時間テレビ」初の総合司会に内村光良氏が就任",
+    "summary": "日本テレビ系の大型特番「24時間テレビ49」の総合司会に、タレントの内村光良氏が就任することが決定しました。羽鳥慎一アナ、水卜麻美アナとタッグを組み、番組の顔として新たな挑戦を行います。今年のテーマは「わたしの家族の話〜あなたは誰を想う？〜」と発表されました。",
+    "insight": "番組の司会進行という定型業務において、ベテランかつ安定感のある人物を起用することで、大規模なライブ制作におけるリスクヘッジとブランド信頼性を維持する戦略が見て取れます。大規模システムの変更時にも、こうした「実績あるキーマンの投入」はプロジェクトを成功に導く重要なアーキテクチャ判断と言えます。",
+    "sourceUrl": "https://www.ntv.co.jp/24h/articles/60t2stud9udxxgn0ge.html",
+    "sourceName": "日本テレビ",
+    "originalImageUrl": "https://www.ntv.co.jp/24h/articles/images/j0d39h1bpfp64612g019l4jlm6w7ij.jpg",
+    "originalImageArticleUrl": "https://www.ntv.co.jp/24h/articles/60t2stud9udxxgn0ge.html",
+    "displayDate": "2026-04-27"
+  },
+  "LED Wall Display": {
+    "title": "劇場空間を革新するPhilips PPDSの大型LEDウォール導入",
+    "summary": "ドイツのザールラント州立劇場にて、Philips PPDSが6x2メートルの大型LEDウォールを設置しました。伝統的な劇場空間に最新のデジタルサイネージ技術を融合させることで、演出や情報提供の幅を大きく拡張するプロジェクトです。",
+    "insight": "舞台芸術の現場では、プロジェクションマッピングに代わり、コントラスト比と輝度の高い大型LEDディスプレイの導入が進んでいます。エンジニアリングの観点では、既存の舞台照明や音響システムとの同期、および広角視野角を維持するためのピクセルピッチ最適化が、臨場感ある演出を実現する鍵となります。",
+    "sourceUrl": "https://www.media4growth.com/dooh/digital-display/philips-ppds-installs-6x2m-led-wall-at-saarlandisches-staatstheater-83317",
+    "sourceName": "Media4Growth",
+    "originalImageUrl": "https://www.media4growth.com/wp-content/uploads/2026/04/M4G_Thumbnail_1000x600_Phillips-PPDS.jpg",
+    "originalImageArticleUrl": "https://www.media4growth.com/dooh/digital-display/philips-ppds-installs-6x2m-led-wall-at-saarlandisches-staatstheater-83317",
+    "displayDate": "2026-04-27"
+  },
+  "Camera Control": {
+    "title": "デジタル時代に再注目される「写真の出所（Provenance）」の重要性",
+    "summary": "SNSで拡散される写真が増える中、作成者と写真のリンクが失われる問題が浮上しています。メタデータや信頼できるソースへの紐付けといった「Provenance（出所）」の確保が、クリエイターの権利保護において不可欠な課題となっています。",
+    "insight": "ソフトウェアエンジニアの視点では、デジタル署名やブロックチェーンを活用したコンテンツの真正性担保（C2PAなど）が重要です。メタデータが改ざんや削除されやすい環境下で、いかに信頼性の高いトレーサビリティを実装するかが、これからのメディアプラットフォーム開発の鍵となります。",
+    "sourceUrl": "https://petapixel.com/2026/04/26/why-no-one-will-know-that-viral-photo-is-yours-and-what-can-help/",
+    "sourceName": "PetaPixel",
+    "originalImageUrl": "https://petapixel.com/assets/uploads/2026/04/Why-No-One-Will-Know-That-Viral-Photo-is-Yours-And-What-Can-Help.jpg",
+    "originalImageArticleUrl": "https://petapixel.com/2026/04/26/why-no-one-will-know-that-viral-photo-is-yours-and-what-can-help/",
+    "displayDate": "2026-04-27"
+  },
+  "Projector": {
+    "title": "霧とプロジェクターで歩ける3D空間を構築",
+    "summary": "プロジェクターの映像を「霧」に投影することで、人が中を歩き回れる立体的な3D空間を創り出す技術が紹介されました。従来のスクリーンを介した投影とは異なり、空間そのものをディスプレイ化する新しい手法として注目されています。",
+    "insight": "映像の投影先として物理的なスクリーンではなく、粒子や気体を活用するアプローチは、没入型XR体験の新しい可能性を示唆しています。空間コンピューティングの文脈において、光学設計や空間認識技術の新たな応用例として参考になります。",
+    "sourceUrl": "https://www.techeblog.com/diy-custom-multiview-stereo-projection-3d-fog-scenes/",
+    "sourceName": "TechEBlog",
+    "originalImageUrl": "https://images.techeblog.com/wp-content/uploads/2026/04/25002406/diy-custom-multiview-stereo-projection-3d-fog-scenes.jpg",
+    "originalImageArticleUrl": "https://www.techeblog.com/diy-custom-multiview-stereo-projection-3d-fog-scenes/",
+    "displayDate": "2026-04-27"
+  }
+}
