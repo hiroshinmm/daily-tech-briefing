@@ -1,102 +1,21 @@
 {
-  "Production Monitor": {
-    "title": "iPhone×ガウシアン・スプラッティングで実現する次世代撮影",
-    "summary": "NAB 2026にて、Radiant Imagesが24台のiPhoneを用いた新たな撮影手法を公開しました。従来のフレーム補間ではなく、ガウシアン・スプラッティング（Gaussian Splatting）技術を活用することで、撮影後に仮想カメラでの視点移動やリタイム、焦点距離の変更が可能な3Dシーンの完全再構築を実現しています。",
-    "insight": "点群データとAIの融合により、従来の映像制作の枠を超えた自由な編集が現実味を帯びてきました。ポイントクラウドレベルでの編集は、従来の動画編集のパラダイムを根本から変える技術であり、AI推論をいかに低遅延でクリエイティブフローに組み込むかがエンジニアリングの鍵となります。",
-    "sourceUrl": "https://www.cined.com/radiant-images-combines-24-iphones-with-gaussian-splatting-for-next-gen-bullet-time/",
-    "sourceName": "CineD",
-    "originalImageUrl": "https://www.cined.com/content/uploads/2026/04/Radiant-Images-300x169.jpg",
-    "originalImageArticleUrl": "https://www.cined.com/radiant-images-combines-24-iphones-with-gaussian-splatting-for-next-gen-bullet-time/",
-    "displayDate": "2026-04-27"
-  },
-  "SRD / XR": {
-    "title": "Google、StreetViewで生成AIを強化",
-    "summary": "Googleは、Google Maps PlatformおよびGoogle Earth AIに関する3つの新機能を発表しました。特に注目すべきはStreetView画像をAIコンテンツ生成に活用する機能で、位置情報と高精度な地理空間データがAIモデルの基盤となります。",
-    "insight": "現実世界の視覚情報をAIのコンテキストとして利用する「Earth AI」の進化は、メタバースやデジタルツイン開発における重要な転換点です。エンジニアとしては、物理空間とLLMをシームレスに結合する地理空間APIの活用法を注視する必要があります。",
-    "sourceUrl": "https://www.moguravr.com/google-maps-imagery-grounding-earth-ai-2026/",
-    "sourceName": "Mogura VR",
-    "originalImageUrl": "https://assets.moguravr.com/uploads/2017/09/a3d21a77121144a39f83c6568a29bee5-kix.lj5wndmcgl3l-300x125.webp",
-    "originalImageArticleUrl": "https://www.moguravr.com/google-maps-imagery-grounding-earth-ai-2026/",
-    "displayDate": "2026-04-27"
-  },
-  "AI": {
-    "title": "次なるAIの主戦場「フィジカルAI」の衝撃",
-    "summary": "GoogleやNVIDIA、Meta、xAIらが次なる巨大市場として注力する「フィジカルAI」が注目されている。これは仮想空間だけでなく、ロボティクスや自動運転など物理世界を制御するAIのことで、ソフトウェアとハードウェアの融合が新たなイノベーションを生もうとしている。",
-    "insight": "LLMの言語処理能力を物理世界の動作にどう統合させるかが、次なるエンジニアリングの最前線です。単なるモデルの推論だけでなく、センサーフィードバックと制御ループをリアルタイムに処理するアーキテクチャ設計が重要になります。",
-    "sourceUrl": "https://news.yahoo.co.jp/articles/45342ec0517c986266f06e8012e73fb207f43b62",
-    "sourceName": "ITmedia ビジネスオンライン",
-    "originalImageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260425-00000031-zdn_mkt-000-1-view.jpg?exp=10800",
-    "originalImageArticleUrl": "https://news.yahoo.co.jp/articles/45342ec0517c986266f06e8012e73fb207f43b62",
-    "displayDate": "2026-04-27"
-  },
+  "SRD / XR": null,
+  "AI": null,
+  "SONY": null,
+  "TCL": null,
   "Gaming Monitor": {
-    "title": "世界初480Hz有機ELモニターが値下げ！高リフレッシュレートの変遷",
-    "summary": "世界初となる480Hz駆動に対応した有機ELゲーミングモニターが、100ドルの価格引き下げを実施。高解像度かつ超高リフレッシュレートを実現するOLED技術が、徐々に市場で身近な選択肢となりつつあります。",
-    "insight": "480Hzという驚異的なリフレッシュレートは、描画エンジンとGPUのレンダリングパイプラインにおける負荷検証の限界値を押し広げます。低遅延な表示環境の普及は、入力レイテンシに対する最適化や同期技術（VRR）の重要性をエンジニアリングの現場で再認識させるきっかけとなるでしょう。",
-    "sourceUrl": "https://m.dailyhunt.in/news/india/english/mashable-epaper-mashable/the+worlds+first+480hz+oled+gaming+monitor+just+got+a+100+price+cut-newsid-n709843037",
-    "sourceName": "Dailyhunt",
-    "originalImageUrl": "https://assets-news-bcdn.dailyhunt.in/cmd/resize/1200x630_90/fetchdata20/images/b4/4b/e9/b44be9c852270bb308ae8bad964af82e41d516e919d74faced9987b6912505a7.webp",
-    "originalImageArticleUrl": "https://m.dailyhunt.in/news/india/english/mashable-epaper-mashable/the+worlds+first+480hz+oled+gaming+monitor+just+got+a+100+price+cut-newsid-n709843037",
-    "displayDate": "2026-04-27"
-  },
-  "TCL": {
-    "title": "Sony、TV製造の一部をTCLへ委託へ",
-    "summary": "SonyがTV事業の製造プロセスの一部をTCLに委託する動きを見せています。これにより、コスト効率の改善や供給網の再編が期待される一方、ブランド戦略や品質管理に対する市場の注目が集まっています。",
-    "insight": "大手家電メーカーが、Mini LEDなどで高い垂直統合能力を持つTCLのODMリソースを活用する動きは、製造から設計・調達までの分業体制が加速していることを示唆しています。エンジニアとしては、ディスプレイのパネル技術だけでなく、OEM/ODM供給網を通じたプラットフォームの共通化が製品開発サイクルにどう影響するか注目が必要です。",
-    "sourceUrl": "https://www.msn.com/en-us/news/technology/sony-just-handed-control-of-its-tv-business-to-tcl-what-it-actually-means-for-you/ar-AA20NOcG?apiversion=v2&domshim=1&noservercache=1&noservertelemetry=1&batchservertelemetry=1&renderwebcomponents=1&wcseo=1&bundles=feat-es2020-c",
+    "title": "ついに本格化？ゲーミングモニターのOLED低価格化が進展",
+    "summary": "SamsungやAOCといった主要メーカーの240Hz OLEDゲーミングモニターが、海外市場で大幅な値下げを記録しています。高価で手が届きにくかった有機ELディスプレイが、ゲーマーにとって現実的な選択肢になりつつあります。",
+    "insight": "OLEDパネルの量産効率向上と価格競争が加速しており、開発者の作業環境においても高リフレッシュレートかつ高コントラストな環境を構築しやすくなっています。デスクトップ環境の刷新において、有機ELの応答速度や黒表現の恩恵をコストメリットとともに検討できるタイミングです。",
+    "sourceUrl": "https://www.msn.com/en-us/news/technology/aoc-s-1440p-240hz-oled-gaming-monitor-is-only-340-today/ar-AA21k9vu?apiversion=v2&domshim=1&noservercache=1&noservertelemetry=1&batchservertelemetry=1&renderwebcomponents=1&wcseo=1&bundles=feat-es2020-c",
     "sourceName": "MSN",
-    "originalImageUrl": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA20NXSJ.img?w=612&h=344&m=4&q=81",
-    "originalImageArticleUrl": "https://www.msn.com/en-us/news/technology/sony-just-handed-control-of-its-tv-business-to-tcl-what-it-actually-means-for-you/ar-AA20NOcG?apiversion=v2&domshim=1&noservercache=1&noservertelemetry=1&batchservertelemetry=1&renderwebcomponents=1&wcseo=1&bundles=feat-es2020-c",
+    "originalImageUrl": null,
+    "originalImageArticleUrl": "https://www.msn.com/en-us/news/technology/aoc-s-1440p-240hz-oled-gaming-monitor-is-only-340-today/ar-AA21k9vu?apiversion=v2&domshim=1&noservercache=1&noservertelemetry=1&batchservertelemetry=1&renderwebcomponents=1&wcseo=1&bundles=feat-es2020-c",
     "displayDate": "2026-04-27"
   },
-  "Camera Control": {
-    "title": "写真の「出所（Provenance）」と真贋証明の重要性",
-    "summary": "SNSで写真が拡散される際、撮影者が不明のまま広まる「プロベナンス（来歴）」の欠如が課題となっています。コンテンツの帰属を明示し、権利を守るための技術的な仕組み作りが改めて注目されています。",
-    "insight": "デジタル署名やメタデータによる著作権情報の埋め込み（C2PA等）は、AI生成物と実写を区別する上でも不可欠な技術スタックです。エンジニアとしては、単なる画像配信ではなく、いかにデータの信頼性と来歴をエンドツーエンドで担保するかという「信頼のインフラ」構築が今後さらに重要になります。",
-    "sourceUrl": "https://petapixel.com/2026/04/26/why-no-one-will-know-that-viral-photo-is-yours-and-what-can-help/",
-    "sourceName": "PetaPixel",
-    "originalImageUrl": "https://petapixel.com/assets/uploads/2026/04/Why-No-One-Will-Know-That-Viral-Photo-is-Yours-And-What-Can-Help.jpg",
-    "originalImageArticleUrl": "https://petapixel.com/2026/04/26/why-no-one-will-know-that-viral-photo-is-yours-and-what-can-help/",
-    "displayDate": "2026-04-27"
-  },
-  "LED Wall Display": {
-    "title": "劇場空間を革新するPhilips PPDSのLEDウォール設置",
-    "summary": "ドイツのザールラント州立劇場に、Philips PPDSによる6x2メートルのLEDウォールが設置されました。従来の舞台背景やプロジェクションを補完・代替する最新の大型ディスプレイ技術として、パブリックエンターテインメント空間におけるDXの進展を示しています。",
-    "insight": "舞台芸術において高精細LEDは、静的な背景幕から動的な没入型演出へと環境を一変させます。エンジニアの視点では、大型パネルの低遅延同期制御と、ステージライティングと干渉しない輝度・演色性のチューニングが、今後の空間演出システムの鍵となります。",
-    "sourceUrl": "https://www.media4growth.com/dooh/digital-display/philips-ppds-installs-6x2m-led-wall-at-saarlandisches-staatstheater-83317",
-    "sourceName": "Media4Growth",
-    "originalImageUrl": "https://www.media4growth.com/wp-content/uploads/2026/04/M4G_Thumbnail_1000x600_Phillips-PPDS.jpg",
-    "originalImageArticleUrl": "https://www.media4growth.com/dooh/digital-display/philips-ppds-installs-6x2m-led-wall-at-saarlandisches-staatstheater-83317",
-    "displayDate": "2026-04-27"
-  },
-  "SONY": {
-    "title": "ソニーが認証機関に新型カメラ2機種を登録、発表間近か",
-    "summary": "中国の認証機関にて、ソニーの未発表カメラ2機種が新たに登録されたことが判明しました。これまでに登録済みの1機種と合わせ、計3機種の新製品発表が期待されています。噂では、プロ用シネマカメラ「FX3 II」や、根強い人気を誇るコンパクトデジカメ「RX100」シリーズの最新モデルなどが候補に挙がっています。",
-    "insight": "複数の認証登録は、製品の量産・出荷体制が整いつつあることを示唆しており、ハードウェアエンジニアリングの観点からは、特に小型筐体における高機能モジュールの実装と排熱設計の進化が注目されます。特にFX3の後継機であれば、最新のセンサー処理能力向上に伴う熱対策がどう最適化されているかが興味深いポイントです。",
-    "sourceUrl": "https://www.sonyalpharumors.com/two-new-sony-cameras-registered-in-china-probably-the-new-fx3ii-and-a-new-rx100-camera/",
-    "sourceName": "SonyAlphaRumors",
-    "originalImageUrl": "https://www.sonyalpharumors.com/wp-content/uploads/2021/02/Sony-FX3.jpg",
-    "originalImageArticleUrl": "https://www.sonyalpharumors.com/two-new-sony-cameras-registered-in-china-probably-the-new-fx3ii-and-a-new-rx100-camera/",
-    "displayDate": "2026-04-27"
-  },
-  "TV": {
-    "title": "世界最薄のワイヤレスOLEDテレビが登場",
-    "summary": "9to5Toysの最新レポートで、「世界最薄」を謳う真のワイヤレスOLEDテレビの存在が注目を集めています。従来のディスプレイ技術とは一線を画す革新的な設計で、今後の家庭用エンターテインメントのあり方に影響を与える可能性が高い製品です。",
-    "insight": "AV機器の進化は、配線管理という物理的制約からの解放に向かっています。高速データ転送のワイヤレス化と電源供給の効率化は、インフラエンジニアにとっても無線通信技術や給電方式の進化という観点で注視すべきトレンドです。",
-    "sourceUrl": "https://9to5toys.com/2026/04/26/news-weekly-recap-black-flag-resynced-worlds-thinnest-true-wireless-oled-tv/",
-    "sourceName": "9to5Toys",
-    "originalImageUrl": "https://i0.wp.com/9to5toys.com/wp-content/uploads/sites/5/2025/05/9to5Toys-Weekly_02b.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-    "originalImageArticleUrl": "https://9to5toys.com/2026/04/26/news-weekly-recap-black-flag-resynced-worlds-thinnest-true-wireless-oled-tv/",
-    "displayDate": "2026-04-27"
-  },
-  "Projector": {
-    "title": "プロジェクター×霧で歩き回れる3D空間を実現",
-    "summary": "プロジェクターと霧を組み合わせることで、歩き回って体験可能な3Dシーンを構築する技術が登場しました。従来の画面投影とは異なり、空間そのものをインタラクティブな映像体験の場に変える新しい手法です。",
-    "insight": "映像を平面に映すだけでなく、物理的な媒体（霧）を介して空間ボリュームを制御する手法は、AR/VRに次ぐ次世代の空間UXとして注目されます。センサーフュージョンによるトラッキングと連動させれば、没入型シミュレーションやデジタルアートの新たな開発基盤になるでしょう。",
-    "sourceUrl": "https://www.techeblog.com/diy-custom-multiview-stereo-projection-3d-fog-scenes/",
-    "sourceName": "TechEBlog",
-    "originalImageUrl": "https://images.techeblog.com/wp-content/uploads/2026/04/25002406/diy-custom-multiview-stereo-projection-3d-fog-scenes.jpg",
-    "originalImageArticleUrl": "https://www.techeblog.com/diy-custom-multiview-stereo-projection-3d-fog-scenes/",
-    "displayDate": "2026-04-27"
-  }
+  "Projector": null,
+  "Production Monitor": null,
+  "LED Wall Display": null,
+  "Camera Control": null,
+  "TV": null
 }
