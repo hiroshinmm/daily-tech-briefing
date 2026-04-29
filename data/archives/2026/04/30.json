@@ -1,0 +1,102 @@
+{
+  "SRD / XR": {
+    "title": "VRで事故のヒヤリハット体験、教育現場での活用が進む",
+    "summary": "名古屋市やトヨタ基金による、VRを用いた交通安全教育イベントが注目を集めています。VRによって「飛び出し」などの危険な状況を疑似体験させることで、座学では困難な安全意識の向上を子供たちに提供する取り組みが加速しています。",
+    "insight": "XR技術はエンタメだけでなく、リスク教育や技能習得のシミュレーターとして非常に高い有用性を持っています。エンジニアとしては、物理環境とバーチャルを組み合わせた教育体験において、いかに没入感を高め、かつ現場のフィードバックを反映させるかというUX設計が鍵となります。",
+    "sourceUrl": "https://www.nikkei.com/article/DGXZQOFD2911F0Z20C26A4000000/",
+    "sourceName": "日本経済新聞",
+    "originalImageUrl": "https://article-image-ix.nikkei.com/https%3A%2F%2Fimgix-proxy.n8s.jp%2FDSXZQO2961020029042026000000-1.png?auto=compress&bg=FFFF&crop=focalpoint&fit=crop&fm=jpg&fp-x=0.07&fp-y=0.51&h=630&w=1200&s=2d92a21aac54c55d69d1d67599ab4e0a",
+    "originalImageArticleUrl": "https://www.nikkei.com/article/DGXZQOFD2911F0Z20C26A4000000/",
+    "displayDate": "2026-04-30"
+  },
+  "Production Monitor": {
+    "title": "iPadが放送スタジオに？Mavis Studioの登場",
+    "summary": "NAB 2026で発表された「Mavis Studio」は、iPadを4入力のマルチカムスイッチャーに変える画期的なライブ配信アプリです。NDI HX3対応、16チャンネルオーディオミキサー機能を備え、YouTubeやTwitchへの直接配信も可能。固定型の放送機材をモバイル環境で代替する、新たな選択肢として注目されています。",
+    "insight": "NDI HX3（低遅延な映像伝送プロトコル）をiPadというモバイルデバイスで活用し、小規模制作の機材コストを劇的に下げる取り組みです。ソフトウェアスイッチャーの進化は、専用ハードウェア主導だったライブ配信ワークフローを大きく変えるきっかけになるでしょう。",
+    "sourceUrl": "https://www.cined.com/mavis-studio-brings-multicam-live-production-to-the-ipad/",
+    "sourceName": "CineD",
+    "originalImageUrl": "https://www.cined.com/content/uploads/2026/04/MAVIS-300x169.jpeg",
+    "originalImageArticleUrl": "https://www.cined.com/mavis-studio-brings-multicam-live-production-to-the-ipad/",
+    "displayDate": "2026-04-30"
+  },
+  "TCL": {
+    "title": "TCLが次世代ゲーミングモニターで640Hz駆動へ挑戦",
+    "summary": "TCLが開発中とされる次世代ゲーミングモニターにおいて、驚異的なリフレッシュレート「640Hz」を実現する可能性があることが報じられました。現在のハイエンド市場の標準である240Hzや360Hzを大幅に上回るスペックです。",
+    "insight": "リフレッシュレートの高速化は、液晶の応答速度やパネルの駆動制御における物理的な限界に挑む技術領域です。640Hzという数値は、バックライトのストロボ駆動やパネルの階調表現の最適化において、従来の表示エンジンとは異なる新しいパイプライン設計が求められていることを示唆しています。",
+    "sourceUrl": "https://www.msn.com/en-us/news/technology/tcl-s-next-gaming-monitor-could-hit-a-staggering-640hz-refresh-rate/ar-AA214se2?apiversion=v2&domshim=1&noservercache=1&noservertelemetry=1&batchservertelemetry=1&renderwebcomponents=1&wcseo=1&bundles=feat-es2020-t",
+    "sourceName": "MSN",
+    "originalImageUrl": null,
+    "originalImageArticleUrl": "https://www.msn.com/en-us/news/technology/tcl-s-next-gaming-monitor-could-hit-a-staggering-640hz-refresh-rate/ar-AA214se2?apiversion=v2&domshim=1&noservercache=1&noservertelemetry=1&batchservertelemetry=1&renderwebcomponents=1&wcseo=1&bundles=feat-es2020-t",
+    "displayDate": "2026-04-30"
+  },
+  "SONY": {
+    "title": "Sonyの次世代ゲーミングモニター：驚異の720Hz OLEDが登場",
+    "summary": "Sonyのゲーミングブランド「INZONE」から、業界最高クラスとなる720Hzのリフレッシュレートを実現したOLED（有機EL）ゲーミングモニターが登場しました。高精細な映像表現と極めて低い遅延の両立により、競技シーンでの競争力を高める次世代ディスプレイとして注目されています。",
+    "insight": "720Hzという圧倒的なフレームレートは、映像の残像感を極限まで低減させるため、フレームバッファの描画タイミングやUIの応答性に関わるエンジニアにとって、視覚的フィードバックの限界を押し広げる指標となります。OLED特有の高速応答速度と高リフレッシュレートの組み合わせは、入力レイテンシのボトルネック解析における新しいベンチマークとなるでしょう。",
+    "sourceUrl": "https://www.msn.com/en-us/news/technology/sony-s-new-gaming-monitor-serves-a-720hz-refresh-rate-atop-an-oled-panel/ar-AA218RQF?apiversion=v2&domshim=1&noservercache=1&noservertelemetry=1&batchservertelemetry=1&renderwebcomponents=1&wcseo=1&bundles=feat-es2020-t",
+    "sourceName": "MSN",
+    "originalImageUrl": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA218WKn.img?w=612&h=367&m=4&q=81",
+    "originalImageArticleUrl": "https://www.msn.com/en-us/news/technology/sony-s-new-gaming-monitor-serves-a-720hz-refresh-rate-atop-an-oled-panel/ar-AA218RQF?apiversion=v2&domshim=1&noservercache=1&noservertelemetry=1&batchservertelemetry=1&renderwebcomponents=1&wcseo=1&bundles=feat-es2020-t",
+    "displayDate": "2026-04-30"
+  },
+  "AI": {
+    "title": "AIの収益化と電力需要：エンジニアが注目すべき現実",
+    "summary": "巨大テック企業がAIへの莫大な投資を続ける中、投資家からは収益化への疑念も出始めました。また、AI処理に必要な電力供給がインフラ課題として浮上しており、持続可能なAI開発には計算リソースの効率化や省電力設計が不可欠です。",
+    "insight": "AIモデルの巨大化・高コスト化はピークに達しつつあり、今後は推論の効率化やエッジデバイスでの実行など、計算資源を最適化するアーキテクチャ設計がエンジニアの腕の見せ所となります。特に電力コストを考慮したMLOpsの構築は、今後のプロジェクト評価において重要なKPIとなるでしょう。",
+    "sourceUrl": "https://www.bbc.com/news/articles/crkpd4r2y7eo",
+    "sourceName": "BBC",
+    "originalImageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/d6a0/live/137a2f70-43f1-11f1-9113-1988573e8ff7.jpg",
+    "originalImageArticleUrl": "https://www.bbc.com/news/articles/crkpd4r2y7eo",
+    "displayDate": "2026-04-30"
+  },
+  "Camera Control": {
+    "title": "AIでライティングを後付け！VividonのPhotoshopプラグイン",
+    "summary": "ストックホルムのスタートアップVividonが、Photoshop用AIリライティングプラグインの早期アクセスを開始しました。撮影後に光源の位置や強さを調整できるこのツールは、従来プロでも修正不可能とされたライティングの問題を解決し、ワークフローを劇的に変える可能性があります。",
+    "insight": "画像処理におけるディープラーニングの活用は、単なる画質向上から物理ベースのライティング補正へと進化しています。計算機科学の観点からは、深度マップを活用した光源推論とレンダリングのリアルタイム実装がプロダクトの鍵となっており、今後の編集ソフトウェアの標準機能になるか注目です。",
+    "sourceUrl": "https://petapixel.com/2026/04/29/vividons-new-photoshop-plugin-uses-ai-to-change-photo-lighting/",
+    "sourceName": "PetaPixel",
+    "originalImageUrl": "https://petapixel.com/assets/uploads/2026/04/Vividon-AI-Is-A-Prompt-Free-Photoshop-Plugin-for-Relighting-.jpg",
+    "originalImageArticleUrl": "https://petapixel.com/2026/04/29/vividons-new-photoshop-plugin-uses-ai-to-change-photo-lighting/",
+    "displayDate": "2026-04-30"
+  },
+  "LED Wall Display": {
+    "title": "ARwall、AIで画像を3D環境へ変換する新機能「Studio Brain」を発表",
+    "summary": "バーチャルプロダクション向けプラットフォーム「ARFX Infinite Studio 2」がアップデートされました。新機能の「Studio Brain」は、AIを活用して静止画を即座に没入型3D環境へ変換可能にします。これにより、制作現場での背景アセット作成のワークフローが大幅に効率化されます。",
+    "insight": "AIモデルを用いて2D画像からリアルタイム制作可能な3D環境を生成するアプローチは、今後の仮想スタジオ構築の標準になるでしょう。エンジニアリング視点では、生成されたアセットの描画負荷管理やレイテンシの最適化が、実用化の鍵を握ります。",
+    "sourceUrl": "https://ravepubs.com/rwall-updates-arfx-infinite-studio-2/",
+    "sourceName": "rAVe [PUBS]",
+    "originalImageUrl": "https://ravepubs.com/wp-content/uploads/2026/04/arwall-update-800x400.webp",
+    "originalImageArticleUrl": "https://ravepubs.com/rwall-updates-arfx-infinite-studio-2/",
+    "displayDate": "2026-04-30"
+  },
+  "Projector": {
+    "title": "5,800ルーメン！JMGOの新型4Kレーザープロジェクター登場",
+    "summary": "JMGOの最新フラッグシップモデル「N3 Ultimate」が発表されました。世界初となる3-in-1光学システムを採用し、最大5,800ルーメンの輝度を実現。ホームシアターのクオリティを一段引き上げる高スペックな仕様で注目を集めています。",
+    "insight": "映像のコントラスト比や輝度向上のための光学エンジン設計は、依然としてハードウェアエンジニアリングの最前線です。特にデュアルアイリス制御やレーザー光源の最適化は、高精細な映像体験を実現するための重要な計算処理と物理実装の融合例と言えます。",
+    "sourceUrl": "https://www.ecoustics.com/products/jmgo-n3-ultimate/",
+    "sourceName": "eCoustics",
+    "originalImageUrl": "https://www.ecoustics.com/wp-content/uploads/jmgo-n3-ultimate-projector.jpg",
+    "originalImageArticleUrl": "https://www.ecoustics.com/products/jmgo-n3-ultimate/",
+    "displayDate": "2026-04-30"
+  },
+  "Gaming Monitor": {
+    "title": "ゲーミングモニターの進化と価格破壊",
+    "summary": "ASRockからリフレッシュレート400Hzを誇るFast IPSモニターが登場する一方で、Samsungの49インチ有機ELモデルが大幅値下げされるなど、高スペック化と低価格化が加速しています。ハイエンド体験がより身近になってきました。",
+    "insight": "リフレッシュレートの高速化は描画アルゴリズムや入力遅延改善の重要性を再認識させます。400Hzという領域は、フレームレート制御だけでなく、PC側のレンダリング負荷とのバランスをエンジニア視点で最適化する良い機会です。",
+    "sourceUrl": "https://www.ubergizmo.com/2026/04/asrock-pg27qfw2a/",
+    "sourceName": "Ubergizmo",
+    "originalImageUrl": "https://i0.wp.com/cdnssl.ubergizmo.com/wp-content/uploads/2026/04/ASRock-PG27QFW2A.jpg",
+    "originalImageArticleUrl": "https://www.ubergizmo.com/2026/04/asrock-pg27qfw2a/",
+    "displayDate": "2026-04-30"
+  },
+  "TV": {
+    "title": "LG OLED TVが599ドルまで大幅値下げ、買い時か？",
+    "summary": "米国の家電市場にて、LGのOLEDテレビのエントリーモデルがブラックフライデー並みの599ドルまで値下げされ、大きな話題となっています。高画質テレビの価格下落は、ホームエンターテインメント環境の刷新を検討する良い機会です。",
+    "insight": "OLED技術のコモディティ化が進み、ハイエンドからミドルレンジへ市場が拡大しています。エンジニアとしては、ディスプレイのコントラスト比やリフレッシュレートといったハードウェア仕様の進化と、それを支えるパネル駆動アルゴリズムの成熟度に注目すべきです。",
+    "sourceUrl": "https://www.androidcentral.com/streaming-tv/stop-the-presses-the-best-entry-level-lg-oled-tv-has-dropped-to-only-usd599-at-best-buy",
+    "sourceName": "Android Central",
+    "originalImageUrl": "https://cdn.mos.cms.futurecdn.net/36yi4oApdwGRizBZC3HgJk-1338-80.jpg",
+    "originalImageArticleUrl": "https://www.androidcentral.com/streaming-tv/stop-the-presses-the-best-entry-level-lg-oled-tv-has-dropped-to-only-usd599-at-best-buy",
+    "displayDate": "2026-04-30"
+  }
+}
