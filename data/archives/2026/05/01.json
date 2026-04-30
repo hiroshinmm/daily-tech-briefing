@@ -1,0 +1,102 @@
+{
+  "SRD / XR": {
+    "title": "Meta Ray-Banは眼鏡ユーザーの救世主となるか？",
+    "summary": "Metaの最新スマートグラス「Ray-Ban Meta」が処方箋対応を強化。視力矯正が必要なユーザーにとって、スマートグラスの装着感や視覚的な違和感をどこまで解消できるかが普及の鍵となりそうです。",
+    "insight": "スマートグラスのハードウェア設計において、既存の眼鏡市場（処方箋対応）との統合はマス向け普及の必須条件です。単なるガジェット性能だけでなく、光学的な適合性とユーザーの日常生活への溶け込みをどう両立させるかというUI/UXの課題は、AR/XR開発者にとって学ぶべき事例といえます。",
+    "sourceUrl": "https://www.uploadvr.com/will-metas-new-prescription-ray-bans-truly-accommodate-the-bespectacled/",
+    "sourceName": "UploadVR",
+    "originalImageUrl": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/04/IMG_3074.jpeg",
+    "originalImageArticleUrl": "https://www.uploadvr.com/will-metas-new-prescription-ray-bans-truly-accommodate-the-bespectacled/",
+    "displayDate": "2026-05-01"
+  },
+  "TCL": {
+    "title": "TCL、日本市場へ超高輝度パネル搭載のプレミアムTVを投入",
+    "summary": "TCLが日本市場向けに、超高輝度パネルを採用したプレミアムテレビの新ラインナップを発表しました。この新製品は、従来のモデルを凌駕する明るさとコントラストを実現しており、特にHDRコンテンツの視聴体験において大きな飛躍が期待されています。",
+    "insight": "Mini LEDと高輝度技術の組み合わせは、液晶ディスプレイの限界を押し上げるトレンドとなっています。バックライト制御のアルゴリズム最適化は、エンジニアにとって映像処理技術と省電力性能を両立させる重要な技術的課題です。",
+    "sourceUrl": "https://www.mixvale.com.br/2026/04/30/tcl%E3%80%81%E8%B6%85%E9%AB%98%E8%BC%9D%E5%BA%A6%E3%83%91%E3%83%8D%E3%83%AB%E3%82%92%E6%90%AD%E8%BC%89%E3%81%97%E3%81%9F%E3%83%97%E3%83%AC%E3%83%9F%E3%82%A2%E3%83%A0%E3%83%86%E3%83%AC%E3%83%93-ja/",
+    "sourceName": "Mix Vale",
+    "originalImageUrl": null,
+    "originalImageArticleUrl": "https://www.mixvale.com.br/2026/04/30/tcl%E3%80%81%E8%B6%85%E9%AB%98%E8%BC%9D%E5%BA%A6%E3%83%91%E3%83%8D%E3%83%AB%E3%82%92%E6%90%AD%E8%BC%89%E3%81%97%E3%81%9F%E3%83%97%E3%83%AC%E3%83%9F%E3%82%A2%E3%83%A0%E3%83%86%E3%83%AC%E3%83%93-ja/",
+    "displayDate": "2026-05-01"
+  },
+  "Gaming Monitor": {
+    "title": "ASRockの400Hzモニターが市場を揺るがす？",
+    "summary": "ASRockが300ドルという衝撃価格で400Hz駆動のQHDゲーミングモニターを発表しました。高リフレッシュレートの民主化を促進する可能性があり、ゲーミングモニター市場の価格競争が激化しそうです。",
+    "insight": "高リフレッシュレート（400Hz）と低価格の両立は、パネル制御の高度化や製造プロセスの効率化を示唆しています。エンジニア視点では、単なるハードウェア性能だけでなく、高フレームレートを維持するためのスケーラーや入出力インターフェース帯域の最適化がどのように行われているかが興味深い点です。",
+    "sourceUrl": "https://www.tweaktown.com/news/111373/asrock-unveils-dollars300-400hz-qhd-monitor-that-could-disrupt-the-market/index.html",
+    "sourceName": "TweakTown",
+    "originalImageUrl": "https://static.tweaktown.com/news/1/1/111373_979889_asrock-unveils-the-pg27qfw2a-and-pg32qft-qhd-gaming-monitors_full.jpg",
+    "originalImageArticleUrl": "https://www.tweaktown.com/news/111373/asrock-unveils-dollars300-400hz-qhd-monitor-that-could-disrupt-the-market/index.html",
+    "displayDate": "2026-05-01"
+  },
+  "SONY": {
+    "title": "Sony α7R VIの噂：6700万画素の積層型CMOS搭載か？",
+    "summary": "次期モデル「α7R VI」に関する噂が浮上しました。6700万画素の積層型CMOSセンサーを搭載し、価格は約5000ドルになる可能性があるとの情報です。高解像度と高速読み出しを両立する積層型センサーの採用に期待が高まっています。",
+    "insight": "積層型CMOSは読み出し速度が飛躍的に向上するため、ローリングシャッター歪みの抑制や、高解像度での高速連写といったエンジニアリング上のボトルネックを解消する重要な技術です。センサーの微細化と高速処理のバランスが今後の製品開発におけるキーポイントとなるでしょう。",
+    "sourceUrl": "https://asobinet.com/will-the-sony-%CE%B17r-vi-feature-a-67-megapixel-stacked-cmos-sensor/",
+    "sourceName": "とるなら 写真道楽道中記",
+    "originalImageUrl": "https://asobinet.com/wp-content/uploads/2022/10/ILCE-7RM5-FB-logo-a7Rm5.jpg",
+    "originalImageArticleUrl": "https://asobinet.com/will-the-sony-%CE%B17r-vi-feature-a-67-megapixel-stacked-cmos-sensor/",
+    "displayDate": "2026-05-01"
+  },
+  "AI": {
+    "title": "医療現場でAIが医師を凌駕、診断精度で有意な差",
+    "summary": "ハーバード大学で行われた試験において、救急トリアージ診断においてAIモデルが医師の判断を上回る精度を記録しました。AIの医療現場での実用性と、補助ツールから共同診療パートナーへの進化が注目されています。",
+    "insight": "AIが専門的な意思決定において人間を超えるケースが増えており、LLMの推論能力は実社会のクリティカルな現場で検証フェーズに入っています。エンジニアとしては、AIが判断の根拠を提示する「説明可能なAI」の実装と、人間とAIのワークフロー統合に注力すべきです。",
+    "sourceUrl": "https://www.theguardian.com/technology/2026/apr/30/ai-outperforms-doctors-in-harvard-trial-of-emergency-triage-diagnoses",
+    "sourceName": "The Guardian",
+    "originalImageUrl": "https://i.guim.co.uk/img/media/7f4b1062db43fb053f4d68c08b8e92dd39f49107/0_62_4362_3487/master/4362.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=ceb8f56ddb65e715896d86461e95819f",
+    "originalImageArticleUrl": "https://www.theguardian.com/technology/2026/apr/30/ai-outperforms-doctors-in-harvard-trial-of-emergency-triage-diagnoses",
+    "displayDate": "2026-05-01"
+  },
+  "LED Wall Display": {
+    "title": "dvLED市場の成長鈍化：最新市場レポートの分析",
+    "summary": "PMA Researchによる2026年第1四半期の最新レポートで、Direct-View LED（dvLED）の販売成長が鈍化傾向にあることが報告されました。市場は依然としてプラス成長を維持していますが、爆発的な伸びから成熟期へ移行しつつある可能性が示唆されています。",
+    "insight": "エンジニアとしては、単なるハードウェアスペックの追求だけでなく、設置後の運用コストやエコシステム全体の最適化が重要視されるフェーズに入ったと捉えるべきです。今後は、輝度やピクセルピッチだけでなく、エネルギー効率やリモート監視・保守の統合性が製品競争力の鍵を握るでしょう。",
+    "sourceUrl": "https://ravepubs.com/pma-research-sales-report/",
+    "sourceName": "rAVe [PUBS]",
+    "originalImageUrl": "https://ravepubs.com/wp-content/uploads/2026/04/image002-800x473.webp",
+    "originalImageArticleUrl": "https://ravepubs.com/pma-research-sales-report/",
+    "displayDate": "2026-05-01"
+  },
+  "Camera Control": {
+    "title": "カメラ用ストロボにリチウム電池はNG？メーカー警告の技術背景",
+    "summary": "Canonを含む各社が、ストロボやバッテリーパックにリチウム乾電池を使用しないよう注意喚起を行っています。一見便利に見える高電圧・高容量のリチウム電池ですが、カメラ周辺機器の設計仕様を上回る負荷がかかり、過熱や故障のリスクがあることが指摘されています。",
+    "insight": "エンジニア視点で見ると、これは消費電力や電圧安定性の仕様差異を無視した『要求仕様外の利用』による物理的障害の典型例です。ガジェットのスペック向上に目が向きがちですが、電源供給側の出力特性と受電側の保護回路の設計上の制約を再確認する重要性が示されています。",
+    "sourceUrl": "https://petapixel.com/2026/04/30/stop-using-aa-lithium-batteries-in-portable-strobes-and-speedlights/",
+    "sourceName": "PetaPixel",
+    "originalImageUrl": "https://petapixel.com/assets/uploads/2026/04/Stop-Using-AA-Lithium-Batteries-in-Portable-Strobes-and-Speedlights.jpg",
+    "originalImageArticleUrl": "https://petapixel.com/2026/04/30/stop-using-aa-lithium-batteries-in-portable-strobes-and-speedlights/",
+    "displayDate": "2026-05-01"
+  },
+  "Production Monitor": {
+    "title": "ブラウザでBRAW編集？Strada Connectの技術的挑戦",
+    "summary": "NAB 2026で発表された「Strada Connect」は、リモート環境での動画制作に革命をもたらす技術です。遠隔地にあるPC上の大容量Blackmagic RAWファイルを、ブラウザ上でデベイヤー処理してライブストリーミング再生し、そのままリモート編集を可能にする画期的なワークフローを実演しました。",
+    "insight": "低帯域幅のネットワーク環境下で、ローカルドライブのRAWデータをブラウザ経由で編集可能にするという技術は、リモートワーク時代の動画制作インフラを大きく変える可能性があります。Web技術の進化が重いメディア資産の管理・共有のあり方を根本から再定義している点は注目すべきでしょう。",
+    "sourceUrl": "https://www.cined.com/strada-connect-at-nab-2026-braw-browser-playback-and-remote-editing-preview/",
+    "sourceName": "CineD",
+    "originalImageUrl": "https://www.cined.com/content/uploads/2026/04/DSCF0819-1-300x169.jpg",
+    "originalImageArticleUrl": "https://www.cined.com/strada-connect-at-nab-2026-braw-browser-playback-and-remote-editing-preview/",
+    "displayDate": "2026-05-01"
+  },
+  "Projector": {
+    "title": "240Hz駆動！ゲーミングモニター代替のレーザープロジェクター「Xgimi RS30」",
+    "summary": "Xgimiが発表した最新のレーザープロジェクター「RS30」は、驚異的な240Hzのリフレッシュレートを実現。従来のホームシアター用途を超え、低遅延・高フレームレートを要求されるゲーミングモニターの代替としてのポテンシャルを秘めており、大型スクリーンでのゲーム体験に新たな可能性を提示しています。",
+    "insight": "プロジェクターにおいて240Hzという高リフレッシュレートの実現は、入力遅延とモーションブラーの課題解決に大きく寄与します。家庭用エンタメデバイスがPCモニターの性能領域に踏み込むことで、今後ゲーミング環境のハードウェア選定に「大画面投影」が有力な選択肢として加わる可能性があります。",
+    "sourceUrl": "https://gagadget.com/en/707529-xgimi-rs30-projectors-laser-powered-gaming-revolution-with-240hz-and-1ms-response-time/",
+    "sourceName": "gagadget.com",
+    "originalImageUrl": "https://gagadget.com/media/cache/f4/42/f44279f0089426a919ad385c2b3463b9.webp",
+    "originalImageArticleUrl": "https://gagadget.com/en/707529-xgimi-rs30-projectors-laser-powered-gaming-revolution-with-240hz-and-1ms-response-time/",
+    "displayDate": "2026-05-01"
+  },
+  "TV": {
+    "title": "大型有機ELテレビが大幅値下げ、買い時か？",
+    "summary": "Amazon Fire TV搭載のPanasonic 77型有機ELテレビZ85が1,299.99ドルまで値下げされるなど、最新の大型4K有機ELテレビが価格競争を繰り広げています。選択肢が広がる一方、製品ごとの性能差や「小型モデルの課題」なども報じられており、消費者にとっての最適解が複雑化しています。",
+    "insight": "家電のコモディティ化とAI処理による画質向上で、ハードウェアの差別化は限界に近づいています。エンジニア視点では、テレビが単なるディスプレイからFire TV等のOS搭載デバイスへと完全にシフトしたことで、UI/UXのパフォーマンスやエコシステム連携が製品寿命を左右する時代になっている点に注目です。",
+    "sourceUrl": "https://www.ign.com/articles/panasonic-z85ba-4k-oled-tv-deal",
+    "sourceName": "IGN",
+    "originalImageUrl": "https://assets-prd.ignimgs.com/2026/04/30/panasonicz85ba-1777570067638.jpg?width=1280&format=jpg&auto=webp&quality=80",
+    "originalImageArticleUrl": "https://www.ign.com/articles/panasonic-z85ba-4k-oled-tv-deal",
+    "displayDate": "2026-05-01"
+  }
+}
