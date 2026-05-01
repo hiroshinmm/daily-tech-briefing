@@ -60,6 +60,22 @@ async function downloadImageToFile(imageUrl, articleUrl, destPath) {
 }
 
 /**
+ * magic bytes からファイルの MIME タイプを推定する
+ */
+function detectMimeType(buffer) {
+    if (buffer.length >= 3 && buffer[0] === 0xFF && buffer[1] === 0xD8 && buffer[2] === 0xFF) return 'image/jpeg';
+    if (buffer.length >= 4 && buffer[0] === 0x89 && buffer[1] === 0x50 && buffer[2] === 0x4E && buffer[3] === 0x47) return 'image/png';
+    if (buffer.length >= 6 && buffer[0] === 0x47 && buffer[1] === 0x49 && buffer[2] === 0x46) return 'image/gif';
+    if (buffer.length >= 12 && buffer.slice(0, 4).toString('ascii') === 'RIFF' && buffer.slice(8, 12).toString('ascii') === 'WEBP') return 'image/webp';
+    if (buffer.length >= 12) {
+        const brand = buffer.slice(8, 12).toString('ascii');
+        if (['avif', 'avis', 'avio'].includes(brand)) return 'image/avif';
+        if (['heic', 'heis', 'heim', 'heix'].includes(brand)) return 'image/heic';
+    }
+    return 'image/jpeg';
+}
+
+/**
  * Puppeteerを使用して画像を読み込み、軽量なJPGとしてキャプチャし直す
  */
 async function resizeImageWithPuppeteer(browser, inputPath, outputPath) {
@@ -68,7 +84,8 @@ async function resizeImageWithPuppeteer(browser, inputPath, outputPath) {
         page = await browser.newPage();
         const buffer = fs.readFileSync(inputPath);
         const base64 = buffer.toString('base64');
-        const dataUri = `data:image/jpeg;base64,${base64}`;
+        const mimeType = detectMimeType(buffer);
+        const dataUri = `data:${mimeType};base64,${base64}`;
 
         await page.setContent(`<html><body style="margin:0;padding:0;"><img src="${dataUri}" style="width:400px;display:block;"></body></html>`);
 

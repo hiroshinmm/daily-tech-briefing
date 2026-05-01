@@ -131,7 +131,10 @@ async function fetchOgImage(url, browser) {
             const text = await response.text();
             let imgUrl = null;
 
-            const ogImageMatch = text.match(/<meta[^>]*property=["']og:image["'][^>]*content=["']([^"']+)["']/i);
+            // property が content より前の場合と後の場合の両方に対応
+            const ogMatchA = text.match(/<meta[^>]*property=["']og:image["'][^>]*content=["']([^"']+)["']/i);
+            const ogMatchB = text.match(/<meta[^>]*content=["']([^"']+)["'][^>]*property=["']og:image["']/i);
+            const ogImageMatch = ogMatchA || ogMatchB;
             if (ogImageMatch) imgUrl = ogImageMatch[1];
 
             if (imgUrl && !imgUrl.startsWith('data:')) {
