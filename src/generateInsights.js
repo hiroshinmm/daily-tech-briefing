@@ -8,7 +8,7 @@ const { decodeGoogleNewsUrl, resolveUrlOnline, getRandomUA, PUPPETEER_ARGS } = r
 /**
  * Gemini API リトライ付き生成
  */
-async function generateContentWithRetry(model, prompt, maxRetries = 3) {
+async function generateContentWithRetry(model, prompt, maxRetries = 5) {
     for (let i = 0; i < maxRetries; i++) {
         try {
             const result = await model.generateContent(prompt);
@@ -18,8 +18,11 @@ async function generateContentWithRetry(model, prompt, maxRetries = 3) {
             const isServerError = error.message.includes('500') || error.message.includes('503');
 
             if ((isRateLimit || isServerError) && i < maxRetries - 1) {
-                const waitTime = Math.pow(2, i) * 2000 + Math.random() * 1000;
-                console.log(`[Gemini] Retry ${i + 1}/${maxRetries} after ${Math.round(waitTime)}ms due to: ${error.message.substring(0, 50)}`);
+                // API が retryDelay を返している場合はそれを優先して使用する
+                const retryDelayMatch = error.message.match(/"retryDelay":"(\d+(?:\.\d+)?)s"/);
+                const suggestedWaitMs = retryDelayMatch ? (Math.ceil(parseFloat(retryDelayMatch[1])) + 2) * 1000 : null;
+                const waitTime = suggestedWaitMs || (Math.pow(2, i) * 2000 + Math.random() * 1000);
+                console.log(`[Gemini] Retry ${i + 1}/${maxRetries} after ${Math.round(waitTime / 1000)}s due to: ${error.message.substring(0, 50)}`);
                 await new Promise(r => setTimeout(r, waitTime));
                 continue;
             }

@@ -10,8 +10,8 @@ on:
 
 env:
   FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
-  # カテゴリ並列処理数。Gemini APIレートリミットに応じて調整する (デフォルト: 5)
-  INSIGHT_CONCURRENCY: 5
+  # カテゴリ並列処理数。Gemini APIレートリミットに応じて調整する (フリー枠15RPM対応で2に設定)
+  INSIGHT_CONCURRENCY: 2
 
 jobs:
   build-and-deploy:
@@ -82,6 +82,7 @@ jobs:
           git add -A -- data/archives/
           git add data/seen_articles.json || true
           git commit -m "chore: archive daily insights [skip ci]" || echo "No changes to commit"
+          git pull --rebase origin main
           git push
 
       # Step 7: 失敗時通知 (いずれかのステップが失敗した場合のみ実行)
