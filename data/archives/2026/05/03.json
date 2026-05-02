@@ -1,0 +1,102 @@
+{
+  "AI": {
+    "title": "米国防総省がAI8社と機密軍事利用で契約",
+    "summary": "米国防総省（DoD）が、機密性の高い軍事データ利用を目的としてAI企業8社と契約を締結しました。一方で、Anthropicは今回選定から外れています。国家安全保障とAIの統合が加速する中、技術選定の基準やセキュリティ要件が注目されています。",
+    "insight": "軍事用途のような高セキュリティ環境におけるAI活用において、どのLLMを選択し、どのようにガードレールを構築するかは重要なエンジニアリングの課題です。Anthropicが排除された背景には、データ漏洩リスクや、特定の商用AIモデルが軍事プロトコルに適応できない懸念があると考えられます。",
+    "sourceUrl": "https://news.yahoo.co.jp/articles/b05bde7afeb72c268301ce65971716afc32bc52d",
+    "sourceName": "Yahoo!ニュース",
+    "originalImageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260502-00185272-biz_plus-000-1-view.jpg?exp=10800",
+    "originalImageArticleUrl": "https://news.yahoo.co.jp/articles/b05bde7afeb72c268301ce65971716afc32bc52d",
+    "displayDate": "2026-05-03"
+  },
+  "Gaming Monitor": {
+    "title": "次世代ディスプレイの潮流：Tandem OLEDと480Hz",
+    "summary": "LGがTandem OLED技術と480Hzのリフレッシュレートを備えた新型ゲーミングモニター「UltraGear 32GX870B」を発表しました。AOCも同様の技術を採用した高輝度モデルを発表しており、ゲーミングモニターにおけるパネル技術の転換点となっています。",
+    "insight": "従来のOLEDの課題であった焼き付き耐性と輝度を両立させる「Tandem OLED」技術は、高負荷な作業やゲーム用途での信頼性を向上させる重要な進化です。リフレッシュレートの高速化と合わせ、今後のUI/UX設計における高フレームレート表示への最適化検討の参考になるでしょう。",
+    "sourceUrl": "https://www.gizmochina.com/2026/05/02/lg-ultragear-32gx870b-gaming-monitor-launched-specs-price/",
+    "sourceName": "Gizmochina",
+    "originalImageUrl": "https://www.gizmochina.com/wp-content/uploads/2026/05/LG-UltraGear-32GX870B-gaming-monitor.png",
+    "originalImageArticleUrl": "https://www.gizmochina.com/2026/05/02/lg-ultragear-32gx870b-gaming-monitor-launched-specs-price/",
+    "displayDate": "2026-05-03"
+  },
+  "SRD / XR": {
+    "title": "Apple Vision Pro向けライブ撮影機材が映像制作を変える",
+    "summary": "Blackmagic Designが発表した「URSA Cine Immersive 100G」は、Apple Vision Proの没入型映像に特化した撮影システムです。NAB Showで注目を集めた同機材は、立体視映像のライブ配信やコンテンツ制作のワークフローを大幅に効率化し、XR映像表現の新たなスタンダードになる可能性を秘めています。",
+    "insight": "Apple Vision Proの空間コンピューティング需要に対し、プロ向け映像制作機材がいかに対応していくかが今後のトレンドです。特に立体視データ（イマーシブ映像）をライブで扱うためのレンダリングや転送プロトコルの進化は、エンジニアとして注目すべき領域です。",
+    "sourceUrl": "https://www.moguravr.com/apple-vision-pro-ursa-cine-immersive-100g/",
+    "sourceName": "Mogura VR",
+    "originalImageUrl": "https://assets.moguravr.com/uploads/2019/09/7b2539cec61544e90284a88067461908-kix.5azdbi88clvf-300x225.webp",
+    "originalImageArticleUrl": "https://www.moguravr.com/apple-vision-pro-ursa-cine-immersive-100g/",
+    "displayDate": "2026-05-03"
+  },
+  "TCL": {
+    "title": "TCLが163型Micro LEDなど新製品を披露",
+    "summary": "TCLが最新技術を結集した163型Micro LED 4Kディスプレイを発表しました。さらに「バットマン」コラボのスマートグラスや、Bang & Olufsenのスピーカーを搭載したゲーミングモニターなど、ハードウェアとエンターテインメントを融合させた野心的な新製品ラインナップが公開されています。",
+    "insight": "Micro LEDの大型化は、コンシューマー向けディスプレイの次なるフロンティアとして注目すべき技術トレンドです。特に高性能なオーディオ統合とXRデバイスの拡充は、今後のホームエンターテインメント環境の構築においてソフトウェアエンジニアが考慮すべきUI/UXの拡張性を示唆しています。",
+    "sourceUrl": "https://www.chiba-tv.com/plus/detail/2026051587207",
+    "sourceName": "千葉テレビ放送",
+    "originalImageUrl": "https://img.nordot.app/c_limit,w_360,f_auto,q_auto:eco/ch/images/1423077384222737857/origin_1.jpg",
+    "originalImageArticleUrl": "https://www.chiba-tv.com/plus/detail/2026051587207",
+    "displayDate": "2026-05-03"
+  },
+  "Projector": {
+    "title": "光学補正で画質革命？注目の次世代4Kプロジェクター",
+    "summary": "デジタル補正に依存せず、光学的な補正を優先した新しいトライレーザー4Kプロジェクターが登場しました。画質の劣化を最小限に抑える設計は、ホームシアター体験を大きく変える可能性があります。",
+    "insight": "デジタルキーストーン補正による画素の欠損を避け、物理的な光学補正に立ち返る設計思想は、ハードウェアの基礎技術の重要性を再認識させます。エンジニアの観点では、信号処理による最適化よりも、光学系の物理的な配置・調整の方が画質に与える影響が依然として支配的であることを示唆しています。",
+    "sourceUrl": "https://newatlas.com/home-entertainment/jmgo-n3-ultimate/",
+    "sourceName": "New Atlas",
+    "originalImageUrl": "https://assets.newatlas.com/dims4/default/2f4993b/2147483647/strip/true/crop/2787x1463+0+158/resize/1200x630!/quality/85/?url=https%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2F91%2F13%2Fd41ee9d440e6acb19d6ebc202bdd%2F4k.jpg&na.image_optimisation=0",
+    "originalImageArticleUrl": "https://newatlas.com/home-entertainment/jmgo-n3-ultimate/",
+    "displayDate": "2026-05-03"
+  },
+  "SONY": {
+    "title": "100年前のレンズがSony Cinema Lineで蘇る",
+    "summary": "100年前のビンテージレンズをSonyの最新シネマカメラに装着し、現代の映像制作で活用するというプロジェクトが話題です。往年の光学技術と現代のセンサー技術の融合が、独特の質感を生み出しています。",
+    "insight": "レガシーな光学設計と最新のデジタル処理の組み合わせは、映像表現に新たな深みを与えています。エンジニアの視点では、マウントアダプターを介した旧来の収差やフレアを、最新センサーがどう解釈・描写しているかという特性の解析が興味深いです。",
+    "sourceUrl": "https://www.techeblog.com/100-year-old-lens-sony-cinema-camera-mod/",
+    "sourceName": "TechEBlog",
+    "originalImageUrl": "https://images.techeblog.com/wp-content/uploads/2026/05/01175634/100-year-old-lens-sony-cinema-camera-mod.jpg",
+    "originalImageArticleUrl": "https://www.techeblog.com/100-year-old-lens-sony-cinema-camera-mod/",
+    "displayDate": "2026-05-03"
+  },
+  "LED Wall Display": {
+    "title": "ディズニーとHulu、没入型体験の店舗開発へ",
+    "summary": "DisneyとHuluが、インタラクティブで没入感のある店舗（ストアフロント）開発で提携しました。デジタルサイネージ技術を駆使し、物理的な空間とデジタルコンテンツを融合させ、顧客に新しいブランド体験を提供することを目指しています。",
+    "insight": "デジタルサイネージが単なる広告表示から、顧客体験（CX）を変革するインタラクティブなUIへと進化しています。エンジニアとしては、低遅延な映像同期技術や、実空間でのセンサーフィードバックを考慮した堅牢なシステム設計が鍵となるでしょう。",
+    "sourceUrl": "https://www.digitalsignagetoday.com/news/disney-hulu-team-on-interactive-immersive-storefronts/",
+    "sourceName": "Digital Signage Today",
+    "originalImageUrl": "https://nmgprod.s3.amazonaws.com/media/file/f3/b1/6ad56e0d1bd42332365c9a61e36f/cover_image__tWqLLZLx__hulu_disney.png.360x190_q85_crop_upscale.png",
+    "originalImageArticleUrl": "https://www.digitalsignagetoday.com/news/disney-hulu-team-on-interactive-immersive-storefronts/",
+    "displayDate": "2026-05-03"
+  },
+  "TV": {
+    "title": "「五等分の花嫁」新作アニメ制作決定！",
+    "summary": "大人気アニメ『五等分の花嫁』シリーズの続編となる新作アニメ『五等分の花嫁【春夏秋冬】』および新作OVAの制作が決定しました。ファン待望の完全新作エピソードが描かれることが発表され、SNSを中心に大きな話題となっています。",
+    "insight": "人気コンテンツのマルチメディア展開における長寿化手法として、OVAや季節限定エピソードは非常に有効な戦略です。エンジニア視点では、大規模なIP管理におけるアセット再利用や、制作パイプラインの効率化といったコンテンツ開発側のDX動向にも注目したいところです。",
+    "sourceUrl": "https://www.tbs.co.jp/anime/5hanayome/news/news20260502.html",
+    "sourceName": "tbs.co.jp",
+    "originalImageUrl": "https://www.tbs.co.jp/anime/5hanayome/img/ogp_ast.jpg",
+    "originalImageArticleUrl": "https://www.tbs.co.jp/anime/5hanayome/news/news20260502.html",
+    "displayDate": "2026-05-03"
+  },
+  "Production Monitor": {
+    "title": "ポストプロダクション業界の再編：Boris FXによる買収",
+    "summary": "Boris FXがMAGIXからVegas Pro、Sound Forge、Acid Proを買収しました。NAB 2026を経て、この動きは特定のユーザー向けツールにとどまらず、映像・音声編集ソフトウェア市場の広範な再編と統合を象徴する出来事として注目されています。",
+    "insight": "レガシーなソフトウェア資産の買収と統合は、特定の製品群がAI技術を吸収して生き残る戦略を示唆しています。エンジニアとしては、ツールチェーンの統合とベンダーロックインのリスクを長期視点で再評価するきっかけになるはずです。",
+    "sourceUrl": "https://www.cined.com/boris-fx-acquires-vegas-pro-sound-forge-and-acid-pro-a-month-later-the-industry-consolidation-picture-sharpens/",
+    "sourceName": "CineD",
+    "originalImageUrl": "https://www.cined.com/content/uploads/2026/04/BorisFX_PR-300x169.jpg",
+    "originalImageArticleUrl": "https://www.cined.com/boris-fx-acquires-vegas-pro-sound-forge-and-acid-pro-a-month-later-the-industry-consolidation-picture-sharpens/",
+    "displayDate": "2026-05-03"
+  },
+  "Camera Control": {
+    "title": "高画素化は正義か？カメラのスペック競争を再考する",
+    "summary": "デジタルカメラの性能向上において高画素化が加速していますが、本当にそれだけの画素数が全フォトグラファーに必要なのでしょうか。PetaPixelの記事では、際限のないメガピクセル競争の是非について、実用性とトレードオフの観点から疑問を投げかけています。",
+    "insight": "ソフトウェア開発と同様に、カメラ業界でも「スペック上の数値向上」が必ずしも「体験の質」を向上させるとは限りません。ストレージ容量、処理速度、ノイズ耐性といったボトルネックを考慮すると、過剰なスペック追求よりもワークフロー全体の最適化が重要であるという教訓は、エンジニアの設計哲学にも通じます。",
+    "sourceUrl": "https://petapixel.com/2026/05/02/should-photographers-even-actually-want-more-megapixels/",
+    "sourceName": "PetaPixel",
+    "originalImageUrl": "https://petapixel.com/assets/uploads/2026/04/Flying-puffin-1600x840.jpg",
+    "originalImageArticleUrl": "https://petapixel.com/2026/05/02/should-photographers-even-actually-want-more-megapixels/",
+    "displayDate": "2026-05-03"
+  }
+}
