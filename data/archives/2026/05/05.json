@@ -1,0 +1,102 @@
+{
+  "AI": {
+    "title": "ホワイトハウス、AIモデルの事前審査を検討へ",
+    "summary": "米政府が、強力なAIモデルの公開前に安全性やリスクを評価する「事前審査」の導入を検討していると報じられました。生成AIの急速な発展に伴い、安全性の担保とイノベーションのバランスをどう図るかが大きな焦点となっています。",
+    "insight": "エンジニアとしては、将来的にAIモデルのリリース時に厳格なコンプライアンスや検証プロセスが必須となる可能性を考慮し、MLOpsの設計に安全性評価を組み込む重要性が高まっています。また、モデルの透明性や説明可能性（XAI）の確保が、今後の開発における主要な非機能要件となるでしょう。",
+    "sourceUrl": "https://www.nytimes.com/2026/05/04/technology/trump-ai-models.html",
+    "sourceName": "The New York Times",
+    "originalImageUrl": null,
+    "originalImageArticleUrl": "https://www.nytimes.com/2026/05/04/technology/trump-ai-models.html",
+    "displayDate": "2026-05-05"
+  },
+  "SRD / XR": {
+    "title": "Google、地理空間AIデータセットPDIを公開",
+    "summary": "GoogleがGoogle Maps Platformを通じて、混雑状況や人流の需要予測を行うためのAI向け地理空間データセット「Population Dynamics Insights（PDI）」のプレビュー提供を開始しました。",
+    "insight": "都市の流動性データをAIモデルの学習に組み込むことで、スマートシティや最適化アルゴリズムの開発が加速する可能性があります。エンジニアにとって、地図APIとLLM/AIパイプラインを組み合わせる新しい設計パターンを模索する好機です。",
+    "sourceUrl": "https://www.moguravr.com/google-population-dynamics-insights/",
+    "sourceName": "Mogura VR",
+    "originalImageUrl": "https://assets.moguravr.com/uploads/2026/03/a44590a865e5d25d3fd0eee3c84f30a4-kix.v7rvht8x8tno-300x169.webp",
+    "originalImageArticleUrl": "https://www.moguravr.com/google-population-dynamics-insights/",
+    "displayDate": "2026-05-05"
+  },
+  "SONY": {
+    "title": "国際宇宙ステーションでソニー製カメラの映像が公開",
+    "summary": "国際宇宙ステーション（ISS）から、ソニーのミラーレス一眼カメラで撮影された高精細な映像が公開されました。過酷な宇宙環境下での性能実証として注目されています。",
+    "insight": "民生用カメラが宇宙空間の極限環境で耐用し、高画質データを送出できる点は、組み込み機器の耐環境性能として非常に興味深いです。特に放射線や温度変化に対するハードウェア側の保護・安定化技術は、宇宙ビジネス参入を目指すエンジニアにとって示唆に富む事例といえます。",
+    "sourceUrl": "https://www.walkerplus.com/article/116197/image640394.html",
+    "sourceName": "ウォーカープラス",
+    "originalImageUrl": "https://news.walkerplus.com/article/116197/640383_615.jpg",
+    "originalImageArticleUrl": "https://www.walkerplus.com/article/116197/image640394.html",
+    "displayDate": "2026-05-05"
+  },
+  "TCL": {
+    "title": "RokuとTCL、TVの「文鎮化」で集団訴訟へ",
+    "summary": "TCL製のRoku TVにおいて、ソフトウェアアップデートを適用した後にテレビが正常に動作しなくなる（いわゆる「文鎮化」する）問題が発生し、米国内で集団訴訟が提起されました。アップデート後の起動不可や画面のブラックアウトが主な報告内容です。",
+    "insight": "組み込みシステムにおけるOTAアップデートの品質管理とロールバック機構の重要性を再認識させる事例です。ファームウェア配布時のバリデーションや異常検知時のセーフモード実装など、デバイスの可用性を維持する設計の難しさが浮き彫りになっています。",
+    "sourceUrl": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQSGN4MG96MndaMEVrQUhodGo5ZFJiLUZNR3M4a1Rtb0JnU3F2bkVGUWQ5NUV1N3VjS2FnU0V4S2RTYk1BZEpkSjZFSEM2T2RYQzJBdm0wV3h6eUNwaTRMOUlqanJCMUR1aTF4V0lNeHBEVDRONGRqWW1sNkVUdmE5WWpkZ0l2SVoyS09HckNDck1oQjlIM21waVcxN050RFVmRVM1ZUJuNVJoR1hxNUVUNnJlX2VDNzUwVVdYbGNaaVZpM25HY01hMkc0REpVOENsMDRDUFFSVWY?oc=5",
+    "sourceName": "Class Action Lawsuits",
+    "originalImageUrl": null,
+    "originalImageArticleUrl": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQSGN4MG96MndaMEVrQUhodGo5ZFJiLUZNR3M4a1Rtb0JnU3F2bkVGUWQ5NUV1N3VjS2FnU0V4S2RTYk1BZEpkSjZFSEM2T2RYQzJBdm0wV3h6eUNwaTRMOUlqanJCMUR1aTF4V0lNeHBEVDRONGRqWW1sNkVUdmE5WWpkZ0l2SVoyS09HckNDck1oQjlIM21waVcxN050RFVmRVM1ZUJuNVJoR1hxNUVUNnJlX2VDNzUwVVdYbGNaaVZpM25HY01hMkc0REpVOENsMDRDUFFSVWY?oc=5",
+    "displayDate": "2026-05-05"
+  },
+  "TV": {
+    "title": "20個のニューラルネットワークで映像をアップスケールする最新OLED",
+    "summary": "最新のOLEDテレビが、20個のニューラルネットワークを活用してコンテンツをリアルタイムで高画質化する技術を搭載。AIによる高度なアップスケーリングが映像体験を再定義しています。",
+    "insight": "低解像度ソースをAIで補完する技術は、エッジAI処理の最適化という観点で非常に興味深いです。モデルの推論効率と映像の忠実度のバランスをどう取っているのか、ハードウェア側のアクセラレータ構成を考察する良い材料になります。",
+    "sourceUrl": "https://www.msn.com/en-us/lifestyle/shopping/this-oled-tv-uses-20-neural-networks-to-upscale-everything-you-watch/ar-AA21X0mP?ocid=Peregrine",
+    "sourceName": "MSN",
+    "originalImageUrl": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1MLQpt.img?w=612&h=344&m=4&q=85",
+    "originalImageArticleUrl": "https://www.msn.com/en-us/lifestyle/shopping/this-oled-tv-uses-20-neural-networks-to-upscale-everything-you-watch/ar-AA21X0mP?ocid=Peregrine",
+    "displayDate": "2026-05-05"
+  },
+  "Gaming Monitor": {
+    "title": "ついに500Hz到達！BenQの最新QD-OLEDモニター",
+    "summary": "BenQのゲーミングブランド「MOBIUS」から、リフレッシュレート500Hzを実現した27インチQD-OLEDモニターが登場しました。高速な描画性能に加え、クリエイター向けの精密な色調整機能を備えており、ゲーミングと制作作業の両立を狙ったハイエンドモデルです。",
+    "insight": "リフレッシュレートの高速化は物理層でのデータ転送量が増大するため、パネル側の駆動技術と低遅延化が鍵となります。エンジニアの視点では、こうした高リフレッシュレート環境におけるGPU側のフレームバッファ処理や、入力レイテンシに対する最適化の知見が今後さらに重要になるでしょう。",
+    "sourceUrl": "https://www.gizmochina.com/2026/05/04/benq-mobiuz-ex271qz-gaming-monitor-launched-india/",
+    "sourceName": "Gizmochina",
+    "originalImageUrl": "https://www.gizmochina.com/wp-content/uploads/2026/05/BenQ-Mobiuz-EX271QZ-gaming-monitor.png",
+    "originalImageArticleUrl": "https://www.gizmochina.com/2026/05/04/benq-mobiuz-ex271qz-gaming-monitor-launched-india/",
+    "displayDate": "2026-05-05"
+  },
+  "Projector": {
+    "title": "Anker Nebula Capsule 3 Laserが27%OFF",
+    "summary": "Ankerのモバイルレーザープロジェクター「Nebula Capsule 3 Laser」が、Amazonのゴールデンウィークセール（スマイルセール）にて27％オフで販売中です。持ち運べる高画質レーザー光源として評価の高い製品です。",
+    "insight": "モバイル環境でもレーザー光源の採用により、明るさとコントラスト比が向上しており、携帯性と画質のトレードオフが解消されつつあります。エンジニアのリモートワーク環境や出張先でのプレゼン・シアター環境のアップグレードとして検討の余地があります。",
+    "sourceUrl": "https://jp.ign.com/gaming-device/83264/ankernebula-capsule-3-laseramazon27sale",
+    "sourceName": "IGN Japan",
+    "originalImageUrl": "https://sm.ign.com/t/ign_jp/screenshot/default/1_jrem.1200.jpg",
+    "originalImageArticleUrl": "https://jp.ign.com/gaming-device/83264/ankernebula-capsule-3-laseramazon27sale",
+    "displayDate": "2026-05-05"
+  },
+  "Production Monitor": {
+    "title": "脱XML！Adobe/DaVinci変換ツール「CornerCut」",
+    "summary": "XML形式を介さず、Adobe Premiere Proプロジェクトファイル(.prproj)をDaVinci Resolveプロジェクト(.drp)へ直接変換する新ツール「CornerCut」が登場。キーフレームやエフェクト、オーディオルーティングなどの複雑な情報を保持したまま変換可能です。",
+    "insight": "XMLベースの交換における互換性問題は長年の技術的負債ですが、ネイティブプロジェクト構造の解析による変換は非常に興味深いアプローチです。特定のNLEに依存しない自動変換アルゴリズムの実装や、APIの設計思想はエンジニアとしても参考になります。",
+    "sourceUrl": "https://www.cined.com/forget-xml-cornercut-translates-adobe-premiere-pro-projects-directly-to-davinci-resolve/",
+    "sourceName": "CineD",
+    "originalImageUrl": "https://www.cined.com/content/uploads/2026/04/CornerCut-1-300x169.jpeg",
+    "originalImageArticleUrl": "https://www.cined.com/forget-xml-cornercut-translates-adobe-premiere-pro-projects-directly-to-davinci-resolve/",
+    "displayDate": "2026-05-05"
+  },
+  "Camera Control": {
+    "title": "フィルムカメラをデジカメ化！「I'm Back」のシャッター同期問題",
+    "summary": "フィルムカメラの背面に装着してデジタル化する「I'm Back Roll」が、フィルムカメラの機械式シャッターとデジタルセンサーを同期させるための「Sync button」を発表。Bluetoothの遅延問題を解消する物理的な解決策として注目され、Kickstarterで100万ドルに迫る資金を集めています。",
+    "insight": "レガシーな機械式インターフェースとデジタル回路を物理的に同期させる「低遅延なハードウェア連携」の好例です。レトロフィット技術において、無線通信のボトルネックをいかにアナログなスイッチングで解決するかというエンジニアリング視点が非常に興味深いです。",
+    "sourceUrl": "https://www.dpreview.com/news/2426198365/digital-film-project-solves-double-shutter-problem",
+    "sourceName": "Digital Photography Review",
+    "originalImageUrl": "https://1.img-dpreview.com/files/p/E~C1x0S1307x980T1200x900~articles/2426198365/Im_Back_Sync_button_side_view.jpeg",
+    "originalImageArticleUrl": "https://www.dpreview.com/news/2426198365/digital-film-project-solves-double-shutter-problem",
+    "displayDate": "2026-05-05"
+  },
+  "LED Wall Display": {
+    "title": "太陽光発電で進化するMicroLEDディスプレイ",
+    "summary": "VueReal社が、SID 2026で太陽光発電機能を統合したMicroLEDディスプレイ・プラットフォーム「EcoVue™」を発表しました。この技術は、外部電源への依存を減らし、エネルギー自給型のディスプレイ・ソリューションを実現する可能性を秘めています。",
+    "insight": "MicroLEDの駆動効率とエネルギー管理を物理層で統合する試みは、IoTや屋外サイネージの設計パラダイムを変える可能性があります。低消費電力なMicroLEDチップ技術と太陽光発電の効率的連携は、将来的な大規模LEDウォールの運用コストと設置制約を大幅に改善するエンジニアリング上の転換点となるでしょう。",
+    "sourceUrl": "https://weeklyvoice.com/vuereal-launches-ecovue-solar-integrated-microled-display-platform-at-sid-2026/",
+    "sourceName": "Weekly Voice",
+    "originalImageUrl": "https://weeklyvoice.com/wp-content/uploads/2026/01/Press-Release-3-scaled.jpg",
+    "originalImageArticleUrl": "https://weeklyvoice.com/vuereal-launches-ecovue-solar-integrated-microled-display-platform-at-sid-2026/",
+    "displayDate": "2026-05-05"
+  }
+}
