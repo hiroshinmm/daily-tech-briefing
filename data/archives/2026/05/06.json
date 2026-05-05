@@ -1,0 +1,102 @@
+{
+  "AI": {
+    "title": "Metaがエージェント型AI開発を加速",
+    "summary": "Metaがユーザー向けの高度な「エージェント型AI（agentic AI）」の開発を進めていることがFTの報道で明らかになりました。単なるチャットボットを超え、複雑なタスクを実行可能なAIの実装が期待されています。",
+    "insight": "LLMの次なるトレンドは、プロンプトに応答するだけでなく自律的にタスクを完遂する「エージェント型」へのシフトです。エンジニアとしては、単なる生成AIの実装から、外部ツールとの連携や長期的なワークフロー制御を考慮したシステムアーキテクチャの設計が求められるようになります。",
+    "sourceUrl": "https://www.reuters.com/business/meta-plans-advanced-agentic-ai-assistant-users-ft-reports-2026-05-05/",
+    "sourceName": "Reuters",
+    "originalImageUrl": null,
+    "originalImageArticleUrl": "https://www.reuters.com/business/meta-plans-advanced-agentic-ai-assistant-users-ft-reports-2026-05-05/",
+    "displayDate": "2026-05-06"
+  },
+  "SRD / XR": {
+    "title": "ARスポーツ「HADO」が高校教育へ導入拡大",
+    "summary": "ARスポーツ「HADO」を提供するmeleapが、全国の高校向けに導入相談を開始しました。DXハイスクール等の教育構想に対応し、ICT教育や新しいスポーツ体験の場としての活用が期待されています。",
+    "insight": "身体的パフォーマンスとデジタル拡張を組み合わせたARスポーツは、教育現場でのアクティブラーニングやフィジカル×デジタルの新しい領域として注目です。空間トラッキング技術の教育利用が加速する中で、技術スタックとしての相互運用性や体験デザインの重要性が増しています。",
+    "sourceUrl": "https://www.kknews.co.jp/news/20260505o04",
+    "sourceName": "教育家庭新聞社",
+    "originalImageUrl": null,
+    "originalImageArticleUrl": "https://www.kknews.co.jp/news/20260505o04",
+    "displayDate": "2026-05-06"
+  },
+  "Gaming Monitor": {
+    "title": "ハイエンドゲーミングモニターの価格急落",
+    "summary": "Amazonにて、Samsung Odyssey OLED G9やAlienware 34インチ、LG Ultragear OLEDなど、高性能ゲーミングモニターが最大700ドルオフの過去最安値水準で販売されています。超大型曲面ディスプレイや高リフレッシュレートモデルへの乗り換えを検討する絶好の機会となっています。",
+    "insight": "OLED技術を採用したハイエンドディスプレイが大きく値下がりしており、エンジニアの作業効率向上や作業環境のアップグレードに最適なタイミングです。特に高解像度・広色域のモニターは、デバッグやUI設計時の視認性を飛躍的に高めるため、投資価値が非常に高まっています。",
+    "sourceUrl": "https://mashable.com/article/april-29-samsung-odyssey-oled-g9-monitor-deal",
+    "sourceName": "Mashable",
+    "originalImageUrl": "https://helios-i.mashable.com/imagery/articles/03zNPLzSppG3oZhyrq830Bq/hero-image.fill.size_1200x675.v1777471789.png",
+    "originalImageArticleUrl": "https://mashable.com/article/april-29-samsung-odyssey-oled-g9-monitor-deal",
+    "displayDate": "2026-05-06"
+  },
+  "Projector": {
+    "title": "XGIMI、超高輝度4Kプロジェクターを投入",
+    "summary": "XGIMIが最新の旗艦モデルとなる4Kプロジェクター「Titan Noir」を発表しました。高輝度と鮮やかな色彩を両立させた製品で、Kickstarter経由での先行販売も実施されています。",
+    "insight": "家庭用プロジェクター市場では、ポータブル性と画質のバランスが激化しています。ハードウェアの進化に加え、クラウドファンディングを活用した先行販売戦略が普及モデルの地位をどう変えるか注目です。",
+    "sourceUrl": "https://www.ign.com/articles/preorder-xgimi-titan-noir-4k-projector-deal-from-kickstarter-updated",
+    "sourceName": "IGN",
+    "originalImageUrl": "https://assets-prd.ignimgs.com/2026/04/23/xgimititannoir-1776968544304.jpg?width=1280&format=jpg&auto=webp&quality=80",
+    "originalImageArticleUrl": "https://www.ign.com/articles/preorder-xgimi-titan-noir-4k-projector-deal-from-kickstarter-updated",
+    "displayDate": "2026-05-06"
+  },
+  "TCL": {
+    "title": "RokuとTCLのTV、OS更新で「文鎮化」として集団訴訟へ",
+    "summary": "Roku OSを搭載したTCL製テレビにおいて、ソフトウェアアップデート後に画面が映らなくなる「文鎮化」が発生しているとして、米国内で集団訴訟が提起されました。ユーザーからはアップデート直後の不具合報告が相次いでいます。",
+    "insight": "ファームウェア更新の品質保証（QA）プロセスにおけるリグレッションテストの重要性を再認識させる事例です。IoTデバイスのOTA更新において、最悪のシナリオ（ハードウェアの動作不能）を回避するためのセーフブートやロールバック機能の設計は、エンジニアにとって極めて重要な設計課題です。",
+    "sourceUrl": "https://www.cnet.com/tech/home-entertainment/roku-tcl-class-action-lawsuit-tv-software-updates/",
+    "sourceName": "CNET",
+    "originalImageUrl": "https://www.cnet.com/a/img/resize/cea17f3aa6ffabcd7321307c8101011da154c6c9/hub/2026/05/05/39893653-6c18-4b9a-b0fc-ddf7f436c7c4/gettyimages-1556374422.jpg?auto=webp&fit=crop&height=675&width=1200",
+    "originalImageArticleUrl": "https://www.cnet.com/tech/home-entertainment/roku-tcl-class-action-lawsuit-tv-software-updates/",
+    "displayDate": "2026-05-06"
+  },
+  "SONY": {
+    "title": "ソニーがインドでカメラトラッキングシステム「OCELLUS」を展開",
+    "summary": "ソニーインディアは、バーチャルプロダクションやAR向けに、高精度なカメラトラッキングシステム「OCELLUS（ASR-CT1）」を投入しました。センサーやマーカーレス技術により、リアルタイムの合成環境における複雑なカメラワークをサポートします。",
+    "insight": "バーチャルプロダクションにおけるカメラトラッキングは、レイテンシと位置精度の両立がエンジニアリング上の要です。ソニーがこの分野に本格参入することで、映像制作パイプラインにおけるリアルタイムレンダリングの最適化手法がさらに標準化されるでしょう。",
+    "sourceUrl": "https://timesofindia.indiatimes.com/technology/tech-news/sony-launches-ocellus-camera-tracking-system-in-india-at-rs-32-37-lakh/articleshow/130835407.cms",
+    "sourceName": "The Times of India",
+    "originalImageUrl": "https://static.toiimg.com/thumb/msid-130835581,width-1280,height-720,imgsize-74044,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "originalImageArticleUrl": "https://timesofindia.indiatimes.com/technology/tech-news/sony-launches-ocellus-camera-tracking-system-in-india-at-rs-32-37-lakh/articleshow/130835407.cms",
+    "displayDate": "2026-05-06"
+  },
+  "TV": {
+    "title": "OLEDテレビが大幅値下げ中！エンジニア視点の買い時",
+    "summary": "現在、55インチの4K OLEDテレビが470ドル前後まで値下がりするなど、ハイエンドディスプレイがかつてない安値で取引されています。Cyber Monday等のセール時期とも重なり、ディスプレイ技術の進化と価格破壊が同時進行しています。",
+    "insight": "OLEDやMiniLEDの普及により、高リフレッシュレート（120Hz）と高コントラスト比が低価格帯でも標準化しつつあります。開発環境のサブディスプレイとしても、表示遅延や色の再現性が向上しており、エンジニアの作業用モニターとしても非常にコスパの高い選択肢となっています。",
+    "sourceUrl": "https://www.ign.com/articles/cheapest-55-4k-oled-tv-deal",
+    "sourceName": "IGN",
+    "originalImageUrl": "https://assets-prd.ignimgs.com/2026/05/05/sansuioledtv-1778005753869.jpg?width=1280&format=jpg&auto=webp&quality=80",
+    "originalImageArticleUrl": "https://www.ign.com/articles/cheapest-55-4k-oled-tv-deal",
+    "displayDate": "2026-05-06"
+  },
+  "Production Monitor": {
+    "title": "ZEISS、VFXのレンズ表現を再現するNukeプラグインを発表",
+    "summary": "ZEISSがVirtual Lens Technologyを活用した新プラグイン「CinCraft LensCore」を公開しました。実写撮影で使用したレンズの光学特性をシミュレートし、Nuke上でのコンポジット作業にリアルなレンズの質感を反映させることが可能です。",
+    "insight": "VFXパイプラインにおいて「レンズの光学特性」をデジタルで正確に再現することは、最終的な映像の整合性を高める上で非常に重要です。機械学習や光学シミュレーションを用いたこのようなツールは、撮影とポストプロダクションのギャップを埋める次世代の標準となるでしょう。",
+    "sourceUrl": "https://www.provideocoalition.com/zeiss-cincraft-lenscore-cinema-lens-looks-for-compositing/",
+    "sourceName": "ProVideo Coalition",
+    "originalImageUrl": "https://www.provideocoalition.com/wp-content/uploads/zeisscincraft001-1.jpg",
+    "originalImageArticleUrl": "https://www.provideocoalition.com/zeiss-cincraft-lenscore-cinema-lens-looks-for-compositing/",
+    "displayDate": "2026-05-06"
+  },
+  "LED Wall Display": {
+    "title": "カリフォルニア大学のeスポーツ施設にDaktronicsの大型LEDウォールが導入",
+    "summary": "カリフォルニア大学サンディエゴ校（UCSD）の新しいeスポーツセンター「TEC2」に、Daktronics製の高精細なdvLED（ダイレクトビューLED）ビデオウォールが設置されました。710万画素を超える巨大なディスプレイが、キャンパス内での競技体験を劇的に向上させています。",
+    "insight": "710万画素超のLEDウォールは、映像のコントラストと応答速度が求められるeスポーツにおいて、低遅延かつ高精細なビジュアル体験を提供するための重要なインフラです。ハードウェア選定時には、ピクセルピッチだけでなく、競技環境に適した輝度管理と排熱設計がシステム運用の安定性を左右します。",
+    "sourceUrl": "https://ravepubs.com/daktronics-levels-up-esports-experience-at-uc-san-diego/",
+    "sourceName": "rAVe [PUBS]",
+    "originalImageUrl": "https://ravepubs.com/wp-content/uploads/2026/04/unnamed-2-1.webp",
+    "originalImageArticleUrl": "https://ravepubs.com/daktronics-levels-up-esports-experience-at-uc-san-diego/",
+    "displayDate": "2026-05-06"
+  },
+  "Camera Control": {
+    "title": "Amazon PhotosがAI検索とメモリフィードを強化",
+    "summary": "Amazon Photosがアプリを刷新し、単なるストレージから「発見」のためのプラットフォームへと進化しました。起動時に思い出を提案するメモリフィードや、強力なAI検索、Alexaによる音声コントロールが追加され、ユーザーのライブラリ体験を大きく変えます。",
+    "insight": "AIを活用したインデックス生成と動的なレコメンデーションエンジンを組み合わせることで、過去の大量のデータから価値ある瞬間を即座に提示するUI/UX設計の好例です。バックエンドで大規模な画像認識とメタデータ検索をいかにリアルタイムに統合しているかがエンジニアリングの焦点となります。",
+    "sourceUrl": "https://petapixel.com/2026/05/05/amazon-photos-redesign-adds-memory-feed-ai-search-and-alexa-controls/",
+    "sourceName": "PetaPixel",
+    "originalImageUrl": "https://petapixel.com/assets/uploads/2026/05/Amazon-Photos-PetaPixel-BG.jpg",
+    "originalImageArticleUrl": "https://petapixel.com/2026/05/05/amazon-photos-redesign-adds-memory-feed-ai-search-and-alexa-controls/",
+    "displayDate": "2026-05-06"
+  }
+}
