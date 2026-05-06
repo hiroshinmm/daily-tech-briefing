@@ -1,0 +1,102 @@
+{
+  "SRD / XR": {
+    "title": "次世代ARの鍵：大阪大学が開発した高効率な円偏光LED",
+    "summary": "大阪大学の研究グループが、高効率な円偏光LEDの開発に成功しました。従来のLEDに比べてエネルギーロスが少なく、量子通信やAR（拡張現実）デバイスの光源としての活用が期待されています。",
+    "insight": "ARグラスの小型化・省電力化には、光源の効率向上が不可欠です。この技術が実用化されれば、ディスプレイの輝度向上とバッテリー寿命の両立が進み、ウェアラブルデバイスの体験が大きく進化するでしょう。",
+    "sourceUrl": "https://www.nikkei.com/prime/tech-foresight/article/DGXZQOUC2197I0R20C26A4000000",
+    "sourceName": "日本経済新聞",
+    "originalImageUrl": "https://article-image-ix.nikkei.com/https%3A%2F%2Fimgix-proxy.n8s.jp%2FDSXZQO2924434021042026000000-1.jpg?auto=compress&bg=FFFF&crop=focalpoint&fit=crop&fm=jpg&h=630&w=1200&s=134dd50ec5f0c538a3827a21b356d621",
+    "originalImageArticleUrl": "https://www.nikkei.com/prime/tech-foresight/article/DGXZQOUC2197I0R20C26A4000000",
+    "displayDate": "2026-05-07"
+  },
+  "AI": {
+    "title": "NVIDIAがCorningと提携、AIインフラ製造を強化",
+    "summary": "NVIDIAとCorningは、AIデータセンター向けの光接続技術とインフラ製造を強化する長期戦略的パートナーシップを発表しました。急増するAIワークロードにおいて、サーバー間の高速通信を支える光ファイバー技術がボトルネック解消の鍵となります。",
+    "insight": "AI時代のインフラでは、演算能力だけでなく、GPU間を繋ぐネットワーク帯域の重要性が増しています。大規模な分散学習や推論環境の構築に携わるエンジニアにとって、物理層レベルのインフラ進化はシステム設計を根本から変える重要なトレンドです。",
+    "sourceUrl": "https://nvidianews.nvidia.com/news/nvidia-and-corning-announce-long-term-partnership-to-strengthen-us-manufacturing-for-ai-infrastructure",
+    "sourceName": "NVIDIA Newsroom",
+    "originalImageUrl": "https://iprsoftwaremedia.com/219/files/201910/5dc092aa2cfac24ba40e9c30_NVIDIA-Endeavor-building-logo/NVIDIA-Endeavor-building-logo_7d2f8234-cc86-4279-9cf8-80a6b485b660-prv.jpg",
+    "originalImageArticleUrl": "https://nvidianews.nvidia.com/news/nvidia-and-corning-announce-long-term-partnership-to-strengthen-us-manufacturing-for-ai-infrastructure",
+    "displayDate": "2026-05-07"
+  },
+  "TV": {
+    "title": "LGが人型ロボットの頭部にTandem OLEDを採用",
+    "summary": "LG Displayが、人型ロボットの頭部ディスプレイとして「Tandem OLED」技術を採用した製品を公開しました。これは複数の有機EL層を重ねることで高輝度と長寿命を実現する技術で、従来のパネルの限界を押し広げるものです。",
+    "insight": "モバイルやTV向けのOLED技術がロボット工学に応用されるトレンドは興味深いです。特にTandem構造は焼付き防止や輝度向上の面で、常時表示が必要なロボット等のエッジデバイスにおいて、UI/UXを再定義する重要なコンポーネントになるでしょう。",
+    "sourceUrl": "https://www.ubergizmo.com/2026/05/lg-display-humanoid-robot-tandem-oled-third-gen/",
+    "sourceName": "Ubergizmo",
+    "originalImageUrl": "https://i0.wp.com/cdnssl.ubergizmo.com/wp-content/uploads/2026/05/LG-display-humanoid-Tandem-Oled-3rd-gen-display3.jpg",
+    "originalImageArticleUrl": "https://www.ubergizmo.com/2026/05/lg-display-humanoid-robot-tandem-oled-third-gen/",
+    "displayDate": "2026-05-07"
+  },
+  "SONY": {
+    "title": "ソニー新型ゲーミングモニター「INZONE M10S II」発表",
+    "summary": "ソニーは、ゲーミングモニターブランド「INZONE」の新モデル「M10S II」を発表しました。0.02msの超高速応答速度を実現し、リフレッシュレート540Hzに対応したOLEDパネルを搭載。競技性の高いFPSタイトルなどで求められる究極の応答性能を追求したハイエンドモデルです。",
+    "insight": "OLEDパネルで540Hzというスペックは、液晶の残像感を極限まで排除するゲーミングモニターの到達点の一つです。入力遅延やモーションブラーを物理レベルで低減させるハードウェアの進化は、低遅延処理を扱う組み込みエンジニアにとっても注目すべき技術トレンドと言えます。",
+    "sourceUrl": "https://www.msn.com/en-ie/money/technology/sony-inzone-m10s-ii-gaming-monitor-announced-with-0-02ms-response-and-oled-panel-540hz/ar-AA20YwDK?apiversion=v2&domshim=1&noservercache=1&noservertelemetry=1&batchservertelemetry=1&renderwebcomponents=1&wcseo=1",
+    "sourceName": "MSN",
+    "originalImageUrl": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA20Y0QC.img?w=612&h=344&m=4&q=100",
+    "originalImageArticleUrl": "https://www.msn.com/en-ie/money/technology/sony-inzone-m10s-ii-gaming-monitor-announced-with-0-02ms-response-and-oled-panel-540hz/ar-AA20YwDK?apiversion=v2&domshim=1&noservercache=1&noservertelemetry=1&batchservertelemetry=1&renderwebcomponents=1&wcseo=1",
+    "displayDate": "2026-05-07"
+  },
+  "Gaming Monitor": {
+    "title": "LGが世界初となる39インチ5K2K OLEDモニターを発表",
+    "summary": "LGから、世界初となる39インチの5K2K解像度を備えたOLED（有機EL）ゲーミングモニターが登場しました。高精細かつ没入感のある表示性能を誇り、高額なセール対象としても注目を集めています。",
+    "insight": "高解像度かつ大画面のOLEDパネルは、開発環境やシミュレーション作業における視認性を劇的に向上させるため、エンジニアの生産性向上に寄与します。ただし、OLED特有の焼き付き防止技術や、超広解像度を安定駆動させるためのGPU負荷、DP/HDMI帯域幅の要件についても注視すべきポイントです。",
+    "sourceUrl": "https://www.msn.com/en-us/lifestyle/shopping/lg-launches-world-s-first-39-inch-5k2k-oled-monitor/ar-AA22wg33",
+    "sourceName": "MSN",
+    "originalImageUrl": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA22wMnD.img?w=612&h=459&m=4&q=35",
+    "originalImageArticleUrl": "https://www.msn.com/en-us/lifestyle/shopping/lg-launches-world-s-first-39-inch-5k2k-oled-monitor/ar-AA22wg33",
+    "displayDate": "2026-05-07"
+  },
+  "TCL": {
+    "title": "TCLとRokuの集団訴訟：強制アップデートによるTVの「文鎮化」問題",
+    "summary": "TCLとRokuが、ソフトウェアの強制アップデートによってスマートTVが正常に動作しなくなる「文鎮化（brick）」を引き起こしたとして、米国で集団訴訟に直面しています。ユーザー側は、アップデートの拒否権がなく、製品の有用性を損なったと主張しています。",
+    "insight": "ファームウェア更新の強制化と品質管理の重要性が問われる事例です。エンジニアの観点からは、ミッションクリティカルなデバイスにおけるアップデートのロールバック機能の欠如や、OTA（Over-the-Air）配信前の堅牢な回帰テストプロセスの重要性を再認識させられます。",
+    "sourceUrl": "https://www.al.com/news/2026/05/roku-and-tcl-are-being-sued-for-allegedly-bricking-your-smart-tv-with-software-updates-you-cant-refuse.html",
+    "sourceName": "AL.com",
+    "originalImageUrl": "https://www.al.com/resizer/v2/JKBCKK3RPRHRRN3V5HZK3PXLXE.jpg?auth=99611d47bd3cba26a049cc9d0b0063451081ba734655953dd6bd0a33336058e9&width=1280&smart=true&quality=90",
+    "originalImageArticleUrl": "https://www.al.com/news/2026/05/roku-and-tcl-are-being-sued-for-allegedly-bricking-your-smart-tv-with-software-updates-you-cant-refuse.html",
+    "displayDate": "2026-05-07"
+  },
+  "LED Wall Display": {
+    "title": "SonyとPlayippがデジタルサイネージで提携",
+    "summary": "Sonyの業務用ディスプレイ「BRAVIA」と、デジタルサイネージソフトウェア「Playipp」の統合が発表されました。この提携により、複雑な外部機器を介さず、ディスプレイ側で直接コンテンツ運用が可能になり、企業のコミュニケーション環境構築の効率化が期待されます。",
+    "insight": "ハードウェアとソフトウェアのシームレスな統合は、運用負荷を減らす重要なトレンドです。エンジニアの視点では、APIやSoC環境での直接制御が、今後より高度なサイネージUXを実現する鍵になるでしょう。",
+    "sourceUrl": "https://ravepubs.com/sony-playipp-partnership/",
+    "sourceName": "rAVe [PUBS]",
+    "originalImageUrl": "https://ravepubs.com/wp-content/uploads/2026/05/sony-playipp-800x400.webp",
+    "originalImageArticleUrl": "https://ravepubs.com/sony-playipp-partnership/",
+    "displayDate": "2026-05-07"
+  },
+  "Projector": {
+    "title": "Hackadayで話題：RGBレーザーで描くレトロゲーム",
+    "summary": "Hackadayにて、RGBレーザープロジェクターを使用して「アステロイド」などのレトロゲームを描画するプロジェクトが紹介されました。単なる映像投写を超え、レーザーの物理的制御を駆使した表現手法が注目を集めています。",
+    "insight": "ガルバノメーターを用いたレーザーの高速制御は、ベクターグラフィックス特有の鮮明さと独特の質感を再現するエンジニアリングの好例です。現代のプロジェクター製品がデジタル補正に頼る中、ハードウェア制御による低遅延な描画技術は、ニッチながらも興味深い技術領域です。",
+    "sourceUrl": "https://hackaday.com/2026/05/06/rgb-laser-projector-does-colorful-asteroids-and-much-more/",
+    "sourceName": "Hackaday",
+    "originalImageUrl": "https://hackaday.com/wp-content/uploads/2026/05/breq-laser-cover-e1777905779256.webp",
+    "originalImageArticleUrl": "https://hackaday.com/2026/05/06/rgb-laser-projector-does-colorful-asteroids-and-much-more/",
+    "displayDate": "2026-05-07"
+  },
+  "Production Monitor": {
+    "title": "ZEISS、レイトレを活用した新プラグイン「LensCore」を発表",
+    "summary": "ZEISSが映像制作ソフトNuke向けのGPUアクセラレーション対応プラグイン「CinCraft LensCore」を正式リリースしました。物理的なシネマレンズの光学特性をレイトレーシングで再現し、VFX合成において極めてリアルなレンズの振る舞いをデジタル空間で実現します。",
+    "insight": "光学特性の物理モデルをGPU上でシミュレーションし、合成プロセスへ組み込む技術は、デジタルと物理の境界を曖昧にする最先端のレンダリング手法です。複雑なレンズの歪みや色収差を動的に制御できる点は、今後のポストプロダクションにおけるVFXの品質向上に大きな変革をもたらすでしょう。",
+    "sourceUrl": "https://www.cined.com/zeiss-cincraft-lenscore-officially-launches-ray-traced-cinema-lens-looks-for-nuke/",
+    "sourceName": "CineD",
+    "originalImageUrl": "https://www.cined.com/content/uploads/2026/05/ZEISS_CinCraft_LensCore_Comparison-300x169.jpg",
+    "originalImageArticleUrl": "https://www.cined.com/zeiss-cincraft-lenscore-officially-launches-ray-traced-cinema-lens-looks-for-nuke/",
+    "displayDate": "2026-05-07"
+  },
+  "Camera Control": {
+    "title": "NASAが検証！市販カメラは宇宙でも使えるか？",
+    "summary": "NASAによる市販カメラ（EOS R5、Nikon D6等）の過酷な環境試験の結果が公開されました。真空・極低温下での動作テストや無線操作の検証が行われ、一部の機種は宇宙空間に近い環境でも十分な性能を発揮することが示されました。",
+    "insight": "真空環境でのWi-Fi/Bluetooth通信や、極限環境下での熱マネジメントなど、商用ハードウェアの信頼性評価手法はエンジニアとして非常に興味深い事例です。特に「宇宙での誤操作を物理的に防ぐ設計」や「信頼性確保のための環境試験プロセス」は、産業機器開発の参考になります。",
+    "sourceUrl": "https://www.dpreview.com/articles/8381834803/you-re-not-going-to-the-moon-but-nasas-tests-show-your-camera-could",
+    "sourceName": "Digital Photography Review",
+    "originalImageUrl": "https://petapixel.com/assets/uploads/2026/05/maven-iron-slider-featured.jpg",
+    "originalImageArticleUrl": "https://petapixel.com/2026/05/06/maven-launches-the-most-flexible-way-to-control-graduated-nd-filters/",
+    "displayDate": "2026-05-07"
+  }
+}
