@@ -1,0 +1,102 @@
+{
+  "AI": {
+    "title": "ソフトバンクが国産AIサーバー開発へ",
+    "summary": "ソフトバンクが「AI主権」の確保を目指し、NVIDIAと協議しながら独自のAIサーバー開発に乗り出すことが報じられました。他国に依存しない計算資源の確保は、今後日本国内のAI産業基盤を左右する重要な動きとなります。",
+    "insight": "AIモデルの学習から推論までを支えるインフラの調達戦略が、企業・国家レベルでの競争力に直結しています。エンジニアとしては、クラウドベンダーのAPIを利用するだけでなく、こうした計算資源の国産化や最適化が開発環境に与える将来的な影響を注視する必要があります。",
+    "sourceUrl": "https://www.nikkei.com/article/DGXZQOUC0112V0R00C26A5000000/",
+    "sourceName": "日本経済新聞",
+    "originalImageUrl": "https://article-image-ix.nikkei.com/https%3A%2F%2Fimgix-proxy.n8s.jp%2FDSXZQO2973967001052026000000-1.jpg?auto=compress&bg=FFFF&crop=focalpoint&fit=crop&fm=jpg&h=630&upscale=false&w=1200&s=577f576ce0fb2958512769cbbea348ad",
+    "originalImageArticleUrl": "https://www.nikkei.com/article/DGXZQOUC0112V0R00C26A5000000/",
+    "displayDate": "2026-05-08"
+  },
+  "SRD / XR": {
+    "title": "東京都「スマートシティフェスタ2026」開催",
+    "summary": "東京都が開催した「スマートシティフェスタ2026」にて、次世代モビリティやXR技術を活用した体験型コンテンツが注目を集めています。都市のDX推進の一環として、市民が最先端技術を肌で感じる機会を提供しました。",
+    "insight": "スマートシティ構想において、XRは単なる視覚体験を超え、都市インフラのシミュレーションや住民との対話ツールとして重要度が増しています。エンジニアとしては、物理空間とデジタル空間を融合させる空間コンピューティングの社会実装プロセスを注視すべきでしょう。",
+    "sourceUrl": "https://robotstart.info/article/2026/05/07/381856.html",
+    "sourceName": "ロボスタ",
+    "originalImageUrl": "https://robotstart.info/imgs/ogp_f/103099.jpg",
+    "originalImageArticleUrl": "https://robotstart.info/article/2026/05/07/381856.html",
+    "displayDate": "2026-05-08"
+  },
+  "TCL": {
+    "title": "TCL CSOTが次世代ディスプレイ技術を公開",
+    "summary": "TCL CSOTは「SID Display Week 2026」にて、次世代の「APEX Pixel」技術や、XRデバイス向けの超高精細OLED/Micro-LEDディスプレイ、さらに130インチ大型LCDや折りたたみ式OLEDモニターを発表しました。画質とフォームファクタの両面で、ディスプレイ業界をリードする意欲的な技術革新を示しています。",
+    "insight": "Micro-LEDや高精細XRディスプレイの進化は、ハードウェアの没入感を決定づける重要なトレンドです。エンジニアとしては、これらの高密度パネルが今後、モバイルAR/VR製品のUXをどのように変革するか注視が必要です。",
+    "sourceUrl": "https://www.gadgetmatch.com/tcl-csot-unveils-apex-pixel-innovations-at-sid-display-week-2026/",
+    "sourceName": "GadgetMatch",
+    "originalImageUrl": "https://www.gadgetmatch.com/wp-content/uploads/2026/05/260406-TCL-CSOT-SID-2026-Featured-Image-1000x600.jpg",
+    "originalImageArticleUrl": "https://www.gadgetmatch.com/tcl-csot-unveils-apex-pixel-innovations-at-sid-display-week-2026/",
+    "displayDate": "2026-05-08"
+  },
+  "SONY": {
+    "title": "ソニー「α7R」シリーズ新製品のティザーを公開",
+    "summary": "ソニーが、高解像度モデル「α7R」シリーズの最新機種と思われるティザー動画を公開しました。キャッチコピーは「Ready for the next R」で、発表は2026年5月13日(水) 22:30に予定されています。詳細は明かされていませんが、多くのファンや業界関係者がその進化に注目しています。",
+    "insight": "最新の画像センサー技術やAIプロセッシングユニットの進化が、どの程度本モデルに組み込まれるかがエンジニア視点での注目ポイントです。ハードウェアの性能向上だけでなく、どのような撮影ワークフローの自動化・最適化が実装されているか、今後の製品展開から推測できます。",
+    "sourceUrl": "https://kunkoku.jp/alphanewproduct2026.html",
+    "sourceName": "ソニーが基本的に好き。",
+    "originalImageUrl": "https://kunkoku.jp/wp-content/uploads/2026/05/260507d05.jpg",
+    "originalImageArticleUrl": "https://kunkoku.jp/alphanewproduct2026.html",
+    "displayDate": "2026-05-08"
+  },
+  "TV": {
+    "title": "インクジェット印刷OLEDのコスト30%削減技術",
+    "summary": "最新のレポートによると、インクジェット方式（IJP）によるOLED製造が、従来の製造手法と比較してコストを30%削減できる可能性があると報じられました。これが実現すれば、ラップトップやモニター、さらには将来的なOLEDテレビの普及と価格低下に大きく寄与すると期待されています。",
+    "insight": "インクジェット印刷技術の製造プロセスへの応用は、従来の蒸着プロセスに比べて材料の浪費を抑え、大面積化とコストダウンを同時に実現するブレイクスルーとなる可能性があります。ディスプレイ技術の進化は、ウェアラブルやモバイルデバイスのフォームファクタ設計に直結するため、ハードウェアエンジニアリングの観点からも注視すべき動向です。",
+    "sourceUrl": "https://www.techradar.com/televisions/a-new-report-says-inkjet-printed-oled-could-be-30-percent-cheaper-to-produce-than-current-methods-which-im-hoping-is-great-news-for-laptops-and-monitors-soon-and-oled-tvs-in-the-future-and-its-on-top-of-the-other-big-advantages-of-ijp-tech",
+    "sourceName": "TechRadar",
+    "originalImageUrl": "https://cdn.mos.cms.futurecdn.net/6oRfUKTq2EwbNa7sjUD3UJ-1600-80.png",
+    "originalImageArticleUrl": "https://www.techradar.com/televisions/a-new-report-says-inkjet-printed-oled-could-be-30-percent-cheaper-to-produce-than-current-methods-which-im-hoping-is-great-news-for-laptops-and-monitors-soon-and-oled-tvs-in-the-future-and-its-on-top-of-the-other-big-advantages-of-ijp-tech",
+    "displayDate": "2026-05-08"
+  },
+  "Gaming Monitor": {
+    "title": "ハイエンドゲーミングモニターが軒並み大幅値下げ！",
+    "summary": "現在、Amazon等の主要ECサイトで、ASUSやLG、Samsungといった大手メーカーの高性能ゲーミングモニターがかつてない大幅割引で販売されています。特にOLED（有機EL）モデルや大型曲面ディスプレイの価格下落が顕著で、デスクトップ環境を刷新する絶好の機会となっています。",
+    "insight": "OLEDモニターの価格低下は、デスクトップ環境の標準化が急速に進んでいることを示唆しています。エンジニアとしては、開発効率に直結する高リフレッシュレートや高解像度環境を低コストで構築できるため、ディスプレイの選定基準を見直す良いタイミングと言えます。",
+    "sourceUrl": "https://mashable.com/article/april-29-samsung-odyssey-oled-g9-monitor-deal",
+    "sourceName": "Mashable",
+    "originalImageUrl": "https://helios-i.mashable.com/imagery/articles/03zNPLzSppG3oZhyrq830Bq/hero-image.fill.size_1200x675.v1777471789.png",
+    "originalImageArticleUrl": "https://mashable.com/article/april-29-samsung-odyssey-oled-g9-monitor-deal",
+    "displayDate": "2026-05-08"
+  },
+  "LED Wall Display": {
+    "title": "英・観光地にLEDウォールによる没入型体験施設が誕生",
+    "summary": "英の人気観光地「Land's End」と「The Needles」にて、Conductr社による最新のLEDウォールを用いた没入型アトラクションの導入が発表されました。視覚的インパクトを重視した空間演出の好例として注目されています。",
+    "insight": "高輝度かつシームレスなLEDウォールは、従来のプロジェクションマッピング以上に周囲の環境光に左右されず、鮮明な没入空間を実現可能です。ハードウェアの設置精度だけでなく、設置環境に最適化されたコンテンツの解像度設計と同期技術がエンジニアリングの要となります。",
+    "sourceUrl": "https://www.inavateonthenet.net/news/article/conductr-to-create-a-immersive-experience-for-lands-end-and-the-needles",
+    "sourceName": "Inavate",
+    "originalImageUrl": "https://res.cloudinary.com/iml/image/upload/w_1024,c_scale/c_crop,g_custom/w_1024,c_scale/c_crop,g_custom//v1778160298/widgetdocs/1777987246931_qxb1ij.jpg",
+    "originalImageArticleUrl": "https://www.inavateonthenet.net/news/article/conductr-to-create-a-immersive-experience-for-lands-end-and-the-needles",
+    "displayDate": "2026-05-08"
+  },
+  "Projector": {
+    "title": "モバイルプロジェクターの進化、XGIMI「Elfin Flip」の登場",
+    "summary": "薄型・軽量で高輝度なXGIMIの新作プロジェクター「Elfin Flip」が発表されました。場所を選ばないポータビリティと大画面投影の両立により、ホームシアター環境を手軽に構築できる新たな選択肢として注目されています。",
+    "insight": "プロジェクターの小型化・軽量化が進み、設置の柔軟性が大幅に向上しています。エンジニアとしては、こうした小型デバイスにおける排熱処理や光学系のエンジニアリング動向を追うことで、空間コンピューティングやウェアラブルデバイスの設計思想に応用できるヒントが得られます。",
+    "sourceUrl": "https://www.goodspress.jp/news/731322/2/",
+    "sourceName": "GoodsPress Web",
+    "originalImageUrl": "https://static.andgp.net/cms/wp-content/uploads/2026/04/260428_xgimi_18-720x480.jpg",
+    "originalImageArticleUrl": "https://www.goodspress.jp/news/731322/2/",
+    "displayDate": "2026-05-08"
+  },
+  "Camera Control": {
+    "title": "Apple、カメラ搭載AirPodsを開発中？",
+    "summary": "Appleが次世代AI技術の一環として、カメラを搭載したAirPodsのテストを行っていると報じられました。ウェアラブルデバイスの常識を覆す新たなデバイスになる可能性があり、注目を集めています。",
+    "insight": "AI処理とカメラ入力をイヤホンに統合するという設計は、エッジコンピューティングやウェアラブルのインターフェース設計において非常に興味深い試みです。低遅延での空間データ処理やバッテリー制約下でのAI推論技術など、ハードウェアエンジニアリングの観点から今後の進展を注視すべきトピックです。",
+    "sourceUrl": "https://petapixel.com/2026/05/07/apple-is-reportedly-testing-airpods-with-built-in-cameras/",
+    "sourceName": "PetaPixel",
+    "originalImageUrl": "https://petapixel.com/assets/uploads/2026/05/airpods-with-cameras-rumors-featured.jpg",
+    "originalImageArticleUrl": "https://petapixel.com/2026/05/07/apple-is-reportedly-testing-airpods-with-built-in-cameras/",
+    "displayDate": "2026-05-08"
+  },
+  "Production Monitor": {
+    "title": "Chromeが同意なく4GBのAIモデルをDL？エンジニアの懸念",
+    "summary": "Google Chromeがユーザーの知らないうちに4GBの巨大なAIモデルファイルをダウンロードしているという報告が上がっています。帯域やストレージを勝手に占有するこの挙動は、特に開発環境や配信サービスをChromeで行うプロフェッショナルにとって、リソース管理上の懸念事項となっています。",
+    "insight": "ローカルLLMなどのAI機能実装は利便性を高める一方で、ユーザーの意図しないリソース消費やプライバシーへの配慮が不可欠です。エンジニアとしては、ブラウザのバックグラウンドプロセスや通信量モニタリングの重要性を再認識し、必要に応じて設定を最適化すべきでしょう。",
+    "sourceUrl": "https://www.provideocoalition.com/stop-chromes-4gb-ai-model-file-from-invading-your-computer-without-your-knowledge-or-consent/",
+    "sourceName": "ProVideo Coalition",
+    "originalImageUrl": "https://www.provideocoalition.com/wp-content/uploads/Chrome-browser-hero.jpg",
+    "originalImageArticleUrl": "https://www.provideocoalition.com/stop-chromes-4gb-ai-model-file-from-invading-your-computer-without-your-knowledge-or-consent/",
+    "displayDate": "2026-05-08"
+  }
+}
