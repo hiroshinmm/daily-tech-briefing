@@ -1,0 +1,102 @@
+{
+  "SRD / XR": {
+    "title": "フォートナイトで星街すいせいのバーチャルライブ開催",
+    "summary": "人気VTuber・星街すいせいがフォートナイト内でインタラクティブなバーチャルライブ「STELLAR in Fortnite」を開催。空中ダイブや専用エモートなど、ゲームエンジンを活用した新しい音楽体験が話題になっています。",
+    "insight": "フォートナイトのようなメタバース的プラットフォームにおけるライブは、既存のファンコミュニティを巻き込んだ高い没入感が強みです。エンジニア視点では、ゲームの物理挙動や演出を音楽体験に同期させるインタラクティブな設計・実装手法が今後のライブ配信の標準になりそうです。",
+    "sourceUrl": "https://www.moguravr.com/stellar-in-fortnite-report/",
+    "sourceName": "Mogura VR",
+    "originalImageUrl": "https://assets.moguravr.com/uploads/2019/05/1d65e61f3091349e2f14d772b127a4c9-kix.ct54je3nd5p8-300x169.webp",
+    "originalImageArticleUrl": "https://www.moguravr.com/stellar-in-fortnite-report/",
+    "displayDate": "2026-05-09"
+  },
+  "AI": {
+    "title": "Meta社のAI導入と社員の疲弊に関する考察",
+    "summary": "Metaが全社的にAI導入を加速させる中、業務プロセスの激しい変化やAIによるタスクの自動化・変質が、一部の従業員に深刻なストレスを与えているという報道が注目されています。組織の変革と現場の心理的負担のバランスが課題です。",
+    "insight": "AI導入による生産性向上は重要ですが、エンジニアのワークフローを再定義する際には、心理的安全性や適応のためのマージン確保が不可欠です。技術の導入スピードが組織の消化スピードを超えると、かえってエンジニアリング文化の停滞を招くリスクがあることを示唆しています。",
+    "sourceUrl": "https://www.nytimes.com/2026/05/08/technology/meta-ai-employees-miserable.html",
+    "sourceName": "The New York Times",
+    "originalImageUrl": null,
+    "originalImageArticleUrl": "https://www.nytimes.com/2026/05/08/technology/meta-ai-employees-miserable.html",
+    "displayDate": "2026-05-09"
+  },
+  "SONY": {
+    "title": "Xperia 1 VIIIのリーク情報とカメラ刷新が話題",
+    "summary": "ソニーの次期フラッグシップスマートフォン「Xperia 1 VIII」に関するリーク情報が相次いでいます。新たにスクエア型のカメラデザインが採用される見通しで、ディスプレイ性能やカメラ機能の進化に注目が集まっています。一部では発売日を5月12日とする報道もあり、公式発表が待たれる状況です。",
+    "insight": "モバイル向けCMOSイメージセンサーのトップシェアを誇るソニーの次期モデルにおいて、カメラモジュールの物理レイアウト変更は、画像処理エンジンやAI計算処理へのアプローチが変わった可能性を示唆しています。エンジニアとしては、ハードウェアの配置変更が放熱設計や積層型センサーの信号処理パイプラインにどのような影響を与えるかに注目すべきです。",
+    "sourceUrl": "https://www.technobezz.com/news/sony-confirms-xperia-1-viii-launch-date-for-may-12-with-square-camera-redesign",
+    "sourceName": "Technobezz",
+    "originalImageUrl": "https://cdn.technobezz.com/c/Technobezz_2026_05_08_T134323_296_a897ea136d.jpg",
+    "originalImageArticleUrl": "https://www.technobezz.com/news/sony-confirms-xperia-1-viii-launch-date-for-may-12-with-square-camera-redesign",
+    "displayDate": "2026-05-09"
+  },
+  "TCL": {
+    "title": "TCL CSOTが次世代AMOLED工場を前倒しで上棟",
+    "summary": "TCL傘下のディスプレイメーカーであるTCL CSOTは、第8.6世代インクジェット印刷方式のIT向けAMOLED製造ライン（T8）のメインビルディングが計画より前倒しで上棟したと発表しました。この新工場は、中大型OLEDディスプレイの量産効率とコスト競争力を高める重要な拠点となります。",
+    "insight": "インクジェット印刷方式は、従来の蒸着方式と比較して材料の無駄が少なく、大型パネルの製造において劇的なコスト削減が見込める次世代技術です。エンジニアの視点では、単なるハードウェアの進化だけでなく、製造プロセス技術の転換が今後のディスプレイ市場の価格破壊をどう加速させるかに注目すべきです。",
+    "sourceUrl": "https://www.oled-info.com/tcl-csot-main-building-our-upcoming-t8-86-gen-inkjet-printing-it-amoled-line",
+    "sourceName": "OLED-Info",
+    "originalImageUrl": null,
+    "originalImageArticleUrl": "https://www.oled-info.com/tcl-csot-main-building-our-upcoming-t8-86-gen-inkjet-printing-it-amoled-line",
+    "displayDate": "2026-05-09"
+  },
+  "TV": {
+    "title": "テレビ東京HD、過去最高の売上高を達成",
+    "summary": "テレビ東京ホールディングスが発表した最新の業績において、売上高が過去最高を更新しました。堅調なコンテンツ事業や放送事業が業績を牽引しており、メディア企業のビジネスモデルの変化と安定性が注目されています。",
+    "insight": "デジタル配信と放送のハイブリッド化が進む中、コンテンツの収益最大化手法はエンジニアにとっても重要な知見です。特にトラフィック負荷の分散や広告配信プラットフォームの最適化など、高収益を支えるインフラ設計の重要性が再認識されます。",
+    "sourceUrl": "https://news.yahoo.co.jp/pickup/6579319",
+    "sourceName": "Yahoo!ニュース",
+    "originalImageUrl": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/5/8/255cbf43619e7dee63e035a88bd2c2d1f743d12f3c65aac5bb9cd1729026fbc8.jpg",
+    "originalImageArticleUrl": "https://news.yahoo.co.jp/pickup/6579319",
+    "displayDate": "2026-05-09"
+  },
+  "Projector": {
+    "title": "Hisenseから240Hz対応のVidda C5プロジェクター登場",
+    "summary": "Hisenseが最新のVidda C5プロジェクターシリーズを発表しました。JBL製スピーカーを搭載し、最大240Hzのリフレッシュレートに対応するなど、ホームシアターだけでなくゲーミング用途としての性能を大幅に強化した点が特徴です。",
+    "insight": "プロジェクターにおいて240Hz駆動というゲーミングモニター並みのリフレッシュレート対応は、入力遅延を嫌うゲーマーにとって大きな進化です。高精細な映像体験がリビングの大型スクリーンで可能になることで、低遅延技術と視覚体験の融合が今後のトレンドになりそうです。",
+    "sourceUrl": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQRklYdGwxeHptcm9oY1VESXRTTHVWOGNpVjM2WWFJV0VVbTFJcWdNMnNIaXlQR3dKaVRuOFlKOWd5N0plYmhoRFBMcmU2Rzk1bThJSHpHRmdBQlg4RzU5dzFHVDk5VklLdXpieFVsU0ZiSnpfZzYwYW5xRU9XM2lFN3ZLS1BUemFPVUZV?oc=5",
+    "sourceName": "Gizmochina",
+    "originalImageUrl": null,
+    "originalImageArticleUrl": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQRklYdGwxeHptcm9oY1VESXRTTHVWOGNpVjM2WWFJV0VVbTFJcWdNMnNIaXlQR3dKaVRuOFlKOWd5N0plYmhoRFBMcmU2Rzk1bThJSHpHRmdBQlg4RzU5dzFHVDk5VklLdXpieFVsU0ZiSnpfZzYwYW5xRU9XM2lFN3ZLS1BUemFPVUZV?oc=5",
+    "displayDate": "2026-05-09"
+  },
+  "Production Monitor": {
+    "title": "SonyとTSMCが次世代イメージセンサー開発で提携",
+    "summary": "Sony Semiconductor SolutionsとTSMCが、次世代イメージセンサーの共同開発および製造に向けた戦略的提携を発表しました。両社の強みを組み合わせることで、画像処理技術の新たなパラダイムを構築することを目指しています。",
+    "insight": "ハードウェアエンジニアリングにおいて、ファウンドリとの垂直統合に近い連携は最先端プロセスノードの早期確保に不可欠です。AI処理をオンチップで担う次世代センサーが、今後のエッジコンピューティングのボトルネック解消にどう寄与するか注目されます。",
+    "sourceUrl": "https://www.newsshooter.com/2026/05/08/sony-semiconductor-solutions-tsmc-sign-a-strategic-alliance-to-develop-next-generation-image-sensors/?utm_source=rss&utm_medium=rss&utm_campaign=sony-semiconductor-solutions-tsmc-sign-a-strategic-alliance-to-develop-next-generation-image-sensors",
+    "sourceName": "Newsshooter",
+    "originalImageUrl": "https://www.newsshooter.com/wp-content/uploads/2026/05/TSMC-740x416.jpg",
+    "originalImageArticleUrl": "https://www.newsshooter.com/2026/05/08/sony-semiconductor-solutions-tsmc-sign-a-strategic-alliance-to-develop-next-generation-image-sensors/?utm_source=rss&utm_medium=rss&utm_campaign=sony-semiconductor-solutions-tsmc-sign-a-strategic-alliance-to-develop-next-generation-image-sensors",
+    "displayDate": "2026-05-09"
+  },
+  "Gaming Monitor": {
+    "title": "世界初5K・330Hz駆動のMini LEDモニターが登場",
+    "summary": "Hisenseが世界初となる5K解像度と330Hzのリフレッシュレートに対応した「Obsidian Mini LEDゲーミングモニター」を発表しました。高精細な表示と超高速応答を両立した次世代のハイエンド製品として注目されています。",
+    "insight": "高解像度と高リフレッシュレートの同時実現は、ハードウェア側でのデータ帯域幅（DisplayPort 2.1等）とパネル駆動制御の高度な最適化が求められます。特にMini LEDによる局所調光と高速リフレッシュの併用は、ドライバICの熱設計や輝度制御ロジックにおけるエンジニアリングの難易度が非常に高い領域です。",
+    "sourceUrl": "https://www.msn.com/en-ie/lifestyle/shopping/hisense-launches-world-s-first-5k-obsidian-mini-led-gaming-monitor-with-330hz-dual-mode/ar-AA22HFgf",
+    "sourceName": "MSN",
+    "originalImageUrl": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA22H8Da.img?w=612&h=414&m=4&q=100",
+    "originalImageArticleUrl": "https://www.msn.com/en-ie/lifestyle/shopping/hisense-launches-world-s-first-5k-obsidian-mini-led-gaming-monitor-with-330hz-dual-mode/ar-AA22HFgf",
+    "displayDate": "2026-05-09"
+  },
+  "LED Wall Display": {
+    "title": "次世代ディスプレイの潮流：Mini/Micro LEDの進化",
+    "summary": "LEDドライバIC大手のMacroblockがSID Display WeekでMini/Micro LED技術を披露。高精細かつ高輝度な次世代ディスプレイ市場の拡大に向け、バックライト技術や革新的な制御ソリューションの重要性が改めて注目されています。",
+    "insight": "エンジニア視点では、単なる画素の微細化だけでなく、ドライバICによる高度な輝度・色再現性の制御が画質を決定づける鍵となっています。特に電力効率と放熱設計を最適化する高効率ICの選定は、商用LEDウォールの長寿命化と品質維持において非常に重要な検討項目です。",
+    "sourceUrl": "//www.ledinside.com/products/2026/5/2026_05_08_09",
+    "sourceName": "LEDinside",
+    "originalImageUrl": null,
+    "originalImageArticleUrl": "//www.ledinside.com/products/2026/5/2026_05_08_09",
+    "displayDate": "2026-05-09"
+  },
+  "Camera Control": {
+    "title": "SonyとTSMCが次世代イメージセンサー開発で提携",
+    "summary": "Sonyと半導体ファウンドリの巨人TSMCが、次世代イメージセンサーの共同開発および日本国内での製造拠点構築に向けた合意を発表しました。市場をリードするイメージセンサー技術と最先端の製造プロセスが融合することで、カメラ性能の飛躍的な向上が期待されます。",
+    "insight": "イメージセンサーの微細化と積層技術は限界に近づいており、TSMCの最先端ノード活用は画素ピッチの縮小と読み出し速度のさらなる高速化に直結します。ハードウェアエンジニアとしては、このパートナーシップがセンサーのダイナミックレンジやAI処理との親和性をどう進化させるかに注目です。",
+    "sourceUrl": "https://petapixel.com/2026/05/08/sony-teams-up-with-tsmc-to-develop-its-next-gen-image-sensors/",
+    "sourceName": "PetaPixel",
+    "originalImageUrl": "https://petapixel.com/assets/uploads/2026/05/Sony-Teams-Up-With-TSMC-to-Build-a-Japan-Based-Image-Sensor-Factory.jpg",
+    "originalImageArticleUrl": "https://petapixel.com/2026/05/08/sony-teams-up-with-tsmc-to-develop-its-next-gen-image-sensors/",
+    "displayDate": "2026-05-09"
+  }
+}
