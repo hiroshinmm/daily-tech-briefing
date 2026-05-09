@@ -1,10 +1,6 @@
 {
   "Production Monitor": [
     {
-      "url": "https://www.provideocoalition.com/nab-2026-eddie-ai-quickture-selects-the-ai-editing-assistants/",
-      "date": "2026-05-02"
-    },
-    {
       "url": "https://www.cined.com/boris-fx-acquires-vegas-pro-sound-forge-and-acid-pro-a-month-later-the-industry-consolidation-picture-sharpens/",
       "date": "2026-05-03"
     },
@@ -31,13 +27,13 @@
     {
       "url": "https://www.newsshooter.com/2026/05/08/sony-semiconductor-solutions-tsmc-sign-a-strategic-alliance-to-develop-next-generation-image-sensors/?utm_source=rss&utm_medium=rss&utm_campaign=sony-semiconductor-solutions-tsmc-sign-a-strategic-alliance-to-develop-next-generation-image-sensors",
       "date": "2026-05-09"
+    },
+    {
+      "url": "https://www.cined.com/mark-the-date-canon-and-sony-tease-new-cameras-for-may-13-set-30-minutes-apart/",
+      "date": "2026-05-10"
     }
   ],
   "SRD / XR": [
-    {
-      "url": "https://www.uploadvr.com/survios-reportedly-sees-critical-layoffs/",
-      "date": "2026-05-02"
-    },
     {
       "url": "https://www.moguravr.com/apple-vision-pro-ursa-cine-immersive-100g/",
       "date": "2026-05-03"
@@ -65,6 +61,10 @@
     {
       "url": "https://www.moguravr.com/stellar-in-fortnite-report/",
       "date": "2026-05-09"
+    },
+    {
+      "url": "https://www.moguravr.com/ar-glass-screen-display-iphone/",
+      "date": "2026-05-10"
     }
   ],
   "AI": [
@@ -95,13 +95,13 @@
     {
       "url": "https://www.nytimes.com/2026/05/08/technology/meta-ai-employees-miserable.html",
       "date": "2026-05-09"
+    },
+    {
+      "url": "https://news.yahoo.co.jp/articles/8e03de1bc31fc9842d7e7cffdfc3f575f39e2ea6",
+      "date": "2026-05-10"
     }
   ],
   "Gaming Monitor": [
-    {
-      "url": "https://www.4gamer.net/games/004/G100421/20260501065/",
-      "date": "2026-05-02"
-    },
     {
       "url": "https://www.gizmochina.com/2026/05/02/lg-ultragear-32gx870b-gaming-monitor-launched-specs-price/",
       "date": "2026-05-03"
@@ -129,6 +129,10 @@
     {
       "url": "https://www.msn.com/en-ie/lifestyle/shopping/hisense-launches-world-s-first-5k-obsidian-mini-led-gaming-monitor-with-330hz-dual-mode/ar-AA22HFgf",
       "date": "2026-05-09"
+    },
+    {
+      "url": "https://techaeris.com/2026/05/09/pre-order-the-lg-ultragear-evo-gx9/",
+      "date": "2026-05-10"
     }
   ],
   "TCL": [
@@ -159,13 +163,13 @@
     {
       "url": "https://www.oled-info.com/tcl-csot-main-building-our-upcoming-t8-86-gen-inkjet-printing-it-amoled-line",
       "date": "2026-05-09"
+    },
+    {
+      "url": "https://www.msn.com/en-us/news/technology/tcl-and-roku-sued-for-allegedly-bricking-tvs-with-updates/ar-AA22u3Qn?gemSnapshotKey=GM6544C4F7-snapshot-15&apiversion=v2&domshim=1&noservercache=1&noservertelemetry=1&batchservertelemetry=1&renderwebcomponents=1&wcseo=1",
+      "date": "2026-05-10"
     }
   ],
   "Camera Control": [
-    {
-      "url": "https://petapixel.com/2026/05/01/photographer-builds-his-own-tethering-app-to-solve-subscription-fatigue/",
-      "date": "2026-05-02"
-    },
     {
       "url": "https://petapixel.com/2026/05/02/should-photographers-even-actually-want-more-megapixels/",
       "date": "2026-05-03"
@@ -193,13 +197,13 @@
     {
       "url": "https://petapixel.com/2026/05/08/sony-teams-up-with-tsmc-to-develop-its-next-gen-image-sensors/",
       "date": "2026-05-09"
+    },
+    {
+      "url": "https://www.dpreview.com/articles/4158544647/camera-makers-arent-blocking-you-from-using-base-iso-in-log-even-if-it-looks-like-it",
+      "date": "2026-05-10"
     }
   ],
   "LED Wall Display": [
-    {
-      "url": "https://www.kioskmarketplace.com/resources/why-mounting-matters-avoiding-the-top-7-installation-mistakes-in-dvled-projects/",
-      "date": "2026-05-02"
-    },
     {
       "url": "https://www.digitalsignagetoday.com/news/disney-hulu-team-on-interactive-immersive-storefronts/",
       "date": "2026-05-03"
@@ -227,6 +231,10 @@
     {
       "url": "//www.ledinside.com/products/2026/5/2026_05_08_09",
       "date": "2026-05-09"
+    },
+    {
+      "url": "https://www.digitalsignagetoday.com/news/talon-launches-ai-powered-programmatic-engine/",
+      "date": "2026-05-10"
     }
   ],
   "SONY": [
@@ -257,6 +265,10 @@
     {
       "url": "https://www.technobezz.com/news/sony-confirms-xperia-1-viii-launch-date-for-may-12-with-square-camera-redesign",
       "date": "2026-05-09"
+    },
+    {
+      "url": "https://kunkoku.jp/20260509live.html",
+      "date": "2026-05-10"
     }
   ],
   "TV": [
@@ -287,13 +299,13 @@
     {
       "url": "https://news.yahoo.co.jp/pickup/6579319",
       "date": "2026-05-09"
+    },
+    {
+      "url": "https://www.msn.com/en-us/news/technology/this-smart-tv-setting-is-ruining-your-picture-quality-turn-it-off-now/ar-AA20HMMm",
+      "date": "2026-05-10"
     }
   ],
   "Projector": [
-    {
-      "url": "https://av.watch.impress.co.jp/docs/news/2106101.html",
-      "date": "2026-05-02"
-    },
     {
       "url": "https://newatlas.com/home-entertainment/jmgo-n3-ultimate/",
       "date": "2026-05-03"
@@ -321,6 +333,10 @@
     {
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQRklYdGwxeHptcm9oY1VESXRTTHVWOGNpVjM2WWFJV0VVbTFJcWdNMnNIaXlQR3dKaVRuOFlKOWd5N0plYmhoRFBMcmU2Rzk1bThJSHpHRmdBQlg4RzU5dzFHVDk5VklLdXpieFVsU0ZiSnpfZzYwYW5xRU9XM2lFN3ZLS1BUemFPVUZV?oc=5",
       "date": "2026-05-09"
+    },
+    {
+      "url": "https://av.watch.impress.co.jp/docs/news/2107253.html",
+      "date": "2026-05-10"
     }
   ]
 }

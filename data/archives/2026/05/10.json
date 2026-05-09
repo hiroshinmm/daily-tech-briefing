@@ -1,0 +1,102 @@
+{
+  "SRD / XR": {
+    "title": "ARグラスの実寸をスマホで疑似体験する方法",
+    "summary": "ARグラスの購入検討時に最大の障壁となる「視界のサイズ感」。Mogura VRの記事では、実機を試せない環境でも、iPhoneを活用してARグラスの仮想スクリーンサイズ（例：150インチ相当）がどのような見え方になるかを事前に確認する実用的なテクニックを紹介しています。",
+    "insight": "UI/UX開発の際、空間コンピューティングでの「知覚サイズ」をシミュレートすることは重要です。物理的なデバイスが手元になくても、カメラとARKit等の既存ツールを活用してスケール感を検証する手法は、XRアプリ開発者のプロトタイピングの参考になります。",
+    "sourceUrl": "https://www.moguravr.com/ar-glass-screen-display-iphone/",
+    "sourceName": "Mogura VR",
+    "originalImageUrl": "https://assets.moguravr.com/uploads/2026/03/5de05b2f3476be47a86b37b801950ada-kix.wu6fcsyxj3p-300x187.webp",
+    "originalImageArticleUrl": "https://www.moguravr.com/ar-glass-screen-display-iphone/",
+    "displayDate": "2026-05-10"
+  },
+  "AI": {
+    "title": "他国のAIを汚染？偽情報による「AI毒入れ」の脅威",
+    "summary": "中国の偽ニュースサイトが、他国の生成AIに偽情報を学習させ、「事実」として認識させることを狙っているという報道。AIの学習データ汚染（データポイズニング）が、地政学的な情報戦において新たな脅威として浮上しています。",
+    "insight": "AIモデルの安全性は推論時だけでなく、学習データの信頼性担保というサプライチェーンの課題に直面しています。エンジニアとしては、ファインチューニングやRAG構築の際、入力ソースの正当性を検証する仕組み（データ・プロナンスの管理）を設計することが、今後はより重要になるでしょう。",
+    "sourceUrl": "https://news.yahoo.co.jp/articles/8e03de1bc31fc9842d7e7cffdfc3f575f39e2ea6",
+    "sourceName": "Yahoo!ニュース",
+    "originalImageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260509-01449813-shincho-000-1-view.jpg?exp=10800",
+    "originalImageArticleUrl": "https://news.yahoo.co.jp/articles/8e03de1bc31fc9842d7e7cffdfc3f575f39e2ea6",
+    "displayDate": "2026-05-10"
+  },
+  "SONY": {
+    "title": "Sony、新型Xperia 1 VIIIと次世代αカメラを5月13日に発表へ",
+    "summary": "5月13日にソニーのフラッグシップスマホ「Xperia 1 VIII」と新型カメラ（α7r VIと予測）が同時発表される見込みです。Snapdragon 8 Elite Gen 5の搭載や、7年ぶりの大幅なカメラデザイン刷新が注目されており、モバイルと映像機器の技術統合が加速しています。",
+    "insight": "Snapdragon 8 EliteによるNPU性能の向上と、伝統的な光学系デザインの刷新が組み合わさることで、モバイルにおける計算機写真（Computational Photography）の精度がどこまで引き上げられるかがエンジニアリングの焦点です。最新のSoCとセンサーのパイプライン最適化が、カメラ開発のボトルネックをどう解消しているか注目が集まります。",
+    "sourceUrl": "https://kunkoku.jp/20260509live.html",
+    "sourceName": "ソニーが基本的に好き。",
+    "originalImageUrl": "https://kunkoku.jp/wp-content/uploads/2021/10/bbc26265_x4.jpg",
+    "originalImageArticleUrl": "https://kunkoku.jp/20260509live.html",
+    "displayDate": "2026-05-10"
+  },
+  "TCL": {
+    "title": "TCLとRokuに集団訴訟、TVアップデートで起動不能問題",
+    "summary": "TCLとRokuの共同開発製品において、ソフトウェアアップデート後にテレビが起動不能（ブリック）になる不具合が発生し、集団訴訟が提起されました。ユーザーからはアップデートによる強制的な機能停止や文鎮化に対する懸念と不満が噴出しています。",
+    "insight": "ファームウェア更新の品質保証およびロールバック戦略の重要性が改めて浮き彫りになりました。IoTデバイスにおけるOTA更新が製品の信頼性に直結するため、エンジニアは展開後の監視体制と迅速な修正配布プロセスの構築が必須です。",
+    "sourceUrl": "https://www.msn.com/en-us/news/technology/tcl-and-roku-sued-for-allegedly-bricking-tvs-with-updates/ar-AA22u3Qn?gemSnapshotKey=GM6544C4F7-snapshot-15&apiversion=v2&domshim=1&noservercache=1&noservertelemetry=1&batchservertelemetry=1&renderwebcomponents=1&wcseo=1",
+    "sourceName": "MSN",
+    "originalImageUrl": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1OypMy.img?w=612&h=408&m=4&q=79",
+    "originalImageArticleUrl": "https://www.msn.com/en-us/news/technology/tcl-and-roku-sued-for-allegedly-bricking-tvs-with-updates/ar-AA22u3Qn?gemSnapshotKey=GM6544C4F7-snapshot-15&apiversion=v2&domshim=1&noservercache=1&noservertelemetry=1&batchservertelemetry=1&renderwebcomponents=1&wcseo=1",
+    "displayDate": "2026-05-10"
+  },
+  "Gaming Monitor": {
+    "title": "世界初！LGが39インチ 5K2KのOLEDモニターを発表",
+    "summary": "LGから、世界初となる39インチ 5K2K解像度の有機EL（OLED）ゲーミングモニター「UltraGear evo GX9」の発売が発表されました。高解像度かつウルトラワイドな画面領域は、ゲームプレイだけでなく、マルチタスクを多用するエンジニアの作業環境としても非常に魅力的です。",
+    "insight": "5K2Kの解像度は、広大な横幅を活かしたコーディング作業やログ監視において、物理ディスプレイを複数並べる必要性を排除し、生産性を劇的に向上させる可能性があります。OLED特有の低遅延と高いコントラスト比は、長時間の開発業務における視認性の高さという点でもエンジニアにとって大きなメリットとなります。",
+    "sourceUrl": "https://techaeris.com/2026/05/09/pre-order-the-lg-ultragear-evo-gx9/",
+    "sourceName": "Techaeris",
+    "originalImageUrl": "https://techaeris.com/wp-content/uploads/2026/05/Order-the-LG-UltraGear-evo-GX9-before-it-hits-shelves.jpg",
+    "originalImageArticleUrl": "https://techaeris.com/2026/05/09/pre-order-the-lg-ultragear-evo-gx9/",
+    "displayDate": "2026-05-10"
+  },
+  "TV": {
+    "title": "スマートTVの画質を左右する「謎の設定」に注意",
+    "summary": "最近のスマートTVには、デフォルトで有効になっているものの、かえって画質を劣化させる機能（エコモードやフレーム補間など）が多く存在します。特に、OLEDや最新のMiniLED TVを利用している場合、これらの設定をオフにするだけで映像の明瞭度や正確性が劇的に改善するというユーザー報告が相次いでいます。",
+    "insight": "エンジニアとしては、ハードウェアの性能を最大限に引き出すためには、ブラックボックス化された自動最適化設定を疑う視点が重要です。複雑なUIや設定項目は「ユーザー体験を向上させるはず」という前提を一旦捨て、ドキュメントや実測に基づいてチューニングする大切さを改めて認識させられます。",
+    "sourceUrl": "https://www.msn.com/en-us/news/technology/this-smart-tv-setting-is-ruining-your-picture-quality-turn-it-off-now/ar-AA20HMMm",
+    "sourceName": "MSN",
+    "originalImageUrl": "https://assets.msn.com/staticsb/statics/latest/views/icons/textExpand_filled.svg",
+    "originalImageArticleUrl": "https://www.msn.com/en-us/news/technology/this-smart-tv-setting-is-ruining-your-picture-quality-turn-it-off-now/ar-AA20HMMm",
+    "displayDate": "2026-05-10"
+  },
+  "LED Wall Display": {
+    "title": "DOOH広告の進化：AI駆動型プログラム広告の最前線",
+    "summary": "Talon社がAIを活用したプログラマティック広告エンジンを発表しました。これは、デジタルサイネージ（DOOH）における広告配信の自動化と最適化をさらに加速させるものです。PPDSによる劇場でのLEDウォール導入事例とともに、ハードウェアとソフトウェアの融合が進んでいます。",
+    "insight": "エンジニア視点では、単なるディスプレイ表示から、リアルタイムの視聴者解析データに基づいたAIによる広告入札・配信システムへの移行に注目すべきです。エッジコンピューティングによる低遅延なコンテンツ切り替えと、広告在庫の自動最適化ロジックの実装が今後の主要な課題となるでしょう。",
+    "sourceUrl": "https://www.digitalsignagetoday.com/news/talon-launches-ai-powered-programmatic-engine/",
+    "sourceName": "Digital Signage Today",
+    "originalImageUrl": "https://nmgprod.s3.amazonaws.com/media/file/54/22/e07652b0ea0f3ff17a890489c7bd/cover_image__zsaXYQ6b__AdobeStock_436446251.jpeg.360x190_q85_crop_upscale.webp",
+    "originalImageArticleUrl": "https://www.digitalsignagetoday.com/news/talon-launches-ai-powered-programmatic-engine/",
+    "displayDate": "2026-05-10"
+  },
+  "Projector": {
+    "title": "ソニーとTSMCが次世代イメージセンサーで提携へ",
+    "summary": "ソニーセミコンダクタソリューションズとTSMCが、次世代イメージセンサーの開発・製造に向けた戦略的提携で基本合意しました。「AI」を経営方針の最重要テーマに掲げるソニーにとって、エッジAIの基盤となるセンサー技術の進化は今後の製品展開を左右する重要な動きとなります。",
+    "insight": "イメージセンサーの高度化は、デバイス側のエッジAI処理能力を直結させ、カメラやIoTデバイスの進化を加速させます。ハードウェア設計エンジニアにとって、製造プロセスの微細化とAIアルゴリズムの融合は、今後のシステム設計における最も注視すべきトレンドです。",
+    "sourceUrl": "https://av.watch.impress.co.jp/docs/news/2107253.html",
+    "sourceName": "AV Watch",
+    "originalImageUrl": "https://av.watch.impress.co.jp/img/avw/list/2107/253/sc1.png",
+    "originalImageArticleUrl": "https://av.watch.impress.co.jp/docs/news/2107253.html",
+    "displayDate": "2026-05-10"
+  },
+  "Production Monitor": {
+    "title": "映像業界の頂上決戦：SonyとCanonが5月13日に新製品を同時発表",
+    "summary": "SonyとCanonが5月13日に、わずか30分差で新製品発表を行うことを予告しました。NAB 2026でもミラーレス関連の大型発表が少なかった中、業界最大手2社が同日にぶつかるこのイベントは、2026年上半期で最も注目すべき製品発表の機会となります。",
+    "insight": "両社のフラッグシップ機や新戦略が競合することで、最新センサーや映像処理エンジンの技術トレンドを比較できる絶好のタイミングです。エンジニア視点では、スペック競争だけでなく、ワークフロー最適化やAI実装の方向性を確認することで、今後の機材選定の重要な指標となるでしょう。",
+    "sourceUrl": "https://www.cined.com/mark-the-date-canon-and-sony-tease-new-cameras-for-may-13-set-30-minutes-apart/",
+    "sourceName": "CineD",
+    "originalImageUrl": "https://www.cined.com/content/uploads/2026/05/Canon-Sony-3-300x169.jpeg",
+    "originalImageArticleUrl": "https://www.cined.com/mark-the-date-canon-and-sony-tease-new-cameras-for-may-13-set-30-minutes-apart/",
+    "displayDate": "2026-05-10"
+  },
+  "Camera Control": {
+    "title": "Log撮影時のISO設定の誤解を解く：UIと内部処理の乖離",
+    "summary": "ビデオ撮影においてLogを選択すると、カメラのベースISOが強制的に変更されたように見える現象について、DPReviewが技術解説。これは制限ではなく、Log記録時に適切なダイナミックレンジとS/N比を確保するための露出設定の仕組みによるものです。",
+    "insight": "カメラのUI上のISO値は、必ずしもセンサーの増幅率（アナログゲイン）と1:1で対応していないという、ファームウェア設計における「抽象化と実態」のギャップが興味深いです。エンジニアリング視点では、ユーザーの誤解を招かないUI設計と、信号処理の最適化をどう両立させるかの好例といえます。",
+    "sourceUrl": "https://www.dpreview.com/articles/4158544647/camera-makers-arent-blocking-you-from-using-base-iso-in-log-even-if-it-looks-like-it",
+    "sourceName": "Digital Photography Review",
+    "originalImageUrl": "https://3.img-dpreview.com/files/p/E~C0x0S4193x3145T1200x900~articles/4158544647/a_man_looks_at_The_camera_with_a_blurred_graphic_behind_him.jpeg",
+    "originalImageArticleUrl": "https://www.dpreview.com/articles/4158544647/camera-makers-arent-blocking-you-from-using-base-iso-in-log-even-if-it-looks-like-it",
+    "displayDate": "2026-05-10"
+  }
+}
