@@ -1,0 +1,102 @@
+{
+  "AI": {
+    "title": "ローカルLLMの進化とエンジニアへの影響",
+    "summary": "最近、ローカル環境で動作するLLMの性能が飛躍的に向上しています。手元のPCやサーバーで高度なAIを低コストかつセキュアに運用できる選択肢が増えており、個人開発や企業の機密情報を扱うプロジェクトでの活用が現実味を帯びています。",
+    "insight": "クラウドAPIに依存しないローカルLLMの普及は、エンジニアにとってデータプライバシーとコスト管理の観点から大きな転換点です。推論エンジンや量子化技術の進歩を追うことで、エッジAIのユースケースを自ら設計する能力が今後ますます重要になります。",
+    "sourceUrl": "https://news.yahoo.co.jp/articles/c49fa6b933af3446c89b58a1d8a536911c548fb7",
+    "sourceName": "ギズモード・ジャパン",
+    "originalImageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260510-00000001-giz-000-3-view.jpg?exp=10800",
+    "originalImageArticleUrl": "https://news.yahoo.co.jp/articles/c49fa6b933af3446c89b58a1d8a536911c548fb7",
+    "displayDate": "2026-05-11"
+  },
+  "SRD / XR": {
+    "title": "Meta決算とAIスマートグラスの動向",
+    "summary": "Metaの最新決算にて、AI搭載スマートグラス「Ray-Ban Meta」の好調が報告されました。ハードウェアとAIの統合が進む中で、ウェアラブルデバイスの市場ポテンシャルが再評価されています。",
+    "insight": "AIをエッジデバイス（スマートグラス）で動かす最適化技術や、ユーザー体験を損なわない低遅延な推論処理が今後重要になります。ハードウェアの制約を考慮したモデル構築が、XR開発者の新たな主戦場となるでしょう。",
+    "sourceUrl": "https://www.moguravr.com/vr-ar-mr-weekly-2026-5-11/",
+    "sourceName": "Mogura VR",
+    "originalImageUrl": "https://assets.moguravr.com/uploads/2016/11/652ffc2677b8bda86d848402f51a4e16-kix.tz7un4oqdne.webp",
+    "originalImageArticleUrl": "https://www.moguravr.com/vr-ar-mr-weekly-2026-5-11/",
+    "displayDate": "2026-05-11"
+  },
+  "Gaming Monitor": {
+    "title": "最適なゲーミングモニターのサイズとは？トレンドを考察",
+    "summary": "ゲーミングモニター選びにおいて、最適なサイズは何かという問いは常に議論の的です。解像度やリフレッシュレートと並び、デスク環境やプレイジャンルに応じた物理的な画面サイズの選定は、没入感とパフォーマンスを大きく左右します。",
+    "insight": "エンジニア視点では、ディスプレイの画素密度（PPI）と視距離の関係を最適化することで、作業効率とゲームの視認性を両立させることが重要です。特に超広角モニターの導入やマルチディスプレイ構成では、エルゴノミクスに基づいた設置環境の設計が不可欠です。",
+    "sourceUrl": "https://www.bgr.com/2163896/what-best-monitor-size-gaming/",
+    "sourceName": "bgr.com",
+    "originalImageUrl": "https://www.bgr.com/img/gallery/what-is-the-best-monitor-size-for-gaming/l-intro-1777569772.jpg",
+    "originalImageArticleUrl": "https://www.bgr.com/2163896/what-best-monitor-size-gaming/",
+    "displayDate": "2026-05-11"
+  },
+  "TCL": {
+    "title": "TCL CSOTが次世代AR/VR向け高密度XRディスプレイを発表",
+    "summary": "TCL傘下のディスプレイ大手TCL CSOTが、AR・VRデバイス向けの次世代高密度XRディスプレイ技術を披露しました。没入型デバイスの解像度と視認性を飛躍的に高める可能性があり、XR市場の進化を牽引する技術として注目されています。",
+    "insight": "高密度ディスプレイ技術は、ヘッドマウントディスプレイ特有の「網戸効果」を低減する鍵となります。ハードウェアエンジニアとしては、ディスプレイの画素密度向上と小型化の両立が、今後のウェアラブルデバイスのUXをどう変えるかに注目すべきです。",
+    "sourceUrl": "https://www.techedt.com/tcl-csot-shows-high-density-xr-displays-for-ar-and-vr-devices",
+    "sourceName": "Tech Edition",
+    "originalImageUrl": "https://www.techedt.com/wp-content/uploads/2026/05/TCL-CSOT-shows-high-density-XR-displays-for-AR-and-VR-devices.jpg",
+    "originalImageArticleUrl": "https://www.techedt.com/tcl-csot-shows-high-density-xr-displays-for-ar-and-vr-devices",
+    "displayDate": "2026-05-11"
+  },
+  "TV": {
+    "title": "「24時間テレビ49」SixTONESがパートナーに就任",
+    "summary": "日本テレビの夏の大型特番「24時間テレビ49」のチャリティーパートナーに、人気グループSixTONESが就任することが決定しました。今回は青山剛昌氏描き下ろしの「名探偵コナン」デザインを採用し、過去最多となる6色展開のチャリTシャツが販売されます。",
+    "insight": "大型エンタメ番組におけるIPコラボの重要性が高まっています。コナンという強力なブランドとアイドルの融合は、SNSでの拡散性やクロスチャネルのエンゲージメントを最大化するデータ駆動型の戦略として非常に参考になります。",
+    "sourceUrl": "https://www.ntv.co.jp/24h/articles/60eu5cb0hrstptpfgz.html",
+    "sourceName": "日本テレビ",
+    "originalImageUrl": "https://www.ntv.co.jp/24h/articles/images/yx4ig2mosclev1obooodrmczrxronh.jpg",
+    "originalImageArticleUrl": "https://www.ntv.co.jp/24h/articles/60eu5cb0hrstptpfgz.html",
+    "displayDate": "2026-05-11"
+  },
+  "SONY": {
+    "title": "ソニー、5月13日に次世代Xperiaとαカメラを同時発表へ",
+    "summary": "ソニーが5月13日に新製品発表イベントを開催し、次世代モデルとなる「Xperia 1 VIII」と新型αカメラを発表する見込みです。特にXperiaシリーズでは、長年特徴的だった縦型カメラ配置の廃止が示唆されており、デザインの刷新が注目されています。",
+    "insight": "スマホ向けイメージセンサーで圧倒的なシェアを誇るソニーが、モバイルとプロフェッショナル向けカメラの両セグメントで戦略的な新製品を投入します。UI/UXの刷新やAI活用による画像処理の最適化が、ハードウェアスペックの進化とどう融合しているかにエンジニア的な注目が集まります。",
+    "sourceUrl": "https://kunkoku.jp/20260509live.html",
+    "sourceName": "ソニーが基本的に好き。",
+    "originalImageUrl": "https://kunkoku.jp/wp-content/uploads/2021/10/bbc26265_x4.jpg",
+    "originalImageArticleUrl": "https://kunkoku.jp/20260509live.html",
+    "displayDate": "2026-05-11"
+  },
+  "Projector": {
+    "title": "Xgimiが新型4K超短焦点プロジェクター「MIRA」シリーズを発表",
+    "summary": "Xgimiが新たに「MIRA 4K」および「4K Pro」超短焦点プロジェクターを発表しました。設置場所を選ばない短焦点技術と高精細な4K映像出力により、従来のテレビに代わる次世代のホームシアター体験として注目を集めています。",
+    "insight": "短焦点プロジェクターの進化は、リビングの空間設計を根本から変える可能性を秘めています。ソフトウェア面での自動台形補正や画質最適化など、OSを統合した現代的なスマートプロジェクターの需要は今後さらに拡大するでしょう。",
+    "sourceUrl": "https://www.msn.com/en-us/news/technology/xgimi-launches-mira-4k-4k-pro-ultra-short-throw-projectors/ar-AA222iBD?apiversion=v2&domshim=1&noservercache=1&noservertelemetry=1&batchservertelemetry=1&renderwebcomponents=1&wcseo=1",
+    "sourceName": "MSN",
+    "originalImageUrl": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA222S02.img?w=612&h=406&m=4&q=100",
+    "originalImageArticleUrl": "https://www.msn.com/en-us/news/technology/xgimi-launches-mira-4k-4k-pro-ultra-short-throw-projectors/ar-AA222iBD?apiversion=v2&domshim=1&noservercache=1&noservertelemetry=1&batchservertelemetry=1&renderwebcomponents=1&wcseo=1",
+    "displayDate": "2026-05-11"
+  },
+  "LED Wall Display": {
+    "title": "フィラデルフィアの超高層ビルが巨大なゲーム画面に",
+    "summary": "フィラデルフィアのCira Centreという超高層ビルに、中学生たちが作成したビデオゲームを投影するプロジェクトが実施されました。建物のLEDウォールシステムを活用し、街全体をキャンバスに見立てたこの取り組みは、技術教育と都市デザインの融合として注目を集めています。",
+    "insight": "巨大なLEDウォールをゲームインターフェースとして制御する際は、低遅延なネットワーク通信と高解像度コンテンツのレンダリングパイプラインが不可欠です。都市規模のスケールでのインタラクティブ・システム構築は、エンジニアにとって分散システムやUI/UX設計における非常に興味深い挑戦となります。",
+    "sourceUrl": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQU1hBczNSSFZjLVNLM1hqVjRNaXVZVUlkSzVxZi1tNDdiUnFjczNrQTdSQWtCSnVOVHN5R1lPTDBTYnFCQW1xVE1ySzhRblF6a2V5TjR6NE16OFQyM1pRbWNFcVhXeTlNeko2Y1BpVy1ZOFRXM2pSOHJxT0R3TWRhZUJfYzNXWVZZOHB5NQ?oc=5",
+    "sourceName": "CBS News",
+    "originalImageUrl": null,
+    "originalImageArticleUrl": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQU1hBczNSSFZjLVNLM1hqVjRNaXVZVUlkSzVxZi1tNDdiUnFjczNrQTdSQWtCSnVOVHN5R1lPTDBTYnFCQW1xVE1ySzhRblF6a2V5TjR6NE16OFQyM1pRbWNFcVhXeTlNeko2Y1BpVy1ZOFRXM2pSOHJxT0R3TWRhZUJfYzNXWVZZOHB5NQ?oc=5",
+    "displayDate": "2026-05-11"
+  },
+  "Camera Control": {
+    "title": "プロが語る「AI写真」との付き合い方",
+    "summary": "クライアントから「撮影不要、スマホ写真をAIでプロ風にしてほしい」と依頼された商用フォトグラファーの体験談。AIを単なるツールとして使いこなすための、倫理的かつ実務的な判断基準について考察しています。",
+    "insight": "生成AIの普及で「素材の補正」と「創造」の境界が曖昧になっています。エンジニアとしては、AIに任せるべきタスクの選別と、クリエイティブ領域における品質担保（プロンプトエンジニアリングの精度等）のバランスをどう設計するかが重要な議論になります。",
+    "sourceUrl": "https://petapixel.com/2026/05/10/a-commercial-photographers-take-on-when-to-use-ai-and-when-not-to/",
+    "sourceName": "PetaPixel",
+    "originalImageUrl": "https://petapixel.com/assets/uploads/2026/05/How-a-Commercial-Photographer-Uses-AI-to-Shoot-Less-and-Deliver-More.jpg",
+    "originalImageArticleUrl": "https://petapixel.com/2026/05/10/a-commercial-photographers-take-on-when-to-use-ai-and-when-not-to/",
+    "displayDate": "2026-05-11"
+  },
+  "Production Monitor": {
+    "title": "NAB 2026の注目技術：AI自動追尾技術が躍進",
+    "summary": "NAB Show 2026にて、日本テレビの「viztrick AiDi」が「Product of the Year」等を受賞。リアルタイムでの自動追尾や、ライブ配信向けの9:16自動クロッピング技術が業界の最前線として高く評価されています。",
+    "insight": "ライブ映像制作におけるAI自動クロッピングは、エンジニアにとってもアルゴリズムの最適化と低遅延処理という点で非常に興味深い分野です。特に実環境での堅牢な追尾ロジックの構築は、今後の放送・配信システム設計のスタンダードになるでしょう。",
+    "sourceUrl": "https://www.provideocoalition.com/nippon-tvs-viztrick-aidi-wins-dual-awards-at-nab/",
+    "sourceName": "ProVideo Coalition",
+    "originalImageUrl": "https://www.provideocoalition.com/wp-content/uploads/nippontvforanab001.jpg",
+    "originalImageArticleUrl": "https://www.provideocoalition.com/nippon-tvs-viztrick-aidi-wins-dual-awards-at-nab/",
+    "displayDate": "2026-05-11"
+  }
+}
