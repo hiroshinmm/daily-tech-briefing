@@ -1,0 +1,102 @@
+{
+  "AI": {
+    "title": "ハッカーがAIを悪用：2FA回避の脆弱性を発見",
+    "summary": "Googleの報告によると、サイバー犯罪者がAIを活用して未知の脆弱性（ゼロデイ）を発見し、2段階認証（2FA）を回避する手口が確認されました。AIが攻撃の高度化に利用された事例としてセキュリティ業界に警鐘を鳴らしています。",
+    "insight": "AIは脆弱性スキャンや攻撃コードの生成を劇的に高速化しており、防御側の検知・対応スピードもAIで最適化する必要があります。今後は、攻撃者が生成する複雑なトラフィックをAIで解析・特定する「AI防御の自動化」がエンジニアの主要課題になるでしょう。",
+    "sourceUrl": "https://thehackernews.com/2026/05/hackers-used-ai-to-develop-first-known.html",
+    "sourceName": "The Hacker News",
+    "originalImageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgF329-zAoI4gwIW3h3gRYiDJjcRSyWPM4DLHFQwNNGfLTVaROqIfQZ0QB1FwWGmvMGuyNAF9Q6QBYcwLsqMsCka5Lqu82CzUbrBULnUDQwtY_4z6KiOEKSETes6as77XfUCaJVBUOCovZz8jajp6vBp9AAjHiS7BEviANEH0FxmzZwdrTapD3R-gPQWKJ1/s1700-e365/ai-hacker.jpg",
+    "originalImageArticleUrl": "https://thehackernews.com/2026/05/hackers-used-ai-to-develop-first-known.html",
+    "displayDate": "2026-05-12"
+  },
+  "SRD / XR": {
+    "title": "ARコンタクトレンズ実現へ、超小型固体電池の進化",
+    "summary": "ARスマートコンタクトレンズの開発を手がけるXPANCEOが、フランスのITEN社と提携し、レンズに搭載可能な超小型固体電池の開発を発表しました。ウェアラブルデバイスの究極の形である「レンズ型」の実現に向けた、重要なエネルギー供給ソリューションの進歩です。",
+    "insight": "ARグラスの課題である「小型軽量化」と「バッテリー寿命」の両立において、固体電池技術は極めて重要です。エッジデバイスの電源設計において、このような極小フォームファクタでの高エネルギー密度化は、将来的なスマートデバイス開発の標準となるでしょう。",
+    "sourceUrl": "https://www.gifu-np.co.jp/articles/-/706625",
+    "sourceName": "Mogura VR",
+    "originalImageUrl": "https://gifu-np.ismcdn.jp/mwimgs/b/8/-/img_b87532306f459fd48122d210446926fb334936.jpg",
+    "originalImageArticleUrl": "https://www.gifu-np.co.jp/articles/-/706625",
+    "displayDate": "2026-05-12"
+  },
+  "Gaming Monitor": {
+    "title": "LGのOLED技術、シミュレーター市場への進出",
+    "summary": "LGエレクトロニクスが、現代自動車（Hyundai）のNレーシングシミュレーター向けにOLEDディスプレイを供給することを発表しました。高品質な映像体験が求められるプロ向けシミュレーター市場での採用例です。",
+    "insight": "OLEDの高コントラストと応答速度は、競技用シミュレーターにおける視認性向上の鍵となります。ディスプレイの産業用カスタマイズにおいては、低遅延処理や高輝度持続性の要件が、一般のゲーミングモニター以上に厳格なエンジニアリングレベルで評価されます。",
+    "sourceUrl": "https://www.thelec.net/news/articleView.html?idxno=10320",
+    "sourceName": "thelec.net",
+    "originalImageUrl": "https://cdn.thelec.net/news/photo/202605/10320_10286_97.jpg",
+    "originalImageArticleUrl": "https://www.thelec.net/news/articleView.html?idxno=10320",
+    "displayDate": "2026-05-12"
+  },
+  "TCL": {
+    "title": "TCLがXR向け世界最高密度ディスプレイを発表",
+    "summary": "TCLのディスプレイ部門であるCSOTが、XR（VR/AR）デバイス向けとして世界最高の画素密度を誇るディスプレイ技術を公開しました。高精細な映像体験を実現するための重要なブレイクスルーとして注目されています。",
+    "insight": "XRデバイスの普及における最大の課題である「網戸効果（画素が見えてしまう現象）」を解消するため、PPI（画素密度）の向上はエンジニアにとって非常に重要な指標です。この高密度技術が将来のヘッドセットの小型化や没入感向上にどう寄与するか、ハードウェア設計の観点から注目すべきトピックです。",
+    "sourceUrl": "https://www.gsmarena.com/tcl_csot_shows_off_the_worlds_highest_pixel_density_displays_for_xr-news-72759.php",
+    "sourceName": "GSMArena.com",
+    "originalImageUrl": "https://fdn.gsmarena.com/imgroot/news/26/05/tcl-csot-display-week-xr-displays/-952x498w6/gsmarena_000.jpg",
+    "originalImageArticleUrl": "https://www.gsmarena.com/tcl_csot_shows_off_the_worlds_highest_pixel_density_displays_for_xr-news-72759.php",
+    "displayDate": "2026-05-12"
+  },
+  "TV": {
+    "title": "次世代TV技術はOLEDを超えるか？最新比較検証",
+    "summary": "OLED(有機EL)とMiniLEDなどの最新ディスプレイ技術を比較する動きが活発化しています。価格下落が進むOLED市場の中で、ディスプレイの画質や性能をデュアルスクリーン環境で詳細に評価する検証記事が注目を集めており、購入タイミングの検討材料として話題になっています。",
+    "insight": "エンジニア視点では、単なる画素数だけでなく、バックライト制御技術やコントラスト比、リフレッシュレートの限界といったハードウェアスペックの比較が興味深いです。特にディスプレイの階調表現や応答速度はUI/UXデザインや映像処理の最適化を理解する上で重要な要素となります。",
+    "sourceUrl": "https://www.afr.com/technology/can-this-new-tv-tech-outdo-oled-we-dual-screened-to-find-out-20260507-p5zum4",
+    "sourceName": "AFR",
+    "originalImageUrl": "https://static.ffx.io/images/$zoom_0.2894%2C$multiply_3%2C$ratio_1.777778%2C$width_1059%2C$x_631%2C$y_393/t_crop_custom/c_scale%2Cw_800%2Cq_88%2Cf_jpg/t_afr_no_label_no_age_social_wm/d68be132901dc3b8d0cb80d2d8993c856725c1e7",
+    "originalImageArticleUrl": "https://www.afr.com/technology/can-this-new-tv-tech-outdo-oled-we-dual-screened-to-find-out-20260507-p5zum4",
+    "displayDate": "2026-05-12"
+  },
+  "SONY": {
+    "title": "ソニー「α7R VI」発表間近か？ティザー動画が話題",
+    "summary": "ソニーが5月13日の発表に向けたティザー動画を公開。噂されている最新ミラーレスカメラ「α7R VI」の登場が確実視されており、カメラ市場で高いシェアを誇る同シリーズの次期モデルとして注目を集めています。",
+    "insight": "イメージセンサーの進化はモバイルからプロ向けカメラまでソニーの根幹技術です。このモデルでAI処理能力やセンサーの読み出し速度がどう最適化されているか、エンジニアとしてハードウェアアーキテクチャのトレンドを追うべきでしょう。",
+    "sourceUrl": "https://www.diyphotography.net/sony-alpha-camera-teaser-may-2026/",
+    "sourceName": "DIY Photography",
+    "originalImageUrl": "https://www.diyphotography.net/wp-content/uploads/2026/05/sony-teaser.jpg",
+    "originalImageArticleUrl": "https://www.diyphotography.net/sony-alpha-camera-teaser-may-2026/",
+    "displayDate": "2026-05-12"
+  },
+  "Production Monitor": {
+    "title": "Sony、TSMCと合弁へ：内製主義からの転換",
+    "summary": "SonyがTSMCとの共同事業により、次世代イメージセンサーの製造体制を強化します。自社完結型から「ファブライト（fab-light）」モデルへと舵を切るこの動きは、日本の半導体製造の再編を象徴する重要なニュースです。",
+    "insight": "製造の垂直統合から提携型へシフトすることで、開発の柔軟性と供給網の安定性を両立させる戦略です。エンジニアの視点では、ハードウェア専業メーカーがエコシステムの一部として自社のコア技術をどう守り、外部リソースをいかに最適化するかの好例として注目すべき事例です。",
+    "sourceUrl": "https://www.cined.com/sony-hands-image-sensor-manufacturing-to-tsmc-in-landmark-joint-venture-marking-the-end-of-its-fully-in-house-era/",
+    "sourceName": "CineD",
+    "originalImageUrl": "https://www.cined.com/content/uploads/2026/05/Sony-TSMC-featured-300x169.jpg",
+    "originalImageArticleUrl": "https://www.cined.com/sony-hands-image-sensor-manufacturing-to-tsmc-in-landmark-joint-venture-marking-the-end-of-its-fully-in-house-era/",
+    "displayDate": "2026-05-12"
+  },
+  "Projector": {
+    "title": "ハイセンスから高輝度4Kレーザープロジェクター「XR10」が登場",
+    "summary": "ハイセンスが海外向けに4Kプレミアム・レーザープロジェクター「XR10」を発表しました。高輝度な映像投写を実現し、ホームシアター環境における画質と利便性を向上させたモデルです。",
+    "insight": "最新のレーザー光源技術は、従来のランプ式と比較して長寿命かつ高い光出力が可能なため、ホームシアター環境でのHDR体験を大きく向上させます。エンジニアの視点では、この種のデバイスに搭載される画像処理エンジンや光路制御アルゴリズムの進化が、視覚再現性の向上に寄与している点に注目すべきです。",
+    "sourceUrl": "https://www.chiba-tv.com/plus/detail/amp/2026051615813",
+    "sourceName": "チバテレ＋プラス",
+    "originalImageUrl": "https://img.nordot.app/c_limit,w_360,f_auto,q_auto:eco/ch/images/1426535471011153576/origin_1.jpg",
+    "originalImageArticleUrl": "https://www.chiba-tv.com/plus/detail/amp/2026051615813",
+    "displayDate": "2026-05-12"
+  },
+  "Camera Control": {
+    "title": "IoTカメラの脆弱性：100万台がハッキング対象に",
+    "summary": "Wi-Fi接続されたベビーモニターや監視カメラなどのネットワーク機器に大規模な脆弱性が発見されました。約100万台のデバイスが外部からアクセス可能な状態となっており、プライバシー侵害の重大なリスクが浮き彫りになっています。",
+    "insight": "カメラのネットワーク接続はIoTデバイスの典型的なユースケースですが、認証設計やファームウェアの更新不足が致命的な脆弱性に繋がります。エンジニアとしては、エッジデバイスの設計時にデフォルト設定の厳格化やリモートアクセスのセキュリティ対策を最優先すべきという良い教訓になります。",
+    "sourceUrl": "https://petapixel.com/2026/05/11/anyone-could-have-been-watching-your-kids-on-certain-baby-monitors/",
+    "sourceName": "PetaPixel",
+    "originalImageUrl": "https://petapixel.com/assets/uploads/2026/05/meari-baby-monitor-featured.jpg",
+    "originalImageArticleUrl": "https://petapixel.com/2026/05/11/anyone-could-have-been-watching-your-kids-on-certain-baby-monitors/",
+    "displayDate": "2026-05-12"
+  },
+  "LED Wall Display": {
+    "title": "Daktronicsで加速するOOHデジタル広告の市場拡大",
+    "summary": "米国の屋外広告企業Street Media Groupが、Daktronicsの大型LEDディスプレイ技術を採用し、コロラド州からケンタッキー州などへ急速に事業を拡大しています。高精細かつ堅牢なLED技術が、地域密着型から多州展開への成長を支える鍵となっています。",
+    "insight": "デジタル屋外広告(DOOH)の市場では、ハードウェアの信頼性と遠隔管理の容易さが、急成長する企業のインフラ基盤として極めて重要です。エンジニアリングの観点からは、多様な環境下での稼働を支える堅牢なLED制御システムと、コンテンツ管理の拡張性がビジネスモデルの成否を分ける要因となります。",
+    "sourceUrl": "https://ravepubs.com/daktronics-technology-fuels-street-media-groups-rapid-multi-state-expansion/",
+    "sourceName": "rAVe [PUBS]",
+    "originalImageUrl": "https://ravepubs.com/wp-content/uploads/2026/05/media-800x451.webp",
+    "originalImageArticleUrl": "https://ravepubs.com/daktronics-technology-fuels-street-media-groups-rapid-multi-state-expansion/",
+    "displayDate": "2026-05-12"
+  }
+}

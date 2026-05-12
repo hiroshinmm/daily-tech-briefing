@@ -1,10 +1,6 @@
 {
   "Production Monitor": [
     {
-      "url": "https://www.newsshooter.com/2026/05/01/is-it-getting-harder-to-fly-with-batteries/?utm_source=rss&utm_medium=rss&utm_campaign=is-it-getting-harder-to-fly-with-batteries",
-      "date": "2026-05-04"
-    },
-    {
       "url": "https://www.cined.com/forget-xml-cornercut-translates-adobe-premiere-pro-projects-directly-to-davinci-resolve/",
       "date": "2026-05-05"
     },
@@ -31,13 +27,13 @@
     {
       "url": "https://www.provideocoalition.com/nippon-tvs-viztrick-aidi-wins-dual-awards-at-nab/",
       "date": "2026-05-11"
+    },
+    {
+      "url": "https://www.cined.com/sony-hands-image-sensor-manufacturing-to-tsmc-in-landmark-joint-venture-marking-the-end-of-its-fully-in-house-era/",
+      "date": "2026-05-12"
     }
   ],
   "SRD / XR": [
-    {
-      "url": "https://www.moguravr.com/roblox-reality-hybrid-architecture/",
-      "date": "2026-05-04"
-    },
     {
       "url": "https://www.moguravr.com/google-population-dynamics-insights/",
       "date": "2026-05-05"
@@ -65,13 +61,13 @@
     {
       "url": "https://www.moguravr.com/vr-ar-mr-weekly-2026-5-11/",
       "date": "2026-05-11"
+    },
+    {
+      "url": "https://www.gifu-np.co.jp/articles/-/706625",
+      "date": "2026-05-12"
     }
   ],
   "AI": [
-    {
-      "url": "https://news.yahoo.co.jp/pickup/6578584",
-      "date": "2026-05-04"
-    },
     {
       "url": "https://www.nytimes.com/2026/05/04/technology/trump-ai-models.html",
       "date": "2026-05-05"
@@ -99,13 +95,13 @@
     {
       "url": "https://news.yahoo.co.jp/articles/c49fa6b933af3446c89b58a1d8a536911c548fb7",
       "date": "2026-05-11"
+    },
+    {
+      "url": "https://thehackernews.com/2026/05/hackers-used-ai-to-develop-first-known.html",
+      "date": "2026-05-12"
     }
   ],
   "Gaming Monitor": [
-    {
-      "url": "https://mashable.com/article/april-29-samsung-odyssey-oled-g9-monitor-deal",
-      "date": "2026-05-04"
-    },
     {
       "url": "https://www.gizmochina.com/2026/05/04/benq-mobiuz-ex271qz-gaming-monitor-launched-india/",
       "date": "2026-05-05"
@@ -133,13 +129,13 @@
     {
       "url": "https://www.bgr.com/2163896/what-best-monitor-size-gaming/",
       "date": "2026-05-11"
+    },
+    {
+      "url": "https://www.thelec.net/news/articleView.html?idxno=10320",
+      "date": "2026-05-12"
     }
   ],
   "TCL": [
-    {
-      "url": "https://www.techjuice.pk/samsung-wins-court-case-against-tcl-in-germany-over-fake-quantum-dot-tvs/",
-      "date": "2026-05-04"
-    },
     {
       "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQSGN4MG96MndaMEVrQUhodGo5ZFJiLUZNR3M4a1Rtb0JnU3F2bkVGUWQ5NUV1N3VjS2FnU0V4S2RTYk1BZEpkSjZFSEM2T2RYQzJBdm0wV3h6eUNwaTRMOUlqanJCMUR1aTF4V0lNeHBEVDRONGRqWW1sNkVUdmE5WWpkZ0l2SVoyS09HckNDck1oQjlIM21waVcxN050RFVmRVM1ZUJuNVJoR1hxNUVUNnJlX2VDNzUwVVdYbGNaaVZpM25HY01hMkc0REpVOENsMDRDUFFSVWY?oc=5",
       "date": "2026-05-05"
@@ -167,13 +163,13 @@
     {
       "url": "https://www.techedt.com/tcl-csot-shows-high-density-xr-displays-for-ar-and-vr-devices",
       "date": "2026-05-11"
+    },
+    {
+      "url": "https://www.gsmarena.com/tcl_csot_shows_off_the_worlds_highest_pixel_density_displays_for_xr-news-72759.php",
+      "date": "2026-05-12"
     }
   ],
   "Camera Control": [
-    {
-      "url": "https://www.dpreview.com/articles/3296467723/this-photographer-documents-chornobyl-with-cameras-he-can-never-bring-home",
-      "date": "2026-05-04"
-    },
     {
       "url": "https://www.dpreview.com/news/2426198365/digital-film-project-solves-double-shutter-problem",
       "date": "2026-05-05"
@@ -201,13 +197,13 @@
     {
       "url": "https://petapixel.com/2026/05/10/a-commercial-photographers-take-on-when-to-use-ai-and-when-not-to/",
       "date": "2026-05-11"
+    },
+    {
+      "url": "https://petapixel.com/2026/05/11/anyone-could-have-been-watching-your-kids-on-certain-baby-monitors/",
+      "date": "2026-05-12"
     }
   ],
   "LED Wall Display": [
-    {
-      "url": "https://tribune.net.ph/2026/05/03/jarvis-on-the-windshield",
-      "date": "2026-05-04"
-    },
     {
       "url": "https://weeklyvoice.com/vuereal-launches-ecovue-solar-integrated-microled-display-platform-at-sid-2026/",
       "date": "2026-05-05"
@@ -235,13 +231,13 @@
     {
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQU1hBczNSSFZjLVNLM1hqVjRNaXVZVUlkSzVxZi1tNDdiUnFjczNrQTdSQWtCSnVOVHN5R1lPTDBTYnFCQW1xVE1ySzhRblF6a2V5TjR6NE16OFQyM1pRbWNFcVhXeTlNeko2Y1BpVy1ZOFRXM2pSOHJxT0R3TWRhZUJfYzNXWVZZOHB5NQ?oc=5",
       "date": "2026-05-11"
+    },
+    {
+      "url": "https://ravepubs.com/daktronics-technology-fuels-street-media-groups-rapid-multi-state-expansion/",
+      "date": "2026-05-12"
     }
   ],
   "SONY": [
-    {
-      "url": "https://sumahodigest.com/?p=59081",
-      "date": "2026-05-04"
-    },
     {
       "url": "https://www.walkerplus.com/article/116197/image640394.html",
       "date": "2026-05-05"
@@ -269,13 +265,13 @@
     {
       "url": "https://kunkoku.jp/20260509live.html",
       "date": "2026-05-11"
+    },
+    {
+      "url": "https://www.diyphotography.net/sony-alpha-camera-teaser-may-2026/",
+      "date": "2026-05-12"
     }
   ],
   "TV": [
-    {
-      "url": "https://www.howtogeek.com/ive-owned-an-oled-tv-for-8-years-heres-how-i-prevented-burn-in/",
-      "date": "2026-05-04"
-    },
     {
       "url": "https://www.msn.com/en-us/lifestyle/shopping/this-oled-tv-uses-20-neural-networks-to-upscale-everything-you-watch/ar-AA21X0mP?ocid=Peregrine",
       "date": "2026-05-05"
@@ -303,13 +299,13 @@
     {
       "url": "https://www.ntv.co.jp/24h/articles/60eu5cb0hrstptpfgz.html",
       "date": "2026-05-11"
+    },
+    {
+      "url": "https://www.afr.com/technology/can-this-new-tv-tech-outdo-oled-we-dual-screened-to-find-out-20260507-p5zum4",
+      "date": "2026-05-12"
     }
   ],
   "Projector": [
-    {
-      "url": "https://www.ign.com/articles/preorder-xgimi-titan-noir-4k-projector-deal-from-kickstarter",
-      "date": "2026-05-04"
-    },
     {
       "url": "https://jp.ign.com/gaming-device/83264/ankernebula-capsule-3-laseramazon27sale",
       "date": "2026-05-05"
@@ -337,6 +333,10 @@
     {
       "url": "https://www.msn.com/en-us/news/technology/xgimi-launches-mira-4k-4k-pro-ultra-short-throw-projectors/ar-AA222iBD?apiversion=v2&domshim=1&noservercache=1&noservertelemetry=1&batchservertelemetry=1&renderwebcomponents=1&wcseo=1",
       "date": "2026-05-11"
+    },
+    {
+      "url": "https://www.chiba-tv.com/plus/detail/amp/2026051615813",
+      "date": "2026-05-12"
     }
   ]
 }
