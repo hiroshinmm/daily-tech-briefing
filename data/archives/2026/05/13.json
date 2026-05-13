@@ -1,0 +1,102 @@
+{
+  "Gaming Monitor": {
+    "title": "実売5万円のUWQHD湾曲モニターが登場",
+    "summary": "LGエレクトロニクス・ジャパンは、34型21:9湾曲型ウルトラワイドモニター「34U601B-B」を5月中旬より順次発売します。実売予想価格は約5万円と、ウルトラワイド環境を導入しやすい価格設定が注目されています。",
+    "insight": "高リフレッシュレート対応の湾曲ウルトラワイドがこの価格帯で提供されるのは、開発環境のマルチタスク化を進めるエンジニアにとって追い風です。デスクの専有面積と生産性のバランスを考慮する際、コストパフォーマンスに優れた選択肢となります。",
+    "sourceUrl": "https://pc.watch.impress.co.jp/docs/news/2108041.html",
+    "sourceName": "PC Watch",
+    "originalImageUrl": "https://pc.watch.impress.co.jp/img/pcw/list/2108/041/001.jpg",
+    "originalImageArticleUrl": "https://pc.watch.impress.co.jp/docs/news/2108041.html",
+    "displayDate": "2026-05-13"
+  },
+  "AI": {
+    "title": "Anthropicが最新AIの中国提供を拒否、技術安全保障が焦点に",
+    "summary": "Anthropicが最新のAIモデルへの中国からのアクセス要請を拒否したことが報じられました。米国のAI企業が国家安全保障の観点から自社の最先端技術の管理を強める姿勢を改めて鮮明にした出来事です。",
+    "insight": "AIモデルの重みや推論能力が軍事転用可能な技術として扱われる中、開発元によるアクセス制限は今後さらに一般的になるでしょう。エンジニアにとって、モデルの配布やAPIの利用規約におけるガバナンスと地政学的リスクの理解が不可欠になっています。",
+    "sourceUrl": "https://www.nytimes.com/2026/05/12/us/politics/china-ai-anthropic-openai-mythos-chatgpt.html",
+    "sourceName": "The New York Times",
+    "originalImageUrl": null,
+    "originalImageArticleUrl": "https://www.nytimes.com/2026/05/12/us/politics/china-ai-anthropic-openai-mythos-chatgpt.html",
+    "displayDate": "2026-05-13"
+  },
+  "Projector": {
+    "title": "DaVinci Resolve 21：AIがワークフローを加速",
+    "summary": "映像編集ソフト「DaVinci Resolve 21」がアップデート。AIを活用した新機能が搭載され、複雑な映像編集やワークフローの自動化を強力にサポートします。プロの現場における効率化がさらに進む注目のリリースです。",
+    "insight": "AIによる自動化技術は、単なるクリエイティブ支援を超え、プロフェッショナルな動画編集の生産性を劇的に向上させています。開発者としても、AIをワークフローにどう組み込み、人間との協調を最適化するかという視点は非常に参考になります。",
+    "sourceUrl": "https://av.watch.impress.co.jp/docs/series/zooma/2108030.html",
+    "sourceName": "AV Watch",
+    "originalImageUrl": "https://av.watch.impress.co.jp/img/avw/list/2108/030/cap011.jpg",
+    "originalImageArticleUrl": "https://av.watch.impress.co.jp/docs/series/zooma/2108030.html",
+    "displayDate": "2026-05-13"
+  },
+  "SRD / XR": {
+    "title": "日常使いARグラス「サベラ」が先行販売1億円を突破",
+    "summary": "jig.jpが展開する日常使いに特化したARグラス「サベラ」の先行予約販売額が、開始3週間で1億円を突破しました。掛け心地や普段使いの利便性が評価されており、ARグラスの普及に向けた新たな兆しとして注目を集めています。",
+    "insight": "ARグラスの一般普及には「高機能」だけでなく、日常利用を想定した「装着感とデザイン」の最適化がボトルネックとなってきました。この成果は、ハードウェアのスペック競争から、UX（装着負荷の軽減）へのフォーカスが市場に受け入れられ始めた重要な転換点と言えます。",
+    "sourceUrl": "https://www.fukuishimbun.co.jp/articles/-/2598710",
+    "sourceName": "福井新聞社",
+    "originalImageUrl": "https://fki.ismcdn.jp/mwimgs/2/6/-/img_263a566066081fa447ae5a4059d7822250057.jpg",
+    "originalImageArticleUrl": "https://www.fukuishimbun.co.jp/articles/-/2598710",
+    "displayDate": "2026-05-13"
+  },
+  "TCL": {
+    "title": "TCLの新型欧州向け4K QD-Mini LEDテレビが発表",
+    "summary": "TCLは、欧州市場向けに最新の4K QD-Mini LEDディスプレイを搭載した「TCL A400 Pro NXTVISION」を発表しました。144Hzのリフレッシュレートに対応しており、高精細かつ滑らかな映像表示を実現するハイエンドモデルとして期待されています。",
+    "insight": "144Hzの高リフレッシュレート対応は、ゲーミングディスプレイとしての性能も追求している証拠です。Mini LED技術による高コントラストと高速応答性の組み合わせは、今後のディスプレイ開発における標準的なスペック構成として注目すべきです。",
+    "sourceUrl": "https://www.msn.com/en-ie/lifestyle/shopping/tcl-a400-pro-nxtvision-tv-announced-for-europe-with-4k-qd-mini-led-144hz-display/ar-AA21Fthd?item=flightsprg-tipsubsc-v1a&apiversion=v2&domshim=1&noservercache=1&noservertelemetry=1&batchservertelemetry=1&renderwebcomponents=1&wcseo=1",
+    "sourceName": "MSN",
+    "originalImageUrl": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA21G7PI.img?w=612&h=408&m=4&q=81",
+    "originalImageArticleUrl": "https://www.msn.com/en-ie/lifestyle/shopping/tcl-a400-pro-nxtvision-tv-announced-for-europe-with-4k-qd-mini-led-144hz-display/ar-AA21Fthd?item=flightsprg-tipsubsc-v1a&apiversion=v2&domshim=1&noservercache=1&noservertelemetry=1&batchservertelemetry=1&renderwebcomponents=1&wcseo=1",
+    "displayDate": "2026-05-13"
+  },
+  "SONY": {
+    "title": "ソニーとTSMCが提携、スマホカメラの消費電力を削減へ",
+    "summary": "ソニーとTSMCがカメラシステムの電力効率向上に向けて提携を強化しています。高精細化でバッテリー消費が激しいスマホカメラにおいて、センサーと周辺回路の統合・最適化により、画質を維持しつつ消費電力を抑える技術開発を目指します。",
+    "insight": "画像処理エンジンやセンサーの製造において、プロセス技術の微細化だけでなく、設計レベルでの電力マネジメントが重要になっています。エッジAIの処理や高精細撮影を支えるハードウェア設計において、チップの最適化はエンジニアにとって今後さらに注目すべきトレンドです。",
+    "sourceUrl": "https://mobilesyrup.com/2026/05/12/your-phone-camera-could-use-less-battery-thanks-to-sony-tsmc-partnership/",
+    "sourceName": "MobileSyrup",
+    "originalImageUrl": "https://production-static.mobilesyrup.com/uploads/2023/10/sony-shutterstock.jpg",
+    "originalImageArticleUrl": "https://mobilesyrup.com/2026/05/12/your-phone-camera-could-use-less-battery-thanks-to-sony-tsmc-partnership/",
+    "displayDate": "2026-05-13"
+  },
+  "LED Wall Display": {
+    "title": "巨大ディスプレイの巨人DaktronicsがProAV市場へ本格進出",
+    "summary": "スポーツスタジアム等の巨大LEDディスプレイで知られるDaktronicsが、ProAV（業務用AV）市場へ注力しています。同社は屋内dvLED（ダイレクトビューLED）の進化やMicroLED技術の展望を見据え、企業や公共施設などの屋内空間向けソリューションの拡大を図っています。",
+    "insight": "大型LEDディスプレイのノウハウが、より解像度の高い屋内用dvLEDへ転用されることで、企業会議室やロビーの没入型体験が進化しています。エンジニア視点では、ピクセルピッチの微細化に伴う熱制御やコンテンツ配信の低遅延化といったインフラ側の最適化が今後の鍵となります。",
+    "sourceUrl": "https://ravepubs.com/rants-raves-episode-1501/",
+    "sourceName": "rAVe [PUBS]",
+    "originalImageUrl": "https://ravepubs.com/wp-content/uploads/2026/05/1501-800x400.webp",
+    "originalImageArticleUrl": "https://ravepubs.com/rants-raves-episode-1501/",
+    "displayDate": "2026-05-13"
+  },
+  "TV": {
+    "title": "大型OLEDテレビの価格競争が激化：最新モデルも値下げ傾向へ",
+    "summary": "77インチなどの大型OLED（有機EL）テレビ市場で、PanasonicやLGの最新モデルが過去最安値を更新しています。家電メーカー各社がフラッグシップモデルの価格戦略を強化しており、高画質大画面テレビの導入ハードルが急速に下がっています。",
+    "insight": "大型OLEDパネルのコストダウンと低価格化は、家庭用ディスプレイ体験を向上させる一方で、今後のスマートホーム機器のUI設計における高解像度・広色域への最適化という新たな要件を示唆しています。エンジニアとしては、ストリーミングやゲーム向けの高速描画アルゴリズムの進化にも注目すべきトレンドです。",
+    "sourceUrl": "https://www.ign.com/articles/panasonic-z85ba-4k-oled-tv-deal-may-2026",
+    "sourceName": "IGN",
+    "originalImageUrl": "https://assets-prd.ignimgs.com/2026/04/30/panasonicz85ba-1777570067638.jpg?width=1280&format=jpg&auto=webp&quality=80",
+    "originalImageArticleUrl": "https://www.ign.com/articles/panasonic-z85ba-4k-oled-tv-deal-may-2026",
+    "displayDate": "2026-05-13"
+  },
+  "Camera Control": {
+    "title": "AppleによるColor.io買収：クリエイター向けツール拡充の布石",
+    "summary": "Appleが、Webベースのカラーグレーディングツール「Color.io」の運営企業Patchflyerを買収しました。単独開発者であるJonathan Ochmann氏はAppleへ合流済みです。PixelmatorやMotionVFXの買収に続き、Appleが自社のクリエイティブアプリ群をAdobe Creative Cloudの強力な代替へと進化させようとする戦略が見て取れます。",
+    "insight": "Webベースの画像・動画処理技術がOS標準の編集機能に統合される可能性が高く、特にブラウザレベルの高度な色補正モデルが今後iPhoneやFinal Cut Proにどう実装されるかが注目されます。UI/UXの簡略化とプロレベルの機能性を両立させる技術トレンドとして、エンジニアとしてもその統合戦略は注視すべきです。",
+    "sourceUrl": "https://www.dpreview.com/news/4253119292/apple-quietly-purchased-a-cult-favorite-photography-tool",
+    "sourceName": "Digital Photography Review",
+    "originalImageUrl": "https://2.img-dpreview.com/files/p/E~C0x0S1920x1440T1200x900~articles/4253119292/a_white_apple_logo_is_on_a_blurred_colorful_background.jpeg",
+    "originalImageArticleUrl": "https://www.dpreview.com/news/4253119292/apple-quietly-purchased-a-cult-favorite-photography-tool",
+    "displayDate": "2026-05-13"
+  },
+  "Production Monitor": {
+    "title": "パナソニック LUMIX L10発表：25周年記念の本格コンパクト",
+    "summary": "パナソニックがLUMIX誕生25周年を記念し、LEICAレンズ搭載の高級コンパクト「LUMIX L10」を発表。5.6K 30p動画撮影や像面位相差AFに対応し、クリエイター向けの高性能と直感的な操作性を両立したモデルです。",
+    "insight": "カメラのUI/UXは、ハードウェアの性能を最大限に引き出すための重要なエンジニアリング課題です。本機のような物理操作とソフトウェア（REAL TIME LUT等）の統合は、クリエイティブツールを開発する上での優れた設計リファレンスになります。",
+    "sourceUrl": "https://www.cined.com/panasonic-lumix-l10-announced-leica-24-75mm-f1-7-2-8-zoom-5-6k-30p-video-v-log-and-more/",
+    "sourceName": "CineD",
+    "originalImageUrl": "https://www.cined.com/content/uploads/2026/05/Panasonic-LUMIX-L10-1-300x169.jpeg",
+    "originalImageArticleUrl": "https://www.cined.com/panasonic-lumix-l10-announced-leica-24-75mm-f1-7-2-8-zoom-5-6k-30p-video-v-log-and-more/",
+    "displayDate": "2026-05-13"
+  }
+}
