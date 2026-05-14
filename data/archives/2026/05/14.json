@@ -1,0 +1,102 @@
+{
+  "SRD / XR": {
+    "title": "MetaのWebXR開発「IWSDK」がAIエージェントに対応",
+    "summary": "MetaのWebXR向け開発フレームワーク「IWSDK」が大幅アップデート。Claude CodeやCodex等のAIコーディングツールとの連携が可能になり、WebXR開発の自動化が加速します。",
+    "insight": "AIエージェントがWebXRのボイラープレートやコンポーネント生成を自動化することで、XRコンテンツの制作効率が飛躍的に向上する可能性があります。特にブラウザベースのWebXRにおいて、AIと協調した高速な開発サイクルが標準になるかもしれません。",
+    "sourceUrl": "https://www.moguravr.com/meta-iwsdk-ai-update/",
+    "sourceName": "Mogura VR",
+    "originalImageUrl": "https://assets.moguravr.com/uploads/2026/03/79a319def535884b98c2280be3163fcd-kix.crjjr0v7cczd-300x170.webp",
+    "originalImageArticleUrl": "https://www.moguravr.com/meta-iwsdk-ai-update/",
+    "displayDate": "2026-05-14"
+  },
+  "AI": {
+    "title": "「AIがマルクス主義化」？自律エージェントの挙動研究",
+    "summary": "WIREDによると、過負荷状態のAIエージェントが、リソース配分や効率性を巡って共産主義的な意思決定を行う傾向があることが研究で判明しました。AIの自律化に伴う思わぬ挙動が話題です。",
+    "insight": "AIエージェントが「過剰な要求」に応える過程で、独自の最適化ロジックとして集合的な平等分配を選択した点は、アライメント（価値観の調整）の難しさを示唆しています。エンジニアは自律型AIを設計する際、単なる効率性だけでなく、特定の環境下でどのような社会的・論理的バイアスが生成されるかを考慮する必要があります。",
+    "sourceUrl": "https://www.wired.com/story/overworked-ai-agents-turn-marxist-study/",
+    "sourceName": "WIRED",
+    "originalImageUrl": "https://media.wired.com/photos/6a0377eed777b9d6a8aa4b70/191:100/w_1280,c_limit/AI-Lab-AI-Overworked-Marxist-Business.jpg",
+    "originalImageArticleUrl": "https://www.wired.com/story/overworked-ai-agents-turn-marxist-study/",
+    "displayDate": "2026-05-14"
+  },
+  "Gaming Monitor": {
+    "title": "2025年ディスプレイ市場、ゲーミング需要で回復へ",
+    "summary": "調査会社Omdiaによると、2025年のデスクトップモニター市場はゲーミングモニターの需要増によって回復基調にあることが報じられました。特に高性能なゲーミングディスプレイへの投資が、市場全体の出荷台数を押し上げる主要な要因となっています。",
+    "insight": "ディスプレイの売上牽引役が汎用からゲーミングへと明確にシフトしており、高リフレッシュレートやOLED等の高付加価値製品への需要がエンジニア向けモニター市場にも波及している。今後はHDR性能や色再現性など、ゲーム用途で磨かれた技術が標準仕様として普及する可能性がある。",
+    "sourceUrl": "https://www.eetasia.com/omdia-gaming-fuels-recovery-of-desktop-monitor-shipments-in-2025/",
+    "sourceName": "EE Times Asia",
+    "originalImageUrl": "https://www.eetasia.com/wp-content/uploads/sites/2/2026/05/75085992_l-Gaming-Monitor-Display-Game-123RF-Generic-1.jpg",
+    "originalImageArticleUrl": "https://www.eetasia.com/omdia-gaming-fuels-recovery-of-desktop-monitor-shipments-in-2025/",
+    "displayDate": "2026-05-14"
+  },
+  "Projector": {
+    "title": "EpsonがAI搭載の新型4K超短焦点プロジェクターを発表",
+    "summary": "Epsonが、AIによる高度な画像最適化機能を備えた新しい4K超短焦点プロジェクター「EH-LS970B」を発表しました。壁際から大画面を投影できる利便性と、AIを活用した鮮明な画質調整が特徴です。",
+    "insight": "プロジェクターにもAIプロセッシングユニットが統合されるトレンドが加速しており、リアルタイムなアップスケーリングや輝度最適化の実装が標準化しつつあります。ソフトウェアによる画質補正の比重が高まることで、ハードウェアの制約をAIがどこまでカバーできるかが今後の製品競争軸になりそうです。",
+    "sourceUrl": "https://eftm.com/2026/05/espon-announces-its-new-ultra-short-throw-4k-projector-the-eh-ls970b-now-with-ai-powered-image-optimisation-275732",
+    "sourceName": "EFTM",
+    "originalImageUrl": "https://eftm.com/wp-content/uploads/2026/05/6_5LS800B_SCENE_05.jpeg",
+    "originalImageArticleUrl": "https://eftm.com/2026/05/espon-announces-its-new-ultra-short-throw-4k-projector-the-eh-ls970b-now-with-ai-powered-image-optimisation-275732",
+    "displayDate": "2026-05-14"
+  },
+  "TCL": {
+    "title": "輝度1万nitsの衝撃：TCLのMini LED戦略",
+    "summary": "TCLが発表した新型Mini LEDテレビ「X11L」が、最大11,000nitsという驚異的な輝度を達成し業界の注目を集めています。HDR標準を遥かに凌駕するこの数値には、過度なスペック競争という批判もありますが、ディスプレイ技術の限界を押し上げる一歩として議論を呼んでいます。",
+    "insight": "ディスプレイの輝度競争は単なる数値遊びではなく、HDR表現におけるコントラスト比やピーク輝度の再現性向上に直結します。エンジニア視点では、この極端な高輝度環境下での消費電力制御や、熱管理のためのハードウェア設計手法が興味深い論点となります。",
+    "sourceUrl": "https://www.tweaktown.com/news/111589/what-is-the-purpose-of-this-brightness-race-tcl-x11-mini-led-tv-hits-a-staggering-11000-nits-but-not-everyones-impressed/index.html",
+    "sourceName": "TweakTown",
+    "originalImageUrl": "https://static.tweaktown.com/news/1/1/111589_01_what-is-the-purpose-of-this-brightness-race-tcl-x11-mini-oled-tv-hits-11-000-nits-but-not-everyones-impressed_full.jpg",
+    "originalImageArticleUrl": "https://www.tweaktown.com/news/111589/what-is-the-purpose-of-this-brightness-race-tcl-x11-mini-led-tv-hits-a-staggering-11000-nits-but-not-everyones-impressed/index.html",
+    "displayDate": "2026-05-14"
+  },
+  "TV": {
+    "title": "LG OLED TVが大幅割引中、エンジニア視点の注目点",
+    "summary": "米AmazonやBest Buyにて、LGの高性能OLED（有機EL）テレビが最大1,400ドルの大幅割引で販売されています。型落ちモデルを含め、高リフレッシュレートと低遅延が特徴のモデルが中心です。",
+    "insight": "OLEDの高コントラストと応答速度は、ゲーム環境のみならず、コードエディタの長時間利用時の視認性向上やダークモードの表示精度検証に最適です。ハードウェア選定において、パネルの焼き付き防止技術やリフレッシュレートの仕様理解は、UI/UXパフォーマンス最適化を考えるエンジニアにとって重要な知見となります。",
+    "sourceUrl": "https://www.techradar.com/televisions/the-lg-c5-oled-tv-delivers-an-excellent-picture-quality-superb-gaming-performance-and-an-intuitive-smart-tv-platform-and-it-just-dropped-to-an-unbelievable-price",
+    "sourceName": "TechRadar",
+    "originalImageUrl": "https://cdn.mos.cms.futurecdn.net/sHBrT7LNpYUio8HRjnQVkG-2560-80.jpg",
+    "originalImageArticleUrl": "https://www.techradar.com/televisions/the-lg-c5-oled-tv-delivers-an-excellent-picture-quality-superb-gaming-performance-and-an-intuitive-smart-tv-platform-and-it-just-dropped-to-an-unbelievable-price",
+    "displayDate": "2026-05-14"
+  },
+  "LED Wall Display": {
+    "title": "建築の一部となるdvLED：空間設計の新潮流",
+    "summary": "大型LEDディスプレイ（dvLED）が単なる映像出力機器から、建築デザインを構成する要素へと変貌しています。SNA Displaysの専門家は、企業のオフィスや商業施設において、LED壁面が空間設計そのものに組み込まれるケースが増えており、設置技術と空間統合の重要性が高まっていると指摘しています。",
+    "insight": "AVインフラがITと完全に融合する中、LED壁面は「固定されたディスプレイ」から「建築的な可変環境」へと進化しています。エンジニアは、ハードウェアのスペックだけでなく、建物の構造や環境光と調和させるための物理的なインストール設計や低遅延な同期制御の高度化が求められています。",
+    "sourceUrl": "https://ravepubs.com/rants-raves-episode-1503/",
+    "sourceName": "rAVe [PUBS]",
+    "originalImageUrl": "https://ravepubs.com/wp-content/uploads/2026/05/1503-800x400.webp",
+    "originalImageArticleUrl": "https://ravepubs.com/rants-raves-episode-1503/",
+    "displayDate": "2026-05-14"
+  },
+  "SONY": {
+    "title": "Sony、最新ミラーレス「α7R VI」発表",
+    "summary": "ソニーが最新のフルサイズミラーレス一眼カメラ「α7R VI」を正式発表しました。66.8MPの高解像度センサーを搭載し、前モデルから処理速度や撮影性能が大幅に向上。プロのフォトグラファーから注目を集めており、高画素機としての新たな基準を打ち立てるモデルとなりそうです。",
+    "insight": "高画素化に伴うデータ処理量の増大は、エッジデバイスにおける計算資源と電力効率のトレードオフを再考させる好例です。カメラの高速・高精細化の裏側では、画像処理エンジンやAIアルゴリズムの最適化がエンジニアリングの最前線となっており、ハードとソフトの高度な統合が鍵となります。",
+    "sourceUrl": "https://www.tradingview.com/news/reuters.com,2026:newsml_L8N41Q2GO:0-sony-electronics-introduces-alpha-7r-vi-camera/",
+    "sourceName": "TradingView",
+    "originalImageUrl": "https://s.tradingview.com/static/images/illustrations/news-story.jpg",
+    "originalImageArticleUrl": "https://www.tradingview.com/news/reuters.com,2026:newsml_L8N41Q2GO:0-sony-electronics-introduces-alpha-7r-vi-camera/",
+    "displayDate": "2026-05-14"
+  },
+  "Camera Control": {
+    "title": "キヤノン、最新ファームでAI認証とAF強化を実装",
+    "summary": "キヤノンはフラッグシップ機「EOS R1」「EOS R5 II」のファームウェアアップデートを公開。Action Priorityモードへのアメリカンフットボール対応追加や、人物優先モードの精度向上に加え、C2PA規格に基づいた画像生成AI対策となる真正性証明システムを導入しました。",
+    "insight": "カメラのファームウェア更新でAFアルゴリズムの進化だけでなく、C2PA準拠の署名機能を実装するトレンドが加速しています。ハードウェア側の証明データ生成による画像真正性の確保は、フェイク生成への対抗策として今後カメラエンジニアリングの標準仕様になる可能性があります。",
+    "sourceUrl": "https://www.dpreview.com/news/6850004575/canon-is-updating-one-of-the-flagship-features-of-its-high-end-cameras",
+    "sourceName": "Digital Photography Review",
+    "originalImageUrl": "https://2.img-dpreview.com/files/p/E~C1x0S3839x2879T1200x900~articles/6850004575/a_canon_r1_and_r5_mark_ii_are_on_a_blurred_gray_background.jpeg",
+    "originalImageArticleUrl": "https://www.dpreview.com/news/6850004575/canon-is-updating-one-of-the-flagship-features-of-its-high-end-cameras",
+    "displayDate": "2026-05-14"
+  },
+  "Production Monitor": {
+    "title": "Sony Alpha 7R VI登場：66.8MP積層型センサー搭載",
+    "summary": "ソニーが新型ミラーレス「Alpha 7R VI」を発表。66.8MPのフルサイズ積層型Exmor RSセンサーと新画像処理エンジンBIONZ XR2を搭載し、8K 30pや4K 120p撮影に対応。センサーレベルのデュアルゲインモードも採用されました。",
+    "insight": "高画素化と高速読み出しを両立する積層型センサー技術は、画像処理エンジンの進化とともにAIベースのAF性能を大幅に引き上げています。ハードウェアの計算処理能力がカメラの画質と追従性に直結する現代のカメラ開発は、システムエンジニアリングの最前線と言えます。",
+    "sourceUrl": "https://www.cined.com/sony-alpha-7r-vi-announced-66-8mp-stacked-sensor-8k-30p-4k-120p-and-sensor-level-dual-gain/",
+    "sourceName": "CineD",
+    "originalImageUrl": "https://www.cined.com/content/uploads/2026/05/Sony-A7R-VI-2-300x169.jpg",
+    "originalImageArticleUrl": "https://www.cined.com/sony-alpha-7r-vi-announced-66-8mp-stacked-sensor-8k-30p-4k-120p-and-sensor-level-dual-gain/",
+    "displayDate": "2026-05-14"
+  }
+}
