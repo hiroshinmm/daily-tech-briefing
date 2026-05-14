@@ -1,0 +1,102 @@
+{
+  "SRD / XR": {
+    "title": "Meta Questのブラウザで2D写真を3D化が可能に",
+    "summary": "Meta Questの最新PTCアップデートにより、ブラウザ上の写真をAI技術で手軽に3Dモデルへ変換可能になりました。スマホからのアップロードも簡略化され、Web上のコンテンツをVR空間へ取り込む体験が大きく進化しています。",
+    "insight": "Webブラウザ上で生成AIを用いた3D変換をネイティブ実装した点は、空間コンピューティングへの移行を加速させる重要なUI/UXのアップデートです。Webエンジニアにとっても、Web標準技術とXRを組み合わせた体験設計において新しい可能性を示唆しています。",
+    "sourceUrl": "https://www.uploadvr.com/quests-latest-ptc-update-turns-web-photos-into-3d/",
+    "sourceName": "UploadVR",
+    "originalImageUrl": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/05/ca84e12d434845f9944b50759fe3c50c.jpg",
+    "originalImageArticleUrl": "https://www.uploadvr.com/quests-latest-ptc-update-turns-web-photos-into-3d/",
+    "displayDate": "2026-05-15"
+  },
+  "AI": {
+    "title": "金融業界向け「agentOS」登場：AIエージェントの時代へ",
+    "summary": "Fiservが銀行業務に特化したAIエージェント向けオペレーティングシステム「agentOS」を発表しました。複数のAIモデルを統合・管理し、銀行の複雑なワークフローを自律的に実行可能な基盤を提供します。",
+    "insight": "単一のAIモデル利用から、複数の専門エージェントをオーケストレーションするアーキテクチャへのシフトが加速しています。エンジニアは、LLMの推論能力を特定のドメイン知識と接続し、信頼性の高いシステムへ組み込むためのAPI設計やガバナンス設計が今後さらに重要になります。",
+    "sourceUrl": "https://investors.fiserv.com/news-releases/news-release-details/fiserv-launches-agentos-operating-system-agentic-ai-banking",
+    "sourceName": "Fiserv",
+    "originalImageUrl": "https://fiserv.gcs-web.com/static-files/ae59379c-de74-4847-9a8c-080e2ba9ef6f",
+    "originalImageArticleUrl": "https://investors.fiserv.com/news-releases/news-release-details/fiserv-launches-agentos-operating-system-agentic-ai-banking",
+    "displayDate": "2026-05-15"
+  },
+  "Gaming Monitor": {
+    "title": "ハイエンドOLEDゲーミングモニターの大幅値引きが続々",
+    "summary": "最近のゲーミングモニター市場では、LGやSamsungといった大手メーカーの高性能OLEDモデルが、Amazon等で最大40%を超える大幅な割引価格で販売されています。単なる価格競争だけでなく、Xbox Game Pass Ultimateのバンドルキャンペーンなど、ソフトウェア体験をセットにした販促策が目立っています。",
+    "insight": "高リフレッシュレートのOLEDパネルは供給の安定化に伴い価格競争フェーズに入っています。開発環境としては、高解像度・高フレームレート表示への対応確認を低コストで行える良いタイミングかもしれません。",
+    "sourceUrl": "https://9to5toys.com/2026/05/14/lg-ultragear-34-inch-240hz-oled-ultrawide-monitor-hits-658-all-time-low/",
+    "sourceName": "9to5Toys",
+    "originalImageUrl": "https://i0.wp.com/9to5toys.com/wp-content/uploads/sites/5/2026/05/LG-UltraGear-34-inch-OLED-gaming-monitor.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+    "originalImageArticleUrl": "https://9to5toys.com/2026/05/14/lg-ultragear-34-inch-240hz-oled-ultrawide-monitor-hits-658-all-time-low/",
+    "displayDate": "2026-05-15"
+  },
+  "TCL": {
+    "title": "TCLの次世代技術「SQD」と日本展開の加速",
+    "summary": "TCLが量子ドットを進化させた次世代ディスプレイ技術「Super Quantum Dot (SQD)」を採用した新製品を投入し、アンバサダーに山﨑賢人を起用するなど日本市場での存在感を急速に高めています。国内メーカーを猛追する戦略が注目されています。",
+    "insight": "TCLは従来比で色精度を大幅に向上させたSQD技術や、RGB LEDバックライトなどハードウェアの進化で差別化を図っています。製品のコモディティ化が進むテレビ業界において、独自の光学技術とアグレッシブなマーケティングを組み合わせた市場攻略手法は、他家電エンジニアにとっても学ぶべき点が多いです。",
+    "sourceUrl": "https://ascii.jp/elem/000/004/402/4402241/",
+    "sourceName": "ASCII.jp",
+    "originalImageUrl": "https://ascii.jp/img/2026/05/14/4466622/xl/8716e62879a568e1.png?20200122",
+    "originalImageArticleUrl": "https://ascii.jp/elem/000/004/402/4402241/",
+    "displayDate": "2026-05-15"
+  },
+  "TV": {
+    "title": "AIがバラエティ番組に！フジテレビの「シンギュラ」が面白い",
+    "summary": "フジテレビで放送中の実験的バラエティ番組「シンギュラ」が注目を集めています。AIをテーマに据え、AIが番組の企画や進行にどのように関与できるかを検証する内容は、まさに技術とエンターテインメントの融合と言えます。",
+    "insight": "生成AIの応用範囲がバラエティ番組の構成や演出にまで広がっており、プロンプトエンジニアリングや自律的AIの可能性をエンタメ視点で考察する良い機会です。AIの回答の「ゆらぎ」をあえて演出に活かすアプローチは、将来的な対話型AIインターフェースのヒントにもなりそうです。",
+    "sourceUrl": "https://www.fujitv.co.jp/singula/",
+    "sourceName": "fujitv.co.jp",
+    "originalImageUrl": "https://www.fujitv.co.jp/singula/img/logo_ogp.jpg",
+    "originalImageArticleUrl": "https://www.fujitv.co.jp/singula/",
+    "displayDate": "2026-05-15"
+  },
+  "Production Monitor": {
+    "title": "Canon一斉ファームウェア更新：機能改善の要点",
+    "summary": "CanonがEOS R1, R5 Mark IIを含む計9機種に対し、大規模なファームウェア・アップデートを公開しました。AFの被写体検出能力の強化や、HDR/C.Log時のフォルスカラー表示対応など、撮影ワークフローを大きく改善する機能追加が行われています。",
+    "insight": "ファームウェアによる機能の追加や最適化は、ハードウェアの寿命を延ばし製品価値を維持する重要なライフサイクル管理です。特に撮影現場での通信やAF精度のアップデートは、ソフトウェア側のエッジコンピューティング能力がカメラの性能を決定づける現代のトレンドを象徴しています。",
+    "sourceUrl": "https://www.cined.com/canon-firmware-update-for-eos-r1-r100-r5-mark-ii-r3-r10-r50v-r8-r6-mark-ii-and-powershot-v1-released/",
+    "sourceName": "CineD",
+    "originalImageUrl": "https://www.cined.com/content/uploads/2026/05/Canon-FW-updates-300x169.jpeg",
+    "originalImageArticleUrl": "https://www.cined.com/canon-firmware-update-for-eos-r1-r100-r5-mark-ii-r3-r10-r50v-r8-r6-mark-ii-and-powershot-v1-released/",
+    "displayDate": "2026-05-15"
+  },
+  "Projector": {
+    "title": "世界初の3-in-1光学システム搭載、最新4Kプロジェクターが登場",
+    "summary": "世界初の「3-in-1光学システム」を搭載した最新の4Kプロジェクターが発売されました。近年のホームシアター市場では、家庭用プロジェクターの小型化と高画質化が急速に進んでおり、本機もその技術革新を象徴する製品となっています。",
+    "insight": "光学エンジンの小型化は、光路設計と熱制御の高度な最適化によって実現されています。ハードウェアの進化がAV機器のフォームファクタをどう変えていくのか、空間コンピューティングの文脈でも注目すべき領域です。",
+    "sourceUrl": "https://www.msn.com/en-gb/lifestyle/shopping/a-4k-projector-with-the-world-s-first-3-in-1-optical-system-is-available/ar-AA21yZfX?item=module_ad_enabled:false?c/jwu3qfe1aa80ferr",
+    "sourceName": "MSN",
+    "originalImageUrl": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA21yS8w.img?w=612&h=345&m=4&q=79",
+    "originalImageArticleUrl": "https://www.msn.com/en-gb/lifestyle/shopping/a-4k-projector-with-the-world-s-first-3-in-1-optical-system-is-available/ar-AA21yZfX?item=module_ad_enabled:false?c/jwu3qfe1aa80ferr",
+    "displayDate": "2026-05-15"
+  },
+  "SONY": {
+    "title": "Xperia 1 VIIIのAIカメラ、業界から厳しい評価",
+    "summary": "ソニーが発表したフラッグシップ機「Xperia 1 VIII」のAIカメラ機能が、メディアやSNSから厳しい批判を浴びています。特に画質処理やAIによる補正機能がユーザーの期待と乖離しており、「最悪のカメラトレンド」とも評されるなど、技術的な実装と市場の受容性のギャップが浮き彫りになっています。",
+    "insight": "AI画像処理における過度な自動化や画像解釈が、いかにブランドの信頼を損なうかを示唆する事例です。エンジニア視点では、単に最新のAIアルゴリズムを導入するだけでなく、ユーザーの「自然な写真」に対する意図を汲み取るUXの繊細な調整こそが差別化要因となることを再認識すべきです。",
+    "sourceUrl": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBDV2lxOGY5RnBtMHhvX1RWQng3dlpIY0ZRV3huWFl1RzFXREZ0WjF5VWktdWFuQUhMMU1RTFRsQmFtOEh0dDJaOW5vSFpJOGpZOG52VUdGY0p6OUx5ZkRGWWNVeDR5X3RWU3hTZEhkdlFMc1RXR3c?oc=5",
+    "sourceName": "9to5Google",
+    "originalImageUrl": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/05/sony-xperia-ai-camera-4.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+    "originalImageArticleUrl": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBDV2lxOGY5RnBtMHhvX1RWQng3dlpIY0ZRV3huWFl1RzFXREZ0WjF5VWktdWFuQUhMMU1RTFRsQmFtOEh0dDJaOW5vSFpJOGpZOG52VUdGY0p6OUx5ZkRGWWNVeDR5X3RWU3hTZEhkdlFMc1RXR3c?oc=5",
+    "displayDate": "2026-05-15"
+  },
+  "Camera Control": {
+    "title": "DJIがデュアルカメラの「Osmo Pocket 4P」を発表",
+    "summary": "DJIはカンヌ国際映画祭にて、Osmo Pocketシリーズの最新作「Osmo Pocket 4P」を発表しました。デュアルレンズ構成による光学ズーム機能の強化や、10-bit D-Log2対応によるプロレベルのカラーグレーディング、低照度耐性の向上が特徴です。単なるクリエイターツールから「ポケットサイズの映画撮影デバイス」への進化を掲げています。",
+    "insight": "小型ジンバルカメラにマルチカメラシステムを統合し、光学ズームと高ダイナミックレンジを実現した技術的進化に注目です。制約の多い物理筐体の中で、演算処理と光学設計の最適化をどう両立させたのか、組み込みエンジニアとして製品構成の工夫が興味深い点です。",
+    "sourceUrl": "https://www.dpreview.com/news/6252691480/dji-osmo-pocket-4p-teaser",
+    "sourceName": "Digital Photography Review",
+    "originalImageUrl": "https://2.img-dpreview.com/files/p/E~C0x0S2160x1620T1200x900~articles/6252691480/dji_camera_gimabl_stands_against_a_dark_background_with_a_spotlight.jpeg",
+    "originalImageArticleUrl": "https://www.dpreview.com/news/6252691480/dji-osmo-pocket-4p-teaser",
+    "displayDate": "2026-05-15"
+  },
+  "LED Wall Display": {
+    "title": "Planar、レンタル/ステージング向け「Mantis」LEDビデオウォール発表",
+    "summary": "Planarは、イベントやレンタル用途に特化した新型LEDビデオウォール「Mantis Series」を発表しました。ツールレスで片手による迅速な設置・撤去が可能な設計を採用しており、頻繁な組み替えが必要なライブ環境における作業効率の劇的な向上を実現します。",
+    "insight": "ハードウェアのモジュール化が進む中で、セットアップ時間を短縮する「ツールレス」設計は現場のコスト削減に直結する重要なイノベーションです。エンジニアの観点では、組み立ての簡便性と、長時間の連続稼働に耐えうる配線・コネクタの信頼性を両立させた設計思想が注目されます。",
+    "sourceUrl": "https://ravepubs.com/planar-mantis-series-led-video-walls-rental-staging/",
+    "sourceName": "rAVe [PUBS]",
+    "originalImageUrl": "https://ravepubs.com/wp-content/uploads/2026/05/Planar-Mantis-Series-LED-Video-Walls--800x400.png",
+    "originalImageArticleUrl": "https://ravepubs.com/planar-mantis-series-led-video-walls-rental-staging/",
+    "displayDate": "2026-05-15"
+  }
+}
