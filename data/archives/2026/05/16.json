@@ -1,0 +1,102 @@
+{
+  "SRD / XR": {
+    "title": "Meta Ray-Ban Display開発ツール公開",
+    "summary": "Metaはスマートグラス「Meta Ray-Ban Display」向けのディスプレイ表示機能を含む開発者プレビューを提供開始。モバイル/Webアプリの両ビルドに対応し、リストバンド型コントローラーも利用可能です。",
+    "insight": "AIグラスにおけるウェアラブルUIの進化が加速しています。既存のモバイルやWeb技術をどう空間演算（Spatial UI）に落とし込むかという設計思想が、今後プロダクト開発の鍵となるでしょう。",
+    "sourceUrl": "https://www.moguravr.com/meta-ray-ban-display-developer-preview/",
+    "sourceName": "Mogura VR",
+    "originalImageUrl": "https://assets.moguravr.com/uploads/2026/03/883e5b13e669f2cab3a9492756d93a3d-kix.pbtx05dyhi3k-300x158.webp",
+    "originalImageArticleUrl": "https://www.moguravr.com/meta-ray-ban-display-developer-preview/",
+    "displayDate": "2026-05-16"
+  },
+  "AI": {
+    "title": "企業が直面する新たな課題「AIエージェントの乱立」",
+    "summary": "多くの企業で、個別の業務用途に合わせてAIエージェントを導入した結果、管理が複雑化する「エージェント過多」の問題が発生しています。バラバラに構築されたシステムが統合されず、かえって業務効率を低下させるケースが浮上しています。",
+    "insight": "個別の自動化タスクを積み上げるだけでなく、これらを連携・統合するオーケストレーション層の設計が喫緊の課題です。開発現場では、野良エージェント化を防ぐためのガバナンスと、複数のLLMエージェントを一元管理するフレームワークの選定が重要になります。",
+    "sourceUrl": "https://www.wsj.com/cio-journal/companies-have-a-new-ai-problem-too-many-agents-9539c4d6",
+    "sourceName": "WSJ",
+    "originalImageUrl": null,
+    "originalImageArticleUrl": "https://www.wsj.com/cio-journal/companies-have-a-new-ai-problem-too-many-agents-9539c4d6",
+    "displayDate": "2026-05-16"
+  },
+  "Gaming Monitor": {
+    "title": "NVIDIAに挑む国産半導体「CGLA」の正体に迫る",
+    "summary": "NAIST発のスタートアップが開発した新アーキテクチャ「CGLA」が注目を集めています。NVIDIAのGPUが席巻するAI半導体市場において、この国産技術がどのような差別化を図り、どのような可能性を秘めているのか、PC Watchの解説記事が詳細に迫っています。",
+    "insight": "CGLAのような独自アーキテクチャの登場は、GPU一強の現状に対する重要なオルタナティブとして技術的関心が高いです。エッジAIや省電力演算におけるスケーラビリティの確保が、今後のNVIDIA対抗の鍵となるでしょう。",
+    "sourceUrl": "https://pc.watch.impress.co.jp/docs/topic/readitnow/2109120.html",
+    "sourceName": "PC Watch",
+    "originalImageUrl": "https://pc.watch.impress.co.jp/img/pcw/list/2109/120/Photo04.jpg",
+    "originalImageArticleUrl": "https://pc.watch.impress.co.jp/docs/topic/readitnow/2109120.html",
+    "displayDate": "2026-05-16"
+  },
+  "TCL": {
+    "title": "TCLのAmazon限定Mini LED「Q7D Pro」が登場",
+    "summary": "TCLがAmazon限定モデルとして、量子ドット技術を採用したMini LEDテレビ「Q7D Pro」シリーズを発売しました。最大98インチの超大画面モデルまで展開し、圧倒的なコストパフォーマンスで市場攻勢を強めています。",
+    "insight": "Mini LEDと量子ドットの組み合わせは、液晶ディスプレイのコントラスト比と色域を飛躍的に向上させ、従来のハイエンドモニターに匹敵する性能を家庭用価格帯に引き下げています。高輝度・広色域の表示技術が民生機で標準化されることで、UIデザインの設計やディスプレイ性能を前提とした映像アプリケーション開発の重要性が増しています。",
+    "sourceUrl": "https://news.yahoo.co.jp/articles/a0a2d7c5d36dfa3d943bf0a31f3dc24b380a82a0",
+    "sourceName": "Yahoo!ニュース",
+    "originalImageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260515-00000018-ascii-000-1-view.png?fmt=jpeg&q=85&exp=10800",
+    "originalImageArticleUrl": "https://news.yahoo.co.jp/articles/a0a2d7c5d36dfa3d943bf0a31f3dc24b380a82a0",
+    "displayDate": "2026-05-16"
+  },
+  "TV": {
+    "title": "ABCテレビの異例の長尺特集が問いかけるもの",
+    "summary": "ABCテレビが、辺野古沖での事故を約40分間にわたり特集しました。単なるニュース報道の枠を超え、40分という異例の長尺で一つのテーマを深く掘り下げる構成は、視聴者に強いメッセージを届けました。テレビメディアが果たすべき社会的な役割と、深い洞察を伝える手法について注目が集まっています。",
+    "insight": "限られた時間の中で情報を伝えるニュース番組において、あえて長尺の特集枠を設けることは、SNS時代における「深いエンゲージメント」を創出する戦略的な判断と言えます。我々エンジニアも、ユーザーに情報を伝える際、単に機能やデータを並べるのではなく、どのようなストーリーで文脈を深く理解させるかという視点が重要です。",
+    "sourceUrl": "https://news.yahoo.co.jp/articles/24c79e35cff341bf9d4fd02cf656bb94fbb0e50a",
+    "sourceName": "Yahoo!ニュース",
+    "originalImageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260515-00000019-jct-000-4-view.jpg?exp=10800",
+    "originalImageArticleUrl": "https://news.yahoo.co.jp/articles/24c79e35cff341bf9d4fd02cf656bb94fbb0e50a",
+    "displayDate": "2026-05-16"
+  },
+  "SONY": {
+    "title": "ソニーXperiaのAI写真、品質問題でネットミーム化",
+    "summary": "新型Xperia 1 VIIIのAIカメラ機能が、生成された写真の不自然さによりSNSで大きな批判を浴びています。特にサンドイッチのAI処理などが「AIカメラの失敗例」として拡散され、ソニーの説明がさらなる疑問を呼ぶ事態となっています。",
+    "insight": "画像生成AIやAI補正機能を製品に実装する際の、品質管理の難しさと炎上リスクを示唆しています。エンジニアとしては、AIによる推論結果がユーザーの期待値と乖離した際、いかに透過的に仕様を説明し、フィードバックを製品改善へ即座に反映できるかが信頼性の鍵となります。",
+    "sourceUrl": "https://www.fastcompany.com/91543216/sony-xperia-ai-camera-assistant-backlash-tool-pictures-worse",
+    "sourceName": "Fast Company",
+    "originalImageUrl": "https://images.fastcompany.com/image/upload/f_webp,q_auto,c_fit/wp-cms-2/2026/05/p-1-91543216-sony-ai-camera.jpg",
+    "originalImageArticleUrl": "https://www.fastcompany.com/91543216/sony-xperia-ai-camera-assistant-backlash-tool-pictures-worse",
+    "displayDate": "2026-05-16"
+  },
+  "LED Wall Display": {
+    "title": "ディスプレイ過剰設計の罠：環境最適化の考え方",
+    "summary": "大型施設や共有スペースにおいて、高解像度や高輝度が必ずしも最良の体験を生むとは限りません。本記事は、技術的なスペック追求（過剰設計）に陥ることなく、設置場所の環境や目的に最適化されたディスプレイシステムを設計・構築することの重要性を説いています。",
+    "insight": "エンジニアリングにおいて、スペックの最大化が常に正解ではなく、ユースケースに応じた「適正なパフォーマンス」の定義こそが重要です。システム設計時には、技術的な可能性（Can）と環境による必要性（Need）のギャップを埋める仕様策定が求められます。",
+    "sourceUrl": "https://ravepubs.com/avoid-overengineering-dvled-display-systems/",
+    "sourceName": "rAVe [PUBS]",
+    "originalImageUrl": "https://ravepubs.com/wp-content/uploads/2026/05/viewsonic-dvled-all-in-one-meeting-800x400.webp",
+    "originalImageArticleUrl": "https://ravepubs.com/avoid-overengineering-dvled-display-systems/",
+    "displayDate": "2026-05-16"
+  },
+  "Projector": {
+    "title": "Epsonが300インチ4Kレーザープロジェクターを発売",
+    "summary": "Epsonがインド市場向けに300インチの大画面投写が可能な4Kレーザープロジェクター「EH-LS9000B」を発表しました。高輝度なレーザー光源を採用し、ホームシアター環境での大画面体験をより高品位に提供します。",
+    "insight": "プロジェクターの光源技術において、LEDからレーザーへの移行により高輝度と長寿命化が標準的になっています。また、光学エンジンの設計において4K解像度と大画面投写のバランスを最適化する技術は、今後のディスプレイ技術のトレンドを占う指標となります。",
+    "sourceUrl": "https://www.msn.com/en-in/lifestyle/shopping/epson-launches-eh-ls9000b-a-300-inch-4k-laser-projector-in-india-at-rs-3-69-999/ar-AA22UK0l?uxmode=ruby",
+    "sourceName": "MSN",
+    "originalImageUrl": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA22UK0h.img?w=1012&h=569&m=4&q=60",
+    "originalImageArticleUrl": "https://www.msn.com/en-in/lifestyle/shopping/epson-launches-eh-ls9000b-a-300-inch-4k-laser-projector-in-india-at-rs-3-69-999/ar-AA22UK0l?uxmode=ruby",
+    "displayDate": "2026-05-16"
+  },
+  "Production Monitor": {
+    "title": "DaVinci Resolve 21 Beta 3がリリース",
+    "summary": "Blackmagic Designは、DaVinci Resolve 21 Beta 3を公開しました。MultiMasterコラボレーションワークフローの強化、Sony Alpha 7 Vのライブキャプチャ対応、カラー管理の改善に加え、自動化や拡張性を高める新しいスクリプティングAPIが導入されています。",
+    "insight": "エンジニア視点では、特に新しいスクリプティングAPIの追加が注目ポイントです。これにより、カラーグレーディングやポストプロダクションのパイプライン自動化がさらに進む可能性があります。",
+    "sourceUrl": "https://www.newsshooter.com/2026/05/14/davinci-resolve-21-beta-3/?utm_source=rss&utm_medium=rss&utm_campaign=davinci-resolve-21-beta-3",
+    "sourceName": "Newsshooter",
+    "originalImageUrl": "https://www.newsshooter.com/wp-content/uploads/2026/05/Screenshot-2026-05-15-at-8.37.05.png",
+    "originalImageArticleUrl": "https://www.newsshooter.com/2026/05/14/davinci-resolve-21-beta-3/?utm_source=rss&utm_medium=rss&utm_campaign=davinci-resolve-21-beta-3",
+    "displayDate": "2026-05-16"
+  },
+  "Camera Control": {
+    "title": "スペックの罠？Sony a7R VIとフラッグシップの決定的な違い",
+    "summary": "最新のSony a7R VIは、一見するとフラッグシップ機a1 IIの廉価版のように見えますが、実運用では決定的な差があることが判明しました。Stacked CMOSの構造上の違いやAF演算頻度の差により、スポーツ撮影などのプロ現場における信頼性に明確な境界線が引かれています。",
+    "insight": "「スペック表の数値（画素数や連写速度）が同じでも、内部アーキテクチャ（DRAM積層の有無や readout速度）によってリアルタイム処理能力に大きな差が出る」という事例は、ハードウェアエンジニアリングの教訓となります。特に、AFアルゴリズムの更新頻度を維持しながらの高速撮影には、センサーからプロセッサへの広帯域なデータパスが不可欠であることを再確認できます。",
+    "sourceUrl": "https://www.dpreview.com/articles/0909713709/no-the-sony-a7-vi-isn-t-a-cut-price-a1-ii",
+    "sourceName": "Articles: Digital Photography Review (dpreview.com)",
+    "originalImageUrl": "https://dc.watch.impress.co.jp/img/dcw/list/2109/202/01.jpg",
+    "originalImageArticleUrl": "https://dc.watch.impress.co.jp/docs/column/okajima/2109202.html",
+    "displayDate": "2026-05-16"
+  }
+}
