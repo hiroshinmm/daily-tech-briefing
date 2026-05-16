@@ -1,0 +1,102 @@
+{
+  "SRD / XR": {
+    "title": "立命館大がVR研究施設を開設、応用範囲を拡大",
+    "summary": "立命館大学がVRが人体や心理に与える影響を定量化する研究施設を新設。スポーツ、防災、脳科学など、エンターテインメントの枠を超えた広範な分野への応用を目指す。",
+    "insight": "VRの普及に伴い、単なる視覚体験から生体反応への影響を分析する研究の重要性が増しています。ハードウェアエンジニアやUXデザイナーにとって、ユーザーの認知・生理的負荷を計測・フィードバックする設計手法は今後さらに重要になるでしょう。",
+    "sourceUrl": "https://news.ntv.co.jp/n/ytv/category/society/yt80c8a96c1c61452abd4e1babb42ec1dd",
+    "sourceName": "日テレNEWS NNN",
+    "originalImageUrl": "https://image.gallery.play.jp/ytv-news/articles/28440271e01742d4af7949d186985c2a/5b5409fc-c573-4499-9ae5-bef88a365c44.jpg?w=1200",
+    "originalImageArticleUrl": "https://news.ntv.co.jp/n/ytv/category/society/yt80c8a96c1c61452abd4e1babb42ec1dd",
+    "displayDate": "2026-05-17"
+  },
+  "AI": {
+    "title": "Microsoft AI幹部、ホワイトカラーの全業務が18ヶ月で自動化と予測",
+    "summary": "MicrosoftのAI部門幹部が、ホワイトカラーの業務が今後18ヶ月以内にAIによって完全に自動化される可能性があると発言しました。急速な技術進化と生産性向上の衝撃的な予測として、業界内で大きな波紋を呼んでいます。",
+    "insight": "AIエージェントの自律性が高まり、単なるタスク支援から意思決定や実行フェーズへのシフトが加速しています。エンジニアは、ツールを作る側としてAIのワークフロー統合を深く理解し、自動化の恩恵を最大化するためのアーキテクチャ設計がより一層求められます。",
+    "sourceUrl": "https://fortune.com/article/why-microsoft-ai-chief-mustafa-suleyman-predicts-ai-automation-18-months/",
+    "sourceName": "Fortune",
+    "originalImageUrl": "https://fortune.com/img-assets/wp-content/uploads/2026/02/GettyImages-2207866106-e1771004365410.jpg?resize=1200,600",
+    "originalImageArticleUrl": "https://fortune.com/article/why-microsoft-ai-chief-mustafa-suleyman-predicts-ai-automation-18-months/",
+    "displayDate": "2026-05-17"
+  },
+  "Gaming Monitor": {
+    "title": "ついに500Hz到達！Samsungが世界初の有機ELゲーミングモニターを米国投入",
+    "summary": "Samsungが米国市場にて、世界初となるリフレッシュレート500Hzを実現した有機EL（OLED）ゲーミングモニターを発売しました。圧倒的な高速描画性能とOLED特有の低応答速度・高コントラストを両立しており、競技性の高いゲーム体験の基準を大きく引き上げる製品です。",
+    "insight": "リフレッシュレート500Hzという数値は、物理的なフレーム生成と表示遅延の限界に挑戦するエンジニアリングの極致と言えます。GPUのレンダリングパイプラインからディスプレイ出力までのレイテンシをいかに最小化するかという設計思想において、ハードウェアレベルでの進化がソフトウェア側での描画最適化要求をさらに押し上げるきっかけになるでしょう。",
+    "sourceUrl": "https://www.msn.com/en-ie/lifestyle/shopping/samsung-launches-world-s-first-500hz-oled-gaming-monitor-in-the-us/ar-AA1KrT3I?apiversion=v2&domshim=1&noservercache=1&noservertelemetry=1&batchservertelemetry=1&renderwebcomponents=1&wcseo=1",
+    "sourceName": "MSN",
+    "originalImageUrl": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1KrT3A.img?w=612&h=344&m=4&q=81",
+    "originalImageArticleUrl": "https://www.msn.com/en-ie/lifestyle/shopping/samsung-launches-world-s-first-500hz-oled-gaming-monitor-in-the-us/ar-AA1KrT3I?apiversion=v2&domshim=1&noservercache=1&noservertelemetry=1&batchservertelemetry=1&renderwebcomponents=1&wcseo=1",
+    "displayDate": "2026-05-17"
+  },
+  "TCL": {
+    "title": "TCLのAmazon限定ミニLED「Q7D Pro」が登場",
+    "summary": "TCLがAmazon限定モデルとして、量子ドット採用のMini LEDテレビ「Q7D Pro」シリーズを発売しました。最大98型の超大画面モデルを含むラインナップを展開し、高いコストパフォーマンスを武器に市場への攻勢を強めています。",
+    "insight": "液晶ディスプレイのバックライト技術としてMini LEDと量子ドットの組み合わせが一般化し、性能面でプロ用モニターに肉薄しています。ハードウェアの進化が価格競争力とセットで進んでいるため、エンジニアとしては大型ディスプレイの導入ハードルが下がるトレンドに注目です。",
+    "sourceUrl": "https://ascii.jp/elem/000/004/402/4402387/galleryimg.html?num=3",
+    "sourceName": "ASCII.jp",
+    "originalImageUrl": null,
+    "originalImageArticleUrl": "https://ascii.jp/elem/000/004/402/4402387/galleryimg.html?num=3",
+    "displayDate": "2026-05-17"
+  },
+  "Projector": {
+    "title": "Epson、300インチ4K対応のハイエンドレーザープロジェクター発表",
+    "summary": "Epsonが、最大300インチの投写に対応した4Kレーザープロジェクター「EH-LS9000B」をインド市場で発売しました。高輝度と鮮明な映像美を追求したホームシアター向けフラッグシップモデルです。",
+    "insight": "レーザー光源技術の進化により、高輝度と広色域の両立が家庭用でも一般的になってきました。投影型ディスプレイにおいて、光路制御の精度と熱管理が画質に直結するため、エンジニアとしては冷却システムや映像処理アルゴリズムの進化に注目すべきです。",
+    "sourceUrl": "https://www.msn.com/en-in/lifestyle/shopping/epson-launches-eh-ls9000b-a-300-inch-4k-laser-projector-in-india-at-rs-3-69-999/ar-AA22UK0l?uxmode=ruby",
+    "sourceName": "MSN",
+    "originalImageUrl": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA22UK0h.img?w=1012&h=569&m=4&q=60",
+    "originalImageArticleUrl": "https://www.msn.com/en-in/lifestyle/shopping/epson-launches-eh-ls9000b-a-300-inch-4k-laser-projector-in-india-at-rs-3-69-999/ar-AA22UK0l?uxmode=ruby",
+    "displayDate": "2026-05-17"
+  },
+  "SONY": {
+    "title": "SonyのAIカメラ機能における品質と批判のジレンマ",
+    "summary": "ソニーが導入した新しいAIカメラ機能が、品質をめぐって議論を呼んでいます。AIによる画像生成・補正機能がユーザーの期待に応えられず、ネット上でミーム化するなど物議を醸しており、ソニー側も釈明に追われる事態となっています。技術の実装とユーザー体験の乖離が浮き彫りになりました。",
+    "insight": "AIの実装において、過度な自動化や画像処理が品質の不透明さを招き、かえってブランド信頼を損なう好例です。エンジニアリング視点では、AIのブラックボックス性をどう制御し、どこまでをユーザーに委ねるべきかというUX設計の重要性が再認識されます。",
+    "sourceUrl": "https://www.theverge.com/tech/932133/sony-xperia-1-xiii-ai-camera-assistant",
+    "sourceName": "The Verge",
+    "originalImageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/HIW4oV0XgAEmtI2.jpeg?quality=90&strip=all&crop=0,29.168083278796,100,52.356020942408",
+    "originalImageArticleUrl": "https://www.theverge.com/tech/932133/sony-xperia-1-xiii-ai-camera-assistant",
+    "displayDate": "2026-05-17"
+  },
+  "LED Wall Display": {
+    "title": "LG、DVLEDの導入サービスを開始：普及期の重要な一手",
+    "summary": "LGエレクトロニクスが、自社のDirect View LED（DVLED）製品向けに公式の設置・導入サービスを開始しました。特にAll-in-Oneモデルやスケーラブルなキャビネット型ソリューションを対象としており、プロAV市場における導入のハードルを下げ、信頼性と施工品質の標準化を図る戦略的な動きです。",
+    "insight": "大型LEDウォールの普及において、機材の高性能化だけでなく、施工からメンテナンスまでのトータルサービス化が重要になっています。エンジニアの視点では、単なるハードウェアスペックだけでなく、運用フェーズを見据えた保守パッケージが製品採用の決定打になるというトレンドを注視すべきです。",
+    "sourceUrl": "https://ravepubs.com/lg-electronics-launches-installation-service-for-direct-view-led-portfolio/",
+    "sourceName": "rAVe [PUBS]",
+    "originalImageUrl": "https://ravepubs.com/wp-content/uploads/2026/05/Untitled-design48-800x400.webp",
+    "originalImageArticleUrl": "https://ravepubs.com/lg-electronics-launches-installation-service-for-direct-view-led-portfolio/",
+    "displayDate": "2026-05-17"
+  },
+  "TV": {
+    "title": "Samsungの2026年OLED TV戦略、市場競争が激化へ",
+    "summary": "Samsungが2026年モデルのOLED TVの価格を発表しました。これまでOLED市場を牽引してきたLGを強く意識した価格設定となっており、ハイエンドディスプレイ市場における両社の激しいシェア争いが加速しています。",
+    "insight": "OLED技術のコモディティ化と低価格化が進む中、メーカー間の競争はパネル性能だけでなく、エコシステムや映像エンジンのAI最適化が差別化の鍵となります。ソフトウェアエンジニアの視点では、これらのスマートTVプラットフォームにおけるAPI連携やコンテンツ配信の低遅延化技術が今後のトレンドとして注目されます。",
+    "sourceUrl": "https://www.inkl.com/news/samsung-has-revealed-the-prices-of-its-2026-oled-tvs-and-it-s-clearly-gunning-for-lg",
+    "sourceName": "inkl",
+    "originalImageUrl": "https://images.inkl.com/s3/article/lead_image/23315017/ysacqQAoBhxYztBWgFgAb5-1280-80.jpg",
+    "originalImageArticleUrl": "https://www.inkl.com/news/samsung-has-revealed-the-prices-of-its-2026-oled-tvs-and-it-s-clearly-gunning-for-lg",
+    "displayDate": "2026-05-17"
+  },
+  "Production Monitor": {
+    "title": "ユーロビジョン2026：ARRIシネマカメラの放送採用",
+    "summary": "2026年のユーロビジョン・ソング・コンテストにて、史上初めてARRI ALEXA 35 Liveが全編で使用されました。世界最大規模のライブイベントで、映画用カメラが放送制作のインフラとして採用された画期的な事例です。",
+    "insight": "シネマ用カメラの放送現場への本格導入は、高ダイナミックレンジやカラーサイエンスをライブ配信に持ち込む重要なトレンドです。ハードウェアとライブ環境を統合するシステムエンジニアにとって、放送用ワークフローにおけるRAWデータの扱いと低遅延伝送の技術的課題は非常に示唆に富んでいます。",
+    "sourceUrl": "https://www.cined.com/arri-alexa-35-live-at-eurovision-2026-cined-goes-behind-the-scenes-of-the-biggest-broadcast-deployment-in-arri-history/",
+    "sourceName": "CineD",
+    "originalImageUrl": "https://www.cined.com/content/uploads/2026/05/DSC01129_ESC_2026_RIEDEL_ARRI-featured-300x169.jpg",
+    "originalImageArticleUrl": "https://www.cined.com/arri-alexa-35-live-at-eurovision-2026-cined-goes-behind-the-scenes-of-the-biggest-broadcast-deployment-in-arri-history/",
+    "displayDate": "2026-05-17"
+  },
+  "Camera Control": {
+    "title": "中国レンズメーカーの急成長とAF化の波",
+    "summary": "2026年のトレードショーで、ViltroxやSG-imageなどの中国メーカーによるAF対応レンズのリリースが加速しています。安価なマニュアルレンズのイメージから脱却し、AF性能や特殊光学設計を備えた製品群が市場を席巻しています。",
+    "insight": "中国勢の台頭は、光学設計のコモディティ化と、サーボ制御アルゴリズムなどのソフトウェア実装の高度化を象徴しています。組み込みエンジニアの視点で見ると、オープンなSDKやファームウェア更新による機能拡張が標準化する中、独自プロトコルの解析と最適化が今後の競争軸になるでしょう。",
+    "sourceUrl": "https://petapixel.com/2026/05/16/the-chinese-lens-boom-continues-with-a-flood-of-new-releases/",
+    "sourceName": "PetaPixel",
+    "originalImageUrl": "https://petapixel.com/assets/uploads/2026/05/Chinese-Lens-Boom-PetaPixel-Cover.jpg",
+    "originalImageArticleUrl": "https://petapixel.com/2026/05/16/the-chinese-lens-boom-continues-with-a-flood-of-new-releases/",
+    "displayDate": "2026-05-17"
+  }
+}
