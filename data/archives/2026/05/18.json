@@ -1,0 +1,102 @@
+{
+  "SRD / XR": {
+    "title": "Meta Connect 2026開催決定とNianticの3DGS新技術",
+    "summary": "Metaの年次カンファレンス「Meta Connect 2026」が9月23・24日に開催決定。同時に、Nianticが3D Gaussian Splatting（3DGS）のデータ形式である「SPZ 4」を公開しました。XR業界の最新トレンドや開発環境の変化を総括する週となりました。",
+    "insight": "3DGSの標準化に向けた動きは、WebXRやモバイルARのレンダリング効率に劇的な変化をもたらす可能性があります。特にSPZ形式のようなオープンなフォーマットの普及は、3Dアセットのクロスプラットフォームな活用を加速させるため、今後の仕様動向は要注目です。",
+    "sourceUrl": "https://www.moguravr.com/vr-ar-mr-weekly-2026-5-18/",
+    "sourceName": "Mogura VR",
+    "originalImageUrl": "https://assets.moguravr.com/uploads/2016/11/690fdafd5105808af86d8f5bf9c90e92-kix.s1svf5ya5coj-300x206.webp",
+    "originalImageArticleUrl": "https://www.moguravr.com/vr-ar-mr-weekly-2026-5-18/",
+    "displayDate": "2026-05-18"
+  },
+  "AI": {
+    "title": "AIの普及が招く「社会的反発」という経営リスク",
+    "summary": "AI技術の急速な浸透に伴い、AIに対する世論の懸念や反発が企業にとって無視できない経営リスクとなっています。AI活用がビジネスを加速させる一方、倫理的懸念や雇用への影響などがブランドイメージや社会的な信頼性に直結する局面が増えています。",
+    "insight": "エンジニアは技術選定だけでなく、開発したシステムが社会に与える影響や、AIの透明性・責任あるAI（Responsible AI）への配慮を設計段階から組み込む必要があります。バックラッシュを防ぐためには、技術の安全性と倫理的ガイドラインの策定が不可欠です。",
+    "sourceUrl": "https://www.axios.com/2026/05/17/ai-backlash-polling-sentiment",
+    "sourceName": "Axios",
+    "originalImageUrl": "https://images.axios.com/SmgwDy1KQ3SllgGEi6sRqkuUW4U=/0x0:1600x900/1366x768/2026/05/15/1778879153024.png",
+    "originalImageArticleUrl": "https://www.axios.com/2026/05/17/ai-backlash-polling-sentiment",
+    "displayDate": "2026-05-18"
+  },
+  "TCL": {
+    "title": "TCLとRoku、TVのソフトウェア更新巡り集団訴訟へ",
+    "summary": "TCLとRokuのスマートTV向けソフトウェア更新が、デバイスの動作を意図的に妨げているとして、米国内で集団訴訟が提起されました。ユーザーからは更新後のパフォーマンス低下や動作不良が報告されており、デバイスのライフサイクルとメーカーのソフトウェア制御の在り方が問われています。",
+    "insight": "ファームウェア更新が意図せずデバイスのUXを著しく低下させるケースは、IoT機器の信頼性に直結する重要なインシデントです。ハードウェアメーカーには、製品寿命を通じたソフトウェアアップデートの品質保証と、ロールバックを含めたリスク管理体制がエンジニアリングの観点からも強く求められます。",
+    "sourceUrl": "https://www.msn.com/en-us/news/technology/roku-tcl-accused-of-sabotaging-smart-tvs-with-bad-software-updates-in-new-class-action-lawsuit/ar-AA22wZID?ocid=BingNewsVerp",
+    "sourceName": "MSN",
+    "originalImageUrl": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA22wvRi.img?w=612&h=408&m=4&q=90",
+    "originalImageArticleUrl": "https://www.msn.com/en-us/news/technology/roku-tcl-accused-of-sabotaging-smart-tvs-with-bad-software-updates-in-new-class-action-lawsuit/ar-AA22wZID?ocid=BingNewsVerp",
+    "displayDate": "2026-05-18"
+  },
+  "TV": {
+    "title": "OLEDテレビの寿命を延ばすために避けるべき4つの習慣",
+    "summary": "OLED（有機EL）テレビの寿命を縮めてしまう、日常の何気ない使い方の注意点について解説した記事。輝度設定の過剰な調整や電源の切り方など、デバイスの焼き付きを防ぎ、パネルを長く保護するための実践的なヒントがまとめられています。",
+    "insight": "デバイスの寿命管理は、バックエンドのインフラ運用と同様に、ハードウェア特性の理解が不可欠です。OLEDの焼き付き問題は物理的な経年劣化に直結するため、設定最適化を通じた「パフォーマンスの持続可能性」を意識することはエンジニアの機材選びや運用知識としても有用です。",
+    "sourceUrl": "https://www.makeuseof.com/things-youre-doing-right-now-shortening-your-oled-tvs-life/",
+    "sourceName": "MakeUseOf",
+    "originalImageUrl": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/wm/2026/05/samsung-oled-tv-menu.jpg?w=1600&h=900&fit=crop",
+    "originalImageArticleUrl": "https://www.makeuseof.com/things-youre-doing-right-now-shortening-your-oled-tvs-life/",
+    "displayDate": "2026-05-18"
+  },
+  "Projector": {
+    "title": "IMAXレーザーが進化、川崎に最新鋭4K上映システム導入",
+    "summary": "109シネマズ川崎のIMAXデジタルシアターが刷新され、最新鋭の「IMAXレーザー」4K上映システムが導入されました。高解像度かつ鮮やかな色彩表現により、没入感のある映像体験が提供されます。",
+    "insight": "最新のレーザー光源技術は従来のキセノンランプ方式に比べ、高コントラストで輝度も高い映像を実現します。映像エンジニアにとって、HDR対応や広色域の処理が重要となるこれら最新システムの投写仕様は、ディスプレイ技術のトレンドを理解する上で有益なケーススタディです。",
+    "sourceUrl": "https://www.walkerplus.com/article/169199/image991543.html",
+    "sourceName": "ウォーカープラス",
+    "originalImageUrl": "https://news.walkerplus.com/article/169199/991542_615.jpg",
+    "originalImageArticleUrl": "https://www.walkerplus.com/article/169199/image991543.html",
+    "displayDate": "2026-05-18"
+  },
+  "SONY": {
+    "title": "ソニーα7R VI発表！次世代「SAバッテリー」の革新性",
+    "summary": "ソニーから最新のミラーレスカメラ「α7R VI」が発表されました。特筆すべきは、大容量かつ高速充電を実現した新型バッテリー「NP-SA100（SAバッテリー）」の採用です。次世代αシリーズの電源環境を大きく変える可能性を秘めており、業界内でも注目が集まっています。",
+    "insight": "カメラの性能向上だけでなく、給電・冷却といったシステムレベルの進化が製品寿命や信頼性に直結する好例です。高出力化が進むデバイスにおいて、バッテリーの新規格化はハードウェアエンジニアリングにおいて重要なパラダイムシフトと言えます。",
+    "sourceUrl": "https://kunkoku.jp/ilce-7rm6-3.html",
+    "sourceName": "ソニーが基本的に好き。",
+    "originalImageUrl": "https://kunkoku.jp/wp-content/uploads/2026/05/0418v.jpg",
+    "originalImageArticleUrl": "https://kunkoku.jp/ilce-7rm6-3.html",
+    "displayDate": "2026-05-18"
+  },
+  "Gaming Monitor": {
+    "title": "Lenovoが4K/240Hzの高性能QD-OLEDモニタを発表",
+    "summary": "Lenovoが、31.5インチの4K解像度、リフレッシュレート240Hz、応答速度0.03msという驚異的なスペックを誇るQD-OLEDゲーミングモニタを発表しました。高精細かつ超高速な描画性能を持ち、次世代のゲーミング体験を実現する製品として注目されています。",
+    "insight": "OLED技術の進化により、高解像度と高速レスポンスの両立が当たり前になってきました。エンジニア視点では、こうしたモニタの性能向上に合わせて、高フレームレートを維持するためのレンダリング最適化や、低遅延入力への対応など、ソフトウェア側の要求水準もさらに高まると予想されます。",
+    "sourceUrl": "https://www.msn.com/en-ie/lifestyle/shopping/lenovo-launches-31-5-inch-4k-240hz-qd-oled-gaming-monitor-with-0-03ms-response/ar-AA22nb1T?item=flightsprg-tipsubsc-v1a%3Fseason%2F%2F&apiversion=v2&domshim=1&noservercache=1&noservertelemetry=1&batchservertelemetry=1&renderwebcomponents=1&wcseo=1",
+    "sourceName": "MSN",
+    "originalImageUrl": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA22nb1P.img?w=612&h=447&m=4&q=100",
+    "originalImageArticleUrl": "https://www.msn.com/en-ie/lifestyle/shopping/lenovo-launches-31-5-inch-4k-240hz-qd-oled-gaming-monitor-with-0-03ms-response/ar-AA22nb1T?item=flightsprg-tipsubsc-v1a%3Fseason%2F%2F&apiversion=v2&domshim=1&noservercache=1&noservertelemetry=1&batchservertelemetry=1&renderwebcomponents=1&wcseo=1",
+    "displayDate": "2026-05-18"
+  },
+  "LED Wall Display": {
+    "title": "ユーロビジョン70周年：ARRIカメラとLEDウォールの融合",
+    "summary": "欧州最大の放送番組「ユーロビジョン・ソング・コンテスト」が70周年を迎え、ARRIの最先端カメラシステムを導入しました。大規模なLEDウォール演出と高精細カメラ技術を組み合わせ、放送業界におけるライブ映像体験の限界に挑戦しています。",
+    "insight": "放送用LEDウォールとカメラ間の同期（genlockやフリッカー対策）は、映像の品質を左右するエンジニアリングの核心です。特に大規模環境では、高リフレッシュレートのLEDとセンサー側の露出タイミングを制御するパイプラインの最適化が、臨場感ある映像表現に不可欠となります。",
+    "sourceUrl": "https://www.redsharknews.com/eurovision-2026-broadcast-arri-alexa-led-wall-nep",
+    "sourceName": "Red Shark News",
+    "originalImageUrl": "https://www.redsharknews.com/hubfs/eurovision%20song%20contest%202026.jpg",
+    "originalImageArticleUrl": "https://www.redsharknews.com/eurovision-2026-broadcast-arri-alexa-led-wall-nep",
+    "displayDate": "2026-05-18"
+  },
+  "Production Monitor": {
+    "title": "Windows 11の「Home/Pro以外」の選択肢",
+    "summary": "Windows 11にはHomeやPro以外にもエディションが存在しますが、多くのユーザーに認知されていません。広告や不要なソフトウェア、プライバシー懸念を回避するために、よりクリーンな環境を提供する上位・特殊エディションの理解が重要になっています。",
+    "insight": "OSの選定は開発環境の安定性に直結します。不要な広告やサービスを排除できるエディションを適切に選択することは、PCのパフォーマンスを最適化し、エンジニアとしての開発効率を高める鍵となります。",
+    "sourceUrl": "https://www.provideocoalition.com/windows-11-versions-beyond-home-pro-to-combat-undesired-advertising-bloat-espionage/",
+    "sourceName": "ProVideo Coalition",
+    "originalImageUrl": "https://www.provideocoalition.com/wp-content/uploads/Windows-11-hero.jpg",
+    "originalImageArticleUrl": "https://www.provideocoalition.com/windows-11-versions-beyond-home-pro-to-combat-undesired-advertising-bloat-espionage/",
+    "displayDate": "2026-05-18"
+  },
+  "Camera Control": {
+    "title": "ソニー新型Xperia 1 VIII発表、AIカメラアシスタント搭載",
+    "summary": "ソニーはフラグシップスマートフォン「Xperia 1 VIII」の体験会を開催。撮影シーンに応じてAIが最適なテイストを提案する「AIカメラアシスタント」を搭載し、従来のプロ仕様の撮影体験にAIによる自動最適化の利便性が加わりました。発売は6月11日、実勢価格は23万6,000円前後から。",
+    "insight": "スマートフォンにおけるAI画像処理は、単なる画質向上だけでなく、ユーザーの意図を汲み取るコンテキスト認識へと進化しています。プロ機とスマホの境界が曖昧になる中、カメラの制御アルゴリズムにおける「AIによるテイスト提案」のUX実装は、今後のモバイルデバイス開発の重要な差別化要因になるでしょう。",
+    "sourceUrl": "https://dc.watch.impress.co.jp/docs/news/2109304.html",
+    "sourceName": "デジカメ Watch",
+    "originalImageUrl": "https://dc.watch.impress.co.jp/img/dcw/list/2109/304/001.jpg",
+    "originalImageArticleUrl": "https://dc.watch.impress.co.jp/docs/news/2109304.html",
+    "displayDate": "2026-05-18"
+  }
+}

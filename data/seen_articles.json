@@ -1,10 +1,6 @@
 {
   "Production Monitor": [
     {
-      "url": "https://www.cined.com/mark-the-date-canon-and-sony-tease-new-cameras-for-may-13-set-30-minutes-apart/",
-      "date": "2026-05-10"
-    },
-    {
       "url": "https://www.provideocoalition.com/nippon-tvs-viztrick-aidi-wins-dual-awards-at-nab/",
       "date": "2026-05-11"
     },
@@ -31,13 +27,13 @@
     {
       "url": "https://www.cined.com/arri-alexa-35-live-at-eurovision-2026-cined-goes-behind-the-scenes-of-the-biggest-broadcast-deployment-in-arri-history/",
       "date": "2026-05-17"
+    },
+    {
+      "url": "https://www.provideocoalition.com/windows-11-versions-beyond-home-pro-to-combat-undesired-advertising-bloat-espionage/",
+      "date": "2026-05-18"
     }
   ],
   "SRD / XR": [
-    {
-      "url": "https://www.moguravr.com/ar-glass-screen-display-iphone/",
-      "date": "2026-05-10"
-    },
     {
       "url": "https://www.moguravr.com/vr-ar-mr-weekly-2026-5-11/",
       "date": "2026-05-11"
@@ -65,13 +61,13 @@
     {
       "url": "https://news.ntv.co.jp/n/ytv/category/society/yt80c8a96c1c61452abd4e1babb42ec1dd",
       "date": "2026-05-17"
+    },
+    {
+      "url": "https://www.moguravr.com/vr-ar-mr-weekly-2026-5-18/",
+      "date": "2026-05-18"
     }
   ],
   "AI": [
-    {
-      "url": "https://news.yahoo.co.jp/articles/8e03de1bc31fc9842d7e7cffdfc3f575f39e2ea6",
-      "date": "2026-05-10"
-    },
     {
       "url": "https://news.yahoo.co.jp/articles/c49fa6b933af3446c89b58a1d8a536911c548fb7",
       "date": "2026-05-11"
@@ -99,13 +95,13 @@
     {
       "url": "https://fortune.com/article/why-microsoft-ai-chief-mustafa-suleyman-predicts-ai-automation-18-months/",
       "date": "2026-05-17"
+    },
+    {
+      "url": "https://www.axios.com/2026/05/17/ai-backlash-polling-sentiment",
+      "date": "2026-05-18"
     }
   ],
   "Gaming Monitor": [
-    {
-      "url": "https://techaeris.com/2026/05/09/pre-order-the-lg-ultragear-evo-gx9/",
-      "date": "2026-05-10"
-    },
     {
       "url": "https://www.bgr.com/2163896/what-best-monitor-size-gaming/",
       "date": "2026-05-11"
@@ -133,13 +129,13 @@
     {
       "url": "https://www.msn.com/en-ie/lifestyle/shopping/samsung-launches-world-s-first-500hz-oled-gaming-monitor-in-the-us/ar-AA1KrT3I?apiversion=v2&domshim=1&noservercache=1&noservertelemetry=1&batchservertelemetry=1&renderwebcomponents=1&wcseo=1",
       "date": "2026-05-17"
+    },
+    {
+      "url": "https://www.msn.com/en-ie/lifestyle/shopping/lenovo-launches-31-5-inch-4k-240hz-qd-oled-gaming-monitor-with-0-03ms-response/ar-AA22nb1T?item=flightsprg-tipsubsc-v1a%3Fseason%2F%2F&apiversion=v2&domshim=1&noservercache=1&noservertelemetry=1&batchservertelemetry=1&renderwebcomponents=1&wcseo=1",
+      "date": "2026-05-18"
     }
   ],
   "TCL": [
-    {
-      "url": "https://www.msn.com/en-us/news/technology/tcl-and-roku-sued-for-allegedly-bricking-tvs-with-updates/ar-AA22u3Qn?gemSnapshotKey=GM6544C4F7-snapshot-15&apiversion=v2&domshim=1&noservercache=1&noservertelemetry=1&batchservertelemetry=1&renderwebcomponents=1&wcseo=1",
-      "date": "2026-05-10"
-    },
     {
       "url": "https://www.techedt.com/tcl-csot-shows-high-density-xr-displays-for-ar-and-vr-devices",
       "date": "2026-05-11"
@@ -167,13 +163,13 @@
     {
       "url": "https://ascii.jp/elem/000/004/402/4402387/galleryimg.html?num=3",
       "date": "2026-05-17"
+    },
+    {
+      "url": "https://www.msn.com/en-us/news/technology/roku-tcl-accused-of-sabotaging-smart-tvs-with-bad-software-updates-in-new-class-action-lawsuit/ar-AA22wZID?ocid=BingNewsVerp",
+      "date": "2026-05-18"
     }
   ],
   "Camera Control": [
-    {
-      "url": "https://www.dpreview.com/articles/4158544647/camera-makers-arent-blocking-you-from-using-base-iso-in-log-even-if-it-looks-like-it",
-      "date": "2026-05-10"
-    },
     {
       "url": "https://petapixel.com/2026/05/10/a-commercial-photographers-take-on-when-to-use-ai-and-when-not-to/",
       "date": "2026-05-11"
@@ -201,13 +197,13 @@
     {
       "url": "https://petapixel.com/2026/05/16/the-chinese-lens-boom-continues-with-a-flood-of-new-releases/",
       "date": "2026-05-17"
+    },
+    {
+      "url": "https://dc.watch.impress.co.jp/docs/news/2109304.html",
+      "date": "2026-05-18"
     }
   ],
   "LED Wall Display": [
-    {
-      "url": "https://www.digitalsignagetoday.com/news/talon-launches-ai-powered-programmatic-engine/",
-      "date": "2026-05-10"
-    },
     {
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQU1hBczNSSFZjLVNLM1hqVjRNaXVZVUlkSzVxZi1tNDdiUnFjczNrQTdSQWtCSnVOVHN5R1lPTDBTYnFCQW1xVE1ySzhRblF6a2V5TjR6NE16OFQyM1pRbWNFcVhXeTlNeko2Y1BpVy1ZOFRXM2pSOHJxT0R3TWRhZUJfYzNXWVZZOHB5NQ?oc=5",
       "date": "2026-05-11"
@@ -235,13 +231,13 @@
     {
       "url": "https://ravepubs.com/lg-electronics-launches-installation-service-for-direct-view-led-portfolio/",
       "date": "2026-05-17"
+    },
+    {
+      "url": "https://www.redsharknews.com/eurovision-2026-broadcast-arri-alexa-led-wall-nep",
+      "date": "2026-05-18"
     }
   ],
   "SONY": [
-    {
-      "url": "https://kunkoku.jp/20260509live.html",
-      "date": "2026-05-10"
-    },
     {
       "url": "https://kunkoku.jp/20260509live.html",
       "date": "2026-05-11"
@@ -269,13 +265,13 @@
     {
       "url": "https://www.theverge.com/tech/932133/sony-xperia-1-xiii-ai-camera-assistant",
       "date": "2026-05-17"
+    },
+    {
+      "url": "https://kunkoku.jp/ilce-7rm6-3.html",
+      "date": "2026-05-18"
     }
   ],
   "TV": [
-    {
-      "url": "https://www.msn.com/en-us/news/technology/this-smart-tv-setting-is-ruining-your-picture-quality-turn-it-off-now/ar-AA20HMMm",
-      "date": "2026-05-10"
-    },
     {
       "url": "https://www.ntv.co.jp/24h/articles/60eu5cb0hrstptpfgz.html",
       "date": "2026-05-11"
@@ -303,13 +299,13 @@
     {
       "url": "https://www.inkl.com/news/samsung-has-revealed-the-prices-of-its-2026-oled-tvs-and-it-s-clearly-gunning-for-lg",
       "date": "2026-05-17"
+    },
+    {
+      "url": "https://www.makeuseof.com/things-youre-doing-right-now-shortening-your-oled-tvs-life/",
+      "date": "2026-05-18"
     }
   ],
   "Projector": [
-    {
-      "url": "https://av.watch.impress.co.jp/docs/news/2107253.html",
-      "date": "2026-05-10"
-    },
     {
       "url": "https://www.msn.com/en-us/news/technology/xgimi-launches-mira-4k-4k-pro-ultra-short-throw-projectors/ar-AA222iBD?apiversion=v2&domshim=1&noservercache=1&noservertelemetry=1&batchservertelemetry=1&renderwebcomponents=1&wcseo=1",
       "date": "2026-05-11"
@@ -337,6 +333,10 @@
     {
       "url": "https://www.msn.com/en-in/lifestyle/shopping/epson-launches-eh-ls9000b-a-300-inch-4k-laser-projector-in-india-at-rs-3-69-999/ar-AA22UK0l?uxmode=ruby",
       "date": "2026-05-17"
+    },
+    {
+      "url": "https://www.walkerplus.com/article/169199/image991543.html",
+      "date": "2026-05-18"
     }
   ]
 }
