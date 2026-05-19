@@ -1,0 +1,102 @@
+{
+  "SRD / XR": {
+    "title": "AIが空間を生成する「ワールドモデル」の衝撃",
+    "summary": "AIが3D空間を自動生成する「ワールドモデル」の技術が注目されています。物理法則や空間認識をAIが学習することで、従来の手作業に頼っていたVR/メタバースの環境構築が劇的に進化し、自動生成や拡張が可能なフェーズに突入しています。",
+    "insight": "ワールドモデルは、動画生成AIから物理シミュレーション可能な空間構築へのシフトを意味しており、ゲーム開発のワークフローを根本から変える可能性があります。エンジニアとしては、拡散モデル等を用いた空間生成パイプラインの知見が今後XR開発の差別化要因になるでしょう。",
+    "sourceUrl": "https://www.moguravr.com/what-is-world-model-ai-3d-space-generation/",
+    "sourceName": "Mogura VR",
+    "originalImageUrl": "https://assets.moguravr.com/uploads/2026/05/8d1a7bd3e81eec272f0ff9279604d62b-kix.st5eqy4ozr7a-300x169.webp",
+    "originalImageArticleUrl": "https://www.moguravr.com/what-is-world-model-ai-3d-space-generation/",
+    "displayDate": "2026-05-19"
+  },
+  "AI": {
+    "title": "日立とAnthropicの提携が示すAI社会実装",
+    "summary": "日立製作所がAnthropicと提携し、生成AIを活用したインフラ運用効率化への取り組みを発表しました。鉄道や電力など社会基盤へのAI導入が加速しており、エンタープライズ領域でのAI活用事例として注目されています。",
+    "insight": "LLMを単なるチャットツールから、堅牢性が求められる産業・社会インフラの最適化エンジンとしてどう組み込むかが鍵となります。RAGやエージェント技術をレガシーシステムと統合する際のアーキテクチャ設計力が、エンジニアにはより一層求められています。",
+    "sourceUrl": "https://www.nikkei.com/article/DGXZQOUC1816N0Y6A510C2000000/",
+    "sourceName": "日本経済新聞",
+    "originalImageUrl": "https://article-image-ix.nikkei.com/https%3A%2F%2Fimgix-proxy.n8s.jp%2FDSXZQO3034949018052026000000-1.jpg?auto=compress&bg=FFFF&crop=focalpoint&fit=crop&fm=jpg&h=630&w=1200&s=bdb29780d4104186dc6e6d94b6f7c299",
+    "originalImageArticleUrl": "https://www.nikkei.com/article/DGXZQOUC1816N0Y6A510C2000000/",
+    "displayDate": "2026-05-19"
+  },
+  "TCL": {
+    "title": "TCL、LGのOLED市場に挑戦状：Mini LEDで存在感",
+    "summary": "TCLが最新のMini LEDディスプレイ技術を武器に、LG Electronicsが強みを持つOLED（有機EL）市場への攻勢を強めています。価格競争力と高度なディスプレイ技術を組み合わせ、プレミアムTV市場における既存のシェア構造を揺るがそうとしています。",
+    "insight": "低価格帯からハイエンドへのシフトを支えるMini LEDの調光制御技術は、エンジニアにとって注目すべき進化です。バックライト制御アルゴリズムの最適化がOLEDとどこまで差を詰められるかは、今後のディスプレイ・エンジニアリングにおける重要な論点となります。",
+    "sourceUrl": "https://www.channelnews.com.au/lg-electronics-faces-existential-threat-as-rival-tcl-prepares-to-shatter-its-oled-monopoly/",
+    "sourceName": "channelnews.com.au",
+    "originalImageUrl": "https://www.channelnews.com.au/wp-content/uploads/2026/05/TCL-Printed-OLED.webp",
+    "originalImageArticleUrl": "https://www.channelnews.com.au/lg-electronics-faces-existential-threat-as-rival-tcl-prepares-to-shatter-its-oled-monopoly/",
+    "displayDate": "2026-05-19"
+  },
+  "SONY": {
+    "title": "ソニー「α7R VI」予約開始とXperia新製品",
+    "summary": "ソニーがハイエンドミラーレス一眼カメラ「α7R VI」の予約販売を開始。同時に、AIカメラアシスタントを搭載したスマホ「Xperia 1 VIII」の発表も行われ、撮影体験の強化に注力した新製品ラインナップが大きな注目を集めています。",
+    "insight": "AIカメラアシスタントによる撮影支援は、計算写真学(Computational Photography)がハードウェアの制約を超えて画質を最適化するトレンドを象徴しています。エンジニアとしては、エッジデバイス上でのAI推論によるリアルタイム画像処理の最適化と、低遅延なフィードバック制御の実装手法に注目すべきです。",
+    "sourceUrl": "https://asobinet.com/pre-orders-now-open-for-the-sony-%CE%B17r-vi-ilce-7rm6/",
+    "sourceName": "とるなら",
+    "originalImageUrl": "https://asobinet.com/wp-content/uploads/2026/05/A7RM6-ILCE-7RM6-logo-fb.jpg",
+    "originalImageArticleUrl": "https://asobinet.com/pre-orders-now-open-for-the-sony-%CE%B17r-vi-ilce-7rm6/",
+    "displayDate": "2026-05-19"
+  },
+  "TV": {
+    "title": "OLED市場の覇権争い：TCLがLGを猛追",
+    "summary": "ディスプレイ業界で長年OLED（有機EL）市場を牽引してきたLG電子に対し、ライバルのTCLが技術力とコスト競争力を武器に本格的な挑戦を開始しています。この競争激化により、今後の高画質TVの価格構造や技術革新が大きく動こうとしています。",
+    "insight": "OLED技術のコモディティ化とMiniLEDなどの代替技術の進化は、ハードウェアの差別化が難しくなっていることを示唆しています。エンジニアとしては、単なるパネル性能だけでなく、フレーム生成などのAI補間技術や、UX向上に直結するソフトウェアレイヤーでの競争が重要視されている点に注目すべきです。",
+    "sourceUrl": "https://www.channelnews.com.au/lg-electronics-faces-existential-threat-as-rival-tcl-prepares-to-shatter-its-oled-monopoly/",
+    "sourceName": "channelnews.com.au",
+    "originalImageUrl": "https://www.channelnews.com.au/wp-content/uploads/2026/05/TCL-Printed-OLED.webp",
+    "originalImageArticleUrl": "https://www.channelnews.com.au/lg-electronics-faces-existential-threat-as-rival-tcl-prepares-to-shatter-its-oled-monopoly/",
+    "displayDate": "2026-05-19"
+  },
+  "Gaming Monitor": {
+    "title": "残像を低減する新技術「G-SYNC Pulsar」",
+    "summary": "NVIDIAの新たな残像感低減技術「G-SYNC Pulsar」に対応したASUSのゲーミングディスプレイ「ROG Strix Pulsar XG27AQNGV」が登場。動的な可変リフレッシュレート環境下で、いかにしてモーションブラーを抑え、鮮明な映像を実現しているのか、その技術的アプローチが注目されています。",
+    "insight": "可変リフレッシュレート（VRR）と同期したバックライトストロービング制御は、ディスプレイエンジニアリングにおける一つの到達点です。フレームレートに追従する動的なパルス幅変調（PWM）最適化技術は、今後のゲーミングモニターの標準的な性能指標を大きく塗り替える可能性があります。",
+    "sourceUrl": "https://www.4gamer.net/games/047/G004755/20260420029/",
+    "sourceName": "4Gamer.net − 最新記事",
+    "originalImageUrl": "https://www.4gamer.net/games/047/G004755/20260420029/SS/002.jpg",
+    "originalImageArticleUrl": "https://www.4gamer.net/games/047/G004755/20260420029/",
+    "displayDate": "2026-05-19"
+  },
+  "Projector": {
+    "title": "XGIMIの新型プロジェクターがMakuakeで記録的ヒット",
+    "summary": "XGIMIの最新プロジェクター「Elfin Flip 4K」および「Elfin Flip Laser」が、クラウドファンディングサイト「Makuake」にて開始直後に応援購入総額4億円を突破しました。史上最速のペースで注目を集めており、ポータブルプロジェクター市場における高い需要を証明しています。",
+    "insight": "ポータブルかつ高精細な映像体験へのニーズが急増しており、特にモバイル環境での投写品質に対する期待値が高まっています。エンジニア視点では、限られた筐体サイズで排熱と輝度を両立させる冷却設計や、AIを用いた自動補正アルゴリズムの進化に注目すべきです。",
+    "sourceUrl": "https://news.nicovideo.jp/watch/nw19311367?news_ref=top_newComments",
+    "sourceName": "ニコニコニュース",
+    "originalImageUrl": null,
+    "originalImageArticleUrl": "https://news.nicovideo.jp/watch/nw19311367?news_ref=top_newComments",
+    "displayDate": "2026-05-19"
+  },
+  "Production Monitor": {
+    "title": "クリエイティブ現場のAI活用、40%のプロジェクトで導入へ",
+    "summary": "最新のレポートによると、映像制作等のクリエイティブ分野でAIツールの活用が急加速しています。平均して40%以上のプロジェクトでAIが利用されており、単なる作業効率化だけでなく、クオリティ向上や増大するコンテンツ需要への対応という面でも不可欠な技術となっています。",
+    "insight": "ソフトウェア開発者にとっても、AIは「単なる自動化ツール」から「品質を底上げするパートナー」へと進化しています。AI導入によるワークフローの変革を、開発プロセス全体の生産性向上に応用する視点が今後より重要になるでしょう。",
+    "sourceUrl": "https://www.provideocoalition.com/why-creatives-are-turning-to-ai/",
+    "sourceName": "ProVideo Coalition",
+    "originalImageUrl": "https://www.provideocoalition.com/wp-content/uploads/firefly-1-1.jpg",
+    "originalImageArticleUrl": "https://www.provideocoalition.com/why-creatives-are-turning-to-ai/",
+    "displayDate": "2026-05-19"
+  },
+  "LED Wall Display": {
+    "title": "裸眼3Dディスプレイの進化：43インチの新モデルが登場",
+    "summary": "Magnetic 3D社が、専用メガネを必要としない43インチのオールインワン裸眼3Dディスプレイ「Wildfire」を発表しました。デジタルサイネージや小売、教育、医療など幅広い分野での利用を想定しており、従来のステレオスコピック技術を超えた次世代の視覚体験をプロフェッショナル環境へ提供します。",
+    "insight": "裸眼3Dディスプレイは、視差バリアやレンチキュラーレンズの精密な制御により、計算負荷の高いレンダリング処理が求められます。エンジニア視点では、単なる表示デバイスとしてだけでなく、3Dコンテンツをリアルタイムで最適化するエッジ側のGPU処理能力と、視聴者の位置を追跡するセンサー技術の統合が今後の鍵となります。",
+    "sourceUrl": "https://ravepubs.com/magnetic-3d-introduces-43-inch-glasses-free-3d-display/",
+    "sourceName": "rAVe [PUBS]",
+    "originalImageUrl": "https://ravepubs.com/wp-content/uploads/2026/05/Untitled-design53-800x400.webp",
+    "originalImageArticleUrl": "https://ravepubs.com/magnetic-3d-introduces-43-inch-glasses-free-3d-display/",
+    "displayDate": "2026-05-19"
+  },
+  "Camera Control": {
+    "title": "AI生成画像のコンテスト除外が提起する「真の作品」の定義",
+    "summary": "著名な写真コンテスト「Hasselblad Masters 2026」において、AI生成画像を使用した写真家が失格処分となりました。写真の公平性と真正性を守るため、AI技術との境界線をどう引くべきかが大きな議論を呼んでいます。",
+    "insight": "画像生成AIの普及により、撮影データと生成データの識別技術や、デジタルにおける真正性の証明（Content Credentials等）の実装が急務となっています。エンジニアとしては、単なる画像処理だけでなく、AIの介在を検証する検証アルゴリズムやメタデータの管理手法が今後の重要な技術課題となるでしょう。",
+    "sourceUrl": "https://petapixel.com/2026/05/18/ai-generated-photo-disqualified-from-hasselblad-masters-2026/",
+    "sourceName": "PetaPixel",
+    "originalImageUrl": "https://petapixel.com/assets/uploads/2026/04/Hasselblad-Masters-Photo-Contest-Accused-of-Short-Listing-an-AI-Image.jpg",
+    "originalImageArticleUrl": "https://petapixel.com/2026/05/18/ai-generated-photo-disqualified-from-hasselblad-masters-2026/",
+    "displayDate": "2026-05-19"
+  }
+}
