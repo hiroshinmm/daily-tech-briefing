@@ -1,0 +1,102 @@
+{
+  "SRD / XR": {
+    "title": "GoogleがAndroid XR開発者支援プログラムを開始",
+    "summary": "Googleは、スマートグラス向け開発支援プログラム「Android XR Developer Catalyst」の受付を開始しました。日本も対象地域に含まれており、次世代のXRデバイスに向けたエコシステム構築が本格化しています。",
+    "insight": "Android XRプラットフォームの展開は、スマートフォンに続くデバイスとしての標準化を狙う重要な動きです。開発者にとっては、汎用的なAPIとOSレベルの統合が今後のUI/UX設計のスタンダードになる可能性が高いため、注視しておくべきでしょう。",
+    "sourceUrl": "https://www.moguravr.com/android-xr-developer-catalyst/",
+    "sourceName": "Mogura VR",
+    "originalImageUrl": "https://assets.moguravr.com/uploads/2026/05/557ad4943baef7dbb011fedc594e0e31-kix.bhxse31g6uqi-300x115.webp",
+    "originalImageArticleUrl": "https://www.moguravr.com/android-xr-developer-catalyst/",
+    "displayDate": "2026-05-20"
+  },
+  "AI": {
+    "title": "Google検索が25年ぶりの刷新：AIで検索体験が激変",
+    "summary": "Googleが検索ボックスのUIを25年ぶりに刷新。生成AIを活用した新機能「Spark」により、検索や買い物をAIが代行し、30億人の生活の自動化を目指します。Google I/O 2026での発表により、検索エンジンは「リンク集」から「エージェントによる課題解決型」へ大きく舵を切りました。",
+    "insight": "検索クエリを入力して結果を得るという従来のフローから、AIが意図を汲んでタスクを実行するエージェント型UIへの移行は、Web開発のあり方を根本から変える可能性があります。エンジニアは今後はSEOだけでなく、AIエージェントが自社サービスをどう発見・評価・実行するかという「AI最適化」の視点が不可欠になります。",
+    "sourceUrl": "https://www.nytimes.com/2026/05/19/business/google-seach-bar-ai-gemini.html",
+    "sourceName": "The New York Times",
+    "originalImageUrl": "https://static01.nyt.com/images/2026/05/19/multimedia/BIZ-GOOGLE-pzjl/BIZ-GOOGLE-pzjl-facebookJumbo.jpg",
+    "originalImageArticleUrl": "https://www.nytimes.com/2026/05/19/business/google-seach-bar-ai-gemini.html",
+    "displayDate": "2026-05-20"
+  },
+  "Production Monitor": {
+    "title": "OPPO Find X9 UltraがACES対応でスマホ映像制作を刷新",
+    "summary": "OPPOの最新フラッグシップ機「Find X9 Ultra」が発表されました。8K 10bit Log収録に加え、モバイル端末としては画期的な「ACES（Academy Color Encoding System）」認定のカラーパイプラインを搭載。プロ仕様のカラーマネジメントがスマホで完結する時代へ突入します。",
+    "insight": "ACESのような標準化された色空間をモバイルレベルでサポートすることは、映像制作におけるワークフローの互換性と品質管理において革命的です。プロ向けカラーパイプラインがスマホに実装されることで、モバイル・シネマティックな制作現場でのインジェストやプレビューのあり方が大きく変わる可能性があります。",
+    "sourceUrl": "https://www.cined.com/oppo-find-x9-ultra-coming-soon-8k-log-recording-4k-120fps-dolby-vision-and-an-aces-certified-color-pipeline/",
+    "sourceName": "CineD",
+    "originalImageUrl": "https://www.cined.com/content/uploads/2026/05/OPPO-Find-X9-Ultra-300x169.jpeg",
+    "originalImageArticleUrl": "https://www.cined.com/oppo-find-x9-ultra-coming-soon-8k-log-recording-4k-120fps-dolby-vision-and-an-aces-certified-color-pipeline/",
+    "displayDate": "2026-05-20"
+  },
+  "TCL": {
+    "title": "TCLテレビがDolby機能強化のアップデートを開始",
+    "summary": "TCLは、近年のGoogle TV搭載モデル向けに最新のファームウェアアップデートを展開しています。今回のアップデートでは、Dolby Vision HDRの精度向上やDisney+の不具合修正に加え、Dolby Atmos FlexConnectのサポート拡大が含まれており、AV体験の品質向上が図られています。",
+    "insight": "デバイスのライフサイクル管理において、ハードウェア出荷後のOTAアップデートによる機能追加（Dolby Atmos FlexConnect等）は、ユーザーエクスペリエンスの維持と製品価値向上に不可欠です。OSとハードウェアが密結合するスマートTV市場では、特にこうしたOSベースの機能改善がブランドの継続的な競争力となります。",
+    "sourceUrl": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPVks1V0QzNGxHQmp1T19Bd3VsTDdJOG1MajcySUczbTJPX01JSEt3V2hPZmNJTnRYRjFQcWF0TnhlcnpFb2IzZmlMMFZJdGFVV0lJb3lOV2N4M0ZtM0FVaVlrUUdEOGxXTmVVa3VlcGw1SXRJak9tY0ZVTlJ1NkZwOGFTU29meWNoamtMUWNoQnZCTThzVm1Oank3SUwyZGs?oc=5",
+    "sourceName": "9to5Google",
+    "originalImageUrl": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/04/tcl-qm9k-google-1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+    "originalImageArticleUrl": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPVks1V0QzNGxHQmp1T19Bd3VsTDdJOG1MajcySUczbTJPX01JSEt3V2hPZmNJTnRYRjFQcWF0TnhlcnpFb2IzZmlMMFZJdGFVV0lJb3lOV2N4M0ZtM0FVaVlrUUdEOGxXTmVVa3VlcGw1SXRJak9tY0ZVTlJ1NkZwOGFTU29meWNoamtMUWNoQnZCTThzVm1Oank3SUwyZGs?oc=5",
+    "displayDate": "2026-05-20"
+  },
+  "TV": {
+    "title": "LG OLEDに搭載されたKardomeの音声AI技術",
+    "summary": "Kardome社の音声AI技術がLGのフラッグシップOLED TVシリーズに採用され、一般市場へ本格展開されました。この技術は、騒がしい環境下でも高精度な音声認識を可能にする空間オーディオ処理を活用しています。",
+    "insight": "家電やリビングデバイスにおいて、ノイズキャンセリングを伴う音声認識の重要性が高まっています。エッジデバイスでのリアルタイム処理能力の向上は、GUIを超えた直感的なHMI（ヒューマン・マシン・インターフェース）の進化を加速させるでしょう。",
+    "sourceUrl": "https://audioxpress.com/news/kardome-voice-ai-reaches-mass-market-with-lg-oled-tv-deployments",
+    "sourceName": "audioXpress",
+    "originalImageUrl": "https://cdn.xingosoftware.com/audioxpress/images/fetch/dpr_1/https%3A%2F%2Faudioxpress.com%2Fassets%2Fupload%2Fimages%2F1%2F20260519215007_LG-OLED-TV-Kardome-logo-TWeb.jpg",
+    "originalImageArticleUrl": "https://audioxpress.com/news/kardome-voice-ai-reaches-mass-market-with-lg-oled-tv-deployments",
+    "displayDate": "2026-05-20"
+  },
+  "SONY": {
+    "title": "AIカメラアシスタント搭載「Xperia 1 VIII」発表",
+    "summary": "ソニーが新型フラッグシップスマートフォン「Xperia 1 VIII」を発表しました。最大の特徴は、AIカメラアシスタントの搭載により、撮影体験をさらに強化した点です。競合モデルとの性能比較でも注目を集めており、最新のモバイルカメラ技術の潮流を象徴する端末として期待されています。",
+    "insight": "AIが撮影の構図や設定を最適化するトレンドは、従来のハードウェア性能競争からソフトウェア体験の差別化へシフトしています。エンジニアとしては、エッジデバイスにおけるAI推論モデルの最適化や、低遅延なリアルタイム画像処理パイプラインの進化が注目ポイントです。",
+    "sourceUrl": "https://dime.jp/genre/2115765/",
+    "sourceName": "@DIME アットダイム",
+    "originalImageUrl": "https://dime.jp/wp-content/uploads/2026/05/04-35-770x467.jpg",
+    "originalImageArticleUrl": "https://dime.jp/genre/2115765/",
+    "displayDate": "2026-05-20"
+  },
+  "Gaming Monitor": {
+    "title": "LGが世界初となる1000Hzゲーミングモニターを発表",
+    "summary": "LG Electronicsが、ネイティブ1,000Hzのリフレッシュレートに対応した次世代のUltraGearゲーミングモニターを発表しました。従来のハイエンド機を大きく上回る超高フレームレートにより、競技シーンでの視認性と反応速度に革命をもたらす可能性が期待されています。",
+    "insight": "リフレッシュレート1,000Hzという数値は、入力から表示までの遅延を極限まで減らすためのハードウェア進化を示唆しています。ソフトウェア開発において、高フレームレートを維持するための描画パイプラインの最適化や、GPUとディスプレイ間の同期技術（VRRなど）の重要性が今後さらに増すでしょう。",
+    "sourceUrl": "https://www.androidheadlines.com/2026/05/lg-unveils-worlds-first-native-1000hz-ultragear-gaming-monitor.html",
+    "sourceName": "Android Headlines",
+    "originalImageUrl": "https://www.androidheadlines.com/wp-content/uploads/2026/05/LG-1000Hz-gaming-monitor.jpg",
+    "originalImageArticleUrl": "https://www.androidheadlines.com/2026/05/lg-unveils-worlds-first-native-1000hz-ultragear-gaming-monitor.html",
+    "displayDate": "2026-05-20"
+  },
+  "Projector": {
+    "title": "ゲーミングプロジェクターの進化：4K/60Hz対応の最新機",
+    "summary": "ViewSonicが発表したプロジェクター「LX720-4KC」は、4K解像度と60Hzのリフレッシュレートに対応しており、大画面でのゲーミング体験を重視した仕様となっています。ホームシアター用途だけでなく、高速レスポンスを求めるゲーマー向けの選択肢として注目です。",
+    "insight": "プロジェクターの低遅延化と高リフレッシュレート対応は、家庭用大画面ゲーミングのUXを大きく変えつつあります。入力ラグの低減は映像処理エンジンにおける重要な最適化ポイントであり、ハードウェア設計のトレンドとして今後も注目すべき領域です。",
+    "sourceUrl": "https://www.msn.com/en-in/lifestyle/shopping/viewsonic-launches-lx720-4kc-ultra-projector-with-4k-60hz-and-high-refresh-rate-gaming-support/ar-AA23ye01",
+    "sourceName": "MSN",
+    "originalImageUrl": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA23yj5h.img?w=612&h=408&m=4&q=81",
+    "originalImageArticleUrl": "https://www.msn.com/en-in/lifestyle/shopping/viewsonic-launches-lx720-4kc-ultra-projector-with-4k-60hz-and-high-refresh-rate-gaming-support/ar-AA23ye01",
+    "displayDate": "2026-05-20"
+  },
+  "LED Wall Display": {
+    "title": "パナソニックがHIVEを買収：映像ソリューションを強化",
+    "summary": "パナソニック プロジェクター＆ディスプレイが、英国のメディア制御ソフト開発会社「HIVE Media Control」の買収を発表しました。これにより、従来のハードウェア中心から、ソフトウェアやワークフローを含めた統合的な視覚体験ソリューションへの転換を加速させます。",
+    "insight": "ハードウェアの性能競争から、高精度なメディアサーバーや制御システムとの統合へ市場の軸足が移っています。LEDウォール等の大型ディスプレイを運用するエンジニアにとって、再生制御ソフトとの親和性やAPI連携の重要性がこれまで以上に高まっています。",
+    "sourceUrl": "https://ravepubs.com/panasonic-acquires-hive-media-control/",
+    "sourceName": "rAVe [PUBS]",
+    "originalImageUrl": "https://ravepubs.com/wp-content/uploads/2026/05/mevix-panasonic-projector-hive-800x400.webp",
+    "originalImageArticleUrl": "https://ravepubs.com/panasonic-acquires-hive-media-control/",
+    "displayDate": "2026-05-20"
+  },
+  "Camera Control": {
+    "title": "Sony a7R VIのRAW性能をDPReviewが詳細検証",
+    "summary": "Adobe Camera RawがSony a7R VIのサポートを開始。DPReviewは実機を用いたスタジオ撮影テストを通じて、前モデルと比較した詳細な解像度や高感度耐性、ダイナミックレンジの特性を検証した。画質を犠牲にすることなく高速化と高解像度化を実現したセンサー性能の進化が明らかになっている。",
+    "insight": "最新のスタックドセンサーを採用しながらも、画質劣化なしに高速・高解像度化を両立した技術的アプローチは非常に興味深いです。特にRAW現像時におけるダイナミックレンジの広さは、後処理における表現の柔軟性を大きく向上させています。",
+    "sourceUrl": "https://www.dpreview.com/articles/9623116243/a7r-vi-raw-processing-studio-scene",
+    "sourceName": "Digital Photography Review",
+    "originalImageUrl": "https://4.img-dpreview.com/files/p/E~C213x0S3413x2560T1200x900~articles/9623116243/sony_a7rvi_sensor.jpeg",
+    "originalImageArticleUrl": "https://www.dpreview.com/articles/9623116243/a7r-vi-raw-processing-studio-scene",
+    "displayDate": "2026-05-20"
+  }
+}

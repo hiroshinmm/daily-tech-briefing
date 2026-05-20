@@ -1,10 +1,6 @@
 {
   "Production Monitor": [
     {
-      "url": "https://www.cined.com/panasonic-lumix-l10-announced-leica-24-75mm-f1-7-2-8-zoom-5-6k-30p-video-v-log-and-more/",
-      "date": "2026-05-13"
-    },
-    {
       "url": "https://www.cined.com/sony-alpha-7r-vi-announced-66-8mp-stacked-sensor-8k-30p-4k-120p-and-sensor-level-dual-gain/",
       "date": "2026-05-14"
     },
@@ -27,13 +23,13 @@
     {
       "url": "https://www.provideocoalition.com/why-creatives-are-turning-to-ai/",
       "date": "2026-05-19"
+    },
+    {
+      "url": "https://www.cined.com/oppo-find-x9-ultra-coming-soon-8k-log-recording-4k-120fps-dolby-vision-and-an-aces-certified-color-pipeline/",
+      "date": "2026-05-20"
     }
   ],
   "SRD / XR": [
-    {
-      "url": "https://www.fukuishimbun.co.jp/articles/-/2598710",
-      "date": "2026-05-13"
-    },
     {
       "url": "https://www.moguravr.com/meta-iwsdk-ai-update/",
       "date": "2026-05-14"
@@ -57,13 +53,13 @@
     {
       "url": "https://www.moguravr.com/what-is-world-model-ai-3d-space-generation/",
       "date": "2026-05-19"
+    },
+    {
+      "url": "https://www.moguravr.com/android-xr-developer-catalyst/",
+      "date": "2026-05-20"
     }
   ],
   "AI": [
-    {
-      "url": "https://www.nytimes.com/2026/05/12/us/politics/china-ai-anthropic-openai-mythos-chatgpt.html",
-      "date": "2026-05-13"
-    },
     {
       "url": "https://www.wired.com/story/overworked-ai-agents-turn-marxist-study/",
       "date": "2026-05-14"
@@ -87,13 +83,13 @@
     {
       "url": "https://www.nikkei.com/article/DGXZQOUC1816N0Y6A510C2000000/",
       "date": "2026-05-19"
+    },
+    {
+      "url": "https://www.nytimes.com/2026/05/19/business/google-seach-bar-ai-gemini.html",
+      "date": "2026-05-20"
     }
   ],
   "Gaming Monitor": [
-    {
-      "url": "https://pc.watch.impress.co.jp/docs/news/2108041.html",
-      "date": "2026-05-13"
-    },
     {
       "url": "https://www.eetasia.com/omdia-gaming-fuels-recovery-of-desktop-monitor-shipments-in-2025/",
       "date": "2026-05-14"
@@ -117,13 +113,13 @@
     {
       "url": "https://www.4gamer.net/games/047/G004755/20260420029/",
       "date": "2026-05-19"
+    },
+    {
+      "url": "https://www.androidheadlines.com/2026/05/lg-unveils-worlds-first-native-1000hz-ultragear-gaming-monitor.html",
+      "date": "2026-05-20"
     }
   ],
   "TCL": [
-    {
-      "url": "https://www.msn.com/en-ie/lifestyle/shopping/tcl-a400-pro-nxtvision-tv-announced-for-europe-with-4k-qd-mini-led-144hz-display/ar-AA21Fthd?item=flightsprg-tipsubsc-v1a&apiversion=v2&domshim=1&noservercache=1&noservertelemetry=1&batchservertelemetry=1&renderwebcomponents=1&wcseo=1",
-      "date": "2026-05-13"
-    },
     {
       "url": "https://www.tweaktown.com/news/111589/what-is-the-purpose-of-this-brightness-race-tcl-x11-mini-led-tv-hits-a-staggering-11000-nits-but-not-everyones-impressed/index.html",
       "date": "2026-05-14"
@@ -147,13 +143,13 @@
     {
       "url": "https://www.channelnews.com.au/lg-electronics-faces-existential-threat-as-rival-tcl-prepares-to-shatter-its-oled-monopoly/",
       "date": "2026-05-19"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPVks1V0QzNGxHQmp1T19Bd3VsTDdJOG1MajcySUczbTJPX01JSEt3V2hPZmNJTnRYRjFQcWF0TnhlcnpFb2IzZmlMMFZJdGFVV0lJb3lOV2N4M0ZtM0FVaVlrUUdEOGxXTmVVa3VlcGw1SXRJak9tY0ZVTlJ1NkZwOGFTU29meWNoamtMUWNoQnZCTThzVm1Oank3SUwyZGs?oc=5",
+      "date": "2026-05-20"
     }
   ],
   "Camera Control": [
-    {
-      "url": "https://www.dpreview.com/news/4253119292/apple-quietly-purchased-a-cult-favorite-photography-tool",
-      "date": "2026-05-13"
-    },
     {
       "url": "https://www.dpreview.com/news/6850004575/canon-is-updating-one-of-the-flagship-features-of-its-high-end-cameras",
       "date": "2026-05-14"
@@ -177,13 +173,13 @@
     {
       "url": "https://petapixel.com/2026/05/18/ai-generated-photo-disqualified-from-hasselblad-masters-2026/",
       "date": "2026-05-19"
+    },
+    {
+      "url": "https://www.dpreview.com/articles/9623116243/a7r-vi-raw-processing-studio-scene",
+      "date": "2026-05-20"
     }
   ],
   "LED Wall Display": [
-    {
-      "url": "https://ravepubs.com/rants-raves-episode-1501/",
-      "date": "2026-05-13"
-    },
     {
       "url": "https://ravepubs.com/rants-raves-episode-1503/",
       "date": "2026-05-14"
@@ -207,13 +203,13 @@
     {
       "url": "https://ravepubs.com/magnetic-3d-introduces-43-inch-glasses-free-3d-display/",
       "date": "2026-05-19"
+    },
+    {
+      "url": "https://ravepubs.com/panasonic-acquires-hive-media-control/",
+      "date": "2026-05-20"
     }
   ],
   "SONY": [
-    {
-      "url": "https://mobilesyrup.com/2026/05/12/your-phone-camera-could-use-less-battery-thanks-to-sony-tsmc-partnership/",
-      "date": "2026-05-13"
-    },
     {
       "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L8N41Q2GO:0-sony-electronics-introduces-alpha-7r-vi-camera/",
       "date": "2026-05-14"
@@ -237,13 +233,13 @@
     {
       "url": "https://asobinet.com/pre-orders-now-open-for-the-sony-%CE%B17r-vi-ilce-7rm6/",
       "date": "2026-05-19"
+    },
+    {
+      "url": "https://dime.jp/genre/2115765/",
+      "date": "2026-05-20"
     }
   ],
   "TV": [
-    {
-      "url": "https://www.ign.com/articles/panasonic-z85ba-4k-oled-tv-deal-may-2026",
-      "date": "2026-05-13"
-    },
     {
       "url": "https://www.techradar.com/televisions/the-lg-c5-oled-tv-delivers-an-excellent-picture-quality-superb-gaming-performance-and-an-intuitive-smart-tv-platform-and-it-just-dropped-to-an-unbelievable-price",
       "date": "2026-05-14"
@@ -267,13 +263,13 @@
     {
       "url": "https://www.channelnews.com.au/lg-electronics-faces-existential-threat-as-rival-tcl-prepares-to-shatter-its-oled-monopoly/",
       "date": "2026-05-19"
+    },
+    {
+      "url": "https://audioxpress.com/news/kardome-voice-ai-reaches-mass-market-with-lg-oled-tv-deployments",
+      "date": "2026-05-20"
     }
   ],
   "Projector": [
-    {
-      "url": "https://av.watch.impress.co.jp/docs/series/zooma/2108030.html",
-      "date": "2026-05-13"
-    },
     {
       "url": "https://eftm.com/2026/05/espon-announces-its-new-ultra-short-throw-4k-projector-the-eh-ls970b-now-with-ai-powered-image-optimisation-275732",
       "date": "2026-05-14"
@@ -297,6 +293,10 @@
     {
       "url": "https://news.nicovideo.jp/watch/nw19311367?news_ref=top_newComments",
       "date": "2026-05-19"
+    },
+    {
+      "url": "https://www.msn.com/en-in/lifestyle/shopping/viewsonic-launches-lx720-4kc-ultra-projector-with-4k-60hz-and-high-refresh-rate-gaming-support/ar-AA23ye01",
+      "date": "2026-05-20"
     }
   ]
 }
