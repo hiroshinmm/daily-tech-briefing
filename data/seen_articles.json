@@ -1,10 +1,6 @@
 {
   "Production Monitor": [
     {
-      "url": "https://www.cined.com/sony-alpha-7r-vi-announced-66-8mp-stacked-sensor-8k-30p-4k-120p-and-sensor-level-dual-gain/",
-      "date": "2026-05-14"
-    },
-    {
       "url": "https://www.cined.com/canon-firmware-update-for-eos-r1-r100-r5-mark-ii-r3-r10-r50v-r8-r6-mark-ii-and-powershot-v1-released/",
       "date": "2026-05-15"
     },
@@ -27,13 +23,13 @@
     {
       "url": "https://www.cined.com/oppo-find-x9-ultra-coming-soon-8k-log-recording-4k-120fps-dolby-vision-and-an-aces-certified-color-pipeline/",
       "date": "2026-05-20"
+    },
+    {
+      "url": "https://www.provideocoalition.com/beeble-canvas-a-node-based-ai-compositor-for-vfx-and-vp-pipelines/",
+      "date": "2026-05-21"
     }
   ],
   "SRD / XR": [
-    {
-      "url": "https://www.moguravr.com/meta-iwsdk-ai-update/",
-      "date": "2026-05-14"
-    },
     {
       "url": "https://www.uploadvr.com/quests-latest-ptc-update-turns-web-photos-into-3d/",
       "date": "2026-05-15"
@@ -57,13 +53,13 @@
     {
       "url": "https://www.moguravr.com/android-xr-developer-catalyst/",
       "date": "2026-05-20"
+    },
+    {
+      "url": "https://www.moguravr.com/letinar-funding-2026-05/",
+      "date": "2026-05-21"
     }
   ],
   "AI": [
-    {
-      "url": "https://www.wired.com/story/overworked-ai-agents-turn-marxist-study/",
-      "date": "2026-05-14"
-    },
     {
       "url": "https://investors.fiserv.com/news-releases/news-release-details/fiserv-launches-agentos-operating-system-agentic-ai-banking",
       "date": "2026-05-15"
@@ -87,13 +83,13 @@
     {
       "url": "https://www.nytimes.com/2026/05/19/business/google-seach-bar-ai-gemini.html",
       "date": "2026-05-20"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNc01zc215aTBtRUZyNDZBNk9TWUp0ZmJWcVNLaVF1OWdtd0x0bVNmZGlIMlViS2dTTm9jYmtseG1rQmVjZU5pUWVTTmN0QmRMVUQtNVFKa3VGcmZKZzJaZUpsdk5iNGh6RTM1QzZub2pBX29wX2tJeDFoMUo3Y1hFQnJTbTltMEFyb2ZV?oc=5",
+      "date": "2026-05-21"
     }
   ],
   "Gaming Monitor": [
-    {
-      "url": "https://www.eetasia.com/omdia-gaming-fuels-recovery-of-desktop-monitor-shipments-in-2025/",
-      "date": "2026-05-14"
-    },
     {
       "url": "https://9to5toys.com/2026/05/14/lg-ultragear-34-inch-240hz-oled-ultrawide-monitor-hits-658-all-time-low/",
       "date": "2026-05-15"
@@ -117,13 +113,13 @@
     {
       "url": "https://www.androidheadlines.com/2026/05/lg-unveils-worlds-first-native-1000hz-ultragear-gaming-monitor.html",
       "date": "2026-05-20"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPUXZoT1RobjcxazVtYVd0VmM0blozRjR3bUJtcmlnT09CSWd4by1kRlYtWmJtSDM4NndIN2U0ZVRaVGJYanhpaVZ1aVI5ZVFRdndOWWFfSXYtQi1OTUJNaC05ODl6OHQ4eDJjVGNXbHJKbVRydXhQXzJJSy1tOHl0TmNycDdpV0pfVHh3QVgzMlNMeDRscWtJYzNfclg2SlFKbC1uaXFBbTdXaTRRNzlGSFQxaVFNUU5TazhPNndHb1hib1VBZHk4UUF5cmZTdjVaZkE?oc=5",
+      "date": "2026-05-21"
     }
   ],
   "TCL": [
-    {
-      "url": "https://www.tweaktown.com/news/111589/what-is-the-purpose-of-this-brightness-race-tcl-x11-mini-led-tv-hits-a-staggering-11000-nits-but-not-everyones-impressed/index.html",
-      "date": "2026-05-14"
-    },
     {
       "url": "https://ascii.jp/elem/000/004/402/4402241/",
       "date": "2026-05-15"
@@ -147,13 +143,13 @@
     {
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPVks1V0QzNGxHQmp1T19Bd3VsTDdJOG1MajcySUczbTJPX01JSEt3V2hPZmNJTnRYRjFQcWF0TnhlcnpFb2IzZmlMMFZJdGFVV0lJb3lOV2N4M0ZtM0FVaVlrUUdEOGxXTmVVa3VlcGw1SXRJak9tY0ZVTlJ1NkZwOGFTU29meWNoamtMUWNoQnZCTThzVm1Oank3SUwyZGs?oc=5",
       "date": "2026-05-20"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMiO0FVX3lxTE9fMk9mVGg2UTRCOHVmb1pPeTc1XzBvWk9HZkV3c2VkamVNXzNzdVp0eFFILW0yOFEtaURn?oc=5",
+      "date": "2026-05-21"
     }
   ],
   "Camera Control": [
-    {
-      "url": "https://www.dpreview.com/news/6850004575/canon-is-updating-one-of-the-flagship-features-of-its-high-end-cameras",
-      "date": "2026-05-14"
-    },
     {
       "url": "https://www.dpreview.com/news/6252691480/dji-osmo-pocket-4p-teaser",
       "date": "2026-05-15"
@@ -177,13 +173,13 @@
     {
       "url": "https://www.dpreview.com/articles/9623116243/a7r-vi-raw-processing-studio-scene",
       "date": "2026-05-20"
+    },
+    {
+      "url": "https://petapixel.com/2026/05/20/ai-could-have-made-it-blogger-claims-after-photographer-sues/",
+      "date": "2026-05-21"
     }
   ],
   "LED Wall Display": [
-    {
-      "url": "https://ravepubs.com/rants-raves-episode-1503/",
-      "date": "2026-05-14"
-    },
     {
       "url": "https://ravepubs.com/planar-mantis-series-led-video-walls-rental-staging/",
       "date": "2026-05-15"
@@ -207,13 +203,13 @@
     {
       "url": "https://ravepubs.com/panasonic-acquires-hive-media-control/",
       "date": "2026-05-20"
+    },
+    {
+      "url": "https://ravepubs.com/peak-technologies-invests-in-next-generation-led-technology-to-expand-experiential-capabilities/",
+      "date": "2026-05-21"
     }
   ],
   "SONY": [
-    {
-      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L8N41Q2GO:0-sony-electronics-introduces-alpha-7r-vi-camera/",
-      "date": "2026-05-14"
-    },
     {
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBDV2lxOGY5RnBtMHhvX1RWQng3dlpIY0ZRV3huWFl1RzFXREZ0WjF5VWktdWFuQUhMMU1RTFRsQmFtOEh0dDJaOW5vSFpJOGpZOG52VUdGY0p6OUx5ZkRGWWNVeDR5X3RWU3hTZEhkdlFMc1RXR3c?oc=5",
       "date": "2026-05-15"
@@ -237,13 +233,13 @@
     {
       "url": "https://dime.jp/genre/2115765/",
       "date": "2026-05-20"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE04a3Y0UEMyMFpZVkdwcDNQeVREaFpVVHdqUi10STBwVC15WWpYM0djU0JtbnkyTnBIcFVjUjExcVpXSHhOR0lrWklsbG5nMXR2Q05uZU8yWENUX0pMdWNycHdrNjBxTTVTaXc?oc=5",
+      "date": "2026-05-21"
     }
   ],
   "TV": [
-    {
-      "url": "https://www.techradar.com/televisions/the-lg-c5-oled-tv-delivers-an-excellent-picture-quality-superb-gaming-performance-and-an-intuitive-smart-tv-platform-and-it-just-dropped-to-an-unbelievable-price",
-      "date": "2026-05-14"
-    },
     {
       "url": "https://www.fujitv.co.jp/singula/",
       "date": "2026-05-15"
@@ -267,13 +263,13 @@
     {
       "url": "https://audioxpress.com/news/kardome-voice-ai-reaches-mass-market-with-lg-oled-tv-deployments",
       "date": "2026-05-20"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQUjFJYUIzc2xORlpxdEFBekhaaVJaVDZKMGoxdTRkeXplSnNOdDh3ZlhQdWRydHdmbEFSQjRScFVITC1JeTVSMkRiN0U3TDMzSmFiTzIyWEEzYXNmMkRhYTZYSF8zR2JmeWY0Z1JYYmdfU3VwM1N3Wm9sc3FKckhMTXFxQnMtMEUwcDVpSHNvNnVrMTl4X2ZwNXNuWHVOUU1peWNEQWx0WnVqeGVOR3Y4QVVNUDA5NFHSAbcBQVVfeXFMUFIxSWFCM3NsTkZacXRBQXpIWmlSWlQ2SjBqMXU0ZHl6ZUpzTnQ4d2ZYUHVkcnR3ZmxBUkI0UnBVSEwtSXk1UjJEYjdFN0wzM0phYk8yMlhBM2FzZjJEYWE2WEhfM0diZnlmNGdSWGJnX1N1cDNTd1pvbHNxSnJITE1xcUJzLTBFMHA1aUhzbzZ1azE5eF9mcDVzblh1TlFNaXljREFsdFp1anhlTkd2OEFVTVAwOTRR?oc=5",
+      "date": "2026-05-21"
     }
   ],
   "Projector": [
-    {
-      "url": "https://eftm.com/2026/05/espon-announces-its-new-ultra-short-throw-4k-projector-the-eh-ls970b-now-with-ai-powered-image-optimisation-275732",
-      "date": "2026-05-14"
-    },
     {
       "url": "https://www.msn.com/en-gb/lifestyle/shopping/a-4k-projector-with-the-world-s-first-3-in-1-optical-system-is-available/ar-AA21yZfX?item=module_ad_enabled:false?c/jwu3qfe1aa80ferr",
       "date": "2026-05-15"
@@ -297,6 +293,10 @@
     {
       "url": "https://www.msn.com/en-in/lifestyle/shopping/viewsonic-launches-lx720-4kc-ultra-projector-with-4k-60hz-and-high-refresh-rate-gaming-support/ar-AA23ye01",
       "date": "2026-05-20"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBJV2IxQUczdDNCNzdocUVIdmprbDNNemtuMmRkYmh3dkloN2FEaTlidnVBcHpucEhLYk8wQ2hoNHZRdnIzWjhINkZubVJNRk5jYlNKQQ?oc=5",
+      "date": "2026-05-21"
     }
   ]
 }
