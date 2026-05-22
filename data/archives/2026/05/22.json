@@ -1,0 +1,102 @@
+{
+  "SRD / XR": {
+    "title": "Android XRが大幅進化：AI空間化と壁面ピン留め機能を実装",
+    "summary": "Android XRの最新アップデートにより、既存の2DウィンドウをAIで立体化する「オート・スペシャライゼーション」や、仮想空間の壁にウィンドウを固定する「ウィンドウ・ウォール・ピニング」、さらに手とオブジェクトの重なりを自然に見せる「ハンド・オクルージョン」が追加されました。",
+    "insight": "UI/UXの観点で、2Dコンテンツの空間への統合はXRデバイス普及の鍵となる重要な機能です。特にAIを活用したデプス推定による3D化や、空間内でのウィンドウ管理は、モバイルXR開発における新しい標準UIコンポーネントとして注目すべきです。",
+    "sourceUrl": "https://www.uploadvr.com/google-android-xr-2026-update-samsung-galaxy-xr/",
+    "sourceName": "UploadVR",
+    "originalImageUrl": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/05/Android-XR-April-update.png",
+    "originalImageArticleUrl": "https://www.uploadvr.com/google-android-xr-2026-update-samsung-galaxy-xr/",
+    "displayDate": "2026-05-22"
+  },
+  "AI": {
+    "title": "OpenAI、日本へ最新モデル提供を発表",
+    "summary": "OpenAIが、日本国内の政府・企業向けに最新AIモデルの提供を開始すると発表しました。競合モデルに匹敵する高性能を誇り、日本のデジタルトランスフォーメーション加速が期待されます。",
+    "insight": "APIのリージョンや日本国内特化のファインチューニングが加速する可能性があり、ローカル環境での活用事例が増えるでしょう。エンジニアとしては、最新モデルの推論コストと日本市場向け最適化のトレードオフを再評価すべき時期です。",
+    "sourceUrl": "https://news.yahoo.co.jp/articles/6d248799f15802979a12ea0a55ab36e3b45fff3b",
+    "sourceName": "Yahoo!ニュース",
+    "originalImageUrl": "https://s.yimg.jp/images/news-web/versions/20260521-6fe5003/all/images/ogp_default.png",
+    "originalImageArticleUrl": "https://news.yahoo.co.jp/articles/6d248799f15802979a12ea0a55ab36e3b45fff3b",
+    "displayDate": "2026-05-22"
+  },
+  "Gaming Monitor": {
+    "title": "32インチ6K解像度！Samsungの次世代ゲーミングモニター",
+    "summary": "Samsungが世界初となる32インチ6K解像度のゲーミングモニター「Odyssey G8」を発表しました。価格は1,600ドルで、圧倒的な高精細表示を実現しています。ただし、一部では昨年のモデルとの差異に関する議論も呼んでおり、スペック競争が激化しています。",
+    "insight": "6K解像度という超高精細なディスプレイは、エンジニアの作業領域として生産性を大幅に向上させるポテンシャルを秘めています。一方で、この解像度をネイティブで出力・描画するためのGPU負荷やDisplayPort/HDMIの帯域幅要件がシステム設計上のボトルネックになる可能性があり、実装には高度なグラフィックス基盤が必要です。",
+    "sourceUrl": "https://www.techeblog.com/samsung-odyssey-g8-first-6k-gaming-monitor-g80hs-specs-price-release/",
+    "sourceName": "TechEBlog",
+    "originalImageUrl": "https://images.techeblog.com/wp-content/uploads/2026/05/21144925/samsung-odyssey-g8-6k-monitor-launch.jpg",
+    "originalImageArticleUrl": "https://www.techeblog.com/samsung-odyssey-g8-first-6k-gaming-monitor-g80hs-specs-price-release/",
+    "displayDate": "2026-05-22"
+  },
+  "TCL": {
+    "title": "TCL、Google TV向けにDolby Vision更新を提供開始",
+    "summary": "TCLがGoogle TV搭載モデル向けの最新アップデートを公開しました。今回の更新には「Dolby Vision Filmmaker Mode」の追加や、Disney+アプリにおける不具合の修正が含まれており、映像品質とUXの向上が図られています。",
+    "insight": "ファームウェアアップデートによるDolby Vision等の最新規格への対応は、デバイスのライフサイクルを延ばす重要な製品戦略です。OSレベルでのAPI統合とコンテンツ配信サービスの互換性維持は、スマートテレビ開発におけるフロントエンドエンジニアにとって最も重要な技術的課題の一つです。",
+    "sourceUrl": "https://www.flatpanelshd.com/news.php?subaction=showfull&id=1779170232",
+    "sourceName": "FlatpanelsHD",
+    "originalImageUrl": "https://www.flatpanelshd.com/pictures/tclgoogletvupdate.jpg",
+    "originalImageArticleUrl": "https://www.flatpanelshd.com/news.php?subaction=showfull&id=1779170232",
+    "displayDate": "2026-05-22"
+  },
+  "SONY": {
+    "title": "「カメラグランプリ2026」でα7Vが大賞を受賞",
+    "summary": "カメラ界の権威ある賞「カメラグランプリ2026」において、ソニーのミラーレス一眼カメラ「α7V」が大賞を受賞しました。さらに「レンズ賞」にはFE 50-150mm F2 GMが選ばれ、ソニーの光学技術と革新性が高く評価される結果となりました。",
+    "insight": "α7Vのような高画素・高速読み出しを両立するカメラの評価指標として、CineD等のラボテストが示すローリングシャッター性能やダイナミックレンジの特性が注目されます。ハードウェア設計における熱管理とセンサー性能の最適化は、エンジニアリング視点でも非常に興味深いポイントです。",
+    "sourceUrl": "https://kunkoku.jp/camera-gp2026.html",
+    "sourceName": "ソニーが基本的に好き。",
+    "originalImageUrl": "https://kunkoku.jp/wp-content/uploads/2026/05/260519c02.jpg",
+    "originalImageArticleUrl": "https://kunkoku.jp/camera-gp2026.html",
+    "displayDate": "2026-05-22"
+  },
+  "Projector": {
+    "title": "ソニー次世代「True RGB」ブラビア発表へ",
+    "summary": "米ソニーが日本時間5月28日午前1時に新型ブラビアを発表。ティザーには「The future of color is coming」「True RGB」とあり、RGB LEDバックライトを採用した高性能な次世代液晶モデルが登場すると期待されています。",
+    "insight": "RGB LEDバックライトの再採用は、コントラスト比や色再現性の飛躍的な向上を示唆しており、ディスプレイ技術の原点回帰と進化のバランスが興味深いです。エンジニアの視点では、PWM制御の最適化や輝度制御アルゴリズムが、OLEDと比較してどれほどの優位性を生み出すのか注目されます。",
+    "sourceUrl": "https://av.watch.impress.co.jp/docs/news/2110706.html",
+    "sourceName": "AV Watch",
+    "originalImageUrl": "https://av.watch.impress.co.jp/img/avw/list/2110/706/s00.jpg",
+    "originalImageArticleUrl": "https://av.watch.impress.co.jp/docs/news/2110706.html",
+    "displayDate": "2026-05-22"
+  },
+  "TV": {
+    "title": "LGのOLED TVが空間オーディオAIを実装",
+    "summary": "LGは、Kardome社の空間オーディオAI技術を自社のOLED TVラインナップに導入することを発表しました。これにより、複雑な視聴環境でもAIが音響を最適化し、視聴者に没入感のあるリスニング体験を提供します。",
+    "insight": "AV機器におけるAI導入は、単なる信号処理から環境適応型への進化を示しています。エッジAIによるリアルタイムな空間認識と補正アルゴリズムは、今後スマートホームやUI/UX設計における音響体験の標準機能となるでしょう。",
+    "sourceUrl": "https://embeddedcomputing.com/technology/ai-machine-learning/computer-vision-speech-processing/lg-deploys-kardome-spatial-hearing-ai-across-global-oled-tv-lineup",
+    "sourceName": "Embedded Computing Design",
+    "originalImageUrl": "https://data.embeddedcomputing.com/uploads/resize/1256/756/external/data.embeddedcomputing.com/uploads/articles/primary_images/1779387318.jpg",
+    "originalImageArticleUrl": "https://embeddedcomputing.com/technology/ai-machine-learning/computer-vision-speech-processing/lg-deploys-kardome-spatial-hearing-ai-across-global-oled-tv-lineup",
+    "displayDate": "2026-05-22"
+  },
+  "Production Monitor": {
+    "title": "Googleの新AI「Gemini Omni Flash」発表",
+    "summary": "Googleは、テキスト・画像・音声・動画を統合処理するAIモデル「Gemini Omni Flash」を発表しました。自然言語による指示で動画生成や編集が可能で、YouTube ShortsやCreateアプリ等で順次展開されます。",
+    "insight": "マルチモーダルAIが動画生成パイプラインに深く統合され、直感的な自然言語インターフェースによる編集が標準化しつつあります。ソフトウェアエンジニアとしては、LLMが映像データの構造やコンテキストをどう解釈し処理しているかのバックエンド技術に注目すべきです。",
+    "sourceUrl": "https://www.cined.com/google-launches-gemini-omni-flash-multimodal-video-generation-conversational-editing-and-digital-avatars/",
+    "sourceName": "CineD",
+    "originalImageUrl": "https://www.cined.com/content/uploads/2026/05/Google-Gemini-Omni-Flash-300x169.jpeg",
+    "originalImageArticleUrl": "https://www.cined.com/google-launches-gemini-omni-flash-multimodal-video-generation-conversational-editing-and-digital-avatars/",
+    "displayDate": "2026-05-22"
+  },
+  "Camera Control": {
+    "title": "プロスポーツ中継がiPhone撮影へ、放送業界の転換点",
+    "summary": "Appleは、5月23日に開催されるMLSの試合を、iPhone 17 Proのみを使用して撮影し、ライブ配信する試みを実施します。主要なプロスポーツの放送をスマホだけで完結させる初の試みであり、放送制作のコストや機材のあり方を根本から変える可能性があります。",
+    "insight": "大型カメラや放送機材がiPhoneに置き換わることで、撮影ワークフローのモバイル化とエッジコンピューティングの活用が加速します。ソフトウェアによる映像処理能力の向上が、プロフェッショナルな放送現場における既存のハードウェアの制約をどう打ち破るかが技術的な注目点です。",
+    "sourceUrl": "https://petapixel.com/2026/05/21/mls-game-to-be-first-pro-sports-broadcast-shot-entirely-with-iphone/",
+    "sourceName": "PetaPixel",
+    "originalImageUrl": "https://petapixel.com/assets/uploads/2026/05/mls-iphone-featured.jpg",
+    "originalImageArticleUrl": "https://petapixel.com/2026/05/21/mls-game-to-be-first-pro-sports-broadcast-shot-entirely-with-iphone/",
+    "displayDate": "2026-05-22"
+  },
+  "LED Wall Display": {
+    "title": "Eurovision 2026：最新ビジュアル技術の舞台裏",
+    "summary": "2026年のユーロビジョン・ソング・コンテストにおいて、Disguise社とCreative Technology社が再びタッグを組み、世界最高峰のライブ配信映像インフラを構築。70回目を迎える本大会では、最先端のビジュアルテクノロジーが駆使され、複雑かつ大規模なステージ演出が実現されます。",
+    "insight": "大規模ライブイベントにおける映像演出は、単なるプロジェクションから、リアルタイムレンダリングと物理インフラが融合した複雑なシステムへと進化しています。特にDisguiseのようなメディアサーバー技術は、高解像度LEDウォールの同期や遅延制御において、エンジニアリングの最適化が極めて重要な領域となっています。",
+    "sourceUrl": "https://ravepubs.com/disguise-and-creative-technology-power-eurovision-for-the-eighth-year-with-next-gen-visual-technology/",
+    "sourceName": "rAVe [PUBS]",
+    "originalImageUrl": "https://ravepubs.com/wp-content/uploads/2026/05/1-800x600.webp",
+    "originalImageArticleUrl": "https://ravepubs.com/disguise-and-creative-technology-power-eurovision-for-the-eighth-year-with-next-gen-visual-technology/",
+    "displayDate": "2026-05-22"
+  }
+}
