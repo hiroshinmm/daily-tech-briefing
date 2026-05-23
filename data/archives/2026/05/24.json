@@ -1,0 +1,102 @@
+{
+  "AI": {
+    "title": "生成AIによる「声の権利」侵害、初の訴訟へ",
+    "summary": "声優・津田健次郎さんの声を生成AIで無断模倣した動画に対し、本人側が動画削除を求めてTikTokを提訴しました。生成AIによる声の無断利用が法的に争われる初の事例として注目されています。",
+    "insight": "AIモデルの学習や推論における「パブリシティ権」や「不正競争防止法」の適用範囲が重要なエンジニアリングの法的課題となっています。今後、音声合成技術を扱う際には、権利保護を考慮したAPI設計やデータセットの利用許諾管理が不可欠になるでしょう。",
+    "sourceUrl": "https://news.yahoo.co.jp/pickup/6581302",
+    "sourceName": "Yahoo!ニュース",
+    "originalImageUrl": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/5/23/97bdbaf9ca4d3160c95cad3cb36b2e382b2e40614a65878781ebcd9535869f35.jpg",
+    "originalImageArticleUrl": "https://news.yahoo.co.jp/pickup/6581302",
+    "displayDate": "2026-05-24"
+  },
+  "SRD / XR": {
+    "title": "VRChatライブ『Project [latent]』映画祭選出",
+    "summary": "MIGIRI制作、月白累出演のVRChatライブ作品『Project [latent] // archive_』が、国際的な「レインダンス映画祭」の選出作品として上映されることが決定しました。メタバース空間でのライブ表現が、既存の映画芸術の枠組みで高く評価された意義深いニュースです。",
+    "insight": "メタバース内のライブパフォーマンスが国際映画祭で評価されることは、XRにおけるコンテンツの質的向上の証明です。開発者視点では、最適化された演出技術やVRChatのSDKを活用したリッチな体験設計が、今後シネマティックな文脈でどう進化するかに注目すべきです。",
+    "sourceUrl": "https://www.moguravr.com/migiri-raindance-2026/",
+    "sourceName": "Mogura VR",
+    "originalImageUrl": "https://assets.moguravr.com/uploads/2018/12/8dc52d0f66d74e80daa342be337857a3-kix.6p99xtl1cq35-300x169.webp",
+    "originalImageArticleUrl": "https://www.moguravr.com/migiri-raindance-2026/",
+    "displayDate": "2026-05-24"
+  },
+  "TCL": {
+    "title": "TCLの次世代技術「SQD-Mini LED」発表",
+    "summary": "TCLがパキスタンで開催されたイベントにて、2026年モデルの「SQD-Mini LED」テレビラインナップを発表しました。量子ドット技術を最適化した次世代ディスプレイとして注目されています。",
+    "insight": "SQD技術は、従来の量子ドット層を統合または強化することで、色再現性とエネルギー効率を飛躍的に高める可能性があります。ディスプレイエンジニアの視点では、Mini LEDの局所調光技術とどう組み合わせるかで画質と消費電力のトレードオフがどう変化するかが注目ポイントです。",
+    "sourceUrl": "https://www.nation.com.pk/23-May-2026/tcl-unveils-2026-sqd-mini-led-lineup-tcl-horizon-2026-launch-event-lahore",
+    "sourceName": "The Nation (Pakistan )",
+    "originalImageUrl": "https://www.nation.com.pk/print_images/large/2026-05-23/tcl-unveils-2026-sqd-mini-led-lineup-tcl-horizon-2026-launch-event-lahore-1779509994-5778.jpg",
+    "originalImageArticleUrl": "https://www.nation.com.pk/23-May-2026/tcl-unveils-2026-sqd-mini-led-lineup-tcl-horizon-2026-launch-event-lahore",
+    "displayDate": "2026-05-24"
+  },
+  "Gaming Monitor": {
+    "title": "2026年版「最高のウルトラワイドモニター」4選",
+    "summary": "RTINGS.comが2026年最新の「最高のウルトラワイドモニター」4機種を選出。没入感の高いゲーム体験やマルチタスク環境に最適なディスプレイの最新トレンドがまとめられており、デスク環境のアップグレードを検討する際の重要なベンチマークとなります。",
+    "insight": "高リフレッシュレートと広色域を両立した有機EL(OLED)モデルの選出が主流となっており、ハードウェアエンジニアとしてはパネルの焼き付き対策や駆動制御の進化を注視すべきです。特に作業効率に直結する曲面率や解像度の最適解が、UXデザインの観点からも重要視されています。",
+    "sourceUrl": "https://www.rtings.com/monitor/reviews/best/by-features/ultrawide",
+    "sourceName": "RTINGS.com",
+    "originalImageUrl": "https://i.rtings.com/assets/pages/rTDTHh1L/best-ultrawide-monitors-20251128-medium.jpg?format=auto",
+    "originalImageArticleUrl": "https://www.rtings.com/monitor/reviews/best/by-features/ultrawide",
+    "displayDate": "2026-05-24"
+  },
+  "SONY": {
+    "title": "ソニーがαシリーズの次世代ディスプレイ技術を開発中？",
+    "summary": "ソニーが2026年第3四半期以降に向けて、αカメラ向けの新ディスプレイ技術を開発しているとの噂が浮上しました。詳細な仕様は不明ですが、ミラーレスカメラの操作性や視認性に大きな進化をもたらす可能性があり、今後のカメラハードウェアの進化に注目が集まっています。",
+    "insight": "カメラの背面モニター技術は、EVF（電子ビューファインダー）と並びユーザー体験を左右する重要なコンポーネントです。低消費電力化や高輝度化に加え、AI処理と連動したUI表示の最適化など、ハードウェアレベルでの進化が期待されます。",
+    "sourceUrl": "https://www.sonyalpharumors.com/sony-is-working-on-a-new-display-technology-for-its-alpha-cameras-after-2026q3/",
+    "sourceName": "SonyAlphaRumors",
+    "originalImageUrl": "https://www.sonyalpharumors.com/wp-content/uploads/2026/04/Comparison-between-a-LCD-display-with-LED-BLU-and-b-FSC-LCD-display-with-OLED-BLU.jpg",
+    "originalImageArticleUrl": "https://www.sonyalpharumors.com/sony-is-working-on-a-new-display-technology-for-its-alpha-cameras-after-2026q3/",
+    "displayDate": "2026-05-24"
+  },
+  "TV": {
+    "title": "2026年版：コスパ最強の有機ELテレビ5選",
+    "summary": "2026年現在、手頃な価格で購入可能かつ性能面で妥協のないおすすめ有機ELテレビが話題です。高画質化と低価格化が両立し、一般家庭での導入障壁が下がりつつあります。",
+    "insight": "パネル制御の最適化や低遅延技術が普及し、ゲーミング用途でも有機ELの採用が進んでいます。エンジニア視点では、単なるハードウェアの進化だけでなく、AIによるアップスケーリングや無線伝送技術など、映像処理パイプラインの進化にも注目すべきです。",
+    "sourceUrl": "https://www.slashgear.com/2176597/affordable-oled-tvs-worth-buying-in-2026/",
+    "sourceName": "SlashGear",
+    "originalImageUrl": "https://www.slashgear.com/img/gallery/5-affordable-oled-tvs-actually-worth-buying-in-2026/l-intro-1779204510.jpg",
+    "originalImageArticleUrl": "https://www.slashgear.com/2176597/affordable-oled-tvs-worth-buying-in-2026/",
+    "displayDate": "2026-05-24"
+  },
+  "Production Monitor": {
+    "title": "ローカル処理で完結するApple Log変換アプリ「LogGate Pro」",
+    "summary": "Apple Log 2などの変換をMac/iPhone上で完結させるツール「LogGate Pro」が登場しました。VideoToolboxとMetalを活用した完全ローカル処理により、クラウド依存やサブスクなしで高速な変換を実現しており、iPhoneの撮影ワークフローに新たな選択肢を提供します。",
+    "insight": "クラウドを介さずApple Siliconのハードウェアアクセラレーションを活用する設計は、プライバシーとパフォーマンスの両立において理想的なモデルです。映像制作においてネイティブなAPI（VideoToolbox等）を直接叩くアプローチは、低遅延と堅牢性を求めるエンジニアにとって非常に参考になります。",
+    "sourceUrl": "https://www.cined.com/loggate-pro-released-native-apple-log-2-conversion-for-mac-and-iphone-at-19-99-one-time/",
+    "sourceName": "CineD",
+    "originalImageUrl": "https://www.cined.com/content/uploads/2026/05/LogGate-Pro--300x169.jpeg",
+    "originalImageArticleUrl": "https://www.cined.com/loggate-pro-released-native-apple-log-2-conversion-for-mac-and-iphone-at-19-99-one-time/",
+    "displayDate": "2026-05-24"
+  },
+  "Projector": {
+    "title": "IMAXレーザー導入に見る高精細映像のトレンド",
+    "summary": "109シネマズ川崎が最新鋭の「IMAXレーザー」4K上映システムを導入しました。高コントラストと鮮明な色彩表現を実現するレーザー光源技術は、映画館のみならずホームプロジェクター市場でも4K化を牽引しており、映像体験の基準が着実に底上げされています。",
+    "insight": "映像の解像度だけでなく、レーザー光源によるコントラスト比の向上は、UIデザインやビジュアルレンダリングの評価を行うエンジニアにとっても重要な要素です。ハードウェア側の進化がコンテンツの見せ方にどう影響するか、技術的なトレンドとして注目です。",
+    "sourceUrl": "https://www.walkerplus.com/article/169199/image991543.html",
+    "sourceName": "ウォーカープラス",
+    "originalImageUrl": "https://news.walkerplus.com/article/169199/991542_615.jpg",
+    "originalImageArticleUrl": "https://www.walkerplus.com/article/169199/image991543.html",
+    "displayDate": "2026-05-24"
+  },
+  "Camera Control": {
+    "title": "イヤホンに超小型カメラ？AIが視覚を補助する新技術",
+    "summary": "既存のワイヤレスイヤホンに超小型カメラを組み込み、撮影した低解像度画像をAIに送信することで、視界の状況をリアルタイムで音声対話するシステムが開発されました。ウェアラブルデバイスの新たな可能性を示唆しています。",
+    "insight": "エッジデバイスでの画像キャプチャとLLM（大規模言語モデル）の連携により、視覚補助やARガイドの可能性が広がります。カメラの小型化・省電力化に加え、いかに低遅延でAI推論へ繋げるかというアーキテクチャ設計がエンジニアにとっての鍵となります。",
+    "sourceUrl": "https://petapixel.com/2026/05/23/these-earbuds-have-tiny-cameras-that-take-photos-and-let-users-talk-to-ai-about-what-they-see/",
+    "sourceName": "PetaPixel",
+    "originalImageUrl": "https://petapixel.com/assets/uploads/2026/05/ear-buds-camera.jpg",
+    "originalImageArticleUrl": "https://petapixel.com/2026/05/23/these-earbuds-have-tiny-cameras-that-take-photos-and-let-users-talk-to-ai-about-what-they-see/",
+    "displayDate": "2026-05-24"
+  },
+  "LED Wall Display": {
+    "title": "エンタメ業界を変える最新VPステージ技術",
+    "summary": "韓国のCJ ENMスタジオセンターにおけるバーチャルプロダクション（VP）ステージの導入事例。LEDウォールを活用したリアルタイム背景合成技術は、従来の撮影手法を根本から変え、物理的なセット構築のコストと時間を大幅に削減しつつ、映像制作の創造性を最大限に引き出しています。",
+    "insight": "リアルタイムレンダリングとLEDウォールの同期は、低遅延かつ高精細な映像出力が求められるため、システム統合エンジニアにとって最適化の難易度が高い領域です。カメラトラッキングと視差補正（Frustum rendering）の同期精度が、映像の没入感を決定づける重要な技術的KPIとなります。",
+    "sourceUrl": "https://www.mk.co.kr/en/it/12056376",
+    "sourceName": "매일경제",
+    "originalImageUrl": "https://wimg.mk.co.kr/news/cms/202605/24/news-p.v1.20260519.fc0c284b73d64b7f8b135f02fbbb9033_P1.png",
+    "originalImageArticleUrl": "https://www.mk.co.kr/en/it/12056376",
+    "displayDate": "2026-05-24"
+  }
+}
