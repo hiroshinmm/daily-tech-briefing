@@ -1,0 +1,102 @@
+{
+  "AI": {
+    "title": "声の生成AI模倣、初の法的措置へ",
+    "summary": "人気声優・津田健次郎さんの声を生成AIで無断模倣し、TikTokに投稿した動画に対し、本人側が削除を求めて提訴しました。生成AIによる肖像権・パブリシティ権侵害の議論において、声の権利を争点とした注目すべき法的先例となる可能性があります。",
+    "insight": "音声合成技術が実用的になる中で、生成AIによる「声のパブリシティ権」の法的な保護範囲が改めて問われています。エンジニアとしては、音声データを扱う際の権利クリアランスや、悪用を防ぐための透かし（ウォーターマーク）技術の重要性を再認識する必要があります。",
+    "sourceUrl": "https://news.yahoo.co.jp/pickup/6581302",
+    "sourceName": "Yahoo!ニュース",
+    "originalImageUrl": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/5/23/97bdbaf9ca4d3160c95cad3cb36b2e382b2e40614a65878781ebcd9535869f35.jpg",
+    "originalImageArticleUrl": "https://news.yahoo.co.jp/pickup/6581302",
+    "displayDate": "2026-05-23"
+  },
+  "SRD / XR": {
+    "title": "名鉄のXR施設、4ヵ月で5万人動員",
+    "summary": "名古屋鉄道が運営するXR施設が、開業からわずか4ヶ月で5万人を集客する成功を収めました。7月には新コンテンツの投入も予定されており、地方における体験型XRのビジネスモデルとして高い注目を集めています。",
+    "insight": "物理的な場所とXRを組み合わせたロケーションベースVR/ARは、継続的な体験の更新によるリピート率の確保が鍵となります。エンジニア視点では、単発のコンテンツ制作だけでなく、運用フェーズにおけるUX改善の高速なサイクルをいかにシステム化できるかが勝負です。",
+    "sourceUrl": "https://www.chukei-news.co.jp/news/2026/05/23/OK0002605230301_01/",
+    "sourceName": "中部経済新聞",
+    "originalImageUrl": "https://www.chukei-news.co.jp/images/20260522_203647_79654.jpg",
+    "originalImageArticleUrl": "https://www.chukei-news.co.jp/news/2026/05/23/OK0002605230301_01/",
+    "displayDate": "2026-05-23"
+  },
+  "SONY": {
+    "title": "ソニーINZONE M10S IIのパネル技術が判明",
+    "summary": "ソニーのゲーミングモニター「INZONE M10S II」に、LGディスプレイ製の540Hz対応プライマリーRGBタンデムOLEDパネル「LW270PHV」が採用されていることが明らかになりました。超高リフレッシュレートとタンデムOLED構造の組み合わせは、最新のゲーミング体験において重要な注目ポイントです。",
+    "insight": "タンデムOLEDは、複数の発光層を重ねることで輝度と寿命を両立する技術であり、高負荷なゲーム環境での焼き付き防止と応答速度の向上に寄与します。高リフレッシュレート化が進むゲーミングモニター市場において、パネルの物理特性と駆動アルゴリズムの最適化が製品競争力の要となっています。",
+    "sourceUrl": "https://kunkoku.jp/inzone-m10sii-sdm-27q102-3.html",
+    "sourceName": "ソニーが基本的に好き。",
+    "originalImageUrl": "https://kunkoku.jp/wp-content/uploads/2026/05/260520d01.jpg",
+    "originalImageArticleUrl": "https://kunkoku.jp/inzone-m10sii-sdm-27q102-3.html",
+    "displayDate": "2026-05-23"
+  },
+  "Gaming Monitor": {
+    "title": "2026年版ゲーミングモニター選びの最新トレンド",
+    "summary": "RTINGSが2026年のベストモニターを選定しました。ウルトラワイド、Mini LED、OLEDなど、多様なパネル技術が一般化しており、用途に応じた最適な一台を見つけるのが以前よりも難しくなっています。各カテゴリでのトップ推奨モデルが提示されました。",
+    "insight": "エンジニアとしては、単なるリフレッシュレートだけでなく、ローカルディミングの精度やOLEDの焼き付き耐性といったハードウェア制御の進化に注目すべきです。特に作業効率に直結するウルトラワイド解像度のOS対応状況は、開発環境構築の参考になります。",
+    "sourceUrl": "https://www.rtings.com/monitor/reviews/best/by-features/ultrawide",
+    "sourceName": "RTINGS.com",
+    "originalImageUrl": "https://i.rtings.com/assets/pages/rTDTHh1L/best-ultrawide-monitors-20251128-medium.jpg?format=auto",
+    "originalImageArticleUrl": "https://www.rtings.com/monitor/reviews/best/by-features/ultrawide",
+    "displayDate": "2026-05-23"
+  },
+  "Production Monitor": {
+    "title": "NHKの次世代ライトフィールドHMD技術",
+    "summary": "NHK放送技術研究所が、従来のVRデバイスより薄型かつ高解像度な「ライトフィールドHMD」を開発しました。VR特有の視覚疲労を大幅に低減し、より自然な視聴体験を実現することを目指しており、没入型ディスプレイ技術の新たな可能性を示しています。",
+    "insight": "ライトフィールド技術は、光の方向成分を記録・再現することで、焦点の合う位置を後から調整できるなど、従来の網膜投影や液晶VRにはない自然な奥行き知覚を実現します。エンジニアの視点では、単なる高解像度化ではなく、空間演算と光学設計の融合により「視覚ストレスの少ないUX」をいかにハードウェア層で担保するかという点が極めて重要です。",
+    "sourceUrl": "https://www.newsshooter.com/2026/05/21/nhk-broadcasting-technology-research-laboratory-light-field-head-mounted-display/?utm_source=rss&utm_medium=rss&utm_campaign=nhk-broadcasting-technology-research-laboratory-light-field-head-mounted-display",
+    "sourceName": "Newsshooter",
+    "originalImageUrl": "https://www.newsshooter.com/wp-content/uploads/2026/05/Screenshot-2026-05-22-at-8.52.47.jpg",
+    "originalImageArticleUrl": "https://www.newsshooter.com/2026/05/21/nhk-broadcasting-technology-research-laboratory-light-field-head-mounted-display/?utm_source=rss&utm_medium=rss&utm_campaign=nhk-broadcasting-technology-research-laboratory-light-field-head-mounted-display",
+    "displayDate": "2026-05-23"
+  },
+  "TV": {
+    "title": "ハイセンスから高コスパMiniLED TVが登場",
+    "summary": "ハイセンスの新しい「M7 4K MiniLED TV」シリーズが発表されました。Dolby VisionやVRR（可変リフレッシュレート）に対応しながらも低価格を実現しており、ゲーミングや映像鑑賞向けの選択肢として注目されています。",
+    "insight": "MiniLEDはバックライトの微細化により、従来の液晶よりもコントラストとピーク輝度が向上し、有機ELに近い画質を低コストで実現できる技術です。エンジニアの視点では、VRRなどの映像同期技術が普及価格帯のモデルにも標準搭載され始めたことで、PCモニター代わりの大画面利用がより現実的になっています。",
+    "sourceUrl": "https://www.msn.com/en-ie/lifestyle/shopping/hisense-m7-4k-miniled-tv-series-brings-dolby-vision-and-vrr-at-budget-pricing/ar-AA1WjlZ1?item=flightsprg-tipsubsc-v1a&apiversion=v2&domshim=1&noservercache=1&noservertelemetry=1&batchservertelemetry=1&renderwebcomponents=1&wcseo=1",
+    "sourceName": "MSN",
+    "originalImageUrl": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1Wj9hD.img?w=612&h=387&m=4&q=81",
+    "originalImageArticleUrl": "https://www.msn.com/en-ie/lifestyle/shopping/hisense-m7-4k-miniled-tv-series-brings-dolby-vision-and-vrr-at-budget-pricing/ar-AA1WjlZ1?item=flightsprg-tipsubsc-v1a&apiversion=v2&domshim=1&noservercache=1&noservertelemetry=1&batchservertelemetry=1&renderwebcomponents=1&wcseo=1",
+    "displayDate": "2026-05-23"
+  },
+  "Projector": {
+    "title": "壁際に置くだけで200インチ！超短焦点プロジェクターの現在地",
+    "summary": "設置場所の制約を解消する「超短焦点プロジェクター」の魅力に迫る記事。壁際に置くだけで大画面投影を可能にするこの技術は、狭い部屋でのホームシアター構築の最適解として注目されています。",
+    "insight": "超短焦点技術は、光学エンジニアリングと歪み補正アルゴリズムの融合による高度な空間設計の賜物です。物理的な投写距離を最短化しつつ、周辺歪みをデジタル補正で解決する手法は、今後の没入型ディスプレイ開発のヒントになります。",
+    "sourceUrl": "https://www.pen-online.jp/article/021528.html",
+    "sourceName": "Pen Online",
+    "originalImageUrl": "https://www.pen-online.jp/assets_c/2026/05/550df3a4a2819df1966424440a34548ca46b7b4b-thumb-800x450---135938.jpg",
+    "originalImageArticleUrl": "https://www.pen-online.jp/article/021528.html",
+    "displayDate": "2026-05-23"
+  },
+  "TCL": {
+    "title": "サムスンとTCLの「偽量子ドット」訴訟、ドイツで判決",
+    "summary": "ドイツの裁判所が、TCLのテレビ製品に搭載されている「量子ドット（Quantum Dot）」という表記について、サムスン側の訴えを認めました。この判決は、マーケティング用語としての技術的正確性と、消費者への誤解を招く表示に対する法的規制が強化されていることを示唆しています。",
+    "insight": "ディスプレイ技術において、マーケティング用語と物理的な実装レベルでの定義乖離が法廷闘争に発展するケースが増えています。エンジニアとしては、広告やスペックシート上の「QLED」等の呼称が、実際のパネル構成（バックライトと量子ドット層の依存関係など）とどう紐付いているかを正確に理解し、製品選定や技術評価を行う重要性が高まっています。",
+    "sourceUrl": "https://www.techjuice.pk/samsung-wins-court-case-against-tcl-in-germany-over-fake-quantum-dot-tvs/",
+    "sourceName": "TechJuice",
+    "originalImageUrl": "https://www.techjuice.pk/wp-content/uploads/2026/03/samsung-wins-court-case-against-tcl-in-germany-over-fake-quantum-dot-tvs-techjuice-224738.jpg",
+    "originalImageArticleUrl": "https://www.techjuice.pk/samsung-wins-court-case-against-tcl-in-germany-over-fake-quantum-dot-tvs/",
+    "displayDate": "2026-05-23"
+  },
+  "LED Wall Display": {
+    "title": "成長鈍化でも堅調：dvLED市場の現在地",
+    "summary": "dvLED（ダイレクトビューLED）市場に関する最新動向。市場全体の成長ペースは以前より緩やかになっているものの、販売実績は依然としてポジティブな軌道を描いています。デジタルサイネージや大型映像ソリューションとしての需要は根強く、導入プロジェクトも各地で続いています。",
+    "insight": "成長率の鈍化は、市場が黎明期から成熟期へと移行し、価格競争やコモディティ化が進んでいるサインと言えます。エンジニア視点では、単なるディスプレイの輝度やピッチの追求だけでなく、CMS統合やAV-over-IP環境での安定的な運用管理技術が、より一層重要になるでしょう。",
+    "sourceUrl": "https://www.digitalsignagetoday.com/news/despite-slower-growth-dvled-sales-on-positive-track-this-year/",
+    "sourceName": "Digital Signage Today",
+    "originalImageUrl": "https://nmgprod.s3.amazonaws.com/media/file/cb/3d/8efa057598880e0f2b94e44efd9d/cover_image__ZlOHMdYB__dvled_sales.png.360x190_q85_crop_upscale.webp",
+    "originalImageArticleUrl": "https://www.digitalsignagetoday.com/news/despite-slower-growth-dvled-sales-on-positive-track-this-year/",
+    "displayDate": "2026-05-23"
+  },
+  "Camera Control": {
+    "title": "ソニーが開発中？次世代カメラディスプレイ技術",
+    "summary": "ソニーが2026年第3四半期以降のAlphaシリーズ向けに、新しいディスプレイ技術を開発している可能性が浮上しました。従来のLEDバックライト液晶に対し、OLED（有機EL）バックライトを採用したフィールド順次カラー（FSC）方式の液晶技術が検討されているようです。",
+    "insight": "この技術は高コントラストと高効率な色再現を両立させる可能性があり、カメラの背面液晶における視認性の進化が期待されます。FSC方式は色フィルタを使わずにカラー表示するため、光学系や光利用効率の最適化に興味があるエンジニアにとって注目すべきハードウェアトピックです。",
+    "sourceUrl": "https://www.sonyalpharumors.com/sony-is-working-on-a-new-display-technology-for-its-alpha-cameras-after-2026q3/",
+    "sourceName": "sonyalpharumors",
+    "originalImageUrl": "https://www.sonyalpharumors.com/wp-content/uploads/2026/04/Comparison-between-a-LCD-display-with-LED-BLU-and-b-FSC-LCD-display-with-OLED-BLU.jpg",
+    "originalImageArticleUrl": "https://www.sonyalpharumors.com/sony-is-working-on-a-new-display-technology-for-its-alpha-cameras-after-2026q3/",
+    "displayDate": "2026-05-23"
+  }
+}
