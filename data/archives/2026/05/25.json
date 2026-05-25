@@ -1,0 +1,102 @@
+{
+  "SRD / XR": {
+    "title": "ついに国内展開！スマートグラス最新動向",
+    "summary": "Ray-Ban Metaなどのスマートグラスが日本国内での発売を決定。さらにGoogleもGeminiを統合したスマートオーディオグラスを2026年秋に控えており、ウェアラブルデバイスとAIの融合が本格化しています。",
+    "insight": "AIエージェントとウェアラブルの結合は、UXをUIから『コンテクスト理解』へと転換させる重要な転換点です。エンジニアとしては、単なるデバイス制御だけでなく、ローカルでのマルチモーダル処理や、いかに低遅延でAIの出力をUIとして提示するかの最適化が鍵になります。",
+    "sourceUrl": "https://www.moguravr.com/vr-ar-mr-weekly-2026-5-25/",
+    "sourceName": "Mogura VR",
+    "originalImageUrl": "https://assets.moguravr.com/uploads/2016/11/f7125f5a40eb0964e4e84e42ef377bd3-kix.uymr5jo4owbn-300x169.webp",
+    "originalImageArticleUrl": "https://www.moguravr.com/vr-ar-mr-weekly-2026-5-25/",
+    "displayDate": "2026-05-25"
+  },
+  "AI": {
+    "title": "富士通の「フィジカルAI」基盤とAIの進化",
+    "summary": "富士通が2026年度に公開予定の「フィジカルAI」ソフト基盤は、空間とロボットを連携させる技術。サイバー空間の知能を物理世界へ適用し、次世代のAI活用を加速させる取り組みとして注目されています。",
+    "insight": "LLMから物理環境を制御するフィジカルAIへの移行は、エンジニアにとって今後最も重要な技術トレンドの一つです。空間コンピューティングと自律ロボティクスの統合基盤は、産業用途でのAI活用を再定義するでしょう。",
+    "sourceUrl": "https://xtech.nikkei.com/atcl/nxt/column/18/00001/11692/",
+    "sourceName": "日経クロステック",
+    "originalImageUrl": "https://xtech.nikkei.com/atcl/nxt/column/18/00001/11692/topm.jpg?20220512",
+    "originalImageArticleUrl": "https://xtech.nikkei.com/atcl/nxt/column/18/00001/11692/",
+    "displayDate": "2026-05-25"
+  },
+  "Production Monitor": {
+    "title": "Unreal Engineとグリーンバックの最適化手法",
+    "summary": "LEDウォールの高コストな制作環境を避け、Unreal Engineを用いた「グリーンバック」によるバーチャルプロダクションの基礎を学べる新コースが登場。スタジオ最適化からワークフロー構築までを網羅し、より身近な制作環境の実現を目指します。",
+    "insight": "バーチャルプロダクションはLEDボリュームだけでなく、効率的なグリーンバック合成でもUnreal Engineのリアルタイム性能がフル活用されています。最適化技術は、限られたリソースで高品質なビジュアルを生成するためのエンジニアリングスキルとして重要です。",
+    "sourceUrl": "https://www.cined.com/virtual-production-for-beginners-new-mzed-course-on-green-screen-stages-unreal-engine-and-real-time-compositing/",
+    "sourceName": "CineD",
+    "originalImageUrl": "https://www.cined.com/content/uploads/2026/05/Virtual-Production-for-Beginners-v1-copy-300x167.jpg",
+    "originalImageArticleUrl": "https://www.cined.com/virtual-production-for-beginners-new-mzed-course-on-green-screen-stages-unreal-engine-and-real-time-compositing/",
+    "displayDate": "2026-05-25"
+  },
+  "TCL": {
+    "title": "TCLの新型ディスプレイ技術「Nxtpaper」が進化",
+    "summary": "TCLは、目に優しい「Nxtpaper」技術と鮮やかなAMOLED（有機EL）を融合させた新ディスプレイを発表しました。電子ペーパーのような低反射・低ブルーライト性と、有機ELの高コントラストな映像美を両立させる画期的な技術であり、デバイス利用者の眼精疲労軽減と視聴体験の向上を同時に実現します。",
+    "insight": "この技術は、ハードウェアの画質とユーザーの視覚的健康を高いレベルで両立させる興味深いUI/UXのアプローチです。エンジニアの視点では、低レイテンシかつ高リフレッシュレートを維持しながらいかに反射を抑えるかというディスプレイ制御アルゴリズムの進化に注目すべきです。",
+    "sourceUrl": "https://www.msn.com/en-us/news/technology/tcl-s-new-screen-blends-nxtpaper-tech-with-amoled-and-it-looks-fantastic/ar-AA1XnK3f",
+    "sourceName": "MSN",
+    "originalImageUrl": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1XnMzi.img?w=612&h=344&m=4&q=84",
+    "originalImageArticleUrl": "https://www.msn.com/en-us/news/technology/tcl-s-new-screen-blends-nxtpaper-tech-with-amoled-and-it-looks-fantastic/ar-AA1XnK3f",
+    "displayDate": "2026-05-25"
+  },
+  "SONY": {
+    "title": "新型Xperia 1 VIII登場、技術評価と市場展開の課題",
+    "summary": "ソニーが最新スマホ「Xperia 1 VIII」を発表しました。AIカメラアシスタントや高度なナイトズーム機能など、ハードウェア性能は高く評価されていますが、一方で販売戦略や価格設定、ブランドの広報対応をめぐる課題も浮上しており、業界内外で議論を呼んでいます。",
+    "insight": "モバイル向けCMOSセンサーで圧倒的なシェアを持つソニーの技術力が結集されています。特にペリスコープ望遠や計算写真学による画質向上は、エンジニア視点でもセンサーとソフトウェア処理の統合という点で非常に注目すべき進化です。",
+    "sourceUrl": "https://www.itmedia.co.jp/mobile/amp/2605/24/news021.html",
+    "sourceName": "ITmedia Mobile",
+    "originalImageUrl": "https://image.itmedia.co.jp/images/logo/1200x630_500x500_mobile.gif",
+    "originalImageArticleUrl": "https://www.itmedia.co.jp/mobile/amp/2605/24/news021.html",
+    "displayDate": "2026-05-25"
+  },
+  "Gaming Monitor": {
+    "title": "OLEDゲーミングモニター市場が急拡大、出荷台数78%増",
+    "summary": "2026年第1四半期のOLEDモニター出荷台数が前年同期比で78%の大幅増を記録しました。ASUSが市場シェアの24%を占めトップに立つなど、高リフレッシュレートかつ高画質なOLEDディスプレイの普及が急速に進んでいます。",
+    "insight": "OLED採用モニターの普及は、eスポーツ向けの高リフレッシュレート環境が一般化していることを示唆しています。エンジニアとしては、応答速度の速いOLEDパネルを前提としたUI/UX設計や、高解像度・高フレームレート環境下でのレンダリングパフォーマンスへの理解が重要になります。",
+    "sourceUrl": "https://videocardz.com/newz/global-oled-monitor-shipments-rise-78-in-q1-2026-as-asus-reaches-24-share",
+    "sourceName": "VideoCardz.com",
+    "originalImageUrl": "https://cdn.videocardz.com/1/2026/05/ASUS-PROART-OLED-27-INCHMONITOR.jpg",
+    "originalImageArticleUrl": "https://videocardz.com/newz/global-oled-monitor-shipments-rise-78-in-q1-2026-as-asus-reaches-24-share",
+    "displayDate": "2026-05-25"
+  },
+  "TV": {
+    "title": "嵐の「意味深投稿」が話題！テレビに注目？",
+    "summary": "嵐の5人がソファーに座り、テレビを見つめる様子が公開されました。投稿には未来の日時と秒数まで記載されており、「何が起きるのか」「テレビと関係があるのか」とファンを中心に大きな注目を集めています。",
+    "insight": "SNSでの秒単位のティーザー投稿は、大規模なデジタルキャンペーンやプロダクトローンチの先行手法として非常に強力です。エンジニア視点では、アクセス急増に耐えうる負荷分散システムや、同時刻のイベントトリガーを制御する配信インフラの準備状況に興味が湧きますね。",
+    "sourceUrl": "https://news.yahoo.co.jp/articles/9f37318397d07f360ccba7308da085f544374075",
+    "sourceName": "Yahoo!ニュース",
+    "originalImageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260524-00000008-mnet-000-1-view.jpg?exp=10800",
+    "originalImageArticleUrl": "https://news.yahoo.co.jp/articles/9f37318397d07f360ccba7308da085f544374075",
+    "displayDate": "2026-05-25"
+  },
+  "Projector": {
+    "title": "最新4Kプロジェクターのトレンドと技術動向",
+    "summary": "最近のニュースでは、GIMIの新作「Elfin Flip 4K」の登場や、109シネマズでの「IMAXレーザー」導入など、高精細な4K映像体験への需要が加速しています。モバイル性と画質のトレードオフが解消されつつあります。",
+    "insight": "コンシューマー向けプロジェクターでは、4Kと高輝度・高速起動の両立がエンジニアリングの主戦場となっています。特に光学系と放熱設計の小型化が、ポータブルデバイスのUXを劇的に向上させています。",
+    "sourceUrl": "https://trilltrill.jp/articles/4745541",
+    "sourceName": "TRILL",
+    "originalImageUrl": "https://media.trilltrill.jp/articles/4745541/featured-image.741d72385ef55d058c8a9f14334bcf85?w=1200",
+    "originalImageArticleUrl": "https://trilltrill.jp/articles/4745541",
+    "displayDate": "2026-05-25"
+  },
+  "LED Wall Display": {
+    "title": "歴史的建造物へのLED設置：デジタル技術の調和",
+    "summary": "オーストラリア・パースの歴史ある「ハー・マジェスティーズ劇場」にて、Amped Digitalが景観保護基準を遵守したLEDデジタルサイネージの導入を完了しました。静的なバナー広告をクラウド管理型のLEDディスプレイへ刷新し、歴史的な外観を損なわずに柔軟な情報発信を実現した事例です。",
+    "insight": "レガシーなインフラ環境に最新のデジタルサイネージを統合する際は、物理的な設置条件だけでなく景観との調和が重要です。エンジニアとしては、ハードウェアのスペックだけでなく、コンテンツ更新を自動化するクラウドアーキテクチャと低消費電力設計の組み合わせが、公共空間への導入を成功させる鍵となります。",
+    "sourceUrl": "https://www.digitalsignagetoday.com/blogs/amped-digital-completes-heritage-compliant-led-digital-signage-rollout-at-perths-his-majestys-theatre/",
+    "sourceName": "Digital Signage Today",
+    "originalImageUrl": "https://nmgprod.s3.amazonaws.com/media/file/57/70/6a1649b8eaf67ff5cdfed7c3276e/cover_image__yfH26BxW__AdobeStock_1857675641_Editorial.jpeg.360x190_q85_crop_upscale.webp",
+    "originalImageArticleUrl": "https://www.digitalsignagetoday.com/blogs/amped-digital-completes-heritage-compliant-led-digital-signage-rollout-at-perths-his-majestys-theatre/",
+    "displayDate": "2026-05-25"
+  },
+  "Camera Control": {
+    "title": "カメラ市場の分断：Canonの製品セグメンテーションに物議",
+    "summary": "Canonの最新カメラライン（VシリーズとCシリーズ）における意図的な機能制限やセグメンテーションが、ユーザー体験を損なっているという批判が高まっています。ハードウェア性能が向上する中で、ソフトウェアや機能面で「意図的に壁を作る」戦略の是非が問われています。",
+    "insight": "エンジニアリング視点では、単一のセンサーや基板で多機能化が可能な現代において、あえて機能制限（ソフト的な壁）を設ける製品戦略は、UXおよびプロダクトの拡張性を阻害する要因となり得ます。技術的なポテンシャルを解放するのか、収益のために機能を制限するのか、製品開発におけるUX設計のトレードオフについて議論を深める良いきっかけになります。",
+    "sourceUrl": "https://petapixel.com/2026/05/24/i-fundamentally-disagree-with-canon-building-a-wall-between-its-v-and-c-series-cameras/",
+    "sourceName": "PetaPixel",
+    "originalImageUrl": "https://petapixel.com/assets/uploads/2026/05/canon-segmentation-oped-featured.jpg",
+    "originalImageArticleUrl": "https://petapixel.com/2026/05/24/i-fundamentally-disagree-with-canon-building-a-wall-between-its-v-and-c-series-cameras/",
+    "displayDate": "2026-05-25"
+  }
+}
