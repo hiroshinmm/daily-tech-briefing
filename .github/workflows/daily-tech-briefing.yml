@@ -35,6 +35,11 @@ jobs:
       - name: Install dependencies
         run: npm ci
 
+      # ランナーイメージ更新でプリキャッシュ済みChromeのバージョンが
+      # Puppeteerの期待するバージョンと一致しなくなることがあるため明示的にインストールする
+      - name: Install Chrome for Puppeteer
+        run: npx puppeteer browsers install chrome
+
       # Step 1: Fetch News
       - name: Fetch News
         run: node src/fetchNews.js
