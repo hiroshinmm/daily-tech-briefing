@@ -37,11 +37,14 @@ jobs:
 
       # ランナーにプリキャッシュされたChromeが不完全(フォルダはあるが実行ファイルが
       # 欠落)でインストーラーがスキップしてしまうことがあるため、キャッシュを
-      # 削除してからPuppeteerが要求するバージョンを確実にインストールする
+      # 削除してからインストールする。npx経由だと解決の問題で何もインストールせず
+      # 正常終了することがあったため、ローカルのCLIスクリプトを直接実行して
+      # package.jsonで固定したバージョンに対応するChromeを確実に用意する
       - name: Install Chrome for Puppeteer
         run: |
           rm -rf "$HOME/.cache/puppeteer"
-          npx puppeteer browsers install chrome
+          node ./node_modules/puppeteer/lib/cjs/puppeteer/node/cli.js browsers install chrome
+          ls -la "$HOME/.cache/puppeteer/chrome/"
 
       # Step 1: Fetch News
       - name: Fetch News
