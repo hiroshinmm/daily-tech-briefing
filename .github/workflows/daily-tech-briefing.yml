@@ -46,12 +46,15 @@ jobs:
           node ./node_modules/puppeteer/lib/cjs/puppeteer/node/cli.js browsers install chrome || true
           for d in "$HOME"/.cache/puppeteer/chrome/linux-*/; do
             if [ ! -x "$d/chrome-linux64/chrome" ]; then
-              zip=$(ls "$d"*.zip 2>/dev/null | head -1)
-              if [ -n "$zip" ]; then
+              version=${d%/}
+              version=${version##*linux-}
+              zip="$(dirname "${d%/}")/${version}-chrome-linux64.zip"
+              if [ -f "$zip" ]; then
                 unzip -o -q "$zip" -d "$d"
                 chmod +x "$d/chrome-linux64/chrome"
               fi
             fi
+            test -x "$d/chrome-linux64/chrome"
           done
           find "$HOME/.cache/puppeteer/chrome" -maxdepth 3 -name chrome -type f -exec ls -la {} \;
 
