@@ -1,0 +1,102 @@
+{
+  "TCL": {
+    "title": "TCLの次世代技術「SQD-Mini LED」とは？",
+    "summary": "TCLはAnsons社の60周年記念イベントにて、最新の「SQD-Mini LED」テレビを初披露しました。従来のRGB LED技術と比較した際の色再現性や輝度制御の進化が注目されており、今後のディスプレイ市場におけるハイエンド戦略の鍵を握る技術として期待されています。",
+    "insight": "SQD（量子ドット）を用いたMini LEDは、バックライトの微細制御と色域の広さを両立させる次世代の有力技術です。エンジニアの視点からは、ハードウェア側のローカルディミングアルゴリズムと、コンテンツのダイナミックレンジをどう最適化しているかに注目すべきです。",
+    "sourceUrl": "https://www.gadgetguy.com.au/tcl-super-quantum-dot-sqd-tv-technology-comparison/",
+    "sourceName": "GadgetGuy",
+    "originalImageUrl": "https://www.gadgetguy.com.au/wp-content/uploads/2026/06/TCL-SQD-Mini-LED-C7L-TV-in-showroom.jpg",
+    "originalImageArticleUrl": "https://www.gadgetguy.com.au/tcl-super-quantum-dot-sqd-tv-technology-comparison/",
+    "displayDate": "2026-06-10"
+  },
+  "AI": {
+    "title": "Anthropicが新モデル「Claude 3.5 Sonnet」を公開",
+    "summary": "Anthropic社が、次世代モデル「Claude 3.5 Sonnet」を発表しました。前モデルより高い推論能力と処理速度を実現し、特にプログラミングや視覚情報の解析において飛躍的な性能向上を見せています。また、ブラウザ上でリアルタイムにコードのプレビューや修正が可能な「Artifacts」機能が追加され、開発体験が大きく進化しました。",
+    "insight": "Artifacts機能によるUIプレビューの統合は、LLMが単なるチャットボットからエンジニアの作業環境へと進化していることを示しています。既存のAPI連携やエージェントワークフローにこの高速な推論能力をどう組み込むかが、今後の生産性向上の鍵となります。",
+    "sourceUrl": "https://www.asahi.com/articles/ASV6967FWV69UHBI02XM.html",
+    "sourceName": "朝日新聞",
+    "originalImageUrl": "https://imgopt.asahi.com/ogp/AS20260610000410_comm.jpg",
+    "originalImageArticleUrl": "https://www.asahi.com/articles/ASV6967FWV69UHBI02XM.html",
+    "displayDate": "2026-06-10"
+  },
+  "Production Monitor": {
+    "title": "Apple Immersive Video：スマホ対応と8Kストリーミング実現",
+    "summary": "WWDC26にてApple Immersive Video（AIV）が大幅進化。iPhone/iPadでの再生対応に加え、静的フォービエーション技術により8Kコンテンツのストリーミングが現実的になりました。 Vision Pro向けコンテンツの配信パイプラインが本格化しています。",
+    "insight": "8K映像のデータ負荷を軽減する「静的フォービエーション」の採用は、高解像度コンテンツを配信する上でのエンジニアリング的なブレイクスルーです。没入型メディアの視聴環境が専用ヘッドセットからモバイル端末へと拡張されることで、今後のクロスプラットフォームな配信設計が重要になります。",
+    "sourceUrl": "https://www.cined.com/apple-immersive-video-gets-live-formats-iphone-playback-and-static-foveation-streaming-at-wwdc26/",
+    "sourceName": "CineD",
+    "originalImageUrl": "https://www.cined.com/content/uploads/2026/06/Vision-OS-Spatial-300x169.jpg",
+    "originalImageArticleUrl": "https://www.cined.com/apple-immersive-video-gets-live-formats-iphone-playback-and-static-foveation-streaming-at-wwdc26/",
+    "displayDate": "2026-06-10"
+  },
+  "SONY": {
+    "title": "ソニー、135インチのオールインワンLED「Crystal LED UNIFY」を発表",
+    "summary": "ソニーは、プロフェッショナル向けディスプレイの新製品として、135インチのオールインワン型直視型LEDディスプレイ「Crystal LED UNIFY (ZRL-135SG)」を発表しました。設置の簡便さを追求したモデルで、ボードルームや会議室などの高品位な映像環境をターゲットとしています。",
+    "insight": "大型LEDディスプレイの設置において課題となる配線やキャリブレーションを簡略化する統合設計は、ハードウェアのモジュール化が進む現在のAV/IT融合トレンドを象徴しています。制御システムや統合管理環境との親和性がどう設計されているかが、システムインテグレーターにとっての選定基準となるでしょう。",
+    "sourceUrl": "https://kunkoku.jp/crystal-led-unify.html",
+    "sourceName": "ソニーが基本的に好き。",
+    "originalImageUrl": "https://kunkoku.jp/wp-content/uploads/2026/06/260609b01.jpg",
+    "originalImageArticleUrl": "https://kunkoku.jp/crystal-led-unify.html",
+    "displayDate": "2026-06-10"
+  },
+  "SRD / XR": {
+    "title": "部屋がホラーの舞台に？最新VR技術",
+    "summary": "Quest 3向けVRホラーゲーム「Into the Dead: Crimson Heights」は、MR技術を活用し、プレイヤーの実際の部屋の壁や家具の形状をスキャンしてゲームレベルを自動生成する。現実空間と仮想空間を融合させ、没入感を極限まで高める新たなアプローチとして注目されている。",
+    "insight": "部屋のジオメトリをリアルタイムでメッシュ化してゲームに落とし込む実装は、空間コンピューティング時代のUXにおける重要なトレンドです。単に映像を表示するだけでなく、物理環境をゲームエンジン側でどうセマンティックに解釈・利用するかが、今後のMR開発の差別化要因になるでしょう。",
+    "sourceUrl": "https://www.uploadvr.com/into-the-dead-crimson-heights-crafts-vr-horror-from-the-geometry-of-your-room/",
+    "sourceName": "UploadVR",
+    "originalImageUrl": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/06/ITDCrimson-Heights_KeyArt_Anouncement_01_Logo.png",
+    "originalImageArticleUrl": "https://www.uploadvr.com/into-the-dead-crimson-heights-crafts-vr-horror-from-the-geometry-of-your-room/",
+    "displayDate": "2026-06-10"
+  },
+  "Gaming Monitor": {
+    "title": "有機ELモニターの「焼き付き」問題：5年間の実用レポート",
+    "summary": "PCモニターとして5年間使用した有機ELテレビ（LG OLED 48CXPJA）で、ついに焼き付きによる色ムラが発生し、液晶へ買い替えたという実体験レポートが話題です。高精細で応答速度に優れる有機ELですが、静止画を表示し続けるPC作業環境における耐久性については、依然として慎重な判断が必要です。",
+    "insight": "デスクトップUIやブラウザの固定要素など、PC環境特有の静止画表示は有機ELの焼き付きリスクを大幅に高めます。開発現場で採用する際は、高コントラストや応答速度というメリットと、5年単位の運用における物理的劣化のコストを冷静に比較検討するアーキテクチャ選定が求められます。",
+    "sourceUrl": "https://pc.watch.impress.co.jp/docs/topic/feature/2115770.html",
+    "sourceName": "PC Watch",
+    "originalImageUrl": "https://pc.watch.impress.co.jp/img/pcw/list/2115/770/PH01.jpg",
+    "originalImageArticleUrl": "https://pc.watch.impress.co.jp/docs/topic/feature/2115770.html",
+    "displayDate": "2026-06-10"
+  },
+  "Projector": {
+    "title": "ライカが小型4Kレーザープロジェクターを発表",
+    "summary": "光学機器の名門ライカが、家庭用として設置しやすい小型の4Kレーザープロジェクターを発表しました。高級ブランドらしい高画質と洗練された設計が特徴で、ホームシアター環境の選択肢を広げます。",
+    "insight": "レーザー光源技術の成熟により、高輝度かつ高コントラストな映像体験がよりコンパクトな筐体で実現可能になっています。エンジニア視点では、小型化に伴う熱設計や光学エンジンの効率化が今後の差別化要因となるでしょう。",
+    "sourceUrl": "https://www.channelnews.com.au/287362-2/",
+    "sourceName": "channelnews.com.au",
+    "originalImageUrl": "https://www.channelnews.com.au/wp-content/uploads/2026/06/Ambient_Compact_Projector-Atlas_3840x2560px.jpg.webp",
+    "originalImageArticleUrl": "https://www.channelnews.com.au/287362-2/",
+    "displayDate": "2026-06-10"
+  },
+  "TV": {
+    "title": "有機ELテレビをPCモニターに5年使った結果",
+    "summary": "有機ELディスプレイをPCモニターとして5年間酷使したユーザーによる検証記事。静止画の多いPC作業環境下で避けられない「焼き付き」現象の発生過程と、劣化がどのような状態になるのかを長期的な視点で実録している。",
+    "insight": "高リフレッシュレートで発色が美しい有機ELをPC環境に導入する際の最大の懸念は、やはり静止画表示によるバーンイン（焼き付き）です。タスクバーやウィンドウ枠の固定表示が長期間続くエンジニアのワーク環境において、OLED採用ハードウェアの耐用年数と寿命管理を考える良いケーススタディになります。",
+    "sourceUrl": "https://pc.watch.impress.co.jp/docs/topic/feature/2115770.html",
+    "sourceName": "PC Watch",
+    "originalImageUrl": "https://pc.watch.impress.co.jp/img/pcw/list/2115/770/PH01.jpg",
+    "originalImageArticleUrl": "https://pc.watch.impress.co.jp/docs/topic/feature/2115770.html",
+    "displayDate": "2026-06-10"
+  },
+  "LED Wall Display": {
+    "title": "Sony、オールインワン135インチ「Crystal LED UNIFY」を発表",
+    "summary": "SonyがInfoComm 2026に向け、135インチのオールインワン型ダイレクトビューLEDディスプレイ「Crystal LED UNIFY」を発表。設置の簡便性、アンチリフレクション技術による高視認性、省エネ性能を追求したモデルです。",
+    "insight": "大型LEDディスプレイの分野では、個別モジュールの組み立てや複雑なキャリブレーションを省く「オールインワン型」へのシフトが加速しています。ハードウェアの統合だけでなく、運用時のエネルギー効率やメンテナンス性を考慮した設計が、今後の商用ディスプレイ導入の重要な選定基準となるでしょう。",
+    "sourceUrl": "https://ravepubs.com/sony-electronics-introduces-crystal-led-unify-display/",
+    "sourceName": "rAVe [PUBS]",
+    "originalImageUrl": "https://ravepubs.com/wp-content/uploads/2026/06/Sony-800x400.webp",
+    "originalImageArticleUrl": "https://ravepubs.com/sony-electronics-introduces-crystal-led-unify-display/",
+    "displayDate": "2026-06-10"
+  },
+  "Camera Control": {
+    "title": "フィルムのカラーサイエンスを徹底解剖",
+    "summary": "日本の写真家D.Daniel氏が、カラーおよびモノクロフィルムの特性を網羅的かつ効率的に比較・解説した記事が公開されました。写真フィルム特有の質感や発色の違いに迫る、非常に価値の高い検証結果となっています。",
+    "insight": "デジタル現像におけるフィルムルック再現のアルゴリズムを設計する際、このような定量的な比較データは非常に有用なリファレンスになります。フィルムのコントラスト曲線や色変換の特性を理解することは、画像処理エンジン開発の精度向上に直結します。",
+    "sourceUrl": "https://petapixel.com/2026/06/09/one-of-the-most-comprehensive-looks-at-film-color-science/",
+    "sourceName": "PetaPixel",
+    "originalImageUrl": "https://petapixel.com/assets/uploads/2026/06/d-daniel-film-science-featured.jpg",
+    "originalImageArticleUrl": "https://petapixel.com/2026/06/09/one-of-the-most-comprehensive-looks-at-film-color-science/",
+    "displayDate": "2026-06-10"
+  }
+}
