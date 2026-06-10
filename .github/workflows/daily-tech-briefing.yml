@@ -37,14 +37,23 @@ jobs:
 
       # ランナーにプリキャッシュされたChromeが不完全(フォルダはあるが実行ファイルが
       # 欠落)でインストーラーがスキップしてしまうことがあるため、キャッシュを
-      # 削除してからインストールする。npx経由だと解決の問題で何もインストールせず
-      # 正常終了することがあったため、ローカルのCLIスクリプトを直接実行して
-      # package.jsonで固定したバージョンに対応するChromeを確実に用意する
+      # 削除してからインストールする。インストーラーがzipのダウンロードのみで
+      # 展開を完了せず正常終了することがあるため、実行ファイルが無ければ
+      # zipを手動展開して補完する
       - name: Install Chrome for Puppeteer
         run: |
           rm -rf "$HOME/.cache/puppeteer"
-          node ./node_modules/puppeteer/lib/cjs/puppeteer/node/cli.js browsers install chrome
-          ls -la "$HOME/.cache/puppeteer/chrome/"
+          node ./node_modules/puppeteer/lib/cjs/puppeteer/node/cli.js browsers install chrome || true
+          for d in "$HOME"/.cache/puppeteer/chrome/linux-*/; do
+            if [ ! -x "$d/chrome-linux64/chrome" ]; then
+              zip=$(ls "$d"*.zip 2>/dev/null | head -1)
+              if [ -n "$zip" ]; then
+                unzip -o -q "$zip" -d "$d"
+                chmod +x "$d/chrome-linux64/chrome"
+              fi
+            fi
+          done
+          find "$HOME/.cache/puppeteer/chrome" -maxdepth 3 -name chrome -type f -exec ls -la {} \;
 
       # Step 1: Fetch News
       - name: Fetch News
