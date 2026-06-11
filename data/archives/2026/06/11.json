@@ -1,0 +1,102 @@
+{
+  "AI": {
+    "title": "Palantir CEOが指摘するAIラボへの「不満」",
+    "summary": "PalantirのAlex Karp CEOは、多くの企業が主要なAI開発ラボ（OpenAIなど）の成果に対し、実際のビジネス現場での活用において「不満」を抱いていると語りました。技術の進化スピードと、現場が求める実用性や信頼性との間にギャップが生じている現状を浮き彫りにしています。",
+    "insight": "エンジニアとしては、単なるモデル性能の追求だけでなく、レガシーシステムとの統合やデータガバナンスなど、エンタープライズ特有の制約を解決する実装力が差別化要因になると再確認できます。フロントエンドの性能とバックエンドの運用負荷のトレードオフを意識したアーキテクチャ設計が、今後さらに重要になります。",
+    "sourceUrl": "https://www.cnbc.com/2026/06/10/palantir-karp-enterprise-ai.html",
+    "sourceName": "CNBC",
+    "originalImageUrl": "https://image.cnbcfm.com/api/v1/image/108319546-1781102137226-Karp4.jpg?v=1781102197&w=1920&h=1080",
+    "originalImageArticleUrl": "https://www.cnbc.com/2026/06/10/palantir-karp-enterprise-ai.html",
+    "displayDate": "2026-06-11"
+  },
+  "SRD / XR": {
+    "title": "「AI×XR」がスマホ代替へ？加速するメガネ戦争",
+    "summary": "AIを搭載したスマートグラスが、将来的にスマートフォンを代替するデバイスとして注目を集めています。COEXで開催された展示会等でも、複数の企業がAI×XR技術を駆使したメガネ型デバイスの開発を競い合っており、ウェアラブルの新たな潮流が加速しています。",
+    "insight": "AIと空間コンピューティングの融合は、単なるUIの変更を超え、モバイルコンピューティングのパラダイムシフトを促しています。エンジニアとしては、従来のスマホアプリ開発の枠を超え、空間インターフェースやAIの常時推論を見据えたアーキテクチャの設計が今後重要になるでしょう。",
+    "sourceUrl": "chrome-error://chromewebdata/",
+    "sourceName": "finance.biggo.jp",
+    "originalImageUrl": null,
+    "originalImageArticleUrl": "chrome-error://chromewebdata/",
+    "displayDate": "2026-06-11"
+  },
+  "SONY": {
+    "title": "ソニー、デュアルコア技術搭載の新型LYTIAセンサーを予告",
+    "summary": "ソニーセミコンダクタソリューションズが、次世代のスマホ向けイメージセンサー「LYTIA」の新モデル2種を予告しました。最大の特徴は、高速かつ高精度なAF性能を実現する「デュアルコア技術」の搭載です。次世代フラッグシップ端末への採用が期待されています。",
+    "insight": "スマートフォン向けイメージセンサーにおけるデュアルコア画素技術は、位相差AFの精度を大幅に向上させ、低照度環境下での高速フォーカスを可能にします。ハードウェアレベルでの並列処理性能の強化は、コンピューテーショナル・フォトグラフィーにおける画像処理パイプラインのボトルネック解消に大きく寄与するでしょう。",
+    "sourceUrl": "https://sumahodigest.com/?p=62937",
+    "sourceName": "スマホダイジェスト",
+    "originalImageUrl": "https://sumahodigest.com/wp-content/uploads/2026/06/Screenshot-2026-06-10-083643.jpg",
+    "originalImageArticleUrl": "https://sumahodigest.com/?p=62937",
+    "displayDate": "2026-06-11"
+  },
+  "TCL": {
+    "title": "TCLの新型「SQ-Mini LED TV」が発表",
+    "summary": "TCLは家電量販店Anson’sの60周年記念イベントにて、最新の「SQ-Mini LED TV」を披露しました。Mini LED技術を搭載し、高コントラストと優れた映像表現を実現する同社の戦略的モデルです。",
+    "insight": "Mini LEDはローカルディミングによる深い黒と高輝度を両立できるため、ハイエンドディスプレイの標準技術として定着しています。エンジニア視点では、PWM制御の最適化やパネルの熱管理など、ハードウェアと画像処理アルゴリズムの統合がいかに画質を左右しているかに注目です。",
+    "sourceUrl": "https://www.megabites.com.ph/tcl-x-ansons-60th-anniversary-showcases-the-new-sq-mini-led-tv/",
+    "sourceName": "megabites.com.ph",
+    "originalImageUrl": "https://www.megabites.com.ph/wp-content/uploads/2026/06/TCL-x-Ansons-60th-Anniversary-Showcases-the-New-SQ-Mini-LED-TV_1.webp",
+    "originalImageArticleUrl": "https://www.megabites.com.ph/tcl-x-ansons-60th-anniversary-showcases-the-new-sq-mini-led-tv/",
+    "displayDate": "2026-06-11"
+  },
+  "Gaming Monitor": {
+    "title": "27インチQHD OLEDゲーミングモニターが500ドルへ",
+    "summary": "27インチ・QHD解像度・240Hz駆動という高スペックなOLED（有機EL）ゲーミングモニターが、価格改定により500ドルまで値下がりしました。OLED特有の高速応答速度と高コントラストを兼ね備えたモニターが、より身近な価格帯に到達しています。",
+    "insight": "OLEDモニターの低価格化は、パネル製造技術の歩留まり向上と量産効果が進んでいることを示唆しています。エンジニアにとっても、高リフレッシュレート環境でのレンダリング負荷や、OLED特有の焼き付き防止ロジックといったディスプレイ技術の進化を追う良い機会です。",
+    "sourceUrl": "https://theinventory.com/lenovo-legion-27-inch-qhd-oled-gaming-monitor-240hz-deal",
+    "sourceName": "The Inventory",
+    "originalImageUrl": "https://theinventory.com/cdn-cgi/image/width=300,quality=85,format=auto/https://assets.theinventory.com/media/lenovo-legion-27-inch-qhd-oled-gaming-monitor-240hz-deal-1781058977348.png",
+    "originalImageArticleUrl": "https://theinventory.com/lenovo-legion-27-inch-qhd-oled-gaming-monitor-240hz-deal",
+    "displayDate": "2026-06-11"
+  },
+  "Projector": {
+    "title": "XGIMIの新型4Kプロジェクター、クラファンで1800万ドル調達",
+    "summary": "XGIMIがKickstarterで展開した新型4Kプロジェクターシリーズ「TITAN Noir」が、1,800万ドル（約28億円）を超える巨額の資金調達に成功しました。市場の期待の高さが伺えるニュースです。",
+    "insight": "コンシューマー向けプロジェクターがこれほどの規模で出資を集める背景には、4K高画質化とスマート化の成熟があります。エンジニアの視点では、単なる映像投影機器から、OS統合やAI補正を備えた「ホームエンタメのプラットフォーム」へと進化している点に注目です。",
+    "sourceUrl": "https://www.tipranks.com/news/private-companies/xgimi-raises-over-18-million-on-kickstarter-for-titan-noir-4k-projector-series",
+    "sourceName": "TipRanks",
+    "originalImageUrl": "https://blog.tipranks.com/wp-content/uploads/2025/06/1319e0e9f008f0045451e1b5ffbd685e-750x406.png",
+    "originalImageArticleUrl": "https://www.tipranks.com/news/private-companies/xgimi-raises-over-18-million-on-kickstarter-for-titan-noir-4k-projector-series",
+    "displayDate": "2026-06-11"
+  },
+  "Production Monitor": {
+    "title": "ZEISSの新型レンズに見る光学設計の電動化トレンド",
+    "summary": "Cine Gear 2026で発表されたZEISSの「Horizon Anamorphic」は、2xフルフレーム対応に加え、フォーカスとアイリス用のモーターを鏡筒内に内蔵した設計が特徴的です。従来の機械的連動から電子制御を前提とした設計へのシフトは、撮影現場のワークフローに大きな変化をもたらす可能性があります。",
+    "insight": "光学レンズ設計においても、物理的なメカ機構からサーボモーターと電子制御へ移行する「ソフトウェア・ディファインド」なアプローチが主流になりつつあります。このトレンドは、精密な再現性と自動化を求める開発環境のエンジニアにとって、ハードウェア制御における設計思想の進化として非常に示唆に富んでいます。",
+    "sourceUrl": "https://www.cined.com/zeiss-horizon-anamorphic-first-look-2x-full-frame-lenses-with-internal-motors/",
+    "sourceName": "CineD",
+    "originalImageUrl": "https://www.cined.com/content/uploads/2026/06/Zeiss-Horizon-Anamorphic-lens-1-300x169.jpg",
+    "originalImageArticleUrl": "https://www.cined.com/zeiss-horizon-anamorphic-first-look-2x-full-frame-lenses-with-internal-motors/",
+    "displayDate": "2026-06-11"
+  },
+  "TV": {
+    "title": "Mini LEDとOLEDの技術競争が激化：最新ディスプレイ動向",
+    "summary": "最新のテレビ市場では、RGB Mini LEDとOLEDの性能比較が話題です。特にHisenseの新型とSony Braviaの比較などを通じ、高コントラストや応答速度といったスペック競争が、単なる視聴用からゲーム環境を含めた次世代ディスプレイ基準へと進化しています。",
+    "insight": "エンジニア視点では、PWM制御や局所調光アルゴリズムの成熟度が画質向上に寄与している点が興味深いです。高リフレッシュレートが求められるゲーミング用途において、Mini LEDの輝度優位性とOLEDの応答速度のトレードオフが、UI/UX設計やデバイス選定の重要な指標になっています。",
+    "sourceUrl": "https://www.whathifi.com/tv-home-cinema/televisions/hisense-ur9-vs-sony-bravia-8-ii-can-rgb-mini-led-defeat-the-best-oled-tv-around",
+    "sourceName": "What Hi-Fi?",
+    "originalImageUrl": "https://cdn.mos.cms.futurecdn.net/yuuhctWdDyjRhsEkuSWtqP-1920-80.jpg",
+    "originalImageArticleUrl": "https://www.whathifi.com/tv-home-cinema/televisions/hisense-ur9-vs-sony-bravia-8-ii-can-rgb-mini-led-defeat-the-best-oled-tv-around",
+    "displayDate": "2026-06-11"
+  },
+  "Camera Control": {
+    "title": "AppleのRaw画像処理が進化：AIノイズ除去を統合",
+    "summary": "AppleはWWDC26のセッションにて、Raw現像エンジン「Raw 9」を発表しました。最大の特徴は、デモザイク処理の段階で機械学習を用いたノイズ除去を統合したことです。これにより、iPhoneなどの小型センサー機でも大幅な画質向上が期待できます。iOS 27/macOS 27から導入され、サードパーティ製アプリからも利用可能です。",
+    "insight": "画像処理パイプラインの深層に機械学習を組み込むトレンドが加速しています。Raw現像エンジンの刷新は、ハードウェアの制約をソフトウェアで補完する好例であり、OSレベルで提供されるAPIを活用することで、開発者は自前で複雑なMLモデルを実装せずに高度な画像処理機能をアプリに統合できるメリットがあります。",
+    "sourceUrl": "https://www.dpreview.com/articles/6744459009/apple-core-image-raw-9-processing",
+    "sourceName": "Digital Photography Review",
+    "originalImageUrl": "https://3.img-dpreview.com/files/p/E~C437x0S2583x1937T1200x900~articles/6744459009/Apple_raw_9_processed_image.jpeg",
+    "originalImageArticleUrl": "https://www.dpreview.com/articles/6744459009/apple-core-image-raw-9-processing",
+    "displayDate": "2026-06-11"
+  },
+  "LED Wall Display": {
+    "title": "InfoComm 2026開幕直前：次世代LEDディスプレイと映像体験の進化",
+    "summary": "世界最大級のAV展示会「InfoComm 2026」がラスベガスで間もなく開催されます。Christieをはじめとする大手メーカー各社が、最新のLEDビデオウォール、画像処理技術、そしてAIを統合した没入型空間演出のソリューションを発表予定です。会場では750以上の出展者が、次世代の視覚体験の未来を提示します。",
+    "insight": "物理的なLEDディスプレイの進化に加え、AV-over-IPやAIによる映像・信号処理の統合が鍵となります。特にスケーラブルな管理プラットフォームとの連携による、高度にパーソナライズされた空間体験の設計がエンジニアには求められています。",
+    "sourceUrl": "https://ravepubs.com/technology-debuts-at-christies-infocomm-2026-booth-showcase-the-future-of-visual-storytelling/",
+    "sourceName": "rAVe [PUBS]",
+    "originalImageUrl": "https://ravepubs.com/wp-content/uploads/2026/06/cd115702-infocomm-2026-pr-jun-26-en-media-800x579.webp",
+    "originalImageArticleUrl": "https://ravepubs.com/technology-debuts-at-christies-infocomm-2026-booth-showcase-the-future-of-visual-storytelling/",
+    "displayDate": "2026-06-11"
+  }
+}
