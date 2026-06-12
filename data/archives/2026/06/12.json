@@ -1,0 +1,102 @@
+{
+  "SRD / XR": {
+    "title": "Meta Ray-BanでHUD開発が可能に！新たなアプリ開発の潮流",
+    "summary": "Meta Ray-Banスマートグラス向けに、視覚的なHUD（ヘッドアップディスプレイ）アプリの開発が可能になりました。Meta Neural Bandを用いた操作と組み合わせることで、開発者からユニークなインターフェースのアイデアが次々と生まれています。",
+    "insight": "スマートグラス特有の制約がある中、いかに直感的なUI/UXを実現するかが開発の鍵となります。デバイスのフォームファクタを活かしたUI設計は、モバイル開発者にとっても新しい知見になるはずです。",
+    "sourceUrl": "https://www.uploadvr.com/meta-ray-ban-display-amazing-hud-apps/",
+    "sourceName": "UploadVR",
+    "originalImageUrl": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/06/Meta-Ray-Ban-Display-visual-app-support-examples.png",
+    "originalImageArticleUrl": "https://www.uploadvr.com/meta-ray-ban-display-amazing-hud-apps/",
+    "displayDate": "2026-06-12"
+  },
+  "AI": {
+    "title": "KKRとNVIDIAが100億ドルのAIインフラ投資へ",
+    "summary": "投資会社のKKRがNVIDIAやVistraと協力し、100億ドル規模のAIインフラ投資会社を設立しました。急増するAIの電力・計算リソース需要を支えるための大規模なインフラ構築が加速しています。",
+    "insight": "AI分野の投資がモデル開発からデータセンター等の物理インフラへシフトしており、エンジニアにとってエネルギー効率やスケーラブルなインフラ設計の重要性が増しています。ハードウェアと電力供給がAIのボトルネックとなる中、インフラの最適化スキルが今後はさらに価値を持つでしょう。",
+    "sourceUrl": "https://www.wsj.com/finance/investing/kkr-launches-10b-ai-infrastructure-company-with-nvidia-vistra-kuwait-47a8246b",
+    "sourceName": "WSJ",
+    "originalImageUrl": null,
+    "originalImageArticleUrl": "https://www.wsj.com/finance/investing/kkr-launches-10b-ai-infrastructure-company-with-nvidia-vistra-kuwait-47a8246b",
+    "displayDate": "2026-06-12"
+  },
+  "SONY": {
+    "title": "カメラグランプリ2026大賞にソニー「α7 V」が選出",
+    "summary": "国内の権威ある写真・映像機器アワード「カメラグランプリ2026」にて、ソニーのミラーレス一眼カメラ「α7 V」が大賞を受賞しました。光学性能や画像処理エンジンの進化が総合的に高く評価され、プロ・ハイアマチュア双方から支持を集めるモデルとしての地位を改めて証明しました。",
+    "insight": "α7シリーズは、リアルタイム認識AFなどのAI駆動系機能とセンサー性能のバランスが非常に優れており、開発者視点では画像処理エンジンの推論パイプライン最適化が製品価値に直結している好例と言えます。今後、エッジAIのさらなる高速化がカメラの体験価値をどう変えるか注目すべき領域です。",
+    "sourceUrl": "https://videosalon.jp/news/cgp-2026/",
+    "sourceName": "VIDEO SALON",
+    "originalImageUrl": "https://videosalon.jp/wp-content/uploads/2026/06/t-01-2.jpg",
+    "originalImageArticleUrl": "https://videosalon.jp/news/cgp-2026/",
+    "displayDate": "2026-06-12"
+  },
+  "TCL": {
+    "title": "TCL、Google TVでGemini音声制御を先行導入",
+    "summary": "GoogleがGoogle TV向けの新機能としてGeminiベースの自然言語音声コントロールの提供を開始しました。対応するTCL製スマートTVが世界で最も早くこの機能を利用でき、ユーザーは「画質を明るくして」といった曖昧な指示で設定変更が可能になります。",
+    "insight": "LLMによる自然言語理解が家電のUXを刷新する好例です。従来のキーワードマッチング型音声検索から、意図を汲み取るコンテキスト重視のUI/UX設計へのシフトは、今後の組込みデバイスにおけるLLM活用標準となるでしょう。",
+    "sourceUrl": "https://www.digitaltrends.com/home-theater/googles-new-gemini-tv-controls-are-here-and-tcl-owners-get-them-first/",
+    "sourceName": "Digital Trends",
+    "originalImageUrl": "https://www.digitaltrends.com/tachyon/2026/04/tcl.jpg?resize=1200%2C630",
+    "originalImageArticleUrl": "https://www.digitaltrends.com/home-theater/googles-new-gemini-tv-controls-are-here-and-tcl-owners-get-them-first/",
+    "displayDate": "2026-06-12"
+  },
+  "Gaming Monitor": {
+    "title": "ついに普及期？AsusとSonyがOLEDモニターを強化",
+    "summary": "Asusが34インチ360HzのTandem QD-OLEDモニターを米国で投入し、SonyもInzoneシリーズでOLEDモニターを拡充しました。ゲーミングディスプレイ市場でハイエンドのOLED化が急速に進んでいます。",
+    "insight": "パネルの焼き付き対策や輝度向上を可能にするTandem構造の採用は、今後のモニター設計のスタンダードになる可能性があります。エンジニアとしては、長時間の表示耐性と高いリフレッシュレートが両立されることで、UX設計にどう影響するか注目です。",
+    "sourceUrl": "https://www.gizmochina.com/2026/06/11/asus-rog-swift-oled-pg34wcdn-launched-in-the-us-specs-price/",
+    "sourceName": "Gizmochina",
+    "originalImageUrl": "https://www.gizmochina.com/wp-content/uploads/2026/06/Asus-ROG-Swift-OLED-PG34WCDN-1.png",
+    "originalImageArticleUrl": "https://www.gizmochina.com/2026/06/11/asus-rog-swift-oled-pg34wcdn-launched-in-the-us-specs-price/",
+    "displayDate": "2026-06-12"
+  },
+  "TV": {
+    "title": "2026年W杯を見据えた最新ゲーミングTV事情",
+    "summary": "2026年FIFAワールドカップの開催を控え、RTINGSやCNETなどが相次いで高画質・低遅延な「ゲーミングTV」の推奨モデルを発表。MiniLEDやOLEDなど、観戦とゲームの両方に最適なディスプレイ技術の進化が注目されています。",
+    "insight": "大型イベントに向けた高精細ディスプレイの需要増は、HDMI 2.1や可変リフレッシュレート(VRR)といった技術が一般家庭に浸透する絶好の機会です。エンジニア視点では、スポーツ配信における低遅延技術とゲーミングモニターの性能向上の境界線が曖昧になっている点に注目です。",
+    "sourceUrl": "https://www.rtings.com/tv/reviews/best/by-usage/video-gaming",
+    "sourceName": "RTINGS.com",
+    "originalImageUrl": "https://i.rtings.com/assets/pages/BZfoW14G/best-4k-gaming-tv-medium.jpg?format=auto",
+    "originalImageArticleUrl": "https://www.rtings.com/tv/reviews/best/by-usage/video-gaming",
+    "displayDate": "2026-06-12"
+  },
+  "Production Monitor": {
+    "title": "Insta360が新製品でDJIの牙城に挑戦",
+    "summary": "Insta360が、Leicaと共同開発したデュアルレンズ搭載の新型ジンバルカメラ「Luna Ultra」を発表しました。これまでDJIが独占的に支配していたポケットジンバル市場に、8K撮影や着脱式OLEDスクリーンという強力な武器を携えて参入します。これを受け、DJI側は特許侵害訴訟を提起しており、両社の技術競争が激化しています。",
+    "insight": "ハードウェア市場における参入障壁と知的財産権の防衛戦略が浮き彫りになっています。特定カテゴリーの寡占市場に対し、新たな競合が独自アーキテクチャ（今回は着脱式スクリーンや光学設計）で食い込む際に、ソフトウェア的な互換性や特許戦略がいかに重要かを示唆しています。",
+    "sourceUrl": "https://www.cined.com/insta360-luna-ultra-launched-dual-lens-8k-leica-summicron-optics-detachable-oled-screen/",
+    "sourceName": "CineD",
+    "originalImageUrl": "https://www.cined.com/content/uploads/2026/06/Insta360-Luna-Ultra-feat-1-300x169.jpg",
+    "originalImageArticleUrl": "https://www.cined.com/insta360-luna-ultra-launched-dual-lens-8k-leica-summicron-optics-detachable-oled-screen/",
+    "displayDate": "2026-06-12"
+  },
+  "Projector": {
+    "title": "中長焦点レーザー投影市場が2032年に4.8億ドルへ成長",
+    "summary": "中長焦点レーザー投影装置の市場動向に関する最新レポートが発表され、市場規模は2032年までに約4.8億米ドルへ達する予測が示されました。高画質・長寿命なレーザー光源の普及が市場拡大を牽引しています。",
+    "insight": "レーザー光源は従来のランプ式と比較して発熱抑制や色再現性に優れており、ホームシアターやオフィス用途での標準化が進んでいます。エンジニアの視点では、投影デバイスのハードウェア要件が「明るさ」から「熱設計と光源寿命の最適化」へとシフトしている点に注目すべきです。",
+    "sourceUrl": "https://www.dreamnews.jp/press/0000352069",
+    "sourceName": "ドリームニュース",
+    "originalImageUrl": "https://www.dreamnews.jp/press/0000352069/images/bodyimage1",
+    "originalImageArticleUrl": "https://www.dreamnews.jp/press/0000352069",
+    "displayDate": "2026-06-12"
+  },
+  "LED Wall Display": {
+    "title": "C SEEDがブガッティとコラボ、MicroLEDテレビを発表",
+    "summary": "高級AVメーカーのC SEEDが、スーパーカーブランドのブガッティと提携したMicroLEDテレビ「C SEED BUGATTI N1」を発表しました。デザインと最先端エンジニアリングを融合させ、ハイエンド住宅やヨット向けに開発された製品です。",
+    "insight": "MicroLEDはモジュール構造による大画面化が可能なため、高級インテリア市場での差別化要因として注目されています。エンジニアの視点では、単なる画質向上だけでなく、高精細な物理的展開メカニズムと映像処理システムの統合技術が高度なハードウェア設計の鍵となっています。",
+    "sourceUrl": "https://ravepubs.com/c-seed-launches-c-seed-bugatti-n1-tv-in-partnership-with-bugatti/",
+    "sourceName": "rAVe [PUBS]",
+    "originalImageUrl": "https://ravepubs.com/wp-content/uploads/2026/06/CSEED-800x400.webp",
+    "originalImageArticleUrl": "https://ravepubs.com/c-seed-launches-c-seed-bugatti-n1-tv-in-partnership-with-bugatti/",
+    "displayDate": "2026-06-12"
+  },
+  "Camera Control": {
+    "title": "Panasonic S9ファームウェア更新の注意喚起",
+    "summary": "Panasonicのミラーレスカメラ「LUMIX S9」において、専用アプリ「Lumix Lab」経由のファームウェア更新（Ver 2.0）でカメラが正常に動作しなくなる不具合が報告されました。現在はアプリ経由の更新を避け、PCでファイルをダウンロードしてメモリカードから更新することが推奨されています。",
+    "insight": "デバイスのファームウェア更新を無線またはアプリ経由で行う際の、通信断絶やプロセスエラーのリスクを再確認させる事例です。エンジニアの観点からは、ミッションクリティカルなハードウェアにおいて、信頼性の高い「オフライン更新（物理メディア経由）」をバックアップとして維持する重要性が浮き彫りになっています。",
+    "sourceUrl": "https://www.dpreview.com/news/5016564681/panasonic-s9-v2-update-lumix-lab-issues",
+    "sourceName": "Digital Photography Review (dpreview.com)",
+    "originalImageUrl": "https://4.img-dpreview.com/files/p/E~C213x0S3413x2560T1200x900~articles/5016564681/panasonic_s9_on_blue_background.jpeg",
+    "originalImageArticleUrl": "https://www.dpreview.com/news/5016564681/panasonic-s9-v2-update-lumix-lab-issues",
+    "displayDate": "2026-06-12"
+  }
+}
