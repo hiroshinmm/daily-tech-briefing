@@ -1,0 +1,102 @@
+{
+  "SRD / XR": {
+    "title": "東大VRセンターに聞く「メタバース教育」の可能性",
+    "summary": "東洋経済オンラインが東大VRセンターを取材。メタバースを単なる会議室や雑談の場として使うだけでなく、現実では困難な「疑似体験」を通じた深い学びの場として活用することが、教育現場での成功のカギであると論じています。",
+    "insight": "メタバース開発においては、UXの再現性や没入感が学習効果に直結するため、UI/UX設計の重要性が増しています。教育用プラットフォームの構築では、インタラクションと疑似体験による認知負荷の最適化がエンジニアリング上の大きな挑戦となります。",
+    "sourceUrl": "https://toyokeizai.net/articles/-/633661?page=3",
+    "sourceName": "東洋経済オンライン",
+    "originalImageUrl": "https://tk.ismcdn.jp/mwimgs/7/7/1200xm/img_77f37ffa3723bd1f6a8737918fd898a2119310.jpg",
+    "originalImageArticleUrl": "https://toyokeizai.net/articles/-/633661?page=3",
+    "displayDate": "2026-06-13"
+  },
+  "AI": {
+    "title": "汎用LLMが専門医療AIを上回る精度に",
+    "summary": "Nature誌に掲載された研究で、汎用大規模言語モデル（LLM）が、特定の医療タスク向けに設計された専門的な医療AIツールを、医療関連のベンチマークテストにおいて上回る性能を示したことが報告されました。",
+    "insight": "特化型AIの優位性が揺らぎ、汎用モデルのスケールメリットが専門領域にまで浸透していることを示唆しています。エンジニアは、独自のドメイン特化モデルを構築する前に、最新の汎用モデルの推論能力とRAGの組み合わせで十分な成果が出ないか再評価すべき時期に来ています。",
+    "sourceUrl": "https://www.nature.com/articles/s41591-026-04431-5",
+    "sourceName": "Nature",
+    "originalImageUrl": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41591-026-04431-5/MediaObjects/41591_2026_4431_Fig1_HTML.png",
+    "originalImageArticleUrl": "https://www.nature.com/articles/s41591-026-04431-5",
+    "displayDate": "2026-06-13"
+  },
+  "Gaming Monitor": {
+    "title": "Acer 5K MiniLED vs OLED：次世代モニターの選択肢",
+    "summary": "Acerが投入した最新の5K MiniLEDゲーミングモニターのレビュー記事が話題。高解像度による精細な描画能力は評価される一方、依然としてOLED（有機EL）の圧倒的なコントラストと応答速度がゲーマーの心を引きつけており、技術選定の難しさが浮き彫りになっています。",
+    "insight": "MiniLEDは高輝度と焼き付きリスクの低さが強みですが、ゲーミングにおける応答速度と黒の沈み込みでは依然としてOLEDが優位です。エンジニアとしては、用途（クリエイティブワーク重視か、競技性重視か）に応じたパネル技術のトレードオフを理解しておくことが重要です。",
+    "sourceUrl": "https://www.digitaltrends.com/home-theater/i-tried-acers-new-5k-miniled-gaming-monitor-and-oled-kept-popping-into-my-head/",
+    "sourceName": "Digital Trends",
+    "originalImageUrl": "https://www.digitaltrends.com/tachyon/2026/06/MiniLED-vs-OLED-Hands-On-Computex-2026.jpg?resize=1200%2C630",
+    "originalImageArticleUrl": "https://www.digitaltrends.com/home-theater/i-tried-acers-new-5k-miniled-gaming-monitor-and-oled-kept-popping-into-my-head/",
+    "displayDate": "2026-06-13"
+  },
+  "Projector": {
+    "title": "照明一体型プロジェクターが進化、初の4K・3色レーザー搭載モデル登場",
+    "summary": "照明一体型3in1プロジェクター「Aladdin X」シリーズに、待望の4K対応かつ3色レーザー光源を採用した新モデル「Aladdin X3 Laser 4K」が登場しました。これまで設置の難しさから敬遠されがちだったホームシアター環境が、天井照明という既存のインフラを活用することで、より身近で高品質なものへと進化しています。",
+    "insight": "3色レーザー光源（RGBレーザー）は、従来のLEDや単色レーザーに比べて広色域かつ高輝度であり、家庭用プロジェクターの画質を劇的に引き上げる技術です。光学エンジンの小型化と排熱設計の最適化が、このようなフォームファクタで実現されている点はハードウェアエンジニアリングとしても非常に興味深いトピックです。",
+    "sourceUrl": "https://news.livedoor.com/topics/detail/31528673/",
+    "sourceName": "ライブドアニュース",
+    "originalImageUrl": "https://image.news.livedoor.com/newsimage/stf/3/3/33866_1841_e1c2d59d3111c747d8fd6a441d2e67b4.jpg",
+    "originalImageArticleUrl": "https://news.livedoor.com/topics/detail/31528673/",
+    "displayDate": "2026-06-13"
+  },
+  "TV": {
+    "title": "Samsung OLEDがPantone認証を取得した技術背景",
+    "summary": "SamsungのOLED TVが、高度な色再現性を証明する「Pantone Validated ArtfulColor」認証を取得しました。実環境での照明下でも正確な色を維持する技術的工夫についてSamsungが詳細を明かしています。",
+    "insight": "ディスプレイのカラーマネジメントにおいて、単なる色域の広さだけでなく、周囲の環境光との相互作用を考慮したキャリブレーション技術が重要になっています。UI/UX開発においても、ハードウェアの特性を理解した上での正確なカラーレンダリングの重要性が増しています。",
+    "sourceUrl": "https://news.samsung.com/uk/interview-how-samsung-oled-tv-achieved-pantone-validated-artfulcolor-certification",
+    "sourceName": "Samsung",
+    "originalImageUrl": "https://img.global.news.samsung.com/uk/wp-content/uploads/2026/06/Samsung-TVs-and-Displays-Samsung-OLED-TV-Pantone%C2%AE-Validated-ArtfulColor-Certification_Thumb932.jpg",
+    "originalImageArticleUrl": "https://news.samsung.com/uk/interview-how-samsung-oled-tv-achieved-pantone-validated-artfulcolor-certification",
+    "displayDate": "2026-06-13"
+  },
+  "SONY": {
+    "title": "ソニーがPlayStationブランド初の27インチゲーミングモニターを発表",
+    "summary": "ソニーはPlayStationブランドとしては初となる27インチのゲーミングモニターを発表しました。VRR（可変リフレッシュレート）への対応に加え、DualSenseコントローラーを掛けるための専用フックを備えるなど、デスク環境でのPS5体験を最適化する設計が特徴です。",
+    "insight": "コンソール機専用のUIやUX設計だけでなく、周辺機器との物理的な統合（コントローラーフックなど）によりデスク回りのエコシステムを強化する戦略は、ハードウェア設計のUX向上において非常に参考になります。VRR対応など、高い入力応答性が求められるゲーミングディスプレイ市場への本格参入は、ゲーミングデバイスのハードウェア要件を再定義する動きと言えます。",
+    "sourceUrl": "https://www.toy-people.com/jp/?p=104996",
+    "sourceName": "玩具人 TOY PEOPLE",
+    "originalImageUrl": "https://img.toy-people.com/member/176293425719.jpg",
+    "originalImageArticleUrl": "https://www.toy-people.com/jp/?p=104996",
+    "displayDate": "2026-06-13"
+  },
+  "LED Wall Display": {
+    "title": "Sonyの135インチLED「Crystal LED UNIFY」登場",
+    "summary": "会議室やコミュニティスペース向けに設計されたオールインワン型LEDディスプレイ「Crystal LED UNIFY」が発表されました。135インチの大画面でありながらパッケージ化されており、2名で約1時間という短時間での設置が可能です。専用の電気工事を最小限に抑える省電力設計が特徴です。",
+    "insight": "AV機器の導入において、設置の複雑さと電力供給の問題は長年のボトルネックでした。本製品のような『オールインワン化』は、複雑な統合環境を避けたい企業導入において、ソフトウェアエンジニアが関与する制御システムの簡素化やメンテナンス負荷の軽減にも大きく寄与します。",
+    "sourceUrl": "//www.ledinside.com/news/2026/6/2026_06_12_04",
+    "sourceName": "LEDinside",
+    "originalImageUrl": null,
+    "originalImageArticleUrl": "//www.ledinside.com/news/2026/6/2026_06_12_04",
+    "displayDate": "2026-06-13"
+  },
+  "TCL": {
+    "title": "TCL、Google GeminiによるTV設定の自動化にいち早く対応",
+    "summary": "TCLのGoogle TVモデルにおいて、生成AI「Gemini」を活用した高度なTVハードウェア調整機能が提供されます。ユーザーは自然言語によるコマンドで画質設定や各種環境設定を直接操作可能になり、複雑なメニュー操作が不要になります。",
+    "insight": "家電のUI/UXにおいて、従来の階層型メニューからLLMを用いた自然言語インターフェースへの移行が本格化しています。エンジニアとしては、デバイス固有のハードウェアパラメータをLLMが安全かつ正確に制御するための、セマンティックなAPI設計やコンテキスト管理の重要性が高まっている点に注目すべきです。",
+    "sourceUrl": "https://techaeris.com/2026/06/12/tcl-google-advanced-gemini-tv-calibration/",
+    "sourceName": "Techaeris",
+    "originalImageUrl": "https://techaeris.com/wp-content/uploads/2026/06/TCL-First-to-Roll-Out-New-Google-Gemini-TV-Controls.jpg",
+    "originalImageArticleUrl": "https://techaeris.com/2026/06/12/tcl-google-advanced-gemini-tv-calibration/",
+    "displayDate": "2026-06-13"
+  },
+  "Camera Control": {
+    "title": "DJIとInsta360が特許侵害で泥沼の法廷闘争へ",
+    "summary": "ジンバルカメラ市場で競合するDJIとInsta360が、米国で互いに特許侵害訴訟を提起した。DJIはLuna Ultraの発売に合わせて提訴し、Insta360も即座にカウンター訴訟で応戦。対象はジンバル制御や被写体追跡アルゴリズムなど、両社のコア技術に及んでいる。",
+    "insight": "ハードウェアのコモディティ化が進む中、特許は単なる防衛手段を超え、競合の市場参入を阻止する強力な武器となっています。エンジニアとしては、自社のアルゴリズムや制御方式が特許として権利化されているか、あるいは他社侵害のリスクをどう低減するかの「パテントランドスケープ」を意識することが、製品開発の重要なスキルになります。",
+    "sourceUrl": "https://www.dpreview.com/news/9204768698/dji-insta360-lawsuits-luna-ultra-osmo-pocket-4p-filed",
+    "sourceName": "Digital Photography Review",
+    "originalImageUrl": "https://3.img-dpreview.com/files/p/E~C0x0S3413x2560T1200x900~articles/9204768698/two_camera_gimbals_float_above_an_orange_gradient.jpeg",
+    "originalImageArticleUrl": "https://www.dpreview.com/news/9204768698/dji-insta360-lawsuits-luna-ultra-osmo-pocket-4p-filed",
+    "displayDate": "2026-06-13"
+  },
+  "Production Monitor": {
+    "title": "Puget Bench for Unreal Engineが登場",
+    "summary": "Puget SystemsがUnreal Engine向けのリアルワールド性能ベンチマーク「Puget Bench for Unreal Engine」を発表しました。ワークステーションのハードウェア性能を実際の制作ワークフローに基づき評価できるよう設計されており、映像制作現場でのハードウェア選定の標準指標となることが期待されます。",
+    "insight": "クリエイティブツール向けベンチマークは、CPU・GPUのボトルネック特定や、レンダリング負荷の高いプロジェクトでのハードウェア要件を定量化する上で非常に有益です。特にバーチャルプロダクションのようなリアルタイムレンダリングが重視される分野において、エンジニアが最適なパフォーマンスチューニングを行うための重要なツールとなります。",
+    "sourceUrl": "https://www.provideocoalition.com/puget-labs-announces-puget-bench-for-unreal-engine/",
+    "sourceName": "ProVideo Coalition",
+    "originalImageUrl": "https://www.provideocoalition.com/wp-content/uploads/pugetbenchunrealengine001.jpg",
+    "originalImageArticleUrl": "https://www.provideocoalition.com/puget-labs-announces-puget-bench-for-unreal-engine/",
+    "displayDate": "2026-06-13"
+  }
+}
