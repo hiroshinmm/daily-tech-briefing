@@ -1,0 +1,102 @@
+{
+  "AI": {
+    "title": "Anthropic「ミュトス級AI」提供停止：地政学リスクとAI",
+    "summary": "米政府の指示により、Anthropic社の最上位モデルが安全保障上の懸念から提供停止となりました。AIの技術的進化が国家安全保障の文脈で制限を受ける事例であり、開発・利用における地政学的リスクが顕在化しています。",
+    "insight": "AIモデルの国際展開には、技術的性能だけでなく、各国の輸出管理や安全保障規制への対応が不可欠となります。エンジニアは、モデルのデプロイ戦略においてリージョン制限やコンプライアンス要件を設計段階で考慮すべきです。",
+    "sourceUrl": "https://www.nikkei.com/article/DGXZQOGN130L80T10C26A6000000/",
+    "sourceName": "日本経済新聞",
+    "originalImageUrl": "https://article-image-ix.nikkei.com/https%3A%2F%2Fimgix-proxy.n8s.jp%2FDSXZQO3163642013062026000000-1.jpg?auto=compress&bg=FFFF&crop=focalpoint&fit=crop&fm=jpg&fp-x=0.75&fp-y=0.43&h=630&w=1200&s=4e652e4eb9dd30f3fde175018cffcb6f",
+    "originalImageArticleUrl": "https://www.nikkei.com/article/DGXZQOGN130L80T10C26A6000000/",
+    "displayDate": "2026-06-14"
+  },
+  "SRD / XR": {
+    "title": "教育現場におけるメタバース活用の最前線",
+    "summary": "東大VRセンターへの取材を通じて、教育現場でのメタバースの有効な活用法が明らかになりました。単なる会議や議論だけでなく、VRによる没入型の疑似体験が学習効果を高める鍵として注目されています。",
+    "insight": "XRエンジニアとしては、単なるツール開発にとどまらず、学習意欲を向上させるためのUI/UX設計が重要になります。教育という文脈において、どのような体験が最も深い学び（深い没入感）に寄与するかの再定義が求められています。",
+    "sourceUrl": "https://toyokeizai.net/articles/-/633661?page=3",
+    "sourceName": "東洋経済オンライン",
+    "originalImageUrl": "https://tk.ismcdn.jp/mwimgs/7/7/1200xm/img_77f37ffa3723bd1f6a8737918fd898a2119310.jpg",
+    "originalImageArticleUrl": "https://toyokeizai.net/articles/-/633661?page=3",
+    "displayDate": "2026-06-14"
+  },
+  "Production Monitor": {
+    "title": "Insta360対DJI、特許侵害で泥沼の法廷闘争へ",
+    "summary": "動画業界のライバルであるInsta360とDJIが、米国内で特許侵害を巡る激しい法廷闘争を繰り広げています。DJIの提訴に対し、Insta360はジンバル制御やテレメトリオーバーレイなど5つの特許を主張し、即座に反訴を行いました。この対立は両社の主要製品の市場展開に影響を与える可能性があり、今後の動向が注目されています。",
+    "insight": "コンシューマー向け映像機器市場において、ハードウェアとソフトウェアの境界線が曖昧になる中、アルゴリズム特許が競争優位の要となっています。エンジニアの視点では、手ブレ補正や映像処理スタックの独自性が、法的な防波堤としていかに重要かを再確認する良い事例です。",
+    "sourceUrl": "https://www.cined.com/insta360-countersues-dji-over-luna-ultra-patent-war-asserting-five-u-p-patents/",
+    "sourceName": "CineD",
+    "originalImageUrl": "https://www.newsshooter.com/wp-content/uploads/2026/06/IMG_4716.jpg",
+    "originalImageArticleUrl": "https://www.newsshooter.com/2026/06/12/zinecontrol-is-now-available-on-the-app-store/?utm_source=rss&utm_medium=rss&utm_campaign=zinecontrol-is-now-available-on-the-app-store",
+    "displayDate": "2026-06-14"
+  },
+  "TCL": {
+    "title": "Avaco、CSOT向けスパッタリング装置の検収を完了",
+    "summary": "TCL傘下のCSOT（China Star Optoelectronics Technology）に対し、Avacoが「低ダメージスパッタリング装置」の検収を完了したと発表しました。これは製造工程の効率化に寄与するものです。",
+    "insight": "ディスプレイ製造におけるスパッタリング工程は、薄膜形成時のダメージ抑制が品質に直結します。今回の検収完了は、CSOTが製造ラインで高度な薄膜成膜プロセスを確立し、パネル性能と歩留まり向上を狙っていることを示唆しています。",
+    "sourceUrl": "https://www.thelec.net/news/articleView.html?idxno=11298",
+    "sourceName": "thelec.net",
+    "originalImageUrl": "https://cdn.thelec.net/news/photo/202606/11298_11329_2338.jpg",
+    "originalImageArticleUrl": "https://www.thelec.net/news/articleView.html?idxno=11298",
+    "displayDate": "2026-06-14"
+  },
+  "Gaming Monitor": {
+    "title": "ソニーがPS5専用27インチモニターを発表",
+    "summary": "ソニーがPS5ユーザー向けに最適化された27インチのゲーミングモニターを発表しました。VRR（可変リフレッシュレート）対応に加え、DualSenseコントローラーとの連携機能（フック）を備えており、デスク上でのPS5体験を最大化することを目的とした設計が特徴です。",
+    "insight": "コンソール専用の周辺機器としてのモニターは、PC向けとは異なるUI/UX統合が強みです。特にコントローラー側の信号とモニターの表示タイミングを同期させるなどの独自機能は、低遅延や没入感を重視するゲーミング環境のハードウェア設計において、今後の新たなトレンドになる可能性があります。",
+    "sourceUrl": "https://www.toy-people.com/en/?p=104996",
+    "sourceName": "玩具人 TOY PEOPLE",
+    "originalImageUrl": "https://img.toy-people.com/member/176293425719.jpg",
+    "originalImageArticleUrl": "https://www.toy-people.com/en/?p=104996",
+    "displayDate": "2026-06-14"
+  },
+  "SONY": {
+    "title": "ソニーがPlayStation初の27インチゲーミングモニターを発表",
+    "summary": "ソニーがPlayStationブランドを冠した初の27インチゲーミングモニターを発表しました。VRR（可変リフレッシュレート）対応や、DualSenseコントローラーを掛けておける専用フックを備えるなど、デスク環境でのPS5体験に特化した設計が特徴です。",
+    "insight": "コンソール特化の周辺機器開発は、UI/UXの一貫性を高める強力な戦略です。エンジニアの視点では、VRRなどのハードウェア制御レベルでの最適化が、ユーザーの没入感にどう寄与するかという点において、デバイス間連携のベストプラクティスとして参考になります。",
+    "sourceUrl": "https://www.toy-people.com/jp/?p=104996",
+    "sourceName": "玩具人 TOY PEOPLE",
+    "originalImageUrl": "https://img.toy-people.com/member/176293425719.jpg",
+    "originalImageArticleUrl": "https://www.toy-people.com/jp/?p=104996",
+    "displayDate": "2026-06-14"
+  },
+  "TV": {
+    "title": "2026年W杯とTV技術の進化：MiniLED競争の加速",
+    "summary": "2026年のFIFAワールドカップ開催に向け、北米市場を中心にMiniLED TVのシェア争いが激化しています。高画質化と大画面化が求められる中、スポーツ観戦需要がテレビメーカーの技術競争を牽引する構図が鮮明になっています。",
+    "insight": "エンジニア視点では、スポーツなどの高速な動きを滑らかに表現するための高リフレッシュレート処理や、MiniLEDのローカルディミング制御アルゴリズムの最適化が製品競争力の鍵です。ハードウェアとソフトウェアの協調設計が、次世代映像体験をどう変えるかに注目です。",
+    "sourceUrl": "https://www.communicationstoday.co.in/world-cup-2026-sets-up-a-decisive-quarter-in-the-north-america-miniled-tv-race/",
+    "sourceName": "Communications Today",
+    "originalImageUrl": "https://www.communicationstoday.co.in/wp-content/uploads/2026/06/World-Cup-2026-sets-up-a-decisive-quarter-in-the-North-America-MiniLED-TV-race.jpg",
+    "originalImageArticleUrl": "https://www.communicationstoday.co.in/world-cup-2026-sets-up-a-decisive-quarter-in-the-north-america-miniled-tv-race/",
+    "displayDate": "2026-06-14"
+  },
+  "Projector": {
+    "title": "照明一体型プロジェクター「Aladdin X3」登場",
+    "summary": "照明とプロジェクターを融合させた「Aladdin X3 Laser 4K」が国内発表されました。日亜化学工業製の3色レーザー光源を採用し、4Kの高解像度と鮮やかな色彩表現を実現。既存モデルからの買い替えユーザー向けに最大10万円の割引キャンペーンも実施されます。",
+    "insight": "日亜化学のレーザー技術を家庭用インテリアに落とし込んだ点がエンジニアリング的に注目です。光源の小型化と高輝度化が進むことで、ホームシアター市場は「機材を置く」から「住環境に溶け込ませる」設計思想へシフトしています。",
+    "sourceUrl": "https://www.chiba-tv.com/plus/detail/amp/2026061739379",
+    "sourceName": "チバテレ＋プラス",
+    "originalImageUrl": "https://img.jp.ekkowassets.com/c_limit,w_360,f_auto,q_auto:eco/ch/images/1438505565041640710/origin_1.jpg",
+    "originalImageArticleUrl": "https://www.chiba-tv.com/plus/detail/amp/2026061739379",
+    "displayDate": "2026-06-14"
+  },
+  "Camera Control": {
+    "title": "最先端カメラ技術が深海の新種31を発見",
+    "summary": "最新のカメラ技術を駆使し、これまで記録が困難だった深海の新種31種が数日間で発見・撮影されました。微細で壊れやすい生物の姿を捉える技術革新が、科学調査において大きな役割を果たしています。",
+    "insight": "過酷な環境下での高解像度撮影には、高感度センサーだけでなく、微振動を抑える高度な光学設計や低ノイズ処理の技術が不可欠です。エンジニアリングの視点では、極限環境における画像解析パイプラインの構築と、ハードウェアの信頼性維持の重要性が再認識されます。",
+    "sourceUrl": "https://petapixel.com/2026/06/13/31-otherworldly-new-deep-sea-species-photographed-with-cutting-edge-camera-technology/",
+    "sourceName": "PetaPixel",
+    "originalImageUrl": "https://petapixel.com/assets/uploads/2026/06/feature-strange-creatures-deep-sea.jpg",
+    "originalImageArticleUrl": "https://petapixel.com/2026/06/13/31-otherworldly-new-deep-sea-species-photographed-with-cutting-edge-camera-technology/",
+    "displayDate": "2026-06-14"
+  },
+  "LED Wall Display": {
+    "title": "Bally’sが選んだデジタルサイネージの未来",
+    "summary": "大手カジノ・エンターテインメント企業のBally’sが、デジタルサイネージ運用を現代化するためにNoviSignのソフトウェアを採用しました。店舗全体のディスプレイ管理とコンテンツ配信の効率化を目指す動きです。",
+    "insight": "レガシーな運用からの脱却として、クラウドベースのコンテンツ管理システム(CMS)への移行が加速しています。ソフトウェアによる一括管理は、ディスプレイの運用負荷を下げるだけでなく、APIを通じたリアルタイムなデータ連携による高度な顧客体験の実現を可能にします。",
+    "sourceUrl": "https://www.digitalsignagetoday.com/news/ballys-taps-novisign-to-modernize-digital-signage-operations/",
+    "sourceName": "Digital Signage Today",
+    "originalImageUrl": "https://nmgprod.s3.amazonaws.com/media/file/36/9a/64e9f51cacf9d130250d23293ee4/cover_image__GHXa5SL4__Novi_Sign_Ballys.webp.360x190_q85_crop_upscale.webp",
+    "originalImageArticleUrl": "https://www.digitalsignagetoday.com/news/ballys-taps-novisign-to-modernize-digital-signage-operations/",
+    "displayDate": "2026-06-14"
+  }
+}
