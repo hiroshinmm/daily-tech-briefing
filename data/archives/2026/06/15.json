@@ -1,0 +1,102 @@
+{
+  "SRD / XR": {
+    "title": "クラスター×トヨタの共創VR、世界アワードのファイナリストに選出",
+    "summary": "クラスターとトヨタ自動車が共同開発した「爆創クラブ Portable LBE Edition」が、世界最大級のXRアワード「2026 Auggie Awards」のファイナリストに選出されました。XR技術と自動車産業の知見を融合させた体験型コンテンツとして、国際的な評価を得ています。",
+    "insight": "メタバースプラットフォームと大手メーカーの協業により、LBE（Location Based Entertainment）分野のクオリティが新たな段階へ到達しています。空間コンピューティングのUI/UX設計における、リアルとデジタルの融合手法はエンジニアリングの観点でも非常に示唆に富んでいます。",
+    "sourceUrl": "https://prtimes.jp/main/html/rd/p/000000446.000017626.html",
+    "sourceName": "PR TIMES",
+    "originalImageUrl": "https://prcdn.freetls.fastly.net/release_image/17626/446/17626-446-3791ad2deb0ebec4f0c7d13db2d825e1-1920x1080.png?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+    "originalImageArticleUrl": "https://prtimes.jp/main/html/rd/p/000000446.000017626.html",
+    "displayDate": "2026-06-15"
+  },
+  "AI": {
+    "title": "米政府、AnthropicのAIモデルに規制か",
+    "summary": "米国政府がAnthropicに対し、同社の最先端AIモデルへのグローバルなアクセスを制限するよう求めたことが報じられました。セキュリティや国家安全保障上の懸念が背景にあり、主要なAIモデルに対するガバナンスと国際的な提供範囲のあり方が大きな論点となっています。",
+    "insight": "AIモデルの「輸出管理」が現実的な課題として浮上しており、エンジニアは今後のAPI提供やデプロイにおけるリージョン制限の可能性を考慮する必要があります。モデルの性能だけでなく、コンプライアンス要件がアーキテクチャ設計に与える影響を注視すべきです。",
+    "sourceUrl": "https://www.aljazeera.com/news/2026/6/14/us-asks-anthropic-to-block-global-access-to-top-ai-models-why-it-matters",
+    "sourceName": "Al Jazeera",
+    "originalImageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/02/reuters_69a20fba-1772228538.jpg?resize=1920%2C1440",
+    "originalImageArticleUrl": "https://www.aljazeera.com/news/2026/6/14/us-asks-anthropic-to-block-global-access-to-top-ai-models-why-it-matters",
+    "displayDate": "2026-06-15"
+  },
+  "Production Monitor": {
+    "title": "Insta360対DJI、特許侵害訴訟が激化",
+    "summary": "映像機器市場を牽引するInsta360とDJIの間で特許訴訟が激化しています。Insta360はDJIの訴訟に対し、ジンバル安定化やテレメトリオーバーレイ技術など5つの特許を主張し、米国で逆提訴を行いました。この法廷闘争は、Luna Ultraなどの新製品の市場展開に影響を与える可能性があるとして注目されています。",
+    "insight": "技術的な差別化が難しくなる中、特許ポートフォリオを武器にした市場競争が激化しています。エンジニアとしては、自社の技術資産を適切に保護・管理することの重要性と、競合のIP戦略を早期に分析する視点がますます重要になっています。",
+    "sourceUrl": "https://www.cined.com/insta360-countersues-dji-over-luna-ultra-patent-war-asserting-five-u-s-patents/",
+    "sourceName": "CineD",
+    "originalImageUrl": "https://www.cined.com/content/uploads/2026/06/Insta360-vs-DJI-feat-300x169.jpg",
+    "originalImageArticleUrl": "https://www.cined.com/insta360-countersues-dji-over-luna-ultra-patent-war-asserting-five-u-s-patents/",
+    "displayDate": "2026-06-15"
+  },
+  "TCL": {
+    "title": "TCLスマホに新機能、ワンタップで電子書籍へ",
+    "summary": "TCLの新型スマートフォン「NXTPAPER 70 Pro」に、ディスプレイを電子書籍リーダーモードに瞬時に切り替える専用ボタンが搭載されました。この機能は、長時間の読書でも目に優しい環境をワンタッチで実現します。",
+    "insight": "ハードウェアレベルでのモード切替ボタンの実装は、UI/UXの最適化において非常に興味深いアプローチです。OS側の設定メニューを介さずに状態遷移を物理キーにバインドすることで、特定の利用シーン（読書）への没入感を高める効果が期待できます。",
+    "sourceUrl": "https://www.gogi.in/tcl-nxtpaper-70-pro-smartphone-has-a-dedicated-key-that-turns-your-phone-into-an-e-reader.html",
+    "sourceName": "gogi.in",
+    "originalImageUrl": "https://www.gogi.in/wp-content/uploads/2026/06/TCL-NXTPAPER-70-Pro.png",
+    "originalImageArticleUrl": "https://www.gogi.in/tcl-nxtpaper-70-pro-smartphone-has-a-dedicated-key-that-turns-your-phone-into-an-e-reader.html",
+    "displayDate": "2026-06-15"
+  },
+  "SONY": {
+    "title": "ソニー「α7R VI」が登場！6690万画素の衝撃",
+    "summary": "ソニーの次世代ミラーレス一眼カメラ「α7R VI」の外観レビューが公開されました。最大6690万画素という圧倒的な解像度を実現し、プロフェッショナルな映像制作現場での利用が期待される注目機種です。すでにテスト機の目撃情報も相次いでおり、発売に向けた期待が高まっています。",
+    "insight": "6690万画素という超高解像度データは、RAW現像時のパイプラインやデータ転送、ストレージ負荷の観点からエンジニアにとっても興味深い処理対象です。センサーから出力される膨大な非圧縮データをリアルタイムで処理する画像処理エンジン（BIONZ XR等）の最適化技術は、エッジコンピューティングの知見として学ぶべき点が多いです。",
+    "sourceUrl": "https://gigazine.net/news/20260613-sony-alpha7r-vi-appearance/",
+    "sourceName": "GIGAZINE",
+    "originalImageUrl": "https://i.gzn.jp/img/2026/06/13/sony-alpha7r-vi-appearance/00.jpg",
+    "originalImageArticleUrl": "https://gigazine.net/news/20260613-sony-alpha7r-vi-appearance/",
+    "displayDate": "2026-06-15"
+  },
+  "Gaming Monitor": {
+    "title": "ハイリフレッシュレート時代へ：34型360Hz有機ELモニタが登場",
+    "summary": "ASUSの34インチ有機ELゲーミングモニターが米国で発売されました。最大の特徴は360Hzという圧倒的なリフレッシュレートで、従来のOLEDモニターの常識を覆す性能を誇ります。また、RGBストライプ構造の変更により、画質やテキスト表示の向上も期待されています。",
+    "insight": "ついにOLEDモニターでも超高リフレッシュレート化が進んでおり、FPSや格闘ゲーム用途での応答速度競争が新たなステージに入りました。特にサブピクセル配列の変更は、OLEDの弱点であったテキストの滲み改善にも寄与しており、クリエイティブとゲームの両立を目指す環境構築において注視すべきハードウェアトレンドです。",
+    "sourceUrl": "https://www.qoo10.co.id/en/gadget/111837/asus-rog-swift-oled-pg34wcdn-us-launch-360hz-ultrawide/",
+    "sourceName": "Qoo Media",
+    "originalImageUrl": null,
+    "originalImageArticleUrl": "https://www.qoo10.co.id/en/gadget/111837/asus-rog-swift-oled-pg34wcdn-us-launch-360hz-ultrawide/",
+    "displayDate": "2026-06-15"
+  },
+  "TV": {
+    "title": "「テレビ離れ」の裏で起きている意外な変化とは？",
+    "summary": "若年層のテレビ離れが叫ばれる一方で、日本人のテレビ利用形態に新たな変化が起きています。単なる視聴時間の減少ではなく、視聴体験やデバイスの使われ方がどのように変容しているのか、最新の動向が分析されています。",
+    "insight": "ストリーミング配信への移行が進む中で、テレビハードウェアの役割は「受動的な視聴」から「コネクテッドデバイス」へと進化しています。エンジニアとしては、UI/UX設計だけでなく、低遅延配信や広告配信システムなど、テレビのプラットフォーム化に伴う技術的変革に注目すべきです。",
+    "sourceUrl": "https://news.yahoo.co.jp/articles/68e3eb558df486a29c33d82c150ef0b113a1dcd6",
+    "sourceName": "東洋経済オンライン",
+    "originalImageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260615-00947808-toyo-000-1-view.jpg?exp=10800",
+    "originalImageArticleUrl": "https://news.yahoo.co.jp/articles/68e3eb558df486a29c33d82c150ef0b113a1dcd6",
+    "displayDate": "2026-06-15"
+  },
+  "LED Wall Display": {
+    "title": "Hello!マガジンがショッピングモールで展開するLED広告の最前線",
+    "summary": "イギリスのショッピングモールにて、Hello!マガジンがデジタルサイネージを活用した動的なコンテンツ配信を開始しました。従来の静止画広告から、LEDディスプレイを活用した没入感のある映像体験へのシフトが注目されています。",
+    "insight": "デジタルサイネージの運用において、バックエンドのコネクテッド・ワークフロー（接続された制作・配信プロセス）が重要性を増しています。エンジニアとしては、単なるハードウェアの制御だけでなく、コンテンツ管理システム(CMS)と連動したダイナミックな配信パイプラインの設計が、今後の訴求力向上の鍵となるでしょう。",
+    "sourceUrl": "https://www.signlink.co.uk/news/hello-magazine-brings-celebrity-news-to-life-on-uk-shopping-mall-screens/",
+    "sourceName": "SignLink",
+    "originalImageUrl": "https://www.signlink.co.uk/wp-content/uploads/2026/06/INDUSTRY_Hello-main.jpg",
+    "originalImageArticleUrl": "https://www.signlink.co.uk/news/hello-magazine-brings-celebrity-news-to-life-on-uk-shopping-mall-screens/",
+    "displayDate": "2026-06-15"
+  },
+  "Camera Control": {
+    "title": "なぜ軸上色収差の補正はこれほど難しいのか？",
+    "summary": "写真のコントラスト境界に出る緑や紫のフリンジ、「軸上色収差（LoCA）」について解説。光学的な除去が困難な理由と、現像処理における課題について考察した技術記事です。",
+    "insight": "光学設計における物理的な制約を理解することは、ポスト処理の限界点を見極める上で非常に重要です。エンジニアの視点で見ると、ポストプロセッシングにおける収差補正アルゴリズムの複雑さと、計算による最適化の難しさが浮き彫りになります。",
+    "sourceUrl": "https://petapixel.com/2026/06/14/what-is-longitudinal-chromatic-aberration-and-why-is-it-so-hard-to-correct/",
+    "sourceName": "PetaPixel",
+    "originalImageUrl": "https://petapixel.com/assets/uploads/2026/06/loca-story-featured.jpg",
+    "originalImageArticleUrl": "https://petapixel.com/2026/06/14/what-is-longitudinal-chromatic-aberration-and-why-is-it-so-hard-to-correct/",
+    "displayDate": "2026-06-15"
+  },
+  "Projector": {
+    "title": "照明一体型プロジェクター「Aladdin X3」発表",
+    "summary": "照明とスピーカー、プロジェクターが一体化した「Aladdin X」シリーズの最上位モデル「Aladdin X3 Laser 4K」が発表されました。初の4K解像度と日亜化学工業製のRGB 3色レーザー光源を搭載し、設置自由度の高い3in1設計でありながら映像品質を大幅に向上させています。",
+    "insight": "限られた居住空間でエンタメ環境を構築する際、既存の照明器具を活用するプロダクトデザインは、物理的な制約を解決するエンジニアリングの好例です。また、レーザー光源の採用による高コントラスト化は、ホームプロジェクターにおける「光量不足」という長年の課題に対するハードウェア実装面での有力な解といえます。",
+    "sourceUrl": "https://www.chiba-tv.com/plus/detail/amp/2026061739379",
+    "sourceName": "千葉テレビ放送株式会社",
+    "originalImageUrl": "https://img.jp.ekkowassets.com/c_limit,w_360,f_auto,q_auto:eco/ch/images/1438717139840042202/origin_1.jpg",
+    "originalImageArticleUrl": "https://www.chiba-tv.com/plus/detail/amp/2026061739379",
+    "displayDate": "2026-06-15"
+  }
+}
