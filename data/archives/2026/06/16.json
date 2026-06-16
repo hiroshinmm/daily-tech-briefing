@@ -1,0 +1,102 @@
+{
+  "SRD / XR": {
+    "title": "メタレンズ技術がスマホ・ARの未来を変える？",
+    "summary": "Appleが注力する「メタレンズ」技術に関する特許分析が注目されています。従来のレンズと異なり、ナノ構造で光を制御するこの技術は、スマホカメラやARグラスの薄型化・軽量化を大きく前進させる可能性を秘めており、今後のデバイス設計に革命をもたらすかもしれません。",
+    "insight": "メタレンズは、従来の曲面レンズを使わずに平面的な構造で高い集光性能を実現する革新的な光学技術です。特にARグラスの小型化を阻む光学系の課題を解決するキーテクノロジーとなるため、ハードウェアエンジニアは光学モジュールの進化動向を注視すべきでしょう。",
+    "sourceUrl": "https://xtech.nikkei.com/atcl/nxt/column/18/03384/060300016/",
+    "sourceName": "日経クロステック",
+    "originalImageUrl": "https://xtech.nikkei.com/atcl/nxt/column/18/03384/060300016/SNS.jpg?20220512",
+    "originalImageArticleUrl": "https://xtech.nikkei.com/atcl/nxt/column/18/03384/060300016/",
+    "displayDate": "2026-06-16"
+  },
+  "AI": {
+    "title": "SalesforceがAIエージェント開発企業を約5500億円で買収",
+    "summary": "Salesforceが、AI顧客サービスプラットフォームを提供する「Fin」を36億ドルで買収すると発表。自社のAIエージェント機能を強化し、自律的な顧客対応サービスの拡充を目指す動きとして注目されています。",
+    "insight": "AIエージェント市場における大規模な買収は、受動的なチャットボットから自律的にタスクを完遂する「Agentic AI」へのパラダイムシフトを加速させています。エンジニアとしては、単なる回答生成を超えて、ワークフローを跨いで動くエージェント構築の設計能力が今後より重要になります。",
+    "sourceUrl": "https://www.cnbc.com/2026/06/15/salesforce-ai-customer-service-fin-acquistion.html",
+    "sourceName": "CNBC",
+    "originalImageUrl": "https://image.cnbcfm.com/api/v1/image/108270062-1772046888928-gettyimages-2262982960-SLUG.jpeg?v=1772046973&w=1920&h=1080",
+    "originalImageArticleUrl": "https://www.cnbc.com/2026/06/15/salesforce-ai-customer-service-fin-acquistion.html",
+    "displayDate": "2026-06-16"
+  },
+  "SONY": {
+    "title": "ソニーが開発中の「4K 502fps」グローバルシャッターセンサーとは？",
+    "summary": "ソニーが4K解像度で12bit、502fpsという圧倒的な高速読み出しを実現するグローバルシャッターセンサーを開発中であると報じられました。従来のローリングシャッター特有の歪みを排除し、超高速撮影を可能にする革新的な技術です。",
+    "insight": "CMOSセンサーにおいて、解像度・ビット深度・フレームレートのトレードオフを解消する技術開発は、コンピュータビジョンや産業用自動検査、高精度なモーションキャプチャの進化に直結します。特にグローバルシャッターによる歪みゼロの高速撮影は、エッジAIによるリアルタイム物体認識の精度を飛躍的に向上させる重要な要素となります。",
+    "sourceUrl": "https://nofilmschool.com/sony-sensor-rumors",
+    "sourceName": "No Film School",
+    "originalImageUrl": "https://nofilmschool.com/media-library/image.jpg?id=66936106&width=1200&height=600&coordinates=0%2C19%2C0%2C19",
+    "originalImageArticleUrl": "https://nofilmschool.com/sony-sensor-rumors",
+    "displayDate": "2026-06-16"
+  },
+  "TCL": {
+    "title": "TCLが世界トップのテレビブランドへ躍進",
+    "summary": "TCLがグローバル市場においてトップのテレビブランドとしての地位を確立しました。コストパフォーマンスの高いMini-LED技術やQLED製品の普及が成功の要因となっており、業界内でのプレゼンスを急速に高めています。",
+    "insight": "低価格帯からハイエンドまで網羅する垂直統合型の製造能力が、製品競争力を支えています。特にMini-LEDのような高付加価値ディスプレイ技術を大衆化する戦略は、今後の家電市場におけるハードウェア開発のベンチマークとなるでしょう。",
+    "sourceUrl": "https://www.ungeek.ph/2026/06/tcl-breaks-through-as-the-top-global-tv-brand/",
+    "sourceName": "UnGeek",
+    "originalImageUrl": "https://www.ungeek.ph/wp-content/uploads/2026/06/TCL-From-Technology-Leadership-to-Experience-Breakthrough-as-the-Global-No.-1-TV.webp",
+    "originalImageArticleUrl": "https://www.ungeek.ph/2026/06/tcl-breaks-through-as-the-top-global-tv-brand/",
+    "displayDate": "2026-06-16"
+  },
+  "Gaming Monitor": {
+    "title": "Samsungから世界初の6Kゲーミングモニターが登場",
+    "summary": "SamsungがOdysseyラインナップの最新モデルとして、世界初となる6K解像度のゲーミングモニターを発表しました。高精細な映像体験を提供し、ゲーミングディスプレイ市場における技術的なマイルストーンとなります。",
+    "insight": "6Kという超高解像度はピクセル密度を劇的に向上させますが、GPU負荷やレンダリング性能とのバランスがエンジニアリング上の焦点となります。スケーリングアルゴリズムやDSC（Display Stream Compression）技術の実装が、快適なゲーミング体験を左右する重要な鍵となるでしょう。",
+    "sourceUrl": "https://explosionnetwork.com/samsung-launches-worlds-first-6k-gaming-monitor-in-new-odyssey-lineup/",
+    "sourceName": "Explosion Network",
+    "originalImageUrl": "https://explosionnetwork.com/wp-content/uploads/2026/06/Samsung-Launches-Next-Gen-Odyssey-news.jpg",
+    "originalImageArticleUrl": "https://explosionnetwork.com/samsung-launches-worlds-first-6k-gaming-monitor-in-new-odyssey-lineup/",
+    "displayDate": "2026-06-16"
+  },
+  "TV": {
+    "title": "2026年W杯 日本戦の放送・配信スケジュール",
+    "summary": "2026年ワールドカップにおける日本代表のグループステージ全試合について、テレビ放送およびネット配信の予定が公開されました。視聴方法を事前に確認しておくことで、重要な試合を見逃さずに応援できます。",
+    "insight": "大規模なスポーツイベントのライブ配信では、数百万規模の同時接続を捌くインフラの堅牢性が問われます。エンジニアとしては、ストリーミングプラットフォームの負荷分散技術や遅延を最小化するアーキテクチャの進化に注目すると面白いかもしれません。",
+    "sourceUrl": "https://www.goal.com/jp/%E3%83%AA%E3%82%B9%E3%83%88/2026-world-cup-group-f-match-broadcast-schedule/blt0f40cf0dcbb97fa5",
+    "sourceName": "Goal.com",
+    "originalImageUrl": "https://assets.goal.com/images/v3/blt406b37c50354087f/Hannibal-vandijk-kubo-Gyokeres.jpg",
+    "originalImageArticleUrl": "https://www.goal.com/jp/%E3%83%AA%E3%82%B9%E3%83%88/2026-world-cup-group-f-match-broadcast-schedule/blt0f40cf0dcbb97fa5",
+    "displayDate": "2026-06-16"
+  },
+  "Production Monitor": {
+    "title": "映像技術の老舗MRMCが清算へ、業界への影響は？",
+    "summary": "オスカー受賞歴もあるモーションコントロール技術の先駆者、Mark Roberts Motion Control (MRMC)が清算手続きに入りました。Nikonによる買収からわずか57日後の急展開です。現在は資産売却の合意が進められており、事業継続が図られる見込みですが、ハイエンドな撮影現場や機材運用に与える影響が注目されています。",
+    "insight": "ハードウェア企業が短期間で急激な経営判断を迫られる背景には、市場環境の劇的な変化や統合コストの課題が潜んでいます。エンジニアの視点では、特定のニッチな技術資産がどう引き継がれ、エコシステムが維持されるかの動向を注視する必要があります。",
+    "sourceUrl": "https://www.cined.com/mrmc-enters-liquidation-weeks-after-nikon-exit-with-asset-sale-agreed-but-not-yet-closed/",
+    "sourceName": "CineD",
+    "originalImageUrl": "https://www.cined.com/content/uploads/2026/06/MRMC-featured-300x169.jpg",
+    "originalImageArticleUrl": "https://www.cined.com/mrmc-enters-liquidation-weeks-after-nikon-exit-with-asset-sale-agreed-but-not-yet-closed/",
+    "displayDate": "2026-06-16"
+  },
+  "Projector": {
+    "title": "テレビ不要の時代？最新プロジェクターのトレンド",
+    "summary": "最近のテック界隈で「テレビを買い換える代わりにプロジェクターを選ぶ」という選択肢が注目されています。高画質なレーザー光源やGoogle TV内蔵モデル、手軽な天井設置型の普及により、リビングの壁が巨大スクリーン化するライフスタイルが浸透しつつあります。",
+    "insight": "ホームシアター向けプロジェクターの進化は、単なる映像表示装置からOS一体型のプラットフォームへの移行を意味します。特にレーザー技術と短焦点レンズの向上により、エンジニアの作業環境や居住空間におけるハードウェアの設置制約が大幅に解消されています。",
+    "sourceUrl": "https://www.pocket-lint.com/next-tv-could-be-a-projector/",
+    "sourceName": "Pocket-lint",
+    "originalImageUrl": "https://static0.pocketlintimages.com/wordpress/wp-content/uploads/wm/2026/04/dangebi-n2-projector-lens.jpg?w=1600&h=900&fit=crop",
+    "originalImageArticleUrl": "https://www.pocket-lint.com/next-tv-could-be-a-projector/",
+    "displayDate": "2026-06-16"
+  },
+  "Camera Control": {
+    "title": "サードパーティ製AFレンズがZマウントに展開",
+    "summary": "7ArtisansがAPS-C向けAFレンズ「Lite」シリーズをNikon Zマウント向けに発売しました。軽量かつ統一された筐体デザインを持ち、動画撮影時のジンバル運用に最適化されています。他社製AFレンズの動向は、Nikonのライセンス戦略との兼ね合いからも注目されるポイントです。",
+    "insight": "カメラメーカーがライセンス制限を強める中で、サードパーティがAF対応レンズを継続提供する動向は、互換性や知財戦略のバランスを読み解く興味深いケースです。ハードウェア設計の標準化（統一重量・サイズ）は、自動化や運用効率化を求めるエンジニアリングの観点でも示唆に富んでいます。",
+    "sourceUrl": "https://www.dpreview.com/news/3853629933/7artisans-lite-autofocus-primes-z-mount",
+    "sourceName": "Digital Photography Review",
+    "originalImageUrl": "https://3.img-dpreview.com/files/p/E~C0x193S720x540T1200x900~articles/3853629933/7artisans_primes_for_nikon.png",
+    "originalImageArticleUrl": "https://www.dpreview.com/news/3853629933/7artisans-lite-autofocus-primes-z-mount",
+    "displayDate": "2026-06-16"
+  },
+  "LED Wall Display": {
+    "title": "InfoComm 2026：次世代メディアサーバーとST 2110の潮流",
+    "summary": "AV Stumpfl社がInfoComm 2026にて、最新メディアサーバー「PIXERA four GEN2」およびSMPTE ST 2110対応技術を公開します。リアルタイム・オブジェクトトラッキングや高度なスクリーン制御技術を統合し、プロフェッショナルな映像演出の効率化と品質向上を目指す最新の取り組みです。",
+    "insight": "SMPTE ST 2110のようなIPベースの伝送規格への対応は、LEDウォール等の大規模な映像システムを構築するエンジニアにとって必須の要件となっています。特にサーバー側のハードウェア性能とネットワークプロトコルの統合が進むことで、より低遅延で柔軟なマルチディスプレイ構成が可能になるでしょう。",
+    "sourceUrl": "https://ravepubs.com/av-stumpfl-to-showcase-latest-pixera-media-servers-and-screen-technologies-at-infocomm-2026/",
+    "sourceName": "rAVe [PUBS]",
+    "originalImageUrl": "https://ravepubs.com/wp-content/uploads/2026/06/PIXERA-four-GEN2-RS-1-scaled-1-800x482.jpg",
+    "originalImageArticleUrl": "https://ravepubs.com/av-stumpfl-to-showcase-latest-pixera-media-servers-and-screen-technologies-at-infocomm-2026/",
+    "displayDate": "2026-06-16"
+  }
+}
