@@ -1,0 +1,102 @@
+{
+  "SRD / XR": {
+    "title": "次世代ARグラスの基盤となる「Snapdragon Reality Elite」発表",
+    "summary": "QualcommがXRデバイス向けの新旗艦プラットフォーム「Snapdragon Reality Elite」を発表。XREALの次世代ARグラス「XREAL AURA」にも採用され、モバイルXRの処理能力が飛躍的に向上することが期待されています。",
+    "insight": "AI処理と空間コンピューティングに最適化されたこの新チップセットは、ARデバイスのネックだった発熱と遅延の解消が期待されます。エンジニア視点では、Compute Puckによる分散処理設計が、今後のウェアラブル端末の標準構成になるか注目です。",
+    "sourceUrl": "https://news.yahoo.co.jp/articles/f2aaafc45b0885a46f5e7ffc8ed5529408ab2c1b",
+    "sourceName": "ケータイ Watch",
+    "originalImageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260617-00000001-impktw-000-1-view.jpg?exp=10800",
+    "originalImageArticleUrl": "https://news.yahoo.co.jp/articles/f2aaafc45b0885a46f5e7ffc8ed5529408ab2c1b",
+    "displayDate": "2026-06-17"
+  },
+  "AI": {
+    "title": "SpaceXがAIコーディング支援のCursorを買収",
+    "summary": "SpaceXが、AIを活用したプログラミング支援ツール「Cursor」を開発する企業を買収しました。企業価値は600億ドル（約9.6兆円）と評価されており、AIによる開発環境の変革が巨額の投資を呼び込んでいることを象徴するニュースです。",
+    "insight": "開発者の間でデファクトスタンダードになりつつあるCursorが巨大資本傘下に入ったことで、今後エンジニアリング体験がどう統合されるか注目です。AIによるコーディングの自動化が、もはや個別のツール導入段階から産業構造そのものを動かすフェーズに入ったことを示唆しています。",
+    "sourceUrl": "https://www.bloomberg.com/jp/news/articles/2026-06-16/TGQ1F3KJH6V700",
+    "sourceName": "Bloomberg.com",
+    "originalImageUrl": null,
+    "originalImageArticleUrl": "https://www.bloomberg.com/jp/news/articles/2026-06-16/TGQ1F3KJH6V700",
+    "displayDate": "2026-06-17"
+  },
+  "SONY": {
+    "title": "ソニーのシネマカメラ技術が進化、RIALTO 65開発発表",
+    "summary": "ソニーが業務用シネマカメラ「VENICE 2」の可能性を広げるイメージセンサーブロック「RIALTO 65」の開発を発表しました。これにより、 VENICE 2を65mmフォーマットへと拡張可能となり、ハイエンドな映像制作現場における柔軟性と撮影クオリティが大幅に向上します。",
+    "insight": "大型センサーを分離して運用できるRIALTOシステムは、狭所や特殊なアングルでの撮影における物理的制約を打破するハードウェア設計の好例です。プロ向けのハイエンド機材において、システム全体のモジュール化が映像表現の拡張にどう寄与しているかという観点は、エンジニアにとって非常に示唆に富んでいます。",
+    "sourceUrl": "https://videosalon.jp/report/rialto65/",
+    "sourceName": "VIDEO SALON",
+    "originalImageUrl": "https://videosalon.jp/wp-content/uploads/2026/06/7VC00056.jpg",
+    "originalImageArticleUrl": "https://videosalon.jp/report/rialto65/",
+    "displayDate": "2026-06-17"
+  },
+  "TCL": {
+    "title": "TCL、Google Geminiによる音声TV操作に先行対応",
+    "summary": "TCLはGoogleと提携し、最新のAI「Gemini」を活用したTV設定の音声制御機能を一部モデルに導入しました。他社に先駆け、今後60日間はTCL製TVのみで利用可能な独占的な新機能となります。",
+    "insight": "AIアシスタントの統合は、AV家電におけるユーザーインターフェースの大きな転換点です。API連携によるコンシューマーデバイスの制御フローが、LLMの推論能力でどう洗練されていくか注目です。",
+    "sourceUrl": "https://www.msn.com/en-us/lifestyle/shopping/tcl-exclusively-gets-google-s-new-gemini-tv-controls-for-60-days/ar-AA25pkhT",
+    "sourceName": "MSN",
+    "originalImageUrl": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA25pfvi.img?w=612&h=344&m=4&q=80",
+    "originalImageArticleUrl": "https://www.msn.com/en-us/lifestyle/shopping/tcl-exclusively-gets-google-s-new-gemini-tv-controls-for-60-days/ar-AA25pkhT",
+    "displayDate": "2026-06-17"
+  },
+  "TV": {
+    "title": "次世代RGB MiniLED技術、ハイセンスが新発表",
+    "summary": "Hisenseがドバイに新たな地域本部を開設し、次世代技術を搭載した「RGB MiniLED TV」シリーズを発表しました。より高精度な輝度制御と色彩表現が期待される新製品の登場です。",
+    "insight": "MiniLEDはバックライトの微細化によるコントラスト比の向上でOLEDと競合しており、制御アルゴリズムの進化が画質を左右します。ソフトウェアエンジニアの視点では、高度なローカルディミング処理を行う組み込み側のアルゴリズムや、色域変換エンジンの実装において重要な進歩が期待されます。",
+    "sourceUrl": "https://menafn.com/1111266923/Hisense-Inaugurates-New-Regional-Headquarters-In-Dubai-Internet-City-And-Unveils-Next-Generation-RGB-Miniled-TV-Series",
+    "sourceName": "Mena FN",
+    "originalImageUrl": "https://menafn.com/updates/pr/2026-06/16/MI_b9dbaimage_story.jpg",
+    "originalImageArticleUrl": "https://menafn.com/1111266923/Hisense-Inaugurates-New-Regional-Headquarters-In-Dubai-Internet-City-And-Unveils-Next-Generation-RGB-Miniled-TV-Series",
+    "displayDate": "2026-06-17"
+  },
+  "Gaming Monitor": {
+    "title": "ゲーミングモニターの特選セールが続々開始",
+    "summary": "Amazon Prime Dayを控え、ASUSのROG StrixやSamsungのViewFinityなど、ハイエンドなゲーミングモニターが最大40%オフとなる先行セールが活発化しています。高性能モデルの導入を検討するチャンスです。",
+    "insight": "高リフレッシュレートやOLEDパネルの需要が高まる中、Prime Dayに向けた在庫調整と販促が加速しています。エンジニアとしては、開発環境の作業効率改善のために高解像度・広色域のモニターを検証・導入する良い機会と言えます。",
+    "sourceUrl": "https://mashable.com/tech/june-15-asus-rog-strix-oled-gaming-monitor-deal",
+    "sourceName": "Mashable",
+    "originalImageUrl": "https://helios-i.mashable.com/imagery/articles/03aSeLblbDy7RsQtODqOOda/hero-image.fill.size_1200x675.v1781534736.png",
+    "originalImageArticleUrl": "https://mashable.com/tech/june-15-asus-rog-strix-oled-gaming-monitor-deal",
+    "displayDate": "2026-06-17"
+  },
+  "Production Monitor": {
+    "title": "Artlistが大規模レイオフ、AIネイティブへの転換を強行",
+    "summary": "クリエイティブ技術企業Artlistが、全従業員の約40%にあたる200人を解雇しました。昨年の120人増員から一転し、「AIネイティブ」な事業モデルへ完全にピボットするための組織再編です。音楽ライセンスサービスからAIプラットフォームへと進化を遂げてきた同社の急激な方針転換と人員削減は、映像業界やテック市場に波紋を呼んでいます。",
+    "insight": "AI導入による業務効率化が単なるコスト削減を超え、経営モデルの抜本的刷新を迫るフェーズに入っていることを示唆しています。エンジニアとしては、既存のサービスをAIネイティブに再構築する際の技術的負債や、急速なピボットに伴う開発チームの体制維持のリスクについて議論する良い題材です。",
+    "sourceUrl": "https://www.cined.com/a-year-after-hiring-120-people-artlist-lays-off-200-employees/",
+    "sourceName": "CineD",
+    "originalImageUrl": "https://www.cined.com/content/uploads/2026/06/Artlist-2-300x169.png",
+    "originalImageArticleUrl": "https://www.cined.com/a-year-after-hiring-120-people-artlist-lays-off-200-employees/",
+    "displayDate": "2026-06-17"
+  },
+  "Projector": {
+    "title": "Amazonプライムデーは7/10開催決定",
+    "summary": "Amazonプライムデーが7月10日から13日にかけて開催されます。7月7日からの先行セールにはApple製品（iPhone Air含む）も初登場し、注目が集まっています。ガジェット好きには見逃せないセール期間となります。",
+    "insight": "セール時のトラフィック制御や在庫管理システムのアーキテクチャは、エンジニアにとって興味深い大規模分散システムの事例です。特に短期間で膨大な負荷を捌くためのバックエンドの最適化戦略に注目が集まります。",
+    "sourceUrl": "https://av.watch.impress.co.jp/docs/news/2117521.html",
+    "sourceName": "AV Watch",
+    "originalImageUrl": "https://av.watch.impress.co.jp/img/avw/list/2117/521/1.jpg",
+    "originalImageArticleUrl": "https://av.watch.impress.co.jp/docs/news/2117521.html",
+    "displayDate": "2026-06-17"
+  },
+  "Camera Control": {
+    "title": "Sony a7R VI登場：66.8MP積層型センサーの衝撃",
+    "summary": "Sonyの最新フルサイズミラーレス「a7R VI」が発表されました。66.8MP積層型CMOSセンサーを搭載し、最大30fpsの高速連写と優れたダイナミックレンジを両立。新開発のSA型バッテリー採用により、高解像度とスタミナを兼ね備えた、風景・スタジオ撮影の新たな基準となる一台です。",
+    "insight": "本機は積層型センサーによる読み出し速度向上で、高画素機でありながら動画・高速撮影性能を大幅に底上げしています。ただし、最高性能を引き出すには12bit/非可逆圧縮RAWへの切り替えが必要になるなど、ハードウェアの制約をソフトウェアでどう最適化するかのトレードオフが興味深いポイントです。",
+    "sourceUrl": "https://www.dpreview.com/reviews/sony-a7r-vi-review",
+    "sourceName": "DPReview",
+    "originalImageUrl": "https://4.img-dpreview.com/files/p/E~C56x42S3321x2491T1200x900~articles/4042249542/product-shots/sony_a7rvi_three_quarters_beauty.jpeg",
+    "originalImageArticleUrl": "https://www.dpreview.com/reviews/sony-a7r-vi-review",
+    "displayDate": "2026-06-17"
+  },
+  "LED Wall Display": {
+    "title": "次世代LED技術：PlanarのMicroLED新技術発表",
+    "summary": "InfoComm 2026にて、Planar社が「EverPixel」および「TruMicro」技術を発表。LED基板を排除するMicroLEDパッケージアーキテクチャを採用し、部品点数の削減と製造効率の向上を実現。高精細かつ高効率なディスプレイ環境の新たな標準となるか注目される。",
+    "insight": "製造プロセスにおいてLED基板を排除するアプローチは、熱管理と堅牢性の向上においてエンジニアリング上の大きな転換点です。特に高精細ディスプレイでの組み立てコストと品質のトレードオフをどう解決したのか、アーキテクチャの詳細を注視すべきです。",
+    "sourceUrl": "https://ravepubs.com/planar-launches-everpixel-and-trumicro-led-technologies/",
+    "sourceName": "rAVe [PUBS]",
+    "originalImageUrl": "https://ravepubs.com/wp-content/uploads/2026/06/PlanarEverPixelTruMicro-800x400.webp",
+    "originalImageArticleUrl": "https://ravepubs.com/planar-launches-everpixel-and-trumicro-led-technologies/",
+    "displayDate": "2026-06-17"
+  }
+}
