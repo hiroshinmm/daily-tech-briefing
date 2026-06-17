@@ -35,28 +35,22 @@ jobs:
       - name: Install dependencies
         run: npm ci
 
-      # ランナーにプリキャッシュされたChromeが不完全(フォルダはあるが実行ファイルが
-      # 欠落)でインストーラーがスキップしてしまうことがあるため、キャッシュを
-      # 削除してからインストールする。インストーラーがzipのダウンロードのみで
-      # 展開を完了せず正常終了することがあるため、実行ファイルが無ければ
-      # zipを手動展開して補完する
+      # PuppeteerのChromeダウンローダーがランナーイメージ更新の影響で不安定
+      # (キャッシュ不整合やダウンロード後に展開が完了しない等)なため、
+      # ランナーにプリインストールされているGoogle Chromeを優先的に使用する。
+      # 見つからない場合のみPuppeteer付属のChromeをインストールする
       - name: Install Chrome for Puppeteer
         run: |
-          rm -rf "$HOME/.cache/puppeteer"
-          node ./node_modules/puppeteer/lib/cjs/puppeteer/node/cli.js browsers install chrome || true
-          for d in "$HOME"/.cache/puppeteer/chrome/linux-*/; do
-            if [ ! -x "$d/chrome-linux64/chrome" ]; then
-              version=${d%/}
-              version=${version##*linux-}
-              zip="$(dirname "${d%/}")/${version}-chrome-linux64.zip"
-              if [ -f "$zip" ]; then
-                unzip -o -q "$zip" -d "$d"
-                chmod +x "$d/chrome-linux64/chrome"
-              fi
+          for bin in google-chrome google-chrome-stable chromium-browser chromium; do
+            if command -v "$bin" >/dev/null 2>&1; then
+              echo "PUPPETEER_EXECUTABLE_PATH=$(command -v "$bin")" >> "$GITHUB_ENV"
+              echo "Using system browser: $(command -v "$bin")"
+              exit 0
             fi
-            test -x "$d/chrome-linux64/chrome"
           done
-          find "$HOME/.cache/puppeteer/chrome" -maxdepth 3 -name chrome -type f -exec ls -la {} \;
+          echo "No system Chrome found. Installing Puppeteer's bundled Chrome..."
+          rm -rf "$HOME/.cache/puppeteer"
+          node ./node_modules/puppeteer/lib/cjs/puppeteer/node/cli.js browsers install chrome
 
       # Step 1: Fetch News
       - name: Fetch News
