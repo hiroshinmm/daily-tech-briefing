@@ -1,0 +1,102 @@
+{
+  "SRD / XR": {
+    "title": "NVIDIAが「XR AI」を発表、マルチモーダルAIエージェントの時代へ",
+    "summary": "NVIDIAがXRデバイス向けAI基盤「NVIDIA XR AI」のパブリックベータを開始。ARグラス等でマルチモーダルなAIエージェントを構築可能になり、現実空間とAIの統合が加速する。",
+    "insight": "エッジデバイス上で動作するマルチモーダルAIの台頭は、XRにおけるUI/UXを根本から変える可能性があります。開発者は、ローカル推論とクラウドの最適化、空間認識データを活用したインタラクション設計に注目すべきです。",
+    "sourceUrl": "https://ai.watch.impress.co.jp/docs/news/2117991.html",
+    "sourceName": "株式会社インプレス",
+    "originalImageUrl": "https://ai.watch.impress.co.jp/img/aiw/list/2117/991/0200.jpg",
+    "originalImageArticleUrl": "https://ai.watch.impress.co.jp/docs/news/2117991.html",
+    "displayDate": "2026-06-18"
+  },
+  "AI": {
+    "title": "米テックの主戦場へ：AIエージェントの現在地と課題",
+    "summary": "MicrosoftやGoogleが相次いでAIエージェントの強化を発表し、開発の主戦場がチャットボットから自律型エージェントへ移行しています。しかし、Gartnerの調査によると導入率は17%に留まり、期待と実態にはギャップが存在します。一方で、AIがAIを設計する自律開発のリスクも指摘されており、技術進化と実用化のバランスが今後の焦点です。",
+    "insight": "AIエージェントは単なる応答ツールを超え、ツール呼び出し（Function Calling）や推論のループを自律的に実行するアーキテクチャへと進化しています。エンジニアとしては、単なるAPI連携の実装だけでなく、エージェントの意思決定プロセスの監視や、ループの停止条件（Guardrails）の設計が品質管理の鍵となります。",
+    "sourceUrl": "https://business.nikkei.com/atcl/gen/19/00511/061500061/",
+    "sourceName": "日経ビジネス電子版",
+    "originalImageUrl": "https://business.nikkei.com/atcl/gen/19/00511/061500061/fb.jpg",
+    "originalImageArticleUrl": "https://business.nikkei.com/atcl/gen/19/00511/061500061/",
+    "displayDate": "2026-06-18"
+  },
+  "Production Monitor": {
+    "title": "映像制作の自動化：Eddie AIがIconikと統合",
+    "summary": "Iconikのメディアアセット管理（MAM）とEddie AIが統合され、素材のログ記録、セレクト、AIによるラフカット作成がシームレスになりました。これにより、撮影素材から編集の初期段階までの時間が劇的に短縮されます。",
+    "insight": "AIワークフローが単なる生成ツールから、MAMと連携した実務的なパイプラインへと進化しています。API連携によるメタデータ自動処理は、大規模なメディアライブラリを抱えるエンジニアにとって、効率化のヒントとなるでしょう。",
+    "sourceUrl": "https://www.cined.com/eddie-ai-integrates-with-iconik-for-ai-assisted-mam-workflows/",
+    "sourceName": "CineD",
+    "originalImageUrl": "https://www.cined.com/content/uploads/2026/06/pic-1-1-300x169.jpg",
+    "originalImageArticleUrl": "https://www.cined.com/eddie-ai-integrates-with-iconik-for-ai-assisted-mam-workflows/",
+    "displayDate": "2026-06-18"
+  },
+  "Gaming Monitor": {
+    "title": "AOCの高性能2K 360Hz QD-Mini LEDモニターが登場",
+    "summary": "AOCから、2K解像度で360Hzのリフレッシュレート、QD-Mini LEDパネルを採用しHDR1000に対応した、高コスパなゲーミングモニターが発表されました。プロゲーマー向けの高スペックを、手の届きやすい価格で提供することを狙っています。",
+    "insight": "Mini LEDと量子ドット技術を組み合わせたHDR1000の輝度と、360Hzの高速駆動は、UIの応答性や視認性が重要な開発環境において非常に魅力的なスペックです。特に、モニターの残像感がソフトウェアの操作感に与える影響を考慮するエンジニアにとって、このクラスのモニターの普及はハードウェア選定の新たな選択肢となります。",
+    "sourceUrl": "https://www.msn.com/en-us/news/technology/aoc-launches-affordable-2k-360hz-qd-mini-led-monitor-with-hdr1000-brightness/ar-AA25JdwA",
+    "sourceName": "MSN",
+    "originalImageUrl": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA25JsFH.img?w=612&h=344&m=4&q=100",
+    "originalImageArticleUrl": "https://www.msn.com/en-us/news/technology/aoc-launches-affordable-2k-360hz-qd-mini-led-monitor-with-hdr1000-brightness/ar-AA25JdwA",
+    "displayDate": "2026-06-18"
+  },
+  "TCL": {
+    "title": "テレビ業界にAI革命、TCLの次なる戦略",
+    "summary": "TCLなどの主要メーカーがテレビ市場へAIを本格導入しています。画質向上やコンテンツレコメンドだけでなく、ユーザー体験を根本から変えるための「2つの賭け」が始まっており、ハードウェアメーカーがソフトウェアでどう差別化するかが注目されています。",
+    "insight": "AIプロセッサによるアップスケーリングや動的画質補正は既に標準化していますが、今後はOSレベルでの生成AI活用によるパーソナライゼーションが鍵となります。エンジニア視点では、低レイテンシで推論を実行するエッジAIの実装と、プライバシーを考慮したデータ処理パイプラインの構築が、次世代テレビの競争優位性になるでしょう。",
+    "sourceUrl": "https://news.yahoo.co.jp/pickup/6584639",
+    "sourceName": "Yahoo!ニュース",
+    "originalImageUrl": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/6/17/ee15092a8422e8af105c1072199bc48c10614076cc9e4cdb3a33eae4106f918b.jpg",
+    "originalImageArticleUrl": "https://news.yahoo.co.jp/pickup/6584639",
+    "displayDate": "2026-06-18"
+  },
+  "SONY": {
+    "title": "ソニーがスマホ向け新センサー「LYTIA L910」発表",
+    "summary": "ソニーが、モバイル向けイメージセンサー「LYTIA L910」を発表しました。このセンサーの最大の特徴は、新開発のLOFICアーキテクチャを採用した点です。これにより、高輝度な環境下でも白飛びを劇的に抑制し、ダイナミックレンジを大幅に向上させることが可能となります。",
+    "insight": "LOFIC（Lateral Overflow Integration Capacitor）技術により、従来の画素設計では限界があった飽和容量の課題を解決しています。ハードウェアレベルで信号をスタックさせるこのアプローチは、画像処理AIに頼り切らない「物理的に質の高いデータ」を生成するエンジニアリングの好例と言えます。",
+    "sourceUrl": "https://www.msn.com/en-us/lifestyle/shopping/lytia-l910-is-sony-s-first-mobile-camera-sensor-with-lofic-architecture/ar-AA25PSSI",
+    "sourceName": "MSN",
+    "originalImageUrl": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA25Q5el.img?w=612&h=369&m=4&q=100",
+    "originalImageArticleUrl": "https://www.msn.com/en-us/lifestyle/shopping/lytia-l910-is-sony-s-first-mobile-camera-sensor-with-lofic-architecture/ar-AA25PSSI",
+    "displayDate": "2026-06-18"
+  },
+  "TV": {
+    "title": "NHK調査：ついに「高齢者のテレビ離れ」が加速",
+    "summary": "NHK放送文化研究所の最新調査により、これまでテレビ視聴のコア層であった高齢者層においても視聴時間が減少し、「テレビ離れ」が顕著になっていることが明らかになりました。1995年以降で初めての傾向です。",
+    "insight": "マスメディアのリーチ力が低下する中、エンジニアとしては視聴率データ以外の多角的なユーザーエンゲージメント計測の重要性を再認識すべきです。広告・配信プラットフォームの開発において、パーソナライズされた体験提供やマルチデバイス戦略がこれまで以上に求められるフェーズに入っています。",
+    "sourceUrl": "https://mainichi.jp/articles/20260617/k00/00m/040/238000c",
+    "sourceName": "毎日新聞",
+    "originalImageUrl": "https://cdn.mainichi.jp/vol1/2023/08/06/20230806k0000m040218000p/0c10.jpg?2",
+    "originalImageArticleUrl": "https://mainichi.jp/articles/20260617/k00/00m/040/238000c",
+    "displayDate": "2026-06-18"
+  },
+  "Projector": {
+    "title": "XGIMI、天井投影対応のGoogle TVプロジェクター新ラインナップ発表",
+    "summary": "XGIMIが、天井への投影に最適化されたGoogle TV搭載プロジェクターの新モデルを発表。そのうち1機種はウルトラショートスロー（超短焦点）に対応し、壁際からの大画面投影が可能。家庭用ホームシアターの設置スタイルに新たな選択肢を提示しています。",
+    "insight": "ショートスロー技術は空間制約を解決するエンジニアリングの好例です。投影距離を短縮するための複雑な光学設計と、台形補正アルゴリズムによる空間認識技術の進化に注目です。",
+    "sourceUrl": "https://www.qoo10.co.id/en/tech/113681/xgimi-projector-lineup-elfin-flip-mira-google-tv/",
+    "sourceName": "Qoo Media",
+    "originalImageUrl": null,
+    "originalImageArticleUrl": "https://www.qoo10.co.id/en/tech/113681/xgimi-projector-lineup-elfin-flip-mira-google-tv/",
+    "displayDate": "2026-06-18"
+  },
+  "Camera Control": {
+    "title": "VSCOがプロ向け編集ツール「Studio Pro」をローンチ",
+    "summary": "VSCOは、大量の写真を扱うプロフェッショナル向けの新編集ツール「Studio Pro」をiOS版でリリースしました。高速なワークフローと高度な編集機能を備えており、年内にはmacOS版の提供も予定されています。",
+    "insight": "モバイル環境でのRAW現像や大量バッチ処理の高速化は、クリエイティブワークフローのモバイルファースト化を象徴しています。モバイルOSでの高性能化に伴い、ローカルでのマルチスレッド処理やメモリ管理の最適化がツール開発における重要な技術的差別化要因となっています。",
+    "sourceUrl": "https://petapixel.com/2026/06/17/vsco-launches-studio-pro-a-mobile-photo-editor-high-volume-photographers/",
+    "sourceName": "PetaPixel",
+    "originalImageUrl": "https://petapixel.com/assets/uploads/2026/06/Style_Match_Motion-Graphic.mp4",
+    "originalImageArticleUrl": "https://petapixel.com/2026/06/17/vsco-launches-studio-pro-a-mobile-photo-editor-high-volume-photographers/",
+    "displayDate": "2026-06-18"
+  },
+  "LED Wall Display": {
+    "title": "LGが最新Micro LED「MAGNIT」シリーズを発表",
+    "summary": "InfoComm 2026にて、LG ElectronicsがDVLED（Direct View LED）ポートフォリオを拡充。MAGNIT Gen 2やActive Micro LEDなど5つの新ソリューションを発表し、大規模ディスプレイの導入の簡素化と高画質化を推進します。",
+    "insight": "Micro LED技術の進化により、ハードウェアの配線や施工工程が大幅に最適化され、メンテナンス性が向上しています。ソフトウェアエンジニアの視点では、単なる表示デバイスとしてだけでなく、高解像度コンテンツを統合管理するエコシステムの構築が今後さらに重要になるでしょう。",
+    "sourceUrl": "https://ravepubs.com/lg-electronics-to-showcase-additions-to-its-direct-view-led-portfolio-at-infocomm-2026/",
+    "sourceName": "rAVe [PUBS]",
+    "originalImageUrl": "https://ravepubs.com/wp-content/uploads/2026/06/LGInfoComm-2026-800x400.webp",
+    "originalImageArticleUrl": "https://ravepubs.com/lg-electronics-to-showcase-additions-to-its-direct-view-led-portfolio-at-infocomm-2026/",
+    "displayDate": "2026-06-18"
+  }
+}
