@@ -1,0 +1,102 @@
+{
+  "SRD / XR": {
+    "title": "Apple Vision Proで4Dガウシアンスプラッティングが視聴可能に",
+    "summary": "スペインのGracia AIが、Apple Vision Pro向けの4Dガウシアン・スプラッティング（4DGS）視聴アプリ「Gracia: 4DGS Viewer」をリリース。静止画だけでなく動的な空間表現をVRデバイスで体験可能になりました。",
+    "insight": "NeRFに続く次世代の空間表現技術として注目されるGaussian Splattingが、Vision Proのハードウェア性能を活かして実用段階に入っています。今後はフォトグラメトリよりも低コスト・高品質な空間再現として、AR/VR開発のワークフローに組み込まれる可能性が高いです。",
+    "sourceUrl": "https://www.moguravr.com/gracia-4dgs-app-apple-vision-pro-release/",
+    "sourceName": "Mogura VR",
+    "originalImageUrl": "https://assets.moguravr.com/uploads/2018/12/9a2e18a855ee7f8361bf7568081e581c-kix.h46ondz4i9i8-300x158.webp",
+    "originalImageArticleUrl": "https://www.moguravr.com/gracia-4dgs-app-apple-vision-pro-release/",
+    "displayDate": "2026-06-19"
+  },
+  "AI": {
+    "title": "AI時代の開発力：ドメイン知識の重要性",
+    "summary": "Anthropicのイベント「Code with Claude」で、AIによるソフトウェア民主化が加速する中、開発者に求められるスキルが変化していると議論されました。AIがコードを生成する時代において、真の差別化要因は技術力以上に、解決すべき課題を深く理解する「ドメイン知識」であるという指摘です。",
+    "insight": "AIコーディング支援が普及するほど、実装スキル（How）よりも要件定義やドメイン理解（What/Why）の価値が相対的に高まっています。エンジニアは実装作業に時間を割く以上に、事業ドメインへの深い洞察力を磨くことが、キャリアの生存戦略として不可欠になっています。",
+    "sourceUrl": "https://codezine.jp/article/detail/24532",
+    "sourceName": "CodeZine",
+    "originalImageUrl": "https://codezine.jp/static/images/article/24532/24532_ogp.jpg",
+    "originalImageArticleUrl": "https://codezine.jp/article/detail/24532",
+    "displayDate": "2026-06-19"
+  },
+  "Gaming Monitor": {
+    "title": "壊れて不要になったモニター、正しく処分する方法とは？",
+    "summary": "大型家電であるモニターの処分に困っていませんか？多くの自治体の回収ボックスには入らないため、適切な廃棄方法を知る必要があります。この記事では、PC Watchがモニターを処分する際の比較検討を行っており、正しいルールや手順が解説されています。",
+    "insight": "エンジニアのデスク周りには古いモニターが溜まりがちですが、廃棄には環境規制や法令順守が求められます。リサイクルと廃棄の適切なルートを確認しておくことは、サステナビリティの観点でも重要なエンジニアの教養の一つです。",
+    "sourceUrl": "https://pc.watch.impress.co.jp/docs/topic/feature/2118387.html",
+    "sourceName": "PC Watch",
+    "originalImageUrl": "https://pc.watch.impress.co.jp/img/pcw/list/2118/387/01.jpg",
+    "originalImageArticleUrl": "https://pc.watch.impress.co.jp/docs/topic/feature/2118387.html",
+    "displayDate": "2026-06-19"
+  },
+  "TCL": {
+    "title": "TCLのテレビ戦略、GeminiでAI活用へ",
+    "summary": "TCLがテレビの未来を変えるため、GoogleのAI「Gemini」の統合を進めています。競合他社がAIを「話し相手」としての活用に留める中、TCLはGeminiを活用した次世代の視聴体験やインターフェースの革新を目指しており、家電製品におけるAI実装の新しいアプローチとして注目されています。",
+    "insight": "LLMのオンデバイス/クラウド統合は、単なるボイスアシスタントからコンテキストを理解するUIへの移行を示唆しています。ソフトウェアエンジニアとしては、UI/UXがAIによってどう再定義されるか、またその際の低遅延なレスポンスを実現するアーキテクチャ設計が重要な鍵となります。",
+    "sourceUrl": "https://toyokeizai.net/articles/photo/947965",
+    "sourceName": "東洋経済オンライン",
+    "originalImageUrl": "https://tk.ismcdn.jp/mwimgs/2/9/1200xm/img_29c97234d9142bc5ddf55e789d300c93176481.jpg",
+    "originalImageArticleUrl": "https://toyokeizai.net/articles/photo/947965",
+    "displayDate": "2026-06-19"
+  },
+  "SONY": {
+    "title": "次世代スマホカメラを変えるソニーの新センサー「LYTIA L910」発表",
+    "summary": "ソニーがスマートフォン向け新イメージセンサー「LYTIA L910」を発表しました。最大の特徴は「LOFIC」技術の採用で、これにより明暗差が激しい環境下でも白飛びを抑え、ダイナミックレンジを飛躍的に向上させています。スマホカメラの画質限界を塗り替える技術として注目されています。",
+    "insight": "LOFIC（Lateral Overflow Integration Capacitor）技術は、画素内に容量を蓄えることで飽和信号量を大幅に増大させる革新的なアプローチです。信号処理エンジニアの視点で見ると、ADCの解像度だけでなく、物理層での飽和対策がいかにモバイルのHDR性能を決定づけるかを再認識させられます。",
+    "sourceUrl": "https://www.vietnam.vn/ja/sony-lytia-l910-buoc-ngoat-cong-nghe-lofic-giup-camera-smartphone-vuot-gioi-han",
+    "sourceName": "Vietnam.vn",
+    "originalImageUrl": "https://vstatic.vietnam.vn/vietnam/resource/IMAGE/2026/06/18/1781776439902_img_45369f54.jpeg",
+    "originalImageArticleUrl": "https://www.vietnam.vn/ja/sony-lytia-l910-buoc-ngoat-cong-nghe-lofic-giup-camera-smartphone-vuot-gioi-han",
+    "displayDate": "2026-06-19"
+  },
+  "TV": {
+    "title": "ワールドカップ放映権と視聴環境のいま",
+    "summary": "ワールドカップ日本戦の放送予定が公開され、地上波・NHK・BSなどのテレビ放送に加え、DAZNなど配信プラットフォームの動向が注目されています。視聴者体験がどのように変化しているか再確認するタイミングです。",
+    "insight": "リアルタイム配信の遅延やネットワーク負荷といった技術的課題と、OLED/MiniLEDなどの高画質ディスプレイ技術が、スポーツ観戦体験にどのようなインパクトを与えているか考察してみると興味深いです。エンジニアとしては、CDN戦略やストリーミングの最適化といった裏側の技術スタックにも想いを馳せる良いトピックです。",
+    "sourceUrl": "https://www.goal.com/jp/%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9/japan-tv-broadcast-live-streaming-schedule-worldcup-2026/bltf7a69cc0104613b9",
+    "sourceName": "Goal.com",
+    "originalImageUrl": "https://assets.goal.com/images/v3/blt6dd622cda38d8f29/Japan.png",
+    "originalImageArticleUrl": "https://www.goal.com/jp/%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9/japan-tv-broadcast-live-streaming-schedule-worldcup-2026/bltf7a69cc0104613b9",
+    "displayDate": "2026-06-19"
+  },
+  "Production Monitor": {
+    "title": "Adobe PremiereにAIアシスタント機能が登場",
+    "summary": "Adobe Premiere Proに、チャットベースで編集作業を支援する「Premiere AI Assistant」が導入されます。まずはベータ版として提供され、映像編集フローの効率化が期待されます。",
+    "insight": "クリエイティブツールへのLLM統合は、単なる検索から具体的な編集操作の自動化へとフェーズが移行しています。APIやワークフローの自動化を構築するエンジニアにとって、プロプライエタリな編集ツールが提供するAI機能の範囲と拡張性は注目のポイントです。",
+    "sourceUrl": "https://www.provideocoalition.com/premiere-ai-assistant/",
+    "sourceName": "ProVideo Coalition",
+    "originalImageUrl": "https://www.provideocoalition.com/wp-content/uploads/Premiere-AI-Assistant.jpeg",
+    "originalImageArticleUrl": "https://www.provideocoalition.com/premiere-ai-assistant/",
+    "displayDate": "2026-06-19"
+  },
+  "Projector": {
+    "title": "EpsonがInfoCommで3万ルーメンの4Kレーザープロジェクターを発表",
+    "summary": "EpsonはInfoComm 2026において、驚異的な30,000ルーメンの輝度を実現した最新の4K 3LCDレーザープロジェクターを発表しました。大規模なイベントや商業施設での利用を想定した、次世代の映像投写テクノロジーです。",
+    "insight": "プロジェクターにおいて30,000ルーメンという圧倒的な光出力は、高輝度・高精細な映像が求められる商業・産業分野での市場競争力を大きく左右する指標です。3LCD方式による高精細な色再現と、レーザー光源による高耐久・長寿命化の組み合わせは、エンタープライズ領域における映像ソリューションの標準となるでしょう。",
+    "sourceUrl": "https://www.inparkmagazine.com/epson-eb-xz2030b-infocomm-2026/",
+    "sourceName": "InPark Magazine",
+    "originalImageUrl": "https://www.inparkmagazine.com/wp-content/uploads/2026/06/XQ2030B_SCENE_01-e1781661486688-1024x576.jpg",
+    "originalImageArticleUrl": "https://www.inparkmagazine.com/epson-eb-xz2030b-infocomm-2026/",
+    "displayDate": "2026-06-19"
+  },
+  "Camera Control": {
+    "title": "VSCOが写真業界の垂直統合プラットフォームに挑戦",
+    "summary": "写真編集アプリで有名なVSCOが、編集から顧客管理、請求までを網羅する新プラットフォーム「VSCO One」を発表しました。従来の断片的なツール群を1つに統合することで、フォトグラファーの業務フロー効率化を目指します。",
+    "insight": "複数のSaaSを組み合わせる「ベスト・オブ・ブリード」戦略から、単一プラットフォームで全てを完結させる垂直統合型のサービスへ回帰するトレンドが注目されます。開発者視点では、APIによる外部連携と、単一エコシステム内でのデータの一貫性をどう担保するかが今後のプロダクト成長の鍵となるでしょう。",
+    "sourceUrl": "https://www.dpreview.com/news/7810596194/vsco-studio-pro-and-vsco-one-announcements",
+    "sourceName": "Digital Photography Review",
+    "originalImageUrl": "https://2.img-dpreview.com/files/p/E~C226x0S1468x1101T1200x900~articles/7810596194/6_iphones_laid_out_with_VSCO_app_features_on_a_blurry_blue_background.jpeg",
+    "originalImageArticleUrl": "https://www.dpreview.com/news/7810596194/vsco-studio-pro-and-vsco-one-announcements",
+    "displayDate": "2026-06-19"
+  },
+  "LED Wall Display": {
+    "title": "Raspberry Piがデジタルサイネージの標準へ：NoviSignが対応",
+    "summary": "NoviSignがRaspberry Piデバイスのサポートを発表しました。これにより、低コストかつ柔軟なデジタルサイネージシステムの構築が可能となり、従来の専用メディアプレーヤー市場に大きな変化をもたらす可能性があります。",
+    "insight": "Raspberry Piのような汎用ハードウェアのサイネージ採用は、Linuxベースの組み込み開発におけるメンテナンスコスト削減と拡張性を向上させます。特にLEDウォールへのコンテンツ配信において、エッジデバイスの軽量化と安価なデプロイ環境の重要性が増しています。",
+    "sourceUrl": "https://www.digitalsignagetoday.com/news/novisign-announces-support-for-raspberry-pi-devices/",
+    "sourceName": "Digital Signage Today",
+    "originalImageUrl": "https://nmgprod.s3.amazonaws.com/media/file/02/da/3c4268fdc754f65581dc2f10f868/cover_image__33ErJWSc__novisign_rasperry.webp.360x190_q85_crop_upscale.webp",
+    "originalImageArticleUrl": "https://www.digitalsignagetoday.com/news/novisign-announces-support-for-raspberry-pi-devices/",
+    "displayDate": "2026-06-19"
+  }
+}
