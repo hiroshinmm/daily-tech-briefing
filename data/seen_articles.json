@@ -1,10 +1,6 @@
 {
   "Production Monitor": [
     {
-      "url": "https://www.provideocoalition.com/puget-labs-announces-puget-bench-for-unreal-engine/",
-      "date": "2026-06-13"
-    },
-    {
       "url": "https://www.newsshooter.com/2026/06/12/zinecontrol-is-now-available-on-the-app-store/?utm_source=rss&utm_medium=rss&utm_campaign=zinecontrol-is-now-available-on-the-app-store",
       "date": "2026-06-14"
     },
@@ -27,13 +23,13 @@
     {
       "url": "https://www.provideocoalition.com/premiere-ai-assistant/",
       "date": "2026-06-19"
+    },
+    {
+      "url": "https://www.cined.com/smpte-opens-its-entire-standards-catalog-for-free-removing-a-century-old-paywall/",
+      "date": "2026-06-20"
     }
   ],
   "SRD / XR": [
-    {
-      "url": "https://toyokeizai.net/articles/-/633661?page=3",
-      "date": "2026-06-13"
-    },
     {
       "url": "https://toyokeizai.net/articles/-/633661?page=3",
       "date": "2026-06-14"
@@ -57,13 +53,13 @@
     {
       "url": "https://www.moguravr.com/gracia-4dgs-app-apple-vision-pro-release/",
       "date": "2026-06-19"
+    },
+    {
+      "url": "https://news.yahoo.co.jp/articles/2e3aa75c7b95b414f0fc5f8ffb5ca61336ca4715?page=2",
+      "date": "2026-06-20"
     }
   ],
   "AI": [
-    {
-      "url": "https://www.nature.com/articles/s41591-026-04431-5",
-      "date": "2026-06-13"
-    },
     {
       "url": "https://www.nikkei.com/article/DGXZQOGN130L80T10C26A6000000/",
       "date": "2026-06-14"
@@ -87,13 +83,13 @@
     {
       "url": "https://codezine.jp/article/detail/24532",
       "date": "2026-06-19"
+    },
+    {
+      "url": "https://codezine.jp/article/detail/24532",
+      "date": "2026-06-20"
     }
   ],
   "Gaming Monitor": [
-    {
-      "url": "https://www.digitaltrends.com/home-theater/i-tried-acers-new-5k-miniled-gaming-monitor-and-oled-kept-popping-into-my-head/",
-      "date": "2026-06-13"
-    },
     {
       "url": "https://www.toy-people.com/en/?p=104996",
       "date": "2026-06-14"
@@ -117,13 +113,13 @@
     {
       "url": "https://pc.watch.impress.co.jp/docs/topic/feature/2118387.html",
       "date": "2026-06-19"
+    },
+    {
+      "url": "https://thepcenthusiast.com/best-1440p-500hz-oled-gaming-monitor/",
+      "date": "2026-06-20"
     }
   ],
   "TCL": [
-    {
-      "url": "https://techaeris.com/2026/06/12/tcl-google-advanced-gemini-tv-calibration/",
-      "date": "2026-06-13"
-    },
     {
       "url": "https://www.thelec.net/news/articleView.html?idxno=11298",
       "date": "2026-06-14"
@@ -147,13 +143,13 @@
     {
       "url": "https://toyokeizai.net/articles/photo/947965",
       "date": "2026-06-19"
+    },
+    {
+      "url": "https://www.ecoustics.com/news/tcl-offer-ijp-oled-monitors/",
+      "date": "2026-06-20"
     }
   ],
   "Camera Control": [
-    {
-      "url": "https://www.dpreview.com/news/9204768698/dji-insta360-lawsuits-luna-ultra-osmo-pocket-4p-filed",
-      "date": "2026-06-13"
-    },
     {
       "url": "https://petapixel.com/2026/06/13/31-otherworldly-new-deep-sea-species-photographed-with-cutting-edge-camera-technology/",
       "date": "2026-06-14"
@@ -177,13 +173,13 @@
     {
       "url": "https://www.dpreview.com/news/7810596194/vsco-studio-pro-and-vsco-one-announcements",
       "date": "2026-06-19"
+    },
+    {
+      "url": "https://www.dpreview.com/news/1952544048/adobe-photoshop-ai-assistant-desktop-beta",
+      "date": "2026-06-20"
     }
   ],
   "LED Wall Display": [
-    {
-      "url": "//www.ledinside.com/news/2026/6/2026_06_12_04",
-      "date": "2026-06-13"
-    },
     {
       "url": "https://www.digitalsignagetoday.com/news/ballys-taps-novisign-to-modernize-digital-signage-operations/",
       "date": "2026-06-14"
@@ -207,13 +203,13 @@
     {
       "url": "https://www.digitalsignagetoday.com/news/novisign-announces-support-for-raspberry-pi-devices/",
       "date": "2026-06-19"
+    },
+    {
+      "url": "https://ravepubs.com/planar-launches-planar-cobra-series/",
+      "date": "2026-06-20"
     }
   ],
   "SONY": [
-    {
-      "url": "https://www.toy-people.com/jp/?p=104996",
-      "date": "2026-06-13"
-    },
     {
       "url": "https://www.toy-people.com/jp/?p=104996",
       "date": "2026-06-14"
@@ -237,13 +233,13 @@
     {
       "url": "https://www.vietnam.vn/ja/sony-lytia-l910-buoc-ngoat-cong-nghe-lofic-giup-camera-smartphone-vuot-gioi-han",
       "date": "2026-06-19"
+    },
+    {
+      "url": "https://www.vietnam.vn/ja/sony-ra-mat-cam-bien-lytia-l910-cong-nghe-lofic-dot-pha-dai-tuong-phan-dong-100db",
+      "date": "2026-06-20"
     }
   ],
   "TV": [
-    {
-      "url": "https://news.samsung.com/uk/interview-how-samsung-oled-tv-achieved-pantone-validated-artfulcolor-certification",
-      "date": "2026-06-13"
-    },
     {
       "url": "https://www.communicationstoday.co.in/world-cup-2026-sets-up-a-decisive-quarter-in-the-north-america-miniled-tv-race/",
       "date": "2026-06-14"
@@ -267,13 +263,13 @@
     {
       "url": "https://www.goal.com/jp/%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9/japan-tv-broadcast-live-streaming-schedule-worldcup-2026/bltf7a69cc0104613b9",
       "date": "2026-06-19"
+    },
+    {
+      "url": "https://www.makeuseof.com/your-tv-says-it-has-dolby-vision-but-only-one-half/",
+      "date": "2026-06-20"
     }
   ],
   "Projector": [
-    {
-      "url": "https://news.livedoor.com/topics/detail/31528673/",
-      "date": "2026-06-13"
-    },
     {
       "url": "https://www.chiba-tv.com/plus/detail/amp/2026061739379",
       "date": "2026-06-14"
@@ -297,6 +293,10 @@
     {
       "url": "https://www.inparkmagazine.com/epson-eb-xz2030b-infocomm-2026/",
       "date": "2026-06-19"
+    },
+    {
+      "url": "https://sg.finance.yahoo.com/news/etoe-launches-dolphin-2-portable-140000207.html",
+      "date": "2026-06-20"
     }
   ]
 }

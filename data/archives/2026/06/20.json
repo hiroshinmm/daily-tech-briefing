@@ -1,0 +1,102 @@
+{
+  "AI": {
+    "title": "「ドメイン知識」こそがAI時代の最強の武器になる",
+    "summary": "Anthropicが提唱する「Code with Claude」を背景に、AIの普及によりエンジニアに求められるスキルが変化しています。単なるコーディングスキル以上に、各業務ドメインへの深い理解が、真の課題解決とプロダクト開発において決定的な価値を持つようになっています。",
+    "insight": "コーディングの自動化が進む中で、エンジニアは「何をどう作るか」というドメイン要件を定義する設計力・企画力がより問われています。今後は技術力と業務知識をいかに統合できるかが、エンジニアのキャリアと市場価値を左右する鍵となります。",
+    "sourceUrl": "https://codezine.jp/article/detail/24532",
+    "sourceName": "CodeZine",
+    "originalImageUrl": "https://codezine.jp/static/images/article/24532/24532_ogp.jpg",
+    "originalImageArticleUrl": "https://codezine.jp/article/detail/24532",
+    "displayDate": "2026-06-20"
+  },
+  "SONY": {
+    "title": "ソニーの新センサー「LYTIA L910」のLOFIC技術が凄い",
+    "summary": "ソニーが発表した新型イメージセンサー「LYTIA L910」は、LOFIC技術により100dBという驚異的なダイナミックレンジを実現しました。スマホカメラの白飛びや黒つぶれを劇的に抑え、厳しい撮影環境下でも人間の目に近い高画質な描写を可能にします。",
+    "insight": "LOFIC（Lateral Overflow Integration Capacitor）技術は、飽和信号量を大幅に増やすことで、低輝度から高輝度まで極めて広いダイナミックレンジを確保する重要なハードウェア実装です。デジタル処理による合成に頼らず物理的に情報を保持するため、計算コストや遅延を抑えつつ階調表現を向上させる、画像処理エンジニアにとって注目すべきブレイクスルーです。",
+    "sourceUrl": "https://www.vietnam.vn/ja/sony-ra-mat-cam-bien-lytia-l910-cong-nghe-lofic-dot-pha-dai-tuong-phan-dong-100db",
+    "sourceName": "Vietnam.vn",
+    "originalImageUrl": "https://vstatic.vietnam.vn/vietnam/resource/IMAGE/2026/06/18/1781776143338_img_45369f54.jpeg",
+    "originalImageArticleUrl": "https://www.vietnam.vn/ja/sony-ra-mat-cam-bien-lytia-l910-cong-nghe-lofic-dot-pha-dai-tuong-phan-dong-100db",
+    "displayDate": "2026-06-20"
+  },
+  "TCL": {
+    "title": "TCLがIJP方式OLED市場へ参入、モニターやノートPC向けに",
+    "summary": "TCLは、印刷技術（IJP：インクジェットプリンティング）を用いたOLEDパネルの量産・展開を開始します。まずはモニターやノートPC向けの小型・中型パネルに注力する方針で、従来の蒸着方式よりもコスト効率に優れる同技術が、将来的なTV市場へも波及する可能性が注目されています。",
+    "insight": "IJP方式のOLEDは製造工程での材料ロスが少なく、大型化や低コスト化に適した次世代ディスプレイ技術です。エンジニアの視点では、従来の蒸着方式と比較した輝度・耐久性のスケーリングや、今後の画素配置（ピクセルレイアウト）の進化に注目すべきでしょう。",
+    "sourceUrl": "https://www.ecoustics.com/news/tcl-offer-ijp-oled-monitors/",
+    "sourceName": "eCoustics",
+    "originalImageUrl": "https://cdn.ecoustics.com/db0/wblob/17BA35E873D594/380A/46DC3/BHBuuvWlGbK2Wn9D-bD33FMRHM0o7EXfF9i3rRZZGPA/tcl-apex-ijp-oled-ces-2025.jpg",
+    "originalImageArticleUrl": "https://www.ecoustics.com/news/tcl-offer-ijp-oled-monitors/",
+    "displayDate": "2026-06-20"
+  },
+  "Projector": {
+    "title": "ポータブルプロジェクターの進化、三原色レーザー搭載モデル登場",
+    "summary": "ETOEが新型ポータブルプロジェクター「Dolphin 2」を発表しました。RGB三原色レーザー光源を採用し、Google TVを標準搭載することで、小型ながら高画質な映像体験を実現しています。持ち運び可能なサイズでホームシアター環境をどこでも構築できる点が注目されています。",
+    "insight": "DLP技術とレーザー光源の組み合わせにより、小型化と高コントラスト比の両立が加速しています。モバイル機器で正確な色再現と高い輝度を維持するための光学設計は、ハードウェアエンジニアにとっても非常に興味深い分野です。",
+    "sourceUrl": "https://sg.finance.yahoo.com/news/etoe-launches-dolphin-2-portable-140000207.html",
+    "sourceName": "Yahoo Finance Singapore",
+    "originalImageUrl": "https://s.yimg.com/os/en/prnewswire.com/06259c420c13c5eb086807522d2c5c60",
+    "originalImageArticleUrl": "https://sg.finance.yahoo.com/news/etoe-launches-dolphin-2-portable-140000207.html",
+    "displayDate": "2026-06-20"
+  },
+  "SRD / XR": {
+    "title": "産業用XRの最前線、最新デバイスの現在地",
+    "summary": "ギズモード・ジャパンが産業用XRデバイスの最新動向を特集。エンターテインメント用途とは異なる、業務効率化やトレーニングなど、ビジネス現場で加速するXR技術の進化と活用事例について詳細にレポートしています。",
+    "insight": "XR開発の現場では、コンシューマー機以上に「解像度」「装着感」「耐久性」が重視されており、産業用デバイスには特定の業務プロセスへ最適化したHMI設計が求められています。ハードウェアの進化が先行する今、それらを活かすためのUX設計やデジタルツインの構築手法がエンジニアの腕の見せ所です。",
+    "sourceUrl": "https://news.yahoo.co.jp/articles/2e3aa75c7b95b414f0fc5f8ffb5ca61336ca4715?page=2",
+    "sourceName": "Yahoo!ニュース",
+    "originalImageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260619-00000005-giz-000-1-view.jpg?exp=10800",
+    "originalImageArticleUrl": "https://news.yahoo.co.jp/articles/2e3aa75c7b95b414f0fc5f8ffb5ca61336ca4715?page=2",
+    "displayDate": "2026-06-20"
+  },
+  "Gaming Monitor": {
+    "title": "ついに時代は500Hzへ！最新ゲーミングモニター動向",
+    "summary": "2026年現在のゲーミングモニター市場では、従来の4K/240Hzがハイエンドの基準となる一方で、27インチ1440p解像度で驚異の500Hzリフレッシュレートを実現したOLEDモデルが登場し始めています。高精細か超高速か、ゲーマーの選択肢はかつてないほど多様化しています。",
+    "insight": "OLEDパネルの普及に伴い、高リフレッシュレート化と応答速度の向上が極限まで加速しています。エンジニア視点では、これらの高フレームレート描画を支えるDisplayPort 2.1などの伝送帯域技術や、可変リフレッシュレート制御の最適化が、ハードウェア性能を引き出す鍵となります。",
+    "sourceUrl": "https://thepcenthusiast.com/best-1440p-500hz-oled-gaming-monitor/",
+    "sourceName": "ThePCEnthusiast",
+    "originalImageUrl": "https://cdn.thepcenthusiast.com/wp-content/uploads/2026/06/These-Are-the-Best-1440p-500Hz-OLED-Gaming-Monitors.jpg",
+    "originalImageArticleUrl": "https://thepcenthusiast.com/best-1440p-500hz-oled-gaming-monitor/",
+    "displayDate": "2026-06-20"
+  },
+  "Production Monitor": {
+    "title": "SMPTEが技術標準カタログを全公開、歴史的転換へ",
+    "summary": "映像業界の技術標準を策定するSMPTEが、約1世紀にわたる有料制を廃止し、全ての技術標準、推奨プラクティス、エンジニアリングガイドラインを無償公開しました。SDIやタイムコード、ST 2110などの基幹技術へのアクセスが完全にオープンになります。",
+    "insight": "メディア技術の根幹を成すオープン標準へのアクセスが容易になることで、IPベースの放送ワークフローや映像関連ソフトウェアの開発障壁が大幅に下がります。エンジニアにとっては、仕様書を公式ソースから直接確認できるため、実装の互換性確保や開発効率の向上が期待できます。",
+    "sourceUrl": "https://www.cined.com/smpte-opens-its-entire-standards-catalog-for-free-removing-a-century-old-paywall/",
+    "sourceName": "CineD",
+    "originalImageUrl": "https://www.cined.com/content/uploads/2026/06/SMPTE_logo-featured-300x169.jpg",
+    "originalImageArticleUrl": "https://www.cined.com/smpte-opens-its-entire-standards-catalog-for-free-removing-a-century-old-paywall/",
+    "displayDate": "2026-06-20"
+  },
+  "TV": {
+    "title": "そのDolby Vision、本物？TVスペックの落とし穴",
+    "summary": "最新のテレビで「Dolby Vision対応」と謳われていても、実際にはディスプレイの輝度やコントラスト性能がDolbyの基準を完全には満たしていないケースがあるという指摘。マーケティング上の「対応」と、真のHDR体験には乖離がある可能性に注意が必要です。",
+    "insight": "ハードウェアスペックを語る際の「対応」という言葉の曖昧さを改めて考える良い機会です。エンジニアとしては、仕様書の用語が示す『機能のサブセット』や『ハードウェア依存の限界』を常に疑い、実効性能を定義する基準を正しく見極めるスキルが重要です。",
+    "sourceUrl": "https://www.makeuseof.com/your-tv-says-it-has-dolby-vision-but-only-one-half/",
+    "sourceName": "MakeUseOf",
+    "originalImageUrl": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/wm/2026/06/dolby-vision-1.jpg?w=1600&h=900&fit=crop",
+    "originalImageArticleUrl": "https://www.makeuseof.com/your-tv-says-it-has-dolby-vision-but-only-one-half/",
+    "displayDate": "2026-06-20"
+  },
+  "Camera Control": {
+    "title": "Adobe PhotoshopにAIアシスタント搭載、マルチステップ処理を自動化",
+    "summary": "AdobeはCreative Cloudの各アプリに、対話形式でワークフローを指示できる「AIアシスタント」を導入しました。背景の入れ替えやレイヤー管理、動画の初期編集など、複雑なマルチステップ作業をAIが自動実行し、クリエイターの作業効率を大幅に向上させます。",
+    "insight": "単なる画像生成ではなく、UI操作のオーケストレーターとしてLLMが実装されている点がエンジニアリング的に注目です。プロンプトからAPI経由で複雑なアプリ内操作を連鎖させる設計は、今後のデスクトップアプリの自動化における標準的なUI/UXパターンになるでしょう。",
+    "sourceUrl": "https://www.dpreview.com/news/1952544048/adobe-photoshop-ai-assistant-desktop-beta",
+    "sourceName": "Digital Photography Review",
+    "originalImageUrl": "https://4.img-dpreview.com/files/p/E~C394x0S2668x2001T1200x900~articles/1952544048/adobe_photoshop_wordmark.jpeg",
+    "originalImageArticleUrl": "https://www.dpreview.com/news/1952544048/adobe-photoshop-ai-assistant-desktop-beta",
+    "displayDate": "2026-06-20"
+  },
+  "LED Wall Display": {
+    "title": "次世代LED壁面技術：微細ピクセルピッチの進化",
+    "summary": "InfoComm 2026にて、Planar社が最新の「Planar Cobraシリーズ」を発表しました。同シリーズは独自のEverPixelおよびTruMicro LED技術を採用し、0.6mmから1.2mmまでの超微細なピクセルピッチを実現しています。高精細かつ堅牢なLEDディスプレイ技術が、視覚体験の新たな基準を築こうとしています。",
+    "insight": "0.6mmという極小ピクセルピッチの実現は、近距離視聴でのLEDウォールの有用性を飛躍的に高めています。エンジニアとしては、単なる画素密度だけでなく、映像処理における色再現性や、高精細LED特有の熱管理・スケーラビリティの最適化が今後の差別化要因になると推測されます。",
+    "sourceUrl": "https://ravepubs.com/planar-launches-planar-cobra-series/",
+    "sourceName": "rAVe [PUBS]",
+    "originalImageUrl": "https://ravepubs.com/wp-content/uploads/2026/06/planar-800x400.webp",
+    "originalImageArticleUrl": "https://ravepubs.com/planar-launches-planar-cobra-series/",
+    "displayDate": "2026-06-20"
+  }
+}
