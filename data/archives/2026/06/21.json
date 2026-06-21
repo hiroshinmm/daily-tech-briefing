@@ -1,0 +1,102 @@
+{
+  "AI": {
+    "title": "AI時代の開発者に不可欠な「ドメイン知識」の価値再考",
+    "summary": "Anthropicの「Code with Claude」の動向を背景に、ソフトウェア開発が民主化される中で、エンジニアに求められるスキルが変化しています。単なるコーディング能力以上に、特定の業界や課題に対する深い「ドメイン知識」こそが、AIを使いこなし価値を生み出すための真の差別化要因になるという議論が注目されています。",
+    "insight": "AIによるコード生成が標準となる今後、エンジニアの役割は「書き手」から「解決策を定義するアーキテクト」へとシフトしています。技術スタックだけでなく、業務領域の深い理解がAIの出力をビジネス価値へと変換する唯一の鍵となります。",
+    "sourceUrl": "https://codezine.jp/article/detail/24532",
+    "sourceName": "CodeZine",
+    "originalImageUrl": "https://codezine.jp/static/images/article/24532/24532_ogp.jpg",
+    "originalImageArticleUrl": "https://codezine.jp/article/detail/24532",
+    "displayDate": "2026-06-21"
+  },
+  "SONY": {
+    "title": "ソニーが次世代シネマカメラ「FX3 II」を開発中か",
+    "summary": "ソニーが新たなシネマカメラの開発を進めており、中国での製品登録情報から「FX3 II」が2026年9月までに登場する可能性が高いことが報じられました。競合機となるキヤノンEOS C50への対抗や、プロフェッショナルな操作性の強化が期待されています。",
+    "insight": "カメラのハードウェア仕様だけでなく、プロ向けワークフローに最適化されたUI/UXの刷新は、映像制作エンジニアの生産性に直結する重要な要素です。モデルチェンジのサイクルと市場競争の分析は、ハードウェア製品の技術的差別化のトレンドを読み解く良い指標になります。",
+    "sourceUrl": "https://thenewcamera.com/sony-fx3-ii-targeted-before-september-2026-following-latest-china-registration/",
+    "sourceName": "NEW CAMERA",
+    "originalImageUrl": "https://thenewcamera.com/wp-content/uploads/2026/02/best-camera-image-2.jpg",
+    "originalImageArticleUrl": "https://thenewcamera.com/sony-fx3-ii-targeted-before-september-2026-following-latest-china-registration/",
+    "displayDate": "2026-06-21"
+  },
+  "SRD / XR": {
+    "title": "産業用XRデバイスの現在地：実務応用の最前線",
+    "summary": "ギズモード・ジャパンが産業用XRデバイスの最新動向を特集。エンタメ用途だけでなく、高度な業務環境での活用が加速しており、ハードウェアの進化と産業DXの融合が注目されています。",
+    "insight": "産業用XRは単なる可視化を超え、シミュレーションや遠隔作業支援といった実務の「効率」に直結するフェーズへ移行しています。エンジニアは、空間コンピューティングAPIの活用や、B2BにおけるUX/UIの設計思想を再考すべき時期に来ています。",
+    "sourceUrl": "https://news.yahoo.co.jp/articles/2e3aa75c7b95b414f0fc5f8ffb5ca61336ca4715/images/000",
+    "sourceName": "Yahoo!ニュース",
+    "originalImageUrl": "https://news-pctr.c.yimg.jp/uUzvQ3lML_bkIqyakc1vFhNrRI0RUQxg5aFkrX0xDg1_T0wXrbEJjtNGtrf1o9y3JFWzsTLeME_A9paPU19pkapFsAL_e8cJEyJIaWWKfcTaqCM2DRxKfHvFZ-ZFfZ0-k8oY2C1evkcMUMQOocK82IiMlWwd3bzOUmdS2JGHxMixU8XixbNgK5Z2nwVsCpbK",
+    "originalImageArticleUrl": "https://news.yahoo.co.jp/articles/2e3aa75c7b95b414f0fc5f8ffb5ca61336ca4715/images/000",
+    "displayDate": "2026-06-21"
+  },
+  "TCL": {
+    "title": "TCLがIJP方式OLED市場へ参入、次世代ディスプレイ技術に注目",
+    "summary": "TCLがインクジェットプリント（IJP）方式を採用したOLEDモニターおよびノートPC向けディスプレイの展開を発表しました。従来の蒸着方式よりもコスト効率に優れたIJP技術の採用は、今後のコンシューマー向けOLEDテレビ市場における価格破壊や製品ラインナップの刷新を予感させる重要な転換点となる可能性があります。",
+    "insight": "IJP方式のOLEDは、製造コストの大幅な削減と大型化が期待できる次世代技術です。エンジニアの視点では、ディスプレイの駆動制御アルゴリズムや画質処理エンジンが、蒸着方式とどう差別化されるのか、その技術的実装が注目ポイントとなります。",
+    "sourceUrl": "https://www.ecoustics.com/news/tcl-ijp-oled-monitors/",
+    "sourceName": "eCoustics",
+    "originalImageUrl": "https://cdn.ecoustics.com/db0/wblob/17BA35E873D594/380A/46DC3/BHBuuvWlGbK2Wn9D-bD33FMRHM0o7EXfF9i3rRZZGPA/tcl-apex-ijp-oled-ces-2025.jpg",
+    "originalImageArticleUrl": "https://www.ecoustics.com/news/tcl-ijp-oled-monitors/",
+    "displayDate": "2026-06-21"
+  },
+  "Production Monitor": {
+    "title": "映像業界の知財戦争：DJI vs Insta360",
+    "summary": "映像機器業界でDJIとInsta360の特許訴訟が激化しており、イノベーションよりも企業の統合や法廷闘争が目立つ不安定なフェーズに入っています。業界の再編と知財戦略の重要性が議論されています。",
+    "insight": "技術スタックや製品開発において、競合他社との特許ポートフォリオ争いは避けられない経営課題です。エンジニアリングにおいても、独自技術の保護と特許戦略を早期から設計に組み込む意識が、競争優位性を左右します。",
+    "sourceUrl": "https://www.cined.com/pocket-wars-dji-vs-insta360-in-court-and-outside-more-industry-consolidation-cined-focus-check-ep121/",
+    "sourceName": "CineD",
+    "originalImageUrl": "https://www.cined.com/content/uploads/2026/06/EP121-featured-300x169.jpg",
+    "originalImageArticleUrl": "https://www.cined.com/pocket-wars-dji-vs-insta360-in-court-and-outside-more-industry-consolidation-cined-focus-check-ep121/",
+    "displayDate": "2026-06-21"
+  },
+  "TV": {
+    "title": "W杯日本vsチュニジア戦：放送と配信の最新情報",
+    "summary": "本日6月21日13時にキックオフとなるサッカーW杯日本対チュニジア戦の視聴方法が話題です。地上波では日本テレビとNHK BSで放送され、インターネット配信はDAZNで行われます。試合のライブ視聴にはマルチデバイス環境の確認が推奨されます。",
+    "insight": "ライブイベントの同時視聴はピーク時のトラフィック負荷が非常に高く、エンジニア視点ではCDNのキャッシュ戦略やスケーラビリティが問われる場面です。特に放送と配信のレイテンシ差（ラグ）がSNS上のネタバレ問題を引き起こすため、UX設計において同期の精度は今後も重要な技術課題となります。",
+    "sourceUrl": "https://news.yahoo.co.jp/articles/958fd2a01e572faafbb55932440336c7e666d61e",
+    "sourceName": "Yahoo!ニュース",
+    "originalImageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260621-00130042-phileweb-000-1-view.jpg?exp=10800",
+    "originalImageArticleUrl": "https://news.yahoo.co.jp/articles/958fd2a01e572faafbb55932440336c7e666d61e",
+    "displayDate": "2026-06-21"
+  },
+  "Gaming Monitor": {
+    "title": "2026年版：500ドル以下のベストゲーミングモニター選定",
+    "summary": "RTINGSが2026年版の「500ドル以下で購入できるベストモニター4選」を公開しました。高リフレッシュレートや高画質を求めるゲーマー向けに、コストパフォーマンスに優れたモデルが厳選されています。Prime Dayやセールシーズンを前に、エンジニアの作業環境やゲーミング環境のアップグレードを検討する際の有力なガイドラインとなります。",
+    "insight": "RTINGSのような厳格なテスト指標を持つメディアの選定基準は、仕様上のスペック（Hzやms）だけでなく、色精度や応答速度のテスト結果が重視されており、エンジニアにとってもディスプレイ選びの参考になります。特に低価格帯モデルの選定には、残像感やパネルの均一性といった、デスクワークの生産性にも直結する視点が盛り込まれています。",
+    "sourceUrl": "https://www.rtings.com/monitor/reviews/best/by-price/under-500",
+    "sourceName": "RTINGS.com",
+    "originalImageUrl": "https://i.rtings.com/assets/pages/exmcqBhN/best-monitors-under-500-20250613-medium.jpg?format=auto",
+    "originalImageArticleUrl": "https://www.rtings.com/monitor/reviews/best/by-price/under-500",
+    "displayDate": "2026-06-21"
+  },
+  "Projector": {
+    "title": "スマホにプロジェクター内蔵？8849 Tank 5が登場",
+    "summary": "タフネススマホブランド「8849」から、2K DLPプロジェクターとレーザー距離計を内蔵した新型スマートフォン「Tank 5」が登場しました。17,600mAhの大容量バッテリーを搭載し、屋外での投影にも対応する尖ったスペックが注目されています。",
+    "insight": "モバイルデバイスへのプロジェクター内蔵は、物理的なスペースと放熱の観点から長年の挑戦領域です。DLP技術の小型化が進む中で、こうしたニッチな高機能製品がどのようなUX（特に排熱管理と輝度）を実現しているかは、ハードウェア設計者にとって興味深いベンチマークとなるでしょう。",
+    "sourceUrl": "https://www.notebookcheck.net/8849-launches-new-rugged-flagship-smartphone-with-built-in-2K-DLP-projector.1325266.0.html",
+    "sourceName": "Notebookcheck",
+    "originalImageUrl": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/8849-Tank-5.png",
+    "originalImageArticleUrl": "https://www.notebookcheck.net/8849-launches-new-rugged-flagship-smartphone-with-built-in-2K-DLP-projector.1325266.0.html",
+    "displayDate": "2026-06-21"
+  },
+  "LED Wall Display": {
+    "title": "InfoComm 2026：COB LED壁面技術の進化",
+    "summary": "InfoComm 2026において、MAXHUBが「Raptors Series」統合型COB LEDウォールを発表しました。COB（Chip on Board）技術は、従来の表面実装技術に比べ、耐久性と没入感のある高画質な映像表現を両立しており、次世代の業務用ディスプレイとして注目されています。",
+    "insight": "COB技術は画素の保護性能が格段に高く、メンテナンス性と信頼性が求められるエンタープライズ環境で標準化が進んでいます。エンジニア視点では、ピクセルピッチの微細化だけでなく、堅牢性や熱管理が統合ソリューション選択の鍵となるでしょう。",
+    "sourceUrl": "https://ravepubs.com/rave-video/infocomm-2026-maxhub-features-raptors-series-integrated-cob-led-wall-solution/",
+    "sourceName": "rAVe [PUBS]",
+    "originalImageUrl": "https://i.ytimg.com/vi/ZGrsz-Qy4OM/maxresdefault.jpg",
+    "originalImageArticleUrl": "https://ravepubs.com/rave-video/infocomm-2026-maxhub-features-raptors-series-integrated-cob-led-wall-solution/",
+    "displayDate": "2026-06-21"
+  },
+  "Camera Control": {
+    "title": "Sony A7Vをシネマカメラ化するカスタマイズ手法",
+    "summary": "Sonyのフルサイズミラーレス「A7V」を、本来の用途である静止画撮影からシネマカメラとして活用するための設定やアクセサリー構成についての解説記事が話題です。写真機としての基本性能が高い本機を、動画撮影の現場でどこまで本格的に運用できるかという実用的なアプローチが紹介されています。",
+    "insight": "コンシューマー向けカメラをシネマ用リグへ拡張する際、熱管理やビット深度、コーデックの制限をどうソフトウェア的あるいは物理的制約で突破するかがエンジニアリング上の興味深いポイントです。汎用ハードウェアを特定用途へ最適化するカスタマイズの知見は、他のデバイス活用にも応用できる視点と言えます。",
+    "sourceUrl": "https://www.sonyalpharumors.com/mark-wiemels-turn-your-sony-a7v-into-a-cinema-camera/",
+    "sourceName": "sonyalpharumors",
+    "originalImageUrl": "https://www.sonyalpharumors.com/wp-content/uploads/2026/02/300%D1%85600.jpg",
+    "originalImageArticleUrl": "https://www.sonyalpharumors.com/mark-wiemels-turn-your-sony-a7v-into-a-cinema-camera/",
+    "displayDate": "2026-06-21"
+  }
+}
