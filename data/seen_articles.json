@@ -1,10 +1,6 @@
 {
   "Production Monitor": [
     {
-      "url": "https://www.cined.com/insta360-countersues-dji-over-luna-ultra-patent-war-asserting-five-u-s-patents/",
-      "date": "2026-06-15"
-    },
-    {
       "url": "https://www.cined.com/mrmc-enters-liquidation-weeks-after-nikon-exit-with-asset-sale-agreed-but-not-yet-closed/",
       "date": "2026-06-16"
     },
@@ -27,13 +23,13 @@
     {
       "url": "https://www.cined.com/pocket-wars-dji-vs-insta360-in-court-and-outside-more-industry-consolidation-cined-focus-check-ep121/",
       "date": "2026-06-21"
+    },
+    {
+      "url": "https://www.cined.com/poll-what-would-you-want-from-a-dji-ronin-4d-successor/",
+      "date": "2026-06-22"
     }
   ],
   "SRD / XR": [
-    {
-      "url": "https://prtimes.jp/main/html/rd/p/000000446.000017626.html",
-      "date": "2026-06-15"
-    },
     {
       "url": "https://xtech.nikkei.com/atcl/nxt/column/18/03384/060300016/",
       "date": "2026-06-16"
@@ -57,13 +53,13 @@
     {
       "url": "https://news.yahoo.co.jp/articles/2e3aa75c7b95b414f0fc5f8ffb5ca61336ca4715/images/000",
       "date": "2026-06-21"
+    },
+    {
+      "url": "https://www.moguravr.com/vr-ar-mr-weekly-2026-6-22/",
+      "date": "2026-06-22"
     }
   ],
   "AI": [
-    {
-      "url": "https://www.aljazeera.com/news/2026/6/14/us-asks-anthropic-to-block-global-access-to-top-ai-models-why-it-matters",
-      "date": "2026-06-15"
-    },
     {
       "url": "https://www.cnbc.com/2026/06/15/salesforce-ai-customer-service-fin-acquistion.html",
       "date": "2026-06-16"
@@ -87,13 +83,13 @@
     {
       "url": "https://codezine.jp/article/detail/24532",
       "date": "2026-06-21"
+    },
+    {
+      "url": "https://www.nikkei.com/article/DGXZQOUE2896O0Y6A120C2000000/",
+      "date": "2026-06-22"
     }
   ],
   "Gaming Monitor": [
-    {
-      "url": "https://www.qoo10.co.id/en/gadget/111837/asus-rog-swift-oled-pg34wcdn-us-launch-360hz-ultrawide/",
-      "date": "2026-06-15"
-    },
     {
       "url": "https://explosionnetwork.com/samsung-launches-worlds-first-6k-gaming-monitor-in-new-odyssey-lineup/",
       "date": "2026-06-16"
@@ -117,13 +113,13 @@
     {
       "url": "https://www.rtings.com/monitor/reviews/best/by-price/under-500",
       "date": "2026-06-21"
+    },
+    {
+      "url": "https://tech-insider.org/gaming-monitor-vs-tv-2026/",
+      "date": "2026-06-22"
     }
   ],
   "TCL": [
-    {
-      "url": "https://www.gogi.in/tcl-nxtpaper-70-pro-smartphone-has-a-dedicated-key-that-turns-your-phone-into-an-e-reader.html",
-      "date": "2026-06-15"
-    },
     {
       "url": "https://www.ungeek.ph/2026/06/tcl-breaks-through-as-the-top-global-tv-brand/",
       "date": "2026-06-16"
@@ -147,13 +143,13 @@
     {
       "url": "https://www.ecoustics.com/news/tcl-ijp-oled-monitors/",
       "date": "2026-06-21"
+    },
+    {
+      "url": "https://www.digitalreviews.net/news/industry-news/tcl-sqd-mini-led-tv-sydney-harbour-event/",
+      "date": "2026-06-22"
     }
   ],
   "Camera Control": [
-    {
-      "url": "https://petapixel.com/2026/06/14/what-is-longitudinal-chromatic-aberration-and-why-is-it-so-hard-to-correct/",
-      "date": "2026-06-15"
-    },
     {
       "url": "https://www.dpreview.com/news/3853629933/7artisans-lite-autofocus-primes-z-mount",
       "date": "2026-06-16"
@@ -177,13 +173,13 @@
     {
       "url": "https://www.sonyalpharumors.com/mark-wiemels-turn-your-sony-a7v-into-a-cinema-camera/",
       "date": "2026-06-21"
+    },
+    {
+      "url": "https://www.dpreview.com/articles/6302249762/standout-self-portraits-from-our-community",
+      "date": "2026-06-22"
     }
   ],
   "LED Wall Display": [
-    {
-      "url": "https://www.signlink.co.uk/news/hello-magazine-brings-celebrity-news-to-life-on-uk-shopping-mall-screens/",
-      "date": "2026-06-15"
-    },
     {
       "url": "https://ravepubs.com/av-stumpfl-to-showcase-latest-pixera-media-servers-and-screen-technologies-at-infocomm-2026/",
       "date": "2026-06-16"
@@ -207,13 +203,13 @@
     {
       "url": "https://ravepubs.com/rave-video/infocomm-2026-maxhub-features-raptors-series-integrated-cob-led-wall-solution/",
       "date": "2026-06-21"
+    },
+    {
+      "url": "https://ravepubs.com/rave-tv-episode-270-3-led-evolution-ai-reality-checks-and-what-the-industry-is-missing/",
+      "date": "2026-06-22"
     }
   ],
   "SONY": [
-    {
-      "url": "https://gigazine.net/news/20260613-sony-alpha7r-vi-appearance/",
-      "date": "2026-06-15"
-    },
     {
       "url": "https://nofilmschool.com/sony-sensor-rumors",
       "date": "2026-06-16"
@@ -237,13 +233,13 @@
     {
       "url": "https://thenewcamera.com/sony-fx3-ii-targeted-before-september-2026-following-latest-china-registration/",
       "date": "2026-06-21"
+    },
+    {
+      "url": "https://www.msn.com/en-in/lifestyle/shopping/lytia-l910-is-sony-s-first-mobile-camera-sensor-with-lofic-architecture/ar-AA25PY4R?apiversion=v2&domshim=1&noservercache=1&noservertelemetry=1&batchservertelemetry=1&renderwebcomponents=1&wcseo=1",
+      "date": "2026-06-22"
     }
   ],
   "TV": [
-    {
-      "url": "https://news.yahoo.co.jp/articles/68e3eb558df486a29c33d82c150ef0b113a1dcd6",
-      "date": "2026-06-15"
-    },
     {
       "url": "https://www.goal.com/jp/%E3%83%AA%E3%82%B9%E3%83%88/2026-world-cup-group-f-match-broadcast-schedule/blt0f40cf0dcbb97fa5",
       "date": "2026-06-16"
@@ -267,13 +263,13 @@
     {
       "url": "https://news.yahoo.co.jp/articles/958fd2a01e572faafbb55932440336c7e666d61e",
       "date": "2026-06-21"
+    },
+    {
+      "url": "https://mashable.com/article/april-14-lg-oled-tv-deal",
+      "date": "2026-06-22"
     }
   ],
   "Projector": [
-    {
-      "url": "https://www.chiba-tv.com/plus/detail/amp/2026061739379",
-      "date": "2026-06-15"
-    },
     {
       "url": "https://www.pocket-lint.com/next-tv-could-be-a-projector/",
       "date": "2026-06-16"
@@ -297,6 +293,10 @@
     {
       "url": "https://www.notebookcheck.net/8849-launches-new-rugged-flagship-smartphone-with-built-in-2K-DLP-projector.1325266.0.html",
       "date": "2026-06-21"
+    },
+    {
+      "url": "https://dime.jp/genre/2127025/",
+      "date": "2026-06-22"
     }
   ]
 }

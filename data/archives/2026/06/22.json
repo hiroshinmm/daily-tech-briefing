@@ -1,0 +1,102 @@
+{
+  "SRD / XR": {
+    "title": "注目のARグラス「XREAL AURA」が今秋登場",
+    "summary": "XREALが今秋、新型ARグラス「XREAL AURA」を発売すると発表しました。コンシューマー向けARデバイスの進化と市場の加熱が注目されており、今後の展開が期待されます。",
+    "insight": "コンシューマー向けARグラスにおいて、ハードウェアの軽量化と高精細な光学系の両立が今後の主流になりそうです。エンジニアとしては、単なる画面表示だけでなく、空間コンピューティングを活用したUI/UXの設計が差別化の鍵になると考えられます。",
+    "sourceUrl": "https://www.moguravr.com/vr-ar-mr-weekly-2026-6-22/",
+    "sourceName": "Mogura VR",
+    "originalImageUrl": "https://assets.moguravr.com/uploads/2016/11/a6da5988bfe12bf71ccccafc657108db-kix.jtzktdoxkkmu-300x169.webp",
+    "originalImageArticleUrl": "https://www.moguravr.com/vr-ar-mr-weekly-2026-6-22/",
+    "displayDate": "2026-06-22"
+  },
+  "AI": {
+    "title": "AIスキルが転職の「神器」に、賃金3割増も",
+    "summary": "AIスキルを持つホワイトカラー人材の市場価値が急上昇しています。日本経済新聞の報道によると、AIスキルを保有することで賃金が約3割高く評価される「賃金プレミアム」が顕著になっており、キャリア形成においてAI活用能力が必須のスキルとして定着しつつあります。",
+    "insight": "エンジニアとしては、単なる生成AIの利用にとどまらず、AIを統合したシステムの設計や自動化のアーキテクチャ構築能力が、自身の市場価値を直接的に高める時代になりました。最新のAIモデルを使いこなすだけでなく、その導入によるビジネスプロセスへの影響を定量的に語れることが、今後のエンジニアのキャリアにおいて大きな差別化要因となります。",
+    "sourceUrl": "https://www.nikkei.com/article/DGXZQOUE2896O0Y6A120C2000000/",
+    "sourceName": "日本経済新聞",
+    "originalImageUrl": "https://article-image-ix.nikkei.com/https%3A%2F%2Fimgix-proxy.n8s.jp%2FDSXZQO3139656009062026000000-1.jpg?auto=compress&bg=FFFF&crop=focalpoint&fit=crop&fm=jpg&h=630&w=1200&s=1b44db7b3eeafce0d9fa72108fc379f5",
+    "originalImageArticleUrl": "https://www.nikkei.com/article/DGXZQOUE2896O0Y6A120C2000000/",
+    "displayDate": "2026-06-22"
+  },
+  "SONY": {
+    "title": "ソニーが新型イメージセンサー「LYTIA L910」を発表",
+    "summary": "ソニーは、LOFIC（横方向過電流統合キャパシタ）アーキテクチャを採用した初のモバイル向けカメラセンサー「LYTIA L910」を発表しました。この技術により、明暗差の激しい環境下でも白飛びを抑え、夜間撮影や4K動画撮影の品質が大幅に向上することが期待されています。",
+    "insight": "LOFIC技術は画素単位で飽和電荷量を増やすため、ダイナミックレンジの劇的な向上が見込まれます。ISPだけでなく物理層であるセンサー側の設計で信号の飽和を制御するアプローチは、今後のモバイルデバイスにおけるHDR性能の限界を押し上げる重要な進化です。",
+    "sourceUrl": "https://www.msn.com/en-in/lifestyle/shopping/lytia-l910-is-sony-s-first-mobile-camera-sensor-with-lofic-architecture/ar-AA25PY4R?apiversion=v2&domshim=1&noservercache=1&noservertelemetry=1&batchservertelemetry=1&renderwebcomponents=1&wcseo=1",
+    "sourceName": "MSN",
+    "originalImageUrl": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA25P4qD.img?w=612&h=369&m=4&q=100",
+    "originalImageArticleUrl": "https://www.msn.com/en-in/lifestyle/shopping/lytia-l910-is-sony-s-first-mobile-camera-sensor-with-lofic-architecture/ar-AA25PY4R?apiversion=v2&domshim=1&noservercache=1&noservertelemetry=1&batchservertelemetry=1&renderwebcomponents=1&wcseo=1",
+    "displayDate": "2026-06-22"
+  },
+  "Gaming Monitor": {
+    "title": "ゲーミングモニターとTV、2026年最新の遅延検証結果",
+    "summary": "最新の検証記事にて、2026年時点のゲーミングモニター（5.5ms）とTV（6.8ms）の入力遅延比較結果が公開されました。両者の差は依然として存在しますが、技術の進化によりその差は縮まりつつあります。ゲーマーにとって最適なディスプレイ選択の参考となるデータです。",
+    "insight": "入力遅延がミリ秒単位で議論される時代において、パネル制御技術だけでなく内部処理プロセスの最適化が勝敗を分ける鍵となります。エンジニア視点では、ディスプレイ側の信号処理アーキテクチャや、リフレッシュレートと入力ラグの相関関係に関する最新ベンチマークとして非常に興味深いトピックです。",
+    "sourceUrl": "https://tech-insider.org/gaming-monitor-vs-tv-2026/",
+    "sourceName": "tech-insider.org",
+    "originalImageUrl": "https://tech-insider.org/wp-content/uploads/2026/06/gaming-monitor-vs-tv-2026-1.webp",
+    "originalImageArticleUrl": "https://tech-insider.org/gaming-monitor-vs-tv-2026/",
+    "displayDate": "2026-06-22"
+  },
+  "TV": {
+    "title": "Amazonセールで超大型OLEDテレビが大幅割引中",
+    "summary": "AmazonでLGの97インチOLED evo AI TVが約7,000ドル引き、Samsungの77インチ4K OLEDもセール価格となるなど、ハイエンドディスプレイの価格が急落しています。リビングの体験を刷新する絶好の機会かもしれません。",
+    "insight": "OLED技術のコモディティ化により、大型ディスプレイの価格優位性が高まっています。高精細なディスプレイは開発環境の視認性向上にも寄与するため、エンジニアの生産性向上ツールとしての投資価値を再評価する良い機会と言えます。",
+    "sourceUrl": "https://mashable.com/article/april-14-lg-oled-tv-deal",
+    "sourceName": "Mashable",
+    "originalImageUrl": "https://helios-i.mashable.com/imagery/articles/05hyCKbh8PoHOX3cFday4CD/hero-image.fill.size_1200x675.v1776155512.jpg",
+    "originalImageArticleUrl": "https://mashable.com/article/april-14-lg-oled-tv-deal",
+    "displayDate": "2026-06-22"
+  },
+  "TCL": {
+    "title": "TCLが次世代「SQD-Mini LED」技術を発表",
+    "summary": "TCLがシドニーでのイベントにて、次世代の「SQD-Mini LED」テレビ技術を公開しました。量子ドット技術とMini LEDを統合し、ディスプレイの輝度と色再現性を大幅に向上させた新しい映像体験を提供します。高精細な映像表示における同社の技術的リーダーシップが改めて注目されています。",
+    "insight": "量子ドット（QD）とMini LEDの融合は、現状の液晶ディスプレイが抱えるコントラストと色純度の課題を解決する重要な技術トレンドです。エンジニアの視点では、バックライトのローカルディミングアルゴリズムと画素制御の最適化が、どのようにHDR性能の向上に寄与しているかを注目すべきです。",
+    "sourceUrl": "https://www.digitalreviews.net/news/industry-news/tcl-sqd-mini-led-tv-sydney-harbour-event/",
+    "sourceName": "Digital Reviews Network",
+    "originalImageUrl": "https://i0.wp.com/www.digitalreviews.net/wp-content/uploads/2026/05/TCL_SQD-Mini_LED_TV_feat.jpg?fit=1200%2C628&ssl=1",
+    "originalImageArticleUrl": "https://www.digitalreviews.net/news/industry-news/tcl-sqd-mini-led-tv-sydney-harbour-event/",
+    "displayDate": "2026-06-22"
+  },
+  "Production Monitor": {
+    "title": "映像制作の未来：DJI Ronin 4D後継機に求められるもの",
+    "summary": "2021年の登場以来、4軸ジンバルとLiDARフォーカスで市場を席巻したDJI Ronin 4D。発売から5年が経過し、次世代モデルの登場が期待されています。CineDでは現在、ユーザーが考える「理想の次世代機」についてのアンケートを実施しており、映像制作のプロたちのニーズを調査しています。",
+    "insight": "ハードウェアの限界をソフトウェアと統合技術で突破する設計思想は、ロボティクスと映像制作の融合において非常に示唆に富んでいます。既存プロダクトの改善点から次世代のイノベーションのヒントを抽出するプロセスは、エンジニアリングにおける製品ロードマップ策定の優れた参考例となります。",
+    "sourceUrl": "https://www.cined.com/poll-what-would-you-want-from-a-dji-ronin-4d-successor/",
+    "sourceName": "CineD",
+    "originalImageUrl": "https://www.cined.com/content/uploads/2026/06/ronin-4d-poll-v2-300x169.jpg",
+    "originalImageArticleUrl": "https://www.cined.com/poll-what-would-you-want-from-a-dji-ronin-4d-successor/",
+    "displayDate": "2026-06-22"
+  },
+  "Projector": {
+    "title": "ライカのミニプロジェクター登場！",
+    "summary": "カメラの名門ライカから、最新のレーザー技術を搭載したミニプロジェクター「Cine Compact 1」が登場しました。映画館のような視聴体験を家庭で手軽に実現できる製品として注目されています。",
+    "insight": "光学技術の老舗がAV機器市場に参入するのは、映像エンジニアにとって興味深い動向です。特に小型プロジェクターにおける高精度な投写性能と空間設計の最適化には注目すべきです。",
+    "sourceUrl": "https://dime.jp/genre/2127025/",
+    "sourceName": "@DIME アットダイム",
+    "originalImageUrl": "https://dime.jp/wp-content/uploads/2026/06/01-105-770x433.jpg",
+    "originalImageArticleUrl": "https://dime.jp/genre/2127025/",
+    "displayDate": "2026-06-22"
+  },
+  "LED Wall Display": {
+    "title": "LEDディスプレイの進化とAI時代のAV技術",
+    "summary": "rAVe [TV]の最新エピソードにて、LEDディスプレイ技術の近年の進化と普及状況、そしてAI技術とAV（音響・映像）システムがどのように融合しつつあるかという業界動向が語られました。特に展示会で注目されているディスプレイ技術と、運用インテリジェンスの重要性が議論されています。",
+    "insight": "大型LEDウォールやMicroLEDの普及に伴い、単なる表示デバイスからAIによる運用最適化やリアルタイム制御が可能なインテリジェント・ディスプレイへの転換が加速しています。エンジニアはハードウェアのスペックだけでなく、コンテンツ配信や遠隔管理システムとの統合アーキテクチャに注目すべきです。",
+    "sourceUrl": "https://ravepubs.com/rave-tv-episode-270-3-led-evolution-ai-reality-checks-and-what-the-industry-is-missing/",
+    "sourceName": "rAVe [PUBS]",
+    "originalImageUrl": null,
+    "originalImageArticleUrl": "https://ravepubs.com/rave-tv-episode-270-3-led-evolution-ai-reality-checks-and-what-the-industry-is-missing/",
+    "displayDate": "2026-06-22"
+  },
+  "Camera Control": {
+    "title": "写真コミュニティが取り組む「本気のセルフポートレート」",
+    "summary": "DPReviewのコミュニティにて、National Selfie Dayを記念した「あえてスマホのインカメラを使わない」セルフポートレート企画が話題です。一眼レフやシネレンズを駆使し、自身の環境や機材と対峙するフォトグラファーたちの多様な姿が公開されています。",
+    "insight": "エンジニアの視点では、単なる自撮りを超えて「機材のテスト環境や作業風景」を意図的に切り取る記録手法に注目です。制約の中で最適な光やアングルを探るアプローチは、デバッグや検証作業における問題解決のプロセスと通じるものがあります。",
+    "sourceUrl": "https://www.dpreview.com/articles/6302249762/standout-self-portraits-from-our-community",
+    "sourceName": "Digital Photography Review",
+    "originalImageUrl": "https://2.img-dpreview.com/files/p/E~C0x110S600x450T1200x900~articles/6302249762/6083562-1556e6f1e60d93d86e654ff816dc8de7.jpeg",
+    "originalImageArticleUrl": "https://www.dpreview.com/articles/6302249762/standout-self-portraits-from-our-community",
+    "displayDate": "2026-06-22"
+  }
+}
