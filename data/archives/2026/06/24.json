@@ -1,0 +1,102 @@
+{
+  "SRD / XR": {
+    "title": "三井住友建設、XR活用でトンネル計測を省人化",
+    "summary": "三井住友建設は、トンネル工事の計測業務にXR技術を導入し、省人化を実現しました。従来の測量手法をXRに置き換えることで、作業効率の向上と安全性の確保を図る狙いです。現場のデジタル化を推進する具体的な産業応用事例として注目されます。",
+    "insight": "建設DXにおいて、現場の空間情報をリアルタイムで視覚化するXRは非常に強力なツールです。特に測量プロセスを省人化することで、労働力不足という業界の深刻な課題を技術的に解決する好例といえます。",
+    "sourceUrl": "https://www.nikkan.co.jp/articles/view/00784850",
+    "sourceName": "日刊工業新聞",
+    "originalImageUrl": null,
+    "originalImageArticleUrl": "https://www.nikkan.co.jp/articles/view/00784850",
+    "displayDate": "2026-06-24"
+  },
+  "AI": {
+    "title": "AIバブル懸念でハイテク株が急落",
+    "summary": "米株式市場でAI関連銘柄を中心に大規模な売りが加速しています。AI投資による収益化への疑問や「AIブームはバブルではないか」という懸念が強まっており、半導体関連株などを中心に相場全体が調整局面を迎えています。",
+    "insight": "エンジニアとしては、現在のAI熱狂が実需への転換点に差し掛かっていることを意識すべきです。今後、単なるAI導入だけでなく、具体的なROIやコスト効率を証明できるプロダクト開発がこれまで以上に重視されるようになるでしょう。",
+    "sourceUrl": "https://news.yahoo.co.jp/articles/c7078bf5e4017582c56aba8f3ece415b591d4266",
+    "sourceName": "Yahoo!ニュース",
+    "originalImageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260624-22803575-bloom_st-000-3-view.jpg?exp=10800",
+    "originalImageArticleUrl": "https://news.yahoo.co.jp/articles/c7078bf5e4017582c56aba8f3ece415b591d4266",
+    "displayDate": "2026-06-24"
+  },
+  "Production Monitor": {
+    "title": "iPhoneをLiDAR化：LidarACアプリ登場",
+    "summary": "Tiltaのフォーカス制御システムと連携し、iPhoneをLiDARレンジファインダーとして活用できるiOSアプリ「LidarAC」が登場しました。2台のiPhoneを使い、1台をLiDARセンサー、もう1台をモニターとして機能させることで、正確なフォーカス送りを支援します。",
+    "insight": "スマートフォン内蔵のLiDARセンサーを業務用機材の制御インターフェースとして再利用する手法は、IoTデバイスを活用した低コストなエンジニアリングの好例です。エッジデバイスのセンサーデータをAPI経由でリアルタイム処理し、他システムと統合するアーキテクチャの重要性が高まっています。",
+    "sourceUrl": "https://www.cined.com/lidarac-app-for-tilta-nucleus-m-ii-and-nano-ii-introduced-turn-your-iphone-into-a-lidar-rangefinder/",
+    "sourceName": "CineD",
+    "originalImageUrl": "https://www.cined.com/content/uploads/2026/06/LidarAC-App-featured-300x169.jpeg",
+    "originalImageArticleUrl": "https://www.cined.com/lidarac-app-for-tilta-nucleus-m-ii-and-nano-ii-introduced-turn-your-iphone-into-a-lidar-rangefinder/",
+    "displayDate": "2026-06-24"
+  },
+  "Gaming Monitor": {
+    "title": "ゲーミングモニターの価格破壊が加速！最新OLEDが過去最安値に",
+    "summary": "Amazon Prime Day等のセールにより、LGやSamsungをはじめとする高性能ゲーミングモニターが軒並み過去最安値を記録しています。特に高リフレッシュレートの27インチOLEDモデルやウルトラワイドモニターが大幅な値下げ対象となっており、作業環境のアップデートを検討しているエンジニアにとって非常に魅力的なタイミングとなっています。",
+    "insight": "高精細・高リフレッシュレートのOLEDディスプレイは、コードリーディングの視認性やFPS等の娯楽体験を大幅に向上させます。単なる価格競争だけでなく、開発者の生産性に直結する高解像度・高色域パネルが一般化してきたことは、UI/UX設計を専門とするエンジニアにとってハードウェアの標準基準を見直す好機です。",
+    "sourceUrl": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQWVV6VFotSGR0RzdWdlpNYlR0cm9XakNOZkZQRHBNeV9GM2lQOU82UXFJU1RZM19EenFwb0ZZUExnNG1SWXpNQVZCYjRzR3ZhVzZjc1g0S2owWWUwRHFBMThDbXNSc2I5LVhSNER4eHB0M0prMXc2TGJyYlplU2pMRjRHVzZhMi1ITEJaeUdaTnpRMUlnSEFPRXNWOTN5SEtsTXVJQw?oc=5",
+    "sourceName": "PCMag",
+    "originalImageUrl": null,
+    "originalImageArticleUrl": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQWVV6VFotSGR0RzdWdlpNYlR0cm9XakNOZkZQRHBNeV9GM2lQOU82UXFJU1RZM19EenFwb0ZZUExnNG1SWXpNQVZCYjRzR3ZhVzZjc1g0S2owWWUwRHFBMThDbXNSc2I5LVhSNER4eHB0M0prMXc2TGJyYlplU2pMRjRHVzZhMi1ITEJaeUdaTnpRMUlnSEFPRXNWOTN5SEtsTXVJQw?oc=5",
+    "displayDate": "2026-06-24"
+  },
+  "SONY": {
+    "title": "噂の「ミニ・ヴェニス」か？ ソニー新型カメラFX5が7月に登場へ",
+    "summary": "ソニーの映像制作者向けカメラ「FX」シリーズに、新型機「FX5」が7月に登場するという噂が浮上しています。業界では「ミニ・ヴェニス（Cinema Line最高峰Veniceの小型版）」と期待されており、最新のセンサー技術や小型筐体による機動力への関心が高まっています。",
+    "insight": "プロ向け映像機器の小型化は、高性能センサーを維持しつつ放熱設計や画像処理プロセッサを最適化する高度なハードウェアエンジニアリングの賜物です。FX5が実現するであろうフォームファクタは、今後のモバイル・シネマ制作のワークフローを大きく変える可能性があります。",
+    "sourceUrl": "https://www.sonyalpharumors.com/exclusive-sony-fx5-mini-venice-camera-is-coming-in-july-one-more-suprise-compact/",
+    "sourceName": "SonyAlphaRumors",
+    "originalImageUrl": "https://www.sonyalpharumors.com/wp-content/uploads/2026/06/Amazon-Prime-Day-Deals-Reconditioned-Resale.png",
+    "originalImageArticleUrl": "https://www.sonyalpharumors.com/exclusive-sony-fx5-mini-venice-camera-is-coming-in-july-one-more-suprise-compact/",
+    "displayDate": "2026-06-24"
+  },
+  "TCL": {
+    "title": "TCLが欧州向けテレビにGemini AIを統合",
+    "summary": "TCLが欧州市場向けのスマートテレビにおいて、Googleの生成AI「Gemini」を統合することを発表しました。これにより、検索やコンテンツのパーソナライゼーション機能が大幅に強化される見込みです。",
+    "insight": "コンシューマーデバイスにおけるLLMの統合は、単なる検索以上のUX変革を促します。特にオンデバイスAIとクラウドAIを組み合わせた応答速度の最適化は、家電エンジニアリングの次なる主要な設計課題となるでしょう。",
+    "sourceUrl": "https://www.forbes.com/sites/johnarcher/2026/06/23/tcl-adds-gemini-ai-to-its-european-tvs/",
+    "sourceName": "Forbes",
+    "originalImageUrl": "https://imageio.forbes.com/specials-images/imageserve/6a3aaf1c6afa46dd3d2f66ef/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+    "originalImageArticleUrl": "https://www.forbes.com/sites/johnarcher/2026/06/23/tcl-adds-gemini-ai-to-its-european-tvs/",
+    "displayDate": "2026-06-24"
+  },
+  "Projector": {
+    "title": "名画座「早稲田松竹」が4Kレーザー映写機を導入",
+    "summary": "高田馬場の名画座「早稲田松竹」が、新たに4Kレーザープロジェクターを導入しました。フィルム映写機とデジタル映写機を使い分け、映画の質感を重視した上映環境を整えています。",
+    "insight": "映画館での高精細なレーザー投影は、色再現性やコントラスト比が飛躍的に向上するため、デジタル・サイネージや展示エンジニアにとっても注目すべき技術です。フィルムとデジタルの共存という運用の工夫は、レガシーとモダンを併用するシステムの参考になります。",
+    "sourceUrl": "https://takadanobaba.keizai.biz/photoflash/7722/",
+    "sourceName": "高田馬場経済新聞",
+    "originalImageUrl": "https://images.keizai.biz/takadanobaba_keizai/photonews/1782179266_b.jpg",
+    "originalImageArticleUrl": "https://takadanobaba.keizai.biz/photoflash/7722/",
+    "displayDate": "2026-06-24"
+  },
+  "TV": {
+    "title": "Amazon Prime DayでOLED TVが過去最安値に",
+    "summary": "Amazon Prime Dayに合わせて、LGやSamsungなど主要メーカーのOLED TV（有機ELテレビ）が大幅値下げされています。特にLGの「Evo C5」シリーズなどが過去最安値を記録しており、ゲーミング環境や高画質視聴環境のアップグレードを検討する絶好の機会となっています。",
+    "insight": "大型ディスプレイはゲーミングや開発効率向上のための外付けモニターとしても需要が高いため、この価格変動はインフラ構成のコスト最適化の観点でも注目すべきです。特にリフレッシュレートやパネル性能の進化は、デスク環境のUXに直結する技術トレンドです。",
+    "sourceUrl": "https://www.ign.com/articles/lg-evo-c5-4k-oled-smart-tv-deal-amazon-prime-day-sale",
+    "sourceName": "IGN",
+    "originalImageUrl": "https://assets-prd.ignimgs.com/2026/06/23/lgevoc5-1782250940051.jpg?width=1280&format=jpg&auto=webp&quality=80",
+    "originalImageArticleUrl": "https://www.ign.com/articles/lg-evo-c5-4k-oled-smart-tv-deal-amazon-prime-day-sale",
+    "displayDate": "2026-06-24"
+  },
+  "Camera Control": {
+    "title": "Adobe Creative CloudにAIエージェントが本格導入",
+    "summary": "AdobeはCreative Cloud全体にFireflyベースのAIエージェントを統合しました。PhotoshopやPremiereなどで、ユーザーが自然言語で指示を出すだけで編集タスクを自動化し、クリエイティブな作業時間を最大化することを目指しています。",
+    "insight": "LLMベースの指示駆動型UIが、従来のGUI主導の編集ワークフローをどう変えるかが注目ポイントです。エンジニア視点では、画像処理パイプラインへのAIエージェント統合と、その背後にあるAPIのオーケストレーション手法が実務上の重要なトピックとなります。",
+    "sourceUrl": "https://petapixel.com/2026/06/23/adobes-ai-assistant-wants-to-give-photographers-more-time-for-actual-creative-tasks/",
+    "sourceName": "PetaPixel",
+    "originalImageUrl": "https://petapixel.com/assets/uploads/2026/06/ai-assistant-featured.jpg",
+    "originalImageArticleUrl": "https://petapixel.com/2026/06/23/adobes-ai-assistant-wants-to-give-photographers-more-time-for-actual-creative-tasks/",
+    "displayDate": "2026-06-24"
+  },
+  "LED Wall Display": {
+    "title": "LED照明の新境地：ADJ Jolt MFX 360の革新",
+    "summary": "ADJ社が発表した「Jolt MFX 360」は、レトロな温かみのあるブラインダー効果と、現代的な高輝度ストロボ・ウォッシュ機能を融合させた画期的なデュアルサイドLED照明です。モーション制御機能を備え、多様な演出が可能です。",
+    "insight": "複数の光学特性を単一の筐体に統合する設計は、制御プロトコルの効率化とハードウェアの集約化において重要なトレンドです。エンジニアの視点からは、同期制御と電力管理の最適化が、このような多機能デバイスの実装における鍵となります。",
+    "sourceUrl": "https://ravepubs.com/adj-introduces-the-jolt-mfx-360-a-revolutionary-fixture-combining-retro-warmth-and-modern-intensity/",
+    "sourceName": "rAVe [PUBS]",
+    "originalImageUrl": "https://ravepubs.com/wp-content/uploads/2026/06/Jolt-800x400.webp",
+    "originalImageArticleUrl": "https://ravepubs.com/adj-introduces-the-jolt-mfx-360-a-revolutionary-fixture-combining-retro-warmth-and-modern-intensity/",
+    "displayDate": "2026-06-24"
+  }
+}
