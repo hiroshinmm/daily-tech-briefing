@@ -1,0 +1,102 @@
+{
+  "SRD / XR": {
+    "title": "Snapchat ARグラスが示唆するスマホの未来",
+    "summary": "Snapchatの最新ARグラスを通じて、スマートフォンという既存のデバイスをウェアラブルへ置き換えようとする実験的な試みが注目されています。単なる表示装置を超え、日常生活のインターフェースをどう再定義するのか、その可能性と課題を考察します。",
+    "insight": "スマートフォンを単なるポケットの計算機から、ARグラスを通じた環境没入型UIへと進化させる技術トレンドは、開発者に新たなUXデザインの挑戦を突きつけています。特に遅延や軽量化、視覚的なオーバーレイ設計といったハードウェア制約下でのソフトウェア最適化は、次世代アプリケーション開発の要となるでしょう。",
+    "sourceUrl": "https://www.gizmodo.jp/article/3caf4a1b-ed39-48de-8687-3d30ab33d23d/",
+    "sourceName": "Gizmodo",
+    "originalImageUrl": "https://media.loom-app.com/loom/2026/06/18/4523029e-3244-40c5-954c-f47480220e6c/original.jpg?w=1200&h=630",
+    "originalImageArticleUrl": "https://www.gizmodo.jp/article/3caf4a1b-ed39-48de-8687-3d30ab33d23d/",
+    "displayDate": "2026-06-23"
+  },
+  "AI": {
+    "title": "SpaceXとReflection：63億ドルの計算資源契約",
+    "summary": "SpaceXがオープンソースAIスタートアップのReflectionと、最大63億ドル規模の計算資源（コンピュートパワー）提供に関する契約を締結しました。AIモデルの開発・運用に不可欠なインフラ需要が急拡大しており、宇宙企業とAI企業の異色タッグが注目を集めています。",
+    "insight": "AIモデルのトレーニングや推論には莫大な計算資源が必要であり、GPUリソースを確保できる企業が覇権を握る構図が強まっています。ソフトウェアエンジニアとしては、単なるモデル構築だけでなく、ハードウェア制約を考慮した分散コンピューティングやインフラ最適化の重要性がこれまで以上に高まっています。",
+    "sourceUrl": "https://www.cnbc.com/2026/06/22/spacex-ai-colossus-data-center-reflection.html",
+    "sourceName": "CNBC",
+    "originalImageUrl": "https://image.cnbcfm.com/api/v1/image/108042441-17278930862024-09-07t005101z_1037585345_rc2av9a623uj_rtrmadp_0_musk-ai.jpeg?v=1727893107&w=1920&h=1080",
+    "originalImageArticleUrl": "https://www.cnbc.com/2026/06/22/spacex-ai-colossus-data-center-reflection.html",
+    "displayDate": "2026-06-23"
+  },
+  "SONY": {
+    "title": "ソニーのフラッグシップ「Xperia 1 VIII」欧州で発売開始",
+    "summary": "ソニーの最新フラッグシップスマートフォン「Xperia 1 VIII」が欧州市場で発売されました。高性能なAIカメラ技術を搭載しており、実機レビューやモデル比較、使いこなしのための設定チップスなどが続々と公開され、エンジニアにとっても注目すべきモバイルデバイスの進化を示しています。",
+    "insight": "モバイルデバイスにおけるAI処理は、推論チップとセンサーの統合により、エッジコンピューティングの最前線となっています。エンジニアとしては、カメラの画質最適化に使われる計算写真学(Computational Photography)のアルゴリズム実装や、消費電力効率を維持しつつAI処理を行うSoCの最適化手法に注目すると面白いでしょう。",
+    "sourceUrl": "https://inews.zoombangla.com/sony-xperia-1-viii-goes-on-sale-in-europe-with-ai-camera/",
+    "sourceName": "iNews Zoombangla",
+    "originalImageUrl": "https://inews.zoombangla.com/wp-content/uploads/2026/06/Sony-Xperia-1-VIII.webp",
+    "originalImageArticleUrl": "https://inews.zoombangla.com/sony-xperia-1-viii-goes-on-sale-in-europe-with-ai-camera/",
+    "displayDate": "2026-06-23"
+  },
+  "Gaming Monitor": {
+    "title": "iiyamaから初のOLEDゲーミングモニターが登場",
+    "summary": "iiyamaが同社初となるOLEDゲーミングモニターを発表しました。第4世代のLG製WOLEDパネルを採用し、リフレッシュレート280Hz、輝度1,500nitというハイスペックを実現。高精細な映像体験と高速応答を両立したゲーマー向けのフラッグシップモデルです。",
+    "insight": "WOLED技術の進化により、高リフレッシュレートと高輝度が両立されるようになり、ゲーミングディスプレイの性能が一段階上がりました。エンジニア視点では、GPU側での高フレームレート生成能力と、モニター側の表示遅延を抑える技術の相性が、今後のPCゲーミング環境のボトルネック解消における重要な指標となります。",
+    "sourceUrl": "https://www.tweaktown.com/news/112319/iiyama-launches-its-first-oled-gaming-monitor-with-280hz-1500-nits-and-lgs-fourth-gen-woled-panel/index.html",
+    "sourceName": "TweakTown",
+    "originalImageUrl": null,
+    "originalImageArticleUrl": "https://www.tweaktown.com/news/112319/iiyama-launches-its-first-oled-gaming-monitor-with-280hz-1500-nits-and-lgs-fourth-gen-woled-panel/index.html",
+    "displayDate": "2026-06-23"
+  },
+  "TCL": {
+    "title": "TCLのGoogle TV、欧州でGemini統合を開始",
+    "summary": "TCLは欧州市場向けに、Google TVプラットフォームへAIモデル「Gemini」を統合した製品を展開し始めました。これにより、テレビの検索、おすすめ表示、コンテンツ視聴のパーソナライズがAIによって強化されます。",
+    "insight": "テレビのOSが単なるUIからAIエージェント化するトレンドが加速しています。LLMをローカルやエッジでどう最適化してコンシューマーデバイスに組み込むかは、今後OSエンジニアにとっても重要なアーキテクチャの課題となるでしょう。",
+    "sourceUrl": "https://www.techdigest.tv/2026/06/tcl-rolls-out-google-tv-with-gemini-integration-across-europe.html",
+    "sourceName": "Tech Digest",
+    "originalImageUrl": "https://www.techdigest.tv/wp-content/uploads/2026/06/TCL-TV-1024x616.png",
+    "originalImageArticleUrl": "https://www.techdigest.tv/2026/06/tcl-rolls-out-google-tv-with-gemini-integration-across-europe.html",
+    "displayDate": "2026-06-23"
+  },
+  "Projector": {
+    "title": "「テレビのない生活」を加速？最新プロジェクターの大幅値下げ",
+    "summary": "Aladdin Xの最新プロジェクターが約8万円の大幅値下げを実施。テレビを置かないミニマルな暮らしや、ホームシアター体験を求める層の間で注目を集めています。高画質なレーザー光源や短焦点モデルの普及により、大型ディスプレイを設置する物理的制約から解放される新しい空間設計が現実味を帯びてきました。",
+    "insight": "エンジニアとしては、デバイスが物理的なスペースを占有しなくなることによるインテリアのUI/UXの変化に注目です。高輝度レーザーや反射型投影技術の進化は、リビングやワークスペースのレイアウトに劇的な柔軟性をもたらすでしょう。",
+    "sourceUrl": "https://getnews.jp/archives/3725075/gate",
+    "sourceName": "ガジェット通信 GetNews",
+    "originalImageUrl": "https://getnews.jp/img/archives/2026/06/e92512132610dd098d357f2155bf891a.png",
+    "originalImageArticleUrl": "https://getnews.jp/archives/3725075/gate",
+    "displayDate": "2026-06-23"
+  },
+  "LED Wall Display": {
+    "title": "InfoComm 2026：AIと融合する次世代AVのトレンド",
+    "summary": "ラスベガスで開催されたInfoComm 2026では、AIを活用したワークプレイスの最適化、AV-over-IPの可視化技術、そしてよりポータブルになったライブプロダクションツールが注目を集めました。2万8千人以上の来場者が集まり、業界の進化を体感しました。",
+    "insight": "AV機器が単なるハードウェアからAI駆動のネットワークエンドポイントへと進化しており、ネットワークのテレメトリ可視化（Providius Directなど）が運用上の重要課題となっています。エンジニアとしては、低遅延AVストリーミングとAIオーケストレーションの統合スキルが今後の鍵となるでしょう。",
+    "sourceUrl": "https://ravepubs.com/infocomm-2026-brings-together-the-future-of-work-experience-and-ai/",
+    "sourceName": "rAVe [PUBS]",
+    "originalImageUrl": "https://ravepubs.com/wp-content/uploads/2026/06/InfoComm-2026-Show-1-800x400.webp",
+    "originalImageArticleUrl": "https://ravepubs.com/infocomm-2026-brings-together-the-future-of-work-experience-and-ai/",
+    "displayDate": "2026-06-23"
+  },
+  "TV": {
+    "title": "Prime Day目前：LG OLED TVが記録的安値に",
+    "summary": "Amazon Prime Dayを控え、LGのOLED TV（C5モデル等）が記録的な低価格で販売されています。ゲームやスポーツ観戦に最適な「オールラウンダー」として高評価を得ており、買い替えを検討する絶好のタイミングとなっています。",
+    "insight": "最新のOLEDパネルはリフレッシュレートと応答速度が飛躍的に向上しており、コンソールゲーム開発やUIテスト用ディスプレイとしての実用性も高まっています。特にVRR（可変リフレッシュレート）対応モデルは、エンジニアの作業環境や検証用としても注目すべきスペックです。",
+    "sourceUrl": "https://www.techradar.com/televisions/the-lg-c5-is-the-5-star-oled-tv-id-recommend-for-both-the-world-cup-and-gta-6-and-you-can-get-it-for-a-record-low-price-ahead-of-prime-day-but-it-wont-stick-around-for-long",
+    "sourceName": "TechRadar",
+    "originalImageUrl": "https://cdn.mos.cms.futurecdn.net/sHBrT7LNpYUio8HRjnQVkG-2560-80.jpg",
+    "originalImageArticleUrl": "https://www.techradar.com/televisions/the-lg-c5-is-the-5-star-oled-tv-id-recommend-for-both-the-world-cup-and-gta-6-and-you-can-get-it-for-a-record-low-price-ahead-of-prime-day-but-it-wont-stick-around-for-long",
+    "displayDate": "2026-06-23"
+  },
+  "Camera Control": {
+    "title": "SonyのLOFICセンサー、17段分の広ダイナミックレンジを実現へ",
+    "summary": "SonyがLOFIC技術を採用した新型イメージセンサー「Lytia L910」を発表しました。50MPの解像度を持ち、従来比で大幅に向上した約17段のダイナミックレンジを実現。今年後半にフラッグシップスマホへ搭載される予定で、モバイル撮影の品質を大きく変える可能性があります。",
+    "insight": "LOFIC(Lateral Overflow Integration Capacitor)技術は、飽和電荷量を増大させることでハイライトの白飛びを劇的に抑制します。デジタル回路エンジニアの視点では、画素ごとのキャパシタ設計の最適化と読み出し時のS/N比維持というハードウェアレベルのブレイクスルーであり、今後の画像処理パイプライン設計にも大きな影響を与えるでしょう。",
+    "sourceUrl": "https://petapixel.com/2026/06/22/sonys-first-lofic-image-sensor-promises-nearly-17-stops-of-dynamic-range/",
+    "sourceName": "PetaPixel",
+    "originalImageUrl": "https://petapixel.com/assets/uploads/2026/06/LYTIAL910_Comparison_Video_en0612.mp4",
+    "originalImageArticleUrl": "https://petapixel.com/2026/06/22/sonys-first-lofic-image-sensor-promises-nearly-17-stops-of-dynamic-range/",
+    "displayDate": "2026-06-23"
+  },
+  "Production Monitor": {
+    "title": "Unreal Engineの進化：ARRIのLUKAプラグイン",
+    "summary": "ARRIがUnreal Engine用プラグイン「LUKA」を発表しました。撮影前にライティングやカメラ設定をリアルタイムな仮想環境でテストできるツールで、現場での試行錯誤を減らし、クリエイティブな意思決定を迅速化します。",
+    "insight": "バーチャルプロダクションにおいて、実機とデジタルツインを統合するワークフローは今後ますます重要になります。Unreal Engine上で機材の挙動を再現できる環境は、撮影エンジニアリングの効率化とプリビズの精度向上に大きく貢献するでしょう。",
+    "sourceUrl": "https://www.newsshooter.com/2026/06/22/arri-luka-plugin-for-unreal-engine/?utm_source=rss&utm_medium=rss&utm_campaign=arri-luka-plugin-for-unreal-engine",
+    "sourceName": "Newsshooter",
+    "originalImageUrl": "https://www.newsshooter.com/wp-content/uploads/2026/06/Meet-ARRI-LUKA-Lights-Camera-Previs..jpeg",
+    "originalImageArticleUrl": "https://www.newsshooter.com/2026/06/22/arri-luka-plugin-for-unreal-engine/?utm_source=rss&utm_medium=rss&utm_campaign=arri-luka-plugin-for-unreal-engine",
+    "displayDate": "2026-06-23"
+  }
+}
