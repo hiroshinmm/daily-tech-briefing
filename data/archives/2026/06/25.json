@@ -1,0 +1,102 @@
+{
+  "Gaming Monitor": {
+    "title": "Nintendo Switch 2向け新作タイトル続々発表",
+    "summary": "アークシステムワークスによる情報番組が配信され、「Absolum」の移植や「BLAZBLUE CENTRALFICTION」への新キャラ追加など、Nintendo Switch 2向けの新作・更新情報が相次いで発表されました。名作のリメイクや既存タイトルの継続的なアップデートが注目を集めています。",
+    "insight": "最新ハードウェアの普及期において、過去の名作のリマスターやロングランタイトルへの継続的なアップデートは、ユーザーベースを維持しつつ開発コストを最適化する有効な戦略です。クロスプラットフォーム展開における移植工数の削減や、旧作のコード資産を最新エンジンで活かすノウハウは、現代のゲーム開発における技術的資産の重要性を示唆しています。",
+    "sourceUrl": "https://www.4gamer.net/games/020/G100429/20260624024/",
+    "sourceName": "4Gamer.net − 最新記事",
+    "originalImageUrl": "https://www.4gamer.net/games/236/G023612/20260622003/SS/002.jpg",
+    "originalImageArticleUrl": "https://www.4gamer.net/games/236/G023612/20260622003/",
+    "displayDate": "2026-06-25"
+  },
+  "AI": {
+    "title": "AnthropicがAlibabaを提訴、AIモデル不正アクセスの波紋",
+    "summary": "Anthropic社が、Alibabaが自社のAIモデル「Claude」の情報を不正に取得・利用しているとして提訴しました。この問題はNSA（米国家安全保障局）の利用停止にも発展しており、大手クラウド事業者間でのモデル保護とセキュリティ対策の重要性が浮き彫りになっています。",
+    "insight": "AIモデルの重みやAPI経由のデータ抽出に対するセキュリティ対策は、今後エンジニアにとって喫緊の課題です。モデルの資産価値を守るためのアクセス制限や、API利用におけるガバナンス設計の重要性が高まっています。",
+    "sourceUrl": "https://www.bloomberg.com/news/articles/2026-06-24/anthropic-accuses-alibaba-of-illicitly-accessing-its-ai-models",
+    "sourceName": "Bloomberg.com",
+    "originalImageUrl": null,
+    "originalImageArticleUrl": "https://www.bloomberg.com/news/articles/2026-06-24/anthropic-accuses-alibaba-of-illicitly-accessing-its-ai-models",
+    "displayDate": "2026-06-25"
+  },
+  "Projector": {
+    "title": "3色レーザー搭載！JMGO新4Kプロジェクター",
+    "summary": "JMGOが3色レーザー光源とGoogle TVを搭載した新型プロジェクター「N3 4K」および「N3 SE」を発表しました。高輝度・広色域を実現する最新の光学エンジンと、OSにGoogle TVを採用することで、家庭での視聴体験を大幅にアップデートするモデルとなっています。",
+    "insight": "最新の3色レーザー光源技術は、色再現性と輝度の両面で従来のプロジェクターの限界を超えつつあります。ハードウェアの進化に加え、Google TVの統合によるエコシステム最適化が、現在のホームエンターテインメント開発における標準的なプラットフォーム戦略であることを示唆しています。",
+    "sourceUrl": "https://news.kakaku.com/prdnews/cd=pc/ctcd=0088/id=157113/",
+    "sourceName": "kakaku.com",
+    "originalImageUrl": "https://img1.kakaku.k-img.com/Images/news_icv/1200x630/2026062/20260624163733_711_.jpg",
+    "originalImageArticleUrl": "https://news.kakaku.com/prdnews/cd=pc/ctcd=0088/id=157113/",
+    "displayDate": "2026-06-25"
+  },
+  "SRD / XR": {
+    "title": "民生VRグローブ技術がロボット産業のB2B市場を加速",
+    "summary": "日本のベンチャー企業が開発した民生用VRグローブ技術が、ロボット制御や遠隔操作といった産業用途で注目を集めています。従来の産業用機器と比較してコスト効率に優れ、手軽に高度な触覚フィードバックを実現できる点がB2B現場での導入を加速させています。",
+    "insight": "コンシューマー向けのVR周辺機器が産業用ロボットのインターフェースへと転用される好例です。汎用的なハードウェアをニッチなB2B課題に最適化するアプローチは、今後のXRエコシステムにおける収益化のヒントになるでしょう。",
+    "sourceUrl": "https://news.yahoo.co.jp/articles/8e94877cdf89c6985565826f78c91c8018339a13?page=2",
+    "sourceName": "Yahoo!ニュース",
+    "originalImageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260624-00000062-it_eetimes-000-1-view.jpg?exp=10800",
+    "originalImageArticleUrl": "https://news.yahoo.co.jp/articles/8e94877cdf89c6985565826f78c91c8018339a13?page=2",
+    "displayDate": "2026-06-25"
+  },
+  "TCL": {
+    "title": "2026年版ディスプレイ市場の主要ベンダーとTCL CSOTの存在感",
+    "summary": "デジタルサイネージおよび商用ディスプレイ市場における主要サプライヤーの比較分析が公開されました。SamsungやLGといった大手と並び、TCL傘下のCSOTがディスプレイパネル製造の有力な供給源としてその地位を確立していることが示されています。",
+    "insight": "TCL CSOTは単なるテレビメーカーではなく、グローバルなパネル供給網の要として業界内で重要性を増しています。エンジニアとしては、ハードウェア選定時にTCL CSOT製パネルが採用された商用ディスプレイの仕様やパネルの信頼性データに注目する価値があるでしょう。",
+    "sourceUrl": "https://techbullion.com/reliable-digital-signage-and-commercial-lcd-display-suppliers-in-2026-samsung-lg-boe-tcl-csot-and-rsxd-compared/?ki-cf-botcl=1",
+    "sourceName": "TechBullion",
+    "originalImageUrl": null,
+    "originalImageArticleUrl": "https://techbullion.com/reliable-digital-signage-and-commercial-lcd-display-suppliers-in-2026-samsung-lg-boe-tcl-csot-and-rsxd-compared/?ki-cf-botcl=1",
+    "displayDate": "2026-06-25"
+  },
+  "TV": {
+    "title": "Prime Day到来！高性能OLED TVの狙い目",
+    "summary": "Amazon Prime Dayに伴い、LGやSony、Samsungなどの最新および昨年度フラッグシップモデルのOLED TVが大幅割引されています。特に型落ちモデルは「性能と価格のバランス」が最適化されており、エンジニアの作業用モニターやゲーム環境のアップグレードに非常に魅力的な時期です。",
+    "insight": "OLEDはピクセル単位の自発光による無限のコントラスト比と高速な応答速度を持ち、高負荷な開発環境やゲームでの視認性に優れています。一方で、焼き付き防止技術や最新のパネル制御アルゴリズムを考慮すると、型落ちフラッグシップはコストパフォーマンス的にエンジニアにとって最も合理的で賢い選択肢といえます。",
+    "sourceUrl": "https://www.techradar.com/televisions/ive-tested-every-lg-oled-tv-you-can-buy-today-heres-what-i-recommend-buying-in-the-prime-day-sale-including-4k-bargains-that-are-perfect-for-the-launch-of-gta-6",
+    "sourceName": "TechRadar",
+    "originalImageUrl": "https://cdn.mos.cms.futurecdn.net/zVJb7hwAKuMEZVKyrbCuPF-2560-80.jpg",
+    "originalImageArticleUrl": "https://www.techradar.com/televisions/ive-tested-every-lg-oled-tv-you-can-buy-today-heres-what-i-recommend-buying-in-the-prime-day-sale-including-4k-bargains-that-are-perfect-for-the-launch-of-gta-6",
+    "displayDate": "2026-06-25"
+  },
+  "LED Wall Display": {
+    "title": "InfoComm 2026が示唆する最新LEDディスプレイとAVトレンド",
+    "summary": "InfoComm 2026を終えたEpsonの専門家が、会場での反応と最新動向を総括。プロジェクション技術だけでなく、特に「柔軟性のあるディスプレイソリューション」やdvLED（ダイレクトビューLED）への関心が高まっていることが強調されました。",
+    "insight": "dvLEDの普及に伴い、固定設置だけでなく設置環境に応じた柔軟なデザイン対応が求められています。エンジニアとしては、ハードウェアのスペックだけでなく、配信・制御側の柔軟なアーキテクチャ設計が今後の競争力になると予測されます。",
+    "sourceUrl": "https://ravepubs.com/rants-raves-episode-1533/",
+    "sourceName": "rAVe [PUBS]",
+    "originalImageUrl": "https://ravepubs.com/wp-content/uploads/2026/06/1533-800x400.webp",
+    "originalImageArticleUrl": "https://ravepubs.com/rants-raves-episode-1533/",
+    "displayDate": "2026-06-25"
+  },
+  "SONY": {
+    "title": "ソニーが新型64MPセンサー「LYTIA 610」を発表",
+    "summary": "ソニーがスマートフォン向け積層型CMOSイメージセンサー「LYTIA 610」を発表しました。6400万画素の高解像度を実現し、特に望遠カメラの画質向上をターゲットに設計されています。フラッグシップモデルから普及価格帯まで、スマートフォンカメラの撮影体験を底上げする戦略的な製品です。",
+    "insight": "センサーの小型化と高解像度化の両立は、モバイル計算機としてのカメラ性能を左右する重要なハードウェアアップデートです。特にテレフォト領域におけるノイズ制御やダイナミックレンジの改善は、モバイル画像処理パイプラインのボトルネック解消に大きく貢献するでしょう。",
+    "sourceUrl": "https://sumahodigest.com/?p=63804",
+    "sourceName": "スマホダイジェスト",
+    "originalImageUrl": "https://sumahodigest.com/wp-content/uploads/2026/06/Screenshot-2026-06-24-080443.jpg",
+    "originalImageArticleUrl": "https://sumahodigest.com/?p=63804",
+    "displayDate": "2026-06-25"
+  },
+  "Camera Control": {
+    "title": "Sony、次世代のLOFICセンサーを発表",
+    "summary": "ソニーが最新のポッドキャストにて、独自の「LOFIC（Lateral Overflow Integration Capacitor）センサー」を発表しました。これにより、従来のセンサーと比較してダイナミックレンジや飽和容量が大幅に向上し、極端な輝度差があるシーンでの画質改善が期待されています。",
+    "insight": "LOFIC技術は、画素内に過剰な電荷を逃がすキャパシタを配置することで、白飛びを劇的に抑制する革新的なアーキテクチャです。画像処理パイプラインにおいてRAWデータの特性がどう変化するのか、ソフトウェアエンジニアとしても今後のセンシング技術の進化に注目すべきです。",
+    "sourceUrl": "https://petapixel.com/2026/06/24/vsco-fiasco-sonys-new-sensor-and-fujifilms-fall-plans-the-petapixel-podcast/",
+    "sourceName": "PetaPixel",
+    "originalImageUrl": "https://petapixel.com/assets/uploads/2026/06/VSCOs-Fiasco-Sonys-New-Sensor-and-Fujifilms-Fall-Plans-1600x840.jpg",
+    "originalImageArticleUrl": "https://petapixel.com/2026/06/24/vsco-fiasco-sonys-new-sensor-and-fujifilms-fall-plans-the-petapixel-podcast/",
+    "displayDate": "2026-06-25"
+  },
+  "Production Monitor": {
+    "title": "ARRIがUnreal Engine用プラグイン「LUKA」を公開",
+    "summary": "ARRIは、Unreal Engineで同社の照明機器とシネマカメラを仮想空間内に再現できるプラグイン「LUKA」を発表しました。これにより、実際の撮影前に照明配置やカメラ設定をリアルタイムでシミュレーション可能です。",
+    "insight": "DMXやLiveLinkを用いたライティング制御とカメラパラメータの統合により、仮想プロダクションの精度が劇的に向上します。エンジニアにとっては、ハードウェアとゲームエンジンのシームレスな統合という文脈で注目すべき技術です。",
+    "sourceUrl": "https://www.cined.com/arri-luka-unreal-engine-plugin-announced-virtual-arri-lights-and-cameras-real-time-lumen-previs-dmx-and-livelink-control/",
+    "sourceName": "CineD",
+    "originalImageUrl": "https://www.cined.com/content/uploads/2026/06/ARRI-LUKA-featured-300x169.jpg",
+    "originalImageArticleUrl": "https://www.cined.com/arri-luka-unreal-engine-plugin-announced-virtual-arri-lights-and-cameras-real-time-lumen-previs-dmx-and-livelink-control/",
+    "displayDate": "2026-06-25"
+  }
+}
