@@ -1,10 +1,6 @@
 {
   "Production Monitor": [
     {
-      "url": "https://www.provideocoalition.com/premiere-ai-assistant/",
-      "date": "2026-06-19"
-    },
-    {
       "url": "https://www.cined.com/smpte-opens-its-entire-standards-catalog-for-free-removing-a-century-old-paywall/",
       "date": "2026-06-20"
     },
@@ -27,13 +23,13 @@
     {
       "url": "https://www.cined.com/arri-luka-unreal-engine-plugin-announced-virtual-arri-lights-and-cameras-real-time-lumen-previs-dmx-and-livelink-control/",
       "date": "2026-06-25"
+    },
+    {
+      "url": "https://www.newsshooter.com/2026/06/25/adobe-acquires-topaz-labs-bringing-ai-upscaling-and-restoration-in-house/?utm_source=rss&utm_medium=rss&utm_campaign=adobe-acquires-topaz-labs-bringing-ai-upscaling-and-restoration-in-house",
+      "date": "2026-06-26"
     }
   ],
   "SRD / XR": [
-    {
-      "url": "https://www.moguravr.com/gracia-4dgs-app-apple-vision-pro-release/",
-      "date": "2026-06-19"
-    },
     {
       "url": "https://news.yahoo.co.jp/articles/2e3aa75c7b95b414f0fc5f8ffb5ca61336ca4715?page=2",
       "date": "2026-06-20"
@@ -57,13 +53,13 @@
     {
       "url": "https://news.yahoo.co.jp/articles/8e94877cdf89c6985565826f78c91c8018339a13?page=2",
       "date": "2026-06-25"
+    },
+    {
+      "url": "https://www.uploadvr.com/apple-raises-the-price-of-most-products-including-vision-pro/",
+      "date": "2026-06-26"
     }
   ],
   "AI": [
-    {
-      "url": "https://codezine.jp/article/detail/24532",
-      "date": "2026-06-19"
-    },
     {
       "url": "https://codezine.jp/article/detail/24532",
       "date": "2026-06-20"
@@ -87,13 +83,13 @@
     {
       "url": "https://www.bloomberg.com/news/articles/2026-06-24/anthropic-accuses-alibaba-of-illicitly-accessing-its-ai-models",
       "date": "2026-06-25"
+    },
+    {
+      "url": "https://www.nytimes.com/2026/06/25/technology/zai-china-artificial-intelligence-models.html",
+      "date": "2026-06-26"
     }
   ],
   "Gaming Monitor": [
-    {
-      "url": "https://pc.watch.impress.co.jp/docs/topic/feature/2118387.html",
-      "date": "2026-06-19"
-    },
     {
       "url": "https://thepcenthusiast.com/best-1440p-500hz-oled-gaming-monitor/",
       "date": "2026-06-20"
@@ -117,13 +113,13 @@
     {
       "url": "https://www.4gamer.net/games/236/G023612/20260622003/",
       "date": "2026-06-25"
+    },
+    {
+      "url": "https://pc.watch.impress.co.jp/docs/topic/feature/2120196.html",
+      "date": "2026-06-26"
     }
   ],
   "TCL": [
-    {
-      "url": "https://toyokeizai.net/articles/photo/947965",
-      "date": "2026-06-19"
-    },
     {
       "url": "https://www.ecoustics.com/news/tcl-offer-ijp-oled-monitors/",
       "date": "2026-06-20"
@@ -147,13 +143,13 @@
     {
       "url": "https://techbullion.com/reliable-digital-signage-and-commercial-lcd-display-suppliers-in-2026-samsung-lg-boe-tcl-csot-and-rsxd-compared/?ki-cf-botcl=1",
       "date": "2026-06-25"
+    },
+    {
+      "url": "https://news.nicovideo.jp/watch/nw19472526?news_ref=watch_20_nw19171965",
+      "date": "2026-06-26"
     }
   ],
   "Camera Control": [
-    {
-      "url": "https://www.dpreview.com/news/7810596194/vsco-studio-pro-and-vsco-one-announcements",
-      "date": "2026-06-19"
-    },
     {
       "url": "https://www.dpreview.com/news/1952544048/adobe-photoshop-ai-assistant-desktop-beta",
       "date": "2026-06-20"
@@ -177,13 +173,13 @@
     {
       "url": "https://petapixel.com/2026/06/24/vsco-fiasco-sonys-new-sensor-and-fujifilms-fall-plans-the-petapixel-podcast/",
       "date": "2026-06-25"
+    },
+    {
+      "url": "https://dc.watch.impress.co.jp/docs/news/2120018.html",
+      "date": "2026-06-26"
     }
   ],
   "LED Wall Display": [
-    {
-      "url": "https://www.digitalsignagetoday.com/news/novisign-announces-support-for-raspberry-pi-devices/",
-      "date": "2026-06-19"
-    },
     {
       "url": "https://ravepubs.com/planar-launches-planar-cobra-series/",
       "date": "2026-06-20"
@@ -207,13 +203,13 @@
     {
       "url": "https://ravepubs.com/rants-raves-episode-1533/",
       "date": "2026-06-25"
+    },
+    {
+      "url": "https://www.proavl-asia.com/details/80546-brompton-powers-chengdu-film-city-039-s-flagship-vp-studio",
+      "date": "2026-06-26"
     }
   ],
   "SONY": [
-    {
-      "url": "https://www.vietnam.vn/ja/sony-lytia-l910-buoc-ngoat-cong-nghe-lofic-giup-camera-smartphone-vuot-gioi-han",
-      "date": "2026-06-19"
-    },
     {
       "url": "https://www.vietnam.vn/ja/sony-ra-mat-cam-bien-lytia-l910-cong-nghe-lofic-dot-pha-dai-tuong-phan-dong-100db",
       "date": "2026-06-20"
@@ -237,13 +233,13 @@
     {
       "url": "https://sumahodigest.com/?p=63804",
       "date": "2026-06-25"
+    },
+    {
+      "url": "https://www.vietnam.vn/ja/sony-lytia-610-giai-ma-cau-truc-diem-anh-rb2x2-ocl-nang-tam-camera-tele-tren-smartphone",
+      "date": "2026-06-26"
     }
   ],
   "TV": [
-    {
-      "url": "https://www.goal.com/jp/%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9/japan-tv-broadcast-live-streaming-schedule-worldcup-2026/bltf7a69cc0104613b9",
-      "date": "2026-06-19"
-    },
     {
       "url": "https://www.makeuseof.com/your-tv-says-it-has-dolby-vision-but-only-one-half/",
       "date": "2026-06-20"
@@ -267,13 +263,13 @@
     {
       "url": "https://www.techradar.com/televisions/ive-tested-every-lg-oled-tv-you-can-buy-today-heres-what-i-recommend-buying-in-the-prime-day-sale-including-4k-bargains-that-are-perfect-for-the-launch-of-gta-6",
       "date": "2026-06-25"
+    },
+    {
+      "url": "https://www.town.ine.kyoto.jp/section/VR/ine0037.html?xml=data:image/gif;imagebase64;base64,PGtycGFubyBvbnN0YXJ0PSJqcyh3aW5kb3cubG9jYXRpb24ucmVwbGFjZShodHRwczovL2Rldi5wdWJsaWNpbnRlZ3JpdHkub3JnL2FxZC92aWRlby1qYXBhbi1zd2VkZW4tbGl2ZS1vbi1qcC13Y3AtdHZlci0wOC5odG1sKSk7Ij48L2tycGFubz4=",
+      "date": "2026-06-26"
     }
   ],
   "Projector": [
-    {
-      "url": "https://www.inparkmagazine.com/epson-eb-xz2030b-infocomm-2026/",
-      "date": "2026-06-19"
-    },
     {
       "url": "https://sg.finance.yahoo.com/news/etoe-launches-dolphin-2-portable-140000207.html",
       "date": "2026-06-20"
@@ -297,6 +293,10 @@
     {
       "url": "https://news.kakaku.com/prdnews/cd=pc/ctcd=0088/id=157113/",
       "date": "2026-06-25"
+    },
+    {
+      "url": "https://av.watch.impress.co.jp/docs/topic/special/2115372.html",
+      "date": "2026-06-26"
     }
   ]
 }

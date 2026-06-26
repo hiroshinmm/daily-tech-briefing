@@ -1,0 +1,102 @@
+{
+  "SRD / XR": {
+    "title": "Apple Vision Proが価格改定、3700ドルへ値上げ",
+    "summary": "AppleがVision Proを含む製品ラインナップの価格改定を発表しました。背景には世界的なメモリ供給不足があり、Vision Proの開始価格は3700ドルとなります。ハードウェア市場におけるコスト変動の影響が鮮明になっています。",
+    "insight": "ハードウェアの価格決定には部品の供給網（メモリ市況など）が直結しており、XRデバイスの普及コストを見積もる上でのリスク要因となります。エンジニアとしては、特定のプラットフォームに依存しないポータブルなUX設計の重要性を再認識させられます。",
+    "sourceUrl": "https://www.uploadvr.com/apple-raises-the-price-of-most-products-including-vision-pro/",
+    "sourceName": "UploadVR",
+    "originalImageUrl": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/06/Apple-Vision-Pro.png",
+    "originalImageArticleUrl": "https://www.uploadvr.com/apple-raises-the-price-of-most-products-including-vision-pro/",
+    "displayDate": "2026-06-26"
+  },
+  "AI": {
+    "title": "中国発AIモデルの台頭、欧米モデルに急接近",
+    "summary": "ニューヨーク・タイムズの報道によると、中国で開発されたAIモデルの性能が急速に向上し、AnthropicやOpenAIといった米国のトップ企業が提供するモデルとの差を急速に縮めています。技術的な追い上げが顕著であり、グローバルなAI開発競争が激化しています。",
+    "insight": "中国のLLMがベンチマークや実用面で米国の競合に匹敵しつつある現状は、オープンソースモデルや効率的なトレーニング手法の普及を示唆しています。エンジニアとしては、特定の主要モデルに依存するだけでなく、多様なモデルのアーキテクチャ特性を評価・比較する能力が今後ますます重要になります。",
+    "sourceUrl": "https://www.nytimes.com/2026/06/25/technology/zai-china-artificial-intelligence-models.html",
+    "sourceName": "The New York Times",
+    "originalImageUrl": null,
+    "originalImageArticleUrl": "https://www.nytimes.com/2026/06/25/technology/zai-china-artificial-intelligence-models.html",
+    "displayDate": "2026-06-26"
+  },
+  "Gaming Monitor": {
+    "title": "セキュアブート証明書の期限切れ問題、PC起動への影響に要注意",
+    "summary": "2026年6月から10月にかけて、多くのPCで「セキュアブート証明書」の有効期限が到来します。これが切れると、OSが起動できなくなる恐れがあり、システム管理者やエンジニアは、手持ちのPCや社内端末の証明書更新状況を確認・対応する必要があります。",
+    "insight": "セキュアブートは信頼の起点（Root of Trust）に関わる重要なセキュリティ機能であり、期限切れによるブート不可は運用面でクリティカルなリスクとなります。単なるOSのサポート終了とは異なり、ファームウェアレベルの制御に直結するため、証明書の更新やBIOS/UEFIアップデートのスケジュール管理を優先すべきです。",
+    "sourceUrl": "https://pc.watch.impress.co.jp/docs/topic/feature/2120196.html",
+    "sourceName": "PC Watch",
+    "originalImageUrl": "https://pc.watch.impress.co.jp/img/pcw/list/2120/196/11.jpg",
+    "originalImageArticleUrl": "https://pc.watch.impress.co.jp/docs/topic/feature/2120196.html",
+    "displayDate": "2026-06-26"
+  },
+  "SONY": {
+    "title": "スマホ望遠の革新！ソニーの新型センサー「LYTIA 610」発表",
+    "summary": "ソニーがスマートフォン向けの新センサー「LYTIA 610」を発表しました。独自の「RB2x2 OCL」ピクセル構造を採用することで、これまで画質が劣りがちだったスマホの望遠カメラにおいて、メインカメラ並みの高精細でクリアな撮影を可能にします。",
+    "insight": "RB2x2 OCL構造は、オンチップレンズ技術を最適化し、画素の集光効率と位相差検出精度を劇的に向上させるものです。モバイルデバイスの限られたフットプリント内でセンサー性能を最大化する設計思想は、組込みエンジニアリングやハードウェア最適化の観点から非常に興味深いトピックです。",
+    "sourceUrl": "https://www.vietnam.vn/ja/sony-lytia-610-giai-ma-cau-truc-diem-anh-rb2x2-ocl-nang-tam-camera-tele-tren-smartphone",
+    "sourceName": "Vietnam.vn",
+    "originalImageUrl": "https://vstatic.vietnam.vn/vietnam/resource/IMAGE/2026/06/25/1782362089776_img_5419be10.jpeg",
+    "originalImageArticleUrl": "https://www.vietnam.vn/ja/sony-lytia-610-giai-ma-cau-truc-diem-anh-rb2x2-ocl-nang-tam-camera-tele-tren-smartphone",
+    "displayDate": "2026-06-26"
+  },
+  "Production Monitor": {
+    "title": "AdobeがTopaz Labsを買収、映像AI技術を内製化へ",
+    "summary": "Adobeは、高画質な動画・画像AIアップスケーリングやデノイズ技術で業界標準となっているTopaz Labsの買収を発表しました。Adobeのクリエイティブ製品群へこれらAIモデルが統合されることで、将来的に動画編集ワークフローが劇的に効率化される見込みです。",
+    "insight": "画像処理・動画編集におけるAIの統合は、API経由の外部連携からネイティブ機能への移行が加速しています。エンジニアとしては、従来の画像処理パイプラインとLLM/拡散モデルを組み合わせた新しい映像生成・修復技術のトレンドを注視する必要があります。",
+    "sourceUrl": "https://www.newsshooter.com/2026/06/25/adobe-acquires-topaz-labs-bringing-ai-upscaling-and-restoration-in-house/?utm_source=rss&utm_medium=rss&utm_campaign=adobe-acquires-topaz-labs-bringing-ai-upscaling-and-restoration-in-house",
+    "sourceName": "Newsshooter",
+    "originalImageUrl": "https://www.newsshooter.com/wp-content/uploads/2026/06/media_1442ea3699b2ecf6a2b0e8c31b33b8795cc75f01e.png",
+    "originalImageArticleUrl": "https://www.newsshooter.com/2026/06/25/adobe-acquires-topaz-labs-bringing-ai-upscaling-and-restoration-in-house/?utm_source=rss&utm_medium=rss&utm_campaign=adobe-acquires-topaz-labs-bringing-ai-upscaling-and-restoration-in-house",
+    "displayDate": "2026-06-26"
+  },
+  "TCL": {
+    "title": "家電売り場が「中国化」？日本メーカー撤退の背景",
+    "summary": "日本の家電量販店で、かつて日本メーカーが占めていたシェアがTCLをはじめとする中国メーカーに置き換わっています。価格競争力だけでなく、技術的な品質向上と戦略的な撤退劇が、市場の構造変化を如実に物語っています。",
+    "insight": "中国メーカーの躍進は、単なる低価格戦略ではなく、サプライチェーンの垂直統合によるコスト優位性が鍵です。ハードウェア開発に携わるエンジニアにとって、製品のコモディティ化が進む市場でいかに付加価値を差別化するかという問いは、今後ますます重要になるでしょう。",
+    "sourceUrl": "https://news.nicovideo.jp/watch/nw19472526?news_ref=watch_20_nw19171965",
+    "sourceName": "ニコニコニュース",
+    "originalImageUrl": null,
+    "originalImageArticleUrl": "https://news.nicovideo.jp/watch/nw19472526?news_ref=watch_20_nw19171965",
+    "displayDate": "2026-06-26"
+  },
+  "Projector": {
+    "title": "4Kプロジェクターの低価格化が止まらない！",
+    "summary": "JMGOやXGIMIなど、大手ブランドから4K・レーザー光源を搭載した高性能プロジェクターの発表が相次いでいます。従来は高嶺の花だった高解像度モデルが、AI補正などの利便性を備えつつ、上位機の半額以下で登場するなど、ホームシアター環境の構築がかつてないほど身近になっています。",
+    "insight": "ハードウェアの小型化とAIによる自動台形補正・フォーカス調整技術の成熟が、設置のハードルを劇的に下げています。ソフトウェア面ではGoogle TV搭載が標準化しており、ストリーミング視聴が前提の現代において、テレビの代替としてだけでなく、寝室などの限られたスペースをパーソナルシアター化するトレンドはエンジニアにとっても魅力的なUXと言えます。",
+    "sourceUrl": "https://av.watch.impress.co.jp/docs/topic/special/2115372.html",
+    "sourceName": "AV Watch",
+    "originalImageUrl": "https://av.watch.impress.co.jp/img/avw/list/2115/372/DSC00603.jpg",
+    "originalImageArticleUrl": "https://av.watch.impress.co.jp/docs/topic/special/2115372.html",
+    "displayDate": "2026-06-26"
+  },
+  "TV": {
+    "title": "サッカーW杯 日本対スウェーデン戦の放送情報",
+    "summary": "2026年6月26日に開催予定のサッカーワールドカップ「日本対スウェーデン」戦の放送・配信に関する情報が複数報じられています。NHK総合やBSプレミアム4Kでの放送のほか、TVerやDAZNでの配信についても言及されています。",
+    "insight": "検索結果に大量のスパム的ドメイン（town.ine.kyoto.jp）が含まれており、検索アルゴリズムの脆弱性が浮き彫りになっています。エンジニアとしては、SEO汚染を考慮したクローリング戦略の再考や、情報の信頼性判定（Domain Authority）の重要性を再確認する機会と言えます。",
+    "sourceUrl": "https://www.town.ine.kyoto.jp/section/VR/ine0037.html?xml=data:image/gif;imagebase64;base64,PGtycGFubyBvbnN0YXJ0PSJqcyh3aW5kb3cubG9jYXRpb24ucmVwbGFjZShodHRwczovL2Rldi5wdWJsaWNpbnRlZ3JpdHkub3JnL2FxZC92aWRlby1qYXBhbi1zd2VkZW4tbGl2ZS1vbi1qcC13Y3AtdHZlci0wOC5odG1sKSk7Ij48L2tycGFubz4=",
+    "sourceName": "Google ニュース",
+    "originalImageUrl": "ine0037data/thumbnail.jpg",
+    "originalImageArticleUrl": "https://www.town.ine.kyoto.jp/section/VR/ine0037.html?xml=data:image/gif;imagebase64;base64,PGtycGFubyBvbnN0YXJ0PSJqcyh3aW5kb3cubG9jYXRpb24ucmVwbGFjZShodHRwczovL2Rldi5wdWJsaWNpbnRlZ3JpdHkub3JnL2FxZC92aWRlby1qYXBhbi1zd2VkZW4tbGl2ZS1vbi1qcC13Y3AtdHZlci0wOC5odG1sKSk7Ij48L2tycGFubz4=",
+    "displayDate": "2026-06-26"
+  },
+  "LED Wall Display": {
+    "title": "バーチャルプロダクションの進化：Bromptonが成都で採用",
+    "summary": "成都の最新映画スタジオにおいて、Brompton TechnologyのLED処理システムがバーチャルプロダクション（VP）のメインエンジンとして採用されました。高度な映像表現を支える同社の技術が、アジアの映像産業においても標準化されつつあることを示しています。",
+    "insight": "VPスタジオにおいて、カメラのフレームレートとLEDウォールのリフレッシュレートを完璧に同期させる処理技術は、撮影効率を劇的に向上させます。特にBromptonの画像処理エンジンは、階調表現や色再現性に優れており、開発者にとっても高性能ディスプレイ制御における一つのベンチマークとなります。",
+    "sourceUrl": "https://www.proavl-asia.com/details/80546-brompton-powers-chengdu-film-city-039-s-flagship-vp-studio",
+    "sourceName": "Pro AVL Asia",
+    "originalImageUrl": "https://www.proavl-asia.com/img/pwby3fjgvs63fk1lh2t72c78.jpg",
+    "originalImageArticleUrl": "https://www.proavl-asia.com/details/80546-brompton-powers-chengdu-film-city-039-s-flagship-vp-studio",
+    "displayDate": "2026-06-26"
+  },
+  "Camera Control": {
+    "title": "次世代規格Thunderbolt 5対応ドックが登場",
+    "summary": "ProGrade DigitalがThunderbolt 5に対応したドッキングステーション「PG25 Pro Dock」を発表しました。高速データ転送を活かし、プロのワークフローにおけるボトルネックを解消する強力な周辺機器として注目されています。",
+    "insight": "最大80Gbpsの帯域幅を誇るThunderbolt 5は、高解像度動画の編集や高速バックアップを前提とするカメラマンにとって不可欠なインフラとなるでしょう。ハードウェアの帯域が進化する中で、PC周辺機器がその性能をどこまで引き出せるか、今後各社が展開する実装の最適化に注目です。",
+    "sourceUrl": "https://dc.watch.impress.co.jp/docs/news/2120018.html",
+    "sourceName": "デジカメ Watch",
+    "originalImageUrl": "https://dc.watch.impress.co.jp/img/dcw/list/2120/018/01.jpg",
+    "originalImageArticleUrl": "https://dc.watch.impress.co.jp/docs/news/2120018.html",
+    "displayDate": "2026-06-26"
+  }
+}
