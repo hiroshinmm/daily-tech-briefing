@@ -1,10 +1,6 @@
 {
   "Production Monitor": [
     {
-      "url": "https://www.cined.com/smpte-opens-its-entire-standards-catalog-for-free-removing-a-century-old-paywall/",
-      "date": "2026-06-20"
-    },
-    {
       "url": "https://www.cined.com/pocket-wars-dji-vs-insta360-in-court-and-outside-more-industry-consolidation-cined-focus-check-ep121/",
       "date": "2026-06-21"
     },
@@ -27,13 +23,13 @@
     {
       "url": "https://www.newsshooter.com/2026/06/25/adobe-acquires-topaz-labs-bringing-ai-upscaling-and-restoration-in-house/?utm_source=rss&utm_medium=rss&utm_campaign=adobe-acquires-topaz-labs-bringing-ai-upscaling-and-restoration-in-house",
       "date": "2026-06-26"
+    },
+    {
+      "url": "https://www.cined.com/apple-raises-macbook-and-ipad-prices-as-ai-memory-crisis-reaches-consumer-hardware/",
+      "date": "2026-06-27"
     }
   ],
   "SRD / XR": [
-    {
-      "url": "https://news.yahoo.co.jp/articles/2e3aa75c7b95b414f0fc5f8ffb5ca61336ca4715?page=2",
-      "date": "2026-06-20"
-    },
     {
       "url": "https://news.yahoo.co.jp/articles/2e3aa75c7b95b414f0fc5f8ffb5ca61336ca4715/images/000",
       "date": "2026-06-21"
@@ -57,13 +53,13 @@
     {
       "url": "https://www.uploadvr.com/apple-raises-the-price-of-most-products-including-vision-pro/",
       "date": "2026-06-26"
+    },
+    {
+      "url": "https://cgworld.jp/special-feature/2606-unity-studio.html",
+      "date": "2026-06-27"
     }
   ],
   "AI": [
-    {
-      "url": "https://codezine.jp/article/detail/24532",
-      "date": "2026-06-20"
-    },
     {
       "url": "https://codezine.jp/article/detail/24532",
       "date": "2026-06-21"
@@ -87,13 +83,13 @@
     {
       "url": "https://www.nytimes.com/2026/06/25/technology/zai-china-artificial-intelligence-models.html",
       "date": "2026-06-26"
+    },
+    {
+      "url": "https://www.cnbc.com/2026/06/26/openai-anthropic-new-ai-spending-reality-as-users-shift-to-efficiency.html",
+      "date": "2026-06-27"
     }
   ],
   "Gaming Monitor": [
-    {
-      "url": "https://thepcenthusiast.com/best-1440p-500hz-oled-gaming-monitor/",
-      "date": "2026-06-20"
-    },
     {
       "url": "https://www.rtings.com/monitor/reviews/best/by-price/under-500",
       "date": "2026-06-21"
@@ -117,13 +113,13 @@
     {
       "url": "https://pc.watch.impress.co.jp/docs/topic/feature/2120196.html",
       "date": "2026-06-26"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQcUYtaUg4eHllU2lwVkxLNE96ZUhlTHhfODFQX1l1eGRfSmt4NVNzZ0NFUTItQXFPZ0xQZU9yLTdaLWFGNjd5Vm5PaGNRMi1lY1FKY0FHU1pDQ0wxZkZfdU9Jb0lMUUVPQ0VGYURxV1IzNUJPcW4wUVF1VGtsUHR3aFpMakdRV3I1RTB1NE9hNDEzWkpQd0E?oc=5",
+      "date": "2026-06-27"
     }
   ],
   "TCL": [
-    {
-      "url": "https://www.ecoustics.com/news/tcl-offer-ijp-oled-monitors/",
-      "date": "2026-06-20"
-    },
     {
       "url": "https://www.ecoustics.com/news/tcl-ijp-oled-monitors/",
       "date": "2026-06-21"
@@ -147,13 +143,13 @@
     {
       "url": "https://news.nicovideo.jp/watch/nw19472526?news_ref=watch_20_nw19171965",
       "date": "2026-06-26"
+    },
+    {
+      "url": "https://www.sammobile.com/news/samsung-buy-more-display-panels-chinese-firms/",
+      "date": "2026-06-27"
     }
   ],
   "Camera Control": [
-    {
-      "url": "https://www.dpreview.com/news/1952544048/adobe-photoshop-ai-assistant-desktop-beta",
-      "date": "2026-06-20"
-    },
     {
       "url": "https://www.sonyalpharumors.com/mark-wiemels-turn-your-sony-a7v-into-a-cinema-camera/",
       "date": "2026-06-21"
@@ -177,13 +173,13 @@
     {
       "url": "https://dc.watch.impress.co.jp/docs/news/2120018.html",
       "date": "2026-06-26"
+    },
+    {
+      "url": "https://petapixel.com/2026/06/26/researchers-develop-all-new-pixel-type-that-can-both-record-and-display-light/",
+      "date": "2026-06-27"
     }
   ],
   "LED Wall Display": [
-    {
-      "url": "https://ravepubs.com/planar-launches-planar-cobra-series/",
-      "date": "2026-06-20"
-    },
     {
       "url": "https://ravepubs.com/rave-video/infocomm-2026-maxhub-features-raptors-series-integrated-cob-led-wall-solution/",
       "date": "2026-06-21"
@@ -207,13 +203,13 @@
     {
       "url": "https://www.proavl-asia.com/details/80546-brompton-powers-chengdu-film-city-039-s-flagship-vp-studio",
       "date": "2026-06-26"
+    },
+    {
+      "url": "https://invidis.com/news/2026/06/experiential-lenovo-combines-ai-and-led-in-briefing-center-refresh/",
+      "date": "2026-06-27"
     }
   ],
   "SONY": [
-    {
-      "url": "https://www.vietnam.vn/ja/sony-ra-mat-cam-bien-lytia-l910-cong-nghe-lofic-dot-pha-dai-tuong-phan-dong-100db",
-      "date": "2026-06-20"
-    },
     {
       "url": "https://thenewcamera.com/sony-fx3-ii-targeted-before-september-2026-following-latest-china-registration/",
       "date": "2026-06-21"
@@ -237,13 +233,13 @@
     {
       "url": "https://www.vietnam.vn/ja/sony-lytia-610-giai-ma-cau-truc-diem-anh-rb2x2-ocl-nang-tam-camera-tele-tren-smartphone",
       "date": "2026-06-26"
+    },
+    {
+      "url": "https://www.digitalcameraworld.com/cameras/mirrorless-cameras/the-sony-fx5-has-been-confirmed-for-july-with-a-global-shutter-sensor-and-mini-venice-cinema-features",
+      "date": "2026-06-27"
     }
   ],
   "TV": [
-    {
-      "url": "https://www.makeuseof.com/your-tv-says-it-has-dolby-vision-but-only-one-half/",
-      "date": "2026-06-20"
-    },
     {
       "url": "https://news.yahoo.co.jp/articles/958fd2a01e572faafbb55932440336c7e666d61e",
       "date": "2026-06-21"
@@ -267,13 +263,13 @@
     {
       "url": "https://www.town.ine.kyoto.jp/section/VR/ine0037.html?xml=data:image/gif;imagebase64;base64,PGtycGFubyBvbnN0YXJ0PSJqcyh3aW5kb3cubG9jYXRpb24ucmVwbGFjZShodHRwczovL2Rldi5wdWJsaWNpbnRlZ3JpdHkub3JnL2FxZC92aWRlby1qYXBhbi1zd2VkZW4tbGl2ZS1vbi1qcC13Y3AtdHZlci0wOC5odG1sKSk7Ij48L2tycGFubz4=",
       "date": "2026-06-26"
+    },
+    {
+      "url": "https://news.yahoo.co.jp/articles/c6a1b4337a6da4b738b28ded51e9e2b7df8d8698",
+      "date": "2026-06-27"
     }
   ],
   "Projector": [
-    {
-      "url": "https://sg.finance.yahoo.com/news/etoe-launches-dolphin-2-portable-140000207.html",
-      "date": "2026-06-20"
-    },
     {
       "url": "https://www.notebookcheck.net/8849-launches-new-rugged-flagship-smartphone-with-built-in-2K-DLP-projector.1325266.0.html",
       "date": "2026-06-21"
@@ -297,6 +293,10 @@
     {
       "url": "https://av.watch.impress.co.jp/docs/topic/special/2115372.html",
       "date": "2026-06-26"
+    },
+    {
+      "url": "https://av.watch.impress.co.jp/docs/news/2120337.html",
+      "date": "2026-06-27"
     }
   ]
 }

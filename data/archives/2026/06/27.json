@@ -1,0 +1,102 @@
+{
+  "AI": {
+    "title": "AIトレンド、トークン数から「効率性」重視へ",
+    "summary": "OpenAIやAnthropicなどのAI企業において、ユーザーの関心が単なるモデル性能（トークン数）の追求から、推論コストや実行速度といった「効率性」にシフトしているとの報道。実用的な導入フェーズに入った現在、いかに低コストで成果を出せるかが焦点となっています。",
+    "insight": "エンジニアにとって、モデルの巨大化よりも軽量化やRAGの最適化など、コストパフォーマンスを最大化する設計思想が今後より重要になります。運用コストを意識した推論エンジンの選択や、エッジAIの活用など、スケーラビリティを軸にしたアーキテクチャ設計への転換が求められています。",
+    "sourceUrl": "https://www.cnbc.com/2026/06/26/openai-anthropic-new-ai-spending-reality-as-users-shift-to-efficiency.html",
+    "sourceName": "CNBC",
+    "originalImageUrl": "https://image.cnbcfm.com/api/v1/image/108267178-1771489879337-gettyimages-2261854815-AFP_984W8YD.jpeg?v=1782487838&w=1920&h=1080",
+    "originalImageArticleUrl": "https://www.cnbc.com/2026/06/26/openai-anthropic-new-ai-spending-reality-as-users-shift-to-efficiency.html",
+    "displayDate": "2026-06-27"
+  },
+  "Gaming Monitor": {
+    "title": "49インチの超ワイドモニターが半額で手に入るチャンス",
+    "summary": "Amazonプライムデー等のセールにおいて、1,000ドルクラスのSamsung Odysseyと同等の没入感を提供する49インチの5K2Kウルトラワイドゲーミングモニターが、現在500ドルという大幅な割引価格で提供されています。高解像度かつ広大な作業領域を求めるエンジニアにとって、非常にコストパフォーマンスの高い選択肢となっています。",
+    "insight": "ウルトラワイドモニターは、マルチディスプレイ環境を物理的に一つに統合できるため、IDEのコード配置やデバッグ画面の並列表示に最適です。特に5K2Kクラスの解像度は、文字の視認性と作業効率を劇的に向上させるため、生産性を重視するエンジニアには強く推奨されるアップグレードです。",
+    "sourceUrl": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQcUYtaUg4eHllU2lwVkxLNE96ZUhlTHhfODFQX1l1eGRfSmt4NVNzZ0NFUTItQXFPZ0xQZU9yLTdaLWFGNjd5Vm5PaGNRMi1lY1FKY0FHU1pDQ0wxZkZfdU9Jb0lMUUVPQ0VGYURxV1IzNUJPcW4wUVF1VGtsUHR3aFpMakdRV3I1RTB1NE9hNDEzWkpQd0E?oc=5",
+    "sourceName": "9to5Toys",
+    "originalImageUrl": null,
+    "originalImageArticleUrl": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQcUYtaUg4eHllU2lwVkxLNE96ZUhlTHhfODFQX1l1eGRfSmt4NVNzZ0NFUTItQXFPZ0xQZU9yLTdaLWFGNjd5Vm5PaGNRMi1lY1FKY0FHU1pDQ0wxZkZfdU9Jb0lMUUVPQ0VGYURxV1IzNUJPcW4wUVF1VGtsUHR3aFpMakdRV3I1RTB1NE9hNDEzWkpQd0E?oc=5",
+    "displayDate": "2026-06-27"
+  },
+  "SRD / XR": {
+    "title": "ノーコードでXR開発が加速？Unity Studioを徹底検証",
+    "summary": "CGWORLDがUnityの最新ツール「Unity Studio」を検証。ブラウザから直接操作・公開可能なノーコード環境により、XR開発の敷居が大きく下がると話題です。ベテランエンジニアも「想像以上」と評価するその実力とは？",
+    "insight": "XR制作の民主化が進む中、ブラウザベースのノーコードツールはプロトタイピングの速度を劇的に向上させます。エンジニアとしては、単なる構築だけでなく、これらツールを活用したアセット管理やワークフローの最適化に目を向けるべきです。",
+    "sourceUrl": "https://cgworld.jp/special-feature/2606-unity-studio.html",
+    "sourceName": "CGWORLD.jp",
+    "originalImageUrl": "https://cgworld.jp/special-feature/assets_c/2026/06/b68864ee04e15293c00f1993d32abf162426406b-thumb-1000x554-85740.jpg",
+    "originalImageArticleUrl": "https://cgworld.jp/special-feature/2606-unity-studio.html",
+    "displayDate": "2026-06-27"
+  },
+  "SONY": {
+    "title": "ソニーが7月に新型カメラ「FX5」を発表か",
+    "summary": "ソニーが7月に新型カメラ「FX5」を発表すると報じられています。本機はグローバルシャッターセンサーを搭載し、5Kオープンゲートでの動画撮影に対応する可能性が高いとされており、映像制作の現場で注目を集めています。",
+    "insight": "グローバルシャッターセンサーの採用は、ローリングシャッター歪みを完全に排除できるため、高速な被写体撮影やドローン撮影における品質を劇的に向上させます。シネマラインにおけるこの技術の普及は、画像処理パイプラインのリアルタイム性能向上と、センサー読み出し速度のさらなる進化を示唆しています。",
+    "sourceUrl": "https://www.digitalcameraworld.com/cameras/mirrorless-cameras/the-sony-fx5-has-been-confirmed-for-july-with-a-global-shutter-sensor-and-mini-venice-cinema-features",
+    "sourceName": "Digital Camera World",
+    "originalImageUrl": "https://cdn.mos.cms.futurecdn.net/AAt2t94L7VecrMCm3eeoJ5-684-80.jpg",
+    "originalImageArticleUrl": "https://www.digitalcameraworld.com/cameras/mirrorless-cameras/the-sony-fx5-has-been-confirmed-for-july-with-a-global-shutter-sensor-and-mini-venice-cinema-features",
+    "displayDate": "2026-06-27"
+  },
+  "Projector": {
+    "title": "YouTubeショートが「没入型」へ。UI刷新でUXはどう変わる？",
+    "summary": "YouTubeショートがアップデート。再生画面からアイコンやテキストを一時的に非表示にする「クリアスクリーンモード」が導入されます。視聴時のノイズを減らし、コンテンツへの没入感を高めるためのUI変更です。",
+    "insight": "UI/UXデザインにおいて、あえて操作要素を隠す「没入型」へのトレンドがショート動画でも強まっています。エンジニアとしては、情報密度を下げてUXを向上させる際、操作性と没入感のトレードオフをどう解決すべきか考える良い事例です。",
+    "sourceUrl": "https://av.watch.impress.co.jp/docs/news/2120337.html",
+    "sourceName": "AV Watch",
+    "originalImageUrl": "https://av.watch.impress.co.jp/img/avw/list/2120/337/y1.jpg",
+    "originalImageArticleUrl": "https://av.watch.impress.co.jp/docs/news/2120337.html",
+    "displayDate": "2026-06-27"
+  },
+  "TV": {
+    "title": "ダブル台風接近、気象情報のリアルタイム配信",
+    "summary": "関東・東海地方に接近するダブル台風の影響で、土砂崩れ等の被害が発生し、気象の最新情報が急務となっています。FNNプライムオンライン等のニュースメディアが随時詳細を更新しています。",
+    "insight": "災害時のリアルタイム配信における負荷分散と高可用性の重要性が再認識されます。エッジコンピューティングによるキャッシュ配信や、Push型通知の最適化など、エンジニアが貢献できる領域は依然として広いです。",
+    "sourceUrl": "https://news.yahoo.co.jp/articles/c6a1b4337a6da4b738b28ded51e9e2b7df8d8698",
+    "sourceName": "Yahoo!ニュース",
+    "originalImageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260627-01166712-fnn-000-1-thumb.jpg?exp=10800",
+    "originalImageArticleUrl": "https://news.yahoo.co.jp/articles/c6a1b4337a6da4b738b28ded51e9e2b7df8d8698",
+    "displayDate": "2026-06-27"
+  },
+  "Production Monitor": {
+    "title": "AIデータセンター需要がPC価格を押し上げ",
+    "summary": "AI需要によるメモリ・ストレージの供給逼迫を受け、AppleがMacBookやiPadなどの価格を改定しました。これまでカメラ機材やSSDに及んでいた影響が、ついに主要な一般消費者向けハードウェアにまで波及した形です。",
+    "insight": "AIモデルの学習や推論に必要なメモリ需要が急増しており、これがサプライチェーン全体での半導体不足を深刻化させています。開発者としては、インフラコストの変動がハードウェア調達のリードタイムや予算計画に直接的な影響を与えるリスクを常に考慮する必要があります。",
+    "sourceUrl": "https://www.cined.com/apple-raises-macbook-and-ipad-prices-as-ai-memory-crisis-reaches-consumer-hardware/",
+    "sourceName": "CineD",
+    "originalImageUrl": "https://www.cined.com/content/uploads/2026/06/Apple-Price-Increases-300x169.jpg",
+    "originalImageArticleUrl": "https://www.cined.com/apple-raises-macbook-and-ipad-prices-as-ai-memory-crisis-reaches-consumer-hardware/",
+    "displayDate": "2026-06-27"
+  },
+  "TCL": {
+    "title": "Samsung、CSOT製ディスプレイ採用を拡大へ",
+    "summary": "Samsungが、調達先の多角化とコスト最適化の一環として、TCL傘下のCSOT（China Star Optoelectronics Technology）などの中国ディスプレイメーカーからのパネル調達量を増加させる計画です。",
+    "insight": "大型ディスプレイ市場におけるサプライチェーン再編の動きは、ハードウェアエンジニアにとって重要です。パネル供給の多様化は、MiniLEDやQD-OLEDの価格競争力を左右し、将来的なディスプレイ採用基準に影響を及ぼす可能性があります。",
+    "sourceUrl": "https://www.sammobile.com/news/samsung-buy-more-display-panels-chinese-firms/",
+    "sourceName": "SamMobile",
+    "originalImageUrl": "https://www.sammobile.com/wp-content/uploads/2026/01/Samsung-Logo-CES-2026-1200x675.jpg",
+    "originalImageArticleUrl": "https://www.sammobile.com/news/samsung-buy-more-display-panels-chinese-firms/",
+    "displayDate": "2026-06-27"
+  },
+  "Camera Control": {
+    "title": "撮像と表示を両立する次世代画素技術",
+    "summary": "ETHチューリッヒの研究チームが、画像のキャプチャ（記録）と表示（ディスプレイ）の両方を一台でこなす新しいタイプの画素を開発した。この技術が実用化されれば、カメラとディスプレイの境界が融合したハイブリッドデバイスの実現が期待される。",
+    "insight": "受光素子と発光素子を同一画素に統合するこのアプローチは、センサーとディスプレイの集積技術にブレイクスルーをもたらす可能性があります。デバイスの省スペース化だけでなく、光の入出力制御に関する新たなアーキテクチャの可能性を示唆しており、将来のハードウェア開発における注目トピックです。",
+    "sourceUrl": "https://petapixel.com/2026/06/26/researchers-develop-all-new-pixel-type-that-can-both-record-and-display-light/",
+    "sourceName": "PetaPixel",
+    "originalImageUrl": "https://petapixel.com/assets/uploads/2026/06/fourier-pixel-2.jpg",
+    "originalImageArticleUrl": "https://petapixel.com/2026/06/26/researchers-develop-all-new-pixel-type-that-can-both-record-and-display-light/",
+    "displayDate": "2026-06-27"
+  },
+  "LED Wall Display": {
+    "title": "Lenovoが実現したAI×LEDの融合事例",
+    "summary": "Lenovoが自社のブリーフィングセンターを刷新し、AI技術とLEDウォールを組み合わせた没入型体験スペースを構築しました。デジタルサイネージが単なる情報表示装置から、AIと連動した対話的な空間演出ツールへと進化していることを象徴する事例です。",
+    "insight": "今後のLEDウォール開発では、高画質化だけでなく、AIによるリアルタイムコンテンツ生成やセンサー連携が標準的な要件となります。ハードウェアエンジニアは、低遅延なデータ処理やAIモデルとの統合を見据えたシステムアーキテクチャの設計が求められるでしょう。",
+    "sourceUrl": "https://invidis.com/news/2026/06/experiential-lenovo-combines-ai-and-led-in-briefing-center-refresh/",
+    "sourceName": "Sixteen:Nine",
+    "originalImageUrl": "https://invidis.com/wp-content/uploads/2026/06/Lenovo-EBC-2.jpg",
+    "originalImageArticleUrl": "https://invidis.com/news/2026/06/experiential-lenovo-combines-ai-and-led-in-briefing-center-refresh/",
+    "displayDate": "2026-06-27"
+  }
+}
