@@ -1,0 +1,102 @@
+{
+  "AI": {
+    "title": "米政権がAnthropicの「Mythos」提供を一部解禁",
+    "summary": "トランプ政権は、セキュリティ上の懸念から規制していたAnthropic社のAIモデル「Mythos」について、米国内の企業や政府機関への提供を条件付きで再開することを許可しました。これはAI技術の輸出管理と国内活用における政策転換として注目されています。",
+    "insight": "AIモデルの出力制限や輸出規制は、単なる法的要件を超え、エンジニアにとってもガバナンスとコンプライアンス設計の最重要課題となっています。モデルのリリース戦略において、政府との対話と柔軟なデプロイメント体制の構築が、今後より一層求められるでしょう。",
+    "sourceUrl": "https://www.nikkei.com/article/DGXZQOGN270AJ0X20C26A6000000/",
+    "sourceName": "日本経済新聞",
+    "originalImageUrl": "https://article-image-ix.nikkei.com/https%3A%2F%2Fimgix-proxy.n8s.jp%2FDSXZQO3231416027062026000000-1.jpg?auto=compress&bg=FFFF&crop=focalpoint&fit=crop&fm=jpg&h=630&w=1200&s=fea6f925bfe40334011ee3db0ca9c719",
+    "originalImageArticleUrl": "https://www.nikkei.com/article/DGXZQOGN270AJ0X20C26A6000000/",
+    "displayDate": "2026-06-28"
+  },
+  "SRD / XR": {
+    "title": "企業におけるXR導入率と業務効率化の展望",
+    "summary": "XR技術の導入率は現在わずか5%にとどまっているものの、企業のDX推進における業務効率化への期待値は高まっています。なぜXRがビジネスにおいて注目を集め続けているのか、その可能性と現状の課題について論じています。",
+    "insight": "XR技術は特定の業界での実証実験段階から、現場のワークフロー改善へ本格的な移行期を迎えています。エンジニアとしては、ハードウェアの普及率以上に、既存業務とのAPI連携やデータ統合によるUXの設計がいかに生産性を高めるかが、実装の鍵となります。",
+    "sourceUrl": "https://dxmagazine.jp/news/trykmt202347/",
+    "sourceName": "DXマガジン",
+    "originalImageUrl": null,
+    "originalImageArticleUrl": "https://dxmagazine.jp/news/trykmt202347/",
+    "displayDate": "2026-06-28"
+  },
+  "SONY": {
+    "title": "ソニー「α」シリーズがカメラグランプリで史上初の二冠達成",
+    "summary": "カメラグランプリにて、ソニーのαシリーズが「大賞」と「レンズ賞」を同時に受賞する二冠を達成。同一シリーズでの二度の二冠獲得は史上初となり、技術的卓越性が高く評価されました。さらに7月にはRX10 VやFX5など注目の新製品発表も控えており、市場での存在感を一層強めています。",
+    "insight": "画像処理エンジンやAFアルゴリズムにおけるソフトウェアの最適化が、ハードウェア性能を最大限に引き出している点がエンジニアとして注目すべき要素です。市場の競争環境においても、計算機科学と光学の融合が製品価値の差別化において決定的な役割を果たしています。",
+    "sourceUrl": "https://kunkoku.jp/camera-gp2026-3.html",
+    "sourceName": "ソニーが基本的に好き。",
+    "originalImageUrl": "https://kunkoku.jp/wp-content/uploads/2026/06/260220b06.jpg",
+    "originalImageArticleUrl": "https://kunkoku.jp/camera-gp2026-3.html",
+    "displayDate": "2026-06-28"
+  },
+  "TCL": {
+    "title": "TCLのMini LEDゲーミングTVが大幅値下げ中",
+    "summary": "Amazon等のセールで、TCLの高性能Mini LED 4Kテレビが最大400ドルOFFの特別価格で販売されています。144Hzのリフレッシュレートに対応しており、ゲーミングモニターとしても注目されるモデルです。",
+    "insight": "Mini LEDはローカルディミングによる高いコントラスト比が強みで、液晶の弱点を克服するゲーミング環境の有力な選択肢です。144Hz対応のTVはPCゲーミングと大画面鑑賞を両立させるエンジニアのデスクセットアップにも適しています。",
+    "sourceUrl": "https://theinventory.com/tcl-98-inch-mini-led-4k-tv-144hz-gaming-deal-amazon",
+    "sourceName": "The Inventory",
+    "originalImageUrl": "https://theinventory.com/cdn-cgi/image/width=300,quality=85,format=auto/https://assets.theinventory.com/media/tcl-98-inch-mini-led-4k-tv-144hz-gaming-deal-amazon-1782497090225.png",
+    "originalImageArticleUrl": "https://theinventory.com/tcl-98-inch-mini-led-4k-tv-144hz-gaming-deal-amazon",
+    "displayDate": "2026-06-28"
+  },
+  "TV": {
+    "title": "「テレビ離れ」が全世代で加速、その真因とは？",
+    "summary": "全世代においてテレビの視聴時間が減少する「テレビ離れ」が加速しています。単なるコンテンツ不足ではなく、ライフスタイルの変化やデバイスの多様化が背景にあり、メディア環境の構造的な転換が議論されています。",
+    "insight": "レガシーなブロードキャスト技術から、パーソナライズされたオンデマンド配信へのパラダイムシフトが顕著です。我々エンジニアとしては、単なる視聴率の追従ではなく、UXの最適化とストリーミングインフラの拡張性が今後の差別化要因になると再認識させられます。",
+    "sourceUrl": "https://news.yahoo.co.jp/pickup/6585879",
+    "sourceName": "Yahoo!ニュース",
+    "originalImageUrl": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/6/27/f822405bb127c560516f2ce6ddbfc3e6ddf0efcb11bc1a565b400e107f6eecd1.jpg",
+    "originalImageArticleUrl": "https://news.yahoo.co.jp/pickup/6585879",
+    "displayDate": "2026-06-28"
+  },
+  "Gaming Monitor": {
+    "title": "ハイエンドOLEDゲーミングモニターが大幅値下げ",
+    "summary": "LGの39インチOLEDモニターが通常価格の半額となる800ドルまで値下げされました。また、Alienwareの280Hz駆動QD-OLEDモデルも欧州市場で809ユーロにて展開が開始されるなど、ハイエンドゲーミングディスプレイの価格競争が激化しています。",
+    "insight": "OLEDパネルの量産効率向上と在庫調整による価格低下は、開発環境のアップグレードを検討するエンジニアにとって朗報です。特にリフレッシュレート280Hzや高精細パネルの低価格化は、高フレームレートを要するゲーム開発やUI/UXデザインの検証環境として非常に魅力的な選択肢となります。",
+    "sourceUrl": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNZUFGUXJBa3l2Rjh0ZzVycjN4VWp4dTNwVGdSaDFXcmJ1LUthUzFPUkh6ejZvTGI0UkJNd1JYRExHQ3BIazZtbktMTWVlM2dFb0ZJM1JFckxVWWZSemJRZF9Ua0U5ZjNoQW1qbUczZzZwYjR0T04wVmxwNnVPR2Y2S3JyRFJmWEUzWVFOSw?oc=5",
+    "sourceName": "geekspin",
+    "originalImageUrl": null,
+    "originalImageArticleUrl": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNZUFGUXJBa3l2Rjh0ZzVycjN4VWp4dTNwVGdSaDFXcmJ1LUthUzFPUkh6ejZvTGI0UkJNd1JYRExHQ3BIazZtbktMTWVlM2dFb0ZJM1JFckxVWWZSemJRZF9Ua0U5ZjNoQW1qbUczZzZwYjR0T04wVmxwNnVPR2Y2S3JyRFJmWEUzWVFOSw?oc=5",
+    "displayDate": "2026-06-28"
+  },
+  "Production Monitor": {
+    "title": "AdobeによるTopaz Labs買収が業界に与える影響",
+    "summary": "Adobeが動画・画像補正AIツールで定評のあるTopaz Labsの買収を発表しました。ノイズ除去やアップスケーリング技術でプロの現場に欠かせない存在となっている同社の技術が、今後Adobe Creative Cloud製品群にどう統合されるのか注目が集まっています。",
+    "insight": "AIモデルを製品へ統合する「Buy vs Build」戦略の典型例であり、Adobeのエコシステムがさらに強化されます。エンジニア視点では、既存ツールへのAI実装がSaaS市場の競争力をどう変えるか、今後のUI/UX統合に注目です。",
+    "sourceUrl": "https://www.provideocoalition.com/adobe-to-acquire-topaz-labs/",
+    "sourceName": "ProVideo Coalition",
+    "originalImageUrl": "https://www.provideocoalition.com/wp-content/uploads/Adobe-Topaz.jpeg",
+    "originalImageArticleUrl": "https://www.provideocoalition.com/adobe-to-acquire-topaz-labs/",
+    "displayDate": "2026-06-28"
+  },
+  "Projector": {
+    "title": "4Kゲーミングプロジェクターの台頭",
+    "summary": "近年、高精細な4Kゲーミングプロジェクターが注目を集めています。PCモニターのような没入感を巨大スクリーンで体験できる環境が整いつつあり、Prime Day等のセールを機に導入を検討する層が増えています。",
+    "insight": "高リフレッシュレート対応のプロジェクターの進化により、応答速度の課題が改善され、ゲーミング用途での実用性が向上しています。ハードウェアの進化が体験の場を「机の上」から「リビングや壁一面」へと拡張しています。",
+    "sourceUrl": "https://www.pcgamer.com/hardware/i-love-a-4k-gaming-monitor-but-this-4k-gaming-projector-has-piqued-my-interest-this-prime-day/",
+    "sourceName": "PC Gamer",
+    "originalImageUrl": "https://cdn.mos.cms.futurecdn.net/BFHHyVEUG9KJP9yZMp3FjK-1920-80.jpg",
+    "originalImageArticleUrl": "https://www.pcgamer.com/hardware/i-love-a-4k-gaming-monitor-but-this-4k-gaming-projector-has-piqued-my-interest-this-prime-day/",
+    "displayDate": "2026-06-28"
+  },
+  "Camera Control": {
+    "title": "圧縮なしの画質を求めて。写真共有の限界に挑む新プラットフォーム",
+    "summary": "高画素化が進む現代、大手プラットフォームの強力な圧縮により画質が損なわれる問題に対し、ある開発者が完全無圧縮で写真を表示できる共有サービス「HiRezGo」を立ち上げました。クライアントへの納品など、プロフェッショナルな用途でのニーズに応える試みです。",
+    "insight": "Webプラットフォームにおける画像圧縮とレンダリングのトレードオフは、エンジニアにとっても重要な最適化課題です。ユーザー体験を損なわない高画質保持と、トラフィック・読み込み速度を両立する次世代の画像配信基盤として、こうしたニッチなサービスのアーキテクチャは参考になります。",
+    "sourceUrl": "https://petapixel.com/2026/06/27/this-photographer-got-so-tired-of-compression-he-built-a-photo-sharing-website-without-it/",
+    "sourceName": "PetaPixel",
+    "originalImageUrl": "https://petapixel.com/assets/uploads/2026/06/hirezgo-featured.jpg",
+    "originalImageArticleUrl": "https://petapixel.com/2026/06/27/this-photographer-got-so-tired-of-compression-he-built-a-photo-sharing-website-without-it/",
+    "displayDate": "2026-06-28"
+  },
+  "LED Wall Display": {
+    "title": "Lenovoが実現した「AI×LED」の空間体験",
+    "summary": "Lenovoがブリーフィングセンターの刷新において、最新のLEDディスプレイ技術とAIを融合させた体験型空間を構築しました。物理的なLED壁面とAI解析を組み合わせることで、顧客へのデモンストレーションにおける訴求力と情報の提示効率を大幅に高めることに成功しています。",
+    "insight": "大型LEDディスプレイとAIの連携は、単なる視覚提示を超えたインタラクティブな空間UXとして重要性を増しています。エンジニアとしては、データソースからLEDレンダリングパイプラインまでのリアルタイムな統合アーキテクチャの設計が、今後のAV/IT融合トレンドにおける鍵となります。",
+    "sourceUrl": "https://invidis.com/news/2026/06/experiential-lenovo-combines-ai-and-led-in-briefing-center-refresh/",
+    "sourceName": "Sixteen:Nine",
+    "originalImageUrl": "https://invidis.com/wp-content/uploads/2026/06/Lenovo-EBC-2.jpg",
+    "originalImageArticleUrl": "https://invidis.com/news/2026/06/experiential-lenovo-combines-ai-and-led-in-briefing-center-refresh/",
+    "displayDate": "2026-06-28"
+  }
+}

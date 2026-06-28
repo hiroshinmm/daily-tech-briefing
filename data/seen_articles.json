@@ -1,10 +1,6 @@
 {
   "Production Monitor": [
     {
-      "url": "https://www.cined.com/pocket-wars-dji-vs-insta360-in-court-and-outside-more-industry-consolidation-cined-focus-check-ep121/",
-      "date": "2026-06-21"
-    },
-    {
       "url": "https://www.cined.com/poll-what-would-you-want-from-a-dji-ronin-4d-successor/",
       "date": "2026-06-22"
     },
@@ -27,13 +23,13 @@
     {
       "url": "https://www.cined.com/apple-raises-macbook-and-ipad-prices-as-ai-memory-crisis-reaches-consumer-hardware/",
       "date": "2026-06-27"
+    },
+    {
+      "url": "https://www.provideocoalition.com/adobe-to-acquire-topaz-labs/",
+      "date": "2026-06-28"
     }
   ],
   "SRD / XR": [
-    {
-      "url": "https://news.yahoo.co.jp/articles/2e3aa75c7b95b414f0fc5f8ffb5ca61336ca4715/images/000",
-      "date": "2026-06-21"
-    },
     {
       "url": "https://www.moguravr.com/vr-ar-mr-weekly-2026-6-22/",
       "date": "2026-06-22"
@@ -57,13 +53,13 @@
     {
       "url": "https://cgworld.jp/special-feature/2606-unity-studio.html",
       "date": "2026-06-27"
+    },
+    {
+      "url": "https://dxmagazine.jp/news/trykmt202347/",
+      "date": "2026-06-28"
     }
   ],
   "AI": [
-    {
-      "url": "https://codezine.jp/article/detail/24532",
-      "date": "2026-06-21"
-    },
     {
       "url": "https://www.nikkei.com/article/DGXZQOUE2896O0Y6A120C2000000/",
       "date": "2026-06-22"
@@ -87,13 +83,13 @@
     {
       "url": "https://www.cnbc.com/2026/06/26/openai-anthropic-new-ai-spending-reality-as-users-shift-to-efficiency.html",
       "date": "2026-06-27"
+    },
+    {
+      "url": "https://www.nikkei.com/article/DGXZQOGN270AJ0X20C26A6000000/",
+      "date": "2026-06-28"
     }
   ],
   "Gaming Monitor": [
-    {
-      "url": "https://www.rtings.com/monitor/reviews/best/by-price/under-500",
-      "date": "2026-06-21"
-    },
     {
       "url": "https://tech-insider.org/gaming-monitor-vs-tv-2026/",
       "date": "2026-06-22"
@@ -117,13 +113,13 @@
     {
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQcUYtaUg4eHllU2lwVkxLNE96ZUhlTHhfODFQX1l1eGRfSmt4NVNzZ0NFUTItQXFPZ0xQZU9yLTdaLWFGNjd5Vm5PaGNRMi1lY1FKY0FHU1pDQ0wxZkZfdU9Jb0lMUUVPQ0VGYURxV1IzNUJPcW4wUVF1VGtsUHR3aFpMakdRV3I1RTB1NE9hNDEzWkpQd0E?oc=5",
       "date": "2026-06-27"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNZUFGUXJBa3l2Rjh0ZzVycjN4VWp4dTNwVGdSaDFXcmJ1LUthUzFPUkh6ejZvTGI0UkJNd1JYRExHQ3BIazZtbktMTWVlM2dFb0ZJM1JFckxVWWZSemJRZF9Ua0U5ZjNoQW1qbUczZzZwYjR0T04wVmxwNnVPR2Y2S3JyRFJmWEUzWVFOSw?oc=5",
+      "date": "2026-06-28"
     }
   ],
   "TCL": [
-    {
-      "url": "https://www.ecoustics.com/news/tcl-ijp-oled-monitors/",
-      "date": "2026-06-21"
-    },
     {
       "url": "https://www.digitalreviews.net/news/industry-news/tcl-sqd-mini-led-tv-sydney-harbour-event/",
       "date": "2026-06-22"
@@ -147,13 +143,13 @@
     {
       "url": "https://www.sammobile.com/news/samsung-buy-more-display-panels-chinese-firms/",
       "date": "2026-06-27"
+    },
+    {
+      "url": "https://theinventory.com/tcl-98-inch-mini-led-4k-tv-144hz-gaming-deal-amazon",
+      "date": "2026-06-28"
     }
   ],
   "Camera Control": [
-    {
-      "url": "https://www.sonyalpharumors.com/mark-wiemels-turn-your-sony-a7v-into-a-cinema-camera/",
-      "date": "2026-06-21"
-    },
     {
       "url": "https://www.dpreview.com/articles/6302249762/standout-self-portraits-from-our-community",
       "date": "2026-06-22"
@@ -177,13 +173,13 @@
     {
       "url": "https://petapixel.com/2026/06/26/researchers-develop-all-new-pixel-type-that-can-both-record-and-display-light/",
       "date": "2026-06-27"
+    },
+    {
+      "url": "https://petapixel.com/2026/06/27/this-photographer-got-so-tired-of-compression-he-built-a-photo-sharing-website-without-it/",
+      "date": "2026-06-28"
     }
   ],
   "LED Wall Display": [
-    {
-      "url": "https://ravepubs.com/rave-video/infocomm-2026-maxhub-features-raptors-series-integrated-cob-led-wall-solution/",
-      "date": "2026-06-21"
-    },
     {
       "url": "https://ravepubs.com/rave-tv-episode-270-3-led-evolution-ai-reality-checks-and-what-the-industry-is-missing/",
       "date": "2026-06-22"
@@ -207,13 +203,13 @@
     {
       "url": "https://invidis.com/news/2026/06/experiential-lenovo-combines-ai-and-led-in-briefing-center-refresh/",
       "date": "2026-06-27"
+    },
+    {
+      "url": "https://invidis.com/news/2026/06/experiential-lenovo-combines-ai-and-led-in-briefing-center-refresh/",
+      "date": "2026-06-28"
     }
   ],
   "SONY": [
-    {
-      "url": "https://thenewcamera.com/sony-fx3-ii-targeted-before-september-2026-following-latest-china-registration/",
-      "date": "2026-06-21"
-    },
     {
       "url": "https://www.msn.com/en-in/lifestyle/shopping/lytia-l910-is-sony-s-first-mobile-camera-sensor-with-lofic-architecture/ar-AA25PY4R?apiversion=v2&domshim=1&noservercache=1&noservertelemetry=1&batchservertelemetry=1&renderwebcomponents=1&wcseo=1",
       "date": "2026-06-22"
@@ -237,13 +233,13 @@
     {
       "url": "https://www.digitalcameraworld.com/cameras/mirrorless-cameras/the-sony-fx5-has-been-confirmed-for-july-with-a-global-shutter-sensor-and-mini-venice-cinema-features",
       "date": "2026-06-27"
+    },
+    {
+      "url": "https://kunkoku.jp/camera-gp2026-3.html",
+      "date": "2026-06-28"
     }
   ],
   "TV": [
-    {
-      "url": "https://news.yahoo.co.jp/articles/958fd2a01e572faafbb55932440336c7e666d61e",
-      "date": "2026-06-21"
-    },
     {
       "url": "https://mashable.com/article/april-14-lg-oled-tv-deal",
       "date": "2026-06-22"
@@ -267,13 +263,13 @@
     {
       "url": "https://news.yahoo.co.jp/articles/c6a1b4337a6da4b738b28ded51e9e2b7df8d8698",
       "date": "2026-06-27"
+    },
+    {
+      "url": "https://news.yahoo.co.jp/pickup/6585879",
+      "date": "2026-06-28"
     }
   ],
   "Projector": [
-    {
-      "url": "https://www.notebookcheck.net/8849-launches-new-rugged-flagship-smartphone-with-built-in-2K-DLP-projector.1325266.0.html",
-      "date": "2026-06-21"
-    },
     {
       "url": "https://dime.jp/genre/2127025/",
       "date": "2026-06-22"
@@ -297,6 +293,10 @@
     {
       "url": "https://av.watch.impress.co.jp/docs/news/2120337.html",
       "date": "2026-06-27"
+    },
+    {
+      "url": "https://www.pcgamer.com/hardware/i-love-a-4k-gaming-monitor-but-this-4k-gaming-projector-has-piqued-my-interest-this-prime-day/",
+      "date": "2026-06-28"
     }
   ]
 }
