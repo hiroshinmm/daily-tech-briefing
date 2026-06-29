@@ -1,0 +1,102 @@
+{
+  "SRD / XR": {
+    "title": "平田機工、VR活用で製造ラインの納期を2割短縮",
+    "summary": "平田機工が自動車部品の製造ライン構築において、VRを活用した試運転の前倒しを実現しました。実機組み立て前の仮想空間での検証により、設計の修正や調整を効率化し、全体の納期を2割短縮することに成功しました。",
+    "insight": "製造業におけるデジタルツインやVRの導入が、単なる可視化から実務的な納期短縮へと成果を上げている事例です。エンジニアとしては、物理的な制約を仮想環境でシミュレートすることによる、開発パイプラインのフロントローディング化の重要性が再認識されます。",
+    "sourceUrl": "https://www.nikkei.com/article/DGXZQOJC014ZR0R00C26A6000000/",
+    "sourceName": "日本経済新聞",
+    "originalImageUrl": "https://article-image-ix.nikkei.com/https%3A%2F%2Fimgix-proxy.n8s.jp%2FDSXZQO3122916004062026000000-2.jpg?auto=compress&bg=FFFF&crop=focalpoint&fit=crop&fm=jpg&fp-x=0.21&fp-y=0.28&h=630&w=1200&s=a823b813a7ba4aeb17bbe5f00b3b86d0",
+    "originalImageArticleUrl": "https://www.nikkei.com/article/DGXZQOJC014ZR0R00C26A6000000/",
+    "displayDate": "2026-06-29"
+  },
+  "AI": {
+    "title": "Fordがベテラン技術者を再雇用：AIの限界とは？",
+    "summary": "Fordが、AIの導入による効率化が期待通りに進まなかったことを受け、かつて退職した熟練の「ベテラン技術者」を再雇用していると報じられました。自動化やAIツールだけでは解決できない現場の複雑な課題に対して、人間の経験と直感が改めて重要視されています。",
+    "insight": "AI導入において、ツールに依存しすぎるとかえって属人化していた暗黙知が失われるリスクがあることを示唆しています。エンジニアとしては、AIをあくまで「エンジニアを支援するツール」として位置づけ、ドメイン知識の継承を疎かにしないシステム設計が重要です。",
+    "sourceUrl": "https://techcrunch.com/2026/06/28/ford-rehires-gray-beard-engineers-after-ai-falls-short/",
+    "sourceName": "TechCrunch",
+    "originalImageUrl": "https://techcrunch.com/wp-content/uploads/2026/06/GettyImages-2255983122.jpg?w=1024",
+    "originalImageArticleUrl": "https://techcrunch.com/2026/06/28/ford-rehires-gray-beard-engineers-after-ai-falls-short/",
+    "displayDate": "2026-06-29"
+  },
+  "Gaming Monitor": {
+    "title": "レトロゲー復刻の要は「ロールバック通信」の実装",
+    "summary": "EVO2026にて『ニンジャマスターズ』がSteamで配信開始。注目すべきは、レトロゲームの移植でありながら快適なオンライン対戦を実現するために「ロールバックネットコード」を新規実装している点です。",
+    "insight": "格闘ゲームにおいて通信遅延を極小化するロールバック方式の採用は、レトロ移植の品質基準を大きく引き上げています。既存の古いコードベースに現代の低遅延通信技術を統合するエンジニアリングの工夫は、他ジャンルのレガシーシステム改善にも通じる好例です。",
+    "sourceUrl": "https://www.4gamer.net/games/999/G999901/20260629002/",
+    "sourceName": "4Gamer.net − 最新記事",
+    "originalImageUrl": "https://www.4gamer.net/games/999/G999901/20260629002/SS/002.jpg",
+    "originalImageArticleUrl": "https://www.4gamer.net/games/999/G999901/20260629002/",
+    "displayDate": "2026-06-29"
+  },
+  "SONY": {
+    "title": "ソニー一強時代に変化？中国市場でサムスンセンサーの存在感が拡大",
+    "summary": "これまでスマホ用イメージセンサー市場で圧倒的なシェアを誇ってきたソニーですが、中国メーカーを中心にサムスン製の200MP（2億画素）センサーの採用が拡大しています。高画素化を武器にしたサムスンの台頭により、市場の競争環境が変化しつつあります。",
+    "insight": "イメージセンサーの「画素数競争」と「ソニーの品質戦略」のトレードオフが改めて問われています。センサーの物理特性と画像処理エンジン（ISP）の最適化が製品競争力の要である中で、今後どのような差別化が図られるのか注目です。",
+    "sourceUrl": "https://sumahodigest.com/?p=64060",
+    "sourceName": "スマホダイジェスト",
+    "originalImageUrl": "https://sumahodigest.com/wp-content/uploads/2026/06/Screenshot-2026-06-27-172031.jpg",
+    "originalImageArticleUrl": "https://sumahodigest.com/?p=64060",
+    "displayDate": "2026-06-29"
+  },
+  "Projector": {
+    "title": "4Kゲーミングプロジェクターはモニターの代わりになるか？",
+    "summary": "Prime Day等のセール時期に合わせ、従来のモニターではなく4Kゲーミングプロジェクターを選択肢に入れるエンジニアが増えています。没入感のある大画面環境を構築するメリットと、導入時に考慮すべき課題についての議論が盛り上がっています。",
+    "insight": "入力遅延やリフレッシュレートの向上が進み、プロジェクターは単なる動画視聴用からゲーミング体験の拡張デバイスへと進化しています。ソフトウェアエンジニアの視点では、デスクトップの作業領域の物理的な拡張性と視認性、そして高輝度環境下での色再現性が導入の重要な検討事項となります。",
+    "sourceUrl": "https://www.pcgamer.com/hardware/i-love-a-4k-gaming-monitor-but-this-4k-gaming-projector-has-piqued-my-interest-this-prime-day/",
+    "sourceName": "pcgamer.com",
+    "originalImageUrl": "https://cdn.mos.cms.futurecdn.net/BFHHyVEUG9KJP9yZMp3FjK-1920-80.jpg",
+    "originalImageArticleUrl": "https://www.pcgamer.com/hardware/i-love-a-4k-gaming-monitor-but-this-4k-gaming-projector-has-piqued-my-interest-this-prime-day/",
+    "displayDate": "2026-06-29"
+  },
+  "TCL": {
+    "title": "TCLの躍進：次世代SQD技術で国内市場を猛追",
+    "summary": "TCLが日本市場において、俳優の山崎賢人を起用したマーケティング展開と、次世代SQD（自発光量子ドット）技術を搭載した製品力で、国内大手ブランドを強力に追い上げています。単なる安価な製品という立ち位置から、先端技術で差別化を図る戦略にシフトし、存在感を増しています。",
+    "insight": "次世代SQD技術の採用は、従来のLEDバックライト方式からの大きな技術的転換点であり、色再現性とエネルギー効率の両立を狙っています。ソフトウェア・ハードウェア双方の最適化を進めることで、高コスパかつ高性能なディスプレイ体験を実現しており、エンジニアとしてはその実装コストと輝度制御アルゴリズムの動向に注目です。",
+    "sourceUrl": "https://www.msn.com/ja-jp/news/techandscience/tcl%E3%81%8C%E3%81%99%E3%81%94%E3%81%84-%E5%B1%B1%E5%B4%8E%E8%B3%A2%E4%BA%BA%E8%B5%B7%E7%94%A8-%E6%AC%A1%E4%B8%96%E4%BB%A3sqd%E6%8A%80%E8%A1%93%E3%81%A7%E5%9B%BD%E5%86%85%E3%83%96%E3%83%A9%E3%83%B3%E3%83%89%E3%82%92%E7%8C%9B%E8%BF%BD/ar-AA23btZo?apiversion=v2&domshim=1&noservercache=1&noservertelemetry=1&batchservertelemetry=1&renderwebcomponents=1&wcseo=1",
+    "sourceName": "MSN",
+    "originalImageUrl": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA23bmsF.img?w=612&h=408&m=4&q=100",
+    "originalImageArticleUrl": "https://www.msn.com/ja-jp/news/techandscience/tcl%E3%81%8C%E3%81%99%E3%81%94%E3%81%84-%E5%B1%B1%E5%B4%8E%E8%B3%A2%E4%BA%BA%E8%B5%B7%E7%94%A8-%E6%AC%A1%E4%B8%96%E4%BB%A3sqd%E6%8A%80%E8%A1%93%E3%81%A7%E5%9B%BD%E5%86%85%E3%83%96%E3%83%A9%E3%83%B3%E3%83%89%E3%82%92%E7%8C%9B%E8%BF%BD/ar-AA23btZo?apiversion=v2&domshim=1&noservercache=1&noservertelemetry=1&batchservertelemetry=1&renderwebcomponents=1&wcseo=1",
+    "displayDate": "2026-06-29"
+  },
+  "Production Monitor": {
+    "title": "Linuxとカリフォルニア州の年齢確認法：OSSの議論とプライバシー",
+    "summary": "カリフォルニア州などが推進した「年齢確認」のための法案が、オープンソースコミュニティやプライバシー擁護派からの強い反発を招き、結果として頓挫した一連の騒動について解説。技術と行政の相互理解の難しさが浮き彫りになりました。",
+    "insight": "技術的な文脈を無視した規制が、いかにエンジニアやコミュニティの猛反発を招くかを示す好例です。プライバシー設計（Privacy by Design）やOSSエコシステムへの影響を考慮しない法整備の限界について、チームで議論する良いトピックになるでしょう。",
+    "sourceUrl": "https://www.provideocoalition.com/linux-california-the-state-created-a-royal-mess-by-meddling-in-something-it-didnt-understand-then-suffered-global-backlash-to-the-point-of-conceding-defeat/",
+    "sourceName": "ProVideo Coalition",
+    "originalImageUrl": "https://www.provideocoalition.com/wp-content/uploads/Linux-con-California-hero.jpg",
+    "originalImageArticleUrl": "https://www.provideocoalition.com/linux-california-the-state-created-a-royal-mess-by-meddling-in-something-it-didnt-understand-then-suffered-global-backlash-to-the-point-of-conceding-defeat/",
+    "displayDate": "2026-06-29"
+  },
+  "TV": {
+    "title": "プレミアムTV市場のトレンド：OLEDからMini LEDへ",
+    "summary": "最新の市場予測によると、OLED（有機EL）TVの出荷台数が頭打ちとなる一方で、Mini LEDおよびRGB LEDアーキテクチャを採用したディスプレイがプレミアム市場で支配的になる見通しです。SamsungのS95Hなど、既存のOLED製品が高い評価を受ける中、ディスプレイ技術の主戦場がシフトし始めています。",
+    "insight": "エンジニアの視点では、単なる画素自発光型からバックライト制御技術へ再注目が集まっている点が興味深いです。特にMini LEDによる高コントラスト制御は、従来のローカルディミングアルゴリズムの更なる最適化が求められており、ハードウェアと画像処理ロジックの両面で進化が続いています。",
+    "sourceUrl": "https://www.technetbooks.com/2026/06/oled-tv-shipments-plateau-while-mini.html",
+    "sourceName": "Technetbook",
+    "originalImageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi6GkRxeRh4y5BOWF4hBeoTo4qj0JL88QOjyAjZ7cURsgtIYo7W6-HwL9U_ZdIAcDvW7LIrbOmFpYF90FrqHnf_XvsEh-hRnnXm6byqgD2aUCjkoJnXbwdeV8uC67GDrLVsgn8NNhxlIzh0U3QldQouqMgWAVSSaHSlFJHg-jAU7wL-1nNmTCa2Cs8Fb9b0/w1280-h720-p-k-no-nu/LG%20OLED%20Evo%20W6.jpg",
+    "originalImageArticleUrl": "https://www.technetbooks.com/2026/06/oled-tv-shipments-plateau-while-mini.html",
+    "displayDate": "2026-06-29"
+  },
+  "Camera Control": {
+    "title": "電子vsメカシャッター、どっちがメイン？",
+    "summary": "デジカメ Watchにて、電子シャッターとメカシャッターのどちらをメインで使用しているかを問うアンケートが実施されています。かつては補助的だった電子シャッターが、現在ではメインストリームとして活用されるケースが増えています。",
+    "insight": "読み出し速度の高速化により、電子シャッターは動体歪みの課題を克服しつつあり、メカ機構の摩耗や騒音を回避できるメリットがエンジニアリング的にも重要です。センサーの積層化技術の進化が、カメラの物理的な構造をいかに変容させているか議論の余地があります。",
+    "sourceUrl": "https://dc.watch.impress.co.jp/docs/enquete/2120526.html",
+    "sourceName": "デジカメ Watch",
+    "originalImageUrl": "https://dc.watch.impress.co.jp/img/dcw/list/2120/526/20260626.jpg",
+    "originalImageArticleUrl": "https://dc.watch.impress.co.jp/docs/enquete/2120526.html",
+    "displayDate": "2026-06-29"
+  },
+  "LED Wall Display": {
+    "title": "Lenovoが実現するAI×LEDウォールの未来",
+    "summary": "Lenovoが自社のブリーフィングセンターを刷新し、AI技術とLEDディスプレイを高度に融合させた体験型空間を公開しました。映像とインタラクティブなAIシステムを組み合わせ、顧客体験を最大化する最新のショールーム活用事例です。",
+    "insight": "ハードウェアとしてのLEDウォールに対し、LLMや画像認識などのAIエージェントを組み合わせることで、動的なプレゼンテーションや空間制御を行う「空間コンピューティング」への発展が見られます。エンジニア視点では、低遅延な映像同期技術とAIの推論サーバーをどう統合し、ユーザー体験に落とし込むかというシステムアーキテクチャ設計が鍵となります。",
+    "sourceUrl": "https://invidis.com/news/2026/06/experiential-lenovo-combines-ai-and-led-in-briefing-center-refresh/",
+    "sourceName": "Sixteen:Nine",
+    "originalImageUrl": "https://invidis.com/wp-content/uploads/2026/06/Lenovo-EBC-2.jpg",
+    "originalImageArticleUrl": "https://invidis.com/news/2026/06/experiential-lenovo-combines-ai-and-led-in-briefing-center-refresh/",
+    "displayDate": "2026-06-29"
+  }
+}
