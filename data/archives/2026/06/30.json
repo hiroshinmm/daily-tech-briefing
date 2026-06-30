@@ -1,0 +1,102 @@
+{
+  "AI": {
+    "title": "「AI利用のコスト高」がモデル選定のトレンドを変える",
+    "summary": "AI導入が進む中で、利用コストの増大が企業にとって大きな課題となっています。ロイターの報道によると、多くの企業が単一の高性能モデルに依存するのではなく、タスクに応じたコストパフォーマンスの高いモデルを選択する「最適化」のフェーズへと移行し始めています。",
+    "insight": "エンジニアにとって、今後は推論コストの最適化が重要なスキルとなります。モデルの軽量化や小規模なタスクへの特化型モデル（SLM）の活用など、費用対効果を意識したアーキテクチャ設計が不可欠です。",
+    "sourceUrl": "https://www.reuters.com/business/retail-consumer/cheaper-ai-is-better-soaring-bills-are-reshaping-how-businesses-choose-models-2026-06-29/",
+    "sourceName": "Reuters",
+    "originalImageUrl": null,
+    "originalImageArticleUrl": "https://www.reuters.com/business/retail-consumer/cheaper-ai-is-better-soaring-bills-are-reshaping-how-businesses-choose-models-2026-06-29/",
+    "displayDate": "2026-06-30"
+  },
+  "SRD / XR": {
+    "title": "Syntec Optics、軍用防弾AR/VR光学系を拡充",
+    "summary": "Syntec Opticsが、米軍のAR/VRシステム向けに特化した防弾仕様の光学製品ラインを拡大。過酷な戦場環境下でも使用可能な耐久性を備えた高機能光学デバイスの供給体制を強化し、軍事技術分野でのXR実装を加速させます。",
+    "insight": "XRデバイスの軍事転用において、過酷な物理的耐性は開発上の最大のボトルネックの一つです。民生用デバイスの防弾化は単なる部品選定に留まらず、重量増を抑えつつ光学的精度を担保する高度な材料工学と設計の融合が求められます。",
+    "sourceUrl": "https://news.google.com/rss/articles/CBMicEFVX3lxTE40eFVod3ZtN3hiYTBIc1pyVV9Ta19BeFhHSWFIeEZZQ3Nvc3NuLThvMnNyNElQWkpyc0EwTkdBT2RrSEhqeHNNQjVud0VtNzZFdDBQRjZSVV9QVWNCOFBqbWdtc3pDS0dXZEZUUUJ5aVk?oc=5",
+    "sourceName": "Investing.com",
+    "originalImageUrl": null,
+    "originalImageArticleUrl": "https://news.google.com/rss/articles/CBMicEFVX3lxTE40eFVod3ZtN3hiYTBIc1pyVV9Ta19BeFhHSWFIeEZZQ3Nvc3NuLThvMnNyNElQWkpyc0EwTkdBT2RrSEhqeHNNQjVud0VtNzZFdDBQRjZSVV9QVWNCOFBqbWdtc3pDS0dXZEZUUUJ5aVk?oc=5",
+    "displayDate": "2026-06-30"
+  },
+  "TCL": {
+    "title": "中国にて世界最大のTVパネル工場が建設開始",
+    "summary": "TCL傘下のCSOT（China Star Optoelectronics Technology）が、中国で世界最大級のTVパネル製造工場を建設中であることを発表しました。供給網の強化と次世代ディスプレイ市場でのシェア拡大を狙った大規模プロジェクトです。",
+    "insight": "製造拠点の垂直統合は、Mini LEDや有機ELなどの次世代パネルのコスト競争力を高める重要な戦略です。ハードウェアエンジニアにとっては、パネルのサプライチェーンにおける大容量生産能力の向上と、それに伴う次世代ディスプレイ技術の普及速度に注目すべきです。",
+    "sourceUrl": "https://zamin.uz/en/technology/209762-world-s-largest-tv-factory-under-construction-in-china.html",
+    "sourceName": "Zamin.uz",
+    "originalImageUrl": "https://zamin.uz/uploads/posts/2026-06/zamin_xitoyda-dunyodagi-eng-yirik-televizor-zavodi-barpo-etilmoqda_20260629_183021_75a874b3.webp",
+    "originalImageArticleUrl": "https://zamin.uz/en/technology/209762-world-s-largest-tv-factory-under-construction-in-china.html",
+    "displayDate": "2026-06-30"
+  },
+  "SONY": {
+    "title": "グローバルシャッター搭載か？新型カメラ「FX5」の噂が話題",
+    "summary": "7月に発表が噂されるソニーの次世代カメラ「FX5」に関する情報が注目を集めています。グローバルシャッターセンサーを搭載し、5Kオープンゲート撮影に対応するというスペックが報じられており、映像制作現場でのワークフローに大きな革新をもたらす可能性があります。",
+    "insight": "グローバルシャッターの採用は、ローリングシャッター歪みを完全に排除し、高速な被写体やパン動作の多い映像において決定的な強みとなります。また、オープンゲート撮影への対応は、ポストプロダクションでのクロップやアスペクト比の自由度を大幅に向上させ、エンジニアリング視点でも処理パイプラインの高度化が期待されます。",
+    "sourceUrl": "https://www.digitalcameraworld.com/cameras/mirrorless-cameras/the-sony-fx5-has-been-confirmed-for-july-with-a-global-shutter-sensor-and-mini-venice-cinema-features",
+    "sourceName": "Digital Camera World",
+    "originalImageUrl": "https://cdn.mos.cms.futurecdn.net/AAt2t94L7VecrMCm3eeoJ5-684-80.jpg",
+    "originalImageArticleUrl": "https://www.digitalcameraworld.com/cameras/mirrorless-cameras/the-sony-fx5-has-been-confirmed-for-july-with-a-global-shutter-sensor-and-mini-venice-cinema-features",
+    "displayDate": "2026-06-30"
+  },
+  "TV": {
+    "title": "LG C6 OLED TVの最新レビューとゲーミング性能",
+    "summary": "LGの最新OLED TV「C6」がレビューされました。4K解像度かつ165Hzのリフレッシュレートに対応しており、Dolby Visionもサポートする高性能モデルです。高精細な映像と低遅延なゲーミング体験を両立させています。",
+    "insight": "165Hzのハイリフレッシュレート対応は、PCモニター市場のトレンドがリビングの大画面TVにも浸透していることを示しています。エンジニア目線では、HDMI 2.1の帯域制限やVRR(可変リフレッシュレート)の実装状況が、開発環境や次世代ゲーム開発におけるディスプレイ要件として重要になります。",
+    "sourceUrl": "https://theinventory.com/lg-c6-oled-tv-gaming-review-deal",
+    "sourceName": "The Inventory",
+    "originalImageUrl": "https://theinventory.com/cdn-cgi/image/width=300,quality=85,format=auto/https://assets.theinventory.com/media/lg-c6-oled-tv-gaming-review-deal-1782760972782.png",
+    "originalImageArticleUrl": "https://theinventory.com/lg-c6-oled-tv-gaming-review-deal",
+    "displayDate": "2026-06-30"
+  },
+  "Gaming Monitor": {
+    "title": "ゲーミングモニター購入のチャンス！Prime Dayと割引セール",
+    "summary": "現在、Amazon Prime DayやDellのPC購入特典など、ゲーミングモニターを大幅にお得に購入できるセールが複数展開されています。RTINGS等による2026年版ベストモニターの選定と合わせ、OLEDモデルや27インチの人気機種を検討する絶好の機会です。",
+    "insight": "ハードウェアのセール情報は、開発環境のアップグレードや検証機材の調達を検討する際のコスト最適化に直結します。特に高リフレッシュレートやOLEDパネルの普及は、UI/UXの視認性テスト環境の質を向上させる良い投資となります。",
+    "sourceUrl": "https://www.pcmag.com/news/best-amazon-prime-day-sale-monitor-deals-2026-still-available",
+    "sourceName": "PCMag",
+    "originalImageUrl": "https://i.pcmag.com/imagery/articles/05VecqH6EzHtDaQVNLuzlqI-1.fit_lim.size_1200x630.v1782754788.png",
+    "originalImageArticleUrl": "https://www.pcmag.com/news/best-amazon-prime-day-sale-monitor-deals-2026-still-available",
+    "displayDate": "2026-06-30"
+  },
+  "Production Monitor": {
+    "title": "AdobeによるTopaz Labs買収、映像編集AIの統合が加速",
+    "summary": "Adobeが動画・画像補正ツールで有名なTopaz Labsを買収すると発表しました。今後はTopazのアップスケーリングやノイズ除去モデルがAdobe FireflyやCreative Cloudに統合されます。既存のスタンドアロン製品も継続提供予定です。",
+    "insight": "AI特化型企業の買収は、大手プラットフォームにおけるAI機能の垂直統合を加速させる典型例です。エッジ処理モデルの統合によるワークフローの効率化や、既存アプリへのネイティブ実装の進展に注目が集まります。",
+    "sourceUrl": "https://www.cined.com/adobe-to-acquire-topaz-labs-ai-upscaling-and-image-enhancement-on-device-models-standalone-apps-to-continue/",
+    "sourceName": "CineD",
+    "originalImageUrl": "https://www.cined.com/content/uploads/2026/06/Adobe-Topaz-Labs-copy-300x169.jpg",
+    "originalImageArticleUrl": "https://www.cined.com/adobe-to-acquire-topaz-labs-ai-upscaling-and-image-enhancement-on-device-models-standalone-apps-to-continue/",
+    "displayDate": "2026-06-30"
+  },
+  "Projector": {
+    "title": "映画史上初！「Shot For SCREEN X」の衝撃",
+    "summary": "7月31日公開の映画『スパイダーマン：ブランド・ニュー・デイ』が、映画史上初めて最初から3面スクリーン（SCREEN X）向けに撮影された「Shot For SCREEN X」作品として上映されることが決定しました。従来の変換手法ではなく、専用の画角で撮影される映像体験に注目が集まっています。",
+    "insight": "ポストプロダクションでの変換ではなく、撮影段階からマルチスクリーン環境を前提としたコンポジションを行う手法は、映像表現の新しいパラダイムです。エンジニア視点では、広角レンズの歪み補正や複数台のプロジェクターによるシームレスな同期技術など、レンダリングおよび投影システムの高度化に注目すべきでしょう。",
+    "sourceUrl": "https://av.watch.impress.co.jp/docs/news/2120888.html",
+    "sourceName": "AV Watch",
+    "originalImageUrl": "https://av.watch.impress.co.jp/img/avw/list/2120/888/plf.jpg",
+    "originalImageArticleUrl": "https://av.watch.impress.co.jp/docs/news/2120888.html",
+    "displayDate": "2026-06-30"
+  },
+  "LED Wall Display": {
+    "title": "Samsungの教育向けインタラクティブディスプレイ新機能",
+    "summary": "Samsungが教育現場での利用を想定したAndroidベースのインタラクティブディスプレイ向けの新ツールを発表しました。特に「Samsung Account Management Solution (AMS)」のプリインストールにより、教室のディスプレイ管理と運用が大幅に効率化されます。",
+    "insight": "UI/UXが複雑化しやすい共有ディスプレイにおいて、アカウント管理の抽象化と運用自動化は非常に重要なエンジニアリング課題です。ハードウェアを制御するAndroidレイヤーのカスタマイズを通じて、教室というマルチユーザー環境での運用負荷をいかに低減するかが製品の鍵となります。",
+    "sourceUrl": "https://ravepubs.com/samsung-launches-new-education-tools-for-interactive-displays-at-istelive-26/",
+    "sourceName": "rAVe [PUBS]",
+    "originalImageUrl": "https://ravepubs.com/wp-content/uploads/2026/06/SamsungEducation-800x400.webp",
+    "originalImageArticleUrl": "https://ravepubs.com/samsung-launches-new-education-tools-for-interactive-displays-at-istelive-26/",
+    "displayDate": "2026-06-30"
+  },
+  "Camera Control": {
+    "title": "Insta360がジンバルカメラ市場に参入！「Luna」シリーズの裏側",
+    "summary": "アクションカメラの先駆者Insta360が、新たにジンバルカメラ「Luna」シリーズを投入。開発には約5年の歳月を費やしており、1型センサーや望遠レンズを搭載した「Luna Ultra」など、スマホのカメラ性能に迫る本格的なスペックを実現しました。",
+    "insight": "ハードウェアのコモディティ化が進む中、5年という長期開発で独自の手ブレ補正や画質処理アルゴリズムを突き詰める姿勢は、製品の差別化戦略として非常に興味深いです。特に光学系とソフトウェア処理の高度な統合が、ジンバル市場にどのような新しいUXをもたらすかが注目されます。",
+    "sourceUrl": "https://petapixel.com/2026/06/29/it-took-insta360-about-five-years-to-make-its-new-luna-gimbal-cameras/",
+    "sourceName": "PetaPixel",
+    "originalImageUrl": "https://petapixel.com/assets/uploads/2026/06/Luna-Ultra-Insta360-Finally-Reveals-Full-Details-of-the-Leica-Branded-Gimbal-Camera.jpg",
+    "originalImageArticleUrl": "https://petapixel.com/2026/06/29/it-took-insta360-about-five-years-to-make-its-new-luna-gimbal-cameras/",
+    "displayDate": "2026-06-30"
+  }
+}
