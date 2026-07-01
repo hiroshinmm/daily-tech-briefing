@@ -1,0 +1,102 @@
+{
+  "AI": {
+    "title": "企業が直面するAIトークンコスト管理の課題",
+    "summary": "WSJが報じたところによると、多くの企業がAI利用の拡大に伴い、トークン消費量に基づくAPI利用料金の増大に頭を悩ませています。単なる実験段階を超え、実用的なコスト最適化がエンジニアリングの重要な責務となっています。",
+    "insight": "AI導入のROIを最大化するには、プロンプトの効率化やキャッシュ戦略の導入、あるいはLLMの使い分けといったコスト意識を持ったアーキテクチャ設計が不可欠です。今後はAIの機能性だけでなく、トークン効率を考慮した『コスト・エンジニアリング』がエンジニアの必須スキルになるでしょう。",
+    "sourceUrl": "https://www.wsj.com/cio-journal/how-companies-are-managing-ai-token-spend-833b6f7e",
+    "sourceName": "WSJ",
+    "originalImageUrl": null,
+    "originalImageArticleUrl": "https://www.wsj.com/cio-journal/how-companies-are-managing-ai-token-spend-833b6f7e",
+    "displayDate": "2026-07-01"
+  },
+  "Gaming Monitor": {
+    "title": "LGのTandem OLEDモニターが過去最安値に",
+    "summary": "LGの27インチTandem OLEDゲーミングモニターが、過去最大の値下げ幅で販売されている。Tandem OLED技術は、2つの有機EL層を重ねることで高輝度と長寿命を両立しており、従来のOLEDモニターの弱点を克服する次世代ディスプレイとして注目されている。",
+    "insight": "Tandem OLEDは、モバイルデバイスで培われた高耐久・高輝度技術をデスクトップに応用したもので、特に長時間の作業や高リフレッシュレート環境での焼き付きリスクを低減します。エンジニアの作業環境においても、高精細かつ堅牢な表示性能を持つモニターの選定基準が変わりつつあります。",
+    "sourceUrl": "https://www.theverge.com/gadgets/906880/lg-ultragear-tandem-oled-1440p-gaming-monitor-deal-sale",
+    "sourceName": "The Verge",
+    "originalImageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/lgoledwoledmain.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+    "originalImageArticleUrl": "https://www.theverge.com/gadgets/906880/lg-ultragear-tandem-oled-1440p-gaming-monitor-deal-sale",
+    "displayDate": "2026-07-01"
+  },
+  "SRD / XR": {
+    "title": "キヤノンが披露した次世代MRデバイスとリアルタイムVR技術",
+    "summary": "キヤノンが、超小型の次世代MRデバイスや、実写映像をリアルタイムでVR空間に投影する新技術を公開しました。没入感と実用性を両立させる技術として、産業およびエンタメ領域での進化が期待されています。",
+    "insight": "リアルタイムでの高精度な空間合成は、エッジコンピューティングと低遅延レンダリングの最適化が肝となるエンジニアリング課題です。ハードウェアの小型化により、業務現場への本格的なMR導入フェーズがいよいよ到来しそうです。",
+    "sourceUrl": "https://monoist.itmedia.co.jp/mn/articles/2607/01/news043.html",
+    "sourceName": "MONOist",
+    "originalImageUrl": "https://image.itmedia.co.jp/mn/articles/2607/01/cover_news043.jpg",
+    "originalImageArticleUrl": "https://monoist.itmedia.co.jp/mn/articles/2607/01/news043.html",
+    "displayDate": "2026-07-01"
+  },
+  "Projector": {
+    "title": "XGIMIの新型プロジェクターがMakuakeで記録更新",
+    "summary": "XGIMIの「Elfin Flip 4K」および「Elfin Flip Laser」が、クラウドファンディングサービス「Makuake」にて応援購入総額6億3688万円を突破し、歴代1位の記録を更新しました。ホームシアター市場における高い需要と製品への期待が浮き彫りとなっています。",
+    "insight": "小型プロジェクターにおける4K・レーザー光源の実装は、ハードウェアの省電力・高効率化が進んだ成果です。光学設計の進化とUXの向上を組み合わせることで、従来のTV設置が困難な層へ新たな価値を創出する好例と言えます。",
+    "sourceUrl": "https://news.nicovideo.jp/watch/nw19488953?news_ref=60_60",
+    "sourceName": "ニコニコニュース",
+    "originalImageUrl": null,
+    "originalImageArticleUrl": "https://news.nicovideo.jp/watch/nw19488953?news_ref=60_60",
+    "displayDate": "2026-07-01"
+  },
+  "Production Monitor": {
+    "title": "Final Cut Proが大型アップデート！AI機能が大幅強化",
+    "summary": "Appleの「Final Cut Pro」が大幅アップデート。オンデバイスAIを活用した「自動字幕生成」「編集検知」「オートマスク」などの新機能が追加され、Pixelmator Proとの連携も強化されました。MacやiPadでの制作効率を飛躍的に高める注目の刷新です。",
+    "insight": "クリエイティブツールにおけるオンデバイスAIの実装が進み、外部サーバーを介さない高速な推論が標準になりつつあります。エンジニア視点では、低遅延なエッジAI処理がユーザー体験をどう変えるか、そして既存ツールとのパイプライン統合においてAPIやプラグインがどう進化しているかに注目です。",
+    "sourceUrl": "https://www.cined.com/apple-creator-studio-update-adds-generate-captions-edit-detection-and-auto-mask-to-final-cut-pro/",
+    "sourceName": "CineD",
+    "originalImageUrl": "https://www.cined.com/content/uploads/2026/06/Apple-Creator-Studio-hero-300x169.jpg",
+    "originalImageArticleUrl": "https://www.cined.com/apple-creator-studio-update-adds-generate-captions-edit-detection-and-auto-mask-to-final-cut-pro/",
+    "displayDate": "2026-07-01"
+  },
+  "SONY": {
+    "title": "ソニー新型カメラ「FX5」と「RX10 V」が7月に発表か",
+    "summary": "ソニーの次期カメラとして、5Kオープンゲート撮影対応のシネマカメラ「FX5」およびコンパクトデジタルカメラ「RX10 V」が7月に発表されるという噂が強まっています。新チップや大容量バッテリー「FZ100」の採用が期待されており、映像クリエイターや写真愛好家から大きな注目を集めています。",
+    "insight": "シネマカメララインのFX5において「5Kオープンゲート」が搭載されれば、撮影後のクロップ耐性が飛躍的に向上し、多様なアスペクト比への変換が容易になるため、SNS向け縦型コンテンツ制作の現場で重宝されるはずです。ハードウェア処理の進化が、現代のコンテンツ制作ワークフローにどのような最適化をもたらすか注目すべき点です。",
+    "sourceUrl": "https://www.digitalcameraworld.com/cameras/mirrorless-cameras/the-sony-fx5-has-been-confirmed-for-july-with-a-global-shutter-sensor-and-mini-venice-cinema-features",
+    "sourceName": "digitalcameraworld.com",
+    "originalImageUrl": "https://cdn.mos.cms.futurecdn.net/AAt2t94L7VecrMCm3eeoJ5-684-80.jpg",
+    "originalImageArticleUrl": "https://www.digitalcameraworld.com/cameras/mirrorless-cameras/the-sony-fx5-has-been-confirmed-for-july-with-a-global-shutter-sensor-and-mini-venice-cinema-features",
+    "displayDate": "2026-07-01"
+  },
+  "TV": {
+    "title": "テレビ視聴の転換点：ネット視聴層が大幅増",
+    "summary": "A-PABの調査により、「テレビコンテンツをネットで視聴する」層が大幅に増加していることが明らかになりました。従来の放送波だけでなく、IP配信を前提とした視聴スタイルが一般化しており、メディア消費の構造が大きく変化しています。",
+    "insight": "ストリーミング配信の普及に伴い、放送業界でも低遅延配信やバックエンドの負荷分散が技術的課題となっています。エンジニアとしては、従来の放送インフラとネット配信を統合したハイブリッド配信技術や、視聴データのリアルタイム解析基盤の設計が今後重要になります。",
+    "sourceUrl": "https://news.yahoo.co.jp/articles/8133938bfbc8008d28afc3aa9140017ff4956afd",
+    "sourceName": "PHILE WEB",
+    "originalImageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260701-00130142-phileweb-000-1-view.jpg?exp=10800",
+    "originalImageArticleUrl": "https://news.yahoo.co.jp/articles/8133938bfbc8008d28afc3aa9140017ff4956afd",
+    "displayDate": "2026-07-01"
+  },
+  "TCL": {
+    "title": "TCL Mini-LED TVが最高輝度を更新、技術的評価も急上昇",
+    "summary": "TCLの最新Mini-LEDモデル「QM8L」シリーズが、PCMag等のレビューで「テスト史上最も明るいTV」として高く評価されています。高画質かつ高輝度なディスプレイ技術として、コスパだけでなく性能面でも市場をリードする存在となっています。",
+    "insight": "Mini-LED技術の進化により、液晶でも有機ELに匹敵する高コントラストと輝度が実現されており、映像処理エンジンやローカルディミング制御の高度化が鍵となっています。エンジニア視点では、PWM調光によるフリッカー制御や低遅延なゲーミングパフォーマンスの向上にも注目です。",
+    "sourceUrl": "https://www.pcmag.com/reviews/tcl-98qm8l",
+    "sourceName": "PCMag",
+    "originalImageUrl": "https://i.pcmag.com/imagery/reviews/013jWrNNN1eqEhKfNrftocq-1.fit_lim.size_1200x630.v1782758227.jpg",
+    "originalImageArticleUrl": "https://www.pcmag.com/reviews/tcl-98qm8l",
+    "displayDate": "2026-07-01"
+  },
+  "Camera Control": {
+    "title": "32億画素の巨大デジタルカメラが宇宙観測を開始",
+    "summary": "米国のヴェラ・C・ルービン天文台で、32億画素を誇る世界最大のデジタルカメラを用いた10年間にわたる宇宙観測プロジェクトが正式にスタートしました。今後、毎晩700枚もの画像を撮影し、宇宙の地図作成と新たな知見の発見を目指します。",
+    "insight": "このカメラは単なる高解像度というだけでなく、膨大なデータストリームをリアルタイムで処理するハードウェア構成が重要です。天文データ解析におけるスケーラブルな画像処理アルゴリズムや、長期運用のためのデータ管理基盤はエンジニアにとっても興味深いテーマです。",
+    "sourceUrl": "https://petapixel.com/2026/06/30/the-worlds-largest-digital-camera-just-started-its-10-year-mission-to-map-the-universe/",
+    "sourceName": "PetaPixel",
+    "originalImageUrl": "https://petapixel.com/assets/uploads/2026/06/rubin-starts-lsst-featured.jpg",
+    "originalImageArticleUrl": "https://petapixel.com/2026/06/30/the-worlds-largest-digital-camera-just-started-its-10-year-mission-to-map-the-universe/",
+    "displayDate": "2026-07-01"
+  },
+  "LED Wall Display": {
+    "title": "大学で導入進むホログラムキオスクの現在地",
+    "summary": "米国の大学にて、ホログラム技術を用いたキオスク端末の導入が進んでいます。従来のデジタルサイネージとは異なり、立体的な映像表現で学生との対話を強化するこの技術は、キャンパス内の案内やサポート業務の効率化を目指しています。LEDウォール技術の進化と相まって、次世代のインターフェースとして注目されています。",
+    "insight": "立体視技術はハードウェアの解像度だけでなく、視差バリアやライトフィールド技術によるソフトウェア側のレンダリング負荷最適化が不可欠です。エンジニアとしては、低遅延な映像伝送とリアルタイムインタラクションを両立させるシステムアーキテクチャの知見が、今後の店舗や公共空間のUI開発で鍵となります。",
+    "sourceUrl": "https://www.retailcustomerexperience.com/news/hologram-kiosks-helping-students-at-virginia-college/",
+    "sourceName": "Digital Signage Today",
+    "originalImageUrl": "https://nmgprod.s3.amazonaws.com/media/file/08/05/8d4bbc959d4915b5b589a313e69d/cover_image__FBmwI78w__hologram_kiosks.webp.360x190_q85_crop_upscale.webp",
+    "originalImageArticleUrl": "https://www.retailcustomerexperience.com/news/hologram-kiosks-helping-students-at-virginia-college/",
+    "displayDate": "2026-07-01"
+  }
+}

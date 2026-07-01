@@ -1,10 +1,6 @@
 {
   "Production Monitor": [
     {
-      "url": "https://www.cined.com/lidarac-app-for-tilta-nucleus-m-ii-and-nano-ii-introduced-turn-your-iphone-into-a-lidar-rangefinder/",
-      "date": "2026-06-24"
-    },
-    {
       "url": "https://www.cined.com/arri-luka-unreal-engine-plugin-announced-virtual-arri-lights-and-cameras-real-time-lumen-previs-dmx-and-livelink-control/",
       "date": "2026-06-25"
     },
@@ -27,13 +23,13 @@
     {
       "url": "https://www.cined.com/adobe-to-acquire-topaz-labs-ai-upscaling-and-image-enhancement-on-device-models-standalone-apps-to-continue/",
       "date": "2026-06-30"
+    },
+    {
+      "url": "https://www.cined.com/apple-creator-studio-update-adds-generate-captions-edit-detection-and-auto-mask-to-final-cut-pro/",
+      "date": "2026-07-01"
     }
   ],
   "SRD / XR": [
-    {
-      "url": "https://www.nikkan.co.jp/articles/view/00784850",
-      "date": "2026-06-24"
-    },
     {
       "url": "https://news.yahoo.co.jp/articles/8e94877cdf89c6985565826f78c91c8018339a13?page=2",
       "date": "2026-06-25"
@@ -57,13 +53,13 @@
     {
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE40eFVod3ZtN3hiYTBIc1pyVV9Ta19BeFhHSWFIeEZZQ3Nvc3NuLThvMnNyNElQWkpyc0EwTkdBT2RrSEhqeHNNQjVud0VtNzZFdDBQRjZSVV9QVWNCOFBqbWdtc3pDS0dXZEZUUUJ5aVk?oc=5",
       "date": "2026-06-30"
+    },
+    {
+      "url": "https://monoist.itmedia.co.jp/mn/articles/2607/01/news043.html",
+      "date": "2026-07-01"
     }
   ],
   "AI": [
-    {
-      "url": "https://news.yahoo.co.jp/articles/c7078bf5e4017582c56aba8f3ece415b591d4266",
-      "date": "2026-06-24"
-    },
     {
       "url": "https://www.bloomberg.com/news/articles/2026-06-24/anthropic-accuses-alibaba-of-illicitly-accessing-its-ai-models",
       "date": "2026-06-25"
@@ -87,13 +83,13 @@
     {
       "url": "https://www.reuters.com/business/retail-consumer/cheaper-ai-is-better-soaring-bills-are-reshaping-how-businesses-choose-models-2026-06-29/",
       "date": "2026-06-30"
+    },
+    {
+      "url": "https://www.wsj.com/cio-journal/how-companies-are-managing-ai-token-spend-833b6f7e",
+      "date": "2026-07-01"
     }
   ],
   "Gaming Monitor": [
-    {
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQWVV6VFotSGR0RzdWdlpNYlR0cm9XakNOZkZQRHBNeV9GM2lQOU82UXFJU1RZM19EenFwb0ZZUExnNG1SWXpNQVZCYjRzR3ZhVzZjc1g0S2owWWUwRHFBMThDbXNSc2I5LVhSNER4eHB0M0prMXc2TGJyYlplU2pMRjRHVzZhMi1ITEJaeUdaTnpRMUlnSEFPRXNWOTN5SEtsTXVJQw?oc=5",
-      "date": "2026-06-24"
-    },
     {
       "url": "https://www.4gamer.net/games/236/G023612/20260622003/",
       "date": "2026-06-25"
@@ -117,13 +113,13 @@
     {
       "url": "https://www.pcmag.com/news/best-amazon-prime-day-sale-monitor-deals-2026-still-available",
       "date": "2026-06-30"
+    },
+    {
+      "url": "https://www.theverge.com/gadgets/906880/lg-ultragear-tandem-oled-1440p-gaming-monitor-deal-sale",
+      "date": "2026-07-01"
     }
   ],
   "TCL": [
-    {
-      "url": "https://www.forbes.com/sites/johnarcher/2026/06/23/tcl-adds-gemini-ai-to-its-european-tvs/",
-      "date": "2026-06-24"
-    },
     {
       "url": "https://techbullion.com/reliable-digital-signage-and-commercial-lcd-display-suppliers-in-2026-samsung-lg-boe-tcl-csot-and-rsxd-compared/?ki-cf-botcl=1",
       "date": "2026-06-25"
@@ -147,13 +143,13 @@
     {
       "url": "https://zamin.uz/en/technology/209762-world-s-largest-tv-factory-under-construction-in-china.html",
       "date": "2026-06-30"
+    },
+    {
+      "url": "https://www.pcmag.com/reviews/tcl-98qm8l",
+      "date": "2026-07-01"
     }
   ],
   "Camera Control": [
-    {
-      "url": "https://petapixel.com/2026/06/23/adobes-ai-assistant-wants-to-give-photographers-more-time-for-actual-creative-tasks/",
-      "date": "2026-06-24"
-    },
     {
       "url": "https://petapixel.com/2026/06/24/vsco-fiasco-sonys-new-sensor-and-fujifilms-fall-plans-the-petapixel-podcast/",
       "date": "2026-06-25"
@@ -177,13 +173,13 @@
     {
       "url": "https://petapixel.com/2026/06/29/it-took-insta360-about-five-years-to-make-its-new-luna-gimbal-cameras/",
       "date": "2026-06-30"
+    },
+    {
+      "url": "https://petapixel.com/2026/06/30/the-worlds-largest-digital-camera-just-started-its-10-year-mission-to-map-the-universe/",
+      "date": "2026-07-01"
     }
   ],
   "LED Wall Display": [
-    {
-      "url": "https://ravepubs.com/adj-introduces-the-jolt-mfx-360-a-revolutionary-fixture-combining-retro-warmth-and-modern-intensity/",
-      "date": "2026-06-24"
-    },
     {
       "url": "https://ravepubs.com/rants-raves-episode-1533/",
       "date": "2026-06-25"
@@ -207,13 +203,13 @@
     {
       "url": "https://ravepubs.com/samsung-launches-new-education-tools-for-interactive-displays-at-istelive-26/",
       "date": "2026-06-30"
+    },
+    {
+      "url": "https://www.retailcustomerexperience.com/news/hologram-kiosks-helping-students-at-virginia-college/",
+      "date": "2026-07-01"
     }
   ],
   "SONY": [
-    {
-      "url": "https://www.sonyalpharumors.com/exclusive-sony-fx5-mini-venice-camera-is-coming-in-july-one-more-suprise-compact/",
-      "date": "2026-06-24"
-    },
     {
       "url": "https://sumahodigest.com/?p=63804",
       "date": "2026-06-25"
@@ -237,13 +233,13 @@
     {
       "url": "https://www.digitalcameraworld.com/cameras/mirrorless-cameras/the-sony-fx5-has-been-confirmed-for-july-with-a-global-shutter-sensor-and-mini-venice-cinema-features",
       "date": "2026-06-30"
+    },
+    {
+      "url": "https://www.digitalcameraworld.com/cameras/mirrorless-cameras/the-sony-fx5-has-been-confirmed-for-july-with-a-global-shutter-sensor-and-mini-venice-cinema-features",
+      "date": "2026-07-01"
     }
   ],
   "TV": [
-    {
-      "url": "https://www.ign.com/articles/lg-evo-c5-4k-oled-smart-tv-deal-amazon-prime-day-sale",
-      "date": "2026-06-24"
-    },
     {
       "url": "https://www.techradar.com/televisions/ive-tested-every-lg-oled-tv-you-can-buy-today-heres-what-i-recommend-buying-in-the-prime-day-sale-including-4k-bargains-that-are-perfect-for-the-launch-of-gta-6",
       "date": "2026-06-25"
@@ -267,13 +263,13 @@
     {
       "url": "https://theinventory.com/lg-c6-oled-tv-gaming-review-deal",
       "date": "2026-06-30"
+    },
+    {
+      "url": "https://news.yahoo.co.jp/articles/8133938bfbc8008d28afc3aa9140017ff4956afd",
+      "date": "2026-07-01"
     }
   ],
   "Projector": [
-    {
-      "url": "https://takadanobaba.keizai.biz/photoflash/7722/",
-      "date": "2026-06-24"
-    },
     {
       "url": "https://news.kakaku.com/prdnews/cd=pc/ctcd=0088/id=157113/",
       "date": "2026-06-25"
@@ -297,6 +293,10 @@
     {
       "url": "https://av.watch.impress.co.jp/docs/news/2120888.html",
       "date": "2026-06-30"
+    },
+    {
+      "url": "https://news.nicovideo.jp/watch/nw19488953?news_ref=60_60",
+      "date": "2026-07-01"
     }
   ]
 }
