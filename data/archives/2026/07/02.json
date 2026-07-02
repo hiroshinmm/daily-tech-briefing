@@ -1,0 +1,102 @@
+{
+  "Production Monitor": {
+    "title": "制作現場がクラウド直結！Frame.io統合",
+    "summary": "Accsoonのスマートモニター「CineView M7」シリーズが、Adobe Frame.ioとのネイティブ統合を実現しました。Androidベースのモニター上で直接クラウドアップロードやタスク管理が可能になり、撮影現場から編集ワークフローへの橋渡しが劇的に効率化されます。不安定なネットワーク下での自動再開機能も備えています。",
+    "insight": "ハードウェアとSaaSの統合により、エッジデバイスが単なる表示器からデータパイプラインの一部へと進化しています。ネットワークの不確実性を考慮した堅牢なデータ転送の実装は、IoTやリモート開発の現場でも参考になる設計です。",
+    "sourceUrl": "https://www.cined.com/accsoon-cineview-m7-series-adds-frame-io-integration-native-cloud-upload-automatic-resume-and-upload-task-management/",
+    "sourceName": "CineD",
+    "originalImageUrl": "https://www.cined.com/content/uploads/2026/07/Accsoon-CineView-M7-Frame.io5_-300x169.jpeg",
+    "originalImageArticleUrl": "https://www.cined.com/accsoon-cineview-m7-series-adds-frame-io-integration-native-cloud-upload-automatic-resume-and-upload-task-management/",
+    "displayDate": "2026-07-02"
+  },
+  "AI": {
+    "title": "中国AIモデルがOpenAIに肉薄、格差縮小",
+    "summary": "米ニューヨーク・タイムズ紙は、中国のAI開発企業がAnthropicやOpenAIといった最先端AI企業との性能差を急速に縮めていると報じました。技術的なベンチマークにおいて差が埋まりつつあり、競争が激化しています。",
+    "insight": "LLMのアーキテクチャが公開・標準化される中で、計算リソースとデータの質が競争の主戦場となっています。エンジニアとしては、特定のモデルへの依存を避け、マルチモーダルかつポータブルなAIアプリケーション設計が今後より重要になるでしょう。",
+    "sourceUrl": "https://www.nytimes.com/2026/06/25/technology/zai-china-artificial-intelligence-models.html",
+    "sourceName": "The New York Times",
+    "originalImageUrl": "https://static01.nyt.com/images/2026/06/24/24visualUploader-87422-cover/24visualUploader-87422-cover-facebookJumbo.jpg",
+    "originalImageArticleUrl": "https://www.nytimes.com/2026/06/25/technology/zai-china-artificial-intelligence-models.html",
+    "displayDate": "2026-07-02"
+  },
+  "SONY": {
+    "title": "ソニー新社長が語る「フィジカルAI」の可能性",
+    "summary": "ソニーグループの新社長が、今後の成長戦略として「フィジカルAI」を掲げました。デジタル空間だけでなく、現実世界のハードウェア（カメラやセンシング技術など）とAIを融合させることで、ソニー独自の強みを発揮できると強調しています。",
+    "insight": "エンジニア視点では、単なるソフトウェアAIではなく、エッジデバイスのフィードバックループが重要になります。現実世界の物理現象をAIでどう最適化・制御するかというアーキテクチャ設計に、今後の競争力の源泉があると考えられます。",
+    "sourceUrl": "https://xtech.nikkei.com/atcl/nxt/column/18/03634/061200001/",
+    "sourceName": "日経クロステック",
+    "originalImageUrl": "https://xtech.nikkei.com/atcl/nxt/column/18/03634/061200001/topm.jpg?20220512",
+    "originalImageArticleUrl": "https://xtech.nikkei.com/atcl/nxt/column/18/03634/061200001/",
+    "displayDate": "2026-07-02"
+  },
+  "TCL": {
+    "title": "iPhone Fold登場が折りたたみ端末市場を再活性化か",
+    "summary": "Appleが開発中とされる「iPhone Fold」の登場期待により、折りたたみ端末用パネル市場が再び活況を呈している。TCLの傘下にあるディスプレイ大手CSOTなどが、この市場の主要な供給チェーンとして再評価されており、今後パネル出荷量の増加が予想される。",
+    "insight": "折りたたみディスプレイにおける「しわ」や「耐久性」の問題は、パネルメーカーの積層技術と材料科学が鍵を握っています。エンジニアとしては、UTG（超薄型ガラス）や特殊ヒンジ構造の量産歩留まりが、今後のコストと普及の分水嶺になる点に注目すべきです。",
+    "sourceUrl": "https://9to5mac.com/2026/07/01/iphone-fold-expected-to-fuel-rebound-in-foldable-phone-panel-shipments-per-report/",
+    "sourceName": "9to5Mac",
+    "originalImageUrl": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/03/iphone-fold-mockup-blue.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+    "originalImageArticleUrl": "https://9to5mac.com/2026/07/01/iphone-fold-expected-to-fuel-rebound-in-foldable-phone-panel-shipments-per-report/",
+    "displayDate": "2026-07-02"
+  },
+  "TV": {
+    "title": "高画質テレビ市場でミニLEDの存在感が増大",
+    "summary": "有機ELが長年牽引してきた高画質テレビ市場において、「ミニLED」を採用したモデルの存在感が高まっています。パナソニックが関連商品の拡充を図るなど、メーカー各社がラインナップを強化しており、有機EL一強だった市場構造に変化の兆しが見えています。",
+    "insight": "デバイスの進化において、バックライト制御技術であるミニLEDは、輝度とコントラスト比のバランスにおいて有機ELに迫る効率的な選択肢として普及が進んでいます。表示技術のトレンドを追うエンジニアにとって、液晶と有機ELの垣根を越えた画質競争の新たなフェーズは、ディスプレイ技術の将来性を占う重要な指標となります。",
+    "sourceUrl": "https://www.nikkei.com/article/DGXZQOUF1232T0S6A610C2000000/",
+    "sourceName": "日本経済新聞",
+    "originalImageUrl": "https://article-image-ix.nikkei.com/https%3A%2F%2Fimgix-proxy.n8s.jp%2FDSXZQO3249843001072026000000-1.jpg?auto=compress&bg=FFFF&crop=focalpoint&fit=crop&fm=jpg&fp-x=0.76&fp-y=0.45&h=630&w=1200&s=50e448c140d1812d31b3c194cd3c285d",
+    "originalImageArticleUrl": "https://www.nikkei.com/article/DGXZQOUF1232T0S6A610C2000000/",
+    "displayDate": "2026-07-02"
+  },
+  "Gaming Monitor": {
+    "title": "Odyssey G7が過去最大級の値下げ！",
+    "summary": "Samsungの2026年版「Odyssey G7」32インチ4Kデュアルモードゲーミングモニターが、米AmazonのPrime Dayセールに先駆け300ドルオフで販売中。最新の高精細モデルが大幅割引される貴重なチャンスとなっています。",
+    "insight": "最新のデュアルモード搭載モニターが短期間で大幅な値下げ対象となるのは、製品ライフサイクルと在庫管理の最適化による影響と推測されます。ハードウェア設計エンジニアとしては、市場競争が激化する4K高リフレッシュレート帯での価格戦略のトレンドを注視すべきでしょう。",
+    "sourceUrl": "https://9to5toys.com/2026/07/01/first-deal-samsung-2026-odyssey-g7-4k-dual-mode-gaming-monitor/",
+    "sourceName": "9to5Toys",
+    "originalImageUrl": "https://i0.wp.com/9to5toys.com/wp-content/uploads/sites/5/2026/07/Samsung-Odyssey-32-inch-2026-model.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+    "originalImageArticleUrl": "https://9to5toys.com/2026/07/01/first-deal-samsung-2026-odyssey-g7-4k-dual-mode-gaming-monitor/",
+    "displayDate": "2026-07-02"
+  },
+  "LED Wall Display": {
+    "title": "Uniluminがワールドカップ・ファンフェスを演出",
+    "summary": "LEDビジョン大手Uniluminが、ワールドカップのファンフェスティバル会場に超大型LEDディスプレイを導入。大規模イベントにおける没入型体験の構築事例として注目されています。",
+    "insight": "巨大なLEDウォールは、もはや単なる映像出力装置ではなく、環境光や周囲の空間と調和する演出プラットフォームへ進化しています。エンジニアとしては、高精細かつ高輝度なディスプレイのデータ配信プロトコルや、イベント時のリアルタイム制御における遅延対策の設計が重要となります。",
+    "sourceUrl": "https://invidis.com/news/2026/07/led-unilumin-lights-up-world-cup-fan-festival/",
+    "sourceName": "Sixteen:Nine",
+    "originalImageUrl": "https://invidis.com/wp-content/uploads/2026/06/Unilumen-Fan-Fest-Dallas-scaled-e1782823983134.jpg",
+    "originalImageArticleUrl": "https://invidis.com/news/2026/07/led-unilumin-lights-up-world-cup-fan-festival/",
+    "displayDate": "2026-07-02"
+  },
+  "Projector": {
+    "title": "ルーヴル美術館が採用、シャープのプロジェクター技術",
+    "summary": "ルーヴル美術館で開催される映画祭において、シャープのプロジェクション技術が採用されました。世界的な文化財の展示空間での高品質な映像投影を支える技術として注目されています。",
+    "insight": "美術館のような高精細かつ繊細な制御が求められる環境では、レーザー光源と高度な光学エンジン技術が不可欠です。映像品質の追求はエンターテインメントのみならず、公共空間の空間演出におけるエンジニアリングの重要な指標となっています。",
+    "sourceUrl": "https://www.avinteractive.com/territories-news/europe/sharp-provides-projection-tech-for-louvres-cinema-festival-01-07-2026/",
+    "sourceName": "AV Magazine",
+    "originalImageUrl": "https://d3hjf51r9j54j7.cloudfront.net/wp-content/uploads/sites/9/2026/07/cinema-paradiso-louvre-.webp",
+    "originalImageArticleUrl": "https://www.avinteractive.com/territories-news/europe/sharp-provides-projection-tech-for-louvres-cinema-festival-01-07-2026/",
+    "displayDate": "2026-07-02"
+  },
+  "SRD / XR": {
+    "title": "AppleのVision Pro部門トップがOpenAIへ移籍",
+    "summary": "AppleでVision Proを含むヘッドセット・スマートグラス開発を率いていた責任者がOpenAIへ電撃移籍しました。同社のハードウェア戦略に与える影響と、AI企業がハードウェア人材を求める背景に注目が集まっています。",
+    "insight": "AIと物理デバイスの融合（Edge AI）が次なる覇権争いになる予兆と言えます。ハードウェアの知見を持つエンジニアの需要が、AIスタートアップ界隈で今後さらに高まることが予想されます。",
+    "sourceUrl": "https://www.uploadvr.com/apples-vision-pro-glasses-hardware-chief-leaves-for-openai/",
+    "sourceName": "UploadVR",
+    "originalImageUrl": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/06/Apple-headset-and-glasses-1.png",
+    "originalImageArticleUrl": "https://www.uploadvr.com/apples-vision-pro-glasses-hardware-chief-leaves-for-openai/",
+    "displayDate": "2026-07-02"
+  },
+  "Camera Control": {
+    "title": "Sony FX5登場：トリプルベースISOと内部RAW収録の衝撃",
+    "summary": "Sonyの次期カメラ「FX5」の仕様がリークされました。特筆すべきは、Sony機として初めて採用されるトリプルベースISOと、X-OCN形式での内部RAW記録です。7月後半の正式発表が期待されており、映像制作のワークフローに革新をもたらす可能性があります。",
+    "insight": "センサーのゲイン特性を最適化するトリプルベースISOは、低照度環境下のダイナミックレンジ管理においてエンジニアリング上の大きなブレイクスルーです。また、X-OCN（Extended Tonal Range Original Camera Negative）の内部収録は、データ効率と編集耐性の両立を追求する次世代映像フォーマットの標準化を加速させるでしょう。",
+    "sourceUrl": "https://www.sonyalpharumors.com/sony-fx5-has-three-base-iso-and-x-ocn-internal-raw/",
+    "sourceName": "sonyalpharumors",
+    "originalImageUrl": "https://www.sonyalpharumors.com/wp-content/uploads/2026/06/Sony-FX5-AI.jpg",
+    "originalImageArticleUrl": "https://www.sonyalpharumors.com/sony-fx5-has-three-base-iso-and-x-ocn-internal-raw/",
+    "displayDate": "2026-07-02"
+  }
+}
