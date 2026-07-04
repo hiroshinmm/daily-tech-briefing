@@ -6,6 +6,10 @@ on:
     - cron: '0 23 * * *'
   workflow_dispatch: # 手動実行用ボタン
 
+concurrency:
+  group: github-pages
+  cancel-in-progress: false
+
 env:
   FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
   # カテゴリ並列処理数。Gemini APIレートリミットに応じて調整する (フリー枠15RPM対応で2に設定)
@@ -78,6 +82,11 @@ jobs:
 
       - name: Deploy to GitHub Pages
         id: deployment
+        continue-on-error: true
+        uses: actions/deploy-pages@v4
+
+      - name: Retry deploy to GitHub Pages
+        if: steps.deployment.outcome == 'failure'
         uses: actions/deploy-pages@v4
 
       # Step 5: Send Email Notification
