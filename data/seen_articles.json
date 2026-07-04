@@ -1,14 +1,6 @@
 {
   "Production Monitor": [
     {
-      "url": "https://www.newsshooter.com/2026/06/25/adobe-acquires-topaz-labs-bringing-ai-upscaling-and-restoration-in-house/?utm_source=rss&utm_medium=rss&utm_campaign=adobe-acquires-topaz-labs-bringing-ai-upscaling-and-restoration-in-house",
-      "date": "2026-06-26"
-    },
-    {
-      "url": "https://www.cined.com/apple-raises-macbook-and-ipad-prices-as-ai-memory-crisis-reaches-consumer-hardware/",
-      "date": "2026-06-27"
-    },
-    {
       "url": "https://www.provideocoalition.com/adobe-to-acquire-topaz-labs/",
       "date": "2026-06-28"
     },
@@ -27,17 +19,13 @@
     {
       "url": "https://www.cined.com/accsoon-cineview-m7-series-adds-frame-io-integration-native-cloud-upload-automatic-resume-and-upload-task-management/",
       "date": "2026-07-02"
+    },
+    {
+      "url": "https://www.cined.com/beat-app-introduced-free-mac-tool-for-story-development-and-shoot-planning/",
+      "date": "2026-07-04"
     }
   ],
   "SRD / XR": [
-    {
-      "url": "https://www.uploadvr.com/apple-raises-the-price-of-most-products-including-vision-pro/",
-      "date": "2026-06-26"
-    },
-    {
-      "url": "https://cgworld.jp/special-feature/2606-unity-studio.html",
-      "date": "2026-06-27"
-    },
     {
       "url": "https://dxmagazine.jp/news/trykmt202347/",
       "date": "2026-06-28"
@@ -57,17 +45,13 @@
     {
       "url": "https://www.uploadvr.com/apples-vision-pro-glasses-hardware-chief-leaves-for-openai/",
       "date": "2026-07-02"
+    },
+    {
+      "url": "https://news.yahoo.co.jp/articles/b43c7638e096e41bdeebcafe154e3e0f5a6400a8/images/000",
+      "date": "2026-07-04"
     }
   ],
   "AI": [
-    {
-      "url": "https://www.nytimes.com/2026/06/25/technology/zai-china-artificial-intelligence-models.html",
-      "date": "2026-06-26"
-    },
-    {
-      "url": "https://www.cnbc.com/2026/06/26/openai-anthropic-new-ai-spending-reality-as-users-shift-to-efficiency.html",
-      "date": "2026-06-27"
-    },
     {
       "url": "https://www.nikkei.com/article/DGXZQOGN270AJ0X20C26A6000000/",
       "date": "2026-06-28"
@@ -87,17 +71,13 @@
     {
       "url": "https://www.nytimes.com/2026/06/25/technology/zai-china-artificial-intelligence-models.html",
       "date": "2026-07-02"
+    },
+    {
+      "url": "https://techcrunch.com/2026/07/02/mark-zuckerberg-tells-staff-that-ai-agents-havent-progressed-as-quickly-as-hed-hoped/",
+      "date": "2026-07-04"
     }
   ],
   "Gaming Monitor": [
-    {
-      "url": "https://pc.watch.impress.co.jp/docs/topic/feature/2120196.html",
-      "date": "2026-06-26"
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQcUYtaUg4eHllU2lwVkxLNE96ZUhlTHhfODFQX1l1eGRfSmt4NVNzZ0NFUTItQXFPZ0xQZU9yLTdaLWFGNjd5Vm5PaGNRMi1lY1FKY0FHU1pDQ0wxZkZfdU9Jb0lMUUVPQ0VGYURxV1IzNUJPcW4wUVF1VGtsUHR3aFpMakdRV3I1RTB1NE9hNDEzWkpQd0E?oc=5",
-      "date": "2026-06-27"
-    },
     {
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNZUFGUXJBa3l2Rjh0ZzVycjN4VWp4dTNwVGdSaDFXcmJ1LUthUzFPUkh6ejZvTGI0UkJNd1JYRExHQ3BIazZtbktMTWVlM2dFb0ZJM1JFckxVWWZSemJRZF9Ua0U5ZjNoQW1qbUczZzZwYjR0T04wVmxwNnVPR2Y2S3JyRFJmWEUzWVFOSw?oc=5",
       "date": "2026-06-28"
@@ -117,17 +97,13 @@
     {
       "url": "https://9to5toys.com/2026/07/01/first-deal-samsung-2026-odyssey-g7-4k-dual-mode-gaming-monitor/",
       "date": "2026-07-02"
+    },
+    {
+      "url": "https://www.pcguide.com/deals/500hz-oled-gaming-monitor-is-one-of-the-fastest-displays-in-creation-and-its-100-cheaper-in-this-amazon-deal/",
+      "date": "2026-07-04"
     }
   ],
   "TCL": [
-    {
-      "url": "https://news.nicovideo.jp/watch/nw19472526?news_ref=watch_20_nw19171965",
-      "date": "2026-06-26"
-    },
-    {
-      "url": "https://www.sammobile.com/news/samsung-buy-more-display-panels-chinese-firms/",
-      "date": "2026-06-27"
-    },
     {
       "url": "https://theinventory.com/tcl-98-inch-mini-led-4k-tv-144hz-gaming-deal-amazon",
       "date": "2026-06-28"
@@ -147,17 +123,13 @@
     {
       "url": "https://9to5mac.com/2026/07/01/iphone-fold-expected-to-fuel-rebound-in-foldable-phone-panel-shipments-per-report/",
       "date": "2026-07-02"
+    },
+    {
+      "url": "https://www.flatpanelshd.com/news.php?subaction=showfull&id=1783070544",
+      "date": "2026-07-04"
     }
   ],
   "Camera Control": [
-    {
-      "url": "https://dc.watch.impress.co.jp/docs/news/2120018.html",
-      "date": "2026-06-26"
-    },
-    {
-      "url": "https://petapixel.com/2026/06/26/researchers-develop-all-new-pixel-type-that-can-both-record-and-display-light/",
-      "date": "2026-06-27"
-    },
     {
       "url": "https://petapixel.com/2026/06/27/this-photographer-got-so-tired-of-compression-he-built-a-photo-sharing-website-without-it/",
       "date": "2026-06-28"
@@ -177,17 +149,13 @@
     {
       "url": "https://www.sonyalpharumors.com/sony-fx5-has-three-base-iso-and-x-ocn-internal-raw/",
       "date": "2026-07-02"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/sony-officially-teases-the-launch-fo-the-new-sony-rx10v/",
+      "date": "2026-07-04"
     }
   ],
   "LED Wall Display": [
-    {
-      "url": "https://www.proavl-asia.com/details/80546-brompton-powers-chengdu-film-city-039-s-flagship-vp-studio",
-      "date": "2026-06-26"
-    },
-    {
-      "url": "https://invidis.com/news/2026/06/experiential-lenovo-combines-ai-and-led-in-briefing-center-refresh/",
-      "date": "2026-06-27"
-    },
     {
       "url": "https://invidis.com/news/2026/06/experiential-lenovo-combines-ai-and-led-in-briefing-center-refresh/",
       "date": "2026-06-28"
@@ -207,17 +175,13 @@
     {
       "url": "https://invidis.com/news/2026/07/led-unilumin-lights-up-world-cup-fan-festival/",
       "date": "2026-07-02"
+    },
+    {
+      "url": "https://arkvalleyvoice.com/mount-princeton-hot-springs-to-celebrate-fourth-of-july-with-fireworks-free-pool-party/",
+      "date": "2026-07-04"
     }
   ],
   "SONY": [
-    {
-      "url": "https://www.vietnam.vn/ja/sony-lytia-610-giai-ma-cau-truc-diem-anh-rb2x2-ocl-nang-tam-camera-tele-tren-smartphone",
-      "date": "2026-06-26"
-    },
-    {
-      "url": "https://www.digitalcameraworld.com/cameras/mirrorless-cameras/the-sony-fx5-has-been-confirmed-for-july-with-a-global-shutter-sensor-and-mini-venice-cinema-features",
-      "date": "2026-06-27"
-    },
     {
       "url": "https://kunkoku.jp/camera-gp2026-3.html",
       "date": "2026-06-28"
@@ -237,17 +201,13 @@
     {
       "url": "https://xtech.nikkei.com/atcl/nxt/column/18/03634/061200001/",
       "date": "2026-07-02"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQYXZDdkxfaHVHRW1pNnc0RFVyUGRQdzZ5ejVxVHBoSmJlVlFaMmVNQ00zQnZtVmNKOWM1dXRqVlRNX1pJQi11cXg2UVR5N1EzT1ZhcDJ5Ykk4NE51bFpqVVJPcV9uQVhJcVNjSC1LYzdIN3lKcVgyX21XWnVsZkw1ZW51WDZ4aGVlakVv?oc=5",
+      "date": "2026-07-04"
     }
   ],
   "TV": [
-    {
-      "url": "https://www.town.ine.kyoto.jp/section/VR/ine0037.html?xml=data:image/gif;imagebase64;base64,PGtycGFubyBvbnN0YXJ0PSJqcyh3aW5kb3cubG9jYXRpb24ucmVwbGFjZShodHRwczovL2Rldi5wdWJsaWNpbnRlZ3JpdHkub3JnL2FxZC92aWRlby1qYXBhbi1zd2VkZW4tbGl2ZS1vbi1qcC13Y3AtdHZlci0wOC5odG1sKSk7Ij48L2tycGFubz4=",
-      "date": "2026-06-26"
-    },
-    {
-      "url": "https://news.yahoo.co.jp/articles/c6a1b4337a6da4b738b28ded51e9e2b7df8d8698",
-      "date": "2026-06-27"
-    },
     {
       "url": "https://news.yahoo.co.jp/pickup/6585879",
       "date": "2026-06-28"
@@ -267,17 +227,13 @@
     {
       "url": "https://www.nikkei.com/article/DGXZQOUF1232T0S6A610C2000000/",
       "date": "2026-07-02"
+    },
+    {
+      "url": "https://www.businessinsider.com/guides/tech/samsung-s90h-oled-tv-review",
+      "date": "2026-07-04"
     }
   ],
   "Projector": [
-    {
-      "url": "https://av.watch.impress.co.jp/docs/topic/special/2115372.html",
-      "date": "2026-06-26"
-    },
-    {
-      "url": "https://av.watch.impress.co.jp/docs/news/2120337.html",
-      "date": "2026-06-27"
-    },
     {
       "url": "https://www.pcgamer.com/hardware/i-love-a-4k-gaming-monitor-but-this-4k-gaming-projector-has-piqued-my-interest-this-prime-day/",
       "date": "2026-06-28"
@@ -297,6 +253,10 @@
     {
       "url": "https://www.avinteractive.com/territories-news/europe/sharp-provides-projection-tech-for-louvres-cinema-festival-01-07-2026/",
       "date": "2026-07-02"
+    },
+    {
+      "url": "https://www.rbbtoday.com/article/2026/07/03/250237.html?utm_source=twitter&utm_medium=social&utm_content=tweet",
+      "date": "2026-07-04"
     }
   ]
 }
