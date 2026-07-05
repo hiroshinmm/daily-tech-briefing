@@ -1,0 +1,102 @@
+{
+  "SRD / XR": {
+    "title": "MR環境へのVRユーザー参加を可能にするシステムが登場",
+    "summary": "『Hauntify』の開発者が、MRゲームのセッションに遠隔地のプレイヤーがVRで参加できるシステムを開発中。自宅の物理空間をVR上に再現し、MRユーザーとVRユーザーが同じ空間でインタラクションできる可能性を示しています。",
+    "insight": "MRとVRの境界を曖昧にするクロスプラットフォーム的なアプローチは、マルチプレイヤー体験の新たなスタンダードになる可能性があります。エンジニアとしては、物理空間のセマンティック理解と同期プロトコルをどう最適化するかが、今後の没入型コミュニケーションの鍵となるでしょう。",
+    "sourceUrl": "https://www.uploadvr.com/virtualgos-mixed-reality-multiplayer-system-lets-people-join-your-session-as-vr/",
+    "sourceName": "UploadVR",
+    "originalImageUrl": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/07/VirtualGo-s-Remote-Mixed-Reality-Social-Center-system.png",
+    "originalImageArticleUrl": "https://www.uploadvr.com/virtualgos-mixed-reality-multiplayer-system-lets-people-join-your-session-as-vr/",
+    "displayDate": "2026-07-05"
+  },
+  "AI": {
+    "title": "AIブームの裏側：データセンターの高速陳腐化とコスト問題",
+    "summary": "AIモデルの進化に伴い、ハイパースケーラーが巨額を投じるデータセンターが急速に陳腐化している現状に注目が集まっています。記録的な好業績の一方で、持続的なインフラコストが将来的な重荷になる可能性が指摘されています。",
+    "insight": "AIインフラの投資回収サイクルは極めて短く、エンジニアには最新モデルを追いかけるだけでなく、計算リソースを最適化するスケーラブルな設計能力がますます求められます。ハードウェアのライフサイクルがAIの進化スピードに追いつかない現状を考慮したシステムアーキテクチャの構築が必要です。",
+    "sourceUrl": "https://jbpress.ismedia.jp/articles/-/95730",
+    "sourceName": "JBpress",
+    "originalImageUrl": "https://jbpress.ismcdn.jp/mwimgs/3/7/1200mw/img_379ac6c0a92e7b26cf57b227318ed73d2511996.jpg",
+    "originalImageArticleUrl": "https://jbpress.ismedia.jp/articles/-/95730",
+    "displayDate": "2026-07-05"
+  },
+  "SONY": {
+    "title": "ソニー新型カメラ「RX10」シリーズがついに発表へ",
+    "summary": "ソニーが「RX10」シリーズの新型カメラを2026年7月9日23時に発表すると予告しました。長らく待ち望まれていたモデルの登場であり、高い光学性能を持つRX10シリーズの進化に注目が集まっています。",
+    "insight": "コンデジの枠を超えた高倍率ズームと大型センサーを搭載するRX10シリーズの最新モデルは、画像処理エンジンやAFアルゴリズムの刷新が焦点です。AIを活用した被写体認識技術がどれだけ強化されているか、エンジニアとしてはそのスペックや実装アプローチが特に気になるところです。",
+    "sourceUrl": "https://kunkoku.jp/sony-camera-teaser-202607.html",
+    "sourceName": "ソニーが基本的に好き。",
+    "originalImageUrl": "https://kunkoku.jp/wp-content/uploads/2026/07/260703c01.jpg",
+    "originalImageArticleUrl": "https://kunkoku.jp/sony-camera-teaser-202607.html",
+    "displayDate": "2026-07-05"
+  },
+  "Gaming Monitor": {
+    "title": "ついに現実へ？Acerの「1000Hz」モニターの衝撃",
+    "summary": "Acerが開発中の1,000Hzゲーミングモニターが話題です。高リフレッシュレート化が進む中で、ついに4桁台に突入した本製品は非常に高価かつ発売時期も未定ですが、ディスプレイ技術の限界突破を象徴する重要なマイルストーンとして注目されています。",
+    "insight": "1,000Hzという数値は、物理的な表示遅延を限りなくゼロに近づけるための技術的挑戦であり、GPUレンダリングや入力レイテンシの最適化が不可欠です。エンジニア視点では、単なる表示性能だけでなく、フレームレートとモニタ側の同期制御における通信ボトルネックの解消など、極限のパフォーマンスチューニングが要求される領域です。",
+    "sourceUrl": "https://tech.yahoo.com/gaming/articles/acer-1-000hz-gaming-monitor-120510529.html",
+    "sourceName": "Yahoo Tech",
+    "originalImageUrl": "https://s.yimg.com/lo/mysterio/api/c555519e5e05c57ebd7b1f9222747a00f3283eeba332688449b1f2cdd6fdd833/lightyear_networkapi/resizefill_w1200;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fdigital_trends_973%2F7f137fc15357f55d070ebdfc7567dee1",
+    "originalImageArticleUrl": "https://tech.yahoo.com/gaming/articles/acer-1-000hz-gaming-monitor-120510529.html",
+    "displayDate": "2026-07-05"
+  },
+  "TCL": {
+    "title": "ソニー・パナソニック、中国勢との協業で生き残りへ",
+    "summary": "日本の家電大手ソニーとパナソニックが、テレビ事業の競争力強化を目指し、中国のパネルメーカー等との協業を強化しています。安価なパネル供給にとどまらず、設計や部品レベルでの連携を深めることで、中国企業の技術力やコスト競争力を取り込む戦略が見えてきました。",
+    "insight": "家電市場での中国勢の台頭に対し、日本メーカーは自社製造に固執せず『敵の懐』に入る戦略的協業でコスト構造の最適化を図っています。ソフトウェアとハードウェアの統合が求められる現代のテレビ開発において、サプライチェーンをいかに再構築するかがエンジニアリング戦略の鍵となります。",
+    "sourceUrl": "https://finance.biggo.jp/news/16e50320-c38a-484c-ac6f-9cb8c7ea3473",
+    "sourceName": "BigGo ファイナンス",
+    "originalImageUrl": "https://img.biggo.com/u0xj7p7TyovcLdCwZXaWVtBk5-xGlUUC1m9JRoPh3Bg/fit/1720/0/sm/1/aHR0cHM6Ly9pbWcuYmdvLm9uZS9uZXdzLWltYWdlL2FpX2dlbmVyYXRlZC8yMDI2LTA3LzE2ZTUwMzIwLWMzOGEtNDg0Yy1hYzZmLTljYjhjN2VhMzQ3M18xNzgzMTU0NDYwX2RlZmF1bHQuanBn.jpg",
+    "originalImageArticleUrl": "https://finance.biggo.jp/news/16e50320-c38a-484c-ac6f-9cb8c7ea3473",
+    "displayDate": "2026-07-05"
+  },
+  "TV": {
+    "title": "ドラマ出演者ハラスメント報道とSNS中傷の法的・倫理的リスク",
+    "summary": "フジテレビのドラマを巡り、出演者に関するハラスメント報道がなされた後、SNS上で無関係な個人や共演者に対する誹謗中傷が拡散する事態が発生。関係者が個別に声明を出し反論する事態となり、メディアの報じ方とSNSにおける情報の拡散性・リスク管理が問われている。",
+    "insight": "情報の正確性が確認される前に拡散されるSNSの特性は、システム開発におけるログ監視やデータ妥当性検証の重要性と通じます。我々エンジニアも、不確実な情報源に基づくデバッグや対応にリソースを割かないよう、エビデンスベースでの意思決定を常に意識すべきです。",
+    "sourceUrl": "https://www.asahi.com/articles/ASV740BYWV74UCVL00FM.html",
+    "sourceName": "朝日新聞",
+    "originalImageUrl": "https://imgopt.asahi.com/ogp/AS20260704001131_comm.jpg",
+    "originalImageArticleUrl": "https://www.asahi.com/articles/ASV740BYWV74UCVL00FM.html",
+    "displayDate": "2026-07-05"
+  },
+  "Production Monitor": {
+    "title": "SEOの基本：Nofollow属性の正しい使い方",
+    "summary": "Webサイト運営やコンテンツ制作において、偏った情報源や信頼性の低いサイトへリンクを貼る際に重要な「Nofollow」設定についての解説。SEOにおけるリンクの評価（リンクジュース）の制御方法と、適切な適用タイミングについて考察しています。",
+    "insight": "エンジニアとしてSEOやクロール制御を理解しておくことは、大規模なコンテンツ配信システムを構築する上で非常に重要です。リンク関係を正しく管理することで、ドメインの信頼性を適切に保ちつつ、外部との安全な連携が可能になります。",
+    "sourceUrl": "https://www.provideocoalition.com/how-and-when-to-use-the-nofollow-setting-in-web-page-hyperlinks/",
+    "sourceName": "ProVideo Coalition",
+    "originalImageUrl": "https://www.provideocoalition.com/wp-content/uploads/Nofollow-English-hero.jpg",
+    "originalImageArticleUrl": "https://www.provideocoalition.com/how-and-when-to-use-the-nofollow-setting-in-web-page-hyperlinks/",
+    "displayDate": "2026-07-05"
+  },
+  "Projector": {
+    "title": "IMAXレーザーによる映画体験の進化と技術的要件",
+    "summary": "109シネマズ川崎が最新鋭の「IMAXレーザー」上映システムを導入。4K高解像度と高コントラストを実現するこの技術は、従来のプロジェクターシステムから大幅な性能向上を遂げ、映画視聴体験を再定義しています。",
+    "insight": "映画館における4Kレーザー光源の導入は、広色域と高コントラスト比により、従来のデジタルシネマと比較して圧倒的な視覚的没入感を提供します。エンジニアの視点では、単なる高解像度化だけでなく、輝度管理やダイナミックレンジの最適化が、ハードウェアレベルでどのように映像表現を拡張しているか注目すべきです。",
+    "sourceUrl": "https://www.walkerplus.com/article/169199/image991543.html",
+    "sourceName": "ウォーカープラス",
+    "originalImageUrl": "https://news.walkerplus.com/article/169199/991542_615.jpg",
+    "originalImageArticleUrl": "https://www.walkerplus.com/article/169199/image991543.html",
+    "displayDate": "2026-07-05"
+  },
+  "LED Wall Display": {
+    "title": "車載ディスプレイの進化：WEY V9XにMini LED技術を採用",
+    "summary": "Great Wall MotorのプレミアムSUV「WEY V9X」に、Refond社のMini LEDバックライト技術が採用されました。この技術は高コントラストかつ鮮明な映像を提供し、AI搭載のインテリジェント・コックピットにおいて、プレミアムなユーザー体験を実現する重要なコンポーネントとなっています。",
+    "insight": "自動車のHMI（ヒューマン・マシン・インターフェース）が高度化する中で、Mini LEDは従来のLCDバックライトを凌駕する画質と信頼性を提供します。バックエンドエンジニアやUI設計者は、物理的なディスプレイの輝度や熱管理といったハードウェア特性を考慮したUI設計が今後さらに重要になります。",
+    "sourceUrl": "//www.ledinside.com/news/2026/7/2026_07_03_03",
+    "sourceName": "LEDinside",
+    "originalImageUrl": null,
+    "originalImageArticleUrl": "//www.ledinside.com/news/2026/7/2026_07_03_03",
+    "displayDate": "2026-07-05"
+  },
+  "Camera Control": {
+    "title": "機械式からデジタルへ：カメラの進化とエンジニアリングの価値",
+    "summary": "デジタル化が極まった現代のミラーレスカメラは、かつてのDSLRが持っていた機械的な美学を失ったのか？というDPReviewの記事。ソフトウェアによる「魔法」と、物理的な精密機構が融合するカメラの進化をエンジニア視点で考察する。",
+    "insight": "ハードウェアの機械的制約から解放された現代のカメラは、アルゴリズムによる制御（機械学習やセンサー補正）が主役となっています。ソフトウェアエンジニアにとっては、ハードの物理的な限界をどうアルゴリズムで克服するかという技術スタックのパラダイムシフトを再認識させてくれます。",
+    "sourceUrl": "https://www.dpreview.com/opinion/6128008404/age-of-mechanical-wonders-dslrs-slrs-mirrorless",
+    "sourceName": "Digital Photography Review",
+    "originalImageUrl": "https://4.img-dpreview.com/files/p/E~C0x0S3795x2846T1200x900~articles/6128008404/nikon-d850-sensor.jpeg",
+    "originalImageArticleUrl": "https://www.dpreview.com/opinion/6128008404/age-of-mechanical-wonders-dslrs-slrs-mirrorless",
+    "displayDate": "2026-07-05"
+  }
+}

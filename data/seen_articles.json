@@ -1,10 +1,6 @@
 {
   "Production Monitor": [
     {
-      "url": "https://www.provideocoalition.com/adobe-to-acquire-topaz-labs/",
-      "date": "2026-06-28"
-    },
-    {
       "url": "https://www.provideocoalition.com/linux-california-the-state-created-a-royal-mess-by-meddling-in-something-it-didnt-understand-then-suffered-global-backlash-to-the-point-of-conceding-defeat/",
       "date": "2026-06-29"
     },
@@ -23,13 +19,13 @@
     {
       "url": "https://www.cined.com/beat-app-introduced-free-mac-tool-for-story-development-and-shoot-planning/",
       "date": "2026-07-04"
+    },
+    {
+      "url": "https://www.provideocoalition.com/how-and-when-to-use-the-nofollow-setting-in-web-page-hyperlinks/",
+      "date": "2026-07-05"
     }
   ],
   "SRD / XR": [
-    {
-      "url": "https://dxmagazine.jp/news/trykmt202347/",
-      "date": "2026-06-28"
-    },
     {
       "url": "https://www.nikkei.com/article/DGXZQOJC014ZR0R00C26A6000000/",
       "date": "2026-06-29"
@@ -49,13 +45,13 @@
     {
       "url": "https://news.yahoo.co.jp/articles/b43c7638e096e41bdeebcafe154e3e0f5a6400a8/images/000",
       "date": "2026-07-04"
+    },
+    {
+      "url": "https://www.uploadvr.com/virtualgos-mixed-reality-multiplayer-system-lets-people-join-your-session-as-vr/",
+      "date": "2026-07-05"
     }
   ],
   "AI": [
-    {
-      "url": "https://www.nikkei.com/article/DGXZQOGN270AJ0X20C26A6000000/",
-      "date": "2026-06-28"
-    },
     {
       "url": "https://techcrunch.com/2026/06/28/ford-rehires-gray-beard-engineers-after-ai-falls-short/",
       "date": "2026-06-29"
@@ -75,13 +71,13 @@
     {
       "url": "https://techcrunch.com/2026/07/02/mark-zuckerberg-tells-staff-that-ai-agents-havent-progressed-as-quickly-as-hed-hoped/",
       "date": "2026-07-04"
+    },
+    {
+      "url": "https://jbpress.ismedia.jp/articles/-/95730",
+      "date": "2026-07-05"
     }
   ],
   "Gaming Monitor": [
-    {
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNZUFGUXJBa3l2Rjh0ZzVycjN4VWp4dTNwVGdSaDFXcmJ1LUthUzFPUkh6ejZvTGI0UkJNd1JYRExHQ3BIazZtbktMTWVlM2dFb0ZJM1JFckxVWWZSemJRZF9Ua0U5ZjNoQW1qbUczZzZwYjR0T04wVmxwNnVPR2Y2S3JyRFJmWEUzWVFOSw?oc=5",
-      "date": "2026-06-28"
-    },
     {
       "url": "https://www.4gamer.net/games/999/G999901/20260629002/",
       "date": "2026-06-29"
@@ -101,13 +97,13 @@
     {
       "url": "https://www.pcguide.com/deals/500hz-oled-gaming-monitor-is-one-of-the-fastest-displays-in-creation-and-its-100-cheaper-in-this-amazon-deal/",
       "date": "2026-07-04"
+    },
+    {
+      "url": "https://tech.yahoo.com/gaming/articles/acer-1-000hz-gaming-monitor-120510529.html",
+      "date": "2026-07-05"
     }
   ],
   "TCL": [
-    {
-      "url": "https://theinventory.com/tcl-98-inch-mini-led-4k-tv-144hz-gaming-deal-amazon",
-      "date": "2026-06-28"
-    },
     {
       "url": "https://www.msn.com/ja-jp/news/techandscience/tcl%E3%81%8C%E3%81%99%E3%81%94%E3%81%84-%E5%B1%B1%E5%B4%8E%E8%B3%A2%E4%BA%BA%E8%B5%B7%E7%94%A8-%E6%AC%A1%E4%B8%96%E4%BB%A3sqd%E6%8A%80%E8%A1%93%E3%81%A7%E5%9B%BD%E5%86%85%E3%83%96%E3%83%A9%E3%83%B3%E3%83%89%E3%82%92%E7%8C%9B%E8%BF%BD/ar-AA23btZo?apiversion=v2&domshim=1&noservercache=1&noservertelemetry=1&batchservertelemetry=1&renderwebcomponents=1&wcseo=1",
       "date": "2026-06-29"
@@ -127,13 +123,13 @@
     {
       "url": "https://www.flatpanelshd.com/news.php?subaction=showfull&id=1783070544",
       "date": "2026-07-04"
+    },
+    {
+      "url": "https://finance.biggo.jp/news/16e50320-c38a-484c-ac6f-9cb8c7ea3473",
+      "date": "2026-07-05"
     }
   ],
   "Camera Control": [
-    {
-      "url": "https://petapixel.com/2026/06/27/this-photographer-got-so-tired-of-compression-he-built-a-photo-sharing-website-without-it/",
-      "date": "2026-06-28"
-    },
     {
       "url": "https://dc.watch.impress.co.jp/docs/enquete/2120526.html",
       "date": "2026-06-29"
@@ -153,13 +149,13 @@
     {
       "url": "https://www.sonyalpharumors.com/sony-officially-teases-the-launch-fo-the-new-sony-rx10v/",
       "date": "2026-07-04"
+    },
+    {
+      "url": "https://www.dpreview.com/opinion/6128008404/age-of-mechanical-wonders-dslrs-slrs-mirrorless",
+      "date": "2026-07-05"
     }
   ],
   "LED Wall Display": [
-    {
-      "url": "https://invidis.com/news/2026/06/experiential-lenovo-combines-ai-and-led-in-briefing-center-refresh/",
-      "date": "2026-06-28"
-    },
     {
       "url": "https://invidis.com/news/2026/06/experiential-lenovo-combines-ai-and-led-in-briefing-center-refresh/",
       "date": "2026-06-29"
@@ -179,13 +175,13 @@
     {
       "url": "https://arkvalleyvoice.com/mount-princeton-hot-springs-to-celebrate-fourth-of-july-with-fireworks-free-pool-party/",
       "date": "2026-07-04"
+    },
+    {
+      "url": "//www.ledinside.com/news/2026/7/2026_07_03_03",
+      "date": "2026-07-05"
     }
   ],
   "SONY": [
-    {
-      "url": "https://kunkoku.jp/camera-gp2026-3.html",
-      "date": "2026-06-28"
-    },
     {
       "url": "https://sumahodigest.com/?p=64060",
       "date": "2026-06-29"
@@ -205,13 +201,13 @@
     {
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQYXZDdkxfaHVHRW1pNnc0RFVyUGRQdzZ5ejVxVHBoSmJlVlFaMmVNQ00zQnZtVmNKOWM1dXRqVlRNX1pJQi11cXg2UVR5N1EzT1ZhcDJ5Ykk4NE51bFpqVVJPcV9uQVhJcVNjSC1LYzdIN3lKcVgyX21XWnVsZkw1ZW51WDZ4aGVlakVv?oc=5",
       "date": "2026-07-04"
+    },
+    {
+      "url": "https://kunkoku.jp/sony-camera-teaser-202607.html",
+      "date": "2026-07-05"
     }
   ],
   "TV": [
-    {
-      "url": "https://news.yahoo.co.jp/pickup/6585879",
-      "date": "2026-06-28"
-    },
     {
       "url": "https://www.technetbooks.com/2026/06/oled-tv-shipments-plateau-while-mini.html",
       "date": "2026-06-29"
@@ -231,13 +227,13 @@
     {
       "url": "https://www.businessinsider.com/guides/tech/samsung-s90h-oled-tv-review",
       "date": "2026-07-04"
+    },
+    {
+      "url": "https://www.asahi.com/articles/ASV740BYWV74UCVL00FM.html",
+      "date": "2026-07-05"
     }
   ],
   "Projector": [
-    {
-      "url": "https://www.pcgamer.com/hardware/i-love-a-4k-gaming-monitor-but-this-4k-gaming-projector-has-piqued-my-interest-this-prime-day/",
-      "date": "2026-06-28"
-    },
     {
       "url": "https://www.pcgamer.com/hardware/i-love-a-4k-gaming-monitor-but-this-4k-gaming-projector-has-piqued-my-interest-this-prime-day/",
       "date": "2026-06-29"
@@ -257,6 +253,10 @@
     {
       "url": "https://www.rbbtoday.com/article/2026/07/03/250237.html?utm_source=twitter&utm_medium=social&utm_content=tweet",
       "date": "2026-07-04"
+    },
+    {
+      "url": "https://www.walkerplus.com/article/169199/image991543.html",
+      "date": "2026-07-05"
     }
   ]
 }
