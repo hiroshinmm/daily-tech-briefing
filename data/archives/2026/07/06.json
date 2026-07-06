@@ -1,0 +1,102 @@
+{
+  "SRD / XR": {
+    "title": "Metaが脳波を文章化するAI「Brain2Qwerty」を発表",
+    "summary": "Metaが脳波をリアルタイムで文章に変換するAIモデル「Brain2Qwerty v2」を公開しました。XRデバイスの操作インターフェースとして、身体的な制約を超えた「思考による入力」の実現が期待されます。",
+    "insight": "BMI（脳コンピュータインターフェース）技術とLLMを組み合わせる試みは、将来的なHCIのパラダイムシフトを予感させます。特にXR環境下での没入感を損なわない非接触・非侵襲なUI実装として、周辺技術の動向を追う価値があります。",
+    "sourceUrl": "https://www.moguravr.com/vr-ar-mr-weekly-2026-7-6/",
+    "sourceName": "Mogura VR",
+    "originalImageUrl": "https://assets.moguravr.com/uploads/2016/11/5dcc2389647249fa7a3e29cc812e6928-kix.lgu6zon20jqs-300x169.webp",
+    "originalImageArticleUrl": "https://www.moguravr.com/vr-ar-mr-weekly-2026-7-6/",
+    "displayDate": "2026-07-06"
+  },
+  "AI": {
+    "title": "NVIDIA CEOも注視する「量子AI」の可能性",
+    "summary": "AI開発の次なるフロンティアとして「量子AI」が注目を集めています。従来の古典的なコンピュータでは困難な計算を高速化できる可能性があり、NVIDIAをはじめとするテック業界のリーダーたちも、この技術がAIの未来に及ぼす影響を注視しています。",
+    "insight": "量子計算による並列処理は、LLMの推論効率や最適化問題を根本から変えるポテンシャルを秘めています。エンジニアは古典アルゴリズムに加え、量子ゲート方式や量子アニーリングがAIモデルの構造に与える長期的影響を注視しておくべきです。",
+    "sourceUrl": "https://www.nikkei.com/article/DGXZQOUC1578N0V10C26A5000000/",
+    "sourceName": "日本経済新聞",
+    "originalImageUrl": "https://article-image-ix.nikkei.com/https%3A%2F%2Fimgix-proxy.n8s.jp%2FDSXZQO3221846025062026000000-2.jpg?auto=compress&bg=FFFF&crop=focalpoint&fit=crop&fm=jpg&h=630&w=1200&s=718e97363d9f2c705762d90356a7b0d5",
+    "originalImageArticleUrl": "https://www.nikkei.com/article/DGXZQOUC1578N0V10C26A5000000/",
+    "displayDate": "2026-07-06"
+  },
+  "Gaming Monitor": {
+    "title": "Micron広島工場が1.5兆円投資でHBM4量産へ",
+    "summary": "Micronの広島工場で、総額1兆5,000億円を投じる新棟の建設が開始されました。日本国内で唯一DRAMを製造する同拠点は、AI需要が急増する次世代メモリ「HBM4」の開発・量産の中核を担うことになり、AI時代の日本の半導体供給網を左右する重要な動きとして注目されています。",
+    "insight": "AIモデルの大規模化に伴い、メモリ帯域幅を劇的に向上させるHBM4は、計算リソースのボトルネック解消に直結する重要技術です。エンジニアとしては、単なるハードウェア増強としてだけでなく、エッジ・クラウド双方での推論/学習パフォーマンス向上を支えるインフラの変化として注視すべきでしょう。",
+    "sourceUrl": "https://pc.watch.impress.co.jp/docs/news/2122472.html",
+    "sourceName": "PC Watch",
+    "originalImageUrl": "https://pc.watch.impress.co.jp/img/pcw/list/2122/472/002a.jpg",
+    "originalImageArticleUrl": "https://pc.watch.impress.co.jp/docs/news/2122472.html",
+    "displayDate": "2026-07-06"
+  },
+  "Projector": {
+    "title": "ハイセンスが提唱する「RGBミニLED」の未来",
+    "summary": "FIFAワールドカップのスポンサーであり、100インチ超えテレビ市場で世界シェア1位を誇るハイセンス。なぜ同社が「RGBミニLED」という技術に執着するのか、その戦略的意図と技術的優位性について中国本社幹部が語ったインタビュー記事。",
+    "insight": "ミニLEDは、エリア駆動による高コントラストと高輝度が特徴ですが、RGB独立制御化は液晶の階調表現と色純度を劇的に向上させます。単なる輝度競争から、有機ELに匹敵する画質をいかにコスト効率よく実現するかという「実装コストと性能のバランス」は、エンジニアにとって非常に興味深い最適化の指針です。",
+    "sourceUrl": "https://av.watch.impress.co.jp/docs/topic/2120916.html",
+    "sourceName": "AV Watch",
+    "originalImageUrl": "https://av.watch.impress.co.jp/img/avw/list/2120/916/IMG_0324.jpg",
+    "originalImageArticleUrl": "https://av.watch.impress.co.jp/docs/topic/2120916.html",
+    "displayDate": "2026-07-06"
+  },
+  "SONY": {
+    "title": "W杯を支える日本の映像技術：ソニーの独占的シェア",
+    "summary": "北米で開催されるサッカーW杯において、中継カメラ、VAR（ビデオ・アシスタント・レフェリー）、ヒートマップなどの基幹技術をソニー、富士フイルム、キヤノンといった日本企業が独占的に提供していることが改めて注目されています。グローバルなスポーツイベントにおける日本ブランドの圧倒的なプレゼンスが浮き彫りとなりました。",
+    "insight": "リアルタイム映像解析や高精細なVARシステムは、低遅延かつ高信頼性が求められるエッジコンピューティングの塊です。ソフトウェアエンジニアの視点では、単なるカメラ性能だけでなく、スタジアム中の膨大なデータを即座に処理・同期させるリアルタイムシステムアーキテクチャの重要性が増しています。",
+    "sourceUrl": "https://mshale.com/ab49dc49/d6189a40kBPWwmIXTx8",
+    "sourceName": "Mshale",
+    "originalImageUrl": null,
+    "originalImageArticleUrl": "https://mshale.com/ab49dc49/d6189a40kBPWwmIXTx8",
+    "displayDate": "2026-07-06"
+  },
+  "TCL": {
+    "title": "TCLのMini LED戦略：RM9Lが切り拓く高コスパ市場",
+    "summary": "TCLが展開する「RM9L」シリーズなどのMini LED製品が、コストパフォーマンスの高さで高い評価を得ています。高精細な映像体験を中価格帯で提供する同社の戦略は、現在のディスプレイ市場において重要な転換点を示しています。",
+    "insight": "バックライト制御を細分化するMini LEDは、HDRコンテンツの表現力を向上させる有力なソリューションです。エンジニアの視点では、PWM制御の最適化やパネルの熱マネジメントなど、低価格で高品位な駆動回路を実現する実装技術に注目が集まります。",
+    "sourceUrl": "https://www.wired.com/review/tcl-rm9l/",
+    "sourceName": "WIRED",
+    "originalImageUrl": "https://media.wired.com/photos/6a47e564859a99ea1a378dc1/191:100/w_1280,c_limit/Review--TCL-RM9L-RGB-Mini-LED-Smart-TV.jpg",
+    "originalImageArticleUrl": "https://www.wired.com/review/tcl-rm9l/",
+    "displayDate": "2026-07-06"
+  },
+  "LED Wall Display": {
+    "title": "AV業界にAI導入：KorbytのScreenDetective",
+    "summary": "Korbyt社がAIを活用したプロアクティブなディスプレイ監視システム「ScreenDetective」を発表しました。このシステムはデジタルサイネージのCMSに統合されており、ネットワーク上のディスプレイの状態をリアルタイムで監視・診断することで、運用の効率化とトラブル対応の迅速化を実現します。",
+    "insight": "AVシステムにおける監視の自動化は、単なる死活監視からAIによる予測メンテナンスへと進化しています。ソフトウェアエンジニアの視点では、CMSとデバイス監視APIが密結合することで、ハードウェア障害の事前検知と自動復旧ロジックを統合したシステム構築が可能になる点が今後のトレンドとなるでしょう。",
+    "sourceUrl": "https://www.digitalsignagetoday.com/videos/korbyt-details-ai-powered-screen-detective/",
+    "sourceName": "Digital Signage Today",
+    "originalImageUrl": "https://nmgprod.s3.amazonaws.com/media/file/26/6a/4f9387b164328f986485a887efcf/cover_image__aB1hAYz9__Korbyt_Thumbnail_InfoComm_26.png.360x190_q85_crop_upscale.webp",
+    "originalImageArticleUrl": "https://www.digitalsignagetoday.com/videos/korbyt-details-ai-powered-screen-detective/",
+    "displayDate": "2026-07-06"
+  },
+  "TV": {
+    "title": "2026 FIFAワールドカップの視聴環境をチェック",
+    "summary": "FIFAワールドカップ2026の注目カード「ポルトガル代表 vs スペイン代表」などの放送・配信情報が注目されています。地上波テレビ放送だけでなく、ネット配信との併用が当たり前となった現代の視聴スタイルが改めて話題です。",
+    "insight": "スポーツ中継におけるマルチプラットフォーム配信（地上波、衛星、ネット）は、トラフィックのスパイクと高可用性の維持という点で非常に興味深いシステム設計課題です。低遅延なリアルタイム配信技術の進化は、今後もエンジニアにとって重要な最適化の対象となります。",
+    "sourceUrl": "https://news.google.com/rss/articles/CBMia0FVX3lxTFB4X3ZzLWItOExka1NrWUw0bk0wZUszYkdvRlN5V0hNWjk3bEdIRTZ2eXd0Sk4wa1lSdWZVdlQ1ZUJZbTVab0xvOHVTcFRoeEZLV2tRc3UteFdpcVBfQVVPZ0kzc0FRUUI5bWY4?oc=5",
+    "sourceName": "サッカーキング",
+    "originalImageUrl": null,
+    "originalImageArticleUrl": "https://news.google.com/rss/articles/CBMia0FVX3lxTFB4X3ZzLWItOExka1NrWUw0bk0wZUszYkdvRlN5V0hNWjk3bEdIRTZ2eXd0Sk4wa1lSdWZVdlQ1ZUJZbTVab0xvOHVTcFRoeEZLV2tRc3UteFdpcVBfQVVPZ0kzc0FRUUI5bWY4?oc=5",
+    "displayDate": "2026-07-06"
+  },
+  "Camera Control": {
+    "title": "デジタルツインレンズレフはなぜ消えたのか？再考の機運",
+    "summary": "かつて一世を風靡した二眼レフ（TLR）のウエストレベル撮影体験が、現代のデジタルカメラ市場で再評価されるべきという提言。背面液晶を見下ろして撮影する独特のスタイルや操作性は、現代のEVFや背面モニターによる撮影とは異なる新たなインスピレーションをユーザーに提供する可能性がある。",
+    "insight": "レトロな光学ファインダー体験を現代のデジタル設計でどう再現するかが技術的な焦点。単なる懐古趣味ではなく、クリエイティブな撮影プロセス（体験価値）をカメラのハードウェアインターフェースとして再構築する設計思想が、コモディティ化するデジタルカメラ界で差別化の鍵になる。",
+    "sourceUrl": "https://petapixel.com/2026/07/05/a-digital-twin-lens-reflex-camera-is-long-past-due/",
+    "sourceName": "PetaPixel",
+    "originalImageUrl": "https://petapixel.com/assets/uploads/2026/07/A-Digital-Twin-Lens-Reflex-Camera-is-Long-Past-Due.jpg",
+    "originalImageArticleUrl": "https://petapixel.com/2026/07/05/a-digital-twin-lens-reflex-camera-is-long-past-due/",
+    "displayDate": "2026-07-06"
+  },
+  "Production Monitor": {
+    "title": "ソフトウェアライセンスの共有と管理の効率化",
+    "summary": "Hedgeがライセンスキーを直接共有せずに、利用権限を他者に付与できる「Shared Licenses」機能を発表しました。セキュリティと管理の利便性を両立させる仕組みです。",
+    "insight": "ライセンス管理における「認証情報の共有」はセキュリティリスクを伴いますが、プラットフォーム側でアクセス権限を分離・制御する実装は非常に洗練されたアプローチです。権限管理の設計において、共有キーの露出を最小限に抑える設計思想は、開発ツールやCI/CD環境の権限管理にも応用できる優れたUXの参考となります。",
+    "sourceUrl": "https://www.newsshooter.com/2026/07/03/hedge-shared-licenses/?utm_source=rss&utm_medium=rss&utm_campaign=hedge-shared-licenses",
+    "sourceName": "Newsshooter",
+    "originalImageUrl": "https://www.newsshooter.com/wp-content/uploads/2026/07/Screenshot-2026-07-04-at-13.21.42.jpg",
+    "originalImageArticleUrl": "https://www.newsshooter.com/2026/07/03/hedge-shared-licenses/?utm_source=rss&utm_medium=rss&utm_campaign=hedge-shared-licenses",
+    "displayDate": "2026-07-06"
+  }
+}
