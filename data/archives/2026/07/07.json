@@ -1,0 +1,102 @@
+{
+  "SRD / XR": {
+    "title": "Meta Quest 3Sが15％オフのセール実施中",
+    "summary": "Amazonプライムデー等のセールにて、Meta Quest 3Sが15％オフの5万490円で販売されています。低価格でワイヤレスVR体験が可能なQuest 3Sの値下げは、開発者がMR/VR市場へ参入する際のユーザーベース拡大の契機となりそうです。",
+    "insight": "デバイスの低価格化はVR/MRコンテンツの普及において重要なドライバーです。開発者は、こうした普及機での動作パフォーマンスや、スタンドアロン環境での最適化技術に改めて注力することが求められます。",
+    "sourceUrl": "https://www.itmedia.co.jp/pcuser/amp/2607/07/news067.html",
+    "sourceName": "ITmedia PC USER",
+    "originalImageUrl": "https://image.itmedia.co.jp/pcuser/articles/2607/07/cover_news067.jpg",
+    "originalImageArticleUrl": "https://www.itmedia.co.jp/pcuser/amp/2607/07/news067.html",
+    "displayDate": "2026-07-07"
+  },
+  "AI": {
+    "title": "AIの過大評価に警鐘、市場価格の調整リスク",
+    "summary": "米アポロ・グローバルのチーフエコノミストであるトルステン・スロック氏が、AIが期待された生産性向上をまだ実現できていないと指摘。市場が過剰に期待を織り込んでおり、今後「痛みを伴う再評価（価格修正）」が起こる可能性があると警告しました。",
+    "insight": "AIへの投資収益率（ROI）が具体的数値として現れない現状において、エンジニアは生成AIの導入における実利的な評価と、技術の持続可能性を冷静に見極める必要があります。ハイプサイクルの調整局面を見越し、単なる流行ではなく業務効率化に直結するアーキテクチャの選定が今後ますます重要になります。",
+    "sourceUrl": "https://fortune.com/2026/07/06/ai-productivity-gains-bubble-painful-repricing-markets-torsten-slok/",
+    "sourceName": "Fortune",
+    "originalImageUrl": "https://fortune.com/img-assets/wp-content/uploads/2026/07/GettyImages-1651912360-e1782939505974.jpg?resize=1200,600",
+    "originalImageArticleUrl": "https://fortune.com/2026/07/06/ai-productivity-gains-bubble-painful-repricing-markets-torsten-slok/",
+    "displayDate": "2026-07-07"
+  },
+  "TCL": {
+    "title": "Rokuテレビで深刻な不具合？訴訟問題に発展",
+    "summary": "TCLのテレビ製品などで採用されているRoku OSのアップデートにより、テレビが起動不能（文鎮化）になる不具合が報告され、集団訴訟に発展しています。ユーザー体験を損なうファームウェア更新の信頼性について議論を呼んでいます。",
+    "insight": "デバイスのファームウェア更新は、ユーザーに不可逆的な影響を及ぼす可能性があるため、QAプロセスとロールバック機能の設計が重要です。CI/CDパイプラインにおいても、ハードウェア依存のコンポーネントに対するカナリアリリースの重要性が再認識される事例です。",
+    "sourceUrl": "https://mashable.com/article/tcl-roku-tv-lawsuit-updates-bricking-devices",
+    "sourceName": "Mashable",
+    "originalImageUrl": "https://helios-i.mashable.com/imagery/articles/06dD6qwtD84XdXmuWqzMrMR/hero-image.fill.size_1200x675.v1778078836.jpg",
+    "originalImageArticleUrl": "https://mashable.com/article/tcl-roku-tv-lawsuit-updates-bricking-devices",
+    "displayDate": "2026-07-07"
+  },
+  "Gaming Monitor": {
+    "title": "Philipsが「トリプルモード」搭載モニターを発表。解像度切り替えが面白い",
+    "summary": "Philipsが新たに発表したゲーミングモニターは、用途に合わせて解像度とリフレッシュレートを切り替える「トリプルモード」を搭載。最高速度を追求するために、あえて解像度を720pまで落とすというユニークなアプローチが注目されています。",
+    "insight": "解像度を固定せず、CPU/GPUの負荷やターゲットFPSに応じて物理的に解像度を変える手法は、競技ゲーミングにおける新たな最適化トレンドになりそうです。エンジニアの視点で見ると、異なる解像度でのスケーリング処理や、動的な設定変更時のレイテンシ制御がどのような技術で実現されているのか興味深いポイントです。",
+    "sourceUrl": "https://www.techspot.com/news/113010-philips-introduces-triple-mode-monitors-different-gaming-scenarios.html",
+    "sourceName": "TechSpot",
+    "originalImageUrl": "https://www.techspot.com/images2/news/bigimage/2026/07/2026-07-06-image-8.jpg",
+    "originalImageArticleUrl": "https://www.techspot.com/news/113010-philips-introduces-triple-mode-monitors-different-gaming-scenarios.html",
+    "displayDate": "2026-07-07"
+  },
+  "TV": {
+    "title": "次世代OLED/QD-OLEDの価格競争が激化",
+    "summary": "AmazonやBest Buyを中心に、LGやSamsung製の高性能OLED・QD-OLEDテレビが大幅値下げされています。特にLGのB5シリーズが1,500ドル引きとなるなど、ハイエンド画質がかつてないほど手の届く価格帯になっており、次世代モデルの発表を前にした在庫調整と見られます。",
+    "insight": "OLEDパネルの量産効率向上と競合激化により、家庭用ディスプレイの標準が急速に高精細化しています。エンジニアとしては、HDRコンテンツのデバッグやUI設計において、より広色域・高コントラストな実機での確認環境が容易に構築可能になった点に注目すべきです。",
+    "sourceUrl": "https://www.techradar.com/televisions/our-favorite-budget-lg-oled-tv-is-usd1-500-off-at-best-buy-today-the-perfect-opportunity-to-watch-the-world-cup-in-its-full-glory",
+    "sourceName": "TechRadar",
+    "originalImageUrl": "https://cdn.mos.cms.futurecdn.net/7Z4qJ9aomn9mVsQYJbSz7G-1920-80.jpg",
+    "originalImageArticleUrl": "https://www.techradar.com/televisions/our-favorite-budget-lg-oled-tv-is-usd1-500-off-at-best-buy-today-the-perfect-opportunity-to-watch-the-world-cup-in-its-full-glory",
+    "displayDate": "2026-07-07"
+  },
+  "SONY": {
+    "title": "ソニー次世代カメラ「RX10 V」まもなく発表",
+    "summary": "ソニーの高性能ブリッジカメラ「RX10」シリーズの最新モデル「RX10 V」が今週発表される見込みです。被写体検出機能の強化や4K 120fps対応、さらにはユニークなチルト式ファインダー搭載の噂もあり、高性能コンデジ市場の復活として注目を集めています。",
+    "insight": "積層型センサーや高度なAFアルゴリズムの小型機への展開は、エッジAI処理性能の向上がコンシューマー製品にもたらす進化の好例です。カメラのファームウェアやハードウェア制御において、リアルタイム処理の最適化技術が差別化の鍵となっています。",
+    "sourceUrl": "https://www.notebookcheck.net/Sony-RX10-V-launches-Thursday-teaser-reveals-surprising-upgrades.1336040.0.html",
+    "sourceName": "Notebookcheck",
+    "originalImageUrl": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Sony_RX10_Vb.jpg",
+    "originalImageArticleUrl": "https://www.notebookcheck.net/Sony-RX10-V-launches-Thursday-teaser-reveals-surprising-upgrades.1336040.0.html",
+    "displayDate": "2026-07-07"
+  },
+  "Projector": {
+    "title": "進化するホームシアター：最新プロジェクターの選び方",
+    "summary": "OS内蔵でNetflix等の配信サービスを直接投写できる「オールインワン型プロジェクター」が主流に。コンパクトかつ設置性が高く、Wi-Fi環境さえあれば誰でも手軽に大画面を楽しめるようになりました。プライムデー先行セール等でお得に購入できる今、明るさとサウンドを重視した製品選定が自宅のエンタメ体験を大きく変える鍵となります。",
+    "insight": "プロジェクターは従来の「映像を出す機器」から、OS搭載でアプリ単体で完結する「エッジコンピューティングデバイス」へ進化しています。エンジニア視点では、単なるハードウェアスペックだけでなく、OSのUI/UXやネットワークレイテンシがQoLに直結するため、選定の重要な指標となります。",
+    "sourceUrl": "https://av.watch.impress.co.jp/docs/topic/special/2122044.html",
+    "sourceName": "AV Watch",
+    "originalImageUrl": "https://av.watch.impress.co.jp/img/avw/list/2122/044/02.jpg",
+    "originalImageArticleUrl": "https://av.watch.impress.co.jp/docs/topic/special/2122044.html",
+    "displayDate": "2026-07-07"
+  },
+  "Production Monitor": {
+    "title": "映像業界の巨大再編：Boris FXがiZotopeを買収",
+    "summary": "視覚効果（VFX）ツール大手のBoris FXが、業界標準のオーディオ補正・マスタリングツール「iZotope（RX, Ozone等）」を買収しました。これにより、映像編集・VFX・オーディオ処理の主要ツールが単一ベンダーの下に集約され、ポストプロダクションのワークフローが大幅に統合されることになります。",
+    "insight": "クリエイティブツールの統合は、異なる専門領域間のデータ連携を加速させ、将来的に単一プラットフォーム上でのシームレスな「映像・音響・AI処理」を可能にします。エンジニア視点では、業界標準APIやフォーマットの共通化が進むことで、サードパーティ開発におけるエコシステムの構築方法に大きな影響を与える可能性があります。",
+    "sourceUrl": "https://www.cined.com/boris-fx-acquires-izotope-rx-ozone-neutron-and-nectar-join-the-post-production-toolmaker/",
+    "sourceName": "CineD",
+    "originalImageUrl": "https://www.cined.com/content/uploads/2026/07/boris-fx-iZotope-hero-300x169.jpg",
+    "originalImageArticleUrl": "https://www.cined.com/boris-fx-acquires-izotope-rx-ozone-neutron-and-nectar-join-the-post-production-toolmaker/",
+    "displayDate": "2026-07-07"
+  },
+  "Camera Control": {
+    "title": "ジェームズ・ウェッブ宇宙望遠鏡が公開した最新の驚異的映像",
+    "summary": "打ち上げから4周年を迎えたジェームズ・ウェッブ宇宙望遠鏡（JWST）が、記念として新たな宇宙の画像を公開しました。赤外線カメラの性能を駆使し、宇宙の塵を透過して銀河の詳細を捉えるその技術は、改めて人類の観測能力を証明しています。",
+    "insight": "極限の遠隔地で極低温かつ高放射線環境下で動作し続けるJWSTのイメージングシステムは、ハードウェアの信頼性工学の極致といえます。数百万マイル先から送られるデータを、いかに高精細な画像へと変換・補正するかの画像処理アルゴリズムの進化は、AI時代のエンジニアにも非常に示唆的です。",
+    "sourceUrl": "https://petapixel.com/2026/07/06/webb-celebrates-fourth-year-of-science-by-showing-off-its-cutting-edge-cameras/",
+    "sourceName": "PetaPixel",
+    "originalImageUrl": "https://petapixel.com/assets/uploads/2026/07/weic2615d-1600x840-1.jpg",
+    "originalImageArticleUrl": "https://petapixel.com/2026/07/06/webb-celebrates-fourth-year-of-science-by-showing-off-its-cutting-edge-cameras/",
+    "displayDate": "2026-07-07"
+  },
+  "LED Wall Display": {
+    "title": "大型LEDディスプレイの直感的なタッチ操作技術",
+    "summary": "InfoComm 2026にて、SiliconCoreとBrightLogicがファインピッチLEDディスプレイでのネイティブタッチ操作技術を披露しました。2.6mmピッチの大型パネルにIRセンサーを統合し、フロアディスプレイと組み合わせたシームレスなインタラクティブ体験を実現しています。",
+    "insight": "LEDウォールにおいてIRベースのネイティブタッチ統合が進むことで、単なる映像表示からインタラクティブなUIへの転換が加速します。エンジニアとしては、高解像度ディスプレイにおける遅延のない入力同期や、大規模センシングデータの処理アーキテクチャが設計上の重要課題となります。",
+    "sourceUrl": "https://ravepubs.com/siliconcore-and-brightlogic-showcase-led-displays-with-native-touch-interaction-at-infocomm-2026/",
+    "sourceName": "rAVe [PUBS]",
+    "originalImageUrl": "https://ravepubs.com/wp-content/uploads/2026/07/SiliconCore-800x400.webp",
+    "originalImageArticleUrl": "https://ravepubs.com/siliconcore-and-brightlogic-showcase-led-displays-with-native-touch-interaction-at-infocomm-2026/",
+    "displayDate": "2026-07-07"
+  }
+}

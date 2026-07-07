@@ -1,10 +1,6 @@
 {
   "Production Monitor": [
     {
-      "url": "https://www.cined.com/adobe-to-acquire-topaz-labs-ai-upscaling-and-image-enhancement-on-device-models-standalone-apps-to-continue/",
-      "date": "2026-06-30"
-    },
-    {
       "url": "https://www.cined.com/apple-creator-studio-update-adds-generate-captions-edit-detection-and-auto-mask-to-final-cut-pro/",
       "date": "2026-07-01"
     },
@@ -23,13 +19,13 @@
     {
       "url": "https://www.newsshooter.com/2026/07/03/hedge-shared-licenses/?utm_source=rss&utm_medium=rss&utm_campaign=hedge-shared-licenses",
       "date": "2026-07-06"
+    },
+    {
+      "url": "https://www.cined.com/boris-fx-acquires-izotope-rx-ozone-neutron-and-nectar-join-the-post-production-toolmaker/",
+      "date": "2026-07-07"
     }
   ],
   "SRD / XR": [
-    {
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE40eFVod3ZtN3hiYTBIc1pyVV9Ta19BeFhHSWFIeEZZQ3Nvc3NuLThvMnNyNElQWkpyc0EwTkdBT2RrSEhqeHNNQjVud0VtNzZFdDBQRjZSVV9QVWNCOFBqbWdtc3pDS0dXZEZUUUJ5aVk?oc=5",
-      "date": "2026-06-30"
-    },
     {
       "url": "https://monoist.itmedia.co.jp/mn/articles/2607/01/news043.html",
       "date": "2026-07-01"
@@ -49,13 +45,13 @@
     {
       "url": "https://www.moguravr.com/vr-ar-mr-weekly-2026-7-6/",
       "date": "2026-07-06"
+    },
+    {
+      "url": "https://www.itmedia.co.jp/pcuser/amp/2607/07/news067.html",
+      "date": "2026-07-07"
     }
   ],
   "AI": [
-    {
-      "url": "https://www.reuters.com/business/retail-consumer/cheaper-ai-is-better-soaring-bills-are-reshaping-how-businesses-choose-models-2026-06-29/",
-      "date": "2026-06-30"
-    },
     {
       "url": "https://www.wsj.com/cio-journal/how-companies-are-managing-ai-token-spend-833b6f7e",
       "date": "2026-07-01"
@@ -75,13 +71,13 @@
     {
       "url": "https://www.nikkei.com/article/DGXZQOUC1578N0V10C26A5000000/",
       "date": "2026-07-06"
+    },
+    {
+      "url": "https://fortune.com/2026/07/06/ai-productivity-gains-bubble-painful-repricing-markets-torsten-slok/",
+      "date": "2026-07-07"
     }
   ],
   "Gaming Monitor": [
-    {
-      "url": "https://www.pcmag.com/news/best-amazon-prime-day-sale-monitor-deals-2026-still-available",
-      "date": "2026-06-30"
-    },
     {
       "url": "https://www.theverge.com/gadgets/906880/lg-ultragear-tandem-oled-1440p-gaming-monitor-deal-sale",
       "date": "2026-07-01"
@@ -101,13 +97,13 @@
     {
       "url": "https://pc.watch.impress.co.jp/docs/news/2122472.html",
       "date": "2026-07-06"
+    },
+    {
+      "url": "https://www.techspot.com/news/113010-philips-introduces-triple-mode-monitors-different-gaming-scenarios.html",
+      "date": "2026-07-07"
     }
   ],
   "TCL": [
-    {
-      "url": "https://zamin.uz/en/technology/209762-world-s-largest-tv-factory-under-construction-in-china.html",
-      "date": "2026-06-30"
-    },
     {
       "url": "https://www.pcmag.com/reviews/tcl-98qm8l",
       "date": "2026-07-01"
@@ -127,13 +123,13 @@
     {
       "url": "https://www.wired.com/review/tcl-rm9l/",
       "date": "2026-07-06"
+    },
+    {
+      "url": "https://mashable.com/article/tcl-roku-tv-lawsuit-updates-bricking-devices",
+      "date": "2026-07-07"
     }
   ],
   "Camera Control": [
-    {
-      "url": "https://petapixel.com/2026/06/29/it-took-insta360-about-five-years-to-make-its-new-luna-gimbal-cameras/",
-      "date": "2026-06-30"
-    },
     {
       "url": "https://petapixel.com/2026/06/30/the-worlds-largest-digital-camera-just-started-its-10-year-mission-to-map-the-universe/",
       "date": "2026-07-01"
@@ -153,13 +149,13 @@
     {
       "url": "https://petapixel.com/2026/07/05/a-digital-twin-lens-reflex-camera-is-long-past-due/",
       "date": "2026-07-06"
+    },
+    {
+      "url": "https://petapixel.com/2026/07/06/webb-celebrates-fourth-year-of-science-by-showing-off-its-cutting-edge-cameras/",
+      "date": "2026-07-07"
     }
   ],
   "LED Wall Display": [
-    {
-      "url": "https://ravepubs.com/samsung-launches-new-education-tools-for-interactive-displays-at-istelive-26/",
-      "date": "2026-06-30"
-    },
     {
       "url": "https://www.retailcustomerexperience.com/news/hologram-kiosks-helping-students-at-virginia-college/",
       "date": "2026-07-01"
@@ -179,13 +175,13 @@
     {
       "url": "https://www.digitalsignagetoday.com/videos/korbyt-details-ai-powered-screen-detective/",
       "date": "2026-07-06"
+    },
+    {
+      "url": "https://ravepubs.com/siliconcore-and-brightlogic-showcase-led-displays-with-native-touch-interaction-at-infocomm-2026/",
+      "date": "2026-07-07"
     }
   ],
   "SONY": [
-    {
-      "url": "https://www.digitalcameraworld.com/cameras/mirrorless-cameras/the-sony-fx5-has-been-confirmed-for-july-with-a-global-shutter-sensor-and-mini-venice-cinema-features",
-      "date": "2026-06-30"
-    },
     {
       "url": "https://www.digitalcameraworld.com/cameras/mirrorless-cameras/the-sony-fx5-has-been-confirmed-for-july-with-a-global-shutter-sensor-and-mini-venice-cinema-features",
       "date": "2026-07-01"
@@ -205,13 +201,13 @@
     {
       "url": "https://mshale.com/ab49dc49/d6189a40kBPWwmIXTx8",
       "date": "2026-07-06"
+    },
+    {
+      "url": "https://www.notebookcheck.net/Sony-RX10-V-launches-Thursday-teaser-reveals-surprising-upgrades.1336040.0.html",
+      "date": "2026-07-07"
     }
   ],
   "TV": [
-    {
-      "url": "https://theinventory.com/lg-c6-oled-tv-gaming-review-deal",
-      "date": "2026-06-30"
-    },
     {
       "url": "https://news.yahoo.co.jp/articles/8133938bfbc8008d28afc3aa9140017ff4956afd",
       "date": "2026-07-01"
@@ -231,13 +227,13 @@
     {
       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFB4X3ZzLWItOExka1NrWUw0bk0wZUszYkdvRlN5V0hNWjk3bEdIRTZ2eXd0Sk4wa1lSdWZVdlQ1ZUJZbTVab0xvOHVTcFRoeEZLV2tRc3UteFdpcVBfQVVPZ0kzc0FRUUI5bWY4?oc=5",
       "date": "2026-07-06"
+    },
+    {
+      "url": "https://www.techradar.com/televisions/our-favorite-budget-lg-oled-tv-is-usd1-500-off-at-best-buy-today-the-perfect-opportunity-to-watch-the-world-cup-in-its-full-glory",
+      "date": "2026-07-07"
     }
   ],
   "Projector": [
-    {
-      "url": "https://av.watch.impress.co.jp/docs/news/2120888.html",
-      "date": "2026-06-30"
-    },
     {
       "url": "https://news.nicovideo.jp/watch/nw19488953?news_ref=60_60",
       "date": "2026-07-01"
@@ -257,6 +253,10 @@
     {
       "url": "https://av.watch.impress.co.jp/docs/topic/2120916.html",
       "date": "2026-07-06"
+    },
+    {
+      "url": "https://av.watch.impress.co.jp/docs/topic/special/2122044.html",
+      "date": "2026-07-07"
     }
   ]
 }
