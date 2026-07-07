@@ -1,0 +1,102 @@
+{
+  "AI": {
+    "title": "SHIFTが440人採用停止、AI習得の超高速化へ",
+    "summary": "ソフトウェアテスト大手SHIFTが、2025年度の新卒採用計画を当初の500人から60人に大幅縮小することを発表しました。AI活用により新卒の学習効率を劇的に向上させ、10年分のスキルを1年で習得可能としたことが背景にあります。単なる人員削減ではなく、生成AIを前提としたエンジニア育成プロセスの抜本的な転換事例として注目されています。",
+    "insight": "AI導入による教育効率の向上は、ジュニアエンジニアの即戦力化に対する定義を大きく塗り替えています。今後は「経験年数」よりも「AIツールを駆使した技術習得の加速力」が、エンジニアの市場価値を測る重要な指標になるでしょう。",
+    "sourceUrl": "https://business.nikkei.com/atcl/gen/19/00898/063000006/",
+    "sourceName": "日経ビジネス電子版",
+    "originalImageUrl": "https://business.nikkei.com/atcl/gen/19/00898/063000006/fb.jpg",
+    "originalImageArticleUrl": "https://business.nikkei.com/atcl/gen/19/00898/063000006/",
+    "displayDate": "2026-07-08"
+  },
+  "SRD / XR": {
+    "title": "XREALが若年層向け新ブランド「xbx」を設立、4万円台から",
+    "summary": "ARグラスを展開するXREALが、Z世代などの若年層をターゲットにした新ブランド「xbx」を立ち上げました。4万円台という低価格帯からラインナップを揃えることで、ARデバイスの普及と市場拡大を加速させる狙いです。",
+    "insight": "低価格帯のARデバイスが登場することで、コンシューマー層の手に渡る機会が増え、ARアプリの開発需要がさらに高まることが予想されます。エンジニアとしては、特定の高価なハイエンド機向けだけでなく、汎用的な安価なデバイスでも快適に動作する軽量なレンダリングやUX設計が今後の差別化要因になるでしょう。",
+    "sourceUrl": "https://www.nikkei.com/article/DGXZQOUC078CZ0X00C26A7000000/",
+    "sourceName": "日本経済新聞",
+    "originalImageUrl": "https://article-image-ix.nikkei.com/https%3A%2F%2Fimgix-proxy.n8s.jp%2FDSXZQO3278068007072026000000-1.png?auto=compress&bg=FFFF&crop=focalpoint&fit=crop&fm=jpg&h=630&w=1200&s=70ac88754993a7dea6a2e1578c4e9755",
+    "originalImageArticleUrl": "https://www.nikkei.com/article/DGXZQOUC078CZ0X00C26A7000000/",
+    "displayDate": "2026-07-08"
+  },
+  "TCL": {
+    "title": "AmazonプライムデーでTCLのMiniLEDテレビが大幅割引",
+    "summary": "Amazonプライムデーに合わせ、TCLの最新MiniLEDテレビやゲーミングモニターが記録的な低価格で販売されています。特に98インチの大型モデルやセット割引が注目されており、ディスプレイ環境のアップグレードを検討する絶好の機会となっています。",
+    "insight": "MiniLEDはバックライトの微細化により、従来の液晶よりもコントラスト比と輝度を劇的に向上させた技術で、エンジニアの作業用モニターや開発用検証機としても適しています。特に低価格化が進む現状は、マルチモニター環境構築やUI開発の表示検証用デバイスとして導入コストを抑えるチャンスです。",
+    "sourceUrl": "https://www.phileweb.com/news/d-av/202607/08/65504.html",
+    "sourceName": "PHILE WEB",
+    "originalImageUrl": "https://www.phileweb.com/news/ogp/d-av/655/41ff516416c232b248bb9264ed2efa5a.jpg",
+    "originalImageArticleUrl": "https://www.phileweb.com/news/d-av/202607/08/65504.html",
+    "displayDate": "2026-07-08"
+  },
+  "SONY": {
+    "title": "ソニー新型カメラ「FX5」発表の噂が浮上",
+    "summary": "ソニーのシネマラインカメラ「FX5」が7月22日に発表されるのではないかという噂が海外メディアを中心に盛り上がりを見せています。通称「mini VENICE」とも呼ばれる本機は、プロフェッショナルな映像制作現場における機動性を高めるモデルとして注目されています。",
+    "insight": "シネマラインの小型化は、センサー性能だけでなく、計算機資源による画作り（Computational Photography）が撮影現場のワークフローにどう統合されるかが鍵です。ハードウェアレベルでの低遅延処理や、ポストプロダクションとのシームレスなメタデータ連携がエンジニア視点での注目ポイントとなります。",
+    "sourceUrl": "https://asobinet.com/will-the-sony-fx5-be-announced-on-july-22/",
+    "sourceName": "とるなら",
+    "originalImageUrl": "https://asobinet.com/wp-content/uploads/2026/07/FX5-rumor.webp",
+    "originalImageArticleUrl": "https://asobinet.com/will-the-sony-fx5-be-announced-on-july-22/",
+    "displayDate": "2026-07-08"
+  },
+  "Gaming Monitor": {
+    "title": "ついにPlayStationブランドのゲーミングモニターが登場",
+    "summary": "PlayStationブランドから新たにゲーミングモニターが発表され、現在予約受付が開始されています。詳細なスペックや価格設定が注目されており、公式アクセサリーとしてゲーマーの間で大きな話題となっています。",
+    "insight": "コンソール機メーカーが自社ブランドでディスプレイを展開することは、プラットフォームの没入感体験をハードウェアレベルで垂直統合する戦略の現れです。低遅延や独自のVRR最適化など、エンジニアリング視点ではコンソールとのハンドシェイク仕様がどの程度専用設計になっているかが興味深いポイントです。",
+    "sourceUrl": "https://tech.yahoo.com/gaming/articles/yes-playstation-making-gaming-monitor-195550007.html",
+    "sourceName": "Yahoo Tech",
+    "originalImageUrl": "https://s.yimg.com/lo/mysterio/api/575b198f7d60cab9563cc149cc8117618df689d48feb25be01e8d7f3c738a8d3/lightyear_networkapi/resizefill_w1200;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fgamespot_323%2F7a8e9b09f9068a07dd6b37bdd9228040",
+    "originalImageArticleUrl": "https://tech.yahoo.com/gaming/articles/yes-playstation-making-gaming-monitor-195550007.html",
+    "displayDate": "2026-07-08"
+  },
+  "TV": {
+    "title": "2026年最新TVトレンド：OLEDとMini LEDの激戦",
+    "summary": "2026年モデルのTV市場では、OLED（有機EL）とMini LEDモデルの比較が本格化しています。価格競争に加え、Samsungなどの主要メーカーによる製品ラインナップの複雑化や新技術の投入が進んでおり、性能とコスパのバランスが重要な検討要素となっています。",
+    "insight": "ハードウェアのスペック競争においては、名称やモデル体系の複雑さがユーザー体験（UX）を損なう好例です。技術選定においては、単なる性能数値だけでなく、エコシステムや保守のしやすさといったエンジニアリング的な一貫性も重要だと再確認させられます。",
+    "sourceUrl": "https://mashable.com/tech/best-tvs-of-2026-so-far",
+    "sourceName": "Mashable",
+    "originalImageUrl": "https://helios-i.mashable.com/imagery/articles/04xry3egySi2rPVf9QJlFZo/hero-image.fill.size_1200x675.v1781807144.png",
+    "originalImageArticleUrl": "https://mashable.com/tech/best-tvs-of-2026-so-far",
+    "displayDate": "2026-07-08"
+  },
+  "LED Wall Display": {
+    "title": "ドイツのMicroLED開発：GaN-on-Siliconで量産へ",
+    "summary": "ドイツの研究プロジェクト「microPRO」が始動しました。ALLOSやFraunhofer IPMSなどが参画し、Industry 4.0のプロセスを活用して、AR向けMicroLEDディスプレイの製造可能性を実証することを目指します。既存のシリコン製造技術との親和性を高め、コスト効率の高い量産体制の構築が期待されています。",
+    "insight": "GaN-on-Silicon技術の採用は、従来のサファイア基板と比較して大口径化と低コスト化を可能にし、MicroLEDの商業化を加速させます。エンジニアの視点では、既存のCMOSファウンドリ設備（GlobalFoundries等）での製造プロセス確立が、量産性のボトルネックをどう解消するかが注目ポイントです。",
+    "sourceUrl": "//www.ledinside.com/news/2026/7/2026_07_07_03",
+    "sourceName": "LEDinside",
+    "originalImageUrl": null,
+    "originalImageArticleUrl": "//www.ledinside.com/news/2026/7/2026_07_07_03",
+    "displayDate": "2026-07-08"
+  },
+  "Projector": {
+    "title": "プロジェクターも狙い目！Amazonプライムデー活用術",
+    "summary": "Amazonプライムデーの開催に合わせ、DangbeiやAladdin Xといった人気プロジェクターがセール対象となっています。ホームシアター環境のアップグレードや導入を検討しているエンジニアにとって、スペック比較や導入コストを見直す良い機会です。",
+    "insight": "プロジェクターは光学エンジンや投影方式（レーザー/LED）の選定が映像品質に直結するため、セール時は各社の技術的アプローチの違いを比較する絶好の機会です。特にスマートプロジェクターはOSの快適性がUXを大きく左右するため、Google TV搭載モデルなどはOS側の更新頻度も要チェックです。",
+    "sourceUrl": "https://prtimes.jp/main/html/rd/p/000000000.000000000",
+    "sourceName": "PR TIMES",
+    "originalImageUrl": "https://av.watch.impress.co.jp/img/avw/list/2123/214/DSC01387.jpg",
+    "originalImageArticleUrl": "https://av.watch.impress.co.jp/docs/series/zooma/2123214.html",
+    "displayDate": "2026-07-08"
+  },
+  "Production Monitor": {
+    "title": "ARRI ALEXA 35 Live Xtreme発表：ライブ映像の未来",
+    "summary": "ARRIがライブ配信に特化した「ALEXA 35 Live Xtreme」を発表。最大8倍速のハイフレームレート（HFR）出力に対応し、SDI経由でのライブ制作において従来のハイエンドシネマクオリティの映像をそのままスローモーションとして統合できる。スポーツや音楽イベントでの活用が期待される。",
+    "insight": "シネマカメラのセンサー技術とライブ配信のワークフローが融合し、リアルタイムでのベースバンド処理の高度化が進んでいる。高解像度・高フレームレート映像をSDIベースの既存インフラで扱うための、低遅延かつ高効率な信号処理パイプラインの設計はエンジニアリング的な注目ポイント。",
+    "sourceUrl": "https://www.cined.com/arri-alexa-35-live-xtreme-announced-up-to-8x-hfr-via-sdi-480fps-baseband-slow-motion/",
+    "sourceName": "CineD",
+    "originalImageUrl": "https://www.cined.com/content/uploads/2026/07/2-ALEXA-35-Live-Xtreme-KeyVisual-300x169.jpg",
+    "originalImageArticleUrl": "https://www.cined.com/arri-alexa-35-live-xtreme-announced-up-to-8x-hfr-via-sdi-480fps-baseband-slow-motion/",
+    "displayDate": "2026-07-08"
+  },
+  "Camera Control": {
+    "title": "Discordでグリッド画像が誤検知？AIモデレーションの限界",
+    "summary": "Discordの自動コンテンツ検知システムが、無害なグリッド（格子）画像を有害と誤判定し、約8,200人のユーザーを誤ってBANする事態が発生しました。プラットフォームの自動化におけるAIの信頼性が問われています。",
+    "insight": "画像認識AIにおいて、特定のパターンが誤ってフィルタリングをトリガーするリスクは、自動検閲機能を実装するエンジニアにとって注意すべきエッジケースです。AIモデルの精度管理だけでなく、誤検知発生時の迅速な復旧フローとユーザーへの透明性確保が、システムの信頼性を左右します。",
+    "sourceUrl": "https://petapixel.com/2026/07/07/discord-banned-around-8200-users-for-posting-inoffensive-images-of-grids/",
+    "sourceName": "PetaPixel",
+    "originalImageUrl": "https://petapixel.com/assets/uploads/2026/07/discord-ban-featured.jpg",
+    "originalImageArticleUrl": "https://petapixel.com/2026/07/07/discord-banned-around-8200-users-for-posting-inoffensive-images-of-grids/",
+    "displayDate": "2026-07-08"
+  }
+}
