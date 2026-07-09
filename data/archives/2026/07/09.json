@@ -1,0 +1,102 @@
+{
+  "SRD / XR": {
+    "title": "「失敗できる研修」がDXの鍵に、VR人材育成の最前線",
+    "summary": "ダイキン工業やNECファシリティーズらが実践する、VRを活用した「失敗できる研修」の事例が注目されています。物理的リスクを排除し、安全に危機的状況をシミュレーションすることで、現場の技術習得や安全意識向上を効率化しています。",
+    "insight": "現実環境の物理制限を超えた教育用シミュレーターの開発において、VRは単なる可視化ツールではなく『安全な試行錯誤環境』として不可欠なインフラになっています。エンジニアとしては、低遅延で没入感を維持するレンダリングだけでなく、物理挙動をいかに忠実にモデル化し、フィードバックに変換するかが実装の腕の見せ所です。",
+    "sourceUrl": "https://wisdom.nec.com/ja/feature/web3/2026063001/index.html",
+    "sourceName": "NEC wisdom",
+    "originalImageUrl": "https://wisdom.nec.com/ja/feature/web3/2026063001/images/og_image.webp",
+    "originalImageArticleUrl": "https://wisdom.nec.com/ja/feature/web3/2026063001/index.html",
+    "displayDate": "2026-07-09"
+  },
+  "AI": {
+    "title": "AnthropicのAIツールに中国が「バックドア」懸念を指摘",
+    "summary": "中国政府が、Anthropic社のAIコーディングツールにセキュリティ上の「バックドア」が存在する可能性があると警告しました。AI開発の安全性と地政学的な監視リスクが浮き彫りになっています。",
+    "insight": "エンジニアとしては、導入するAIツールが「信頼できるソース（クローズドな環境か）」かを確認し、コード生成のバックエンドで何が起きているか意識する必要があります。特に商用環境でのAI活用において、サプライチェーン・セキュリティやデータの持ち出しリスクへの警戒が改めて重要です。",
+    "sourceUrl": "https://www.cbsnews.com/news/china-security-backdoor-anthropic-ai-coding-tool/",
+    "sourceName": "CBS News",
+    "originalImageUrl": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/07/08/6477fa20-b3ac-4405-b5bc-bfd2831400bc/thumbnail/1200x630/a9f258c367462c38b4948918414bfebf/gettyimages-2284602172.jpg",
+    "originalImageArticleUrl": "https://www.cbsnews.com/news/china-security-backdoor-anthropic-ai-coding-tool/",
+    "displayDate": "2026-07-09"
+  },
+  "SONY": {
+    "title": "ソニー、8年ぶりの有線イヤモニ「IER-M500」を発表",
+    "summary": "ソニーが約8年ぶりとなるエントリー向け有線インイヤーモニター「IER-M500」を海外発表しました。高い遮音性とステージパフォーマンスを支える設計で、音楽制作やリスニング環境を重視するユーザーに向けた注目の新製品です。",
+    "insight": "プロ向けの音響機器開発で培った音響設計と、ハードウェアとしての信頼性が再評価されるトピックです。特に、ワイヤレス全盛の現代において、低遅延かつ高純度な伝送を求めるエンジニアにとって、有線環境の再構築は音響インターフェース設計の重要な示唆となります。",
+    "sourceUrl": "https://kajetblog.com/sony-ier-m500/",
+    "sourceName": "カジェログ",
+    "originalImageUrl": "https://kajetblog.com/wp-content/uploads/2026/07/asjdhfjkhsdfk.jpg",
+    "originalImageArticleUrl": "https://kajetblog.com/sony-ier-m500/",
+    "displayDate": "2026-07-09"
+  },
+  "Gaming Monitor": {
+    "title": "TCLの新型ゲーミングモニター、320Hz駆動を実現",
+    "summary": "TCLが、4K解像度と最大320Hzのリフレッシュレートを両立するデュアルモード対応のQD-Mini LEDゲーミングモニターを発表しました。最新のパネル技術により、高精細と高速描画を高い次元で両立しています。",
+    "insight": "4Kで320Hzを実現するには、ディスプレイストリーム圧縮（DSC）や最新のインターフェース規格の帯域幅を最大限に活用する必要があります。パネルの駆動速度だけでなく、信号処理の低遅延化がソフトウェアエンジニアリングにおける今後の主要な最適化ポイントとなるでしょう。",
+    "sourceUrl": "https://www.notebookcheck.net/TCL-launches-dual-mode-4K-QD-Mini-LED-gaming-monitor-with-up-to-320-Hz-refresh-rate.1337981.0.html",
+    "sourceName": "Notebookcheck",
+    "originalImageUrl": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/tcl-27c2a-launch.jpg",
+    "originalImageArticleUrl": "https://www.notebookcheck.net/TCL-launches-dual-mode-4K-QD-Mini-LED-gaming-monitor-with-up-to-320-Hz-refresh-rate.1337981.0.html",
+    "displayDate": "2026-07-09"
+  },
+  "Projector": {
+    "title": "Amazonプライムデーで狙い目！最新4Kプロジェクター",
+    "summary": "Amazonプライムデー開催に合わせ、Dangbeiの4Kプロジェクター「DBOX02 Pro」をはじめとするAV機器が大幅割引の対象となっています。自宅の壁や天井をシアター化する没入体験を手軽に構築できるチャンスです。",
+    "insight": "プロジェクター市場は今後も年平均9.4%の成長が見込まれており、家庭用でも4Kや高輝度レーザー光源が標準化しつつあります。エンジニア視点では、単なる映像出力デバイスではなく、スマートOS搭載によるコンテンツハブとしての進化にも注目したいところです。",
+    "sourceUrl": "https://news.yahoo.co.jp/articles/12ad0ed1ddb5335bed40de7a43f10ebe09a6f16b",
+    "sourceName": "Yahoo!ニュース",
+    "originalImageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260708-00130236-phileweb-000-1-view.jpg?exp=10800",
+    "originalImageArticleUrl": "https://news.yahoo.co.jp/articles/12ad0ed1ddb5335bed40de7a43f10ebe09a6f16b",
+    "displayDate": "2026-07-09"
+  },
+  "TV": {
+    "title": "ハイエンドOLEDテレビが大幅値下げ！市場の動向",
+    "summary": "現在、LGやSamsungの最新OLEDテレビがセールにより50%オフなどの大幅な値下げで販売されています。特に77インチ等の大型モデルが対象となっており、高性能ディスプレイの価格競争が激化しています。",
+    "insight": "最新のOLEDパネルは高リフレッシュレートと低遅延でゲーミングモニターとしても注目されています。ハードウェア価格の低下は、リビングのエンターテインメント環境を刷新する絶好の機会であり、ディスプレイ技術の普及がエンジニアのUI/UX開発における表示検証環境にも影響を与える可能性があります。",
+    "sourceUrl": "https://www.androidcentral.com/streaming-tv/this-77-inch-lg-oled-tv-just-scored-50-percent-off-at-best-buy-marking-usd1-500-in-savings",
+    "sourceName": "Android Central",
+    "originalImageUrl": "https://cdn.mos.cms.futurecdn.net/36yi4oApdwGRizBZC3HgJk-1338-80.jpg",
+    "originalImageArticleUrl": "https://www.androidcentral.com/streaming-tv/this-77-inch-lg-oled-tv-just-scored-50-percent-off-at-best-buy-marking-usd1-500-in-savings",
+    "displayDate": "2026-07-09"
+  },
+  "LED Wall Display": {
+    "title": "2026年ディスプレイ覇権：QD・OLED・MicroLEDの行方",
+    "summary": "2026年に向けて、Quantum Dots、OLED、そして次世代技術であるMicroLEDがディスプレイ市場でどう勢力図を変えるか。各技術のコストや性能向上に伴い、どのテクノロジーが市場を支配するかを考察する。",
+    "insight": "MicroLEDは高輝度と寿命で優位ですが、製造コストと歩留まりがAR/VRや大型ディスプレイ普及の鍵を握っています。エンジニアとしては、単なるパネル性能だけでなく、転写技術の革新やAI統合による制御効率の進化に注目すべきです。",
+    "sourceUrl": "https://www.analyticsinsight.net/gadgets/quantum-dots-vs-oled-vs-microled-which-display-technology-will-dominate-2026",
+    "sourceName": "Analytics Insight",
+    "originalImageUrl": "https://media.assettype.com/analyticsinsight%2F2026-07-08%2Fzdu8tstb%2FQuantum-Dots-vs-OLED-vs-MicroLED-Which-Display-Technology-Will-Dominate-2026.jpg?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
+    "originalImageArticleUrl": "https://www.analyticsinsight.net/gadgets/quantum-dots-vs-oled-vs-microled-which-display-technology-will-dominate-2026",
+    "displayDate": "2026-07-09"
+  },
+  "TCL": {
+    "title": "TCLの新型ゲーミングモニター、デュアルモード駆動で最大320Hzを実現",
+    "summary": "TCLが新たに発売した27インチQD-Mini LEDゲーミングモニター「27C2A」は、4K/160HzとフルHD/320Hzを切り替え可能な「デュアルモード」を搭載。高解像度での没入感と、競技性の高いFPSゲームでの高速表示を一台で両立させた点が特徴です。",
+    "insight": "ディスプレイの解像度とリフレッシュレートを動的に切り替えるデュアルモード技術は、ハードウェア制約をソフトウェアで補うトレンドの一つです。Mini LEDによる高いコントラスト比と組み合わせることで、高付加価値なゲーム体験を低価格帯で提供するTCLの戦略は、ディスプレイ市場の競争環境を大きく変える可能性があります。",
+    "sourceUrl": "https://wccftech.com/tcl-launches-qd-mini-led-based-27c2a-gaming-monitor/",
+    "sourceName": "Wccftech",
+    "originalImageUrl": "https://cdn.wccftech.com/wp-content/uploads/2026/07/TCL-27C2A-featured.jpg",
+    "originalImageArticleUrl": "https://wccftech.com/tcl-launches-qd-mini-led-based-27c2a-gaming-monitor/",
+    "displayDate": "2026-07-09"
+  },
+  "Camera Control": {
+    "title": "BlackmagicがUSB4対応の小型キャプチャー機器を発売",
+    "summary": "Blackmagic Designは、USB4接続に対応したポータブルなキャプチャー・再生デバイス「UltraStudio Express 3G」ファミリーを発表しました。Mac、Windows、Linux環境での放送やライブ配信、ポストプロダクション業務の効率化を支援します。",
+    "insight": "USB4インターフェースを採用したことで、高帯域幅が必要なビデオワークフローのポータビリティが大きく向上しました。ハードウェアの低価格化と汎用化が進む中で、いかに低遅延かつ高品質な入出力をソフトウェア側で制御できるかが、エンジニアにとっての差別化要因となります。",
+    "sourceUrl": "https://petapixel.com/2026/07/08/blackmagic-design-launches-175-ultrastudio-express-3g-capture-and-playback-devices/",
+    "sourceName": "PetaPixel",
+    "originalImageUrl": "https://petapixel.com/assets/uploads/2026/07/Blackmagic-Design-UltraStudio-Express-3G-Cover.jpg",
+    "originalImageArticleUrl": "https://petapixel.com/2026/07/08/blackmagic-design-launches-175-ultrastudio-express-3g-capture-and-playback-devices/",
+    "displayDate": "2026-07-09"
+  },
+  "Production Monitor": {
+    "title": "Thunderbolt 5対応：Keychronの新型ドックが凄い",
+    "summary": "Keychronが14-in-1のThunderbolt 5ドックを発表しました。最大80Gbps（ブースト時120Gbps）の帯域幅、デュアル8K出力、140W給電に対応し、ファンレスのアルミ筐体を採用。高解像度編集やデータ転送を多用するエンジニアの環境構築に最適な一台です。",
+    "insight": "Thunderbolt 5は前世代から帯域が倍増し、高負荷なワークフローを支える次世代規格として注目です。特にクリエイティブ現場では、単なるポート拡張を超えた高速通信性能が生産性を大きく左右するため、周辺機器の規格更新は重要な投資となります。",
+    "sourceUrl": "https://www.newsshooter.com/2026/07/08/keychron-thunderbolt-5-dock/?utm_source=rss&utm_medium=rss&utm_campaign=keychron-thunderbolt-5-dock",
+    "sourceName": "Newsshooter",
+    "originalImageUrl": "https://www.newsshooter.com/wp-content/uploads/2026/07/Screenshot-2026-07-08-at-18.43.08.png",
+    "originalImageArticleUrl": "https://www.newsshooter.com/2026/07/08/keychron-thunderbolt-5-dock/?utm_source=rss&utm_medium=rss&utm_campaign=keychron-thunderbolt-5-dock",
+    "displayDate": "2026-07-09"
+  }
+}

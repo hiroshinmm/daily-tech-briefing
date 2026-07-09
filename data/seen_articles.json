@@ -1,14 +1,6 @@
 {
   "Production Monitor": [
     {
-      "url": "https://www.cined.com/apple-creator-studio-update-adds-generate-captions-edit-detection-and-auto-mask-to-final-cut-pro/",
-      "date": "2026-07-01"
-    },
-    {
-      "url": "https://www.cined.com/accsoon-cineview-m7-series-adds-frame-io-integration-native-cloud-upload-automatic-resume-and-upload-task-management/",
-      "date": "2026-07-02"
-    },
-    {
       "url": "https://www.cined.com/beat-app-introduced-free-mac-tool-for-story-development-and-shoot-planning/",
       "date": "2026-07-04"
     },
@@ -27,17 +19,13 @@
     {
       "url": "https://www.cined.com/arri-alexa-35-live-xtreme-announced-up-to-8x-hfr-via-sdi-480fps-baseband-slow-motion/",
       "date": "2026-07-08"
+    },
+    {
+      "url": "https://www.newsshooter.com/2026/07/08/keychron-thunderbolt-5-dock/?utm_source=rss&utm_medium=rss&utm_campaign=keychron-thunderbolt-5-dock",
+      "date": "2026-07-09"
     }
   ],
   "SRD / XR": [
-    {
-      "url": "https://monoist.itmedia.co.jp/mn/articles/2607/01/news043.html",
-      "date": "2026-07-01"
-    },
-    {
-      "url": "https://www.uploadvr.com/apples-vision-pro-glasses-hardware-chief-leaves-for-openai/",
-      "date": "2026-07-02"
-    },
     {
       "url": "https://news.yahoo.co.jp/articles/b43c7638e096e41bdeebcafe154e3e0f5a6400a8/images/000",
       "date": "2026-07-04"
@@ -57,17 +45,13 @@
     {
       "url": "https://www.nikkei.com/article/DGXZQOUC078CZ0X00C26A7000000/",
       "date": "2026-07-08"
+    },
+    {
+      "url": "https://wisdom.nec.com/ja/feature/web3/2026063001/index.html",
+      "date": "2026-07-09"
     }
   ],
   "AI": [
-    {
-      "url": "https://www.wsj.com/cio-journal/how-companies-are-managing-ai-token-spend-833b6f7e",
-      "date": "2026-07-01"
-    },
-    {
-      "url": "https://www.nytimes.com/2026/06/25/technology/zai-china-artificial-intelligence-models.html",
-      "date": "2026-07-02"
-    },
     {
       "url": "https://techcrunch.com/2026/07/02/mark-zuckerberg-tells-staff-that-ai-agents-havent-progressed-as-quickly-as-hed-hoped/",
       "date": "2026-07-04"
@@ -87,17 +71,13 @@
     {
       "url": "https://business.nikkei.com/atcl/gen/19/00898/063000006/",
       "date": "2026-07-08"
+    },
+    {
+      "url": "https://www.cbsnews.com/news/china-security-backdoor-anthropic-ai-coding-tool/",
+      "date": "2026-07-09"
     }
   ],
   "Gaming Monitor": [
-    {
-      "url": "https://www.theverge.com/gadgets/906880/lg-ultragear-tandem-oled-1440p-gaming-monitor-deal-sale",
-      "date": "2026-07-01"
-    },
-    {
-      "url": "https://9to5toys.com/2026/07/01/first-deal-samsung-2026-odyssey-g7-4k-dual-mode-gaming-monitor/",
-      "date": "2026-07-02"
-    },
     {
       "url": "https://www.pcguide.com/deals/500hz-oled-gaming-monitor-is-one-of-the-fastest-displays-in-creation-and-its-100-cheaper-in-this-amazon-deal/",
       "date": "2026-07-04"
@@ -117,17 +97,13 @@
     {
       "url": "https://tech.yahoo.com/gaming/articles/yes-playstation-making-gaming-monitor-195550007.html",
       "date": "2026-07-08"
+    },
+    {
+      "url": "https://www.notebookcheck.net/TCL-launches-dual-mode-4K-QD-Mini-LED-gaming-monitor-with-up-to-320-Hz-refresh-rate.1337981.0.html",
+      "date": "2026-07-09"
     }
   ],
   "TCL": [
-    {
-      "url": "https://www.pcmag.com/reviews/tcl-98qm8l",
-      "date": "2026-07-01"
-    },
-    {
-      "url": "https://9to5mac.com/2026/07/01/iphone-fold-expected-to-fuel-rebound-in-foldable-phone-panel-shipments-per-report/",
-      "date": "2026-07-02"
-    },
     {
       "url": "https://www.flatpanelshd.com/news.php?subaction=showfull&id=1783070544",
       "date": "2026-07-04"
@@ -147,17 +123,13 @@
     {
       "url": "https://www.phileweb.com/news/d-av/202607/08/65504.html",
       "date": "2026-07-08"
+    },
+    {
+      "url": "https://wccftech.com/tcl-launches-qd-mini-led-based-27c2a-gaming-monitor/",
+      "date": "2026-07-09"
     }
   ],
   "Camera Control": [
-    {
-      "url": "https://petapixel.com/2026/06/30/the-worlds-largest-digital-camera-just-started-its-10-year-mission-to-map-the-universe/",
-      "date": "2026-07-01"
-    },
-    {
-      "url": "https://www.sonyalpharumors.com/sony-fx5-has-three-base-iso-and-x-ocn-internal-raw/",
-      "date": "2026-07-02"
-    },
     {
       "url": "https://www.sonyalpharumors.com/sony-officially-teases-the-launch-fo-the-new-sony-rx10v/",
       "date": "2026-07-04"
@@ -177,17 +149,13 @@
     {
       "url": "https://petapixel.com/2026/07/07/discord-banned-around-8200-users-for-posting-inoffensive-images-of-grids/",
       "date": "2026-07-08"
+    },
+    {
+      "url": "https://petapixel.com/2026/07/08/blackmagic-design-launches-175-ultrastudio-express-3g-capture-and-playback-devices/",
+      "date": "2026-07-09"
     }
   ],
   "LED Wall Display": [
-    {
-      "url": "https://www.retailcustomerexperience.com/news/hologram-kiosks-helping-students-at-virginia-college/",
-      "date": "2026-07-01"
-    },
-    {
-      "url": "https://invidis.com/news/2026/07/led-unilumin-lights-up-world-cup-fan-festival/",
-      "date": "2026-07-02"
-    },
     {
       "url": "https://arkvalleyvoice.com/mount-princeton-hot-springs-to-celebrate-fourth-of-july-with-fireworks-free-pool-party/",
       "date": "2026-07-04"
@@ -207,17 +175,13 @@
     {
       "url": "//www.ledinside.com/news/2026/7/2026_07_07_03",
       "date": "2026-07-08"
+    },
+    {
+      "url": "https://www.analyticsinsight.net/gadgets/quantum-dots-vs-oled-vs-microled-which-display-technology-will-dominate-2026",
+      "date": "2026-07-09"
     }
   ],
   "SONY": [
-    {
-      "url": "https://www.digitalcameraworld.com/cameras/mirrorless-cameras/the-sony-fx5-has-been-confirmed-for-july-with-a-global-shutter-sensor-and-mini-venice-cinema-features",
-      "date": "2026-07-01"
-    },
-    {
-      "url": "https://xtech.nikkei.com/atcl/nxt/column/18/03634/061200001/",
-      "date": "2026-07-02"
-    },
     {
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQYXZDdkxfaHVHRW1pNnc0RFVyUGRQdzZ5ejVxVHBoSmJlVlFaMmVNQ00zQnZtVmNKOWM1dXRqVlRNX1pJQi11cXg2UVR5N1EzT1ZhcDJ5Ykk4NE51bFpqVVJPcV9uQVhJcVNjSC1LYzdIN3lKcVgyX21XWnVsZkw1ZW51WDZ4aGVlakVv?oc=5",
       "date": "2026-07-04"
@@ -237,17 +201,13 @@
     {
       "url": "https://asobinet.com/will-the-sony-fx5-be-announced-on-july-22/",
       "date": "2026-07-08"
+    },
+    {
+      "url": "https://kajetblog.com/sony-ier-m500/",
+      "date": "2026-07-09"
     }
   ],
   "TV": [
-    {
-      "url": "https://news.yahoo.co.jp/articles/8133938bfbc8008d28afc3aa9140017ff4956afd",
-      "date": "2026-07-01"
-    },
-    {
-      "url": "https://www.nikkei.com/article/DGXZQOUF1232T0S6A610C2000000/",
-      "date": "2026-07-02"
-    },
     {
       "url": "https://www.businessinsider.com/guides/tech/samsung-s90h-oled-tv-review",
       "date": "2026-07-04"
@@ -267,17 +227,13 @@
     {
       "url": "https://mashable.com/tech/best-tvs-of-2026-so-far",
       "date": "2026-07-08"
+    },
+    {
+      "url": "https://www.androidcentral.com/streaming-tv/this-77-inch-lg-oled-tv-just-scored-50-percent-off-at-best-buy-marking-usd1-500-in-savings",
+      "date": "2026-07-09"
     }
   ],
   "Projector": [
-    {
-      "url": "https://news.nicovideo.jp/watch/nw19488953?news_ref=60_60",
-      "date": "2026-07-01"
-    },
-    {
-      "url": "https://www.avinteractive.com/territories-news/europe/sharp-provides-projection-tech-for-louvres-cinema-festival-01-07-2026/",
-      "date": "2026-07-02"
-    },
     {
       "url": "https://www.rbbtoday.com/article/2026/07/03/250237.html?utm_source=twitter&utm_medium=social&utm_content=tweet",
       "date": "2026-07-04"
@@ -297,6 +253,10 @@
     {
       "url": "https://av.watch.impress.co.jp/docs/series/zooma/2123214.html",
       "date": "2026-07-08"
+    },
+    {
+      "url": "https://news.yahoo.co.jp/articles/12ad0ed1ddb5335bed40de7a43f10ebe09a6f16b",
+      "date": "2026-07-09"
     }
   ]
 }
