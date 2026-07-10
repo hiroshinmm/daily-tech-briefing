@@ -1,0 +1,102 @@
+{
+  "SRD / XR": {
+    "title": "Metaが次世代ヘッドセット開発を再確認",
+    "summary": "MetaのCTOが、現在「複数の次世代ヘッドセット」を開発中であることを再確認しました。9月に開催されるイベント「Meta Connect」で何らかの発表があるのではないかと期待が高まっています。",
+    "insight": "MetaはQuestシリーズのハードウェア開発を継続しており、次世代機ではどのような空間コンピューティング体験が提供されるのか注目です。UI/UX開発者にとっては、将来のデバイスを見据えたハンドトラッキングやAI統合型の設計が今後のトレンドになるでしょう。",
+    "sourceUrl": "https://www.uploadvr.com/meta-cto-reaffirms-work-on-multiple-next-generation-headsets-hin/",
+    "sourceName": "UploadVR",
+    "originalImageUrl": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/07/Boz-with-Meta-prototype.png",
+    "originalImageArticleUrl": "https://www.uploadvr.com/meta-cto-reaffirms-work-on-multiple-next-generation-headsets-hin/",
+    "displayDate": "2026-07-10"
+  },
+  "AI": {
+    "title": "OpenAIの新モデル：エージェント型コーディング効率が54%向上",
+    "summary": "OpenAIの最新モデルが、エージェント型のコーディングタスクにおいてトークン効率を54%改善したとサム・アルトマン氏が明かしました。AIによる自律的な開発支援の精度と経済性が大きく向上しています。",
+    "insight": "AIエージェントによる自動生成コードは、コンテキストウィンドウの消費とコストが課題でしたが、効率化により複雑なプロジェクトの自律処理が現実味を帯びてきました。今後はLLMの性能だけでなく、エージェントとしていかに少ないトークンで論理的なコードを生成できるかが差別化要因になります。",
+    "sourceUrl": "https://www.cnbc.com/2026/07/09/open-ai-sam-altman-chatgpt-5-6-sol.html",
+    "sourceName": "CNBC",
+    "originalImageUrl": "https://image.cnbcfm.com/api/v1/image/108332819-1783609960036-_06A5184.jpg?v=1783621080&w=1920&h=1080",
+    "originalImageArticleUrl": "https://www.cnbc.com/2026/07/09/open-ai-sam-altman-chatgpt-5-6-sol.html",
+    "displayDate": "2026-07-10"
+  },
+  "SONY": {
+    "title": "ソニーが9年ぶりのRX10 Vを発表：半導体競争と製品戦略の重要性",
+    "summary": "ソニーの高性能ズームカメラ「RX10 V」が9年ぶりに発表されました。一方で、同社の半導体事業においては、iPhone向けセンサーの品質向上要求に伴い、TSMCとの連携や補助金活用による設備投資拡大が喫緊の課題となっています。",
+    "insight": "コンシューマー向け製品の刷新と、その基盤を支える半導体戦略の高度化が同時に進行しており、ハードウェアエンジニアには精密な設計と大規模製造のスケーラビリティの両立が求められています。特定の機能向上を支えるためのサプライチェーン構造の変化は、プロダクト開発の制約条件を理解する上で重要な視点です。",
+    "sourceUrl": "https://diamond.jp/articles/-/394358",
+    "sourceName": "ダイヤモンド・オンライン",
+    "originalImageUrl": "https://dol.ismcdn.jp/mwimgs/6/1/-/img_618ca973b29f5f6c0ce6e9f0e018b9db485922.jpg",
+    "originalImageArticleUrl": "https://diamond.jp/articles/-/394358",
+    "displayDate": "2026-07-10"
+  },
+  "TV": {
+    "title": "フジテレビ月9、急な方針転換で現場に困惑",
+    "summary": "フジテレビが来年1月期の月9ドラマにおいて、恋愛ものを禁止する方針を突然決定しました。キャストを巡るトラブル対応の一環と見られていますが、制作現場では急な変更に伴う混乱が生じています。",
+    "insight": "アジャイル開発における『仕様の突然の変更』は、技術的負債や士気の低下を招くリスクが高い好例です。プロダクトマネジメントにおいても、ゴール設定の急激なシフトがいかに現場のデリバリー品質を損なうか、反面教師として考える価値があります。",
+    "sourceUrl": "https://news.yahoo.co.jp/articles/37a6c38972b494eb8108bde05e0a30fb73f1cec8",
+    "sourceName": "Yahoo!ニュース",
+    "originalImageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260710-00000042-spnannex-000-6-view.jpg?exp=10800",
+    "originalImageArticleUrl": "https://news.yahoo.co.jp/articles/37a6c38972b494eb8108bde05e0a30fb73f1cec8",
+    "displayDate": "2026-07-10"
+  },
+  "TCL": {
+    "title": "TCLの画期的なデュアルモード搭載モニターが登場",
+    "summary": "TCLが4K/160Hzと1080p/320Hzを1台の画面で切り替え可能な27インチMini LEDモニターを約338ドルで発売しました。高精細な作業と高速なゲーミング体験を両立できる柔軟な設計が特徴です。",
+    "insight": "一つのパネルで高解像度と高リフレッシュレートを動的に切り替える技術は、デスク環境の省スペース化を求めるエンジニアにとって非常に魅力的です。ディスプレイのハードウェア側で解像度とフレームレートのバランスを最適化するトレンドは、今後の周辺機器選びの基準になりそうです。",
+    "sourceUrl": "https://videocardz.com/newz/tcl-launches-338-27-inch-mini-led-monitor-with-4k-160hz-and-1080p-320hz-modes",
+    "sourceName": "VideoCardz.com",
+    "originalImageUrl": "https://cdn.videocardz.com/1/2026/07/TCL-27C2A-GAMING-MONITOR.webp",
+    "originalImageArticleUrl": "https://videocardz.com/newz/tcl-launches-338-27-inch-mini-led-monitor-with-4k-160hz-and-1080p-320hz-modes",
+    "displayDate": "2026-07-10"
+  },
+  "Projector": {
+    "title": "Amazonプライムデーでスマートプロジェクターが狙い目",
+    "summary": "7月10日から始まるAmazonプライムデーにおいて、AWOLやXGIMIといった主要ブランドのスマートプロジェクターが最大39%オフのセール対象となっています。猛暑が続く中、自宅を映画館化するホームシアター需要が高まっています。",
+    "insight": "最新のスマートプロジェクターは自動台形補正やOS搭載など、エンジニアにとっても手軽に設置・運用できる環境が整っています。ハードウェアの進化により、高輝度なレーザー光源が身近になったことで、リビング環境での「非・暗室」運用が実用的な選択肢となりました。",
+    "sourceUrl": "https://www.appbank.net/2026/07/09/iphone-news/3049441.php",
+    "sourceName": "AppBank",
+    "originalImageUrl": "https://www.appbank.net/wp-content/uploads/2026/07/20260707_213346_674_01.webp",
+    "originalImageArticleUrl": "https://www.appbank.net/2026/07/09/iphone-news/3049441.php",
+    "displayDate": "2026-07-10"
+  },
+  "LED Wall Display": {
+    "title": "次世代の鍵：BOEがMicroLEDとCPO技術に本格参入",
+    "summary": "ディスプレイ大手のBOEが、MicroLEDを用いた光インターコネクトおよびガラス基板ベースのCPO（共パッケージ光学）技術開発に向けた専任チームを設立した。ディスプレイ製造の知見を活かし、次世代通信・半導体市場へ進出を図る動きが加速しています。",
+    "insight": "ディスプレイ技術のノウハウを応用し、光配線やガラス基板を用いたCPOへと事業領域を広げる戦略は、データセンターの省電力化・高速化において重要です。ハードウェアエンジニアは、単なるパネル製造を超えて、光と電子を融合させる基板レベルの高度な実装技術に注目すべきです。",
+    "sourceUrl": "//www.ledinside.com/news/2026/7/2026_07_09_02",
+    "sourceName": "LEDinside",
+    "originalImageUrl": null,
+    "originalImageArticleUrl": "//www.ledinside.com/news/2026/7/2026_07_09_02",
+    "displayDate": "2026-07-10"
+  },
+  "Gaming Monitor": {
+    "title": "Asus、4K 240Hz/488Hzの可変リフレッシュレート対応モニター発表",
+    "summary": "Asusが「4K 240Hz」と「フルHD 488Hz」という異なるリフレッシュレートの表示モードを切り替えられる革新的なゲーミングモニターを発表した。最新のパネル技術により、高精細なグラフィック重視のゲームと、競技性の高いFPSの両立を目指す新たな選択肢となる。",
+    "insight": "複数の解像度・リフレッシュレートを物理的に切り替える技術は、単なるディスプレイ性能の向上を超え、GPU負荷を動的に制御する新たなワークフローの可能性を示唆しています。エンジニアとしては、こうしたハードウェア側の最適化が、将来的にフレームレート制限やアスペクト比固定といったUI/UX設計にどう影響を与えるか注視すべきトピックです。",
+    "sourceUrl": "https://www.notebookcheck.net/Asus-unveils-new-triple-mode-gaming-monitor-with-4K-240Hz-and-up-to-488Hz-refresh-rate.1338881.0.html",
+    "sourceName": "Notebookcheck",
+    "originalImageUrl": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/ROG-Godlike-27-Plus.jpg",
+    "originalImageArticleUrl": "https://www.notebookcheck.net/Asus-unveils-new-triple-mode-gaming-monitor-with-4K-240Hz-and-up-to-488Hz-refresh-rate.1338881.0.html",
+    "displayDate": "2026-07-10"
+  },
+  "Production Monitor": {
+    "title": "Sony RX10 V発表：9年ぶりの刷新とAI推論の進化",
+    "summary": "Sonyのハイエンド・ブリッジカメラ「RX10 V」が約9年ぶりに登場。24-600mmのズームレンズという伝統的なハードウェアはそのままに、最新のAlphaシリーズに搭載されているBIONZ XRプロセッサとAIによるリアルタイム認識AFを統合。4K 120p撮影や30fpsのブラックアウトフリー連写を実現しました。",
+    "insight": "ハードウェアの制約をAI処理で拡張する近年のトレンドが、プロ向けカメラの刷新にも波及しています。組み込みAIによる推論処理の高速化が、エッジデバイスの性能をどう底上げしているかという観点で注目に値します。",
+    "sourceUrl": "https://www.cined.com/sony-rx10-v-announced-24-600mm-zeiss-zoom-ai-recognition-af-and-4k-120p-video/",
+    "sourceName": "CineD",
+    "originalImageUrl": "https://www.cined.com/content/uploads/2026/07/IMG_0995-300x169.jpeg",
+    "originalImageArticleUrl": "https://www.cined.com/sony-rx10-v-announced-24-600mm-zeiss-zoom-ai-recognition-af-and-4k-120p-video/",
+    "displayDate": "2026-07-10"
+  },
+  "Camera Control": {
+    "title": "9年ぶりの進化！ソニー「RX10 V」登場",
+    "summary": "ソニーから高倍率ズーム機「RX10 V」が7月31日に発売されます。1型センサー搭載で600mm相当の望遠と、秒間約30コマのブラックアウトフリー撮影を実現し、レンズ一体型カメラとして約9年ぶりの大幅刷新となります。",
+    "insight": "積層型CMOSによるブラックアウトフリー撮影は、動体追従やUXの面で極めて高い処理性能が求められます。単なる画質向上だけでなく、センサーの読み出し速度と画像処理エンジンの最適化が、カメラの操作感にいかに直結するかを体現するモデルと言えるでしょう。",
+    "sourceUrl": "https://dc.watch.impress.co.jp/docs/news/2123877.html",
+    "sourceName": "デジカメ Watch",
+    "originalImageUrl": "https://dc.watch.impress.co.jp/img/dcw/list/2123/877/01.jpg",
+    "originalImageArticleUrl": "https://dc.watch.impress.co.jp/docs/news/2123877.html",
+    "displayDate": "2026-07-10"
+  }
+}
