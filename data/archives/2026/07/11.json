@@ -1,0 +1,102 @@
+{
+  "SRD / XR": {
+    "title": "ジョン・カーマック、名作のVR移植に100万ドルを提示",
+    "summary": "伝説的エンジニアのジョン・カーマック氏が、id Softwareの名作ゲームを「Team Beef」によるVR移植プロジェクトとして商用化させるために、100万ドルの資金保証を行う意向をMicrosoftに再提示しました。レガシータイトルのVR資産化に向けた強い意志が示されています。",
+    "insight": "IPのオープン化や移植に対する権利関係のハードルを、個人が巨額の保証で突破しようとする姿勢は非常に興味深いです。エンジニアとしては、古いソースコードを現代のXR環境にどう最適化・変換するかという技術的アプローチと、プラットフォーマーの姿勢というビジネス的側面の両面で議論が深まるトピックです。",
+    "sourceUrl": "https://www.uploadvr.com/john-carmack-reminds-microsoft-hell-guarantee-1-million-to-bring-team-beefs-ports-to-vr/",
+    "sourceName": "UploadVR",
+    "originalImageUrl": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/07/IMG_0105.jpeg",
+    "originalImageArticleUrl": "https://www.uploadvr.com/john-carmack-reminds-microsoft-hell-guarantee-1-million-to-bring-team-beefs-ports-to-vr/",
+    "displayDate": "2026-07-11"
+  },
+  "AI": {
+    "title": "AI開発への個人情報活用、改正法成立",
+    "summary": "AI開発における個人情報の取り扱いが大きく変わります。改正法により、特定の条件下で個人情報の提供が同意不要となりますが、プライバシー保護とイノベーションのバランスに企業は手探りの状態が続いています。",
+    "insight": "データ利用の法的障壁が下がったことはエンジニアにとって追い風ですが、学習データセットの匿名化やガバナンス設計の重要性が増しています。今後は、法準拠を自動化するパイプラインや、データセットのコンプライアンス管理が技術スタックの重要な一部になるでしょう。",
+    "sourceUrl": "https://www.nikkei.com/article/DGXZQOUA098SD0Z00C26A7000000/",
+    "sourceName": "日本経済新聞",
+    "originalImageUrl": "https://article-image-ix.nikkei.com/https%3A%2F%2Fimgix-proxy.n8s.jp%2FDSXZQO3294531010072026000000-1.jpg?auto=compress&bg=FFFF&crop=focalpoint&fit=crop&fm=jpg&h=630&w=1200&s=16150b4e79d057fb63db8054e29ab708",
+    "originalImageArticleUrl": "https://www.nikkei.com/article/DGXZQOUA098SD0Z00C26A7000000/",
+    "displayDate": "2026-07-11"
+  },
+  "TCL": {
+    "title": "TCL電子が中間決算で大幅増益を達成",
+    "summary": "TCL電子が発表した中間決算見通しによると、純利益が前年同期比で40%から56%増加する見込みであることが判明しました。テレビ事業を中心とした各部門が堅調に推移し、業績を牽引している模様です。",
+    "insight": "家電メーカーの業績好調は、製品ラインナップの競争力と市場シェアの拡大が背景にあります。エンジニア視点では、AIによる画質最適化技術やスマートホーム統合の進化が、こうした高収益体質を支える重要なエンジニアリング要因となっている点に注目です。",
+    "sourceUrl": "https://finance.yahoo.co.jp/news/detail/7d02f2827dd3326d7a58b90b9f857246a5416c21",
+    "sourceName": "Yahoo!ファイナンス",
+    "originalImageUrl": "https://s.yimg.jp/images/finance/common/image/ogp.png",
+    "originalImageArticleUrl": "https://finance.yahoo.co.jp/news/detail/7d02f2827dd3326d7a58b90b9f857246a5416c21",
+    "displayDate": "2026-07-11"
+  },
+  "Gaming Monitor": {
+    "title": "Alienwareが30周年記念のゲーミングモニターを発表",
+    "summary": "Alienwareがブランド設立30周年を記念した新しいゲーミングモニターのラインナップを発表しました。高性能なAW3426DWモデルなどの詳細情報が公開され、最新のディスプレイ技術の動向として注目を集めています。",
+    "insight": "最新のOLEDパネルを採用した高リフレッシュレートモデルが増えており、ハードウェアの進化が止まりません。エンジニアとしては、単なる描画性能だけでなく、表示遅延や色再現性がAIやシミュレーション環境の生産性にどう寄与するか、スペックの裏側にある技術的優位性を考察するのが面白いでしょう。",
+    "sourceUrl": "https://www.cgmagonline.com/news/alienware-30th-anniversary-monitor-lineup/",
+    "sourceName": "CGMagazine",
+    "originalImageUrl": "https://www.cgmagonline.com/wp-content/uploads/2026/07/alienware-launches-30th-anniversary-monitor-lineup-this-week-6621.jpg",
+    "originalImageArticleUrl": "https://www.cgmagonline.com/news/alienware-30th-anniversary-monitor-lineup/",
+    "displayDate": "2026-07-11"
+  },
+  "SONY": {
+    "title": "ソニーがRX10 Vでブリッジカメラ市場を再定義",
+    "summary": "ソニーが長年愛された高倍率ズーム搭載のブリッジカメラ「RX10 V」を市場に再投入。ミラーレス全盛の時代において、レンズ交換不要で広角から超望遠までを一台でカバーするコンセプトが再び注目を集めています。専門家の評価は分かれていますが、ソロクリエイターのニーズに応える一台として話題です。",
+    "insight": "ハードウェアの限界をソフトウェアと光学設計で最適化するこのアプローチは、汎用性を重視するエンジニアにとって非常に示唆に富んでいます。交換レンズという物理的コストを排除しつつ、特定のユースケースに最適化されたオールインワン・システムの設計思想は、製品開発におけるUXの好例と言えます。",
+    "sourceUrl": "https://www.yugatech.com/news/sony-unveils-the-rx10-v-bridge-camera/",
+    "sourceName": "YugaTech",
+    "originalImageUrl": "https://www.yugatech.com/wp-content/uploads/2026/07/sony-unveils-the-rx10-v-bridge-camera.webp",
+    "originalImageArticleUrl": "https://www.yugatech.com/news/sony-unveils-the-rx10-v-bridge-camera/",
+    "displayDate": "2026-07-11"
+  },
+  "Projector": {
+    "title": "キャンプでも映画館？2Kポータブルプロジェクター登場",
+    "summary": "場所を選ばずどこでも高精細な映像体験を実現する、伸縮式2Kプロジェクターが話題です。キャンプ先や自宅のリビングなど、シチュエーションに合わせて投影サイズを調整できる利便性が、ホームシアター体験をより身近なものにしています。",
+    "insight": "ハードウェアエンジニアリングの観点では、モバイルサイズでの光学設計と放熱管理の両立が興味深いポイントです。特にポータブル機で安定した2K投影を実現する技術の進化は、ウェアラブルディスプレイやARデバイスへの応用可能性も示唆しています。",
+    "sourceUrl": "https://newatlas.com/home-entertainment/pixorien-z01-telescoping-2k-projector/",
+    "sourceName": "New Atlas",
+    "originalImageUrl": "https://assets.newatlas.com/dims4/default/2d36433/2147483647/strip/true/crop/2223x1167+0+42/resize/1200x630!/quality/85/?url=https%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2Fbf%2F76%2Fe75367cc4444bbb0b53e51328c62%2Foutdoor.jpg&na.image_optimisation=0",
+    "originalImageArticleUrl": "https://newatlas.com/home-entertainment/pixorien-z01-telescoping-2k-projector/",
+    "displayDate": "2026-07-11"
+  },
+  "Production Monitor": {
+    "title": "Adobe Premiere Proに生成AIメディアツールが登場",
+    "summary": "Adobe Premiere Proのベータ版に「Generative Media Tool」が追加されました。タイムライン上の空きスペースをドラッグまたはダブルクリックするだけで、生成AIによるタスクバーを呼び出し、映像編集作業を効率化できる機能です。クリエイティブな現場でのAI活用がさらに加速しています。",
+    "insight": "映像編集におけるAIの活用は、単なる画質向上やエフェクト生成から、ワークフローそのものを変える段階に入っています。エンジニアとしては、こうした生成AIツールと既存のタイムラインAPIとの連携が、今後の映像制作環境をどう変えていくのか注視すべきでしょう。",
+    "sourceUrl": "https://www.provideocoalition.com/adobe-premiere-is-adding-a-generative-media-tool/",
+    "sourceName": "ProVideo Coalition",
+    "originalImageUrl": "https://www.provideocoalition.com/wp-content/uploads/Adobe-Premiere-Beta-000965-gen-media-tool.jpg",
+    "originalImageArticleUrl": "https://www.provideocoalition.com/adobe-premiere-is-adding-a-generative-media-tool/",
+    "displayDate": "2026-07-11"
+  },
+  "TV": {
+    "title": "次世代TV選びの要：RGB Mini LED vs OLED徹底比較",
+    "summary": "最近のTV市場では、Mini LEDとOLEDの技術比較がエンジニアや専門家の間で熱い議論を呼んでいます。高コントラストなOLEDか、高輝度・高耐久なMini LEDか。この技術的な差異を理解することは、ディスプレイ技術の進化を追う上で欠かせません。",
+    "insight": "両者の技術は光の制御方式（自発光かバックライトか）が根本的に異なります。エンジニア視点では、RGB Mini LEDによる局所調光技術の進化と、OLED特有の焼付き防止アルゴリズムの制御ロジックを対比させると、ディスプレイのハードウェア制御のトレンドが見えてきます。",
+    "sourceUrl": "https://www.msn.com/en-us/money/other/rgb-mini-led-and-oled-tv-technology-compared/ss-AA25UhYm",
+    "sourceName": "MSN",
+    "originalImageUrl": null,
+    "originalImageArticleUrl": "https://www.msn.com/en-us/money/other/rgb-mini-led-and-oled-tv-technology-compared/ss-AA25UhYm",
+    "displayDate": "2026-07-11"
+  },
+  "LED Wall Display": {
+    "title": "MicroLED量産化の壁を突破？英Pixel-Floが資金調達",
+    "summary": "英シェフィールド大学発のスタートアップPixel-Floが、MicroLED製造のボトルネックを解消する「Continuous-Flo™」技術の開発に向け、525万ポンド（約610万ユーロ）の資金調達を実施しました。従来のロボットによる「ピック・アンド・プレース」方式に代わる新たな製造プロセスの確立を目指しています。",
+    "insight": "MicroLEDの商用化における最大の課題は、数百万個の極小LEDを高速かつ高精度に配置する転写工程の生産性です。従来の物理的な転写方式を根本から見直す技術革新は、ディスプレイ製造コストを劇的に下げ、市場普及を加速させる重要なブレイクスルーとなる可能性があります。",
+    "sourceUrl": "//www.ledinside.com/news/2026/7/2026_07_10_02",
+    "sourceName": "LEDinside",
+    "originalImageUrl": null,
+    "originalImageArticleUrl": "//www.ledinside.com/news/2026/7/2026_07_10_02",
+    "displayDate": "2026-07-11"
+  },
+  "Camera Control": {
+    "title": "Insta360×Bambu Lab：3Dプリントによるカメラ周辺機器の民主化",
+    "summary": "Insta360がBambu Labと提携し、Luna Ultraカメラ用アクセサリーの公式設計データを公開。MakerWorld上でユーザーが独自のデザインを3Dプリントできるコンテストを開始し、ハードウェアのカスタマイズ性を大きく向上させました。",
+    "insight": "製造と設計の垣根を越え、メーカーが公式に設計データを提供しコミュニティの創意工夫を促す手法は、今後のハードウェア周辺機器市場における強力なエコシステム戦略になります。エンジニアリング視点では、アディティブ・マニュファクチャリングが製品のライフサイクルや柔軟な拡張性をいかに変容させるかの好例です。",
+    "sourceUrl": "https://www.dpreview.com/news/insta360-and-bambu-lab-challenge-you-to-3d-print-your-own-luna-ultra-camera-accessories/",
+    "sourceName": "DPReview",
+    "originalImageUrl": "https://www.dpreview.com/wp-content/uploads/2026/07/M-IL-insta360-makerspace-3d-printing-promo.avif",
+    "originalImageArticleUrl": "https://www.dpreview.com/news/insta360-and-bambu-lab-challenge-you-to-3d-print-your-own-luna-ultra-camera-accessories/",
+    "displayDate": "2026-07-11"
+  }
+}
