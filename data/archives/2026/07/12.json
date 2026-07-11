@@ -1,0 +1,102 @@
+{
+  "SRD / XR": {
+    "title": "スポーツ特化型AIグラス「DPVR R1」が日本上陸",
+    "summary": "9月下旬、スポーツシーンでの利用に特化したAIスマートグラス「DPVR R1」が日本国内で発売されます。軽量かつアクティブな環境下での視覚情報の拡張を実現する製品で、ARグラスの用途がエンタメから実用・スポーツ分野へ拡大しているトレンドを象徴しています。",
+    "insight": "ウェアラブルデバイスが単なるAR/VR体験から、AIによるデータ解析やリアルタイム支援を伴う実用ツールへと進化しています。エンジニアとしては、エッジコンピューティングによる低遅延な映像処理や、UI/UX設計における視認性の最適化といった技術的課題への注目が必要です。",
+    "sourceUrl": "https://topics.smt.docomo.ne.jp/amp/article/cocotte/trend/cocotte-605060",
+    "sourceName": "Mogura VR",
+    "originalImageUrl": "https://img.topics.smt.news.goo.ne.jp/picture/cocotte/m_cocotte-605060.jpg",
+    "originalImageArticleUrl": "https://topics.smt.docomo.ne.jp/amp/article/cocotte/trend/cocotte-605060",
+    "displayDate": "2026-07-12"
+  },
+  "AI": {
+    "title": "AppleがOpenAIを提訴：企業秘密盗用疑惑の影響",
+    "summary": "Appleが元幹部を介して企業秘密を盗み、端末開発に流用したとしてOpenAIを提訴しました。AI開発競争における人材引き抜きや機密情報の取り扱いが、テック業界の大きな法的リスクとして注目されています。",
+    "insight": "AI開発において、モデルの精度だけでなく、トレーニングデータやアーキテクチャ設計に関する『知的財産の境界』が非常に重要になっています。開発者は今後、自社製品の特異性を守るためのデータセキュリティ戦略と、組織間のモビリティに伴う法務リスクをより深く認識する必要があります。",
+    "sourceUrl": "https://www.nikkei.com/article/DGXZQOGN110A50R10C26A7000000/",
+    "sourceName": "日本経済新聞",
+    "originalImageUrl": "https://article-image-ix.nikkei.com/https%3A%2F%2Fimgix-proxy.n8s.jp%2FDSXZQO3297034011072026000000-1.jpg?auto=compress&bg=FFFF&crop=focalpoint&fit=crop&fm=jpg&h=630&w=1200&s=dbd7f4665d5f517839f8a7efc8256a1f",
+    "originalImageArticleUrl": "https://www.nikkei.com/article/DGXZQOGN110A50R10C26A7000000/",
+    "displayDate": "2026-07-12"
+  },
+  "TCL": {
+    "title": "TCLがソニーブランドTVの早期投入を要請",
+    "summary": "TCLは、ソニーとの合弁事業への移管に関連し、ソニーブランドを冠したテレビ製品の早期投入を加速させる意向を明らかにしました。世界的な家電市場において、ブランド戦略と製造能力を融合させた動きとして注目されています。",
+    "insight": "家電メーカーの合弁移管はサプライチェーンやブランド戦略の大きな転換点です。エンジニアの視点では、製造工程の統合やブランド要件の製品仕様への落とし込みプロセスが、今後の製品開発スピードにどう影響するか注視すべきトピックです。",
+    "sourceUrl": "https://www.nikkei.com/nkd/company/article/?DisplayType=1&ng=DGKKZO97495360Q6A710C2TEZ000&scode=6758",
+    "sourceName": "日本経済新聞",
+    "originalImageUrl": "https://article-image-ix.nikkei.com/https%3A%2F%2Fimgix-proxy.n8s.jp%2FDSKZZO9749577010072026000000-KB2.jpg?auto=format%2Ccompress&ch=Width%2CDPR&fit=scale&h=500&ixlib=java-1.2.0&s=f3e67c9628601ab2dc7e8b375c1054a5",
+    "originalImageArticleUrl": "https://www.nikkei.com/nkd/company/article/?DisplayType=1&ng=DGKKZO97495360Q6A710C2TEZ000&scode=6758",
+    "displayDate": "2026-07-12"
+  },
+  "Gaming Monitor": {
+    "title": "HKCが世界初のRGB Mini LEDゲーミングモニターを発表",
+    "summary": "HKCが、世界初となる31.4インチおよび27インチのRGB Mini LEDゲーミングモニターの仕様を公開しました。さらに、一つのモニターで異なるリフレッシュレートや解像度を切り替えられる「デュアルモード」搭載のFast IPSモデルも発表しており、高画質化と多機能化が加速しています。",
+    "insight": "バックライト制御にRGB LEDを採用することで、従来のMini LEDよりも色域の表現力が飛躍的に向上する可能性があります。ソフトウェアやファームウェアによるパネルの駆動制御の高度化は、ゲーミングモニターの設計において今後さらなる差別化要因となるでしょう。",
+    "sourceUrl": "https://news.google.com/rss/articles/CBMingFBVV95cUxOYk9qTFI2TEZlWldfTzV4d1o3N2VXa1E3ZC1NRnY2TTZrLUJLdzA0UHR0Z1BNY3NEMlVKd3N4UDM4XzRKY19Lb3ByYjM2N3VTRW1hb1JpRjF6emkxaE5HZF9MS1pLRE5uNGdrNEZUZVVDM3p0RFhGMDl2VWU4SFVqMzg5dWI3UWRxbTc0MGQwQWxmYVR1QnZzOFNpWVR2UdIBowFBVV95cUxPel9uV2c5Q1hlSHU1QkVyWGlXV3J1cXZtMUlRSmlzOFJjWXBHUnlyZEJ3bWdCaVhKcm9CeXBXeDhZei1CamlEX3FQQzV6RHR4UGJQb1k4SEFVd2YwcDZUUmRhdDhKNTc0dHZQNFNhcTNzWEEyYko1aVNISGNwRm9pQlVOQlRvdHl1RUxsR3hFQUxGSDhpQUtYay1uSjdEeXpWb0hR?oc=5",
+    "sourceName": "Wccftech",
+    "originalImageUrl": null,
+    "originalImageArticleUrl": "https://news.google.com/rss/articles/CBMingFBVV95cUxOYk9qTFI2TEZlWldfTzV4d1o3N2VXa1E3ZC1NRnY2TTZrLUJLdzA0UHR0Z1BNY3NEMlVKd3N4UDM4XzRKY19Lb3ByYjM2N3VTRW1hb1JpRjF6emkxaE5HZF9MS1pLRE5uNGdrNEZUZVVDM3p0RFhGMDl2VWU4SFVqMzg5dWI3UWRxbTc0MGQwQWxmYVR1QnZzOFNpWVR2UdIBowFBVV95cUxPel9uV2c5Q1hlSHU1QkVyWGlXV3J1cXZtMUlRSmlzOFJjWXBHUnlyZEJ3bWdCaVhKcm9CeXBXeDhZei1CamlEX3FQQzV6RHR4UGJQb1k4SEFVd2YwcDZUUmRhdDhKNTc0dHZQNFNhcTNzWEEyYko1aVNISGNwRm9pQlVOQlRvdHl1RUxsR3hFQUxGSDhpQUtYay1uSjdEeXpWb0hR?oc=5",
+    "displayDate": "2026-07-12"
+  },
+  "Projector": {
+    "title": "IMAXがフィルムプロジェクターを再導入",
+    "summary": "テネシー水族館のIMAXシアターが、デジタル全盛の時代にあえてフィルムプロジェクターを再導入しました。映画『The Odyssey』の上映に向けた決定であり、アナログな映像表現の質感と希少性が再び注目を集めています。",
+    "insight": "高解像度のデジタル化が進む中で、あえてフィルムという物理メディアを選択する「レトロ回帰」のトレンドは、エンジニアリングにおける「技術の成熟と品質の再定義」を象徴しています。効率や利便性だけでなく、体験価値としてのアナログ特性をどうシステム設計に取り込むかは非常に興味深い視点です。",
+    "sourceUrl": "https://www.timesfreepress.com/news/2026/jul/11/tennessee-aquariums-imax-theater-reinstalls-film/",
+    "sourceName": "Chattanooga Times Free Press",
+    "originalImageUrl": "https://wehco.media.clients.ellingtoncms.com/imports/adg/img/2026/07/13/104073878__DSC9120-copy_t1200.jpg?57a0c2296240c280e9492005c3cad63e7cbe80f4",
+    "originalImageArticleUrl": "https://www.timesfreepress.com/news/2026/jul/11/tennessee-aquariums-imax-theater-reinstalls-film/",
+    "displayDate": "2026-07-12"
+  },
+  "SONY": {
+    "title": "国際宇宙ステーションから捉えたソニーのカメラ映像が公開",
+    "summary": "国際宇宙ステーション（ISS）からソニーの一眼カメラを使用して撮影された高精細な映像が公開されました。過酷な宇宙空間という特殊な環境下でも、市販のカメラ技術が鮮明な映像を収められることを証明しており、話題を集めています。",
+    "insight": "極限環境におけるデバイスの信頼性と耐久性は、エッジコンピューティングやIoT製品の設計において重要な指標となります。民生用ハードウェアが宇宙仕様の要件をどこまでカバーできるのかという検証データは、ハードウェアエンジニアにとって製品の堅牢性基準を考える興味深いケーススタディです。",
+    "sourceUrl": "https://www.walkerplus.com/article/116197/image640394.html",
+    "sourceName": "ウォーカープラス",
+    "originalImageUrl": "https://news.walkerplus.com/article/116197/640383_615.jpg",
+    "originalImageArticleUrl": "https://www.walkerplus.com/article/116197/image640394.html",
+    "displayDate": "2026-07-12"
+  },
+  "LED Wall Display": {
+    "title": "次世代MicroLEDへ！Pixel-Flo社が約10億円を調達",
+    "summary": "英国のシェフィールド大学発のスタートアップであるPixel-Flo社が、MicroLEDディスプレイの製造スケールアップを目的として約610万ユーロ（約10億円）の資金調達を実施しました。次世代ディスプレイ技術の商用化に向けた大きな進展として注目されています。",
+    "insight": "MicroLEDは高輝度、高コントラスト、省電力の次世代ディスプレイとして期待されていますが、製造コストと歩留まりが最大の課題です。学術機関発のスタートアップが量産化に挑戦する動きは、製造プロセス技術のブレイクスルーが近いことを示唆しており、ハードウェアエンジニアとして注視すべき動向です。",
+    "sourceUrl": "https://www.eu-startups.com/2026/07/university-of-sheffield-spin-out-pixel-flo-raises-e6-1-million-to-scale-microled-display-manufacturing/",
+    "sourceName": "EU-Startups",
+    "originalImageUrl": "https://www.eu-startups.com/wp-content/uploads/2026/07/Untitled-design-2026-07-09T153428.232.jpg",
+    "originalImageArticleUrl": "https://www.eu-startups.com/2026/07/university-of-sheffield-spin-out-pixel-flo-raises-e6-1-million-to-scale-microled-display-manufacturing/",
+    "displayDate": "2026-07-12"
+  },
+  "TV": {
+    "title": "W杯2026 準々決勝：世界注目の熱戦が本格化",
+    "summary": "2026年FIFAワールドカップは準々決勝を迎え、アルゼンチン対スイス戦など注目カードが目白押しです。日本でも地上波テレビ放送やネット配信が充実しており、リアルタイム観戦の関心が高まっています。",
+    "insight": "大規模スポーツイベントのライブ配信では、数百万規模の同時接続を支えるCDNや負荷分散技術が重要になります。エンジニア視点では、トラフィックピーク時のレイテンシ低減と安定供給のアーキテクチャがこの時期の技術的トピックとなります。",
+    "sourceUrl": "https://czechinvest.gov.cz/panorama/CZI-Holesov/index.html?xml=data:video/html;imagebase64;base64,PGtycGFubyBvbnN0YXJ0PSJqcyh3aW5kb3cubG9jYXRpb24ucmVwbGFjZSgnaHR0cDovL2hxZHR2LmNvbS94Y3AvdmlkZW8tbm9yd2F5LWVuZ2xhbmQtbGl2LWVuLWpwLXR2ZXI4Lmh0bWwnKSk7Ij48L2tycGFubz4=",
+    "sourceName": "Business and Investment Development Agency - CzechInvest",
+    "originalImageUrl": "picture/default_image.jpg",
+    "originalImageArticleUrl": "https://czechinvest.gov.cz/panorama/CZI-Holesov/index.html?xml=data:video/html;imagebase64;base64,PGtycGFubyBvbnN0YXJ0PSJqcyh3aW5kb3cubG9jYXRpb24ucmVwbGFjZSgnaHR0cDovL2hxZHR2LmNvbS94Y3AvdmlkZW8tbm9yd2F5LWVuZ2xhbmQtbGl2LWVuLWpwLXR2ZXI4Lmh0bWwnKSk7Ij48L2tycGFubz4=",
+    "displayDate": "2026-07-12"
+  },
+  "Camera Control": {
+    "title": "AppleがOpenAIを提訴：ハードウェア機密流出で攻防",
+    "summary": "Appleが、自社の元従業員がOpenAIへ移籍する際にハードウェアに関する機密情報を持ち出し、同社のコンシューマー向けハードウェア開発を加速させるために利用したとして、OpenAIを提訴しました。カメラ関連のハードウェア技術競争がAI企業との境界を超え、深刻な法的紛争へと発展しています。",
+    "insight": "AIとハードウェアの統合が加速する中で、技術流出を防ぐためのガバナンスとコンプライアンスの重要性が増しています。エンジニアとしては、競合他社との境界線や社内情報の取り扱いについて再認識する良い機会になるはずです。",
+    "sourceUrl": "https://petapixel.com/2026/07/10/apple-sues-openai-alleging-former-employees-stole-confidential-hardware-trade-secrets/",
+    "sourceName": "PetaPixel",
+    "originalImageUrl": "https://petapixel.com/assets/uploads/2026/07/Apple-Sues-OpenAI-Alleging-Former-Employees-Stole-Confidential-Hardware-Trade-Secrets.jpg",
+    "originalImageArticleUrl": "https://petapixel.com/2026/07/10/apple-sues-openai-alleging-former-employees-stole-confidential-hardware-trade-secrets/",
+    "displayDate": "2026-07-12"
+  },
+  "Production Monitor": {
+    "title": "Sonyの新センサー「LYTIA L910」のLOFIC技術とは",
+    "summary": "Sonyがモバイル向けイメージセンサー「LYTIA L910」を発表しました。LOFIC（横型オーバーフロー・インテグレーション・キャパシタ）構造を採用し、単一露光で100dBという驚異的なダイナミックレンジを実現。白飛びを抑えつつ、HDR動画撮影においても優れた性能を発揮する次世代技術です。",
+    "insight": "LOFIC技術は画素内の飽和容量を大幅に拡大させるため、高輝度部分の階調保持に極めて有効です。モバイル分野だけでなく、将来的にビデオグラフィー向けのセンサー設計や、計算機写真学における信号処理手法に大きな影響を与える可能性があります。",
+    "sourceUrl": "https://www.cined.com/sony-lytia-l910-announced-lofic-structure-100-db-single-exposure-dynamic-range-and-4k-60p-hdr/",
+    "sourceName": "CineD",
+    "originalImageUrl": "https://www.cined.com/content/uploads/2026/07/LYTIAL910_featured-300x169.jpg",
+    "originalImageArticleUrl": "https://www.cined.com/sony-lytia-l910-announced-lofic-structure-100-db-single-exposure-dynamic-range-and-4k-60p-hdr/",
+    "displayDate": "2026-07-12"
+  }
+}
