@@ -1,10 +1,6 @@
 {
   "Production Monitor": [
     {
-      "url": "https://www.provideocoalition.com/how-and-when-to-use-the-nofollow-setting-in-web-page-hyperlinks/",
-      "date": "2026-07-05"
-    },
-    {
       "url": "https://www.newsshooter.com/2026/07/03/hedge-shared-licenses/?utm_source=rss&utm_medium=rss&utm_campaign=hedge-shared-licenses",
       "date": "2026-07-06"
     },
@@ -31,13 +27,13 @@
     {
       "url": "https://www.cined.com/sony-lytia-l910-announced-lofic-structure-100-db-single-exposure-dynamic-range-and-4k-60p-hdr/",
       "date": "2026-07-12"
+    },
+    {
+      "url": "https://www.cined.com/dji-front-companies-fined-by-the-fcc-a-selective-crackdown-that-only-hurts-filmmakers/",
+      "date": "2026-07-13"
     }
   ],
   "SRD / XR": [
-    {
-      "url": "https://www.uploadvr.com/virtualgos-mixed-reality-multiplayer-system-lets-people-join-your-session-as-vr/",
-      "date": "2026-07-05"
-    },
     {
       "url": "https://www.moguravr.com/vr-ar-mr-weekly-2026-7-6/",
       "date": "2026-07-06"
@@ -65,13 +61,13 @@
     {
       "url": "https://topics.smt.docomo.ne.jp/amp/article/cocotte/trend/cocotte-605060",
       "date": "2026-07-12"
+    },
+    {
+      "url": "https://www.moguravr.com/vr-ar-mr-weekly-2026-7-13/",
+      "date": "2026-07-13"
     }
   ],
   "AI": [
-    {
-      "url": "https://jbpress.ismedia.jp/articles/-/95730",
-      "date": "2026-07-05"
-    },
     {
       "url": "https://www.nikkei.com/article/DGXZQOUC1578N0V10C26A5000000/",
       "date": "2026-07-06"
@@ -99,13 +95,13 @@
     {
       "url": "https://www.nikkei.com/article/DGXZQOGN110A50R10C26A7000000/",
       "date": "2026-07-12"
+    },
+    {
+      "url": "https://www.nikkei.com/article/DGXZQOUC154EB0V10C26A6000000/",
+      "date": "2026-07-13"
     }
   ],
   "Gaming Monitor": [
-    {
-      "url": "https://tech.yahoo.com/gaming/articles/acer-1-000hz-gaming-monitor-120510529.html",
-      "date": "2026-07-05"
-    },
     {
       "url": "https://pc.watch.impress.co.jp/docs/news/2122472.html",
       "date": "2026-07-06"
@@ -133,13 +129,13 @@
     {
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOYk9qTFI2TEZlWldfTzV4d1o3N2VXa1E3ZC1NRnY2TTZrLUJLdzA0UHR0Z1BNY3NEMlVKd3N4UDM4XzRKY19Lb3ByYjM2N3VTRW1hb1JpRjF6emkxaE5HZF9MS1pLRE5uNGdrNEZUZVVDM3p0RFhGMDl2VWU4SFVqMzg5dWI3UWRxbTc0MGQwQWxmYVR1QnZzOFNpWVR2UdIBowFBVV95cUxPel9uV2c5Q1hlSHU1QkVyWGlXV3J1cXZtMUlRSmlzOFJjWXBHUnlyZEJ3bWdCaVhKcm9CeXBXeDhZei1CamlEX3FQQzV6RHR4UGJQb1k4SEFVd2YwcDZUUmRhdDhKNTc0dHZQNFNhcTNzWEEyYko1aVNISGNwRm9pQlVOQlRvdHl1RUxsR3hFQUxGSDhpQUtYay1uSjdEeXpWb0hR?oc=5",
       "date": "2026-07-12"
+    },
+    {
+      "url": "https://www.technobezz.com/best/aoc-agon-pro-27-inch-qd-oled-gaming-monitor-drops-to-39999",
+      "date": "2026-07-13"
     }
   ],
   "TCL": [
-    {
-      "url": "https://finance.biggo.jp/news/16e50320-c38a-484c-ac6f-9cb8c7ea3473",
-      "date": "2026-07-05"
-    },
     {
       "url": "https://www.wired.com/review/tcl-rm9l/",
       "date": "2026-07-06"
@@ -167,13 +163,13 @@
     {
       "url": "https://www.nikkei.com/nkd/company/article/?DisplayType=1&ng=DGKKZO97495360Q6A710C2TEZ000&scode=6758",
       "date": "2026-07-12"
+    },
+    {
+      "url": "https://www.msn.com/en-us/news/technology/google-s-new-gemini-tv-controls-are-here-and-tcl-owners-get-them-first/ar-AA25CH5p?apiversion=v2&domshim=1&noservercache=1&noservertelemetry=1&batchservertelemetry=1&renderwebcomponents=1&wcseo=1",
+      "date": "2026-07-13"
     }
   ],
   "Camera Control": [
-    {
-      "url": "https://www.dpreview.com/opinion/6128008404/age-of-mechanical-wonders-dslrs-slrs-mirrorless",
-      "date": "2026-07-05"
-    },
     {
       "url": "https://petapixel.com/2026/07/05/a-digital-twin-lens-reflex-camera-is-long-past-due/",
       "date": "2026-07-06"
@@ -201,13 +197,13 @@
     {
       "url": "https://petapixel.com/2026/07/10/apple-sues-openai-alleging-former-employees-stole-confidential-hardware-trade-secrets/",
       "date": "2026-07-12"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/curiosity-sony-fx5-has-ibis-you-can-remove/",
+      "date": "2026-07-13"
     }
   ],
   "LED Wall Display": [
-    {
-      "url": "//www.ledinside.com/news/2026/7/2026_07_03_03",
-      "date": "2026-07-05"
-    },
     {
       "url": "https://www.digitalsignagetoday.com/videos/korbyt-details-ai-powered-screen-detective/",
       "date": "2026-07-06"
@@ -235,13 +231,13 @@
     {
       "url": "https://www.eu-startups.com/2026/07/university-of-sheffield-spin-out-pixel-flo-raises-e6-1-million-to-scale-microled-display-manufacturing/",
       "date": "2026-07-12"
+    },
+    {
+      "url": "//www.ledinside.com/news/2026/7/2026_07_10_05",
+      "date": "2026-07-13"
     }
   ],
   "SONY": [
-    {
-      "url": "https://kunkoku.jp/sony-camera-teaser-202607.html",
-      "date": "2026-07-05"
-    },
     {
       "url": "https://mshale.com/ab49dc49/d6189a40kBPWwmIXTx8",
       "date": "2026-07-06"
@@ -269,13 +265,13 @@
     {
       "url": "https://www.walkerplus.com/article/116197/image640394.html",
       "date": "2026-07-12"
+    },
+    {
+      "url": "https://diamond.jp/articles/-/394497",
+      "date": "2026-07-13"
     }
   ],
   "TV": [
-    {
-      "url": "https://www.asahi.com/articles/ASV740BYWV74UCVL00FM.html",
-      "date": "2026-07-05"
-    },
     {
       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFB4X3ZzLWItOExka1NrWUw0bk0wZUszYkdvRlN5V0hNWjk3bEdIRTZ2eXd0Sk4wa1lSdWZVdlQ1ZUJZbTVab0xvOHVTcFRoeEZLV2tRc3UteFdpcVBfQVVPZ0kzc0FRUUI5bWY4?oc=5",
       "date": "2026-07-06"
@@ -303,13 +299,13 @@
     {
       "url": "https://czechinvest.gov.cz/panorama/CZI-Holesov/index.html?xml=data:video/html;imagebase64;base64,PGtycGFubyBvbnN0YXJ0PSJqcyh3aW5kb3cubG9jYXRpb24ucmVwbGFjZSgnaHR0cDovL2hxZHR2LmNvbS94Y3AvdmlkZW8tbm9yd2F5LWVuZ2xhbmQtbGl2LWVuLWpwLXR2ZXI4Lmh0bWwnKSk7Ij48L2tycGFubz4=",
       "date": "2026-07-12"
+    },
+    {
+      "url": "https://news.yahoo.co.jp/articles/002471ae90d9df428e3bac0f44809235cd1f5a3f",
+      "date": "2026-07-13"
     }
   ],
   "Projector": [
-    {
-      "url": "https://www.walkerplus.com/article/169199/image991543.html",
-      "date": "2026-07-05"
-    },
     {
       "url": "https://av.watch.impress.co.jp/docs/topic/2120916.html",
       "date": "2026-07-06"
@@ -337,6 +333,10 @@
     {
       "url": "https://www.timesfreepress.com/news/2026/jul/11/tennessee-aquariums-imax-theater-reinstalls-film/",
       "date": "2026-07-12"
+    },
+    {
+      "url": "https://av.watch.impress.co.jp/docs/series/dal/2124476.html",
+      "date": "2026-07-13"
     }
   ]
 }

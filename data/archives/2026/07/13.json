@@ -1,0 +1,102 @@
+{
+  "SRD / XR": {
+    "title": "Even Realitiesが1.5億ドル調達、スマートグラスのAI統合が加速",
+    "summary": "スマートグラス開発を手掛けるEven Realitiesが1.5億ドルの大型資金調達を実施しました。今後、同社はAIとの統合をさらに強化し、デバイスの利便性を高める方針です。ウェアラブルデバイスにおけるAIの役割が注目されています。",
+    "insight": "AIアシスタントの出力先として、ディスプレイ付きグラスの重要性が増しています。エンジニアとしては、単なるデバイス性能だけでなく、LLMとのレイテンシを抑えた統合アーキテクチャや、エッジ側での処理とクラウドの最適配分が今後の鍵になります。",
+    "sourceUrl": "https://www.moguravr.com/vr-ar-mr-weekly-2026-7-13/",
+    "sourceName": "Mogura VR",
+    "originalImageUrl": "https://assets.moguravr.com/uploads/2016/11/ecacd4d1a5f49289a4f18f734b861b8e-kix.e8rwi5j10h6n-300x167.webp",
+    "originalImageArticleUrl": "https://www.moguravr.com/vr-ar-mr-weekly-2026-7-13/",
+    "displayDate": "2026-07-13"
+  },
+  "AI": {
+    "title": "ホンダがAI活用スキルを評価、月最大15万円の加算へ",
+    "summary": "ホンダがAI活用能力の高い社員を選抜し、報酬に反映させる新制度を導入します。選抜された1000人を対象に、月額最大15万円の加算を行い、AI活用の社内普及と生産性向上を強力に推進します。エンジニアにとってはスキル評価の新たな指標となりそうです。",
+    "insight": "AIスキルが直接的に給与へ反映される事例は、企業におけるAI活用が「実験」から「実務の競争力」へ移行している証左です。今後はAIを使ったコーディングや業務効率化の定量的な評価手法が、キャリア形成において極めて重要な指標になるでしょう。",
+    "sourceUrl": "https://www.nikkei.com/article/DGXZQOUC154EB0V10C26A6000000/",
+    "sourceName": "日本経済新聞",
+    "originalImageUrl": "https://article-image-ix.nikkei.com/https%3A%2F%2Fimgix-proxy.n8s.jp%2FDSXZQO3297945012072026000000-1.jpg?auto=compress&bg=FFFF&crop=focalpoint&fit=crop&fm=jpg&h=630&w=1200&s=3db3ad8b14125c10da98c2ed71d14457",
+    "originalImageArticleUrl": "https://www.nikkei.com/article/DGXZQOUC154EB0V10C26A6000000/",
+    "displayDate": "2026-07-13"
+  },
+  "TV": {
+    "title": "FIFAワールドカップの放送戦略と技術的背景",
+    "summary": "FIFAワールドカップ準決勝・決勝の地上波テレビ放送および生配信スケジュールが決定しました。世界4強による激闘が注目される中、テレビとネット配信が並走する現代のメディア視聴環境が改めて浮き彫りになっています。",
+    "insight": "ライブイベントの同時配信には、テレビの低遅延性を模倣する高度なストリーミング技術やインフラ負荷対策が必須です。エンジニア視点では、大規模トラフィック下でのセッション管理や、視聴体験を損なわないリアルタイム同期の実装が議論のポイントになります。",
+    "sourceUrl": "https://news.yahoo.co.jp/articles/002471ae90d9df428e3bac0f44809235cd1f5a3f",
+    "sourceName": "Yahoo!ニュース",
+    "originalImageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260712-01423862-the_tv-000-18-view.jpg?exp=10800",
+    "originalImageArticleUrl": "https://news.yahoo.co.jp/articles/002471ae90d9df428e3bac0f44809235cd1f5a3f",
+    "displayDate": "2026-07-13"
+  },
+  "TCL": {
+    "title": "TCLのテレビでGoogleのGemini操作が可能に",
+    "summary": "Googleの新しいGeminiによるテレビ操作機能が公開されました。TCLのユーザーは、この最先端AI統合機能を先行して利用可能となります。AIによる直感的な音声コマンドやコンテンツ推薦が、家庭用エンターテインメント体験をどう変えるか注目されます。",
+    "insight": "LLMベースの音声インターフェースが家庭内デバイスの制御レイヤーとして標準化されつつあります。エンジニアとしては、UI/UXが従来のメニュー操作から、自然言語処理によるインテントベースの操作へどう移行し、エラーハンドリングがどう設計されているかを分析する好機です。",
+    "sourceUrl": "https://www.msn.com/en-us/news/technology/google-s-new-gemini-tv-controls-are-here-and-tcl-owners-get-them-first/ar-AA25CH5p?apiversion=v2&domshim=1&noservercache=1&noservertelemetry=1&batchservertelemetry=1&renderwebcomponents=1&wcseo=1",
+    "sourceName": "MSN",
+    "originalImageUrl": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA20CP81.img?w=612&h=367&m=4&q=81",
+    "originalImageArticleUrl": "https://www.msn.com/en-us/news/technology/google-s-new-gemini-tv-controls-are-here-and-tcl-owners-get-them-first/ar-AA25CH5p?apiversion=v2&domshim=1&noservercache=1&noservertelemetry=1&batchservertelemetry=1&renderwebcomponents=1&wcseo=1",
+    "displayDate": "2026-07-13"
+  },
+  "Production Monitor": {
+    "title": "DJI製ドローン・カメラへのFCC規制が強化",
+    "summary": "FCCがDJI製品を迂回ルートで輸入・販売していた企業に対し制裁金を科しました。さらにDJI製品の認証に関わるテスト機関の認定取り消しを進めており、今後米国内でのDJI製品の運用や認証環境に大きな影響が出る可能性があります。",
+    "insight": "サプライチェーンの透明性や認証プロセスの信頼性は、ハードウェア・エンジニアにとっても不可欠な考慮事項です。特定のサプライヤーに依存したエコシステムを構築する際は、このような地政学的リスクを考慮した冗長性や代替手段の確保が重要になります。",
+    "sourceUrl": "https://www.cined.com/dji-front-companies-fined-by-the-fcc-a-selective-crackdown-that-only-hurts-filmmakers/",
+    "sourceName": "CineD",
+    "originalImageUrl": "https://www.cined.com/content/uploads/2026/07/FCC-DJI-featured-300x169.jpg",
+    "originalImageArticleUrl": "https://www.cined.com/dji-front-companies-fined-by-the-fcc-a-selective-crackdown-that-only-hurts-filmmakers/",
+    "displayDate": "2026-07-13"
+  },
+  "SONY": {
+    "title": "ソニーカメラ事業：市場縮小を覆す「高付加価値戦略」の教訓",
+    "summary": "市場規模が激減する逆風の中で、ソニーのカメラ事業がどのように成長を遂げたのか。その背後には、安売り競争から脱却し、強気な価格設定と高付加価値を追求する戦略がある。RX10V等の最新モデル投入を含め、ブランド価値と製品力の両立で市場をリードし続ける姿勢が注目されている。",
+    "insight": "単なるスペック競争ではなく、製品の独自性と体験価値を高めることで、価格決定権を握る「高付加価値モデルへのシフト」は、ハードウェアエンジニアにとって非常に示唆に富む。市場が成熟・縮小しても、UXの追求と技術の差別化があれば利益率を高められるというビジネスモデルの転換は、他のテック製品開発にも応用可能な戦略である。",
+    "sourceUrl": "https://diamond.jp/articles/-/394497",
+    "sourceName": "ダイヤモンド・オンライン",
+    "originalImageUrl": "https://dol.ismcdn.jp/mwimgs/0/6/-/img_065836c62037115603bfc5409c17214e379849.jpg",
+    "originalImageArticleUrl": "https://diamond.jp/articles/-/394497",
+    "displayDate": "2026-07-13"
+  },
+  "Projector": {
+    "title": "ChatGPTと音楽エンジニアリングの融合",
+    "summary": "ChatGPTやClaudeを活用し、WindowsのASIOドライバに対応した音楽プレーヤーを自作する事例が話題です。AIを用いたコーディングで、専門性の高いオーディオドライバ制御も個人開発の射程に入っています。",
+    "insight": "LLMによるコード生成は、UI作成だけでなく、低レイテンシなオーディオAPI（ASIOなど）の制御ロジック構築にも活用可能です。特定ドメインのSDKやドライバ知識をAIに補完させることで、エンジニアの技術的ハードルが劇的に下がっています。",
+    "sourceUrl": "https://av.watch.impress.co.jp/docs/series/dal/2124476.html",
+    "sourceName": "AV Watch",
+    "originalImageUrl": "https://av.watch.impress.co.jp/img/avw/list/2124/476/15.png",
+    "originalImageArticleUrl": "https://av.watch.impress.co.jp/docs/series/dal/2124476.html",
+    "displayDate": "2026-07-13"
+  },
+  "Gaming Monitor": {
+    "title": "OLEDゲーミングモニターが価格破壊の波！",
+    "summary": "現在、海外市場を中心にLGやAOC、Philipsなどの高品質なOLEDゲーミングモニターが大幅な値下げ販売を開始しています。特にQD-OLEDモデルが400ドル台から入手可能になっており、ハイエンドな映像体験がかつてないほど身近になっています。",
+    "insight": "OLEDパネルのコストダウンが加速しており、開発環境のモニタリングやテスト機材としての採用も現実的な価格帯に突入しています。高リフレッシュレートと応答速度を両立するデバイスの普及は、UI/UXエンジニアの検証フローにも大きな恩恵をもたらすでしょう。",
+    "sourceUrl": "https://www.technobezz.com/best/aoc-agon-pro-27-inch-qd-oled-gaming-monitor-drops-to-39999",
+    "sourceName": "Technobezz",
+    "originalImageUrl": "https://cdn.technobezz.com/deals-branded/2e72c912830e719b_branded.jpg",
+    "originalImageArticleUrl": "https://www.technobezz.com/best/aoc-agon-pro-27-inch-qd-oled-gaming-monitor-drops-to-39999",
+    "displayDate": "2026-07-13"
+  },
+  "LED Wall Display": {
+    "title": "Unilumin、持続可能性で世界トップ6%に選出",
+    "summary": "LEDディスプレイ大手Uniluminが、国際的な評価機関EcoVadisからシルバーメダルを獲得しました。環境保護、労働環境、倫理、調達の各分野で高い評価を受け、全評価対象企業の上位6%に入る高い持続可能性パフォーマンスを達成しています。",
+    "insight": "製造業においてESG対応はサプライチェーン選定の重要な指標となっており、特にLED業界ではエネルギー効率と持続可能な素材調達が競合優位性に直結します。エンジニアとしても、製品設計段階からリサイクル性や省電力設計を考慮することが、グローバル市場でのパートナーシップ構築において不可欠です。",
+    "sourceUrl": "//www.ledinside.com/news/2026/7/2026_07_10_05",
+    "sourceName": "LEDinside",
+    "originalImageUrl": null,
+    "originalImageArticleUrl": "//www.ledinside.com/news/2026/7/2026_07_10_05",
+    "displayDate": "2026-07-13"
+  },
+  "Camera Control": {
+    "title": "Sony FX5に搭載される「脱着可能なIBIS」の衝撃",
+    "summary": "次期Sony FX5に搭載される手ブレ補正機構（IBIS）が、要望に応じて物理的に取り外せる仕様になるという噂が報じられています。センサーを電磁石で浮かせているIBISの構造上、機械的剛性を求めるプロ向けのカスタマイズ対応と考えられます。",
+    "insight": "ハードウェアのモジュール化は、ユーザーの特定の利用環境に最適化するための面白いアプローチです。単なるソフトウェアによるオフ機能ではなく、物理的な除去を選択肢として提供する設計は、保守性と要求仕様の両立というエンジニアリング上の興味深い議論を呼びそうです。",
+    "sourceUrl": "https://www.sonyalpharumors.com/curiosity-sony-fx5-has-ibis-you-can-remove/",
+    "sourceName": "sonyalpharumors",
+    "originalImageUrl": "https://www.sonyalpharumors.com/wp-content/uploads/2026/07/SONT-FX5-YT-5-700.jpg",
+    "originalImageArticleUrl": "https://www.sonyalpharumors.com/curiosity-sony-fx5-has-ibis-you-can-remove/",
+    "displayDate": "2026-07-13"
+  }
+}
