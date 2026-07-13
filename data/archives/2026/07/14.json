@@ -1,0 +1,102 @@
+{
+  "SRD / XR": {
+    "title": "Apple Vision Pro、サードパーティ製コントローラー対応へ",
+    "summary": "Appleが「Apple Vision Pro」向けのサードパーティ製モーションコントローラー技術仕様を公開しました。ジェスチャー操作中心の環境に外部入力デバイスが加わることで、ゲームや業務用アプリのUX向上が期待されます。",
+    "insight": "標準のハンドトラッキングに加え、物理コントローラーがサポートされることで、高精度な入力や触覚フィードバックが必要なXRアプリ開発の幅が大きく広がります。空間コンピューティングにおける『入力の多様性』が今後どうUI/UXに落とし込まれるか注視が必要です。",
+    "sourceUrl": "https://www.moguravr.com/apple-vision-pro-third-party-controller-specifications/",
+    "sourceName": "Mogura VR",
+    "originalImageUrl": "https://assets.moguravr.com/uploads/2016/11/f1ffdc40ae125f96ca3238ee040218d0-kix.sy8g6xsx7fn5-1-300x200.webp",
+    "originalImageArticleUrl": "https://www.moguravr.com/apple-vision-pro-third-party-controller-specifications/",
+    "displayDate": "2026-07-14"
+  },
+  "AI": {
+    "title": "ノーベル賞受賞者ら200人超がAI経済対策を提言",
+    "summary": "AIの急速な普及に伴う雇用への影響や経済的リスクに対し、ノーベル賞受賞者を含む200人以上の経済学者や専門家が、政策による迅速な対応が必要だと警告しました。AIが労働市場を変革する中、格差拡大や職業転換への備えが喫緊の課題となっています。",
+    "insight": "AI技術の発展が労働市場の構造そのものを変える中、技術者には生産性向上だけでなく、AIが社会や経済に与える影響を意識した長期的視点が求められています。AIを活用した自動化の実装において、倫理的課題や雇用への影響を考慮した設計（Human-in-the-loopなど）の重要性が一層高まっています。",
+    "sourceUrl": "https://jp.reuters.com/world/us/O7T2O4DPERJSTCWMK7JBVBWX6M-2026-07-13/",
+    "sourceName": "Reuters",
+    "originalImageUrl": null,
+    "originalImageArticleUrl": "https://jp.reuters.com/world/us/O7T2O4DPERJSTCWMK7JBVBWX6M-2026-07-13/",
+    "displayDate": "2026-07-14"
+  },
+  "TCL": {
+    "title": "TCL CSOT、インクジェット印刷OLEDの量産を開始",
+    "summary": "TCL傘下のディスプレイメーカーCSOTが、27インチ4Kインクジェット印刷OLEDモニターパネルの量産を武漢の5.5世代ラインで開始しました。従来の蒸着方式よりもコスト効率が高く、大型パネルへの展開も期待される技術です。",
+    "insight": "インクジェット印刷技術はOLED製造のゲームチェンジャーであり、材料の利用効率向上とコスト削減を同時に実現します。エンジニアの視点では、この低コストかつ大画面化に適した製造プロセスが、今後のPCモニターや中小型パネルの市場価格を大きく変えるポテンシャルに注目すべきです。",
+    "sourceUrl": "https://www.oled-info.com/tcl-csot-starts-producing-27-4k-inkjet-printed-oled-monitor-panels-its-55-gen",
+    "sourceName": "OLED-Info",
+    "originalImageUrl": null,
+    "originalImageArticleUrl": "https://www.oled-info.com/tcl-csot-starts-producing-27-4k-inkjet-printed-oled-monitor-panels-its-55-gen",
+    "displayDate": "2026-07-14"
+  },
+  "Gaming Monitor": {
+    "title": "480Hz OLEDモニターでエイム力が最大38%向上？",
+    "summary": "LGが480Hz駆動のOLEDゲーミングモニターを使用することで、プレイヤーのエイム精度が最大38%向上するという主張を発表しました。高リフレッシュレートとOLEDの高速応答性が、競技シーンにおけるパフォーマンスに与える影響が注目されています。",
+    "insight": "リフレッシュレートの向上だけでなく、OLED特有の低いピクセル応答速度がモーションブラーを大幅に低減し、動体視力の追従性を高めている点が技術的に興味深いです。高フレームレート環境下での入力遅延とディスプレイ側のレスポンス性能が、ヒューマンインターフェースの限界をどこまで押し上げられるかというベンチマークとして重要な話題です。",
+    "sourceUrl": "https://www.tweaktown.com/news/112607/lg-claims-that-you-can-improve-your-aim-by-up-to-38-percent-by-playing-on-a-480hz-oled-monitor/index.html",
+    "sourceName": "TweakTown",
+    "originalImageUrl": null,
+    "originalImageArticleUrl": "https://www.tweaktown.com/news/112607/lg-claims-that-you-can-improve-your-aim-by-up-to-38-percent-by-playing-on-a-480hz-oled-monitor/index.html",
+    "displayDate": "2026-07-14"
+  },
+  "TV": {
+    "title": "サッカーW杯準決勝、日テレで地上波放送決定",
+    "summary": "7月15日に行われるサッカーW杯準決勝「フランス×スペイン」の地上波生中継が日テレ系で決定しました。大型スポーツイベントの視聴スタイルとして、ネット配信と並び地上波のリアルタイム性が改めて注目されています。",
+    "insight": "リアルタイム配信の遅延が問題視されるスポーツ観戦において、地上波の低遅延なリアルタイム性は技術的に非常に価値が高いです。トラフィック負荷の分散やブロードキャスト配信のメリットについてエンジニア同士で話すと面白いでしょう。",
+    "sourceUrl": "https://news.yahoo.co.jp/articles/ba9e851f14bfe3c6588a9f45e75037dc62d0e916",
+    "sourceName": "Yahoo!ニュース",
+    "originalImageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260714-00010001-tvlife-000-1-view.jpg?exp=10800",
+    "originalImageArticleUrl": "https://news.yahoo.co.jp/articles/ba9e851f14bfe3c6588a9f45e75037dc62d0e916",
+    "displayDate": "2026-07-14"
+  },
+  "SONY": {
+    "title": "ソニー新型RX10 VとAIカメラ技術の最新トレンド",
+    "summary": "ソニーが次世代の「RX10 V」を発表し、AI技術を搭載したオールインワンカメラとしての性能が注目を集めています。一方で、日本のデジカメ市場ではレトロなコンパクトデジカメが人気を博しており、最新フラッグシップ機がトップを奪えないという興味深い逆転現象も起きています。",
+    "insight": "AI処理による自動撮影や被写体認識は、今やコンシューマー向けカメラの差別化要因です。開発者視点では、ハードウェアの高性能化だけでなく、エッジAIの推論精度をどうユーザー体験（UX）に落とし込むかが製品競争力を左右している点が非常に示唆に富んでいます。",
+    "sourceUrl": "https://www.manilatimes.net/2026/07/14/tmt-newswire/sony-5th-generation-rx10-v-ai-powered-camera-perfect-for-very-shot/2383278/amp",
+    "sourceName": "The Manila Times",
+    "originalImageUrl": "https://manilatimes.net/manilatimes/uploads/images/2026/07/13/1134814.png",
+    "originalImageArticleUrl": "https://www.manilatimes.net/2026/07/14/tmt-newswire/sony-5th-generation-rx10-v-ai-powered-camera-perfect-for-very-shot/2383278/amp",
+    "displayDate": "2026-07-14"
+  },
+  "Production Monitor": {
+    "title": "ARRIのレンタル事業売却：業界構造の転換点",
+    "summary": "映像機器メーカー大手のARRIが、グローバルなレンタル事業をマネジメント・バイアウト（MBO）により売却すると発表しました。製造部門と競合するレンタル部門の構造的な利益相反を解消し、製造に注力する経営判断は、今後の映像制作業界のサプライチェーンとビジネスモデルに大きな影響を与えそうです。",
+    "insight": "メーカーが直営レンタル事業から撤退する動きは、自社エコシステムのオープン化や、ハードウェア開発へのリソース集中を示唆しています。エンジニア視点では、特定の垂直統合型プラットフォームから、より汎用的な相互運用性を重視したワークフローへのシフトを注視すべきでしょう。",
+    "sourceUrl": "https://www.provideocoalition.com/arri-rental-management-buy-out-h2-equity-partners/",
+    "sourceName": "ProVideo Coalition",
+    "originalImageUrl": "https://www.provideocoalition.com/wp-content/uploads/1-Dana-Harrison_CEO-of-future-global-rental-business-1024x576.jpg",
+    "originalImageArticleUrl": "https://www.provideocoalition.com/arri-rental-management-buy-out-h2-equity-partners/",
+    "displayDate": "2026-07-14"
+  },
+  "Projector": {
+    "title": "Aladdin X、照明一体型プロジェクター初の4K・3色レーザーモデル発表",
+    "summary": "照明一体型プロジェクター「Aladdin X」シリーズの最新モデル『Aladdin X3 Laser 4K』が発表されました。同カテゴリー初の4K解像度と、日亜化学の新RGBレーザー光源を搭載し、高画質化を大幅に強化しています。発売記念キャンペーンも実施中です。",
+    "insight": "家庭用プロジェクターにおける「3色レーザー光源」の普及は、従来の単色レーザーやLEDと比較して、圧倒的な色域と輝度を実現する重要な技術トレンドです。日亜化学のデバイスを採用している点から、日本の光学技術がホームシアターの民主化をどう加速させるか注目です。",
+    "sourceUrl": "https://corriente.jp/aladdin-x3-laser-4k-event/",
+    "sourceName": "corriente.jp",
+    "originalImageUrl": "https://corriente.jp/wp-content/uploads/2026/07/aladdin-x3-laser-4k-event-photo15.webp",
+    "originalImageArticleUrl": "https://corriente.jp/aladdin-x3-laser-4k-event/",
+    "displayDate": "2026-07-14"
+  },
+  "Camera Control": {
+    "title": "USB-Cケーブルの判別ツール「WhatCable」が登場",
+    "summary": "見た目ではスペックが判別不能なUSB-Cケーブルの転送速度や給電能力を特定できる、macOS用無料アプリ「WhatCable」が話題です。ケーブルごとの仕様不一致によるトラブルを解決するエンジニア必携のツールです。",
+    "insight": "USB-Cは物理形状が共通でも規格が複雑で、エンジニアリングの現場でもデバッグに時間を取られることが多い領域です。ハードウェア情報の取得にはコントローラーチップ（E-Marker）の通信が必要ですが、本ツールのようなソフトウェアによる可視化は実用上の非常に強力なソリューションとなります。",
+    "sourceUrl": "https://petapixel.com/2026/07/13/free-mac-app-unravels-all-your-annoying-usb-c-cable-mysteries/",
+    "sourceName": "PetaPixel",
+    "originalImageUrl": "https://petapixel.com/assets/uploads/2026/07/whatcable-1.jpg",
+    "originalImageArticleUrl": "https://petapixel.com/2026/07/13/free-mac-app-unravels-all-your-annoying-usb-c-cable-mysteries/",
+    "displayDate": "2026-07-14"
+  },
+  "LED Wall Display": {
+    "title": "XREALが299ドルのARグラスを発表、Micro-OLEDの普及加速へ",
+    "summary": "ARハードウェア大手のXREALが、新ブランド「X By XREAL」から62gの軽量ARグラス「a01+」を299ドルで発売しました。既存のスマホやPCと接続可能なメインストリーム向けの製品であり、高性能なMicro-OLEDディスプレイを低価格で提供することで、大画面AR体験の一般普及を狙います。",
+    "insight": "Micro-OLED技術がマス向けデバイスに本格採用され始め、LED/ディスプレイ業界における低消費電力・高解像度化の競争が加速しています。ソフトウェアエンジニアとしては、物理ディスプレイの解像度制約を超えた「空間コンピューティング」におけるUI/UX設計の重要性が今後さらに高まるでしょう。",
+    "sourceUrl": "//www.ledinside.com/news/2026/7/2026_07_13_01",
+    "sourceName": "LEDinside",
+    "originalImageUrl": null,
+    "originalImageArticleUrl": "//www.ledinside.com/news/2026/7/2026_07_13_01",
+    "displayDate": "2026-07-14"
+  }
+}

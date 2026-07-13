@@ -1,10 +1,6 @@
 {
   "Production Monitor": [
     {
-      "url": "https://www.newsshooter.com/2026/07/03/hedge-shared-licenses/?utm_source=rss&utm_medium=rss&utm_campaign=hedge-shared-licenses",
-      "date": "2026-07-06"
-    },
-    {
       "url": "https://www.cined.com/boris-fx-acquires-izotope-rx-ozone-neutron-and-nectar-join-the-post-production-toolmaker/",
       "date": "2026-07-07"
     },
@@ -31,13 +27,13 @@
     {
       "url": "https://www.cined.com/dji-front-companies-fined-by-the-fcc-a-selective-crackdown-that-only-hurts-filmmakers/",
       "date": "2026-07-13"
+    },
+    {
+      "url": "https://www.provideocoalition.com/arri-rental-management-buy-out-h2-equity-partners/",
+      "date": "2026-07-14"
     }
   ],
   "SRD / XR": [
-    {
-      "url": "https://www.moguravr.com/vr-ar-mr-weekly-2026-7-6/",
-      "date": "2026-07-06"
-    },
     {
       "url": "https://www.itmedia.co.jp/pcuser/amp/2607/07/news067.html",
       "date": "2026-07-07"
@@ -65,13 +61,13 @@
     {
       "url": "https://www.moguravr.com/vr-ar-mr-weekly-2026-7-13/",
       "date": "2026-07-13"
+    },
+    {
+      "url": "https://www.moguravr.com/apple-vision-pro-third-party-controller-specifications/",
+      "date": "2026-07-14"
     }
   ],
   "AI": [
-    {
-      "url": "https://www.nikkei.com/article/DGXZQOUC1578N0V10C26A5000000/",
-      "date": "2026-07-06"
-    },
     {
       "url": "https://fortune.com/2026/07/06/ai-productivity-gains-bubble-painful-repricing-markets-torsten-slok/",
       "date": "2026-07-07"
@@ -99,13 +95,13 @@
     {
       "url": "https://www.nikkei.com/article/DGXZQOUC154EB0V10C26A6000000/",
       "date": "2026-07-13"
+    },
+    {
+      "url": "https://jp.reuters.com/world/us/O7T2O4DPERJSTCWMK7JBVBWX6M-2026-07-13/",
+      "date": "2026-07-14"
     }
   ],
   "Gaming Monitor": [
-    {
-      "url": "https://pc.watch.impress.co.jp/docs/news/2122472.html",
-      "date": "2026-07-06"
-    },
     {
       "url": "https://www.techspot.com/news/113010-philips-introduces-triple-mode-monitors-different-gaming-scenarios.html",
       "date": "2026-07-07"
@@ -133,13 +129,13 @@
     {
       "url": "https://www.technobezz.com/best/aoc-agon-pro-27-inch-qd-oled-gaming-monitor-drops-to-39999",
       "date": "2026-07-13"
+    },
+    {
+      "url": "https://www.tweaktown.com/news/112607/lg-claims-that-you-can-improve-your-aim-by-up-to-38-percent-by-playing-on-a-480hz-oled-monitor/index.html",
+      "date": "2026-07-14"
     }
   ],
   "TCL": [
-    {
-      "url": "https://www.wired.com/review/tcl-rm9l/",
-      "date": "2026-07-06"
-    },
     {
       "url": "https://mashable.com/article/tcl-roku-tv-lawsuit-updates-bricking-devices",
       "date": "2026-07-07"
@@ -167,13 +163,13 @@
     {
       "url": "https://www.msn.com/en-us/news/technology/google-s-new-gemini-tv-controls-are-here-and-tcl-owners-get-them-first/ar-AA25CH5p?apiversion=v2&domshim=1&noservercache=1&noservertelemetry=1&batchservertelemetry=1&renderwebcomponents=1&wcseo=1",
       "date": "2026-07-13"
+    },
+    {
+      "url": "https://www.oled-info.com/tcl-csot-starts-producing-27-4k-inkjet-printed-oled-monitor-panels-its-55-gen",
+      "date": "2026-07-14"
     }
   ],
   "Camera Control": [
-    {
-      "url": "https://petapixel.com/2026/07/05/a-digital-twin-lens-reflex-camera-is-long-past-due/",
-      "date": "2026-07-06"
-    },
     {
       "url": "https://petapixel.com/2026/07/06/webb-celebrates-fourth-year-of-science-by-showing-off-its-cutting-edge-cameras/",
       "date": "2026-07-07"
@@ -201,13 +197,13 @@
     {
       "url": "https://www.sonyalpharumors.com/curiosity-sony-fx5-has-ibis-you-can-remove/",
       "date": "2026-07-13"
+    },
+    {
+      "url": "https://petapixel.com/2026/07/13/free-mac-app-unravels-all-your-annoying-usb-c-cable-mysteries/",
+      "date": "2026-07-14"
     }
   ],
   "LED Wall Display": [
-    {
-      "url": "https://www.digitalsignagetoday.com/videos/korbyt-details-ai-powered-screen-detective/",
-      "date": "2026-07-06"
-    },
     {
       "url": "https://ravepubs.com/siliconcore-and-brightlogic-showcase-led-displays-with-native-touch-interaction-at-infocomm-2026/",
       "date": "2026-07-07"
@@ -235,13 +231,13 @@
     {
       "url": "//www.ledinside.com/news/2026/7/2026_07_10_05",
       "date": "2026-07-13"
+    },
+    {
+      "url": "//www.ledinside.com/news/2026/7/2026_07_13_01",
+      "date": "2026-07-14"
     }
   ],
   "SONY": [
-    {
-      "url": "https://mshale.com/ab49dc49/d6189a40kBPWwmIXTx8",
-      "date": "2026-07-06"
-    },
     {
       "url": "https://www.notebookcheck.net/Sony-RX10-V-launches-Thursday-teaser-reveals-surprising-upgrades.1336040.0.html",
       "date": "2026-07-07"
@@ -269,13 +265,13 @@
     {
       "url": "https://diamond.jp/articles/-/394497",
       "date": "2026-07-13"
+    },
+    {
+      "url": "https://www.manilatimes.net/2026/07/14/tmt-newswire/sony-5th-generation-rx10-v-ai-powered-camera-perfect-for-very-shot/2383278/amp",
+      "date": "2026-07-14"
     }
   ],
   "TV": [
-    {
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFB4X3ZzLWItOExka1NrWUw0bk0wZUszYkdvRlN5V0hNWjk3bEdIRTZ2eXd0Sk4wa1lSdWZVdlQ1ZUJZbTVab0xvOHVTcFRoeEZLV2tRc3UteFdpcVBfQVVPZ0kzc0FRUUI5bWY4?oc=5",
-      "date": "2026-07-06"
-    },
     {
       "url": "https://www.techradar.com/televisions/our-favorite-budget-lg-oled-tv-is-usd1-500-off-at-best-buy-today-the-perfect-opportunity-to-watch-the-world-cup-in-its-full-glory",
       "date": "2026-07-07"
@@ -303,13 +299,13 @@
     {
       "url": "https://news.yahoo.co.jp/articles/002471ae90d9df428e3bac0f44809235cd1f5a3f",
       "date": "2026-07-13"
+    },
+    {
+      "url": "https://news.yahoo.co.jp/articles/ba9e851f14bfe3c6588a9f45e75037dc62d0e916",
+      "date": "2026-07-14"
     }
   ],
   "Projector": [
-    {
-      "url": "https://av.watch.impress.co.jp/docs/topic/2120916.html",
-      "date": "2026-07-06"
-    },
     {
       "url": "https://av.watch.impress.co.jp/docs/topic/special/2122044.html",
       "date": "2026-07-07"
@@ -337,6 +333,10 @@
     {
       "url": "https://av.watch.impress.co.jp/docs/series/dal/2124476.html",
       "date": "2026-07-13"
+    },
+    {
+      "url": "https://corriente.jp/aladdin-x3-laser-4k-event/",
+      "date": "2026-07-14"
     }
   ]
 }
