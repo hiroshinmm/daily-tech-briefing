@@ -1,0 +1,102 @@
+{
+  "SRD / XR": {
+    "title": "LenovoがXR事業を再編、AIグラスへ舵を切る",
+    "summary": "Lenovoが米国のXR事業部門を閉鎖し、今後はMotorolaブランドを通じてAI搭載スマートグラスの開発に注力する方針を明らかにしました。専用のXRハードウェアから、日常利用を想定したAIインターフェースへのシフトが進んでいます。",
+    "insight": "XR市場が単なる没入型からAIアシスタント機能との融合へと進化していることを示唆しています。エンジニアとしては、デバイス単体のスペック追求だけでなく、AIモデルとの高速な連携や軽量・高効率なUIの実装が今後のトレンドになると予測されます。",
+    "sourceUrl": "https://www.zaikei.co.jp/article/20260714/861204.html",
+    "sourceName": "財経新聞",
+    "originalImageUrl": "http://www.zaikei.co.jp/files/general/20260714205413PcI0big.png",
+    "originalImageArticleUrl": "https://www.zaikei.co.jp/article/20260714/861204.html",
+    "displayDate": "2026-07-15"
+  },
+  "AI": {
+    "title": "AppleのAI軽量化技術：オンデバイスAIの現実味",
+    "summary": "AppleがAIモデルを軽量化するスタートアップとの買収交渉を行っていることが報じられました。これは生成AIをクラウド経由ではなく、iPhoneなどのデバイス上で直接動作させる「エッジAI」の実用化を加速させる動きです。プライバシー保護や低遅延を実現する重要な転換点として注目されています。",
+    "insight": "モデルの軽量化（モデル圧縮・量子化）は、今後のモバイル開発における必須スキルとなります。推論コストの削減とレスポンス向上は、LLMを利用したアプリケーションのUXを決定づける鍵になるでしょう。",
+    "sourceUrl": "https://www.cnbc.com/2026/07/14/apple-prismml-ai-compression-iphone.html",
+    "sourceName": "CNBC",
+    "originalImageUrl": "https://image.cnbcfm.com/api/v1/image/108201235-1758286792027-gettyimages-2235704003-AFP_764B4VL.jpeg?v=1758286970&w=1920&h=1080",
+    "originalImageArticleUrl": "https://www.cnbc.com/2026/07/14/apple-prismml-ai-compression-iphone.html",
+    "displayDate": "2026-07-15"
+  },
+  "TCL": {
+    "title": "TCLのパネル製造中核「CSOT」の実力に迫る",
+    "summary": "TCLのディスプレイ製造を担う中核企業「CSOT」の工場が公開されました。自社ブランドのみならず、競合他社へも供給するほどの高い生産技術と開発力を背景に、Mini LEDや大型パネル市場で強力な存在感を示しており、業界内でのサプライチェーンにおける重要性が改めて注目されています。",
+    "insight": "TCLは垂直統合モデルだけでなく、CSOTを介したパネル供給源としての側面が非常に強固です。エンジニアの視点では、単なる家電ブランドとしてではなく、ディスプレイ技術のイノベーションと歩留まりを支配するコアサプライヤーとしての動向を追うことが、今後のハードウェアトレンドを予測する鍵になります。",
+    "sourceUrl": "https://www.phileweb.com/review/column/202607/15/3108.html",
+    "sourceName": "PHILE WEB",
+    "originalImageUrl": "https://www.phileweb.com/news/ogp/column/31/7b2bd518728456418227740c40ce84f8.jpg",
+    "originalImageArticleUrl": "https://www.phileweb.com/review/column/202607/15/3108.html",
+    "displayDate": "2026-07-15"
+  },
+  "Gaming Monitor": {
+    "title": "MSI、世界初の27インチ4K IJP OLEDモニタを発表",
+    "summary": "MSIが世界初となるインクジェットプリント(IJP)方式を採用した27インチ4K有機EL(OLED)ゲーミングモニタ「PRO MAX OLED 271UPJW12」を発表した。IJP方式は従来の蒸着方式と比較して、製造コストの低減や大画面化・高精細化において優位性があるとされており、次世代のディスプレイ技術として注目されている。",
+    "insight": "インクジェットプリント(IJP)によるOLED製造は、画素配置の精度と歩留まりを左右する重要な技術革新です。ハードウェアエンジニアの視点では、従来の蒸着方式からの製造プロセス転換が、高精細モニタの価格帯や普及速度に与える影響を注視する必要があります。",
+    "sourceUrl": "https://www.techpowerup.com/350759/msi-unveils-the-pro-max-oled-271upjw12-the-worlds-first-27-inch-4k-ijp-oled-monitor",
+    "sourceName": "TechPowerUp",
+    "originalImageUrl": "https://www.techpowerup.com/img/ooqnktCAPneVUvmN.jpg",
+    "originalImageArticleUrl": "https://www.techpowerup.com/350759/msi-unveils-the-pro-max-oled-271upjw12-the-worlds-first-27-inch-4k-ijp-oled-monitor",
+    "displayDate": "2026-07-15"
+  },
+  "Projector": {
+    "title": "パナソニック、AI搭載の自律走行プロジェクターを発表",
+    "summary": "パナソニックとIllumibotが、世界初となるAI駆動のモバイルプロジェクション・フリート（移動式投影システム）を発表しました。自律走行ロボットと高性能プロジェクターを組み合わせ、空間全体をインタラクティブな映像空間に変える先進的なソリューションです。",
+    "insight": "AIと自律移動ロボットの融合により、従来の「固定設置」というプロジェクターの概念が覆されました。動的な環境マッピング技術や自律制御のアルゴリズムは、ハードウェアの制御ロジックを扱うエンジニアにとって非常に興味深いユースケースです。",
+    "sourceUrl": "https://www.businesswire.com/news/home/20260714090292/en/Projection-Mapping-Unleashed-Panasonic-Projector-Display-Americas-Illumibot-Launch-Worlds-First-AI-powered-Mobile-Projection-Fleet",
+    "sourceName": "Business Wire",
+    "originalImageUrl": null,
+    "originalImageArticleUrl": "https://www.businesswire.com/news/home/20260714090292/en/Projection-Mapping-Unleashed-Panasonic-Projector-Display-Americas-Illumibot-Launch-Worlds-First-AI-powered-Mobile-Projection-Fleet",
+    "displayDate": "2026-07-15"
+  },
+  "TV": {
+    "title": "ハイエンドOLED TVが軒並みセール中",
+    "summary": "ブラックフライデーやサイバーマンデーに伴い、LGやSamsung、Sonyといった主要メーカーのOLED（有機EL）テレビが大幅値下げされています。最高で500ドルオフとなるモデルもあり、高画質環境の構築に最適です。",
+    "insight": "最新のOLEDパネルはリフレッシュレート165Hzに対応するなど、ゲーミングモニターとしての性能が飛躍的に向上しています。開発者のデスクセットアップや検証環境においても、超高精細な大型ディスプレイを導入する絶好の機会と言えます。",
+    "sourceUrl": "https://theinventory.com/samsung-55-inch-s90h-oled-tv-165hz-gaming-glare-free-walmart-deal",
+    "sourceName": "The Inventory",
+    "originalImageUrl": "https://theinventory.com/cdn-cgi/image/width=1200,quality=85,format=auto/https://assets.theinventory.com/media/samsung-55-inch-s90h-oled-tv-165hz-gaming-glare-free-walmart-deal-1783963701764-1200x630.png",
+    "originalImageArticleUrl": "https://theinventory.com/samsung-55-inch-s90h-oled-tv-165hz-gaming-glare-free-walmart-deal",
+    "displayDate": "2026-07-15"
+  },
+  "Camera Control": {
+    "title": "スポーツ撮影の新指針：性的搾取を防ぐカメラアングル",
+    "summary": "欧州放送連合（EBU）が、女性アスリートを撮影する際の公式ガイドラインを発表しました。スポーツ撮影において、被写体を過度に性的化しないためのカメラアングルや構図についての基準を明示しており、多様性とインクルージョンが重視される現代のメディア制作における倫理的な撮影手法として注目されています。",
+    "insight": "AI解析によるポーズ検出や構図最適化が普及する中、こうした倫理的ガイドラインはソフトウェアのアルゴリズム設計においても重要な制約条件となる可能性があります。エンジニアとしては、撮影支援ツールや自動生成AIを開発する際に、特定の属性に対するバイアスや不適切な出力の制御をいかに組み込むかが今後の重要な実装要件となるでしょう。",
+    "sourceUrl": "https://petapixel.com/2026/07/14/official-guide-outlines-how-to-avoid-sexual-camera-angles-of-women-athletes/",
+    "sourceName": "PetaPixel",
+    "originalImageUrl": "https://petapixel.com/assets/uploads/2026/07/New-EBU-Guidelines-Outline-How-to-Avoid-Sexualized-Camera-Angles-of-Female-Athletes.jpg",
+    "originalImageArticleUrl": "https://petapixel.com/2026/07/14/official-guide-outlines-how-to-avoid-sexual-camera-angles-of-women-athletes/",
+    "displayDate": "2026-07-15"
+  },
+  "SONY": {
+    "title": "PS6の船出を阻む？ソニーゲーム事業の3つのリスクを考察",
+    "summary": "ダイヤモンド・オンラインが、ソニーグループの屋台骨であるゲームビジネスが直面する現代の課題を分析。次世代機「PlayStation 6」を待ち受ける市場環境の厳しさや、競合との差別化、ビジネスモデルの持続可能性について論じられています。",
+    "insight": "エンジニア視点では、ハードウェアスペックの向上だけでなく、サービス型ゲーム（GaaS）の収益性や開発コストの高騰がプラットフォーマーの足枷となっている点が重要です。ハードウェア販売からデジタルプラットフォームへの転換期において、いかに継続的なエンゲージメントを構築できるかが設計上の鍵となります。",
+    "sourceUrl": "https://diamond.jp/articles/-/394630",
+    "sourceName": "ダイヤモンド・オンライン",
+    "originalImageUrl": "https://dol.ismcdn.jp/mwimgs/4/d/-/img_4d4a3100b2beb8934ab49a424d41cee4357076.jpg",
+    "originalImageArticleUrl": "https://diamond.jp/articles/-/394630",
+    "displayDate": "2026-07-15"
+  },
+  "Production Monitor": {
+    "title": "撮影アプリに太陽光トラッキング機能が標準搭載へ",
+    "summary": "定番の監督用ファインダーアプリ「Artemis」と「Cadrage」が、相次いで太陽光の経路をリアルタイムで可視化する機能を搭載しました。これまで別アプリに頼っていたロケハン時の光線状況シミュレーションが、カメラアプリ上で完結するトレンドが加速しています。",
+    "insight": "複数のツールが統合される「機能の収束」は、プロダクションワークフローを劇的に効率化します。エンジニアとしても、外部APIや他ツールへの依存を減らし、主要な開発プラットフォームへ機能を統合する設計思想は、DX推進の重要な視点となります。",
+    "sourceUrl": "https://www.cined.com/artemis-and-cadrage-add-sun-tracking-directors-viewfinder-apps-converge-on-sun-position-pre-vis/",
+    "sourceName": "CineD",
+    "originalImageUrl": "https://www.cined.com/content/uploads/2026/07/Artemis-Cadrage-Sun-tracking-featured-300x169.jpg",
+    "originalImageArticleUrl": "https://www.cined.com/artemis-and-cadrage-add-sun-tracking-directors-viewfinder-apps-converge-on-sun-position-pre-vis/",
+    "displayDate": "2026-07-15"
+  },
+  "LED Wall Display": {
+    "title": "世界最大！30m幅のシネマ用LEDスクリーンが登場",
+    "summary": "ドイツの映画館「CINECITTA'」の主力ホールに、世界最大となる幅30m×高さ16mの巨大LEDスクリーンが導入されることが発表されました。GDC Technologyが提供する「Tricorne Premium LED」を採用し、2026年秋の完成を予定しています。",
+    "insight": "映画館における巨大LED化は、プロジェクター方式から自発光ディスプレイへの技術転換を象徴しています。エンジニアとしては、これほどの大面積における輝度均一性の維持や、巨大な映像データを遅延なく同期させる配信インフラの設計・構築技術が重要になります。",
+    "sourceUrl": "https://kalkinemedia.com/au/news/market-updates/why-is-the-asx-200-asxxjo-set-to-rise-after-softer-us-inflation-15-july-2026",
+    "sourceName": "LEDinside",
+    "originalImageUrl": "https://kalkinemedia.com/storage/uploads/original/shutterstock_573121573_07_14_2026_23_32_55_431338.jpg",
+    "originalImageArticleUrl": "https://kalkinemedia.com/au/news/market-updates/why-is-the-asx-200-asxxjo-set-to-rise-after-softer-us-inflation-15-july-2026",
+    "displayDate": "2026-07-15"
+  }
+}

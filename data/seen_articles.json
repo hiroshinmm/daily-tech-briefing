@@ -1,10 +1,6 @@
 {
   "Production Monitor": [
     {
-      "url": "https://www.cined.com/boris-fx-acquires-izotope-rx-ozone-neutron-and-nectar-join-the-post-production-toolmaker/",
-      "date": "2026-07-07"
-    },
-    {
       "url": "https://www.cined.com/arri-alexa-35-live-xtreme-announced-up-to-8x-hfr-via-sdi-480fps-baseband-slow-motion/",
       "date": "2026-07-08"
     },
@@ -31,13 +27,13 @@
     {
       "url": "https://www.provideocoalition.com/arri-rental-management-buy-out-h2-equity-partners/",
       "date": "2026-07-14"
+    },
+    {
+      "url": "https://www.cined.com/artemis-and-cadrage-add-sun-tracking-directors-viewfinder-apps-converge-on-sun-position-pre-vis/",
+      "date": "2026-07-15"
     }
   ],
   "SRD / XR": [
-    {
-      "url": "https://www.itmedia.co.jp/pcuser/amp/2607/07/news067.html",
-      "date": "2026-07-07"
-    },
     {
       "url": "https://www.nikkei.com/article/DGXZQOUC078CZ0X00C26A7000000/",
       "date": "2026-07-08"
@@ -65,13 +61,13 @@
     {
       "url": "https://www.moguravr.com/apple-vision-pro-third-party-controller-specifications/",
       "date": "2026-07-14"
+    },
+    {
+      "url": "https://www.zaikei.co.jp/article/20260714/861204.html",
+      "date": "2026-07-15"
     }
   ],
   "AI": [
-    {
-      "url": "https://fortune.com/2026/07/06/ai-productivity-gains-bubble-painful-repricing-markets-torsten-slok/",
-      "date": "2026-07-07"
-    },
     {
       "url": "https://business.nikkei.com/atcl/gen/19/00898/063000006/",
       "date": "2026-07-08"
@@ -99,13 +95,13 @@
     {
       "url": "https://jp.reuters.com/world/us/O7T2O4DPERJSTCWMK7JBVBWX6M-2026-07-13/",
       "date": "2026-07-14"
+    },
+    {
+      "url": "https://www.cnbc.com/2026/07/14/apple-prismml-ai-compression-iphone.html",
+      "date": "2026-07-15"
     }
   ],
   "Gaming Monitor": [
-    {
-      "url": "https://www.techspot.com/news/113010-philips-introduces-triple-mode-monitors-different-gaming-scenarios.html",
-      "date": "2026-07-07"
-    },
     {
       "url": "https://tech.yahoo.com/gaming/articles/yes-playstation-making-gaming-monitor-195550007.html",
       "date": "2026-07-08"
@@ -133,13 +129,13 @@
     {
       "url": "https://www.tweaktown.com/news/112607/lg-claims-that-you-can-improve-your-aim-by-up-to-38-percent-by-playing-on-a-480hz-oled-monitor/index.html",
       "date": "2026-07-14"
+    },
+    {
+      "url": "https://www.techpowerup.com/350759/msi-unveils-the-pro-max-oled-271upjw12-the-worlds-first-27-inch-4k-ijp-oled-monitor",
+      "date": "2026-07-15"
     }
   ],
   "TCL": [
-    {
-      "url": "https://mashable.com/article/tcl-roku-tv-lawsuit-updates-bricking-devices",
-      "date": "2026-07-07"
-    },
     {
       "url": "https://www.phileweb.com/news/d-av/202607/08/65504.html",
       "date": "2026-07-08"
@@ -167,13 +163,13 @@
     {
       "url": "https://www.oled-info.com/tcl-csot-starts-producing-27-4k-inkjet-printed-oled-monitor-panels-its-55-gen",
       "date": "2026-07-14"
+    },
+    {
+      "url": "https://www.phileweb.com/review/column/202607/15/3108.html",
+      "date": "2026-07-15"
     }
   ],
   "Camera Control": [
-    {
-      "url": "https://petapixel.com/2026/07/06/webb-celebrates-fourth-year-of-science-by-showing-off-its-cutting-edge-cameras/",
-      "date": "2026-07-07"
-    },
     {
       "url": "https://petapixel.com/2026/07/07/discord-banned-around-8200-users-for-posting-inoffensive-images-of-grids/",
       "date": "2026-07-08"
@@ -201,13 +197,13 @@
     {
       "url": "https://petapixel.com/2026/07/13/free-mac-app-unravels-all-your-annoying-usb-c-cable-mysteries/",
       "date": "2026-07-14"
+    },
+    {
+      "url": "https://petapixel.com/2026/07/14/official-guide-outlines-how-to-avoid-sexual-camera-angles-of-women-athletes/",
+      "date": "2026-07-15"
     }
   ],
   "LED Wall Display": [
-    {
-      "url": "https://ravepubs.com/siliconcore-and-brightlogic-showcase-led-displays-with-native-touch-interaction-at-infocomm-2026/",
-      "date": "2026-07-07"
-    },
     {
       "url": "//www.ledinside.com/news/2026/7/2026_07_07_03",
       "date": "2026-07-08"
@@ -235,13 +231,13 @@
     {
       "url": "//www.ledinside.com/news/2026/7/2026_07_13_01",
       "date": "2026-07-14"
+    },
+    {
+      "url": "https://kalkinemedia.com/au/news/market-updates/why-is-the-asx-200-asxxjo-set-to-rise-after-softer-us-inflation-15-july-2026",
+      "date": "2026-07-15"
     }
   ],
   "SONY": [
-    {
-      "url": "https://www.notebookcheck.net/Sony-RX10-V-launches-Thursday-teaser-reveals-surprising-upgrades.1336040.0.html",
-      "date": "2026-07-07"
-    },
     {
       "url": "https://asobinet.com/will-the-sony-fx5-be-announced-on-july-22/",
       "date": "2026-07-08"
@@ -269,13 +265,13 @@
     {
       "url": "https://www.manilatimes.net/2026/07/14/tmt-newswire/sony-5th-generation-rx10-v-ai-powered-camera-perfect-for-very-shot/2383278/amp",
       "date": "2026-07-14"
+    },
+    {
+      "url": "https://diamond.jp/articles/-/394630",
+      "date": "2026-07-15"
     }
   ],
   "TV": [
-    {
-      "url": "https://www.techradar.com/televisions/our-favorite-budget-lg-oled-tv-is-usd1-500-off-at-best-buy-today-the-perfect-opportunity-to-watch-the-world-cup-in-its-full-glory",
-      "date": "2026-07-07"
-    },
     {
       "url": "https://mashable.com/tech/best-tvs-of-2026-so-far",
       "date": "2026-07-08"
@@ -303,13 +299,13 @@
     {
       "url": "https://news.yahoo.co.jp/articles/ba9e851f14bfe3c6588a9f45e75037dc62d0e916",
       "date": "2026-07-14"
+    },
+    {
+      "url": "https://theinventory.com/samsung-55-inch-s90h-oled-tv-165hz-gaming-glare-free-walmart-deal",
+      "date": "2026-07-15"
     }
   ],
   "Projector": [
-    {
-      "url": "https://av.watch.impress.co.jp/docs/topic/special/2122044.html",
-      "date": "2026-07-07"
-    },
     {
       "url": "https://av.watch.impress.co.jp/docs/series/zooma/2123214.html",
       "date": "2026-07-08"
@@ -337,6 +333,10 @@
     {
       "url": "https://corriente.jp/aladdin-x3-laser-4k-event/",
       "date": "2026-07-14"
+    },
+    {
+      "url": "https://www.businesswire.com/news/home/20260714090292/en/Projection-Mapping-Unleashed-Panasonic-Projector-Display-Americas-Illumibot-Launch-Worlds-First-AI-powered-Mobile-Projection-Fleet",
+      "date": "2026-07-15"
     }
   ]
 }
