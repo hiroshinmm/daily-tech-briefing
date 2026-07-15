@@ -1,0 +1,102 @@
+{
+  "Gaming Monitor": {
+    "title": "Samsung Odyssey OLED G5が30%OFF！",
+    "summary": "AmazonにてSamsungのゲーミングモニター「Odyssey OLED G5（27インチ/QHD/180Hz）」が30%の大幅値下げとなり、299.99ドルで販売されています。ハイエンドな有機ELディスプレイが手頃な価格で入手できるチャンスとして注目されています。",
+    "insight": "OLEDパネルの低価格化は、PCエンジニアの作業環境や検証機材のアップグレードに非常に有効です。高リフレッシュレートと応答速度の速さは、FPSゲームだけでなく、高フレームレートでのデバッグ作業やUIの視認性向上にも寄与します。",
+    "sourceUrl": "https://www.ign.com/articles/samsung-odyssey-oled-g5-gaming-monitor-deal",
+    "sourceName": "IGN",
+    "originalImageUrl": "https://assets-prd.ignimgs.com/2026/07/13/samsungodysseyoledg5-1783962850466.jpg?width=1280&format=jpg&auto=webp&quality=80",
+    "originalImageArticleUrl": "https://www.ign.com/articles/samsung-odyssey-oled-g5-gaming-monitor-deal",
+    "displayDate": "2026-07-16"
+  },
+  "AI": {
+    "title": "NVIDIAと日本企業の連携が加速：フィジカルAIの最前線",
+    "summary": "NVIDIAがトヨタのフィジカルAI技術支援や、川崎重工とのAI造船所の構築など、日本の産業界との連携を強化しています。物理世界で動くロボットやエージェントにAIを統合し、生産性を劇的に改善する取り組みが加速しています。",
+    "insight": "LLMの次は、物理空間で自律判断を行う「フィジカルAI」やロボティクスが産業実装の焦点です。エンジニアとしては、シミュレーション環境（Isaac Sim等）を活用したデジタルツインと現実世界のフィードバックループ構築が今後のトレンドとなります。",
+    "sourceUrl": "https://www.nikkei.com/article/DGXZQOUC154MR0V10C26A7000000/",
+    "sourceName": "日本経済新聞",
+    "originalImageUrl": "https://article-image-ix.nikkei.com/https%3A%2F%2Fimgix-proxy.n8s.jp%2FDSXZQO3317494016072026000000-1.jpg?auto=compress&bg=FFFF&crop=focalpoint&fit=crop&fm=jpg&fp-x=0.76&fp-y=0.28&h=630&w=1200&s=cb4d32f1b7e856fb42267ff0283ed247",
+    "originalImageArticleUrl": "https://www.nikkei.com/article/DGXZQOUC154MR0V10C26A7000000/",
+    "displayDate": "2026-07-16"
+  },
+  "SRD / XR": {
+    "title": "「工場をつくる工場」平田機工がVRで生産ライン構築を革新",
+    "summary": "産業機械メーカーの平田機工が、VR技術を活用した新しい生産ライン構築手法を導入。物理的な試作を減らし、工場の立ち上げ期間を大幅に短縮する試みは、製造業におけるDXの最前線として注目されています。",
+    "insight": "デジタルツインとVRを組み合わせた設計手法は、製造プロセスの初期段階からシミュレーションを行うことで、手戻りコストを劇的に抑えられます。物理ハードウェアを扱うエンジニアにとって、XRはもはやエンタメ用途だけでなく、開発リードタイム削減の強力な武器になっています。",
+    "sourceUrl": "https://www.nikkei.com/article/DGXZQOJC264LC0W6A520C2000000/",
+    "sourceName": "日本経済新聞",
+    "originalImageUrl": "https://article-image-ix.nikkei.com/https%3A%2F%2Fimgix-proxy.n8s.jp%2FDSXZQO3122536004062026000000-1.jpg?auto=compress&bg=FFFF&crop=focalpoint&fit=crop&fm=jpg&fp-x=0.87&fp-y=0.37&h=630&w=1200&s=f8ece77c3b77bf9def606958bdb4ab09",
+    "originalImageArticleUrl": "https://www.nikkei.com/article/DGXZQOJC264LC0W6A520C2000000/",
+    "displayDate": "2026-07-16"
+  },
+  "TCL": {
+    "title": "TCLの次世代技術「SQD-Mini LED」とは？技術解説",
+    "summary": "TCLが独自開発した「SQD-Mini LED（Super-QD Mini LED）」技術の優位性について、技術者視点で深掘りした解説記事。従来のRGB Mini LEDと比較して何が革新的なのか、そのディスプレイ構造と画質向上メカニズムを解説しています。",
+    "insight": "ディスプレイ技術のトレンドが、単なる高輝度化から量子ドット（QD）の最適化による色域とコントラストの精密制御へと移行しています。ハードウェアエンジニアとしては、バックライト制御と量子ドット技術の統合によるエネルギー効率とカラー精度のバランスに注目すべきです。",
+    "sourceUrl": "https://www.phileweb.com/review/column/202607/16/3109.html",
+    "sourceName": "PHILE WEB",
+    "originalImageUrl": "https://www.phileweb.com/news/ogp/column/31/40e31d3714c4d315e0de482d21462e6a.jpg",
+    "originalImageArticleUrl": "https://www.phileweb.com/review/column/202607/16/3109.html",
+    "displayDate": "2026-07-16"
+  },
+  "Projector": {
+    "title": "XGIMIの新型「Elfin Flip」が市場を席巻",
+    "summary": "XGIMIから発売された最新の「Elfin Flip」は、1,000ドル以下という価格設定ながら、4Kレーザー投影と高画質なゲーミング性能を両立したポータブルプロジェクターです。持ち運びやすさと高精細な映像体験を兼ね備え、ホームシアター市場の低価格・高性能化を象徴する製品として注目を集めています。",
+    "insight": "ポータブルプロジェクターが「単なる視聴デバイス」から「ゲーミング対応の高性能端末」へと進化しています。レーザー光源と低遅延設計の組み合わせは、設置の柔軟性を活かした新しいゲーム・エンタメ体験の可能性をエンジニアリング的にも広げています。",
+    "sourceUrl": "https://gagadget.com/en/718578-xgimis-new-elfin-flip-projectors-bring-4k-laser-and-gaming-specs-for-under-1000/",
+    "sourceName": "Gagadget.com",
+    "originalImageUrl": "https://gagadget.com/media/cache/68/20/6820bc4871c9fd2603cff28cf89d464c.webp",
+    "originalImageArticleUrl": "https://gagadget.com/en/718578-xgimis-new-elfin-flip-projectors-bring-4k-laser-and-gaming-specs-for-under-1000/",
+    "displayDate": "2026-07-16"
+  },
+  "SONY": {
+    "title": "ソニー新型カメラ「RX10 V」が登場、AI認識機能を搭載",
+    "summary": "ソニーのレンズ一体型高級コンパクトカメラ「RX10」シリーズの第5世代モデル「RX10 V」が発表されました。デザインや操作系を現行のαシリーズのスタイルへ刷新したほか、最新のAI被写体認識機能を搭載するなど、撮影体験を大きく進化させています。",
+    "insight": "AI被写体認識アルゴリズムの統合は、ハードウェアの制約があるコンデジにおいて強力な差別化要因となります。特に動画撮影時の熱耐性やスタミナ性能の最適化は、エッジデバイスにおける処理能力と電力効率のトレードオフをどう解決しているかという観点で、エンジニアにとっても興味深い実装です。",
+    "sourceUrl": "chrome-error://chromewebdata/",
+    "sourceName": "Pokde.Net",
+    "originalImageUrl": null,
+    "originalImageArticleUrl": "chrome-error://chromewebdata/",
+    "displayDate": "2026-07-16"
+  },
+  "Production Monitor": {
+    "title": "映像制作の未来：EBUが定める「敬意ある撮影」のガイドライン",
+    "summary": "EBU Sportが公開した「Raising the Bar」は、女性アスリートの性的対象化を防ぐための具体的な撮影・放送ガイドラインです。カメラ位置やショットサイズ、リプレイの手法を詳細に定義しており、スポーツ中継における映像制作の倫理と品質のあり方に一石を投じています。",
+    "insight": "AIや自動化技術が進化する中、制作者には単なる技術的な「正解」だけでなく、社会的倫理を考慮した画作りが求められています。放送現場のディレクターやエンジニアにとって、こうしたガイドラインは、UXと同様に視聴体験の質を左右する重要な標準仕様となり得ます。",
+    "sourceUrl": "https://www.cined.com/ebu-sport-publishes-raising-the-bar-camera-guidelines-for-respectful-coverage-of-womens-athletics/",
+    "sourceName": "CineD",
+    "originalImageUrl": "https://www.cined.com/content/uploads/2026/07/EBU_Sport_raising_the_bar-featured-300x169.jpg",
+    "originalImageArticleUrl": "https://www.cined.com/ebu-sport-publishes-raising-the-bar-camera-guidelines-for-respectful-coverage-of-womens-athletics/",
+    "displayDate": "2026-07-16"
+  },
+  "TV": {
+    "title": "2026年最新OLED TV：Samsung S95Hが最高評価",
+    "summary": "7NEWSにて、2026年モデルのベストOLED TVとしてSamsungの「S95H」が選出されました。最新のパネル技術による卓越した輝度と色再現性が高く評価されており、ホームエンターテインメントの新たな基準となっています。",
+    "insight": "OLEDパネルは自発光によるコントラスト比が最大の強みですが、S95Hでは最新の量子ドット技術との融合により、従来の課題であったピーク輝度が大幅に向上しています。エンジニアとしては、ディスプレイの階調表現やHDR処理を支える画像エンジン、および高精細なレンダリングを可能にするSoCの進化に注目です。",
+    "sourceUrl": "https://7news.com.au/7you/tech/best-oled-tv-2026-7you-shares-why-the-samsungs-state-of-the-art-s95h-tops-the-list-c-22574013",
+    "sourceName": "7NEWS",
+    "originalImageUrl": "https://images.7news.com.au/publication/C-22574013/d6ba6390ba93840230390dc3fa9682fcc2f258bb-16x9-x0y0w3840h2160.jpg?imwidth=1200",
+    "originalImageArticleUrl": "https://7news.com.au/7you/tech/best-oled-tv-2026-7you-shares-why-the-samsungs-state-of-the-art-s95h-tops-the-list-c-22574013",
+    "displayDate": "2026-07-16"
+  },
+  "Camera Control": {
+    "title": "ドローン撮影と報道の自由：FAAの規制強化に対するNPPAの懸念",
+    "summary": "米連邦航空局（FAA）が重要インフラ上空でのドローン飛行を制限する新規則を提案したことに対し、全米報道写真家協会（NPPA）が懸念を表明。報道の自由（憲法修正第1条）への侵害につながる可能性があるとして、反対意見を提出しました。",
+    "insight": "技術的な自動制御や飛行安全の要件と、ジャーナリズムにおける公的情報の収集権の衝突が浮き彫りになっています。エンジニアとしては、規制準拠のアルゴリズム実装と利用者の権利保護の両立という、社会実装における「境界線」の設計を考える良い題材です。",
+    "sourceUrl": "https://petapixel.com/2026/07/15/nppa-raises-constitutional-concerns-over-faas-proposed-drone-limits/",
+    "sourceName": "PetaPixel",
+    "originalImageUrl": "https://petapixel.com/assets/uploads/2026/07/drone-faa-nppa-featured.jpg",
+    "originalImageArticleUrl": "https://petapixel.com/2026/07/15/nppa-raises-constitutional-concerns-over-faas-proposed-drone-limits/",
+    "displayDate": "2026-07-16"
+  },
+  "LED Wall Display": {
+    "title": "Magic Leap、ARグラスの波導管サプライヤーへ戦略転換",
+    "summary": "Magic Leapが自社デバイス開発から、AIディスプレイグラス向け波導管（ウェーブガイド）供給とARエコシステム構築のパートナーへと事業戦略を大きく転換しました。長年蓄積したAR光学技術を武器に、業界全体のデバイス開発を支援するプラットフォームとしての立ち位置を確立し、量産化と市場浸透を加速させます。",
+    "insight": "MicroLEDや高精細ディスプレイを搭載した軽量ARグラスの実現には、光導波路技術の効率化が鍵となります。Magic Leapのこのシフトは、光学ハードウェアのコモディティ化が進む中で、特定の高付加価値コンポーネントがエコシステムの中心となるトレンドを示唆しています。",
+    "sourceUrl": "//www.ledinside.com/news/2026/7/2026_07_15_01",
+    "sourceName": "LEDinside",
+    "originalImageUrl": null,
+    "originalImageArticleUrl": "//www.ledinside.com/news/2026/7/2026_07_15_01",
+    "displayDate": "2026-07-16"
+  }
+}
