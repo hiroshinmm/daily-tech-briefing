@@ -1,0 +1,102 @@
+{
+  "SRD / XR": {
+    "title": "ドラゴンクエスト40周年展、VR技術で冒険を体験",
+    "summary": "原宿で開催中の「ドラゴンクエスト40周年記念展」にて、最新のVR技術とモーションシートを組み合わせた「VR RIDE」が話題です。40年前のドット絵時代から進化した没入型エンターテインメントとして、往年のファンから注目を集めています。",
+    "insight": "レガシーなIPと最新のXR技術を組み合わせることで、既存ユーザーに新しい付加価値を提供する優れた事例です。ハードウェアと物理的なギミックを統合した没入体験のデザインは、今後のメタバースや体験型コンテンツ開発における重要なヒントになります。",
+    "sourceUrl": "https://www.shibukei.com/photoflash/23124/",
+    "sourceName": "シブヤ経済新聞",
+    "originalImageUrl": "https://images.keizai.biz/shibukei/photonews/1784197035_b.jpg",
+    "originalImageArticleUrl": "https://www.shibukei.com/photoflash/23124/",
+    "displayDate": "2026-07-17"
+  },
+  "AI": {
+    "title": "Googleの次世代AI「Gemini 3.5 Pro」開発遅延の背景",
+    "summary": "Googleの次世代AIモデル「Gemini 3.5 Pro」の投入が、性能目標を達成できず遅延していると報じられました。競合他社が性能向上を急ぐ中、トップティアのモデル開発がいかに困難であるかを示す事例として注目されています。",
+    "insight": "LLMの性能向上が限界に近づく「スケーリング則の壁」を感じさせるニュースです。モデルの巨大化だけでなく、推論効率や質の高いデータ選定が、今後の開発におけるエンジニアリングの最大の焦点となります。",
+    "sourceUrl": "https://www.cnbc.com/2026/07/16/alphabet-stock-gemini-3-5-pro-ai.html",
+    "sourceName": "CNBC",
+    "originalImageUrl": "https://image.cnbcfm.com/api/v1/image/108309435-1779226823798-gettyimages-2276602257-GOOGLE_IO.jpeg?v=1779226907&w=1920&h=1080",
+    "originalImageArticleUrl": "https://www.cnbc.com/2026/07/16/alphabet-stock-gemini-3-5-pro-ai.html",
+    "displayDate": "2026-07-17"
+  },
+  "Production Monitor": {
+    "title": "Blackmagic Camera for Androidが進化",
+    "summary": "Blackmagic Designが「Blackmagic Camera for Android 3.4」をリリース。4K HDMI出力やWearOSでの制御に加え、REST APIによるリモート操作に対応しました。モバイル端末を高度な映像制作ワークフローへ統合するための重要なアップデートです。",
+    "insight": "カメラアプリが単なる撮影ツールからREST APIを備えたIoTデバイスへと進化しています。外部APIによる制御は自動化や配信環境の構築において非常に興味深く、モバイルデバイスの可能性を広げる好例です。",
+    "sourceUrl": "https://www.newsshooter.com/2026/07/15/blackmagic-camera-for-android-3-4-update/?utm_source=rss&utm_medium=rss&utm_campaign=blackmagic-camera-for-android-3-4-update",
+    "sourceName": "Newsshooter",
+    "originalImageUrl": "https://www.newsshooter.com/wp-content/uploads/2026/07/Screenshot-2026-07-16-at-15.13.25.png",
+    "originalImageArticleUrl": "https://www.newsshooter.com/2026/07/15/blackmagic-camera-for-android-3-4-update/?utm_source=rss&utm_medium=rss&utm_campaign=blackmagic-camera-for-android-3-4-update",
+    "displayDate": "2026-07-17"
+  },
+  "TCL": {
+    "title": "TCL CSOT、世界初のインクジェット印刷OLEDを商用化",
+    "summary": "LenovoやMSIの最新製品において、TCLのパネルメーカーであるCSOTが開発した「インクジェット印刷方式」のOLEDパネルが世界で初めて採用されました。従来の蒸着方式に比べ、製造コストの低減と大画面化が容易になると期待される革新的な技術です。",
+    "insight": "インクジェット印刷OLEDは、材料の無駄が少なく大型基板への適用が容易なため、次世代ディスプレイのゲームチェンジャーとなる可能性が高い技術です。ディスプレイ業界の製造プロセスが転換点を迎えており、ハードウェアエンジニアとしてはコスト効率と品質の両立に注目すべきです。",
+    "sourceUrl": "https://videocardz.com/newz/lenovo-legion-r9000p-is-the-first-laptop-with-tcl-csots-inkjet-printed-oled-panel",
+    "sourceName": "VideoCardz.com",
+    "originalImageUrl": "https://cdn.videocardz.com/1/2026/07/LENOVO-LEGION-OLED-INKJET.webp",
+    "originalImageArticleUrl": "https://videocardz.com/newz/lenovo-legion-r9000p-is-the-first-laptop-with-tcl-csots-inkjet-printed-oled-panel",
+    "displayDate": "2026-07-17"
+  },
+  "TV": {
+    "title": "テレビ業界におけるコンプライアンス偏重の是非",
+    "summary": "フジテレビと日本テレビで発生した番組対応をめぐり、コンプライアンスを重視するあまり、結果的に人権侵害を招いているのではないかという批判が上がっている。過剰なリスク回避が現場に与える影響について論じている。",
+    "insight": "エンジニアリングにおける「過度なバリデーションやガードレール設定」が、ユーザー体験やプロダクトの本質的な価値を損なうケースと構造が似ています。システム設計においても、ルールを厳格化する際にそれが真の目的達成に寄与しているか、ROIを見極める視点が不可欠です。",
+    "sourceUrl": "https://news.yahoo.co.jp/articles/3e340f0a160f24c71bd54a4e0615d27abf3e8045",
+    "sourceName": "Yahoo!ニュース",
+    "originalImageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260717-01476966-shincho-000-1-view.jpg?exp=10800",
+    "originalImageArticleUrl": "https://news.yahoo.co.jp/articles/3e340f0a160f24c71bd54a4e0615d27abf3e8045",
+    "displayDate": "2026-07-17"
+  },
+  "SONY": {
+    "title": "ソニーがスマホ事業を撤退しない戦略的理由とは",
+    "summary": "なぜソニーは苦戦したモバイル市場から撤退せず、Xperiaというブランドを維持し続けているのか。高スペックなニッチ戦略の変遷と、他事業とのシナジー効果による持続可能性を分析した記事。",
+    "insight": "スマホを単体製品ではなく、カメラやオーディオ等のコア技術を結集するプラットフォームとして位置づける戦略はエンジニアとして示唆深い。周辺機器とのエコシステム統合により、撤退ではなく「選ばれる理由」を作り続けるプロダクト管理の重要性が学べる。",
+    "sourceUrl": "https://diamond.jp/articles/-/394901",
+    "sourceName": "ダイヤモンド・オンライン",
+    "originalImageUrl": "https://dol.ismcdn.jp/mwimgs/6/8/-/img_68c0a32e11d999a7118bfda314e3d40b507575.jpg",
+    "originalImageArticleUrl": "https://diamond.jp/articles/-/394901",
+    "displayDate": "2026-07-17"
+  },
+  "Projector": {
+    "title": "Optoma、初のRGB三レーザー搭載4Kプロジェクター発表",
+    "summary": "Optomaから、ブランド初となるRGBトリプルレーザー光源を採用したフラッグシップ4Kプロジェクター「UHR90DV」が登場。Dolby VisionやIMAX Enhancedにも対応し、ホームシアター体験の新たな基準を提示しています。",
+    "insight": "RGB三レーザー光源は、色域の広さと高い輝度を両立できるため、映像エンジニアやメディア系開発者にとって注目すべき光工学技術です。特にDolby Visionのような高度なHDR規格をプロジェクターで扱うためのカラーマネジメント制御は、ハードウェア最適化の好例といえます。",
+    "sourceUrl": "https://av.watch.impress.co.jp/docs/news/2125745.html",
+    "sourceName": "AV Watch",
+    "originalImageUrl": "https://av.watch.impress.co.jp/img/avw/list/2125/745/UHR90DV_news.jpg",
+    "originalImageArticleUrl": "https://av.watch.impress.co.jp/docs/news/2125745.html",
+    "displayDate": "2026-07-17"
+  },
+  "Gaming Monitor": {
+    "title": "ハイエンド有機ELモニターが大幅値下げ",
+    "summary": "ASUSのROG Swift 32インチ4K 240Hz QD-OLEDモデルが400ドルOFFのセールを開始しました。他にもSamsungやLGなど大型ゲーミングモニターで大幅な価格改定が続いており、高性能な作業環境を構築するチャンスとなっています。",
+    "insight": "4K/240Hzの有機ELディスプレイは、応答速度や色再現性が極めて高く、エンジニアの精細なUIデザイン作業や長時間のコーディングにおける視覚疲労軽減に貢献します。ハイリフレッシュレート対応のGPUリソースをフル活用するためのハードウェア投資として、現在の価格帯は非常に魅力的です。",
+    "sourceUrl": "https://www.ign.com/articles/asus-rog-swift-oled-gaming-monitor-deal",
+    "sourceName": "IGN Southeast Asia",
+    "originalImageUrl": "https://assets-prd.ignimgs.com/2026/07/16/asusoledmonitor-1784237839227.jpg?width=1280&format=jpg&auto=webp&quality=80",
+    "originalImageArticleUrl": "https://www.ign.com/articles/asus-rog-swift-oled-gaming-monitor-deal",
+    "displayDate": "2026-07-17"
+  },
+  "Camera Control": {
+    "title": "DJIの広告にAI人物起用、ユーザーから批判の声",
+    "summary": "DJIがTikTok広告にAI生成の人物動画を使用し、ユーザーから反発を招きました。実在するユーザーを顧客とする企業が、AIで架空の人物を擬似的に作り出したことへの倫理性や信頼性について、SNS上で議論が広がっています。",
+    "insight": "画像生成AIが普及する中で、広告の透明性と誠実さがかつてないほど問われています。エンジニアとしては、AI導入における倫理的リスクとブランド価値の毀損リスクを、技術選定の段階から十分に考慮する必要があります。",
+    "sourceUrl": "https://petapixel.com/2026/07/16/dji-used-an-ai-generated-person-in-an-ad-angering-the-actual-humans-who-buy-products/",
+    "sourceName": "PetaPixel",
+    "originalImageUrl": "https://petapixel.com/assets/uploads/2026/07/dji-header-2.jpg",
+    "originalImageArticleUrl": "https://petapixel.com/2026/07/16/dji-used-an-ai-generated-person-in-an-ad-angering-the-actual-humans-who-buy-products/",
+    "displayDate": "2026-07-17"
+  },
+  "LED Wall Display": {
+    "title": "AIサーバーの通信を変えるMicroLED技術",
+    "summary": "AIの急速な発展に伴い、データセンター内の通信帯域幅不足が課題となっています。従来の銅配線に代わり、MicroLEDを用いたデータ伝送技術が、サーバー内部やサーバー間での高速・大容量通信を実現する次世代の解決策として注目されています。",
+    "insight": "MicroLEDはディスプレイ用途だけでなく、高速な光通信用送信機としても活用が期待されています。特に積層型MicroLEDは高密度実装が可能で、AIサーバーのボトルネックであるI/O帯域幅の劇的な改善に寄与するでしょう。",
+    "sourceUrl": "https://news.rthk.hk/rthk/en/component/k2/1862554-20260717.htm",
+    "sourceName": "LEDinside",
+    "originalImageUrl": "https://newsstatic.rthk.hk/images/mfile_1862554_1_M_20260717050947.jpg",
+    "originalImageArticleUrl": "https://news.rthk.hk/rthk/en/component/k2/1862554-20260717.htm",
+    "displayDate": "2026-07-17"
+  }
+}
