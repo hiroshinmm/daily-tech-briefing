@@ -1,0 +1,102 @@
+{
+  "AI": {
+    "title": "中国AI「Kimi」の台頭と米AI市場への影響",
+    "summary": "中国スタートアップMoonshot AIが開発した「Kimi」の性能が、Anthropicの最新モデルに肉薄していると米専門家が評価。この技術力の急成長は米国の優位性を脅かす兆候として注目されており、市場でもAI関連銘柄の変動要因となっています。",
+    "insight": "LLMの推論能力において中国勢が急速に技術的キャッチアップを果たしており、技術のコモディティ化が加速しています。エンジニアとしては、特定のモデルへの依存を避け、ポータブルなAIオーケストレーションやマルチモーダルなモデル活用戦略をより一層重視すべき時期に来ています。",
+    "sourceUrl": "https://www.nikkei.com/article/DGXZQOGN17CN50X10C26A7000000/",
+    "sourceName": "日本経済新聞",
+    "originalImageUrl": "https://article-image-ix.nikkei.com/https%3A%2F%2Fimgix-proxy.n8s.jp%2FDSXZQO3329936017072026000000-1.jpg?auto=compress&bg=FFFF&crop=focalpoint&fit=crop&fm=jpg&fp-x=0.51&fp-y=0.64&h=630&w=1200&s=b7ae95ad046b757d60c7edf7db8504ba",
+    "originalImageArticleUrl": "https://www.nikkei.com/article/DGXZQOGN17CN50X10C26A7000000/",
+    "displayDate": "2026-07-18"
+  },
+  "SRD / XR": {
+    "title": "ドラクエ40周年記念展、最新VRで冒険へ",
+    "summary": "ドラゴンクエスト40周年を記念した体験型イベント『ドラゴンクエスト the DIVE -まだ見ぬ冒険の舞台へ-』が開幕。最新のVR技術を駆使し、ドラクエの世界観を全身で体感できる没入型コンテンツとして注目を集めています。",
+    "insight": "エンターテインメント領域におけるVR活用の標準化が進んでおり、特にIPを大規模な物理空間と同期させる体験設計が重要になっています。空間トラッキング技術とマルチユーザー体験を両立させるシステム構築は、今後のイベントDXにおける主要な技術スタックとなるでしょう。",
+    "sourceUrl": "https://www.jp.square-enix.com/topics/detail/4110/",
+    "sourceName": "Square Enix, Ltd.",
+    "originalImageUrl": "https://www.jp.square-enix.com/topics/detail/4110/img/01.jpg",
+    "originalImageArticleUrl": "https://www.jp.square-enix.com/topics/detail/4110/",
+    "displayDate": "2026-07-18"
+  },
+  "SONY": {
+    "title": "Sony Alpha 7R VI発表：スタック型センサー搭載の衝撃",
+    "summary": "Sonyが最新のミラーレスカメラ「Alpha 7R VI」を発表しました。66.8MPのスタック型センサーを搭載し、8K 30pや4K 120pの動画撮影に対応。センサーレベルでのデュアルゲイン出力など、静止画と動画の両面でハイエンドなスペックを実現しています。",
+    "insight": "66.8MPという高画素かつスタック型センサーの採用は、読み出し速度とダイナミックレンジの両立においてハードウェアエンジニアリングの極致と言えます。センサーレベルでのデュアルゲイン処理は、後段のISP負荷を軽減しつつS/N比を最適化する手法として、画像処理アルゴリズム設計の観点からも注目すべき技術トレンドです。",
+    "sourceUrl": "https://www.cined.com/sony-alpha-7r-vi-announced-66-8mp-stacked-sensor-8k-30p-4k-120p-and-sensor-level-dual-gain/",
+    "sourceName": "CineD",
+    "originalImageUrl": "https://www.cined.com/content/uploads/2026/05/Sony-A7R-VI-2.jpg",
+    "originalImageArticleUrl": "https://www.cined.com/sony-alpha-7r-vi-announced-66-8mp-stacked-sensor-8k-30p-4k-120p-and-sensor-level-dual-gain/",
+    "displayDate": "2026-07-18"
+  },
+  "TCL": {
+    "title": "TCL、インクジェット印刷OLEDパネルを世界初商用化",
+    "summary": "TCL傘下のCSOTが開発したインクジェット印刷（IJP）方式のOLEDパネルを搭載したノートPC「Lenovo Legion R9000P」が市場投入されました。次世代のディスプレイ技術として注目されています。",
+    "insight": "インクジェット印刷OLEDは、従来の蒸着方式よりもコスト効率が高く、大画面製造にも適した革新的な製造手法です。ディスプレイの量産技術が物理的な蒸着から印刷プロセスへとシフトする重要な転換点を示しており、今後のデバイスの低価格化や大画面化に大きく影響するでしょう。",
+    "sourceUrl": "https://www.techtimes.com/articles/320798/20260717/printed-oled-leaves-lab-lenovo-legion-r9000p-first-laptop-ijp-panel.htm",
+    "sourceName": "Tech Times",
+    "originalImageUrl": "https://d.techtimes.com/en/full/469066/lenovo-legion-laptop-chip.png",
+    "originalImageArticleUrl": "https://www.techtimes.com/articles/320798/20260717/printed-oled-leaves-lab-lenovo-legion-r9000p-first-laptop-ijp-panel.htm",
+    "displayDate": "2026-07-18"
+  },
+  "Projector": {
+    "title": "Optomaのフラッグシップ機「UHR90DV」が国内発売",
+    "summary": "Optomaは、RGBトリプルレーザー光源を採用した4Kホームプロジェクター「UHR90DV」の日本国内発売を開始しました。Dolby VisionやIMAX Enhancedに対応し、ハイエンドな映像体験を家庭で提供することを目指したモデルです。",
+    "insight": "RGBトリプルレーザー光源は、単一光源に比べて色域と輝度で圧倒的な優位性があり、映画館レベルの色彩再現を可能にします。エンジニアとしては、HDRメタデータ（Dolby Vision）と投影デバイスの輝度性能がどのように動的にマッチングされるかというレンダリング制御の進化に注目です。",
+    "sourceUrl": "https://www.techtimes.com/articles/320820/20260717/optoma-uhr90dv-hits-japan-market-rgb-triple-laser-meets-dolby-vision-imax-enhanced.htm",
+    "sourceName": "Tech Times",
+    "originalImageUrl": "https://d.techtimes.com/en/full/469112/optoma-projector.png",
+    "originalImageArticleUrl": "https://www.techtimes.com/articles/320820/20260717/optoma-uhr90dv-hits-japan-market-rgb-triple-laser-meets-dolby-vision-imax-enhanced.htm",
+    "displayDate": "2026-07-18"
+  },
+  "Gaming Monitor": {
+    "title": "MSIがWQHDゲーミングモニターの新ラインナップを発表",
+    "summary": "MSIは「MAG」ゲーミングモニターシリーズを拡充し、新たに320Hzおよび180Hzのリフレッシュレートに対応したWQHDモデルを投入しました。高リフレッシュレート化による映像体験の向上を図っており、ゲーミング市場の高速表示トレンドを牽引しています。",
+    "insight": "リフレッシュレートが320Hzに達すると、描画遅延や入力ラグの低減においてOSやグラフィックスAPIのオーバーヘッドがより顕著なボトルネックになります。低レイテンシ環境を構築するエンジニアにとって、高解像度と高フレームレートの両立は、レンダリングパイプラインの最適化における重要な検討項目です。",
+    "sourceUrl": "https://www.techpowerup.com/350854/msi-adds-new-320-hz-and-180-hz-wqhd-gaming-monitors-to-its-mag-lineup",
+    "sourceName": "TechPowerUp",
+    "originalImageUrl": "https://www.techpowerup.com/img/to8GMqq1eOH5klNU.jpg",
+    "originalImageArticleUrl": "https://www.techpowerup.com/350854/msi-adds-new-320-hz-and-180-hz-wqhd-gaming-monitors-to-its-mag-lineup",
+    "displayDate": "2026-07-18"
+  },
+  "Production Monitor": {
+    "title": "ARRIがレンタル事業を売却、業界の大きな転換点",
+    "summary": "映像業界の巨人であるARRIが、グローバルなレンタル事業部門を売却し、マネジメント・バイアウト（MBO）による独立を発表しました。長年業界の標準を築いてきたハードウェアメーカーがサービスモデルを切り離すこの決断は、今後の映像制作エコシステムに大きな影響を与える可能性があります。",
+    "insight": "ハードウェア販売とサービス提供の分離は、メーカーの注力領域が「機材の所有」から「ソフトウェアや技術ソリューション」へと移行している兆候かもしれません。技術選定を行うエンジニアにとっても、特定のベンダの囲い込みから、オープンで柔軟なワークフローへの再評価が求められています。",
+    "sourceUrl": "https://www.cined.com/arri-sells-its-rental-business-dji-front-companies-fined-sony-rx10-v-focus-check-ep125/",
+    "sourceName": "CineD",
+    "originalImageUrl": "https://www.cined.com/content/uploads/2026/07/Focus-Check-ep125-featured-300x169.png",
+    "originalImageArticleUrl": "https://www.cined.com/arri-sells-its-rental-business-dji-front-companies-fined-sony-rx10-v-focus-check-ep125/",
+    "displayDate": "2026-07-18"
+  },
+  "TV": {
+    "title": "2026年最新TV、本当に買い時はいつ？",
+    "summary": "最新のMiniLEDやOLEDテレビが続々と登場する中、Popular Mechanicsが「最新モデルが必ずしもベストバイではない」と指摘。技術進化の速度と価格のバランスについて考察しています。",
+    "insight": "ハードウェアのスペック競争が激化していますが、エンジニア視点では「ディスプレイの応答速度や輝度向上」と「実用的なコストパフォーマンス」の乖離が拡大している点に注目です。リフレッシュレートや高画質化技術が飽和しつつある今、UI/UXや統合OSの最適化が製品選びの差別化要因になっていると言えます。",
+    "sourceUrl": "https://www.popularmechanics.com/technology/gear/a72702219/why-you-should-buy-a-2025-tv-in-2026/",
+    "sourceName": "Popular Mechanics",
+    "originalImageUrl": "https://hips.hearstapps.com/hmg-prod/images/cf531130-1218-4b91-9582-3de42bf7c9ed.jpg?crop=0.802xw:0.902xh;0.142xw,0.077xh&resize=1200:*",
+    "originalImageArticleUrl": "https://www.popularmechanics.com/technology/gear/a72702219/why-you-should-buy-a-2025-tv-in-2026/",
+    "displayDate": "2026-07-18"
+  },
+  "Camera Control": {
+    "title": "夜空を照らす巨大衛星ミラー、撮影環境はどう変わる？",
+    "summary": "米国で夜間の地上を照らす巨大衛星ミラー計画が承認されました。アプリ経由で太陽光を反射させ、夜間でも明るい撮影環境を構築できる可能性があります。カメラ愛好家にとって、今後の光のコントロール技術として注目すべきトピックです。",
+    "insight": "衛星による光害の制御というアプローチは、今後の野外撮影におけるライティングの概念を覆す面白いエンジニアリング課題です。正確な光量制御や位置合わせのアルゴリズムがどのように実装されるのか、ソフトウェアエンジニアの視点でも興味が尽きません。",
+    "sourceUrl": "https://petapixel.com/2026/07/17/us-approves-gigantic-satellite-mirror-that-will-illuminate-the-earth-at-night/",
+    "sourceName": "PetaPixel",
+    "originalImageUrl": "https://petapixel.com/assets/uploads/2026/07/Truman-Show.jpg",
+    "originalImageArticleUrl": "https://petapixel.com/2026/07/17/us-approves-gigantic-satellite-mirror-that-will-illuminate-the-earth-at-night/",
+    "displayDate": "2026-07-18"
+  },
+  "LED Wall Display": {
+    "title": "KorbytとCanvaが連携：デジタルサイネージの未来",
+    "summary": "デジタルサイネージソリューションのKorbytがCanvaとの統合を発表しました。これにより、専門的なデザインツールであるCanvaで作成したコンテンツを、Korbytのプラットフォームを通じてLEDウォール等のデジタルサイネージへシームレスに配信可能となり、運用効率の向上が期待されます。",
+    "insight": "デジタルサイネージ業界では、コンテンツ管理システム（CMS）と汎用デザインプラットフォームの統合が進んでいます。エンジニアリングの観点からは、API連携によるワークフローの自動化だけでなく、API経由で動的なレンダリングやリアルタイム更新をどう最適化するかが今後の競争軸になります。",
+    "sourceUrl": "https://www.digitalsignagetoday.com/news/korbyt-integrates-with-canva-appoints-svp-receives-awards/",
+    "sourceName": "Digital Signage Today | Latest Media",
+    "originalImageUrl": "https://nmgprod.s3.amazonaws.com/media/file/d8/7e/7a6c4c9c31bd55de14ca5f8811ed/cover_image__3TARmPQE__korbyt_canva.jpg.360x190_q85_crop_upscale.webp",
+    "originalImageArticleUrl": "https://www.digitalsignagetoday.com/news/korbyt-integrates-with-canva-appoints-svp-receives-awards/",
+    "displayDate": "2026-07-18"
+  }
+}
