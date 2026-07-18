@@ -1,0 +1,102 @@
+{
+  "AI": {
+    "title": "米中AI競争の激化と市場への影響",
+    "summary": "中国のMoonshot AIなどの新興勢力が高性能モデルを公開し、米国市場に影響を与えています。AIへの過熱した投資に対する期待修正や、規制当局によるモデルへのアクセス制限など、AI業界は技術的な進展と地政学的・市場的リスクの双方で重要な転換点を迎えています。",
+    "insight": "AIモデルの高性能化がコモディティ化する中、今後はハードウェアの特化（Etched社の動向など）や、国家レベルの規制が開発戦略にどう影響するかが鍵となります。エンジニアとしては、特定のモデルへの過度な依存を避け、ポータブルなAIアーキテクチャを検討する良い機会と言えます。",
+    "sourceUrl": "https://news.yahoo.co.jp/articles/49281ebc393d0411ea20575753a37a380d19bbf6",
+    "sourceName": "Yahoo!ニュース",
+    "originalImageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260718-59315126-bloom_st-000-1-view.jpg?exp=10800",
+    "originalImageArticleUrl": "https://news.yahoo.co.jp/articles/49281ebc393d0411ea20575753a37a380d19bbf6",
+    "displayDate": "2026-07-19"
+  },
+  "Gaming Monitor": {
+    "title": "【注目】27インチ有機ELゲーミングモニターが大幅割引！",
+    "summary": "Amazonにて、LGの27インチ有機EL（OLED）ゲーミングモニターが300ドルオフのセール対象となっています。高品質な映像表現が特徴のOLEDパネル搭載モデルが大幅に値下げされており、PC環境のアップグレードを検討中のエンジニアにとって絶好の機会です。",
+    "insight": "OLEDモニターは応答速度が非常に速く、開発環境やデバッグ作業時の画面の視認性を劇的に向上させます。特に高リフレッシュレートと高いコントラスト比は、長時間のコーディングやレンダリング確認において目への負荷軽減と生産性向上に貢献します。",
+    "sourceUrl": "https://mashable.com/tech/july-8-lg-27-inch-ultragear-monitor-deal",
+    "sourceName": "Mashable",
+    "originalImageUrl": "https://helios-i.mashable.com/imagery/articles/06dclzn0kB0QLZRVUz6yudv/hero-image.fill.size_1200x675.v1783522309.jpg",
+    "originalImageArticleUrl": "https://mashable.com/tech/july-8-lg-27-inch-ultragear-monitor-deal",
+    "displayDate": "2026-07-19"
+  },
+  "SRD / XR": {
+    "title": "xRライブの日常化とエンタメ体験の進化",
+    "summary": "人気コンテンツ『アイドルマスター シンデレラガールズ』がxRライブストリーミングを導入。VR/AR技術はイベントの付加価値を高め、場所を選ばない新しいファン体験の標準になりつつあります。",
+    "insight": "ライブ配信におけるxR活用は、低遅延ストリーミングと空間コンピューティングの融合により、没入感を劇的に向上させています。開発者にとっては、リアルタイムでのアセット制御や、視聴者のリアクションを同期するスケーラブルなネットワークアーキテクチャの設計が重要な鍵となります。",
+    "sourceUrl": "https://idolmaster-official.jp/news/01_19391",
+    "sourceName": "idolmaster-official.jp",
+    "originalImageUrl": "https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/011/2026/07/LtKksBTUHZ0QkwqQhyX2IevTZjNMYJqD.jpeg",
+    "originalImageArticleUrl": "https://idolmaster-official.jp/news/01_19391",
+    "displayDate": "2026-07-19"
+  },
+  "Projector": {
+    "title": "オプトマ最上位プロジェクター「UHR90DV」発表",
+    "summary": "オプトマから、最上位モデルとなるプロジェクター「UHR90DV」が国内発表されました。RGBトリプルレーザー光源を採用し、Dolby VisionとIMAX Enhancedの両認証を取得した、ハイエンドなホームシアター体験を追求する一台です。",
+    "insight": "Dolby VisionとIMAX Enhancedの両立は、色域とコントラスト表現の極限を求める映像エンジニアにとっても興味深い技術実装です。特にRGBレーザー光源による色再現性の向上が、今後のホームプロジェクターの標準品質をどう底上げするのか注目されます。",
+    "sourceUrl": "https://www.zaikei.co.jp/amp/article/20260718/861856.html",
+    "sourceName": "財経新聞",
+    "originalImageUrl": "http://www.zaikei.co.jp/files/general/202607181433137tM0big.png",
+    "originalImageArticleUrl": "https://www.zaikei.co.jp/amp/article/20260718/861856.html",
+    "displayDate": "2026-07-19"
+  },
+  "SONY": {
+    "title": "次期iPhoneに搭載か？ソニー製新型IMX905センサーの噂",
+    "summary": "iPhone 18 Pro Maxのリーク情報として、可変絞り機構を備えたソニーの新型イメージセンサー「IMX905」の採用が報じられています。モバイルカメラの性能競争が新たなフェーズに入ったことが伺えます。",
+    "insight": "可変絞りの採用は、デジタル処理によるボケ味の再現だけでなく、物理的な光量制御による画質向上を重視するトレンドを示しています。センサーレベルでの物理的なアパーチャ制御は、画像処理パイプラインの設計にも大きな影響を与えるため、今後のモバイルコンピューティングにおける重要なハードウェアトレンドです。",
+    "sourceUrl": "https://www.gadgetbridge.com/iphone-18-pro-max-leaked-camera-specs-suggest-a-new-sony-imx905-main-camera-with-variable-aperture-details/",
+    "sourceName": "gadgetbridge.com",
+    "originalImageUrl": "https://www.gadgetbridge.com/wp-content/uploads/2025/09/Apple-iPhone-17-Pro-TechWoven-Case-250909_inline.jpg.large_2x.webp",
+    "originalImageArticleUrl": "https://www.gadgetbridge.com/iphone-18-pro-max-leaked-camera-specs-suggest-a-new-sony-imx905-main-camera-with-variable-aperture-details/",
+    "displayDate": "2026-07-19"
+  },
+  "TCL": {
+    "title": "スマートTVのトラッキング問題：RTINGSが警告",
+    "summary": "RTINGS.comが、現代のスマートTVにおける広範なデータ収集とプライバシーの問題を指摘。多くのメーカーが視聴履歴やデバイス情報を収集しており、消費者の意図しないトラッキングが横行している現状を分析しています。",
+    "insight": "スマートTVはもはや単なる表示装置ではなく、OSレベルで強力なテレメトリ収集を行う「アドテクプラットフォーム」と化しています。エンジニアとしては、デバイスがどのようなエンドポイントに、どの程度の頻度で機微情報を送信しているか、ネットワークモニタリングの観点から注意を払う必要があります。",
+    "sourceUrl": "https://www.rtings.com/tv/learn/research/smart-tv-tracking",
+    "sourceName": "RTINGS.com",
+    "originalImageUrl": "https://i.rtings.com/assets/pages/nIMRnWX1/thumbnail-medium.jpg?format=auto",
+    "originalImageArticleUrl": "https://www.rtings.com/tv/learn/research/smart-tv-tracking",
+    "displayDate": "2026-07-19"
+  },
+  "LED Wall Display": {
+    "title": "LGの163インチLEDウォール「MAGNIT」が登場",
+    "summary": "LG Electronicsは、プロフェッショナル向け空間での利用を想定した「LG MAGNIT All-in-One 163」を発表しました。設置が容易なオールインワン設計を採用しており、大規模なディスプレイ環境の構築を簡素化します。",
+    "insight": "LEDディスプレイのトレンドが単なる高精細化から、保守性や設置性を高めた『オールインワン型』へとシフトしています。モジュール間のキャリブレーションや映像制御が統合された筐体設計は、システムインテグレーターにとって工数削減の大きな鍵となります。",
+    "sourceUrl": "https://www.ad-hoc-news.de/boerse/news/ueberblick/lg-magnit-all-in-one-163-lg-electronics-pushes-giant-led-for-pro-spaces/69794550",
+    "sourceName": "ad-hoc-news.de",
+    "originalImageUrl": "https://mdb.ad-hoc-news.de/bild/bild-2405027_1920_1080.webp",
+    "originalImageArticleUrl": "https://www.ad-hoc-news.de/boerse/news/ueberblick/lg-magnit-all-in-one-163-lg-electronics-pushes-giant-led-for-pro-spaces/69794550",
+    "displayDate": "2026-07-19"
+  },
+  "TV": {
+    "title": "最新OLEDテレビの性能比較：技術選定の参考",
+    "summary": "LGやSamsungなど主要メーカーの最新モデルを対象に、OLED（有機EL）テレビの画質や性能を比較した記事が話題です。購入を検討する際の指標だけでなく、最新のディスプレイ技術トレンドを俯瞰できます。",
+    "insight": "ディスプレイ技術はモバイルからリビングへと応用範囲が広がっており、バックライト制御やコントラスト比の最適化はUI設計の参考になります。特に高輝度ディスプレイにおけるHDR対応の進化は、エンジニアとしても注目すべきハードウェアのトレンドです。",
+    "sourceUrl": "https://www.tomsguide.com/tvs/oled-tvs/lg-c6-vs-samsung-s90h-after-testing-both-heres-the-oled-tv-to-buy",
+    "sourceName": "Tom's Guide",
+    "originalImageUrl": "https://cdn.mos.cms.futurecdn.net/fdZE54rMngDZ24gneTENX9-2000-80.jpg",
+    "originalImageArticleUrl": "https://www.tomsguide.com/tvs/oled-tvs/lg-c6-vs-samsung-s90h-after-testing-both-heres-the-oled-tv-to-buy",
+    "displayDate": "2026-07-19"
+  },
+  "Production Monitor": {
+    "title": "プロ向け新型ジンバル「HALO」が業界標準に挑む",
+    "summary": "ポーランドのHD Air Studioが、15kgの積載量と360度回転を誇る新型モジュール式ジンバル「HALO」を発表。ハンドヘルドからリモートヘッド運用までをカバーし、ARRI ALEXA 35やSony VENICE 2などのシネマ機材をターゲットにした高機能モデルとして注目されています。",
+    "insight": "ハードウェア制御において、多様なペイロードと360度回転を安定して実現するスリップリング技術は極めて高度なエンジニアリングです。特に業界の定番であるDJIやFreeflyの牙城に、スタートアップがどのような最適化とUXで挑むのかは、プロダクト開発におけるニッチトップ戦略として学ぶべき点が多いです。",
+    "sourceUrl": "https://www.cined.com/hd-air-studio-halo-modular-gimbal-debuts-15kg-payload-360-roll-and-pan-handheld-to-remote-head/",
+    "sourceName": "CineD",
+    "originalImageUrl": "https://www.cined.com/content/uploads/2026/07/HALO-Gimbal-featured-300x169.jpg",
+    "originalImageArticleUrl": "https://www.cined.com/hd-air-studio-halo-modular-gimbal-debuts-15kg-payload-360-roll-and-pan-handheld-to-remote-head/",
+    "displayDate": "2026-07-19"
+  },
+  "Camera Control": {
+    "title": "Sony FX5：ファームウェアで4K/240fps対応の可能性",
+    "summary": "次期モデル「Sony FX5」において、発売当初は非対応でも、将来的なファームウェアアップデートにより4K 240fpsの記録が可能になるという噂が浮上しています。16.6MPの積層型センサーや最新のBIONZ XR 2プロセッサを搭載する見込みです。",
+    "insight": "ハードウェア性能を最大限引き出すための、継続的なソフトウェア・アップデート戦略がカメラ業界でも標準化しています。ASICの余力を持たせた設計と機能の段階的解放は、製品寿命を延ばしユーザーエンゲージメントを高める好例です。",
+    "sourceUrl": "https://www.sonyalpharumors.com/sony-fx5-might-be-able-to-record-240fps-in-4k-via-future-firmware-update/",
+    "sourceName": "sonyalpharumors",
+    "originalImageUrl": "https://www.sonyalpharumors.com/wp-content/uploads/2026/07/Sony-FX5-Venice.png",
+    "originalImageArticleUrl": "https://www.sonyalpharumors.com/sony-fx5-might-be-able-to-record-240fps-in-4k-via-future-firmware-update/",
+    "displayDate": "2026-07-19"
+  }
+}
