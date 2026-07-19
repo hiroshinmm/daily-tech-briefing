@@ -1,10 +1,6 @@
 {
   "Production Monitor": [
     {
-      "url": "https://www.cined.com/sony-lytia-l910-announced-lofic-structure-100-db-single-exposure-dynamic-range-and-4k-60p-hdr/",
-      "date": "2026-07-12"
-    },
-    {
       "url": "https://www.cined.com/dji-front-companies-fined-by-the-fcc-a-selective-crackdown-that-only-hurts-filmmakers/",
       "date": "2026-07-13"
     },
@@ -31,13 +27,13 @@
     {
       "url": "https://www.cined.com/hd-air-studio-halo-modular-gimbal-debuts-15kg-payload-360-roll-and-pan-handheld-to-remote-head/",
       "date": "2026-07-19"
+    },
+    {
+      "url": "https://www.provideocoalition.com/blackmagic-camera-for-android-3-4-update-released/",
+      "date": "2026-07-20"
     }
   ],
   "SRD / XR": [
-    {
-      "url": "https://topics.smt.docomo.ne.jp/amp/article/cocotte/trend/cocotte-605060",
-      "date": "2026-07-12"
-    },
     {
       "url": "https://www.moguravr.com/vr-ar-mr-weekly-2026-7-13/",
       "date": "2026-07-13"
@@ -65,13 +61,13 @@
     {
       "url": "https://idolmaster-official.jp/news/01_19391",
       "date": "2026-07-19"
+    },
+    {
+      "url": "https://www.asahi.com/articles/ASV7M12RNV7MOHGB00BM.html",
+      "date": "2026-07-20"
     }
   ],
   "AI": [
-    {
-      "url": "https://www.nikkei.com/article/DGXZQOGN110A50R10C26A7000000/",
-      "date": "2026-07-12"
-    },
     {
       "url": "https://www.nikkei.com/article/DGXZQOUC154EB0V10C26A6000000/",
       "date": "2026-07-13"
@@ -99,13 +95,13 @@
     {
       "url": "https://news.yahoo.co.jp/articles/49281ebc393d0411ea20575753a37a380d19bbf6",
       "date": "2026-07-19"
+    },
+    {
+      "url": "https://www.nikkei.com/article/DGXZQOUC115KO0R10C26A6000000/",
+      "date": "2026-07-20"
     }
   ],
   "Gaming Monitor": [
-    {
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOYk9qTFI2TEZlWldfTzV4d1o3N2VXa1E3ZC1NRnY2TTZrLUJLdzA0UHR0Z1BNY3NEMlVKd3N4UDM4XzRKY19Lb3ByYjM2N3VTRW1hb1JpRjF6emkxaE5HZF9MS1pLRE5uNGdrNEZUZVVDM3p0RFhGMDl2VWU4SFVqMzg5dWI3UWRxbTc0MGQwQWxmYVR1QnZzOFNpWVR2UdIBowFBVV95cUxPel9uV2c5Q1hlSHU1QkVyWGlXV3J1cXZtMUlRSmlzOFJjWXBHUnlyZEJ3bWdCaVhKcm9CeXBXeDhZei1CamlEX3FQQzV6RHR4UGJQb1k4SEFVd2YwcDZUUmRhdDhKNTc0dHZQNFNhcTNzWEEyYko1aVNISGNwRm9pQlVOQlRvdHl1RUxsR3hFQUxGSDhpQUtYay1uSjdEeXpWb0hR?oc=5",
-      "date": "2026-07-12"
-    },
     {
       "url": "https://www.technobezz.com/best/aoc-agon-pro-27-inch-qd-oled-gaming-monitor-drops-to-39999",
       "date": "2026-07-13"
@@ -133,13 +129,13 @@
     {
       "url": "https://mashable.com/tech/july-8-lg-27-inch-ultragear-monitor-deal",
       "date": "2026-07-19"
+    },
+    {
+      "url": "https://mashable.com/tech/july-13-asus-rog-strix-oled-gaming-monitor-deal",
+      "date": "2026-07-20"
     }
   ],
   "TCL": [
-    {
-      "url": "https://www.nikkei.com/nkd/company/article/?DisplayType=1&ng=DGKKZO97495360Q6A710C2TEZ000&scode=6758",
-      "date": "2026-07-12"
-    },
     {
       "url": "https://www.msn.com/en-us/news/technology/google-s-new-gemini-tv-controls-are-here-and-tcl-owners-get-them-first/ar-AA25CH5p?apiversion=v2&domshim=1&noservercache=1&noservertelemetry=1&batchservertelemetry=1&renderwebcomponents=1&wcseo=1",
       "date": "2026-07-13"
@@ -167,13 +163,13 @@
     {
       "url": "https://www.rtings.com/tv/learn/research/smart-tv-tracking",
       "date": "2026-07-19"
+    },
+    {
+      "url": "https://www.zaikei.co.jp/amp/article/20260718/861829.html",
+      "date": "2026-07-20"
     }
   ],
   "Camera Control": [
-    {
-      "url": "https://petapixel.com/2026/07/10/apple-sues-openai-alleging-former-employees-stole-confidential-hardware-trade-secrets/",
-      "date": "2026-07-12"
-    },
     {
       "url": "https://www.sonyalpharumors.com/curiosity-sony-fx5-has-ibis-you-can-remove/",
       "date": "2026-07-13"
@@ -201,13 +197,13 @@
     {
       "url": "https://www.sonyalpharumors.com/sony-fx5-might-be-able-to-record-240fps-in-4k-via-future-firmware-update/",
       "date": "2026-07-19"
+    },
+    {
+      "url": "https://petapixel.com/2026/07/19/photographer-loses-five-figure-job-after-bargain-basement-memory-cards-fail-on-set-satire/",
+      "date": "2026-07-20"
     }
   ],
   "LED Wall Display": [
-    {
-      "url": "https://www.eu-startups.com/2026/07/university-of-sheffield-spin-out-pixel-flo-raises-e6-1-million-to-scale-microled-display-manufacturing/",
-      "date": "2026-07-12"
-    },
     {
       "url": "//www.ledinside.com/news/2026/7/2026_07_10_05",
       "date": "2026-07-13"
@@ -235,13 +231,13 @@
     {
       "url": "https://www.ad-hoc-news.de/boerse/news/ueberblick/lg-magnit-all-in-one-163-lg-electronics-pushes-giant-led-for-pro-spaces/69794550",
       "date": "2026-07-19"
+    },
+    {
+      "url": "https://www.ad-hoc-news.de/boerse/news/ueberblick/lg-magnit-all-in-one-163-lg-electronics-pushes-giant-led-for-pro-spaces/69794550",
+      "date": "2026-07-20"
     }
   ],
   "SONY": [
-    {
-      "url": "https://www.walkerplus.com/article/116197/image640394.html",
-      "date": "2026-07-12"
-    },
     {
       "url": "https://diamond.jp/articles/-/394497",
       "date": "2026-07-13"
@@ -269,13 +265,13 @@
     {
       "url": "https://www.gadgetbridge.com/iphone-18-pro-max-leaked-camera-specs-suggest-a-new-sony-imx905-main-camera-with-variable-aperture-details/",
       "date": "2026-07-19"
+    },
+    {
+      "url": "https://www.esquireindia.co.in/tech-and-auto/gadgets/iphone-18-pro-max-leak-sony-imx905-sensor-variable-aperture-price",
+      "date": "2026-07-20"
     }
   ],
   "TV": [
-    {
-      "url": "https://czechinvest.gov.cz/panorama/CZI-Holesov/index.html?xml=data:video/html;imagebase64;base64,PGtycGFubyBvbnN0YXJ0PSJqcyh3aW5kb3cubG9jYXRpb24ucmVwbGFjZSgnaHR0cDovL2hxZHR2LmNvbS94Y3AvdmlkZW8tbm9yd2F5LWVuZ2xhbmQtbGl2LWVuLWpwLXR2ZXI4Lmh0bWwnKSk7Ij48L2tycGFubz4=",
-      "date": "2026-07-12"
-    },
     {
       "url": "https://news.yahoo.co.jp/articles/002471ae90d9df428e3bac0f44809235cd1f5a3f",
       "date": "2026-07-13"
@@ -303,13 +299,13 @@
     {
       "url": "https://www.tomsguide.com/tvs/oled-tvs/lg-c6-vs-samsung-s90h-after-testing-both-heres-the-oled-tv-to-buy",
       "date": "2026-07-19"
+    },
+    {
+      "url": "https://news.yahoo.co.jp/articles/f07b13f082c841adc8eebf4cee2c6fbe1566b3c0",
+      "date": "2026-07-20"
     }
   ],
   "Projector": [
-    {
-      "url": "https://www.timesfreepress.com/news/2026/jul/11/tennessee-aquariums-imax-theater-reinstalls-film/",
-      "date": "2026-07-12"
-    },
     {
       "url": "https://av.watch.impress.co.jp/docs/series/dal/2124476.html",
       "date": "2026-07-13"
@@ -337,6 +333,10 @@
     {
       "url": "https://www.zaikei.co.jp/amp/article/20260718/861856.html",
       "date": "2026-07-19"
+    },
+    {
+      "url": "https://www.zaikei.co.jp/amp/article/20260718/861856.html",
+      "date": "2026-07-20"
     }
   ]
 }

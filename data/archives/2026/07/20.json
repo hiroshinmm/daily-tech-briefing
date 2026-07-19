@@ -1,0 +1,102 @@
+{
+  "AI": {
+    "title": "ITエンジニアの賃金二極化とAI時代のスキル",
+    "summary": "日本経済新聞の報道によると、AIによる代替が進むことで、ITエンジニアの賃金に二極化が生じています。単純なコーディングや運用保守などの「AI代替」可能な業務は価値が下がり、AIを使いこなして価値を生むエンジニアとの格差が拡大しています。",
+    "insight": "AI時代のエンジニアには、単なる実装力以上にAIツールを設計やアーキテクチャの意思決定に組み込む能力が求められています。コーディングスキルをAIで加速させつつ、AIが苦手とする「要件定義」や「ドメイン知識に基づいた複雑な判断」を強化することがキャリア防衛の鍵となるでしょう。",
+    "sourceUrl": "https://www.nikkei.com/article/DGXZQOUC115KO0R10C26A6000000/",
+    "sourceName": "日本経済新聞",
+    "originalImageUrl": "https://article-image-ix.nikkei.com/https%3A%2F%2Fimgix-proxy.n8s.jp%2FDSXZQO3301112013072026000000-2.jpg?auto=compress&bg=FFFF&crop=focalpoint&fit=crop&fm=jpg&h=630&w=1200&s=a37fe620746803620de1f5cff8232175",
+    "originalImageArticleUrl": "https://www.nikkei.com/article/DGXZQOUC115KO0R10C26A6000000/",
+    "displayDate": "2026-07-20"
+  },
+  "SRD / XR": {
+    "title": "岐阜市、浸水リスクを可視化するARアプリを公開",
+    "summary": "岐阜市は、「9.12豪雨」から50年の節目に合わせ、浸水リスクをARで視覚的に体験できるアプリを制作しました。過去の災害を教訓として、現在の街並みに浸水高を投影することで、市民の防災意識を高める取り組みです。",
+    "insight": "GIS（地理情報システム）データとARの統合は、公共防災において非常に有効な活用例です。WebARやVPS（Visual Positioning System）技術を活用した位置情報連動型のUX設計は、今後スマートシティ開発の標準的なインターフェースになるでしょう。",
+    "sourceUrl": "https://www.asahi.com/articles/ASV7M12RNV7MOHGB00BM.html",
+    "sourceName": "朝日新聞",
+    "originalImageUrl": "https://imgopt.asahi.com/ogp/AS20260719001620_comm.jpg",
+    "originalImageArticleUrl": "https://www.asahi.com/articles/ASV7M12RNV7MOHGB00BM.html",
+    "displayDate": "2026-07-20"
+  },
+  "TCL": {
+    "title": "インクジェット印刷OLEDが実用化へ！TCL/CSOTの次世代技術",
+    "summary": "TCLのパネルメーカーCSOTが、世界で初めてインクジェット印刷方式のOLEDパネルを実用化しました。LenovoのノートPC「Legion R9000P」に搭載されており、従来の蒸着方式よりも製造コスト低減と高解像度化が期待できる技術として注目されています。",
+    "insight": "インクジェット印刷方式は材料の無駄が少なく大面積化に有利なため、今後のOLED市場のコスト構造を大きく変える可能性があります。エンジニアとしては、製造プロセスが変わることでパネルの輝度寿命や発光効率にどのような特性変化が出るのか注視すべきです。",
+    "sourceUrl": "https://www.zaikei.co.jp/amp/article/20260718/861829.html",
+    "sourceName": "財経新聞",
+    "originalImageUrl": "http://www.zaikei.co.jp/files/general/20260718070954puj0big.png",
+    "originalImageArticleUrl": "https://www.zaikei.co.jp/amp/article/20260718/861829.html",
+    "displayDate": "2026-07-20"
+  },
+  "SONY": {
+    "title": "次期iPhone Proにソニー製センサー搭載か？可変絞りの採用が浮上",
+    "summary": "次期iPhone 18 Proシリーズに、ソニーの新型イメージセンサー「IMX905」と可変絞り機構が搭載される可能性が浮上しています。リークされた診断ログから、カメラハードウェアの進化が示唆されており、スマートフォンカメラにおけるソニーのシェアと技術優位性が改めて注目されています。",
+    "insight": "可変絞りの導入は、センサーサイズが大型化する近年のスマホカメラにおいて、被写界深度の制御を物理的に解決する重要な技術トレンドです。ソフトウェアでの計算処理だけでなく、ハードウェアの光学性能を磨くソニーのセンサー戦略は、モバイルイメージングの差別化要因としてエンジニア視点でも非常に興味深い動向です。",
+    "sourceUrl": "https://www.esquireindia.co.in/tech-and-auto/gadgets/iphone-18-pro-max-leak-sony-imx905-sensor-variable-aperture-price",
+    "sourceName": "Esquire India",
+    "originalImageUrl": "https://media.assettype.com/esquireindia%2F2026-07-18%2Faf1mtv0d%2FiPhone-18-Pro-Max-Camera.jpg?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
+    "originalImageArticleUrl": "https://www.esquireindia.co.in/tech-and-auto/gadgets/iphone-18-pro-max-leak-sony-imx905-sensor-variable-aperture-price",
+    "displayDate": "2026-07-20"
+  },
+  "TV": {
+    "title": "フジテレビの退職対応に批判、組織のDXとガバナンス",
+    "summary": "フジテレビで退職スタッフに対し、出演者全員の承諾を得るよう求めるなどの困難な手続きを要求していると報じられ、社内の相談窓口が機能していないとしてSNS上で批判が集まっています。",
+    "insight": "レガシーな組織における業務プロセスの属人化とガバナンス不全は、技術的負債と同様に解決が困難な課題です。エンジニアリング組織においても、引き継ぎや権限管理の自動化・標準化を進め、属人性を排除する文化作りが重要であることを再認識させられます。",
+    "sourceUrl": "https://news.yahoo.co.jp/articles/f07b13f082c841adc8eebf4cee2c6fbe1566b3c0",
+    "sourceName": "Yahoo!ニュース",
+    "originalImageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260719-00000029-flash-000-3-view.jpg?exp=10800",
+    "originalImageArticleUrl": "https://news.yahoo.co.jp/articles/f07b13f082c841adc8eebf4cee2c6fbe1566b3c0",
+    "displayDate": "2026-07-20"
+  },
+  "Projector": {
+    "title": "オプトマ、Dolby Vision対応の最新プロジェクター発表",
+    "summary": "オプトマから、最上位プロジェクター「UHR90DV」が国内発表されました。RGBトリプルレーザー光源を採用し、Dolby VisionとIMAX Enhancedの両規格に同時対応した画期的なハイエンドモデルです。",
+    "insight": "Dolby Vision等のHDRメタデータと、高輝度・広色域のレーザー光源をどう制御するかが、今後のホームシアター技術の鍵になります。特に、物理的な輝度制限がある投写型で、いかにダイナミックレンジを最適化しているかはハードウェアエンジニアとして興味深いポイントです。",
+    "sourceUrl": "https://www.zaikei.co.jp/amp/article/20260718/861856.html",
+    "sourceName": "財経新聞",
+    "originalImageUrl": "http://www.zaikei.co.jp/files/general/202607181433137tM0big.png",
+    "originalImageArticleUrl": "https://www.zaikei.co.jp/amp/article/20260718/861856.html",
+    "displayDate": "2026-07-20"
+  },
+  "Production Monitor": {
+    "title": "Blackmagic Cameraアプリが更新、Androidでの撮影がより柔軟に",
+    "summary": "Blackmagic Camera for Androidがバージョン3.4にアップデートされました。ユーザーからの要望を反映し、Android端末での撮影ワークフローにおける柔軟性がさらに向上。プロフェッショナルな制作現場でのスマートフォン活用が加速しています。",
+    "insight": "スマホをメインカメラとして統合する動きは、特にモバイル向けの映像制作やストリーミング分野で注目すべき技術トレンドです。OSの制限をアプリ側でいかに吸収し、センサーやコーデックを制御しているかは、エンジニア視点でも非常に興味深い実装課題と言えます。",
+    "sourceUrl": "https://www.provideocoalition.com/blackmagic-camera-for-android-3-4-update-released/",
+    "sourceName": "ProVideo Coalition",
+    "originalImageUrl": "https://www.provideocoalition.com/wp-content/uploads/blakmagiccameraandroidupdate001.jpg",
+    "originalImageArticleUrl": "https://www.provideocoalition.com/blackmagic-camera-for-android-3-4-update-released/",
+    "displayDate": "2026-07-20"
+  },
+  "Gaming Monitor": {
+    "title": "ゲーミングモニターが軒並みセール中！狙い目は？",
+    "summary": "現在、Amazon等の海外主要ECサイトにて、ASUS ROG Strix OLEDやSamsung G5、その他180Hz駆動の高速ゲーミングモニターが大幅値下げの対象となっています。高リフレッシュレートやOLEDパネル搭載モデルがお得に購入できるチャンスが続いています。",
+    "insight": "高リフレッシュレート対応のOLEDモニターが手の届きやすい価格帯まで下落しており、開発環境のアップグレードや検証機材の導入に適した時期です。特にFPSや高解像度コンテンツのテスト環境として、この価格変動はエンジニアにとって機材刷新の好機と言えます。",
+    "sourceUrl": "https://mashable.com/tech/july-13-asus-rog-strix-oled-gaming-monitor-deal",
+    "sourceName": "Mashable",
+    "originalImageUrl": "https://helios-i.mashable.com/imagery/articles/06xvzEYr6HuM3bLMiUZwBrM/hero-image.fill.size_1200x675.v1783951541.png",
+    "originalImageArticleUrl": "https://mashable.com/tech/july-13-asus-rog-strix-oled-gaming-monitor-deal",
+    "displayDate": "2026-07-20"
+  },
+  "Camera Control": {
+    "title": "安物メモリカードの末路：信頼性の技術的教訓",
+    "summary": "プロカメラマンが安価な模倣品メモリカードを使用したことで、撮影データが消失し高額な案件を失ったという風刺記事。カメラ機材の信頼性とデータ保護の重要性を再認識させる内容です。",
+    "insight": "ソフトウェアエンジニアとして、システム全体を支えるストレージやバックアップ戦略の妥協は、致命的な失敗を招くリスクを伴います。表面的なコスト削減が長期的な信頼性と運用コストに与える影響について考えさせられる教訓です。",
+    "sourceUrl": "https://petapixel.com/2026/07/19/photographer-loses-five-figure-job-after-bargain-basement-memory-cards-fail-on-set-satire/",
+    "sourceName": "PetaPixel",
+    "originalImageUrl": "https://petapixel.com/assets/uploads/2026/07/mcewen-dunce.jpg",
+    "originalImageArticleUrl": "https://petapixel.com/2026/07/19/photographer-loses-five-figure-job-after-bargain-basement-memory-cards-fail-on-set-satire/",
+    "displayDate": "2026-07-20"
+  },
+  "LED Wall Display": {
+    "title": "LG MAGNIT：プロ向け163インチLEDウォールが登場",
+    "summary": "LG Electronicsが、プロフェッショナルな空間向けに163インチの大型「LG MAGNIT All-in-One」を発表しました。設置の容易さと高品質な映像体験を両立させた一体型LEDディスプレイとして注目されています。",
+    "insight": "大型LEDディスプレイのトレンドは、モジュール設計の複雑さを解消するオールインワン型へのシフトが進んでいます。特にプロ向け空間では、単なる高精細化だけでなく、設置・保守のワークフロー効率化がエンジニアリング上の重要な差別化要因となっています。",
+    "sourceUrl": "https://www.ad-hoc-news.de/boerse/news/ueberblick/lg-magnit-all-in-one-163-lg-electronics-pushes-giant-led-for-pro-spaces/69794550",
+    "sourceName": "ad-hoc-news.de",
+    "originalImageUrl": "https://mdb.ad-hoc-news.de/bild/bild-2405027_1920_1080.webp",
+    "originalImageArticleUrl": "https://www.ad-hoc-news.de/boerse/news/ueberblick/lg-magnit-all-in-one-163-lg-electronics-pushes-giant-led-for-pro-spaces/69794550",
+    "displayDate": "2026-07-20"
+  }
+}
