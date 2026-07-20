@@ -1,0 +1,102 @@
+{
+  "Gaming Monitor": {
+    "title": "OLEDゲーミングモニターの価格破壊が加速中",
+    "summary": "Amazon等でSamsung Odyssey OLED G5など、高性能なOLEDゲーミングモニターが大幅値下げされ、過去最安値水準で販売されています。これまで高嶺の花だった240Hz駆動などのハイエンド仕様が、一般ゲーマーの手の届く価格帯まで下落しており、買い替えの好機となっています。",
+    "insight": "OLEDパネルの量産効率向上と低価格化は、デスクトップ環境におけるリフレッシュレートの標準を引き上げる要因となります。エンジニアとしては、応答速度の速いOLEDモニターが普及することで、UIの微細なアニメーションや高フレームレート描画の検証環境が低コストで構築可能になる点に注目すべきです。",
+    "sourceUrl": "https://www.ign.com/articles/samsung-odyssey-oled-g5-gaming-monitor-deal-july",
+    "sourceName": "IGN",
+    "originalImageUrl": "https://assets-prd.ignimgs.com/2026/07/20/samsungodysseyoledg5-1784564748378.jpg?width=1280&format=jpg&auto=webp&quality=80",
+    "originalImageArticleUrl": "https://www.ign.com/articles/samsung-odyssey-oled-g5-gaming-monitor-deal-july",
+    "displayDate": "2026-07-21"
+  },
+  "AI": {
+    "title": "米AI安全機関のトップがわずか3ヶ月で辞任",
+    "summary": "トランプ政権下でAIの安全性確保を担っていた機関のトップが、就任からわずか3ヶ月で辞任しました。AI規制や安全対策の重要性が高まる中、政策の先行きに不透明感が生じています。",
+    "insight": "AIガバナンスと技術開発のスピード感の間で、政治的な意思決定が揺れ動いていることを示唆しています。エンジニアとしては、規制環境の急変リスクを考慮し、モデルの透明性や堅牢性を担保する設計をこれまで以上に重視すべきです。",
+    "sourceUrl": "https://www.cnbc.com/2026/07/20/trumps-head-of-ai-safety-agency-caisi-resigns-after-months-on-job.html",
+    "sourceName": "CNBC",
+    "originalImageUrl": "https://image.cnbcfm.com/api/v1/image/108176087-17533092582025-07-23t221939z_1869125523_rc2msfa9oqcc_rtrmadp_0_usa-trump-ai.jpeg?v=1753309307&w=1920&h=1080",
+    "originalImageArticleUrl": "https://www.cnbc.com/2026/07/20/trumps-head-of-ai-safety-agency-caisi-resigns-after-months-on-job.html",
+    "displayDate": "2026-07-21"
+  },
+  "Projector": {
+    "title": "7,000円のAndroid 14搭載プロジェクターが話題",
+    "summary": "XElectronがAndroid 14搭載のスマートプロジェクターをインドで約7,000円（6,990ルピー）という驚異的な低価格で発売しました。4Kサポートや180度回転可能な設計など、エントリー層をターゲットにした多機能ぶりが注目されています。",
+    "insight": "OSに最新のAndroid 14を採用することで、ストリーミング体験を低コストで標準化する戦略が目立ちます。ハードウェアのコモディティ化が進む中で、こうしたOS統合型の格安デバイスがどこまでホームシアター市場の裾野を広げるか注目です。",
+    "sourceUrl": "https://www.gogi.in/xelectron-techno-android-14-smart-projector-launched-in-india-at-just-rs-6990.html/amp",
+    "sourceName": "Gogi Tech",
+    "originalImageUrl": "https://www.gogi.in/wp-content/uploads/2026/07/Pic-2-XElectron-Techno-Android-14-Smart-Home-Theater-Movie-HD-Projector.jpg",
+    "originalImageArticleUrl": "https://www.gogi.in/xelectron-techno-android-14-smart-projector-launched-in-india-at-just-rs-6990.html/amp",
+    "displayDate": "2026-07-21"
+  },
+  "SRD / XR": {
+    "title": "元Oculus CTOジョン・カーマック氏が私財100万ドルをVR移植へ投入",
+    "summary": "元Oculus CTOであり、伝説的プログラマーのジョン・カーマック氏が、ゲームのVR移植を支援するために私財100万ドルを拠出すると発表した。自身のSNSで「VRでのプレイに適したゲームの移植」を促進する意向を示しており、コミュニティや開発者に大きな注目が集まっている。",
+    "insight": "技術の普及には優れたコンテンツの存在が不可欠であり、個人の力でエコシステムのギャップを埋めようとする姿勢はエンジニアとしても興味深い。古い名作を現在のVR環境へ移植する際の技術的な最適化や、UXの再設計におけるノウハウの蓄積が今後さらに加速することが期待される。",
+    "sourceUrl": "https://www.moguravr.com/vr-ar-mr-weekly-2026-7-21/",
+    "sourceName": "Mogura VR",
+    "originalImageUrl": "https://assets.moguravr.com/uploads/2026/07/460df94df3cfa54c76d37f64376fc627-kix.mimqdrpe8h0l.webp",
+    "originalImageArticleUrl": "https://www.moguravr.com/vr-ar-mr-weekly-2026-7-21/",
+    "displayDate": "2026-07-21"
+  },
+  "SONY": {
+    "title": "PS6コントローラーにタッチ画面？特許から見る未来の操作性",
+    "summary": "ソニーが次世代機PlayStation 6向けのコントローラーに関する特許を公開しました。この特許には、タッチスクリーンディスプレイの搭載や、プレイヤーが入力方式を物理的に変更・カスタマイズできるモジュラー機能が含まれており、ゲーム体験のパーソナライズ化が期待されています。",
+    "insight": "ハードウェアレベルでのモジュラー設計は、修理コストの削減やアクセシビリティの向上という面でエンジニアリング上の大きな関心事です。UI/UX設計においても、コントローラーに小型ディスプレイを統合することで、ゲーム外での情報確認や入力の動的マッピングなど、新たな双方向インターフェースの可能性が広がります。",
+    "sourceUrl": "https://www.tweaktown.com/news/112715/sonys-ps6-controller-could-feature-a-touchscreen-display-and-fully-modular-inputs-according-to-a-new-patent/index.html",
+    "sourceName": "TweakTown",
+    "originalImageUrl": null,
+    "originalImageArticleUrl": "https://www.tweaktown.com/news/112715/sonys-ps6-controller-could-feature-a-touchscreen-display-and-fully-modular-inputs-according-to-a-new-patent/index.html",
+    "displayDate": "2026-07-21"
+  },
+  "TCL": {
+    "title": "TCLの新型SQD Mini-LED TVが登場",
+    "summary": "TCLが最新のプレミアムディスプレイ技術「SQD Mini-LED」を搭載した新型TV「C7L」を発表しました。従来のLED方式に量子ドット（Quantum Dot）技術を高度に統合することで、さらなる高コントラストと色再現性の向上を実現し、プレミアムTV市場での競争力を強化しています。",
+    "insight": "Mini-LEDはバックライト制御の細分化によるHDR表現の向上と消費電力のバランスが鍵となる技術です。エンジニア視点では、量子ドットを用いた色域拡大技術と、それらを統合する画像処理アルゴリズムの最適化が、現代のディスプレイ品質を左右する重要なアーキテクチャ要素となっています。",
+    "sourceUrl": "https://www.lionheartv.net/2026/07/tcl-raises-the-bar-for-premium-viewing-with-the-new-c7l-sqd-miniled-tv/",
+    "sourceName": "LionhearTV",
+    "originalImageUrl": "https://www.lionheartv.net/wp-content/uploads/2026/07/TCL-Raises-the-Bar-for-Premium-Viewing-with-th-1.jpg",
+    "originalImageArticleUrl": "https://www.lionheartv.net/2026/07/tcl-raises-the-bar-for-premium-viewing-with-the-new-c7l-sqd-miniled-tv/",
+    "displayDate": "2026-07-21"
+  },
+  "Camera Control": {
+    "title": "AIによる野鳥写真加工が研究に及ぼす影響とは？",
+    "summary": "野生生物の写真において、AI編集ツールを用いた補正や生成が一般化する中、科学者たちが警告を発しています。過度なAI加工は、鳥類の生態記録や研究データの信頼性を損なう可能性があり、学術的な妥当性をどのように守るかが議論されています。",
+    "insight": "AI生成・補正技術が「記録」の信頼性を揺るがす典型的な事例であり、ソフトウェアエンジニアとしてもデータインテグリティの重要性を再考させられます。単なる画像処理の枠を超え、メタデータ管理やAIコンテンツの真贋判定技術の実装が、今後あらゆる分野で必要になるでしょう。",
+    "sourceUrl": "https://petapixel.com/2026/07/20/scientists-warn-wildlife-photographers-ai-enhanced-bird-photos-could-threaten-research/",
+    "sourceName": "PetaPixel",
+    "originalImageUrl": "https://petapixel.com/assets/uploads/2026/07/ai-generatred-birds.jpg",
+    "originalImageArticleUrl": "https://petapixel.com/2026/07/20/scientists-warn-wildlife-photographers-ai-enhanced-bird-photos-could-threaten-research/",
+    "displayDate": "2026-07-21"
+  },
+  "TV": {
+    "title": "最新ディスプレイ技術のトレンドと市場動向",
+    "summary": "2026年TVシュートアウトの結果が発表され、最新のOLEDおよびRGB LCDテレビの性能が評価されました。また、AmazonやWalmartなどで大手メーカー製OLED TVの大幅なセールが続いており、高性能ディスプレイの導入障壁が下がりつつあります。",
+    "insight": "エンジニアの視点では、リフレッシュレートや輝度だけでなく、パネルの焼き付き防止技術やHDR処理エンジンなどのソフトウェア実装が製品差別化の鍵となっています。開発環境においても、高解像度・高コントラストなディスプレイの普及に伴い、UIデザインのカラープロファイルやレンダリング負荷の最適化がより重要になっています。",
+    "sourceUrl": "https://www.ecoustics.com/news/2026-tv-shootout-results/",
+    "sourceName": "eCoustics",
+    "originalImageUrl": "https://www.ecoustics.com/wp-content/uploads/TV-Shootout-2026-judges-featured-1280-720.jpg",
+    "originalImageArticleUrl": "https://www.ecoustics.com/news/2026-tv-shootout-results/",
+    "displayDate": "2026-07-21"
+  },
+  "LED Wall Display": {
+    "title": "屋外LEDディスプレイの故障を防ぐための仕様選定",
+    "summary": "屋外用ディスプレイの運用において、経年劣化や過熱、輝度制限の超過といった故障を避けるためには、初期段階での厳密な仕様策定と承認プロセスが不可欠であるという技術的考察。表面的なコストや見た目だけで判断せず、設置環境に応じた技術スペックを正しく理解し適用することが、長期間の信頼性維持に直結します。",
+    "insight": "エンジニアリングの観点では、単なるハードウェアの性能だけでなく、環境負荷に対するマージン計算や冷却設計の検証が重要です。屋外環境特有の変動要因を仕様書へいかに落とし込むかが、ライフサイクルコスト削減の鍵となります。",
+    "sourceUrl": "https://www.digitalsignagetoday.com/blogs/outdoor-display-failures-start-at-the-spec-sheet/",
+    "sourceName": "Digital Signage Today",
+    "originalImageUrl": "https://nmgprod.s3.amazonaws.com/media/file/83/a3/f9f2fac7026ead94775f084e3eba/cover_image__xRuLJJMG__Amped_Digital_Major_01.png.360x190_q85_crop_upscale.webp",
+    "originalImageArticleUrl": "https://www.digitalsignagetoday.com/blogs/outdoor-display-failures-start-at-the-spec-sheet/",
+    "displayDate": "2026-07-21"
+  },
+  "Production Monitor": {
+    "title": "旧型iPhoneでRAW動画撮影？話題のアプリを検証",
+    "summary": "開発者Sebastijan Grabar氏による「RAW Cam」と「Log Cam」が、iPhone 13などの古いモデルでフルセンサーRAWやApple Log 2撮影を可能にすると主張し話題です。公式には制限されているハードウェア性能をソフトウェア的に引き出すアプローチですが、その実効性には懐疑的な視点も向けられています。",
+    "insight": "ハードウェアの制限をソフトウェア側でバイパスする手法は、エンジニアリングの観点から非常に興味深いリバースエンジニアリング事例です。特にセンサーの未公開機能をどう制御し、リアルタイムでデバイヤー処理を行っているのか、計算リソースの最適化手法に注目です。",
+    "sourceUrl": "https://www.cined.com/log-cam-and-raw-cam-bring-open-gate-raw-and-log-video-to-older-iphones-a-skeptical-look/",
+    "sourceName": "CineD",
+    "originalImageUrl": "https://www.cined.com/content/uploads/2026/07/RAW-Cam_Log-Cam-featured-300x169.jpg",
+    "originalImageArticleUrl": "https://www.cined.com/log-cam-and-raw-cam-bring-open-gate-raw-and-log-video-to-older-iphones-a-skeptical-look/",
+    "displayDate": "2026-07-21"
+  }
+}

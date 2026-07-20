@@ -1,10 +1,6 @@
 {
   "Production Monitor": [
     {
-      "url": "https://www.cined.com/dji-front-companies-fined-by-the-fcc-a-selective-crackdown-that-only-hurts-filmmakers/",
-      "date": "2026-07-13"
-    },
-    {
       "url": "https://www.provideocoalition.com/arri-rental-management-buy-out-h2-equity-partners/",
       "date": "2026-07-14"
     },
@@ -31,13 +27,13 @@
     {
       "url": "https://www.provideocoalition.com/blackmagic-camera-for-android-3-4-update-released/",
       "date": "2026-07-20"
+    },
+    {
+      "url": "https://www.cined.com/log-cam-and-raw-cam-bring-open-gate-raw-and-log-video-to-older-iphones-a-skeptical-look/",
+      "date": "2026-07-21"
     }
   ],
   "SRD / XR": [
-    {
-      "url": "https://www.moguravr.com/vr-ar-mr-weekly-2026-7-13/",
-      "date": "2026-07-13"
-    },
     {
       "url": "https://www.moguravr.com/apple-vision-pro-third-party-controller-specifications/",
       "date": "2026-07-14"
@@ -65,13 +61,13 @@
     {
       "url": "https://www.asahi.com/articles/ASV7M12RNV7MOHGB00BM.html",
       "date": "2026-07-20"
+    },
+    {
+      "url": "https://www.moguravr.com/vr-ar-mr-weekly-2026-7-21/",
+      "date": "2026-07-21"
     }
   ],
   "AI": [
-    {
-      "url": "https://www.nikkei.com/article/DGXZQOUC154EB0V10C26A6000000/",
-      "date": "2026-07-13"
-    },
     {
       "url": "https://jp.reuters.com/world/us/O7T2O4DPERJSTCWMK7JBVBWX6M-2026-07-13/",
       "date": "2026-07-14"
@@ -99,13 +95,13 @@
     {
       "url": "https://www.nikkei.com/article/DGXZQOUC115KO0R10C26A6000000/",
       "date": "2026-07-20"
+    },
+    {
+      "url": "https://www.cnbc.com/2026/07/20/trumps-head-of-ai-safety-agency-caisi-resigns-after-months-on-job.html",
+      "date": "2026-07-21"
     }
   ],
   "Gaming Monitor": [
-    {
-      "url": "https://www.technobezz.com/best/aoc-agon-pro-27-inch-qd-oled-gaming-monitor-drops-to-39999",
-      "date": "2026-07-13"
-    },
     {
       "url": "https://www.tweaktown.com/news/112607/lg-claims-that-you-can-improve-your-aim-by-up-to-38-percent-by-playing-on-a-480hz-oled-monitor/index.html",
       "date": "2026-07-14"
@@ -133,13 +129,13 @@
     {
       "url": "https://mashable.com/tech/july-13-asus-rog-strix-oled-gaming-monitor-deal",
       "date": "2026-07-20"
+    },
+    {
+      "url": "https://www.ign.com/articles/samsung-odyssey-oled-g5-gaming-monitor-deal-july",
+      "date": "2026-07-21"
     }
   ],
   "TCL": [
-    {
-      "url": "https://www.msn.com/en-us/news/technology/google-s-new-gemini-tv-controls-are-here-and-tcl-owners-get-them-first/ar-AA25CH5p?apiversion=v2&domshim=1&noservercache=1&noservertelemetry=1&batchservertelemetry=1&renderwebcomponents=1&wcseo=1",
-      "date": "2026-07-13"
-    },
     {
       "url": "https://www.oled-info.com/tcl-csot-starts-producing-27-4k-inkjet-printed-oled-monitor-panels-its-55-gen",
       "date": "2026-07-14"
@@ -167,13 +163,13 @@
     {
       "url": "https://www.zaikei.co.jp/amp/article/20260718/861829.html",
       "date": "2026-07-20"
+    },
+    {
+      "url": "https://www.lionheartv.net/2026/07/tcl-raises-the-bar-for-premium-viewing-with-the-new-c7l-sqd-miniled-tv/",
+      "date": "2026-07-21"
     }
   ],
   "Camera Control": [
-    {
-      "url": "https://www.sonyalpharumors.com/curiosity-sony-fx5-has-ibis-you-can-remove/",
-      "date": "2026-07-13"
-    },
     {
       "url": "https://petapixel.com/2026/07/13/free-mac-app-unravels-all-your-annoying-usb-c-cable-mysteries/",
       "date": "2026-07-14"
@@ -201,13 +197,13 @@
     {
       "url": "https://petapixel.com/2026/07/19/photographer-loses-five-figure-job-after-bargain-basement-memory-cards-fail-on-set-satire/",
       "date": "2026-07-20"
+    },
+    {
+      "url": "https://petapixel.com/2026/07/20/scientists-warn-wildlife-photographers-ai-enhanced-bird-photos-could-threaten-research/",
+      "date": "2026-07-21"
     }
   ],
   "LED Wall Display": [
-    {
-      "url": "//www.ledinside.com/news/2026/7/2026_07_10_05",
-      "date": "2026-07-13"
-    },
     {
       "url": "//www.ledinside.com/news/2026/7/2026_07_13_01",
       "date": "2026-07-14"
@@ -235,13 +231,13 @@
     {
       "url": "https://www.ad-hoc-news.de/boerse/news/ueberblick/lg-magnit-all-in-one-163-lg-electronics-pushes-giant-led-for-pro-spaces/69794550",
       "date": "2026-07-20"
+    },
+    {
+      "url": "https://www.digitalsignagetoday.com/blogs/outdoor-display-failures-start-at-the-spec-sheet/",
+      "date": "2026-07-21"
     }
   ],
   "SONY": [
-    {
-      "url": "https://diamond.jp/articles/-/394497",
-      "date": "2026-07-13"
-    },
     {
       "url": "https://www.manilatimes.net/2026/07/14/tmt-newswire/sony-5th-generation-rx10-v-ai-powered-camera-perfect-for-very-shot/2383278/amp",
       "date": "2026-07-14"
@@ -269,13 +265,13 @@
     {
       "url": "https://www.esquireindia.co.in/tech-and-auto/gadgets/iphone-18-pro-max-leak-sony-imx905-sensor-variable-aperture-price",
       "date": "2026-07-20"
+    },
+    {
+      "url": "https://www.tweaktown.com/news/112715/sonys-ps6-controller-could-feature-a-touchscreen-display-and-fully-modular-inputs-according-to-a-new-patent/index.html",
+      "date": "2026-07-21"
     }
   ],
   "TV": [
-    {
-      "url": "https://news.yahoo.co.jp/articles/002471ae90d9df428e3bac0f44809235cd1f5a3f",
-      "date": "2026-07-13"
-    },
     {
       "url": "https://news.yahoo.co.jp/articles/ba9e851f14bfe3c6588a9f45e75037dc62d0e916",
       "date": "2026-07-14"
@@ -303,13 +299,13 @@
     {
       "url": "https://news.yahoo.co.jp/articles/f07b13f082c841adc8eebf4cee2c6fbe1566b3c0",
       "date": "2026-07-20"
+    },
+    {
+      "url": "https://www.ecoustics.com/news/2026-tv-shootout-results/",
+      "date": "2026-07-21"
     }
   ],
   "Projector": [
-    {
-      "url": "https://av.watch.impress.co.jp/docs/series/dal/2124476.html",
-      "date": "2026-07-13"
-    },
     {
       "url": "https://corriente.jp/aladdin-x3-laser-4k-event/",
       "date": "2026-07-14"
@@ -337,6 +333,10 @@
     {
       "url": "https://www.zaikei.co.jp/amp/article/20260718/861856.html",
       "date": "2026-07-20"
+    },
+    {
+      "url": "https://www.gogi.in/xelectron-techno-android-14-smart-projector-launched-in-india-at-just-rs-6990.html/amp",
+      "date": "2026-07-21"
     }
   ]
 }
