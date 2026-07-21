@@ -1,0 +1,102 @@
+{
+  "SRD / XR": {
+    "title": "キヤノンが産業用XRソフトを公開、OpenXR準拠で拡張性向上",
+    "summary": "キヤノンは製造業向けにXR（クロスリアリティ）の導入を加速させる新ソフトウェアを発表しました。本ソフトは業界標準規格である「OpenXR」に対応しており、自社製ハードウェア以外にも広く互換性を持つ点が大きな特徴です。",
+    "insight": "製造業などの業務システムにおいて、ハードウェアのベンダーロックインを回避できるOpenXR対応は、開発工数の削減と将来的な拡張性を担保する重要な戦略です。プラットフォームを横断した開発環境の標準化が、現場でのXR実装を加速させる鍵となるでしょう。",
+    "sourceUrl": "https://monoist.itmedia.co.jp/mn/articles/2607/22/news048.html",
+    "sourceName": "MONOist",
+    "originalImageUrl": "https://image.itmedia.co.jp/mn/articles/2607/22/cover_news048.jpg",
+    "originalImageArticleUrl": "https://monoist.itmedia.co.jp/mn/articles/2607/22/news048.html",
+    "displayDate": "2026-07-22"
+  },
+  "AI": {
+    "title": "AIが数学の難問を突破、専門家も困惑の変革",
+    "summary": "AIが数学界で100年来未解決だった問題を解決し、専門家たちがこの急速かつ動揺を禁じ得ない変化に直面しています。数学的思考すらもAIに代替される可能性が現実味を帯びており、従来の学術研究のあり方が根本から問われています。",
+    "insight": "数学的推論という高度な知的領域でのAIの躍進は、LLMの推論能力が論理的思考モデルにおいて人間の限界を超え始めていることを示唆しています。エンジニアは、ツールとしてのAI利用だけでなく、アルゴリズムの検証や数学的保証の自動化という観点からAIの役割を再定義する必要があります。",
+    "sourceUrl": "https://fortune.com/2026/07/21/ai-solves-jacobian-conjecture-levant-alpoge-claude-fable-5/",
+    "sourceName": "Fortune",
+    "originalImageUrl": "https://fortune.com/img-assets/wp-content/uploads/2026/07/GettyImages-80357061-e1784649929615.jpg?resize=1200,600",
+    "originalImageArticleUrl": "https://fortune.com/2026/07/21/ai-solves-jacobian-conjecture-levant-alpoge-claude-fable-5/",
+    "displayDate": "2026-07-22"
+  },
+  "TCL": {
+    "title": "TCL、8.6世代OLED生産ラインへ本格投資",
+    "summary": "TCL傘下のCSOT（China Star Optoelectronics Technology）が推進する8.6世代OLED生産ラインに向け、装置メーカーYASがフル稼働で製造設備を供給していることが判明しました。大型有機EL市場における支配力を強めるための重要な動きです。",
+    "insight": "OLEDの大型化・高効率化を支える第8.6世代パネルの製造設備供給は、今後のディスプレイ技術のロードマップを占う上で非常に重要です。エンジニアの視点では、大型パネルの製造歩留まり向上や量子ドット技術との統合が、次世代ディスプレイのUI/UX体験をどう変えるかに注目すべきです。",
+    "sourceUrl": "https://www.oled-info.com/yas-utilizes-two-its-production-lines-full-capacity-it-produces-equipment-and",
+    "sourceName": "OLED-Info",
+    "originalImageUrl": null,
+    "originalImageArticleUrl": "https://www.oled-info.com/yas-utilizes-two-its-production-lines-full-capacity-it-produces-equipment-and",
+    "displayDate": "2026-07-22"
+  },
+  "Gaming Monitor": {
+    "title": "ついに300ドル台へ。OLEDゲーミングモニターの価格破壊",
+    "summary": "Samsungの有機EL（OLED）ゲーミングモニターが300ドルまで値下げされました。高画質・高リフレッシュレートを実現するOLEDパネルの低価格化は、PCゲーマーにとって大きな恩恵であり、市場の標準が液晶から有機ELへ急速にシフトしていることを示唆しています。",
+    "insight": "OLEDモニターの低価格化は、製造技術の成熟と歩留まりの改善を反映しており、今後はエントリーモデルの仕様底上げが期待されます。エンジニア視点では、リフレッシュレートや応答速度の進化だけでなく、長時間の利用に伴う焼き付き防止技術やHDRの正確なカラーマネジメントが、ディスプレイ選定の重要なスペック指標となります。",
+    "sourceUrl": "https://www.seattlepi.com/shopping/article/samsung-odyssey-oled-g5-monitor-deal-22354114.php",
+    "sourceName": "Seattlepi.com",
+    "originalImageUrl": null,
+    "originalImageArticleUrl": "https://www.seattlepi.com/shopping/article/samsung-odyssey-oled-g5-monitor-deal-22354114.php",
+    "displayDate": "2026-07-22"
+  },
+  "SONY": {
+    "title": "ソニーがCinema Line新製品を22日発表へ",
+    "summary": "ソニーはCinema Lineシリーズの最新カメラを7月22日23時に発表すると予告しました。公開されたティザー画像では「Lighting the Way Forward」というスローガンが掲げられており、映像制作現場における次世代の撮影機材としての注目度が高まっています。",
+    "insight": "プロ向けシネマカメラの進化は、高度なイメージング処理と排熱設計の最適化が焦点となります。ソフトウェアエンジニアの視点では、新製品に搭載されるAIオートフォーカスやリアルタイム処理技術のアルゴリズムが、ワークフローをどう効率化するかに注目です。",
+    "sourceUrl": "https://av.watch.impress.co.jp/docs/news/2126724.html",
+    "sourceName": "AV Watch",
+    "originalImageUrl": "https://av.watch.impress.co.jp/img/avw/list/2126/724/so0.jpg",
+    "originalImageArticleUrl": "https://av.watch.impress.co.jp/docs/news/2126724.html",
+    "displayDate": "2026-07-22"
+  },
+  "Projector": {
+    "title": "ゲーミングプロジェクターが進化！1msの低遅延を実現",
+    "summary": "XGIMIが超小型の「Elfin Flip」4Kレーザープロジェクターを発表。ゲーミング用途を意識し、1msという極めて低い入力遅延を実現している点が最大の特徴。リビングでの大画面ゲーム体験がより身近になります。",
+    "insight": "プロジェクターにおいて1msの遅延は、かつてのゲーミングモニターに匹敵する大きな進化です。光学設計と信号処理の最適化が、エンターテインメントデバイスとしてのプロジェクターの用途を大きく広げています。",
+    "sourceUrl": "https://www.forbes.com/sites/johnarcher/2026/07/21/xgimi-launches-ultra-portable-elfin-flip-4k-laser-projector-with-claimed-1ms-gaming-latency/",
+    "sourceName": "Forbes",
+    "originalImageUrl": "https://imageio.forbes.com/specials-images/imageserve/6a5ff755a43883bf87b12263/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+    "originalImageArticleUrl": "https://www.forbes.com/sites/johnarcher/2026/07/21/xgimi-launches-ultra-portable-elfin-flip-4k-laser-projector-with-claimed-1ms-gaming-latency/",
+    "displayDate": "2026-07-22"
+  },
+  "LED Wall Display": {
+    "title": "MicroLED量産化の鍵：Pixel-Floが525万ポンドを調達",
+    "summary": "英シェフィールド大学発のスタートアップPixel-Floが、MicroLED製造の最大のボトルネックである「転写プロセス」を解決するContinuous-Flo技術で525万ポンドのシード資金を調達しました。低コストで高精度な量産化が期待され、次世代ディスプレイの普及を大きく前進させる可能性があります。",
+    "insight": "MicroLEDの普及における最大の障壁は、微細なLEDチップを基板へ高速・高精度に配置するマストランスファー技術のコストとスループットです。Pixel-Floのような連続プロセス技術の確立は、将来的な大画面LEDウォールやウェアラブルデバイスの単価を下げる重要なブレイクスルーとなるでしょう。",
+    "sourceUrl": "https://finimize.com/content/chip-stocks-led-wall-street-higher-ahead-of-big-tech-earnings",
+    "sourceName": "LEDinside",
+    "originalImageUrl": "https://finimize-img.imgix.net/https%3A%2F%2Fchivas-assets.s3-eu-west-1.amazonaws.com%2Fstatic%2Fimages%2Ftag_reuters_com_2026_newsml_L6N43N155_553592899.jpeg?ixlib=python-3.1.2&s=e3d6c2669d2e7e5abb6065492b365612",
+    "originalImageArticleUrl": "https://finimize.com/content/chip-stocks-led-wall-street-higher-ahead-of-big-tech-earnings",
+    "displayDate": "2026-07-22"
+  },
+  "TV": {
+    "title": "ハイエンドTVの価格破壊が進行中：OLED/MiniLEDの市場動向",
+    "summary": "Sony、LG、Samsung、TCLなど主要メーカーがOLEDやMiniLED搭載の高性能TVを大幅に値下げしています。特に65〜77インチの大画面モデルが手の届きやすい価格帯へシフトしており、ホームシアター環境の構築やPS5等の次世代ゲーム体験のアップグレードが以前より容易になっています。",
+    "insight": "パネル技術の成熟に伴い、ハイエンドTVのコモディティ化が加速しています。エンジニアとしては、単なる視聴デバイスを超えた、低遅延ゲーミングディスプレイや高コントラストな開発・検証環境としての活用価値を再評価すべきタイミングです。",
+    "sourceUrl": "https://www.pcmag.com/deals/65-inch-lg-oled-tv-took-home-our-editors-choice-award-deal-july-21",
+    "sourceName": "PCMag",
+    "originalImageUrl": "https://i.pcmag.com/imagery/articles/056L1XdVWhFNEZkbmhUAyhZ-1.fit_lim.size_1200x630.v1784654151.png",
+    "originalImageArticleUrl": "https://www.pcmag.com/deals/65-inch-lg-oled-tv-took-home-our-editors-choice-award-deal-july-21",
+    "displayDate": "2026-07-22"
+  },
+  "Camera Control": {
+    "title": "Adobe新機能：AFミスは誰の責任？フォーカス位置の可視化",
+    "summary": "Adobe Camera Rawの最新アップデートにより、撮影した写真の「AFフォーカス位置」が確認可能になりました。これにより、ピント外れが撮影者のミスか、カメラのAFシステムによるものかを客観的に判断できるようになります。",
+    "insight": "メタデータからAFの合焦ポイントを視覚化する実装は、画像処理パイプラインのデバッグにおいて非常に興味深いアプローチです。撮影後のデータ分析が容易になることで、AFアルゴリズムの挙動解析や、ユーザーの撮影スキル向上を支援する新たなツールとして期待されます。",
+    "sourceUrl": "https://www.dpreview.com/news/adobes-latest-update-shows-you-whether-its-your-fault-you-missed-focus-for-some-cameras/",
+    "sourceName": "DPReview",
+    "originalImageUrl": "https://www.dpreview.com/wp-content/uploads/2020/04/9361295768-adobe_photoshop_wordmark.jpeg",
+    "originalImageArticleUrl": "https://www.dpreview.com/news/adobes-latest-update-shows-you-whether-its-your-fault-you-missed-focus-for-some-cameras/",
+    "displayDate": "2026-07-22"
+  },
+  "Production Monitor": {
+    "title": "ByteDanceが動画生成AI「Seedance 2.5」のAPIを公開",
+    "summary": "ByteDanceが動画生成AI「Seedance 2.5」のパブリックAPIを公開しました。30秒の連続的なクリップ生成、最大50のマルチモーダルな参照入力、3Dブロックアウトによるカメラ制御が特徴です。著作権や倫理面での議論が続く中、AI動画生成の技術は急速に進化しています。",
+    "insight": "本モデルは3Dカメラワークの制御をAIワークフローに組み込んでおり、従来の生成AIには難しかった「意図した構図」の再現性が高まっています。エンジニアとしては、単なる生成ではなく、既存の3Dパイプラインとの連携手法が実用的なアプリケーション構築の鍵になると考えられます。",
+    "sourceUrl": "https://www.cined.com/bytedance-seedance-2-5-api-goes-live-30-second-single-shot-clips-50-reference-inputs-and-3d-camera-blockouts/",
+    "sourceName": "CineD",
+    "originalImageUrl": "https://www.cined.com/content/uploads/2026/07/Seedance-2.5-featured-300x169.jpg",
+    "originalImageArticleUrl": "https://www.cined.com/bytedance-seedance-2-5-api-goes-live-30-second-single-shot-clips-50-reference-inputs-and-3d-camera-blockouts/",
+    "displayDate": "2026-07-22"
+  }
+}
