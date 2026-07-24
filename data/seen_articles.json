@@ -1,10 +1,6 @@
 {
   "Production Monitor": [
     {
-      "url": "https://www.newsshooter.com/2026/07/15/blackmagic-camera-for-android-3-4-update/?utm_source=rss&utm_medium=rss&utm_campaign=blackmagic-camera-for-android-3-4-update",
-      "date": "2026-07-17"
-    },
-    {
       "url": "https://www.cined.com/arri-sells-its-rental-business-dji-front-companies-fined-sony-rx10-v-focus-check-ep125/",
       "date": "2026-07-18"
     },
@@ -27,13 +23,13 @@
     {
       "url": "https://www.cined.com/sony-fx5-announced-full-frame-5k-open-gate-internal-x-ocn-raw-three-base-isos-4k-240p/",
       "date": "2026-07-23"
+    },
+    {
+      "url": "https://www.provideocoalition.com/megadap-worlds-first-leica-m-to-canon-rf-autofocus-adapter/",
+      "date": "2026-07-24"
     }
   ],
   "SRD / XR": [
-    {
-      "url": "https://www.shibukei.com/photoflash/23124/",
-      "date": "2026-07-17"
-    },
     {
       "url": "https://www.jp.square-enix.com/topics/detail/4110/",
       "date": "2026-07-18"
@@ -57,13 +53,13 @@
     {
       "url": "https://news.yahoo.co.jp/articles/9c1fa291d867789e588bf928cd5baaeeef8e9091/images/000",
       "date": "2026-07-23"
+    },
+    {
+      "url": "https://prtimes.jp/main/html/rd/p/000000030.000070300.html",
+      "date": "2026-07-24"
     }
   ],
   "AI": [
-    {
-      "url": "https://www.cnbc.com/2026/07/16/alphabet-stock-gemini-3-5-pro-ai.html",
-      "date": "2026-07-17"
-    },
     {
       "url": "https://www.nikkei.com/article/DGXZQOGN17CN50X10C26A7000000/",
       "date": "2026-07-18"
@@ -87,13 +83,13 @@
     {
       "url": "https://www.jiji.com/jc/article?k=2026072200774&g=int",
       "date": "2026-07-23"
+    },
+    {
+      "url": "https://www.wsj.com/tech/ai/house-lawmakers-introduce-bipartisan-ai-kill-switch-bill-following-openai-cyber-incident-25c8c178",
+      "date": "2026-07-24"
     }
   ],
   "Gaming Monitor": [
-    {
-      "url": "https://www.ign.com/articles/asus-rog-swift-oled-gaming-monitor-deal",
-      "date": "2026-07-17"
-    },
     {
       "url": "https://www.techpowerup.com/350854/msi-adds-new-320-hz-and-180-hz-wqhd-gaming-monitors-to-its-mag-lineup",
       "date": "2026-07-18"
@@ -117,13 +113,13 @@
     {
       "url": "https://www.rtings.com/monitor/reviews/best/ps5",
       "date": "2026-07-23"
+    },
+    {
+      "url": "https://pc.watch.impress.co.jp/docs/news/2127493.html",
+      "date": "2026-07-24"
     }
   ],
   "TCL": [
-    {
-      "url": "https://videocardz.com/newz/lenovo-legion-r9000p-is-the-first-laptop-with-tcl-csots-inkjet-printed-oled-panel",
-      "date": "2026-07-17"
-    },
     {
       "url": "https://www.techtimes.com/articles/320798/20260717/printed-oled-leaves-lab-lenovo-legion-r9000p-first-laptop-ijp-panel.htm",
       "date": "2026-07-18"
@@ -147,13 +143,13 @@
     {
       "url": "https://getnavi.jp/appliances/1108889/",
       "date": "2026-07-23"
+    },
+    {
+      "url": "https://www.flatpanelshd.com/news.php?subaction=showfull&id=1784782973",
+      "date": "2026-07-24"
     }
   ],
   "Camera Control": [
-    {
-      "url": "https://petapixel.com/2026/07/16/dji-used-an-ai-generated-person-in-an-ad-angering-the-actual-humans-who-buy-products/",
-      "date": "2026-07-17"
-    },
     {
       "url": "https://petapixel.com/2026/07/17/us-approves-gigantic-satellite-mirror-that-will-illuminate-the-earth-at-night/",
       "date": "2026-07-18"
@@ -177,13 +173,13 @@
     {
       "url": "https://dc.watch.impress.co.jp/docs/news/2127017.html",
       "date": "2026-07-23"
+    },
+    {
+      "url": "https://petapixel.com/2026/07/23/youll-always-be-able-to-find-these-new-camera-batteries/",
+      "date": "2026-07-24"
     }
   ],
   "LED Wall Display": [
-    {
-      "url": "https://news.rthk.hk/rthk/en/component/k2/1862554-20260717.htm",
-      "date": "2026-07-17"
-    },
     {
       "url": "https://www.digitalsignagetoday.com/news/korbyt-integrates-with-canva-appoints-svp-receives-awards/",
       "date": "2026-07-18"
@@ -207,13 +203,13 @@
     {
       "url": "https://www.digitalsignagetoday.com/resources/smart-screens-that-see-how-ai-audience-detection-turns-digital-signage-into-a-performance-channel/",
       "date": "2026-07-23"
+    },
+    {
+      "url": "https://www.digitalsignagetoday.com/news/praevar-launches-vanguard-series-boasting-lower-ownership-cost-for-outdoor-digital-signage/",
+      "date": "2026-07-24"
     }
   ],
   "SONY": [
-    {
-      "url": "https://diamond.jp/articles/-/394901",
-      "date": "2026-07-17"
-    },
     {
       "url": "https://www.cined.com/sony-alpha-7r-vi-announced-66-8mp-stacked-sensor-8k-30p-4k-120p-and-sensor-level-dual-gain/",
       "date": "2026-07-18"
@@ -237,13 +233,13 @@
     {
       "url": "https://www.cined.com/sony-fx5-announced-full-frame-5k-open-gate-internal-x-ocn-raw-three-base-isos-4k-240p/",
       "date": "2026-07-23"
+    },
+    {
+      "url": "https://petapixel.com/2026/07/23/why-the-sony-fx5-is-sonys-most-important-cinema-camera-ever/",
+      "date": "2026-07-24"
     }
   ],
   "TV": [
-    {
-      "url": "https://news.yahoo.co.jp/articles/3e340f0a160f24c71bd54a4e0615d27abf3e8045",
-      "date": "2026-07-17"
-    },
     {
       "url": "https://www.popularmechanics.com/technology/gear/a72702219/why-you-should-buy-a-2025-tv-in-2026/",
       "date": "2026-07-18"
@@ -267,13 +263,13 @@
     {
       "url": "https://prtimes.jp/main/html/rd/p/000002324.000002734.html",
       "date": "2026-07-23"
+    },
+    {
+      "url": "https://www.whathifi.com/tv-home-cinema/televisions/lgs-creator-original-picture-mode-lets-filmmakers-tweak-your-tvs-picture-but-we-have-questions",
+      "date": "2026-07-24"
     }
   ],
   "Projector": [
-    {
-      "url": "https://av.watch.impress.co.jp/docs/news/2125745.html",
-      "date": "2026-07-17"
-    },
     {
       "url": "https://www.techtimes.com/articles/320820/20260717/optoma-uhr90dv-hits-japan-market-rgb-triple-laser-meets-dolby-vision-imax-enhanced.htm",
       "date": "2026-07-18"
@@ -297,6 +293,10 @@
     {
       "url": "https://news.yahoo.co.jp/articles/545b8d7cdfc05f4483e2a9c2138375290e38906e",
       "date": "2026-07-23"
+    },
+    {
+      "url": "https://mashable.com/tech/hisense-px4-pro-4k-triple-laser-projector",
+      "date": "2026-07-24"
     }
   ]
 }

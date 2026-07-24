@@ -1,0 +1,102 @@
+{
+  "SRD / XR": {
+    "title": "次世代XRライブ：5GとスマホでVTuberのリアルタイム共演",
+    "summary": "Samsung Galaxyの折りたたみスマホと5Gミリ波通信を活用し、複数のVTuberを同一空間にリアルタイムで出現させるXRライブ実証実験が話題に。低遅延ネットワークによる次世代の没入体験の可能性を示しています。",
+    "insight": "5Gミリ波の広帯域かつ低遅延な特性を活かし、レンダリング負荷の高いモデルをモバイル端末でリアルタイム同期させる技術は、モバイルXRにおける重要なマイルストーンです。エッジコンピューティングとデバイス側の最適化が進めば、ARライブの演出において大規模かつインタラクティブな表現が可能になるでしょう。",
+    "sourceUrl": "https://prtimes.jp/main/html/rd/p/000000030.000070300.html",
+    "sourceName": "PR TIMES",
+    "originalImageUrl": "https://prcdn.freetls.fastly.net/release_image/70300/30/70300-30-35a8902c9614b95043a50fe332faf8d2-1920x1080.png?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+    "originalImageArticleUrl": "https://prtimes.jp/main/html/rd/p/000000030.000070300.html",
+    "displayDate": "2026-07-24"
+  },
+  "AI": {
+    "title": "OpenAIのインシデントを受け米議会がAI「キルスイッチ」法案を検討",
+    "summary": "OpenAIで発生したサイバーインシデントをきっかけに、米下院議員がAIの暴走を阻止する緊急停止機能（キルスイッチ）を義務付ける法案を提出しました。AIの安全性確保が政府レベルで喫緊の課題となっています。",
+    "insight": "AIモデルの普及に伴い、意図しない挙動や外部攻撃への対策として「安全な停止手段」の実装がエンジニアの必須要件になりつつあります。今後、AI開発におけるガバナンスや障害時のフェイルセーフ設計がシステムの標準仕様としてより重視されるでしょう。",
+    "sourceUrl": "https://www.wsj.com/tech/ai/house-lawmakers-introduce-bipartisan-ai-kill-switch-bill-following-openai-cyber-incident-25c8c178",
+    "sourceName": "WSJ",
+    "originalImageUrl": null,
+    "originalImageArticleUrl": "https://www.wsj.com/tech/ai/house-lawmakers-introduce-bipartisan-ai-kill-switch-bill-following-openai-cyber-incident-25c8c178",
+    "displayDate": "2026-07-24"
+  },
+  "TCL": {
+    "title": "TCL、Samsung「The Frame」対抗の新TVシリーズを発表",
+    "summary": "TCLは、Samsungのライフスタイルテレビ「The Frame」を強く意識した、新しい「Nxtvision」シリーズのテレビ3機種を発表しました。インテリアに溶け込むデザインと没入感のある映像体験の両立を目指しており、今後のスマートTV市場におけるデザイン競争を加速させそうです。",
+    "insight": "家電製品におけるハードウェアの性能競争がコモディティ化する中、インテリアとしての「美学」を重視したデザイン戦略が重要性を増しています。エンジニアとしては、単なるスペックアップだけでなく、生活空間への最適化やUI/UXのシームレスな統合が今後の製品開発における差別化要因になると考えられます。",
+    "sourceUrl": "https://www.flatpanelshd.com/news.php?subaction=showfull&id=1784782973",
+    "sourceName": "FlatpanelsHD",
+    "originalImageUrl": "https://www.flatpanelshd.com/pictures/tclstarrynight_1_small.jpg",
+    "originalImageArticleUrl": "https://www.flatpanelshd.com/news.php?subaction=showfull&id=1784782973",
+    "displayDate": "2026-07-24"
+  },
+  "SONY": {
+    "title": "ソニーが新型シネマカメラ「FX5」を発表",
+    "summary": "ソニーはCinema Lineシリーズの最新モデル「FX5」を発表しました。フルサイズセンサーを搭載し、オープンゲート記録や内部RAW撮影に対応するなど、プロの映像制作現場のワークフローを効率化する小型かつ高性能な設計が注目されています。",
+    "insight": "FX5の採用するオープンゲート記録（センサーの全領域を記録）は、後工程でのクロップやアスペクト比調整の自由度を高める重要な技術です。映像データの内部RAW処理能力とあわせて、高負荷な処理をエッジ側でいかに最適化しているかという観点で、ハードウェアとソフトウェアの統合制御の進化が見て取れます。",
+    "sourceUrl": "https://petapixel.com/2026/07/23/why-the-sony-fx5-is-sonys-most-important-cinema-camera-ever/",
+    "sourceName": "PetaPixel",
+    "originalImageUrl": "https://petapixel.com/assets/uploads/2026/07/sony-fx5-oped-featured.jpg",
+    "originalImageArticleUrl": "https://petapixel.com/2026/07/23/why-the-sony-fx5-is-sonys-most-important-cinema-camera-ever/",
+    "displayDate": "2026-07-24"
+  },
+  "Camera Control": {
+    "title": "紛失防止機能付き！USB-C充電対応のカメラバッテリー",
+    "summary": "Falcamが発表した「TagBatt」は、USB-C端子による直接充電とAppleの「探す（Find My）」ネットワークに対応した画期的なカメラバッテリーです。Sony NP-FZ100やCanon LP-E6互換品が登場しており、撮影現場で最も紛失しやすいアクセサリーの管理課題を解決します。",
+    "insight": "ハードウェアレベルでの位置情報追跡機能の実装は、IoTデバイスの新たなトレンドです。特にカメラ周辺機器のような高単価な消耗品において、通信機能と給電機能を一体化させる設計は、エンジニアリングにおけるUX改善の好例と言えます。",
+    "sourceUrl": "https://petapixel.com/2026/07/23/youll-always-be-able-to-find-these-new-camera-batteries/",
+    "sourceName": "PetaPixel",
+    "originalImageUrl": "https://petapixel.com/assets/uploads/2026/07/Falcam-TagBatt-PetaPixel-Cover.jpg",
+    "originalImageArticleUrl": "https://petapixel.com/2026/07/23/youll-always-be-able-to-find-these-new-camera-batteries/",
+    "displayDate": "2026-07-24"
+  },
+  "TV": {
+    "title": "制作者がTV画質を調整？LGの新しい試み",
+    "summary": "LGが搭載した「Creator Original Picture Mode」は、映画制作者が直接TVの画質設定を調整できる機能です。クリエイターの意図を忠実に再現する試みですが、視聴体験への影響や標準化の課題について議論が巻き起こっています。",
+    "insight": "AV機器の表示エンジンがブラックボックスから開放され、コンテンツ側から制御されるようになる点は興味深いトレンドです。APIやメタデータによるUI制御の標準化は、フロントエンドエンジニアにとってもインターフェース設計の示唆に富んでいます。",
+    "sourceUrl": "https://www.whathifi.com/tv-home-cinema/televisions/lgs-creator-original-picture-mode-lets-filmmakers-tweak-your-tvs-picture-but-we-have-questions",
+    "sourceName": "What Hi-Fi?",
+    "originalImageUrl": "https://cdn.mos.cms.futurecdn.net/K8u56zsoK6xe7soXEp6WRZ-1920-80.jpg",
+    "originalImageArticleUrl": "https://www.whathifi.com/tv-home-cinema/televisions/lgs-creator-original-picture-mode-lets-filmmakers-tweak-your-tvs-picture-but-we-have-questions",
+    "displayDate": "2026-07-24"
+  },
+  "Gaming Monitor": {
+    "title": "ついに本格導入、PC操作をAIに委ねる新時代",
+    "summary": "macOS/Windows版ChatGPTデスクトップアプリに、リアルタイム音声会話機能が実装されました。キーボード入力を介さず、話しかけるだけでPC操作やエージェントへの指示出しが可能になり、作業効率を劇的に変える可能性を秘めています。",
+    "insight": "LLMによるGUI操作の自動化は、エンジニアにとって新たなワークフロー構築のチャンスです。今後は自然言語による複雑なタスクチェーンの設計が、開発者の生産性を左右する重要なスキルになるでしょう。",
+    "sourceUrl": "https://pc.watch.impress.co.jp/docs/news/2127493.html",
+    "sourceName": "PC Watch",
+    "originalImageUrl": "https://pc.watch.impress.co.jp/img/pcw/list/2127/493/01.png",
+    "originalImageArticleUrl": "https://pc.watch.impress.co.jp/docs/news/2127493.html",
+    "displayDate": "2026-07-24"
+  },
+  "Projector": {
+    "title": "最新4Kトリプルレーザープロジェクターの進化",
+    "summary": "Hisenseから200インチの大画面を実現する「PX4 Pro」が登場。トリプルレーザー技術により、自宅を映画館に変える高画質なホームシアター体験が可能になりました。",
+    "insight": "プロジェクターの進化において、単なる解像度だけでなく、レーザー光源による色再現性とコントラスト比の向上がホームシアター体験の質を劇的に変えています。エンジニアの視点では、ハードウェアのスペック競争が落ち着いた今、光学的アプローチや投影環境（スクリーンの平滑性など）の最適化が重要になっています。",
+    "sourceUrl": "https://mashable.com/tech/hisense-px4-pro-4k-triple-laser-projector",
+    "sourceName": "Mashable",
+    "originalImageUrl": "https://helios-i.mashable.com/imagery/articles/03UtdKIQve2UZJkEQi1DsuP/hero-image.fill.size_1200x675.v1784724313.png",
+    "originalImageArticleUrl": "https://mashable.com/tech/hisense-px4-pro-4k-triple-laser-projector",
+    "displayDate": "2026-07-24"
+  },
+  "LED Wall Display": {
+    "title": "屋外用LEDの運用コストを削減する新シリーズが登場",
+    "summary": "Praevar社が屋外用デジタルサイネージ向け「Vanguardシリーズ」を発表しました。従来のモデルと比較して所有総コスト（TCO）を低減することに注力しており、屋外環境での運用負荷を下げることが期待されます。",
+    "insight": "デジタルサイネージにおけるTCO削減は、単なるハードウェアの価格だけでなく、保守や電力効率が鍵です。エンジニアの視点では、クラウドベースの管理システムと高耐久なハード設計の統合が、長期的な信頼性と運用自動化の最適解となるでしょう。",
+    "sourceUrl": "https://www.digitalsignagetoday.com/news/praevar-launches-vanguard-series-boasting-lower-ownership-cost-for-outdoor-digital-signage/",
+    "sourceName": "Digital Signage Today",
+    "originalImageUrl": "https://nmgprod.s3.amazonaws.com/media/file/91/3c/ccbbda2f71c71f48caa536a98006/cover_image__taGKsMw3__Praevar.png.360x190_q85_crop_upscale.webp",
+    "originalImageArticleUrl": "https://www.digitalsignagetoday.com/news/praevar-launches-vanguard-series-boasting-lower-ownership-cost-for-outdoor-digital-signage/",
+    "displayDate": "2026-07-24"
+  },
+  "Production Monitor": {
+    "title": "映像エンジニア必見：無料の検証・コピーツール「Ingesto」",
+    "summary": "撮影データの取り込みに特化した無料ツール「Ingesto」がMac/Windows向けに公開されました。コピーと同時にビット単位の検証とチェックサムを行うことで、データの整合性を担保し、安全なカード消去を支援する、現場の信頼性を高めるツールです。",
+    "insight": "データの完全性をビットレベルのチェックサムで検証するワークフローは、分散システムや信頼性エンジニアリングにおける「堅牢なデータ転送」の好例です。手軽なツールでありながら、バックグラウンドでのハッシュ検証を自動化する設計は、開発者が扱うログ収集ツールなどの設計にも応用できる考え方です。",
+    "sourceUrl": "https://www.newsshooter.com/2026/07/22/ingesto-free-camera-card-offload-tool-for-mac-windows/",
+    "sourceName": "Newsshooter",
+    "originalImageUrl": "https://www.provideocoalition.com/wp-content/uploads/megadapadapter001-1.jpg",
+    "originalImageArticleUrl": "https://www.provideocoalition.com/megadap-worlds-first-leica-m-to-canon-rf-autofocus-adapter/",
+    "displayDate": "2026-07-24"
+  }
+}
