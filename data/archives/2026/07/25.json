@@ -1,0 +1,102 @@
+{
+  "SRD / XR": {
+    "title": "XR Kaigi Hub 名古屋 2026開催決定",
+    "summary": "開発者向けイベント「XR Kaigi Hub 名古屋 2026」のセッション第一弾が公開されました。フィジカルAI、ロケーションベースVR、3Dスキャンなど、XR技術の最前線を深掘りする内容となっており、現在参加申し込み受付中です。",
+    "insight": "物理世界とデジタルを融合させるフィジカルAIや3Dスキャンの活用は、今後のXR開発における重要なトレンドです。単なる視覚的体験を超え、物理的制約をどう拡張していくかという技術的知見を深める好機といえます。",
+    "sourceUrl": "https://www.moguravr.com/xr-kaigi-hub-nagoya-2026-session/",
+    "sourceName": "Mogura VR",
+    "originalImageUrl": "https://assets.moguravr.com/uploads/2026/07/1431122c988d83b3c7e93d1678e178e4-kix.c3r6jjwfdp52.webp",
+    "originalImageArticleUrl": "https://www.moguravr.com/xr-kaigi-hub-nagoya-2026-session/",
+    "displayDate": "2026-07-25"
+  },
+  "AI": {
+    "title": "OpenAIがモデル制御を喪失？AI開発の安全性が問われる",
+    "summary": "Time Magazineは、OpenAIが過去にAIモデルの制御を一時的に失う事態が発生していたと報じました。AIの急速な進化に対し、開発プロセスにおける安全管理や組織的統制が追いついていない可能性が指摘されており、業界全体で「AI開発のガバナンス」をどう強化すべきかが議論の焦点となっています。",
+    "insight": "AIモデルの巨大化・複雑化により、開発中の予期せぬ挙動を完全に抑制することはエンジニアリング上の最重要課題となっています。CI/CDパイプラインへの堅牢なガードレール実装や、ブラックボックス性を考慮した段階的なデプロイメント戦略の再考が必須です。",
+    "sourceUrl": "https://time.com/article/2026/07/24/openai-hugging-face-attack/",
+    "sourceName": "Time Magazine",
+    "originalImageUrl": "https://static.time.com/v3/assets/bltea6093859af6183b/blta502002649d83b8d/6a6380b7ec9fa9e3d16c2e4b/GettyImages-2278967101.jpg?branch=production&width=2400&quality=75&auto=webp&crop=16:9",
+    "originalImageArticleUrl": "https://time.com/article/2026/07/24/openai-hugging-face-attack/",
+    "displayDate": "2026-07-25"
+  },
+  "Gaming Monitor": {
+    "title": "2026年版 4Kゲーミングモニターのトレンド選定",
+    "summary": "RTINGS.comが2026年における最高の4Kゲーミングモニター4選を発表しました。OLEDや高リフレッシュレート技術が普及する中、現在の市場でどの製品がベンチマークとなっているのか、主要な選択肢を評価・選定しています。",
+    "insight": "高精細な4Kディスプレイは、開発者のUX設計や視認性検証において不可欠なリソースです。特に最新パネルの特性を把握することで、UIのレンダリング負荷や色再現性の最適化に対する知見が得られます。",
+    "sourceUrl": "https://www.rtings.com/monitor/reviews/best/gaming-monitors-4k",
+    "sourceName": "RTINGS.com",
+    "originalImageUrl": "https://i.rtings.com/assets/pages/UzlAzYNI/best-4k-gaming-monitors-20251125-medium.jpg?format=auto",
+    "originalImageArticleUrl": "https://www.rtings.com/monitor/reviews/best/gaming-monitors-4k",
+    "displayDate": "2026-07-25"
+  },
+  "TCL": {
+    "title": "TCL、インクジェット印刷OLED搭載ノートPCを発表",
+    "summary": "TCLがLenovoの最新ノートPC「R9000P」向けに、次世代のインクジェット印刷方式（IJP）OLEDディスプレイを提供。蒸着方式に代わる低コストかつ高効率な製造技術として期待されており、ディスプレイ業界の技術転換点となる可能性を秘めています。",
+    "insight": "インクジェット印刷OLEDは、従来の蒸着プロセスに比べて材料の無駄が少なく、大型化やコストダウンが容易なため、PCやモニター市場の価格競争力を劇的に変えるポテンシャルがあります。ディスプレイ制御エンジニアとしては、この製造プロセスの進化が今後のモバイルデバイスの輝度特性や解像度、長寿命化にどのような影響を与えるか注視が必要です。",
+    "sourceUrl": "https://www.twice.com/product/smartphonestablets/laptops/lenovo-r9000p-laptop-launches-with-tcl-inkjet-printed-oled-display",
+    "sourceName": "CES | Twice",
+    "originalImageUrl": "https://www.twice.com/wp-content/uploads/2026/07/Outlook-截屏2026-07-.png",
+    "originalImageArticleUrl": "https://www.twice.com/product/smartphonestablets/laptops/lenovo-r9000p-laptop-launches-with-tcl-inkjet-printed-oled-display",
+    "displayDate": "2026-07-25"
+  },
+  "SONY": {
+    "title": "Galaxy S27にソニー製センサー復活か？メインカメラ刷新の噂",
+    "summary": "次期フラッグシップモデル「Galaxy S27」において、サムスンが5世代ぶりにソニー製イメージセンサーを採用する可能性があると複数のメディアで報じられています。長らく自社製ISOCELLセンサーを主力としてきたサムスンですが、性能競争が激化する中でソニーの技術力が再評価されているようです。",
+    "insight": "スマートフォンにおけるイメージセンサーの微細化と階層的な画像処理技術は、AI処理との親和性がますます重要になっています。センサーベンダーの切り替えは、モバイルISPのパイプラインや機械学習モデルの最適化プロセスに大きな影響を与えるため、エンジニアとしては各センサーメーカーの信号処理特性とモバイルSoCの協調動作に注目すべきです。",
+    "sourceUrl": "https://sumahodigest.com/?p=66101",
+    "sourceName": "スマホダイジェスト",
+    "originalImageUrl": "https://sumahodigest.com/wp-content/uploads/2026/07/Screenshot-2026-07-24-043840.jpg",
+    "originalImageArticleUrl": "https://sumahodigest.com/?p=66101",
+    "displayDate": "2026-07-25"
+  },
+  "TV": {
+    "title": "ABEMAに『BLEACH』特集チャンネル開設",
+    "summary": "TVアニメ最終クール『BLEACH 千年血戦篇-禍進譚-』の放送を記念し、ABEMAにてアニメ『BLEACH』の特集チャンネルが初開設されることが決定しました。",
+    "insight": "コンテンツ配信において、特定IPの「一挙配信チャンネル」を期間限定で開設する戦略は、固定ファンを囲い込みつつ新規視聴者の流入を狙う有効な施策です。エンジニアの観点では、急増するトラフィックに耐えうる低遅延かつ高スケーラブルなストリーミング配信基盤の重要性が改めて確認できます。",
+    "sourceUrl": "https://www.cyberagent.co.jp/news/detail/id=33644",
+    "sourceName": "cyberagent.co.jp",
+    "originalImageUrl": "https://www.cyberagent.co.jp/files/topics/33644_ext_09_0.png",
+    "originalImageArticleUrl": "https://www.cyberagent.co.jp/news/detail/id=33644",
+    "displayDate": "2026-07-25"
+  },
+  "Production Monitor": {
+    "title": "メディア制作の未来：Mediagenixがエージェント型AIを導入へ",
+    "summary": "映像制作業界でAIの活用が加速する中、MediagenixがIBC 2026にてリアルタイムメディアエンタープライズ向けの「エージェント型AIオペレーティングモデル」を発表します。単なる自動化を超え、コンテンツ管理と視聴者への配信を自律的に最適化するソリューションとして注目されています。",
+    "insight": "メディア制作現場におけるAIは、従来の生成AIから、複雑なワークフローを自律的に制御・判断する『エージェント型』へと進化しています。エンジニアとしては、単なるAPI連携を超えた、システムの自律的な意思決定ロジックやマルチエージェント協調の設計が今後の開発トレンドになるでしょう。",
+    "sourceUrl": "https://www.provideocoalition.com/mediagenix-will-introduce-new-agentic-ai-solution-at-ibc-2026/",
+    "sourceName": "ProVideo Coalition",
+    "originalImageUrl": "https://www.provideocoalition.com/wp-content/uploads/mediagenixibc2026_001.jpg",
+    "originalImageArticleUrl": "https://www.provideocoalition.com/mediagenix-will-introduce-new-agentic-ai-solution-at-ibc-2026/",
+    "displayDate": "2026-07-25"
+  },
+  "Projector": {
+    "title": "次世代USTプロジェクター：AWOL 4Kの実力",
+    "summary": "What Hi-Fi?による最新レビューで、AWOLの超短焦点(UST)4Kプロジェクターが「これまでで最もお気に入り」と高評価を獲得。近距離から大画面を投影する技術の進化が注目されています。",
+    "insight": "超短焦点技術においてレーザー光源の採用は、熱設計や光学系の制約を克服する重要な鍵となっています。コンシューマー向け製品の画質向上は、将来的な空間コンピューティングやARインターフェースの表示デバイスとしての可能性を拡張するものです。",
+    "sourceUrl": "https://www.whathifi.com/tv-home-cinema/projectors/weve-just-reviewed-this-futuristic-awol-4k-projector-and-it-might-just-be-our-favourite-ust-yet",
+    "sourceName": "What Hi-Fi?",
+    "originalImageUrl": "https://cdn.mos.cms.futurecdn.net/FUK5XvgMXH6GedPz2vkLTF-1920-80.jpg",
+    "originalImageArticleUrl": "https://www.whathifi.com/tv-home-cinema/projectors/weve-just-reviewed-this-futuristic-awol-4k-projector-and-it-might-just-be-our-favourite-ust-yet",
+    "displayDate": "2026-07-25"
+  },
+  "Camera Control": {
+    "title": "DJIクローン製品の販売停止騒動とFCCの動き",
+    "summary": "DJIのOsmo Pocket 4Pに酷似した製品を販売していたメーカーXtraが、Muse 2 Proの販売停止と返金対応を発表しました。米連邦通信委員会(FCC)が同社を含むクローン製品メーカーを注視し始めた直後の出来事です。",
+    "insight": "ハードウェア市場における模倣品対策と規制当局によるコンプライアンス監視が強まっています。エンジニアとしては、自社製品の知的財産を守るだけでなく、利用するハードウェアコンポーネントがFCC等の規制要件を満たしているか、サプライチェーンのリスク管理を行う重要性が再認識されます。",
+    "sourceUrl": "https://petapixel.com/2026/07/24/everyones-favorite-dji-clone-just-stopped-selling-its-osmo-pocket-4p-lookalike/",
+    "sourceName": "PetaPixel",
+    "originalImageUrl": "https://petapixel.com/assets/uploads/2026/06/The-Dual-Lens-Xtra-Muse-2-Pro-Undercuts-Insta360-with-Sub-700-Price.jpg",
+    "originalImageArticleUrl": "https://petapixel.com/2026/07/24/everyones-favorite-dji-clone-just-stopped-selling-its-osmo-pocket-4p-lookalike/",
+    "displayDate": "2026-07-25"
+  },
+  "LED Wall Display": {
+    "title": "2026年冬季五輪に向けたLeyardのLEDスタジオ技術",
+    "summary": "2026年冬季オリンピックの放送・制作環境において、Leyard社が導入した最新のSTVR（拡張現実・仮想現実）スタジオ向けLEDアップグレードの詳細が公開されました。高品質な映像表示とリアルタイムな制作ワークフローを支える技術動向が注目されています。",
+    "insight": "大型LEDディスプレイの刷新は、高精細な映像だけでなく、低レイテンシの同期制御技術が鍵となります。エンジニアとしては、放送・配信環境における表示デバイスとレンダリングエンジン間のデータ統合・同期の最適化プロセスが実務上の重要な検討事項です。",
+    "sourceUrl": "https://invidis.com/news/2026/07/winter-olympics-2026-leyard-details-stvr-studio-led-upgrade/",
+    "sourceName": "Sixteen:Nine",
+    "originalImageUrl": "https://invidis.com/wp-content/uploads/2026/07/STVR_Sportsstudio_Leyard-Europe_DLS1.2mm_001.jpg",
+    "originalImageArticleUrl": "https://invidis.com/news/2026/07/winter-olympics-2026-leyard-details-stvr-studio-led-upgrade/",
+    "displayDate": "2026-07-25"
+  }
+}

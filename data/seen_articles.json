@@ -1,10 +1,6 @@
 {
   "Production Monitor": [
     {
-      "url": "https://www.cined.com/arri-sells-its-rental-business-dji-front-companies-fined-sony-rx10-v-focus-check-ep125/",
-      "date": "2026-07-18"
-    },
-    {
       "url": "https://www.cined.com/hd-air-studio-halo-modular-gimbal-debuts-15kg-payload-360-roll-and-pan-handheld-to-remote-head/",
       "date": "2026-07-19"
     },
@@ -27,13 +23,13 @@
     {
       "url": "https://www.provideocoalition.com/megadap-worlds-first-leica-m-to-canon-rf-autofocus-adapter/",
       "date": "2026-07-24"
+    },
+    {
+      "url": "https://www.provideocoalition.com/mediagenix-will-introduce-new-agentic-ai-solution-at-ibc-2026/",
+      "date": "2026-07-25"
     }
   ],
   "SRD / XR": [
-    {
-      "url": "https://www.jp.square-enix.com/topics/detail/4110/",
-      "date": "2026-07-18"
-    },
     {
       "url": "https://idolmaster-official.jp/news/01_19391",
       "date": "2026-07-19"
@@ -57,13 +53,13 @@
     {
       "url": "https://prtimes.jp/main/html/rd/p/000000030.000070300.html",
       "date": "2026-07-24"
+    },
+    {
+      "url": "https://www.moguravr.com/xr-kaigi-hub-nagoya-2026-session/",
+      "date": "2026-07-25"
     }
   ],
   "AI": [
-    {
-      "url": "https://www.nikkei.com/article/DGXZQOGN17CN50X10C26A7000000/",
-      "date": "2026-07-18"
-    },
     {
       "url": "https://news.yahoo.co.jp/articles/49281ebc393d0411ea20575753a37a380d19bbf6",
       "date": "2026-07-19"
@@ -87,13 +83,13 @@
     {
       "url": "https://www.wsj.com/tech/ai/house-lawmakers-introduce-bipartisan-ai-kill-switch-bill-following-openai-cyber-incident-25c8c178",
       "date": "2026-07-24"
+    },
+    {
+      "url": "https://time.com/article/2026/07/24/openai-hugging-face-attack/",
+      "date": "2026-07-25"
     }
   ],
   "Gaming Monitor": [
-    {
-      "url": "https://www.techpowerup.com/350854/msi-adds-new-320-hz-and-180-hz-wqhd-gaming-monitors-to-its-mag-lineup",
-      "date": "2026-07-18"
-    },
     {
       "url": "https://mashable.com/tech/july-8-lg-27-inch-ultragear-monitor-deal",
       "date": "2026-07-19"
@@ -117,13 +113,13 @@
     {
       "url": "https://pc.watch.impress.co.jp/docs/news/2127493.html",
       "date": "2026-07-24"
+    },
+    {
+      "url": "https://www.rtings.com/monitor/reviews/best/gaming-monitors-4k",
+      "date": "2026-07-25"
     }
   ],
   "TCL": [
-    {
-      "url": "https://www.techtimes.com/articles/320798/20260717/printed-oled-leaves-lab-lenovo-legion-r9000p-first-laptop-ijp-panel.htm",
-      "date": "2026-07-18"
-    },
     {
       "url": "https://www.rtings.com/tv/learn/research/smart-tv-tracking",
       "date": "2026-07-19"
@@ -147,13 +143,13 @@
     {
       "url": "https://www.flatpanelshd.com/news.php?subaction=showfull&id=1784782973",
       "date": "2026-07-24"
+    },
+    {
+      "url": "https://www.twice.com/product/smartphonestablets/laptops/lenovo-r9000p-laptop-launches-with-tcl-inkjet-printed-oled-display",
+      "date": "2026-07-25"
     }
   ],
   "Camera Control": [
-    {
-      "url": "https://petapixel.com/2026/07/17/us-approves-gigantic-satellite-mirror-that-will-illuminate-the-earth-at-night/",
-      "date": "2026-07-18"
-    },
     {
       "url": "https://www.sonyalpharumors.com/sony-fx5-might-be-able-to-record-240fps-in-4k-via-future-firmware-update/",
       "date": "2026-07-19"
@@ -177,13 +173,13 @@
     {
       "url": "https://petapixel.com/2026/07/23/youll-always-be-able-to-find-these-new-camera-batteries/",
       "date": "2026-07-24"
+    },
+    {
+      "url": "https://petapixel.com/2026/07/24/everyones-favorite-dji-clone-just-stopped-selling-its-osmo-pocket-4p-lookalike/",
+      "date": "2026-07-25"
     }
   ],
   "LED Wall Display": [
-    {
-      "url": "https://www.digitalsignagetoday.com/news/korbyt-integrates-with-canva-appoints-svp-receives-awards/",
-      "date": "2026-07-18"
-    },
     {
       "url": "https://www.ad-hoc-news.de/boerse/news/ueberblick/lg-magnit-all-in-one-163-lg-electronics-pushes-giant-led-for-pro-spaces/69794550",
       "date": "2026-07-19"
@@ -207,13 +203,13 @@
     {
       "url": "https://www.digitalsignagetoday.com/news/praevar-launches-vanguard-series-boasting-lower-ownership-cost-for-outdoor-digital-signage/",
       "date": "2026-07-24"
+    },
+    {
+      "url": "https://invidis.com/news/2026/07/winter-olympics-2026-leyard-details-stvr-studio-led-upgrade/",
+      "date": "2026-07-25"
     }
   ],
   "SONY": [
-    {
-      "url": "https://www.cined.com/sony-alpha-7r-vi-announced-66-8mp-stacked-sensor-8k-30p-4k-120p-and-sensor-level-dual-gain/",
-      "date": "2026-07-18"
-    },
     {
       "url": "https://www.gadgetbridge.com/iphone-18-pro-max-leaked-camera-specs-suggest-a-new-sony-imx905-main-camera-with-variable-aperture-details/",
       "date": "2026-07-19"
@@ -237,13 +233,13 @@
     {
       "url": "https://petapixel.com/2026/07/23/why-the-sony-fx5-is-sonys-most-important-cinema-camera-ever/",
       "date": "2026-07-24"
+    },
+    {
+      "url": "https://sumahodigest.com/?p=66101",
+      "date": "2026-07-25"
     }
   ],
   "TV": [
-    {
-      "url": "https://www.popularmechanics.com/technology/gear/a72702219/why-you-should-buy-a-2025-tv-in-2026/",
-      "date": "2026-07-18"
-    },
     {
       "url": "https://www.tomsguide.com/tvs/oled-tvs/lg-c6-vs-samsung-s90h-after-testing-both-heres-the-oled-tv-to-buy",
       "date": "2026-07-19"
@@ -267,13 +263,13 @@
     {
       "url": "https://www.whathifi.com/tv-home-cinema/televisions/lgs-creator-original-picture-mode-lets-filmmakers-tweak-your-tvs-picture-but-we-have-questions",
       "date": "2026-07-24"
+    },
+    {
+      "url": "https://www.cyberagent.co.jp/news/detail/id=33644",
+      "date": "2026-07-25"
     }
   ],
   "Projector": [
-    {
-      "url": "https://www.techtimes.com/articles/320820/20260717/optoma-uhr90dv-hits-japan-market-rgb-triple-laser-meets-dolby-vision-imax-enhanced.htm",
-      "date": "2026-07-18"
-    },
     {
       "url": "https://www.zaikei.co.jp/amp/article/20260718/861856.html",
       "date": "2026-07-19"
@@ -297,6 +293,10 @@
     {
       "url": "https://mashable.com/tech/hisense-px4-pro-4k-triple-laser-projector",
       "date": "2026-07-24"
+    },
+    {
+      "url": "https://www.whathifi.com/tv-home-cinema/projectors/weve-just-reviewed-this-futuristic-awol-4k-projector-and-it-might-just-be-our-favourite-ust-yet",
+      "date": "2026-07-25"
     }
   ]
 }
