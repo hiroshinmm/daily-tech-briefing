@@ -1,0 +1,102 @@
+{
+  "SRD / XR": {
+    "title": "横須賀市がRobloxでデジタルアイテムを無料配布",
+    "summary": "横須賀市はイグニサス株式会社と共同で、メタバースプラットフォーム「Roblox」内にて、市公認のデジタルアイテム「スカジャン」を限定300個無料配布する取り組みを開始しました。行政によるメタバース活用事例として注目されています。",
+    "insight": "自治体がRobloxなどのメタバースプラットフォームを活用し、NFTやデジタルアセットを通じた地域ブランディングを行う事例が増えています。実装面では、プラットフォーム固有の制約下でのアセット開発や、配布・管理といったオンチェーン/オフチェーンの連携技術がエンジニアにとって重要な知見となります。",
+    "sourceUrl": "https://www.moguravr.com/yokosuka-roblox-sukajan-free-item/",
+    "sourceName": "Mogura VR",
+    "originalImageUrl": "https://assets.moguravr.com/uploads/2026/07/45c87177293d430fe15da0171e641b35-kix.2y6qgvd2qe8l-300x169.webp",
+    "originalImageArticleUrl": "https://www.moguravr.com/yokosuka-roblox-sukajan-free-item/",
+    "displayDate": "2026-07-26"
+  },
+  "AI": {
+    "title": "AI界で急浮上！軽量化技術「蒸留（Distillation）」の注目度",
+    "summary": "シリコンバレーから政界まで、今AI業界で「蒸留（Distillation）」という概念が急速に注目を集めています。大規模モデルの知識を小規模なモデルに効率的に移転させるこの技術は、AIのコスト削減や性能最適化の鍵として期待されています。",
+    "insight": "LLMの推論コスト低減やエッジデバイスへのデプロイにおいて、蒸留はエンジニアにとって避けて通れない必須技術になりつつあります。単なるモデルの圧縮を超え、モデル間の知識継承プロセスの最適化が、次世代AI開発の差別化要因となるでしょう。",
+    "sourceUrl": "https://www.cnbc.com/2026/07/25/hat-is-distillation-and-why-is-everyone-so-obsessed-with-it-this-week.html",
+    "sourceName": "CNBC",
+    "originalImageUrl": "https://image.cnbcfm.com/api/v1/image/108254389-1772565827216-108254389-17689275282026-01-20t124808z_1149863023_rc205jas0xak_rtrmadp_0_davos-meeting.jpeg?v=1777907000&w=1920&h=1080",
+    "originalImageArticleUrl": "https://www.cnbc.com/2026/07/25/hat-is-distillation-and-why-is-everyone-so-obsessed-with-it-this-week.html",
+    "displayDate": "2026-07-26"
+  },
+  "TCL": {
+    "title": "Lenovo R9000PにTCL製インクジェット印刷OLEDを採用",
+    "summary": "Lenovoの最新ノートPC「R9000P」に、TCLが開発したインクジェット印刷方式のOLEDディスプレイが搭載されました。従来の蒸着方式よりもコスト効率に優れたインクジェット製造技術が、PC市場の実用レベルに本格導入されたことを示す重要なマイルストーンです。",
+    "insight": "インクジェット印刷技術は大型パネル製造の低コスト化を可能にする次世代技術であり、今回の採用は製造プロセスの成熟度を示しています。材料のロスが少なく大判化が容易なこの技術が、今後はノートPCから大型TVまでどのように普及するかが注視されます。",
+    "sourceUrl": "https://www.twice.com/product/smartphonestablets/laptops/lenovo-r9000p-laptop-launches-with-tcl-inkjet-printed-oled-display",
+    "sourceName": "CES | Twice",
+    "originalImageUrl": "https://www.twice.com/wp-content/uploads/2026/07/Outlook-截屏2026-07-.png",
+    "originalImageArticleUrl": "https://www.twice.com/product/smartphonestablets/laptops/lenovo-r9000p-laptop-launches-with-tcl-inkjet-printed-oled-display",
+    "displayDate": "2026-07-26"
+  },
+  "TV": {
+    "title": "OLEDテレビを長く使うための5つの習慣",
+    "summary": "OLED（有機EL）テレビの寿命と性能を維持するために、避けるべき5つの行動をまとめた記事。焼き付き防止や輝度設定など、高画質なディスプレイを最適に保つための具体的な運用上の注意点が解説されています。",
+    "insight": "OLEDは画素単位で制御されるため、静止画を長時間表示し続けることによる焼き付きのリスクが依然として課題です。エンジニアのディスプレイ環境でも同様の劣化特性があるため、OS側のスクリーンセーバー設定や静的コンテンツの配置を意識した開発環境の構築が推奨されます。",
+    "sourceUrl": "https://www.bgr.com/2219088/things-stop-doing-if-have-oled-tv/",
+    "sourceName": "bgr.com",
+    "originalImageUrl": "https://www.bgr.com/img/gallery/5-things-to-stop-doing-if-you-have-an-oled-tv/l-intro-1784573983.jpg",
+    "originalImageArticleUrl": "https://www.bgr.com/2219088/things-stop-doing-if-have-oled-tv/",
+    "displayDate": "2026-07-26"
+  },
+  "Camera Control": {
+    "title": "「コンパクトカメラ」は本当に小型なのか？定義の変化を考える",
+    "summary": "スマートフォンカメラの性能向上に伴い、かつて小型だったはずの「コンパクトカメラ」が大型化し、本来のカテゴリー定義から外れてきている現状を指摘する記事。ハードウェアの進化と市場のニーズの乖離について考察します。",
+    "insight": "ハードウェア製品において、かつての定義（小型であること）が市場環境の変化で形骸化する事例は、ソフトウェア設計におけるレガシーな命名規則やモジュール構造の維持にも通じる示唆があります。技術進化に合わせて、製品やコードの「あるべき姿」を再定義し続ける姿勢が重要です。",
+    "sourceUrl": "https://www.dpreview.com/opinion/a-growing-problem-compact-cameras-just-arent-compact/",
+    "sourceName": "DPReview",
+    "originalImageUrl": "https://www.dpreview.com/wp-content/uploads/2026/07/Canon_PowerShot_Elph_180.png",
+    "originalImageArticleUrl": "https://www.dpreview.com/opinion/a-growing-problem-compact-cameras-just-arent-compact/",
+    "displayDate": "2026-07-26"
+  },
+  "SONY": {
+    "title": "次期Galaxy S27はソニー製センサーを採用か",
+    "summary": "次期フラッグシップモデル「Samsung Galaxy S27」シリーズに関するリーク情報が浮上しました。複数の報道によると、同シリーズにはソニー製の最新カメラセンサーが搭載される見込みであり、カメラ性能の大幅な向上やハードウェアのアップグレードが期待されています。",
+    "insight": "スマホ向けイメージセンサー市場におけるソニーの圧倒的な技術的優位性と、競合他社のハイエンド機における供給チェーン上の重要性が改めて浮き彫りになりました。積層型センサー技術などの進歩が、今後どのようにモバイルデバイスの画質向上やAI処理性能と融合していくのか、エンジニアとして注目すべきトレンドです。",
+    "sourceUrl": "https://samsung.gadgethacks.com/news/galaxy-s27-camera-and-battery-leaks-hint-at-sony-sensor-upgrade/",
+    "sourceName": "Gadget Hacks",
+    "originalImageUrl": "https://assets.content.technologyadvice.com/photo_1620948492028_8c18c40747cf_b7c3f08576.webp",
+    "originalImageArticleUrl": "https://samsung.gadgethacks.com/news/galaxy-s27-camera-and-battery-leaks-hint-at-sony-sensor-upgrade/",
+    "displayDate": "2026-07-26"
+  },
+  "Gaming Monitor": {
+    "title": "MSIが世界初となる印刷方式のOLEDモニターを発表",
+    "summary": "MSIが、インクジェットプリンティング技術を用いた世界初のOLED（有機EL）モニターを発表しました。従来の蒸着方式と比較して、製造コストの低減や大型パネルの量産化、エネルギー効率の向上が期待できる革新的なディスプレイ製造技術として注目されています。",
+    "insight": "インクジェット印刷方式のOLEDは、ディスプレイ製造における材料の利用効率を劇的に改善できる可能性があります。エンジニアの視点では、この技術がコストダウンと大画面化を両立させることで、ハイエンド市場の勢力図をどう塗り替えるか注視すべきトピックです。",
+    "sourceUrl": "https://www.flatpanelshd.com/news.php?subaction=showfull&id=1784886261",
+    "sourceName": "FlatpanelsHD",
+    "originalImageUrl": "https://www.flatpanelshd.com/pictures/msi271UPJW12_1_small.jpg",
+    "originalImageArticleUrl": "https://www.flatpanelshd.com/news.php?subaction=showfull&id=1784886261",
+    "displayDate": "2026-07-26"
+  },
+  "Projector": {
+    "title": "次世代のTV代替？超短焦点プロジェクターが進化中",
+    "summary": "最新の超短焦点（UST）プロジェクターが、テレビの代替として急速に普及しています。AWOLなどの高評価モデルが登場し、4K解像度とレーザー光源により、かつてないクオリティのホームシアター体験がリビングで手軽に実現できるようになりました。",
+    "insight": "超短焦点技術は、従来のプロジェクターの設置課題を解決し、リビングの省スペース化を可能にします。エンジニアとしては、壁面照射時の歪み補正アルゴリズムや、高コントラストを実現するレーザーダイオードの制御技術といった「物理制約をソフトウェアで克服する」設計思想に注目です。",
+    "sourceUrl": "https://www.whathifi.com/tv-home-cinema/projectors/weve-just-reviewed-this-futuristic-awol-4k-projector-and-it-might-just-be-our-favourite-ust-yet",
+    "sourceName": "What Hi-Fi?",
+    "originalImageUrl": "https://cdn.mos.cms.futurecdn.net/FUK5XvgMXH6GedPz2vkLTF-1920-80.jpg",
+    "originalImageArticleUrl": "https://www.whathifi.com/tv-home-cinema/projectors/weve-just-reviewed-this-futuristic-awol-4k-projector-and-it-might-just-be-our-favourite-ust-yet",
+    "displayDate": "2026-07-26"
+  },
+  "Production Monitor": {
+    "title": "映像制作の革命：IMAX撮影の新時代へ",
+    "summary": "クリストファー・ノーラン監督の新作『The Odyssey』が、全編IMAX 15-perf/65mmフィルムで撮影されました。新開発の「Keighley」カメラにより、これまでノイズの問題で困難だった対話シーンを含めた全編撮影がついに実現し、映画制作の技術的限界を突破しました。",
+    "insight": "撮影機材の物理的制約（騒音や重量）をエンジニアリングで克服するアプローチは、現場のワークフローを根本から変える好例です。映像制作とハードウェア設計が密接に連携することで、表現の自由度が劇的に向上することを示唆しています。",
+    "sourceUrl": "https://www.cined.com/how-christopher-nolan-shot-the-odyssey-entirely-on-imax-film-inside-the-new-keighley-camera/",
+    "sourceName": "CineD",
+    "originalImageUrl": "https://www.cined.com/content/uploads/2026/07/Odyssey_IMAX_Camera_01-300x169.jpg",
+    "originalImageArticleUrl": "https://www.cined.com/how-christopher-nolan-shot-the-odyssey-entirely-on-imax-film-inside-the-new-keighley-camera/",
+    "displayDate": "2026-07-26"
+  },
+  "LED Wall Display": {
+    "title": "2026年冬季五輪、LeyardがSTVRスタジオを刷新",
+    "summary": "2026年ミラノ・コルティナダンペッツォ冬季五輪に向け、放送用LEDディスプレイ大手のLeyardがSTVR（Extended Reality）スタジオの技術アップグレードを実施。リアルタイム映像制作におけるLEDウォールの活用がさらに加速しています。",
+    "insight": "バーチャルプロダクションにおいて、高精細LEDウォールの高リフレッシュレート化と色再現性はカメラトラッキング精度に直結します。ハードウェアの低遅延化がソフトウェア側の描画パイプライン（Unreal Engine等）とどう同期されるかが、次世代スタジオ構築のエンジニアリング課題です。",
+    "sourceUrl": "https://invidis.com/news/2026/07/winter-olympics-2026-leyard-details-stvr-studio-led-upgrade/",
+    "sourceName": "Sixteen:Nine",
+    "originalImageUrl": "https://invidis.com/wp-content/uploads/2026/07/STVR_Sportsstudio_Leyard-Europe_DLS1.2mm_001.jpg",
+    "originalImageArticleUrl": "https://invidis.com/news/2026/07/winter-olympics-2026-leyard-details-stvr-studio-led-upgrade/",
+    "displayDate": "2026-07-26"
+  }
+}
