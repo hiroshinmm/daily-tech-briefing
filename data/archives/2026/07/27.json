@@ -1,0 +1,102 @@
+{
+  "AI": {
+    "title": "「AIの冬」への懸念？巨額投資の行方",
+    "summary": "米テック大手によるAI関連の設備投資（Capex）が急増する中、投資家たちがそのリターンに対して厳しい目を向け始めています。「AIの冬」という言葉も囁かれる中、莫大な資本投下に見合う成果をいつ示せるかが、今後の開発投資の継続を左右する重要な岐路に立たされています。",
+    "insight": "エンジニアとしては、単なるモデル性能の追求だけでなく、推論コストの最適化やROIを意識したアーキテクチャ設計が、これまで以上に重要になります。インフラへの巨額投資が停滞するリスクを考慮し、より軽量で効率的なモデル活用スキルの需要が高まっていくでしょう。",
+    "sourceUrl": "https://news.yahoo.co.jp/articles/984a473077f611a5c1821ca5c755541b0323e1a8",
+    "sourceName": "Yahoo!ニュース",
+    "originalImageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260727-22827750-digbloom-000-1-view.jpg?exp=10800",
+    "originalImageArticleUrl": "https://news.yahoo.co.jp/articles/984a473077f611a5c1821ca5c755541b0323e1a8",
+    "displayDate": "2026-07-27"
+  },
+  "SRD / XR": {
+    "title": "Valve次世代VRヘッドセット、価格高騰の懸念",
+    "summary": "Valveが開発中と噂される新型VRヘッドセット「Steam Deckard」について、搭載予定のQualcomm製Snapdragonチップのコスト高騰により、販売価格が1,000ドルを超える可能性が報じられました。",
+    "insight": "次世代XRデバイスの設計において、高性能SoCの確保とコスト管理のバランスは依然として最大の課題です。特にハードウェア性能と価格設定のトレードオフは、市場普及率に直結するため、エンジニアとしては最適化戦略や代替アーキテクチャの動向を注視する必要があります。",
+    "sourceUrl": "https://www.vietnam.vn/ja/gia-kinh-vr-valve-steam-frame-nguy-co-vuot-moc-1-000-usd-do-chip-qualcomm-tang-gia",
+    "sourceName": "Vietnam.vn",
+    "originalImageUrl": "https://vstatic.vietnam.vn/vietnam/resource/IMAGE/2026/07/26/1785019170993_img_58ec4186.jpeg",
+    "originalImageArticleUrl": "https://www.vietnam.vn/ja/gia-kinh-vr-valve-steam-frame-nguy-co-vuot-moc-1-000-usd-do-chip-qualcomm-tang-gia",
+    "displayDate": "2026-07-27"
+  },
+  "TV": {
+    "title": "高市内閣支持率が10ポイント急落",
+    "summary": "テレ東と日経新聞による7月の世論調査で、高市内閣の支持率が前月から10ポイント減の58％に急落したことが明らかになりました。政権運営に対する国民の評価が短期間で大きく変化しており、今後の政策遂行に影響を与える可能性があります。",
+    "insight": "世論調査データのようなリアルタイムな社会動向を可視化する際、UI/UXデザインやデータ集計のエンジニアリングにおいて、急激なトレンド変化をいかに正確かつ即座に伝えるかは重要な課題です。また、数値の急落がアクセス集中を引き起こす可能性があるため、高負荷耐性を考慮したシステム設計の重要性が再認識されます。",
+    "sourceUrl": "https://txbiz.tv-tokyo.co.jp/readings/2927",
+    "sourceName": "テレ東BIZ",
+    "originalImageUrl": "https://txbiz.tv-tokyo.co.jp/static/images/fblogo.png",
+    "originalImageArticleUrl": "https://txbiz.tv-tokyo.co.jp/readings/2927",
+    "displayDate": "2026-07-27"
+  },
+  "TCL": {
+    "title": "TCL、高コスパな360Hzゲーミングモニター発表",
+    "summary": "TCLが、Mini LEDパネルを採用した高性能ゲーミングモニターを新たに発表しました。1440pの高解像度と360Hzのリフレッシュレートを備えつつ、コストパフォーマンスを追求したモデルとして注目を集めています。",
+    "insight": "高リフレッシュレートとMini LEDの組み合わせは、残像感の低減と高いコントラスト比を両立させ、競技性の高いゲーム体験を向上させます。特にパネル技術の進化により、ハイエンド層向けのスペックが普及価格帯に降りてきている点は注目すべきトレンドです。",
+    "sourceUrl": "https://www.gizmochina.com/2026/07/26/tcl-thunderobot-25q6a-pro-gaming-monitor-unveiled-specs-price/",
+    "sourceName": "Gizmochina",
+    "originalImageUrl": "https://www.gizmochina.com/wp-content/uploads/2026/07/Thunderobot-25Q6A-Pro-gaming-monitor.png",
+    "originalImageArticleUrl": "https://www.gizmochina.com/2026/07/26/tcl-thunderobot-25q6a-pro-gaming-monitor-unveiled-specs-price/",
+    "displayDate": "2026-07-27"
+  },
+  "Production Monitor": {
+    "title": "仮想制作の標準化：ASWFが新プロジェクトを公開",
+    "summary": "アカデミー撮影監督協会（ASC）が、ASWF（Academy Software Foundation）の「StEM3-VP」プロジェクトに貢献し、バーチャルプロダクション用の評価素材を公開しました。LEDボリュームでの撮影効率化と品質検証が期待されます。",
+    "insight": "バーチャルプロダクションのワークフローにおいて、撮影前段階での検証データが標準化されることは非常に重要です。オープンソースの評価素材が公開されたことで、技術的な再現性と品質管理の精度が向上するでしょう。",
+    "sourceUrl": "https://www.provideocoalition.com/american-society-of-cinematographers-contributes-to-aswfs-stem3-vp-project/",
+    "sourceName": "ProVideo Coalition",
+    "originalImageUrl": "https://www.provideocoalition.com/wp-content/uploads/asc_aswf_001.jpg",
+    "originalImageArticleUrl": "https://www.provideocoalition.com/american-society-of-cinematographers-contributes-to-aswfs-stem3-vp-project/",
+    "displayDate": "2026-07-27"
+  },
+  "SONY": {
+    "title": "Galaxy S27、自社製からソニー製カメラセンサーへ転換か",
+    "summary": "次期フラッグシップモデル「Galaxy S27」において、サムスンが自社製ISOCELLセンサーを廃止し、ソニー製のイメージセンサーを本格採用する可能性があると報じられました。カメラ性能の飛躍的な向上が期待されています。",
+    "insight": "イメージセンサーのリーディングカンパニーであるソニーの技術的優位性が改めて浮き彫りになりました。ハードウェアのコモディティ化が進む中、画像処理の要となるセンサー選定が、ハイエンドスマホの差別化において決定的な要素になっていることを示唆しています。",
+    "sourceUrl": "https://www.vietnam.vn/ja/galaxy-s27-ro-ri-buoc-ngoat-camera-samsung-co-the-tu-bo-cam-bien-nha-lam-de-bat-tay-sony",
+    "sourceName": "Vietnam.vn",
+    "originalImageUrl": "https://vstatic.vietnam.vn/vietnam/resource/IMAGE/2026/07/26/1785030934774_img_7eb1cb8b.png",
+    "originalImageArticleUrl": "https://www.vietnam.vn/ja/galaxy-s27-ro-ri-buoc-ngoat-camera-samsung-co-the-tu-bo-cam-bien-nha-lam-de-bat-tay-sony",
+    "displayDate": "2026-07-27"
+  },
+  "Projector": {
+    "title": "IMAXレーザーが進化！川崎に最新鋭4Kシステム導入",
+    "summary": "109シネマズ川崎のIMAXデジタルシアターが、最新鋭の4Kレーザー投影システムへとアップグレードされました。高精細な4K映像とレーザー光源による鮮やかな色彩で、没入感の高い映画体験が可能になります。",
+    "insight": "映画館におけるレーザー光源への移行は、輝度とコントラスト比の向上だけでなく、メンテナンス負荷の軽減という運用面での大きなメリットがあります。映像処理技術とハードウェアの同期制御は、高精細コンテンツを扱うエンジニアにとっても注目すべきトレンドです。",
+    "sourceUrl": "https://www.walkerplus.com/article/169199/image991543.html",
+    "sourceName": "ウォーカープラス",
+    "originalImageUrl": "https://news.walkerplus.com/article/169199/991542_615.jpg",
+    "originalImageArticleUrl": "https://www.walkerplus.com/article/169199/image991543.html",
+    "displayDate": "2026-07-27"
+  },
+  "Camera Control": {
+    "title": "Peak Designの新型Lブラケットがクラウドファンディングで大成功",
+    "summary": "Peak DesignがKickstarterで展開した新しいLブラケットが、早くも50万ドル（約7,800万円）の資金を調達しました。単なる固定具ではなく、ユーザーのワークフローを再定義する革新的な設計が、世界中のフォトグラファーから高い支持を集めています。",
+    "insight": "ハードウェア製品開発におけるクラウドファンディングを活用した市場検証と、コミュニティによる製品検証の成功事例です。既存の周辺機器の課題を設計の工夫で解決するアプローチは、エンジニアリングにおけるUX改善の好例と言えます。",
+    "sourceUrl": "https://www.sonyalpharumors.com/peak-designs-innovative-new-l-bracket-has-already-raised-half-a-million-dollars/",
+    "sourceName": "sonyalpharumors",
+    "originalImageUrl": null,
+    "originalImageArticleUrl": "https://www.sonyalpharumors.com/peak-designs-innovative-new-l-bracket-has-already-raised-half-a-million-dollars/",
+    "displayDate": "2026-07-27"
+  },
+  "LED Wall Display": {
+    "title": "2026年冬季五輪、LeyardがSTVRスタジオを刷新",
+    "summary": "2026年ミラノ・コルティナダンペッツォ冬季五輪に向け、放送スタジオの技術強化が進んでいます。LeyardがSTVRスタジオに高精細LEDウォールを導入し、バーチャルプロダクション環境を最適化。スポーツ放送における視聴体験の向上が期待されています。",
+    "insight": "放送分野でのバーチャルプロダクション導入には、カメラ同期や超低遅延な映像レンダリングが不可欠です。高精細LED壁面とトラッキング技術の統合は、リアルタイムグラフィックスとライブ映像を融合させるためのエンジニアリング上の鍵となります。",
+    "sourceUrl": "https://invidis.com/news/2026/07/winter-olympics-2026-leyard-details-stvr-studio-led-upgrade/",
+    "sourceName": "Sixteen:Nine",
+    "originalImageUrl": "https://invidis.com/wp-content/uploads/2026/07/STVR_Sportsstudio_Leyard-Europe_DLS1.2mm_001.jpg",
+    "originalImageArticleUrl": "https://invidis.com/news/2026/07/winter-olympics-2026-leyard-details-stvr-studio-led-upgrade/",
+    "displayDate": "2026-07-27"
+  },
+  "Gaming Monitor": {
+    "title": "LGモニターの広告表示問題、UXを考える",
+    "summary": "LG製テレビおよびゲーミングモニターのユーザーから、ファームウェア経由で意図しない広告が表示されることに対する不満が噴出しています。UXを損なう仕様変更がコミュニティで議論を呼んでいます。",
+    "insight": "ハードウェア製品における広告配信モデルは収益化の手段になり得ますが、ユーザー体験（UX）を著しく損なう実装はブランドロイヤリティを急速に低下させます。ソフトウェアエンジニアの視点では、製品のライフサイクルを通じたUXの一貫性を維持する重要性と、プッシュ型のコンテンツ制御がユーザーの「所有体験」に与える悪影響について議論する良い題材です。",
+    "sourceUrl": "https://mashable.com/tech/lg-customers-complain-about-unwanted-ads-tvs-gaming-monitors",
+    "sourceName": "Mashable",
+    "originalImageUrl": "https://helios-i.mashable.com/imagery/articles/05HlF0RNUarz89Qh586ZWnZ/hero-image.fill.size_1200x675.v1784920083.jpg",
+    "originalImageArticleUrl": "https://mashable.com/tech/lg-customers-complain-about-unwanted-ads-tvs-gaming-monitors",
+    "displayDate": "2026-07-27"
+  }
+}
