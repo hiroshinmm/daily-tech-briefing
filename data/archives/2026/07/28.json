@@ -1,0 +1,102 @@
+{
+  "SRD / XR": {
+    "title": "日本発XRゲームを世界へ「Made in Japan XR Project」始動",
+    "summary": "学生や若手クリエイターを対象に、XRゲームの企画から開発、世界配信までを包括的に支援する新プロジェクト「Made in Japan XR Project」が開始されました。次世代のXRコンテンツ創出を目指します。",
+    "insight": "インディー開発者がグローバル市場へ展開する際の最大の障壁であるパブリッシングやマーケティングを支援する動きは、XRエコシステムの成長に不可欠です。開発者コミュニティにとっては、プラットフォームの制約を超えた技術共有や収益化モデルの検証を行う良い機会となるでしょう。",
+    "sourceUrl": "https://koubo.jp/article/102484",
+    "sourceName": "Koubo",
+    "originalImageUrl": "https://koubo-dz7cn3ci.s3.ap-northeast-1.amazonaws.com/strapi/article_102484_keyvisual_e947faff75.jpeg",
+    "originalImageArticleUrl": "https://koubo.jp/article/102484",
+    "displayDate": "2026-07-28"
+  },
+  "AI": {
+    "title": "NVIDIAとOpenAI、2500億ドル規模のAIインフラ投資を協議",
+    "summary": "NVIDIAとOpenAIが、AIインフラの拡張と計算リソースの確保を目的とした、最大2500億ドル規模の巨大なバックストップ（資金支援枠）の構築について協議していることが報じられました。AIモデルのトレーニングと推論に必要な膨大な計算資源を巡る、業界を揺るがす動きです。",
+    "insight": "エンジニアにとって、この規模の投資はAIインフラの需要が依然として爆発的であることを示唆しています。特に計算資源の確保が企業の競争力を直結させる状況下で、スケーラブルなインフラ設計とAIプラットフォームの効率化が今後より一層重視されるでしょう。",
+    "sourceUrl": "https://www.cnbc.com/2026/07/27/nvidia-and-openai-in-talks-for-up-to-250-billion-dollar-ai-backstop.html",
+    "sourceName": "CNBC",
+    "originalImageUrl": "https://image.cnbcfm.com/api/v1/image/108316430-17805267702026-06-03t224450z_1708536359_rc2mmla7s69c_rtrmadp_0_usa-congress-openai.jpeg?v=1785179838&w=1920&h=1080",
+    "originalImageArticleUrl": "https://www.cnbc.com/2026/07/27/nvidia-and-openai-in-talks-for-up-to-250-billion-dollar-ai-backstop.html",
+    "displayDate": "2026-07-28"
+  },
+  "Gaming Monitor": {
+    "title": "3兆パラメータの巨大AI「Kimi K3」オープン版公開",
+    "summary": "Moonshot AIが3兆パラメータ級のAIモデル「Kimi K3」のオープンウェイト版をHugging Faceで公開した。MXFP4形式で1.56TBの巨大サイズながら、コーディングベンチマークでGPT-5.6 Sol等を凌駕する性能を誇り、手元でフロンティア級AIを運用できる時代が到来した。",
+    "insight": "1.56TBという巨大な重みデータを扱うため、ローカル環境での推論には極めて高いメモリ帯域とVRAM容量が要求されます。エンジニアとしては、量子化技術や推論エンジンの最適化が、これら大規模モデルの民主化において今後さらに重要な役割を果たすでしょう。",
+    "sourceUrl": "https://pc.watch.impress.co.jp/docs/news/2128308.html",
+    "sourceName": "PC Watch",
+    "originalImageUrl": "https://pc.watch.impress.co.jp/img/pcw/list/2128/308/01.png",
+    "originalImageArticleUrl": "https://pc.watch.impress.co.jp/docs/news/2128308.html",
+    "displayDate": "2026-07-28"
+  },
+  "TCL": {
+    "title": "TCLが最新OLEDゲーミングモニターを発表、最大480Hzを実現",
+    "summary": "TCLが、最大480Hzの高リフレッシュレートに対応した新型OLEDゲーミングモニター「OLED+ Pro X3B」を発表しました。デュアルモード切替機能や1500ニトの高輝度を実現しており、Apple Studio Displayなどのハイエンド市場への挑戦を本格化させています。",
+    "insight": "OLED技術において高輝度と超高リフレッシュレートを両立させるのは、熱設計と駆動回路の設計難度が極めて高い領域です。パネル単体だけでなく、TCLの垂直統合によるコスト競争力が、プロ向けゲーミング・ディスプレイの価格破壊をどこまで進めるか注目です。",
+    "sourceUrl": "https://www.notebookcheck.net/TCL-launches-affordable-Apple-Studio-Display-rivals-with-up-to-480Hz-OLED-panel.1352579.0.html",
+    "sourceName": "Notebookcheck",
+    "originalImageUrl": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/TCL-launches-the-X3B-OLED-monitor-series.jpg",
+    "originalImageArticleUrl": "https://www.notebookcheck.net/TCL-launches-affordable-Apple-Studio-Display-rivals-with-up-to-480Hz-OLED-panel.1352579.0.html",
+    "displayDate": "2026-07-28"
+  },
+  "SONY": {
+    "title": "ソニーが小型シネマカメラ「FX5」を発表",
+    "summary": "ソニーのCinema Lineシリーズに、コンパクトな新モデル「FX5」が追加されました。映像制作の現場で求められる機動性と、シネマティックな画質を両立した意欲的な新製品です。",
+    "insight": "プロ向け映像機器において、ハードウェアの小型化と高性能化の両立はエッジデバイス開発における重要なテーマです。特に冷却構造や信号処理の効率化が求められる中で、ソニーがどのように熱設計やUXを最適化したのか、同社のエンジニアリングの動向は参考になります。",
+    "sourceUrl": "https://www.tvbeurope.com/production-post/sony-introduces-compact-cinema-camera-fx5",
+    "sourceName": "TVBEurope",
+    "originalImageUrl": "https://www.tvbeurope.com/wp-content/uploads/2026/07/FX5B_5-Situation-1-1.webp",
+    "originalImageArticleUrl": "https://www.tvbeurope.com/production-post/sony-introduces-compact-cinema-camera-fx5",
+    "displayDate": "2026-07-28"
+  },
+  "Projector": {
+    "title": "ハイエンド機「Xgimi Titan Noir Pro」登場",
+    "summary": "IGNでレビューされた「Xgimi Titan Noir Pro」は、生活空間に溶け込むデザインと、シアタークラスの圧倒的なパフォーマンスを両立させたハイエンドプロジェクターです。最新技術により、自宅での視聴体験を劇的に向上させることが期待されています。",
+    "insight": "最新のトライレーザー技術による色彩表現とコントラストの向上は、プロジェクターの光学エンジンと信号処理アルゴリズムの進化を象徴しています。映像エンジニアにとっても、家庭向けデバイスで映画館同等のクオリティを実現する最適化技術は非常に興味深いトピックです。",
+    "sourceUrl": "https://www.ign.com/articles/xgimi-titan-noir-pro-review",
+    "sourceName": "IGN",
+    "originalImageUrl": "https://assets-prd.ignimgs.com/2026/07/24/titannoir-blogroll-1784922651671.jpg?width=1280&format=jpg&auto=webp&quality=80",
+    "originalImageArticleUrl": "https://www.ign.com/articles/xgimi-titan-noir-pro-review",
+    "displayDate": "2026-07-28"
+  },
+  "LED Wall Display": {
+    "title": "シースルーLEDが変える店舗サイネージの未来",
+    "summary": "Daktronicsが発表した「シースルーLEDウィンドウディスプレイ」は、店舗のガラス窓をそのままデジタルサイネージへと変換する技術です。従来の不透明なパネルとは異なり、空間の透過性を維持しながら高輝度な情報を投影できるため、街並みと調和した新しい顧客体験の提供が可能になります。",
+    "insight": "シースルーLEDは、透明な基板上にLED素子を配置する設計により、外光を取り込みつつ映像を表示する透過型ディスプレイ技術の進化を示しています。エンジニアとしては、低ピクセルピッチでの高精細化と、周囲の明るさに適応する自動輝度制御アルゴリズムが、UX向上において鍵となるでしょう。",
+    "sourceUrl": "https://www.digitalsignagetoday.com/news/daktronics-debuts-see-through-led-window-displays/",
+    "sourceName": "Digital Signage Today | Latest Media",
+    "originalImageUrl": "https://nmgprod.s3.amazonaws.com/media/file/59/34/3a7fcac5d40b309a76b1cee83a8b/cover_image__eNDcYllZ__daktronics.jpg.360x190_q85_crop_upscale.webp",
+    "originalImageArticleUrl": "https://www.digitalsignagetoday.com/news/daktronics-debuts-see-through-led-window-displays/",
+    "displayDate": "2026-07-28"
+  },
+  "TV": {
+    "title": "フジテレビドラマ巡る問題、メディアの社会的責任とは",
+    "summary": "フジテレビのドラマを巡る問題が拡大し、識者から「局の大きな責任」を問う声が上がっています。制作過程や倫理的な配慮が改めて議論されており、メディア業界におけるコンプライアンスやガバナンスのあり方が注目されています。",
+    "insight": "コンテンツ制作において、AIや自動化技術を活用する場合でも、最終的な倫理的責任は人間が負うべきという原則を再認識させられます。エンジニアリングにおいても、アルゴリズムのバイアスや出力結果が社会に与える影響を考慮する「責任あるAI」の実装が急務です。",
+    "sourceUrl": "https://www.asahi.com/articles/ASV7Q130WV7QUCVL00KM.html",
+    "sourceName": "朝日新聞",
+    "originalImageUrl": "https://imgopt.asahi.com/ogp/AS20260722001886_comm.jpg",
+    "originalImageArticleUrl": "https://www.asahi.com/articles/ASV7Q130WV7QUCVL00KM.html",
+    "displayDate": "2026-07-28"
+  },
+  "Production Monitor": {
+    "title": "Adobe Creative Cloudユーザーは必見！ポートフォリオサイトの乗り換え先",
+    "summary": "Squarespaceなどのポートフォリオサイトの維持費に悩んでいませんか？Adobe Creative Cloudを契約しているなら、追加費用なしで使える「Adobe Portfolio」がコスト削減の選択肢になります。既存のAdobe環境を活用して手軽にサイトを構築できるため、フリーランスやクリエイターのエンジニアには特におすすめです。",
+    "insight": "SaaSのサブスクリプション管理はエンジニアにとっても重要なコスト最適化スキルです。既存のプラットフォームを再評価し、隠れた付加価値を見つける視点は、アーキテクチャ選定やツール選択の参考になります。",
+    "sourceUrl": "https://www.provideocoalition.com/want-to-leave-squarespace-adobe-portfolio-might-be-an-option-youre-already-paying-for/",
+    "sourceName": "ProVideo Coalition",
+    "originalImageUrl": "https://www.provideocoalition.com/wp-content/uploads/Vivaldi-b7bh8XUk-000054-Adobe-portfolio.jpg",
+    "originalImageArticleUrl": "https://www.provideocoalition.com/want-to-leave-squarespace-adobe-portfolio-might-be-an-option-youre-already-paying-for/",
+    "displayDate": "2026-07-28"
+  },
+  "Camera Control": {
+    "title": "DJI製品が米国で販売不可に？地政学リスクの影響",
+    "summary": "米中の経済摩擦の影響を受け、DJIのドローンやジンバルカメラが米国で販売停止となっている現状を解説。かつての通信インフラ規制が、今や一般消費者向けカメラ市場にまで波及している現状と、その背景にある地政学的な課題について考察します。",
+    "insight": "テック企業にとって、グローバル市場でのサプライチェーンや市場アクセスの確保において、地政学リスクがもはや無視できない最大級の経営課題となっています。開発者はハードウェアの選定や依存先を決定する際、技術的優位性だけでなく、こうした政治的バックグラウンドによる事業継続性のリスクを考慮する視点が不可欠です。",
+    "sourceUrl": "https://dc.watch.impress.co.jp/docs/column/2128296.html",
+    "sourceName": "デジカメ Watch",
+    "originalImageUrl": "https://dc.watch.impress.co.jp/img/dcw/list/2128/296/01.jpg",
+    "originalImageArticleUrl": "https://dc.watch.impress.co.jp/docs/column/2128296.html",
+    "displayDate": "2026-07-28"
+  }
+}
