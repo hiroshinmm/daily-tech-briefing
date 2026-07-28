@@ -1,0 +1,102 @@
+{
+  "SRD / XR": {
+    "title": "&TEAMが12K映像でVRコンサートを開催",
+    "summary": "&TEAMの初となるVRコンサート『&TEAM VR CONCERT : BOUNDLESS』が米国ロサンゼルスで開催されます。12Kの超高精細映像を活用し、没入感のあるライブ体験を映画館などの環境で提供する、エンターテインメントの新たな配信形態として注目されています。",
+    "insight": "12Kという超高解像度コンテンツの配信は、帯域幅とレンダリング負荷の両面でエンジニアリング上の大きな挑戦です。VRにおける映像の臨場感と描画遅延の最適化は、今後の没入型エンタメ市場における重要な技術的差別化要因となるでしょう。",
+    "sourceUrl": "https://realsound.jp/tech/2026/07/post-2473905.html",
+    "sourceName": "リアルサウンド",
+    "originalImageUrl": "https://realsound.jp/wp-content/uploads/2026/07/20260728-team_vr-99.jpg",
+    "originalImageArticleUrl": "https://realsound.jp/tech/2026/07/post-2473905.html",
+    "displayDate": "2026-07-29"
+  },
+  "AI": {
+    "title": "AmazonがAI戦略を見直し、主力モデルを大幅縮小へ",
+    "summary": "Amazonが社内のAI戦略を刷新し、主力モデルの多くを縮小する方針を固めたと報じられました。AI開発の効率化とリソースの最適化が目的とされ、急成長するAI市場における投資と収益性のバランス調整が各社で急務となっています。",
+    "insight": "AIへの過剰投資から『実利重視』へのフェーズ移行を示唆しています。エンジニアとしては、単なるモデル規模の追求ではなく、推論コストの最適化や特定のドメインにおけるROIの最大化が求められる時代になるでしょう。",
+    "sourceUrl": "https://jp.reuters.com/economy/4GVQSVCMHNO6BG6XGT5KKZXNRA-2026-07-28/",
+    "sourceName": "ロイター",
+    "originalImageUrl": null,
+    "originalImageArticleUrl": "https://jp.reuters.com/economy/4GVQSVCMHNO6BG6XGT5KKZXNRA-2026-07-28/",
+    "displayDate": "2026-07-29"
+  },
+  "Gaming Monitor": {
+    "title": "Dellの初RGBストライプOLEDモニターが登場",
+    "summary": "Dellから同社初となるRGBストライプ配列のOLED（有機EL）ゲーミングモニターが登場しました。従来のOLEDモニターで見られたテキストの輪郭のにじみ問題などが、RGBストライプ構造を採用することで劇的に改善されると期待されています。",
+    "insight": "OLEDモニターにおいて、ピクセル構造（サブピクセル配置）は文字の視認性に直結する重要な技術要素です。特に開発者がIDEで長時間作業する場合、従来のペンタイル配列等に比べ、RGBストライプはフォントレンダリングの精度向上に大きく寄与するため、高精細な作業環境を求めるエンジニアにとって注目すべき進化です。",
+    "sourceUrl": "https://www.flatpanelshd.com/news.php?subaction=showfull&id=1785129741",
+    "sourceName": "FlatpanelsHD",
+    "originalImageUrl": "https://www.flatpanelshd.com/pictures/dellAW3426DW.jpg",
+    "originalImageArticleUrl": "https://www.flatpanelshd.com/news.php?subaction=showfull&id=1785129741",
+    "displayDate": "2026-07-29"
+  },
+  "TCL": {
+    "title": "TCLが本格参入：Tandem WOLED採用のゲーミングモニターを発表",
+    "summary": "TCLが最新のTandem OLEDパネルを搭載したハイエンドゲーミングモニター「Ultimate Pro」シリーズを発表しました。4K 240Hzの高解像度・高リフレッシュレートに加え、Bang & Olufsen監修のサウンドシステムを統合しており、液晶テレビ大手がディスプレイ市場で急加速しています。",
+    "insight": "LGの第4世代WOLEDパネルを採用することで、TCLは単なる低価格ブランドからハイエンドモニター市場への本格参入を図っています。OLEDの焼き付き耐性向上と、TCLの持つ製造コストの優位性が組み合わさることで、ゲーミングディスプレイの価格破壊がさらに加速する可能性があります。",
+    "sourceUrl": "https://www.tweaktown.com/news/112871/tcl-debuts-ultimate-pro-32x3b-and-27x3b-gaming-monitors-with-lgs-4th-gen-woled-panel/index.html",
+    "sourceName": "TweakTown",
+    "originalImageUrl": null,
+    "originalImageArticleUrl": "https://www.tweaktown.com/news/112871/tcl-debuts-ultimate-pro-32x3b-and-27x3b-gaming-monitors-with-lgs-4th-gen-woled-panel/index.html",
+    "displayDate": "2026-07-29"
+  },
+  "Projector": {
+    "title": "RTINGSの「Test Bench 1.0」更新に注目",
+    "summary": "家電やAV機器の検証で知られるRTINGS.comが、製品テストの評価手法である「Test Bench 1.0」の更新履歴を公開しました。プロジェクターやディスプレイの購入指標として信頼されている同社の基準改定は、エンジニアにとっても製品性能を客観的に評価する際のヒントになります。",
+    "insight": "検証プロセスの透明化と指標の定期的なアップデートは、製品開発における品質管理の参考になります。特にプロジェクターのような光学機器において、どのようなメトリクスで比較評価しているかを追うことは、ハードウェアエンジニアの知見を広げる上で非常に有益です。",
+    "sourceUrl": "https://www.rtings.com/projector/tests/changelogs/1-0",
+    "sourceName": "RTINGS.com",
+    "originalImageUrl": "https://i.rtings.com/assets/pages/new2DR8J/movies-usage-weights-small.jpg?format=auto",
+    "originalImageArticleUrl": "https://www.rtings.com/projector/tests/changelogs/1-0",
+    "displayDate": "2026-07-29"
+  },
+  "SONY": {
+    "title": "ソニー、シネマラインの新型「FX5」を発表",
+    "summary": "ソニーは映像制作プロ向け「Cinema Line」の新モデル「FX5（ILME-FX5）」を発表し、予約販売を開始しました。オープンゲート撮影や内部RAW収録など、クリエイターのニーズに応える高度な映像制作機能を備えており、プロの撮影現場でのワークフロー効率化が期待されています。",
+    "insight": "RAW収録やオープンゲート撮影の対応は、ポストプロダクションにおける柔軟性と画質向上を求めるハイエンド開発者にとって重要なトレンドです。センサー性能の限界を引き出す内部処理アルゴリズムの進化は、今後の産業用・民生用カメラ技術のベンチマークとなります。",
+    "sourceUrl": "https://dime.jp/genre/2138972/",
+    "sourceName": "@DIME アットダイム",
+    "originalImageUrl": "https://dime.jp/wp-content/uploads/2026/07/03-105-770x433.jpg",
+    "originalImageArticleUrl": "https://dime.jp/genre/2138972/",
+    "displayDate": "2026-07-29"
+  },
+  "Production Monitor": {
+    "title": "BlackmagicがThunderbolt 4対応の12G-SDI機器を発表",
+    "summary": "Blackmagic Designが、UltraStudio Mini 12Gシリーズを発表しました。Thunderbolt 4接続による高効率な映像キャプチャ・再生が可能で、DaVinci Resolveのライブリプレイ機能とも連携する放送・制作現場向けのハイエンドなハードウェアです。",
+    "insight": "Thunderbolt 4を介した高速かつ低遅延な映像入出力は、現代のビデオ制作パイプラインにおいて重要なボトルネック解消策です。特に放送規格である12G-SDIとの統合は、ソフトウェア定義のビデオ制作環境において信頼性を高める鍵となります。",
+    "sourceUrl": "https://www.cined.com/blackmagic-ultrastudio-mini-12g-family-released-thunderbolt-4-capture-and-playback-12g-sdi-fill-and-key-davinci-resolve-replay/",
+    "sourceName": "CineD",
+    "originalImageUrl": "https://www.cined.com/content/uploads/2026/07/Blackmagic-UltraStudio-Mini-12G-Family-300x169.jpg",
+    "originalImageArticleUrl": "https://www.cined.com/blackmagic-ultrastudio-mini-12g-family-released-thunderbolt-4-capture-and-playback-12g-sdi-fill-and-key-davinci-resolve-replay/",
+    "displayDate": "2026-07-29"
+  },
+  "TV": {
+    "title": "ゲーマー必見：144Hz対応有機ELテレビが大幅値下げ",
+    "summary": "最新の77インチPanasonic製有機ELテレビが1,400ドルまで値下げされました。最大の特徴は144Hzのリフレッシュレートに対応している点で、PCモニターに代わる超大型ゲーミングディスプレイとしての需要が高まっています。",
+    "insight": "近年のテレビは、リフレッシュレート144HzやVRR（可変リフレッシュレート）対応が進み、高画質な大型ゲーミングデバイスとしての地位を確立しています。エンジニアとしては、単なるAV機器としてだけでなく、デスクトップ環境の究極の拡張として、HDMI 2.1帯域幅とスケーリング挙動の仕様を再確認しておく価値があります。",
+    "sourceUrl": "https://theinventory.com/panasonic-z8-77-inch-oled-tv-deal-144hz-gaming",
+    "sourceName": "The Inventory",
+    "originalImageUrl": "https://theinventory.com/cdn-cgi/image/width=1200,quality=85,format=auto/https://assets.theinventory.com/media/panasonic-z8-77-inch-oled-tv-deal-144hz-gaming-1785261306002-1200x630.png",
+    "originalImageArticleUrl": "https://theinventory.com/panasonic-z8-77-inch-oled-tv-deal-144hz-gaming",
+    "displayDate": "2026-07-29"
+  },
+  "Camera Control": {
+    "title": "DJI Osmo Pocket 4Pのデュアルカメラ性能に注目",
+    "summary": "DJIの最新モデル「Osmo Pocket 4P」のサンプル映像が公開されました。最大の特徴であるデュアルカメラ構成と、より広範な階調表現が可能な「D-Log2」による映像品質が注目されており、小型ジンバルカメラの新たな可能性を示しています。",
+    "insight": "D-Log2は広ダイナミックレンジでのカラーグレーディングにおいて、ポストプロセスの柔軟性を大幅に向上させます。マルチカメラ構成によるシームレスな焦点距離の切り替えは、組み込みソフトウェア側の高度な同期と画像処理パイプラインの進化を裏付けています。",
+    "sourceUrl": "https://www.dpreview.com/samples/dji-osmo-pocket-4p-sample-footage-dlog2-dual-cameras/",
+    "sourceName": "DPReview",
+    "originalImageUrl": "https://www.dpreview.com/wp-content/uploads/2026/07/dpr_dji_osmo_pocket_4p_with_grafitti_background.jpg",
+    "originalImageArticleUrl": "https://www.dpreview.com/samples/dji-osmo-pocket-4p-sample-footage-dlog2-dual-cameras/",
+    "displayDate": "2026-07-29"
+  },
+  "LED Wall Display": {
+    "title": "インドで初の商用MicroLED工場が承認",
+    "summary": "インド政府は半導体ミッション（ISM）に基づき、国内初となるGaN（窒化ガリウム）技術を活用した商用Mini/MicroLEDディスプレイ製造拠点の設立を承認しました。グジャラート州に拠点を置き、半導体エコシステムの構築を加速させます。",
+    "insight": "MicroLEDの製造において、GaNベースの基板技術は効率と輝度向上の鍵となります。この動きは、従来の液晶や有機ELに代わる次世代ディスプレイの供給網が、特定の地域からグローバルに分散・拡大していく兆しを示唆しています。",
+    "sourceUrl": "//www.ledinside.com/news/2026/7/2026_07_28_03",
+    "sourceName": "LEDinside",
+    "originalImageUrl": null,
+    "originalImageArticleUrl": "//www.ledinside.com/news/2026/7/2026_07_28_03",
+    "displayDate": "2026-07-29"
+  }
+}
