@@ -1,10 +1,6 @@
 {
   "Production Monitor": [
     {
-      "url": "https://www.cined.com/bytedance-seedance-2-5-api-goes-live-30-second-single-shot-clips-50-reference-inputs-and-3d-camera-blockouts/",
-      "date": "2026-07-22"
-    },
-    {
       "url": "https://www.cined.com/sony-fx5-announced-full-frame-5k-open-gate-internal-x-ocn-raw-three-base-isos-4k-240p/",
       "date": "2026-07-23"
     },
@@ -31,13 +27,13 @@
     {
       "url": "https://www.cined.com/blackmagic-ultrastudio-mini-12g-family-released-thunderbolt-4-capture-and-playback-12g-sdi-fill-and-key-davinci-resolve-replay/",
       "date": "2026-07-29"
+    },
+    {
+      "url": "https://www.newsshooter.com/2026/07/29/sony-semiconductor-manufacturing-halted-in-kumamoto-prefecture/?utm_source=rss&utm_medium=rss&utm_campaign=sony-semiconductor-manufacturing-halted-in-kumamoto-prefecture",
+      "date": "2026-07-30"
     }
   ],
   "SRD / XR": [
-    {
-      "url": "https://monoist.itmedia.co.jp/mn/articles/2607/22/news048.html",
-      "date": "2026-07-22"
-    },
     {
       "url": "https://news.yahoo.co.jp/articles/9c1fa291d867789e588bf928cd5baaeeef8e9091/images/000",
       "date": "2026-07-23"
@@ -65,13 +61,13 @@
     {
       "url": "https://realsound.jp/tech/2026/07/post-2473905.html",
       "date": "2026-07-29"
+    },
+    {
+      "url": "https://realsound.jp/tech/2026/07/post-2474731.html",
+      "date": "2026-07-30"
     }
   ],
   "AI": [
-    {
-      "url": "https://fortune.com/2026/07/21/ai-solves-jacobian-conjecture-levant-alpoge-claude-fable-5/",
-      "date": "2026-07-22"
-    },
     {
       "url": "https://www.jiji.com/jc/article?k=2026072200774&g=int",
       "date": "2026-07-23"
@@ -99,13 +95,13 @@
     {
       "url": "https://jp.reuters.com/economy/4GVQSVCMHNO6BG6XGT5KKZXNRA-2026-07-28/",
       "date": "2026-07-29"
+    },
+    {
+      "url": "https://www.nytimes.com/2026/07/29/business/economy/data-center-electricians-training.html",
+      "date": "2026-07-30"
     }
   ],
   "Gaming Monitor": [
-    {
-      "url": "https://www.seattlepi.com/shopping/article/samsung-odyssey-oled-g5-monitor-deal-22354114.php",
-      "date": "2026-07-22"
-    },
     {
       "url": "https://www.rtings.com/monitor/reviews/best/ps5",
       "date": "2026-07-23"
@@ -133,13 +129,13 @@
     {
       "url": "https://www.flatpanelshd.com/news.php?subaction=showfull&id=1785129741",
       "date": "2026-07-29"
+    },
+    {
+      "url": "https://www.ign.com/articles/lg-ultragear-gaming-monitor-deal-with-tandem-oled",
+      "date": "2026-07-30"
     }
   ],
   "TCL": [
-    {
-      "url": "https://www.oled-info.com/yas-utilizes-two-its-production-lines-full-capacity-it-produces-equipment-and",
-      "date": "2026-07-22"
-    },
     {
       "url": "https://getnavi.jp/appliances/1108889/",
       "date": "2026-07-23"
@@ -167,13 +163,13 @@
     {
       "url": "https://www.tweaktown.com/news/112871/tcl-debuts-ultimate-pro-32x3b-and-27x3b-gaming-monitors-with-lgs-4th-gen-woled-panel/index.html",
       "date": "2026-07-29"
+    },
+    {
+      "url": "https://www.eteknix.com/tcl-introduces-next-generation-woled-gaming-monitors-with-up-to-480hz-refresh-rate/",
+      "date": "2026-07-30"
     }
   ],
   "Camera Control": [
-    {
-      "url": "https://www.dpreview.com/news/adobes-latest-update-shows-you-whether-its-your-fault-you-missed-focus-for-some-cameras/",
-      "date": "2026-07-22"
-    },
     {
       "url": "https://dc.watch.impress.co.jp/docs/news/2127017.html",
       "date": "2026-07-23"
@@ -201,13 +197,13 @@
     {
       "url": "https://www.dpreview.com/samples/dji-osmo-pocket-4p-sample-footage-dlog2-dual-cameras/",
       "date": "2026-07-29"
+    },
+    {
+      "url": "https://petapixel.com/2026/07/29/sony-is-reportedly-trying-to-buy-tamron-which-makes-perfect-sense/",
+      "date": "2026-07-30"
     }
   ],
   "LED Wall Display": [
-    {
-      "url": "https://finimize.com/content/chip-stocks-led-wall-street-higher-ahead-of-big-tech-earnings",
-      "date": "2026-07-22"
-    },
     {
       "url": "https://www.digitalsignagetoday.com/resources/smart-screens-that-see-how-ai-audience-detection-turns-digital-signage-into-a-performance-channel/",
       "date": "2026-07-23"
@@ -235,13 +231,13 @@
     {
       "url": "//www.ledinside.com/news/2026/7/2026_07_28_03",
       "date": "2026-07-29"
+    },
+    {
+      "url": "//www.ledinside.com/products/2026/7/2026_07_29_10",
+      "date": "2026-07-30"
     }
   ],
   "SONY": [
-    {
-      "url": "https://av.watch.impress.co.jp/docs/news/2126724.html",
-      "date": "2026-07-22"
-    },
     {
       "url": "https://www.cined.com/sony-fx5-announced-full-frame-5k-open-gate-internal-x-ocn-raw-three-base-isos-4k-240p/",
       "date": "2026-07-23"
@@ -269,13 +265,13 @@
     {
       "url": "https://dime.jp/genre/2138972/",
       "date": "2026-07-29"
+    },
+    {
+      "url": "https://diamond.jp/articles/amp/395310",
+      "date": "2026-07-30"
     }
   ],
   "TV": [
-    {
-      "url": "https://www.pcmag.com/deals/65-inch-lg-oled-tv-took-home-our-editors-choice-award-deal-july-21",
-      "date": "2026-07-22"
-    },
     {
       "url": "https://prtimes.jp/main/html/rd/p/000002324.000002734.html",
       "date": "2026-07-23"
@@ -303,13 +299,13 @@
     {
       "url": "https://theinventory.com/panasonic-z8-77-inch-oled-tv-deal-144hz-gaming",
       "date": "2026-07-29"
+    },
+    {
+      "url": "https://www.notebookcheck.net/2026-Samsung-S90H-OLED-TV-brings-glare-free-gaming-at-record-low-Amazon-sale-price.1354984.0.html",
+      "date": "2026-07-30"
     }
   ],
   "Projector": [
-    {
-      "url": "https://www.forbes.com/sites/johnarcher/2026/07/21/xgimi-launches-ultra-portable-elfin-flip-4k-laser-projector-with-claimed-1ms-gaming-latency/",
-      "date": "2026-07-22"
-    },
     {
       "url": "https://news.yahoo.co.jp/articles/545b8d7cdfc05f4483e2a9c2138375290e38906e",
       "date": "2026-07-23"
@@ -337,6 +333,10 @@
     {
       "url": "https://www.rtings.com/projector/tests/changelogs/1-0",
       "date": "2026-07-29"
+    },
+    {
+      "url": "https://www.rtings.com/projector/tests/picture-quality/color-volume",
+      "date": "2026-07-30"
     }
   ]
 }

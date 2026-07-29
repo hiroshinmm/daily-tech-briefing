@@ -1,0 +1,102 @@
+{
+  "AI": {
+    "title": "AIの進化を支える「物理インフラ」の現実",
+    "summary": "AIの爆発的な発展の裏で、電力やデータセンターといった物理リソースの確保が急務となっています。最新の報道では、トランプ政権による連邦地へのデータセンター建設推進や、AI企業がインフラ構築のために建設業や電気工事の専門職を大量採用する動向が浮き彫りになりました。ソフトウェアの進化だけでなく、エネルギーや土地などの「物理的な制約」がAIのボトルネックとなる現実が加速しています。",
+    "insight": "AIエンジニアにとって、今後はモデルのパラメータ数だけでなく、計算リソースの制約を意識したインフラ設計が不可欠です。AIの推論を安定させるためには、ソフトウェアスタックの最適化と物理層のエネルギー効率をセットで捉える視点が重要になります。",
+    "sourceUrl": "https://www.nytimes.com/2026/07/29/business/economy/data-center-electricians-training.html",
+    "sourceName": "The New York Times",
+    "originalImageUrl": null,
+    "originalImageArticleUrl": "https://www.nytimes.com/2026/07/29/business/economy/data-center-electricians-training.html",
+    "displayDate": "2026-07-30"
+  },
+  "Gaming Monitor": {
+    "title": "Tandem OLED搭載のLG新型モニターが400ドルで登場",
+    "summary": "LGの27インチゲーミングモニター「UltraGear」の最新モデルが399.99ドルで発売されました。Tandem OLED技術を採用し、高輝度と焼き付き耐性を両立させたプレミアムな性能を、ゲーミング市場で求めやすい価格帯で提供します。",
+    "insight": "Tandem OLEDは、2層の有機EL層を積層することで輝度と寿命を飛躍的に向上させる技術です。従来の単層OLEDの弱点であった「輝度不足」と「焼き付きリスク」を物理層で解決しており、高リフレッシュレートが求められるモニター分野での本格採用は技術的な転換点となります。",
+    "sourceUrl": "https://www.ign.com/articles/lg-ultragear-gaming-monitor-deal-with-tandem-oled",
+    "sourceName": "IGN",
+    "originalImageUrl": "https://assets-prd.ignimgs.com/2026/07/29/lggx790-1785359644221.jpg?width=1280&format=jpg&auto=webp&quality=80",
+    "originalImageArticleUrl": "https://www.ign.com/articles/lg-ultragear-gaming-monitor-deal-with-tandem-oled",
+    "displayDate": "2026-07-30"
+  },
+  "SRD / XR": {
+    "title": "業界横断25社が結集「LBEC」発足、XRのインフラ化へ",
+    "summary": "XRコンテンツをあらゆる場所で体験可能にするための業界横断団体「LBEC」が発足しました。25社が連携し、技術的課題の解決や標準化を目指すことで、XR体験の社会実装を加速させる試みです。",
+    "insight": "XRの普及にはデバイス単体だけでなく、位置情報や空間認識の共有といったインフラレイヤーの標準化が不可欠です。特定のプラットフォームに依存しない共通基盤の構築は、Webエンジニアにとってもクロスプラットフォーム開発の新たな標準となる可能性があるため注目です。",
+    "sourceUrl": "https://realsound.jp/tech/2026/07/post-2474731.html",
+    "sourceName": "リアルサウンド",
+    "originalImageUrl": "https://realsound.jp/wp-content/uploads/2026/07/20260729-lbec-99.jpg",
+    "originalImageArticleUrl": "https://realsound.jp/tech/2026/07/post-2474731.html",
+    "displayDate": "2026-07-30"
+  },
+  "Projector": {
+    "title": "プロジェクターの画質評価基準：カラーボリュームとは",
+    "summary": "RTINGSが公開したプロジェクターの画質テスト項目「カラーボリューム」についての解説。単なる色域（Color Gamut）だけでなく、輝度による色の再現性までを網羅的に評価する重要性が示されています。",
+    "insight": "エンジニアとしては、ディスプレイデバイスの性能を評価する際、静的な色域評価だけでなく、輝度変化に依存するカラーボリュームを考慮することが重要です。高輝度環境での色再現精度が、製品の没入感や視認性を左右する技術的指標となります。",
+    "sourceUrl": "https://www.rtings.com/projector/tests/picture-quality/color-volume",
+    "sourceName": "rtings.com",
+    "originalImageUrl": "https://i.rtings.com/assets/pages/new2DR8J/old-color-gamut-medium.jpg?format=auto",
+    "originalImageArticleUrl": "https://www.rtings.com/projector/tests/picture-quality/color-volume",
+    "displayDate": "2026-07-30"
+  },
+  "Camera Control": {
+    "title": "Sonyがタムロンを買収か？レンズ業界再編の予兆",
+    "summary": "ソニーがレンズメーカーのタムロンを買収する交渉を進めていると報じられました。Eマウント市場で強固な協力関係にある両社の統合は、光学技術の垂直統合と製品戦略の最適化に大きな影響を与える可能性があります。",
+    "insight": "レンズ設計のノウハウと製造リソースを自社で囲い込むことは、競合に対する圧倒的な参入障壁となります。ハードウェア制御を最適化するファームウェア開発においても、カメラ本体とレンズの深い連携が進むことで、将来的にどのようなインテリジェントな機能が実装されるかに注目が集まります。",
+    "sourceUrl": "https://petapixel.com/2026/07/29/sony-is-reportedly-trying-to-buy-tamron-which-makes-perfect-sense/",
+    "sourceName": "PetaPixel",
+    "originalImageUrl": "https://petapixel.com/assets/uploads/2026/07/sony-tamron-featured.jpg",
+    "originalImageArticleUrl": "https://petapixel.com/2026/07/29/sony-is-reportedly-trying-to-buy-tamron-which-makes-perfect-sense/",
+    "displayDate": "2026-07-30"
+  },
+  "TCL": {
+    "title": "TCLが次世代WOLEDゲーミングモニターを発表",
+    "summary": "TCLがリフレッシュレート最大480Hzに対応した次世代WOLEDゲーミングモニターを発表しました。高精細かつ高速な映像体験を可能にする同社のパネル技術は、ディスプレイ市場における新たな競争力を示しています。",
+    "insight": "OLEDパネル技術をリードするTCLの動きは、ハイエンドモニターの価格破壊と仕様競争を加速させる可能性が高いです。特にリフレッシュレート480Hzへの対応は、ゲーミングデバイスの回路設計や制御アルゴリズムの最適化において、開発者にとっても重要な技術的トレンドと言えます。",
+    "sourceUrl": "https://www.eteknix.com/tcl-introduces-next-generation-woled-gaming-monitors-with-up-to-480hz-refresh-rate/",
+    "sourceName": "eTeknix",
+    "originalImageUrl": "https://cdn.eteknix.com/wp-content/uploads/2026/07/TCL-Introduces-Next-Generation-WOLED-Gaming-Monitors-with-Up-to-480Hz-Refresh-Rate.jpg",
+    "originalImageArticleUrl": "https://www.eteknix.com/tcl-introduces-next-generation-woled-gaming-monitors-with-up-to-480hz-refresh-rate/",
+    "displayDate": "2026-07-30"
+  },
+  "SONY": {
+    "title": "ソニーがタムロンに2000億円規模の買収提案",
+    "summary": "ソニーが交換レンズ大手のタムロンに対し、2000億円規模での買収提案を行ったとの報道がありました。カメラ・センサー市場でのシェアを盤石にしているソニーが、光学技術のさらなる内製化と供給網の強化を目指す動きとして注目されています。",
+    "insight": "ハードウェアエンジニアにとって、サプライチェーンの垂直統合は設計から製造までのリードタイム短縮と、独自規格による差別化を加速させる強力な戦略です。レンズ光学系というアナログ技術の知見をデジタル信号処理とどう融合させ、新たな画像体験を創出するかに注目が集まります。",
+    "sourceUrl": "https://diamond.jp/articles/amp/395310",
+    "sourceName": "ダイヤモンド・オンライン",
+    "originalImageUrl": "https://dol.ismcdn.jp/mwimgs/9/8/-/img_9829d8dba299196b3fa934e37fb0791f515574.jpg",
+    "originalImageArticleUrl": "https://diamond.jp/articles/amp/395310",
+    "displayDate": "2026-07-30"
+  },
+  "TV": {
+    "title": "2026年最新OLED TV、ゲーミング需要で過去最安値へ",
+    "summary": "2026年モデルのOLEDテレビがAmazon等で大幅な値下げを実施中。特にSamsungのS90Hなど、反射を抑えたゲーミング向けモデルが記録的な安値となっており、高画質・低遅延を求める層にとって買い替えの好機となっています。",
+    "insight": "近年のテレビ製品は、単なる映像視聴端末から、高リフレッシュレート対応の巨大ゲーミングモニターへと進化しています。エンジニア目線では、無線接続技術の標準化とコントラスト比向上の進展により、デスク環境の再定義が加速している点に注目です。",
+    "sourceUrl": "https://www.notebookcheck.net/2026-Samsung-S90H-OLED-TV-brings-glare-free-gaming-at-record-low-Amazon-sale-price.1354984.0.html",
+    "sourceName": "Notebookcheck",
+    "originalImageUrl": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/55inchSamsungS90HOLEDTVFront.jpg",
+    "originalImageArticleUrl": "https://www.notebookcheck.net/2026-Samsung-S90H-OLED-TV-brings-glare-free-gaming-at-record-low-Amazon-sale-price.1354984.0.html",
+    "displayDate": "2026-07-30"
+  },
+  "LED Wall Display": {
+    "title": "DJパフォーマンスを変える「両面透過型MicroLED」",
+    "summary": "Tranzekが発表したDJ向け両面透過型MicroLEDディスプレイは、パフォーマーと観客の双方から視覚情報を共有可能にする革新的な製品です。従来の片面モニターの制約を解消し、音楽エフェクトを可視化することで、没入感のある新しいライブ体験を実現します。",
+    "insight": "透明ディスプレイは単なる表示装置から、物理空間を媒介するUI/UXデバイスへと進化しています。エンジニアとしては、低遅延な同期処理と、透過型ならではの積層的な空間レイヤー設計が、次世代のインタラクティブな表現を支える重要な技術スタックになると考えられます。",
+    "sourceUrl": "//www.ledinside.com/products/2026/7/2026_07_29_10",
+    "sourceName": "LEDinside",
+    "originalImageUrl": null,
+    "originalImageArticleUrl": "//www.ledinside.com/products/2026/7/2026_07_29_10",
+    "displayDate": "2026-07-30"
+  },
+  "Production Monitor": {
+    "title": "熊本震災の影響：Sony半導体製造の停止",
+    "summary": "熊本県で発生した地震により、Sonyの半導体製造拠点が操業停止に追い込まれました。同拠点はデジタルカメラや産業機器向けのCMOSイメージセンサーを製造する重要施設であり、サプライチェーンへの深刻な影響が懸念されています。",
+    "insight": "画像センサーの供給停滞は、映像制作機器市場全体に大きなボトルネックを生じさせる可能性があります。エンジニアとしては、ハードウェア調達のリードタイム長期化を予測し、代替部品や在庫戦略を再考しておくべき局面です。",
+    "sourceUrl": "https://www.newsshooter.com/2026/07/29/sony-semiconductor-manufacturing-halted-in-kumamoto-prefecture/?utm_source=rss&utm_medium=rss&utm_campaign=sony-semiconductor-manufacturing-halted-in-kumamoto-prefecture",
+    "sourceName": "Newsshooter",
+    "originalImageUrl": "https://www.newsshooter.com/wp-content/uploads/2026/07/Screenshot-2026-07-29-at-23.20.55.jpg",
+    "originalImageArticleUrl": "https://www.newsshooter.com/2026/07/29/sony-semiconductor-manufacturing-halted-in-kumamoto-prefecture/?utm_source=rss&utm_medium=rss&utm_campaign=sony-semiconductor-manufacturing-halted-in-kumamoto-prefecture",
+    "displayDate": "2026-07-30"
+  }
+}
