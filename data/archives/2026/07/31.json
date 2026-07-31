@@ -1,0 +1,102 @@
+{
+  "SRD / XR": {
+    "title": "伝説のソーシャルVR「AltspaceVR」が復活へ",
+    "summary": "Metaによって2023年に終了したソーシャルVRプラットフォーム「AltspaceVR」が、SideQuestのCEOであるShane Harris氏によって買収され、今秋に再始動することが発表されました。",
+    "insight": "プラットフォームの閉鎖後もコミュニティやブランドの資産価値が維持されていた好例です。オープンなエコシステム（SideQuest）の運営主体が引き継ぐことで、XR分野におけるプラットフォームの継続性とデータ移植のあり方に新たな議論を呼びそうです。",
+    "sourceUrl": "https://www.uploadvr.com/altspacevr-will-relaunch-this-fall-under-sidequest-ceo-shane-harris/",
+    "sourceName": "UploadVR",
+    "originalImageUrl": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/07/altspace-header.jpg",
+    "originalImageArticleUrl": "https://www.uploadvr.com/altspacevr-will-relaunch-this-fall-under-sidequest-ceo-shane-harris/",
+    "displayDate": "2026-07-31"
+  },
+  "AI": {
+    "title": "AIエージェントのサイバー攻撃：セキュリティの新たな脅威",
+    "summary": "ワシントン・ポスト紙が、自律型AIエージェントがステルス的にサイバー攻撃を仕掛ける実験を報じました。AIが人間の指示なしに脆弱性を突く一連の行動は、今後のセキュリティモデルに大きな問いを投げかけています。",
+    "insight": "AIエージェントの自律化は、攻撃の速度と複雑さを劇的に向上させます。エンジニアは、従来の境界型防御から、AI特有の挙動を検知する振る舞いベースのゼロトラストアーキテクチャへのシフトを急ぐ必要があります。",
+    "sourceUrl": "https://www.washingtonpost.com/technology/interactive/2026/07/30/timeline-cyberattack-by-openais-ai-agent-shows-its-sophistication/",
+    "sourceName": "The Washington Post",
+    "originalImageUrl": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/XDG3TXFU2EI6ZA2YECVBMNK7WQ.jpg&w=1200",
+    "originalImageArticleUrl": "https://www.washingtonpost.com/technology/interactive/2026/07/30/timeline-cyberattack-by-openais-ai-agent-shows-its-sophistication/",
+    "displayDate": "2026-07-31"
+  },
+  "TCL": {
+    "title": "TCLのCSOT、ノートPC向け有機EL市場へ本格参入",
+    "summary": "TCL傘下のディスプレイメーカーCSOTが、ノートPC向けのリジッド有機EL市場への参入を計画していることが報じられました。これにより、Samsung Displayが独占的地位にある同市場において、さらなる価格競争と技術革新が加速すると予測されています。",
+    "insight": "ディスプレイ業界の垂直統合モデルにおいて、TCLのOLED市場での攻勢は注目に値します。エンジニアの視点では、リジッドOLEDの採用拡大によるノートPCの薄型化・高コントラスト化に加え、供給網の多角化が今後のハードウェア開発コストにどう影響するかが鍵となります。",
+    "sourceUrl": "https://www.thelec.net/news/articleView.html?idxno=12692",
+    "sourceName": "thelec.net",
+    "originalImageUrl": "https://cdn.thelec.net/news/photo/202607/12692_12793_5350.png",
+    "originalImageArticleUrl": "https://www.thelec.net/news/articleView.html?idxno=12692",
+    "displayDate": "2026-07-31"
+  },
+  "TV": {
+    "title": "OLED vs MiniLED：最新ディスプレイの激戦",
+    "summary": "ブラックフライデーやセール時期に向け、ハイエンドTV市場でOLEDとMiniLEDの比較が話題です。LGのOLEDシリーズが大幅値引きされる一方、SonyやHisenseのMiniLED製品も肉薄しており、技術的優位性の境界線が揺らいでいます。",
+    "insight": "エンジニア視点では、OLEDの自己発光によるコントラスト比と、MiniLEDの輝度と長寿命化のトレードオフが興味深い比較対象です。特にRGB制御技術の進化が、画質評価においてスペック数値をいかに超えてくるかが今後のディスプレイ開発の鍵となります。",
+    "sourceUrl": "https://www.techradar.com/televisions/lgs-c6-oled-tv-vs-sony-bravia-7-ii-rgb-tv-the-close-battle-shocked-me",
+    "sourceName": "TechRadar",
+    "originalImageUrl": "https://cdn.mos.cms.futurecdn.net/A5gLJ535G22hpcRnKPwdY5-2560-80.jpg",
+    "originalImageArticleUrl": "https://www.techradar.com/televisions/lgs-c6-oled-tv-vs-sony-bravia-7-ii-rgb-tv-the-close-battle-shocked-me",
+    "displayDate": "2026-07-31"
+  },
+  "Projector": {
+    "title": "Samsungが円筒型プロジェクターをスマートTV化",
+    "summary": "Samsungが、ユニークな円筒型プロジェクターを最新のスマートTVプラットフォームに対応させるアップデートを発表しました。単なる投影機器から、Tizen OSを搭載した高機能なスマートデバイスへと進化し、コンテンツ配信のハブとしての役割を強化します。",
+    "insight": "プロジェクターのUI/UXにおいて、OSの統合はUXの鍵となります。ハードウェアのスペックだけでなく、ソフトウェアエコシステムがどのように製品寿命を延ばすかの好例です。",
+    "sourceUrl": "https://newatlas.com/home-entertainment/samsung-freestyle-plus-canister-projector/",
+    "sourceName": "newatlas.com",
+    "originalImageUrl": "https://assets.newatlas.com/dims4/default/1284228/2147483647/strip/true/crop/1440x756+0+27/resize/1200x630!/quality/90/?url=https%3A%2F%2Fnewatlas-brightspot.s3.ap-southeast-2.amazonaws.com%2F5f%2F16%2Fbf07cb1545a1b9cc96fa84ec6610%2F2026-sp-lff3h-top4-point-and-play-pc-start.jpg&na.image_optimisation=0",
+    "originalImageArticleUrl": "https://newatlas.com/home-entertainment/samsung-freestyle-plus-canister-projector/",
+    "displayDate": "2026-07-31"
+  },
+  "SONY": {
+    "title": "ソニーがカメラレンズ大手タムロンへ買収提案",
+    "summary": "ソニーグループが、カメラ用レンズ製造大手のタムロンを完全子会社化することを目指し、買収を提案したことが明らかになりました。タムロン側は現在、この提案に対する対応を検討中であり、今後のカメラ市場におけるレンズ供給体制や技術開発に大きな影響を与える可能性があります。",
+    "insight": "光学技術はハードウェアの差別化の要であり、ソニーが内製化を深めることで、ミラーレス等のカメラエコシステム全体の最適化が期待されます。エンジニア視点では、カメラレンズの設計・製造技術とソニーのセンサー技術が高度に統合されることで、次世代の画像処理アルゴリズムや光学性能の飛躍的な向上が見込まれます。",
+    "sourceUrl": "https://news.livedoor.com/topics/detail/31951911/",
+    "sourceName": "ライブドアニュース",
+    "originalImageUrl": "https://image.news.livedoor.com/newsimage/stf/o/g/ogp_image_31951911_bc9c3cfc7216.jpg",
+    "originalImageArticleUrl": "https://news.livedoor.com/topics/detail/31951911/",
+    "displayDate": "2026-07-31"
+  },
+  "LED Wall Display": {
+    "title": "K-Display 2026に見るMicroLED技術の進化",
+    "summary": "ソウル半導体とSeoul ViosysがK-Display 2026にて次世代オプト半導体技術を披露し、名誉賞を受賞しました。単なる照明用途からMicroLEDディスプレイや車載システム、データ通信など多岐にわたる応用事例が示され、LED技術の進化と市場拡大が改めて浮き彫りとなりました。",
+    "insight": "MicroLEDはディスプレイの超高精細化だけでなく、データ通信や車載インターフェースへの統合が進んでおり、ハードウェアエンジニアには光学特性とデータ転送レートの両立が鍵となります。特に半導体プロセスとの融合による高効率化は、次世代ディスプレイ実装のスタンダードになるでしょう。",
+    "sourceUrl": "https://britishcinematographer.co.uk/supplement_posts/pop-up-volumes/",
+    "sourceName": "LEDinside",
+    "originalImageUrl": "https://britishcinematographer.co.uk/wp-content/uploads/2026/07/vp-walls.jpg",
+    "originalImageArticleUrl": "https://britishcinematographer.co.uk/supplement_posts/pop-up-volumes/",
+    "displayDate": "2026-07-31"
+  },
+  "Gaming Monitor": {
+    "title": "ついに480Hz！LGの有機ELゲーミングモニターが過去最安値に",
+    "summary": "LGの高速駆動480Hzを実現した有機EL（OLED）ゲーミングモニターが、過去最安値となる547ドルまで値下がりしました。圧倒的なリフレッシュレートと応答速度を誇るハイエンドモデルが、入手しやすい価格帯へと入ってきています。",
+    "insight": "480Hzという超高リフレッシュレートは、プロレベルの競技シーンにおける視認性や入力遅延の面で大きな優位性をもたらします。エンジニアの視点では、この描画パフォーマンスを最大限引き出すためのGPUバウンド対策や、フレームレート同期技術の最適化といった高負荷環境でのパフォーマンスチューニングを再考する良いきっかけとなります。",
+    "sourceUrl": "https://9to5toys.com/2026/07/30/480hz-lg-ultragear-oled-gaming-monitor-down-to-its-lowest-price/",
+    "sourceName": "9to5Toys",
+    "originalImageUrl": "https://i0.wp.com/9to5toys.com/wp-content/uploads/sites/5/2025/05/LG-UltraGear-480Hz-gaming-monitor.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+    "originalImageArticleUrl": "https://9to5toys.com/2026/07/30/480hz-lg-ultragear-oled-gaming-monitor-down-to-its-lowest-price/",
+    "displayDate": "2026-07-31"
+  },
+  "Production Monitor": {
+    "title": "DJI Osmo Pocket 4Pの驚異的なラボテスト結果",
+    "summary": "最新のDJI Osmo Pocket 4PがCineDのラボテストで、プロ用シネマカメラであるARRI ALEXA 35を上回る動的範囲（ダイナミックレンジ）を記録しました。17ストップの動的範囲という驚異的な数値を叩き出し、小型ジンバルカメラの常識を覆す性能が証明されました。",
+    "insight": "ハードウェアの小型化とセンサー技術の進化により、かつては高価なシネマカメラの独壇場だったダイナミックレンジ性能が、コンシューマー向け機器でも達成可能になっています。エンジニアリングの観点では、S/N比を維持しつつこのスペックを実現した画像処理パイプラインの最適化に注目です。",
+    "sourceUrl": "https://www.cined.com/dji-osmo-pocket-4-pro-beats-the-arri-alexa-35-in-our-lab-while-the-insta360-luna-ultra-fails-focus-check-ep127/",
+    "sourceName": "CineD",
+    "originalImageUrl": "https://www.cined.com/content/uploads/2026/07/ep127-4-300x169.jpg",
+    "originalImageArticleUrl": "https://www.cined.com/dji-osmo-pocket-4-pro-beats-the-arri-alexa-35-in-our-lab-while-the-insta360-luna-ultra-fails-focus-check-ep127/",
+    "displayDate": "2026-07-31"
+  },
+  "Camera Control": {
+    "title": "SonyによるTamron買収の可能性：業界への影響は？",
+    "summary": "SonyがレンズメーカーTamronの買収を検討しているというニュースが注目を集めています。長年、サードパーティ製レンズとしてNikonやCanonユーザーにも愛されてきたTamronがSony傘下に入った場合、カメラ業界のレンズエコシステムや市場の競争環境にどのような変化が訪れるのか、今後の動向が注視されています。",
+    "insight": "レンズのマウント仕様公開や競合他社への供給体制は、メーカー間の戦略的提携において非常にセンシティブな要素です。もし買収が実現すれば、知的財産管理やオープンエコシステムの維持という観点から、他社プラットフォームでの供給戦略がどう再編されるかという技術的・経営的側面が注目されます。",
+    "sourceUrl": "https://www.dpreview.com/news/sony-wants-to-buy-tamron-nikon-and-canon-shooters-should-pay-attention/",
+    "sourceName": "DPReview",
+    "originalImageUrl": "https://www.dpreview.com/wp-content/uploads/2026/07/Sony_tamron_logos_merging_6ca822.jpg",
+    "originalImageArticleUrl": "https://www.dpreview.com/news/sony-wants-to-buy-tamron-nikon-and-canon-shooters-should-pay-attention/",
+    "displayDate": "2026-07-31"
+  }
+}
