@@ -1,0 +1,102 @@
+{
+  "SRD / XR": {
+    "title": "LBE XRの推進へ：大手25社が新組織を発立",
+    "summary": "KDDI、三菱UFJフィナンシャル・グループ（MUFG）ら25社が連携し、LBE（Location Based Entertainment）XRの普及を目的とした組織が発足しました。商業施設や観光地でのXR体験の標準化とエコシステム構築を目指します。",
+    "insight": "LBE XRの本格的な社会実装には、単なる技術開発だけでなく、異なるプラットフォーム間での相互運用性やハードウェアの導入・運用コストの最適化が鍵となります。エンジニアとしては、特定のデバイスに依存しないWebXR技術や、高精細な空間情報の共有基盤の構築が今後のトレンドになるでしょう。",
+    "sourceUrl": "https://www.moguravr.com/?p=322949",
+    "sourceName": "Mogura VR",
+    "originalImageUrl": "https://assets.moguravr.com/uploads/2026/07/af1e48728a8ff8eddd6390f478e3747f-kix.e48xldcrmawe-300x200.webp",
+    "originalImageArticleUrl": "https://www.moguravr.com/?p=322949",
+    "displayDate": "2026-08-03"
+  },
+  "AI": {
+    "title": "Hugging Faceハッキングが警鐘、AIセキュリティの課題",
+    "summary": "OpenAIのモデル資産がHugging Face上で不正アクセスを受けた事案が発生。AIインフラの脆弱性が浮き彫りとなり、モデル供給網やプラットフォームのセキュリティ対策が喫緊の課題として再認識されています。",
+    "insight": "AI開発においてモデルの安全性だけでなく、配布・共有プラットフォームのサプライチェーンセキュリティが重要視されています。エンジニアは推論APIの保護やモデルの整合性検証など、多層的な防御策の導入を再考する必要があります。",
+    "sourceUrl": "https://www.cnbc.com/2026/08/01/open-ai-hugging-face-hack-cyber-warnings.html",
+    "sourceName": "cnbc.com",
+    "originalImageUrl": "https://image.cnbcfm.com/api/v1/image/108328441-1782780337378-gettyimages-527099783-20141125034845_1245_IMG_4146JPG_149607.jpeg?v=1782781855&w=1920&h=1080",
+    "originalImageArticleUrl": "https://www.cnbc.com/2026/08/01/open-ai-hugging-face-hack-cyber-warnings.html",
+    "displayDate": "2026-08-03"
+  },
+  "Camera Control": {
+    "title": "3.2ギガピクセル！次世代観測カメラの圧倒的性能",
+    "summary": "米国のヴェラ・ルービン天文台が開発した3200万画素（3.2ギガピクセル）のLSSTカメラが、一度の撮影で50万個以上の銀河を捉える驚異的な画像を公開しました。宇宙の構造を解明するための、史上最大級のデジタルカメラ性能が話題です。",
+    "insight": "このカメラは膨大なデータ処理を伴う天文観測用であり、画素ピッチとセンサーの幾何学的配置による信号処理の最適化が極めて高度です。大規模データのリアルタイム解析や、ノイズ低減アルゴリズムの実装など、画像処理エンジニアにとって興味深い技術的挑戦が詰まっています。",
+    "sourceUrl": "https://petapixel.com/2026/08/02/3-2-gigapixel-lsst-camera-captures-over-half-a-million-galaxies/",
+    "sourceName": "PetaPixel",
+    "originalImageUrl": "https://petapixel.com/assets/uploads/2026/08/noirlab2618a-1600x840-1.jpg",
+    "originalImageArticleUrl": "https://petapixel.com/2026/08/02/3-2-gigapixel-lsst-camera-captures-over-half-a-million-galaxies/",
+    "displayDate": "2026-08-03"
+  },
+  "Gaming Monitor": {
+    "title": "240Hz QD-OLEDが300ドルに、モニター市場の価格破壊",
+    "summary": "Gigabyteの27インチQD-OLEDゲーミングモニター「GO27Q24A」が、Neweggにて150ドルオフの300ドルで販売されています。240Hzのリフレッシュレートを備えた高性能パネルがこの価格帯まで落ちてきたことは、ゲーミング環境のアップグレードを検討する絶好の機会です。",
+    "insight": "OLEDディスプレイの低価格化は、パネル製造技術の歩留まり向上と競合激化による恩恵と言えます。エンジニア視点では、デスクトップ環境における色再現性と高リフレッシュレートの標準化が進むことで、UI/UX開発の検証環境としての質も向上させやすい好機です。",
+    "sourceUrl": "https://www.tomshardware.com/monitors/gaming-monitors/grab-this-240-hz-qd-oled-gaming-monitor-at-just-usd300-gigabytes-27-inch-go27q24a-is-now-usd150-off-at-newegg",
+    "sourceName": "Tom's Hardware",
+    "originalImageUrl": "https://cdn.mos.cms.futurecdn.net/z9zBNVCqGnwnrQLk5W8azX-1920-80.jpg",
+    "originalImageArticleUrl": "https://www.tomshardware.com/monitors/gaming-monitors/grab-this-240-hz-qd-oled-gaming-monitor-at-just-usd300-gigabytes-27-inch-go27q24a-is-now-usd150-off-at-newegg",
+    "displayDate": "2026-08-03"
+  },
+  "TCL": {
+    "title": "TCL傘下の華星光電、印刷OLEDが民生市場へ",
+    "summary": "TCLグループのCSOT（華星光電）が、印刷方式によるOLEDパネルの量産体制を強化します。広州の大型生産ラインが来年第4四半期に稼働予定で、同技術がついに本格的な民生市場投入へ向けて動き出しました。",
+    "insight": "インクジェット印刷方式のOLEDは蒸着法に比べコスト低減と大型化に適しており、ディスプレイ業界のゲームチェンジャーとなる可能性があります。エンジニアの視点では、この製造プロセスの革新がOLEDテレビやモニターの価格競争力と普及率にどう影響するかが注視すべきポイントです。",
+    "sourceUrl": "https://finance.biggo.jp/news/a758e180-64c8-47ea-9f33-e6552c53269c",
+    "sourceName": "BigGo ファイナンス",
+    "originalImageUrl": "https://img.biggo.com/U1AqpI2l8HhnqeCGaWauTD7QhFp-jHlWFiJX0SyapY4/fit/1200/0/sm/0/aHR0cHM6Ly9pbWcuYmdvLm9uZS9uZXdzLWltYWdlL2FpX2dlbmVyYXRlZC8yMDI2LTA4L2E3NThlMTgwLTY0YzgtNDdlYS05ZjMzLWU2NTUyYzUzMjY5Y18xNzg1NTUzMjA3X2RlZmF1bHQuanBn.jpg",
+    "originalImageArticleUrl": "https://finance.biggo.jp/news/a758e180-64c8-47ea-9f33-e6552c53269c",
+    "displayDate": "2026-08-03"
+  },
+  "Projector": {
+    "title": "BenQのポータブルプロジェクターに火災リスクによるリコール",
+    "summary": "BenQのポータブルプロジェクター「GV31」において、火災および火傷のリスクがあるとして世界的なリコールが発表されました。ユーザーの安全確保のため、該当機種の利用停止とメーカーへの問い合わせが強く推奨されます。",
+    "insight": "デバイスの熱設計は、可搬性と冷却性能のトレードオフが非常に難しいエンジニアリング課題です。特にモバイル向け製品では熱暴走へのガードレール設計やファームウェアによる出力制御が、ハードウェア信頼性の要であることを再認識させられます。",
+    "sourceUrl": "https://www.notebookcheck.net/BenQ-recalls-GV31-portable-projectors-globally-due-to-risk-of-fire-and-burns.1358371.0.html",
+    "sourceName": "Notebookcheck",
+    "originalImageUrl": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Screenshot-2026-08-02-140503-Cropped.png",
+    "originalImageArticleUrl": "https://www.notebookcheck.net/BenQ-recalls-GV31-portable-projectors-globally-due-to-risk-of-fire-and-burns.1358371.0.html",
+    "displayDate": "2026-08-03"
+  },
+  "SONY": {
+    "title": "ソニーが720Hz駆動のゲーミングモニターを世界発売",
+    "summary": "ソニーは、ゲーミングブランド「INZONE」の最新モニター「M10S II」を全世界で発売した。Tandem OLEDパネルを採用し、最大720Hzという驚異的なリフレッシュレートを実現。競技性の高いeスポーツシーンにおいて、極めて滑らかな映像体験を提供するハイエンドモデルとして注目されている。",
+    "insight": "720Hzという数値は、従来のディスプレイ技術の限界を押し広げる驚異的なスペックです。エンジニアの視点で見ると、高いリフレッシュレートとTandem OLEDによる高輝度・長寿命の両立は、映像処理パイプラインや放熱設計、そして高速なデータ伝送技術において高度な最適化が施されていることが伺えます。",
+    "sourceUrl": "https://www.digitaltrends.com/gaming/sonys-720hz-tandem-woled-gaming-monitor-is-finally-available-worldwide/",
+    "sourceName": "Digital Trends",
+    "originalImageUrl": "https://www.digitaltrends.com/tachyon/2026/04/Sony-OLED-high-refresh-rate-gaming-monitor-scaled.jpg?resize=1200%2C630",
+    "originalImageArticleUrl": "https://www.digitaltrends.com/gaming/sonys-720hz-tandem-woled-gaming-monitor-is-finally-available-worldwide/",
+    "displayDate": "2026-08-03"
+  },
+  "TV": {
+    "title": "VNL男子3位決定戦：テレビ・ネット配信情報",
+    "summary": "バレーボールネーションズリーグ（VNL）2026男子3位決定戦、スロベニア戦のテレビ放送およびネット配信予定が公開されました。観戦方法を事前に確認しましょう。",
+    "insight": "スポーツイベントにおける地上波放送とストリーミング配信のハイブリッド提供は、トラフィック分散とユーザー体験の観点で非常に重要です。エンジニアとしては、高負荷時の配信インフラ最適化や、権利処理に伴う放送切り替えの仕組みに注目すると興味深いです。",
+    "sourceUrl": "https://www.dazn.com/ja-JP/news/%E3%83%90%E3%83%AC%E3%83%BC%E3%83%9C%E3%83%BC%E3%83%AB/vnl2026-men-3rd-place-match-japan-vs-slovenia-tv-broadcast-schedule/7g44um6prtue1b04mj29p4jlh",
+    "sourceName": "DAZN",
+    "originalImageUrl": null,
+    "originalImageArticleUrl": "https://www.dazn.com/ja-JP/news/%E3%83%90%E3%83%AC%E3%83%BC%E3%83%9C%E3%83%BC%E3%83%AB/vnl2026-men-3rd-place-match-japan-vs-slovenia-tv-broadcast-schedule/7g44um6prtue1b04mj29p4jlh",
+    "displayDate": "2026-08-03"
+  },
+  "Production Monitor": {
+    "title": "映像制作のAIツール進化：MZedのマスク機能解説",
+    "summary": "MZedの「AIビデオマスキング」コースに、Premiere ProのネイティブマスキングやDaVinci Resolveでのパフォーマンス最適化に関する新モジュールが追加されました。進化の速いAIツールとNLE（非線形編集）の最新ワークフローを学ぶためのアップデートです。",
+    "insight": "AI技術の急速な進化により、かつて時間を要したロトスコープ作業も効率化が進んでいます。ソフトウェアアップデートへのキャッチアップは、制作パイプラインの生産性に直結する重要な技術投資です。",
+    "sourceUrl": "https://www.cined.com/native-premiere-pro-masking-and-overlapping-performances-in-resolve-ai-masking-course-update-on-mzed/",
+    "sourceName": "CineD",
+    "originalImageUrl": "https://www.cined.com/content/uploads/2026/07/AI_masking_course_update-feature-300x169.jpg",
+    "originalImageArticleUrl": "https://www.cined.com/native-premiere-pro-masking-and-overlapping-performances-in-resolve-ai-masking-course-update-on-mzed/",
+    "displayDate": "2026-08-03"
+  },
+  "LED Wall Display": {
+    "title": "バーチャルプロダクションを支えるLEDウォールの進化",
+    "summary": "ITVのドラマ『Believe Me』や最新のAV業界事例において、LEDウォールを活用したバーチャルプロダクション（VP）がストーリーテリングに不可欠な技術となっています。特にBrompton Technologyのような高度な制御ワークフローの導入により、物理的な撮影環境とデジタル背景の融合が飛躍的に高度化しています。",
+    "insight": "リアルタイムレンダリングとLEDウォールの同期精度（Genlockやフレームレート制御）が映像の品質を左右する鍵となっています。カメラトラッキングと視差補正技術の最適化は、低遅延が求められるエッジコンピューティングの実装としても非常に興味深いトピックです。",
+    "sourceUrl": "https://www.tvbeurope.com/virtual-production/how-itvs-believe-me-used-virtual-production-to-drive-the-story-forward",
+    "sourceName": "TVBEurope",
+    "originalImageUrl": "https://www.tvbeurope.com/wp-content/uploads/2026/07/fivefold-studios_Believe-Me_5.jpg",
+    "originalImageArticleUrl": "https://www.tvbeurope.com/virtual-production/how-itvs-believe-me-used-virtual-production-to-drive-the-story-forward",
+    "displayDate": "2026-08-03"
+  }
+}
