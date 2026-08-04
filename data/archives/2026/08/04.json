@@ -1,0 +1,102 @@
+{
+  "Production Monitor": {
+    "title": "ソニーがタムロン買収へ：市場再編の予兆",
+    "summary": "ソニーがレンズメーカーであるタムロンの完全子会社化に向け、買収を提案したことが明らかになりました。両社は現在検討段階ですが、もし実現すれば、サードパーティ製レンズ市場の競争環境やソニーのレンズ供給戦略に大きな影響を与える可能性があります。",
+    "insight": "ハードウェア業界における垂直統合戦略の好例です。技術のブラックボックス化やエコシステムの囲い込みが加速する中、エンジニア視点ではオープンな規格と独占的なライセンス体系のバランスが、製品の市場優位性にどう直結するかを考察する良いトピックとなります。",
+    "sourceUrl": "https://www.cined.com/sony-proposes-to-acquire-lens-maker-tamron-what-a-takeover-could-mean-for-the-lens-market/",
+    "sourceName": "CineD",
+    "originalImageUrl": "https://www.cined.com/content/uploads/2026/08/Sony-Tamron-Acquisition-02-300x169.jpg",
+    "originalImageArticleUrl": "https://www.cined.com/sony-proposes-to-acquire-lens-maker-tamron-what-a-takeover-could-mean-for-the-lens-market/",
+    "displayDate": "2026-08-04"
+  },
+  "AI": {
+    "title": "ホワイトハウス、AI安全性審査の新指針を策定",
+    "summary": "米ホワイトハウスがAI安全性審査に関する新たな枠組みを最終決定しました。OpenAI、Google、Meta、Anthropicなどの主要企業と会合を開き、モデルのテスト手法や監視体制について協議を行う予定です。AIの急速な発展に伴うリスク管理が、国家レベルで本格化しています。",
+    "insight": "エンジニアにとって、今後はモデルの開発効率だけでなく、安全性のエビデンス構築やガバナンス準拠が標準的な要件となります。今後のAI開発プロセスにおいて、安全性テストの自動化や透明性を確保する仕組みの設計がより重要視されるでしょう。",
+    "sourceUrl": "https://www.cnbc.com/2026/08/03/white-house-ai-companies-voluntary-framework-meeting.html",
+    "sourceName": "CNBC",
+    "originalImageUrl": "https://image.cnbcfm.com/api/v1/image/108329722-1782971099939-gettyimages-2281424331-AFP_B7DV3ND.jpeg?v=1785773751&w=1920&h=1080",
+    "originalImageArticleUrl": "https://www.cnbc.com/2026/08/03/white-house-ai-companies-voluntary-framework-meeting.html",
+    "displayDate": "2026-08-04"
+  },
+  "SONY": {
+    "title": "Sony IMX900 MIPIカメラ：新世代の産業用イメージング",
+    "summary": "Vadzo Imagingが、Sonyの最新イメージセンサー「IMX900」を搭載したMIPIインターフェース対応カメラ「Bolt 900MGS」を発表しました。産業用カメラ市場における新たな選択肢として注目されています。",
+    "insight": "IMX900はグローバルシャッターを備え、高速移動体の撮影や精密なマシンビジョンタスクに適しています。MIPI CSI-2インターフェースを採用しているため、エッジAIプラットフォーム（NVIDIA Jetson等）との直接統合が容易で、開発効率が飛躍的に向上します。",
+    "sourceUrl": "https://www.accessnewswire.com/newsroom/en/electronics-and-engineering/vadzo-imaging-positions-the-bolt-900mgs-imx900-sony-pregius-s-based-mon-1197974",
+    "sourceName": "ACCESS Newswire",
+    "originalImageUrl": "https://app.accessnewswire.com/imagelibrary/992a55fe-e2f0-4cd7-82bd-373f6ddacd03/1197974/global-shutter-nir-sensitivity-no-motion-artifac.jpg",
+    "originalImageArticleUrl": "https://www.accessnewswire.com/newsroom/en/electronics-and-engineering/vadzo-imaging-positions-the-bolt-900mgs-imx900-sony-pregius-s-based-mon-1197974",
+    "displayDate": "2026-08-04"
+  },
+  "SRD / XR": {
+    "title": "医療現場のVR普及を加速、ジョリーグッドのパッケージ戦略",
+    "summary": "医療教育におけるVR活用率は依然として13.5％にとどまっています。この「実装の壁」を突破するため、ジョリーグッドはVRイベント運営に必要な機材やコンテンツをワンパッケージで提供し、導入コストと運用のハードルを下げる取り組みを開始しました。",
+    "insight": "医療特化型のXRソリューションにおいて、技術そのものよりも「運用・実装の簡素化」が社会実装の鍵となっています。エンジニアは、高機能なXR体験の開発だけでなく、専門知識がない現場担当者でも即座に展開できるパッケージング設計とエコシステム構築を意識する必要があります。",
+    "sourceUrl": "https://prtimes.jp/main/html/rd/p/000000196.000020924.html",
+    "sourceName": "PR TIMES",
+    "originalImageUrl": "https://prcdn.freetls.fastly.net/release_image/20924/196/20924-196-955db19ea566e0c68a20f27f32d2429f-1726x911.png?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+    "originalImageArticleUrl": "https://prtimes.jp/main/html/rd/p/000000196.000020924.html",
+    "displayDate": "2026-08-04"
+  },
+  "TCL": {
+    "title": "TCLとMSIが世界初の27インチ4K 120Hz IJP OLEDモニタを発表",
+    "summary": "TCL CSOTとMSIが、ChinaJoy 2026にて世界初となる27インチ 4K 120Hzのインクジェット印刷（IJP）方式OLEDパネルを採用したハイエンドデスクトップモニターを発表しました。OLEDの画質と高リフレッシュレートを両立し、プロフェッショナル向け市場を狙います。",
+    "insight": "インクジェット印刷（IJP）技術は、従来の蒸着方式よりも材料ロスが少なく、コスト低減と高解像度化が可能なため、大型・中型OLEDの量産において重要な技術トレンドです。パネル製造のコスト構造の変化は、将来的なゲーミングモニター市場の価格競争力や普及に大きく寄与するでしょう。",
+    "sourceUrl": "https://www.thetechoutlook.com/new-release/gadgets-release/tcl-csot-and-msi-unveiled-the-worlds-first-27-4k-120hz-ijp-oled-high-end-professional-desktop-monitor-at-chinajoy-2026/",
+    "sourceName": "The Tech Outlook",
+    "originalImageUrl": "https://www.thetechoutlook.com/wp-content/uploads/2026/08/MSI_Pro_Max_OLED_271UPJW121.jpg",
+    "originalImageArticleUrl": "https://www.thetechoutlook.com/new-release/gadgets-release/tcl-csot-and-msi-unveiled-the-worlds-first-27-4k-120hz-ijp-oled-high-end-professional-desktop-monitor-at-chinajoy-2026/",
+    "displayDate": "2026-08-04"
+  },
+  "Gaming Monitor": {
+    "title": "Tandem OLED搭載：LG新ゲーミングモニターが市場投入",
+    "summary": "LGから27インチ280Hzの新型ゲーミングモニター「UltraGear」が登場。最新のTandem OLED（タンデムOLED）技術を採用しており、輝度と耐久性の向上が期待されています。価格は399.99ドルから販売開始。",
+    "insight": "Tandem OLEDは、複数の発光層を重ねることで画面の焼き付きリスクを抑えつつ輝度を向上させる技術であり、長時間駆動が求められるゲーミング環境において非常に有望なアプローチです。エンジニアの視点では、OLEDの課題であった寿命とピーク輝度のトレードオフをハードウェアレベルで克服し、安定した高リフレッシュレート環境を提供するトレンドとして注目すべきです。",
+    "sourceUrl": "https://www.ign.com/articles/lg-ultragear-gaming-monitor-deal-with-tandem-oled",
+    "sourceName": "IGN",
+    "originalImageUrl": "https://assets-prd.ignimgs.com/2026/07/29/lggx790-1785359644221.jpg?width=1280&format=jpg&auto=webp&quality=80",
+    "originalImageArticleUrl": "https://www.ign.com/articles/lg-ultragear-gaming-monitor-deal-with-tandem-oled",
+    "displayDate": "2026-08-04"
+  },
+  "TV": {
+    "title": "Apple TVでリーグカップ開幕",
+    "summary": "Appleは、8月4日（日本時間5日）よりリーグカップの試合をApple TVで配信開始したと発表しました。スポーツ観戦のプラットフォームとしてApple TVの存在感が増しています。",
+    "insight": "ストリーミング配信におけるインフラの安定性と低遅延技術は、大規模なライブイベントにおいてエンジニアが注力すべき重要な領域です。マルチデバイス対応や高ビットレートでの配信など、動画配信システムの拡張性が今後の技術トレンドを左右します。",
+    "sourceUrl": "https://www.apple.com/jp/newsroom/2026/08/leagues-cup-kicks-off-tomorrow-august-4-on-apple-tv/",
+    "sourceName": "Apple",
+    "originalImageUrl": "https://www.apple.com/newsroom/images/2026/08/leagues-cup-kicks-off-tomorrow-august-4-on-apple-tv/tile/Apple-TV-Leagues-Cup-2026-hero-lp.jpg.og.jpg?202608031510",
+    "originalImageArticleUrl": "https://www.apple.com/jp/newsroom/2026/08/leagues-cup-kicks-off-tomorrow-august-4-on-apple-tv/",
+    "displayDate": "2026-08-04"
+  },
+  "Projector": {
+    "title": "Hisense PX4 Pro、プロジェクターでFreeSync対応へ",
+    "summary": "Hisenseの新型超短焦点レーザープロジェクター「PX4 Pro」が、プロジェクターとして初めてAMD FreeSync Premiumに対応しました。これにより、家庭用大画面でのゲーミング環境が大幅に向上します。",
+    "insight": "プロジェクターへの可変リフレッシュレート技術（VRR）の導入は、低遅延ゲーミング体験の民主化を意味します。家庭用エンターテインメント機器とゲーミングモニターの境界線が曖昧になるトレンドは、エンジニアにとってもハードウェア性能の拡張性の観点で注目の動向です。",
+    "sourceUrl": "https://www.techtimes.com/articles/322832/20260803/hisense-px4-pro-brings-freesync-premium-ultra-short-throw-projection-first-time.htm",
+    "sourceName": "Tech Times",
+    "originalImageUrl": "https://d.techtimes.com/en/full/471147/hisense-px4-pro.png",
+    "originalImageArticleUrl": "https://www.techtimes.com/articles/322832/20260803/hisense-px4-pro-brings-freesync-premium-ultra-short-throw-projection-first-time.htm",
+    "displayDate": "2026-08-04"
+  },
+  "LED Wall Display": {
+    "title": "次世代ディスプレイ技術：1素子で4色発光を実現",
+    "summary": "大阪大学と立命館大学の研究チームが、室温で単一の発光層から4色の光を制御できる新しいLED技術を開発しました。従来のRGB方式とは異なり、積層構造を簡素化できる可能性があり、将来的なマイクロLEDディスプレイの製造効率や高精細化に大きく貢献する画期的な成果です。",
+    "insight": "従来のRGB個別のエミッターを必要とする方式と比較し、単一レイヤーでの多色制御はマイクロLEDの画素密度向上と歩留まり改善の鍵となります。エンジニアとしては、この技術が量産化された際の駆動回路設計や、色純度保持のための制御アルゴリズムの変化に注目すべきです。",
+    "sourceUrl": "https://www.ledinside.com/news/2026/8/2026_08_03_04",
+    "sourceName": "LEDinside",
+    "originalImageUrl": "https://nmgprod.s3.amazonaws.com/media/file/d9/ee/e4e0b8e48a9632e461bb32c25b19/cover_image__AKJ7GEBX__Proto_nussbaum_cheddar.JPEG.360x190_q85_crop_upscale.webp",
+    "originalImageArticleUrl": "https://www.digitalsignagetoday.com/news/proto-hologram-gets-holographic-display-patent/",
+    "displayDate": "2026-08-04"
+  },
+  "Camera Control": {
+    "title": "日本のクリエイターのAI利用率が6割超へ",
+    "summary": "アドビの「2026年版クリエイターツールキットレポート」によると、日本を含む世界のSNSクリエイターのAI利用率が急増しています。一方で日本のクリエイターは、AIの出力精度に対して一定の不信感を持っており、利便性と精度の間でバランスを取りながら活用を模索している現状が浮き彫りとなりました。",
+    "insight": "AI生成物の「品質保証（QA）」に対するエンジニアリング的な視点が、今後クリエイティブツールの開発において重要になります。単なる生成ではなく、既存のワークフローと統合する際の信頼性担保の仕組みが、導入の分水嶺となるでしょう。",
+    "sourceUrl": "https://dc.watch.impress.co.jp/docs/column/photo_ai/2129982.html",
+    "sourceName": "デジカメ Watch",
+    "originalImageUrl": "https://dc.watch.impress.co.jp/img/dcw/list/2129/982/01.jpg",
+    "originalImageArticleUrl": "https://dc.watch.impress.co.jp/docs/column/photo_ai/2129982.html",
+    "displayDate": "2026-08-04"
+  }
+}
