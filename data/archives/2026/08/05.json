@@ -1,0 +1,102 @@
+{
+  "Projector": {
+    "title": "富士フイルムが新プロジェクター「ZUH12000」を投入",
+    "summary": "富士フイルムが最新のレーザープロジェクター「FUJIFILM PROJECTOR ZUH12000」を発表しました。高輝度・高画質な映像体験を実現するモデルとして、ホームシアター市場や業務用市場での注目を集めています。",
+    "insight": "光学設計に強みを持つ富士フイルムが、投写型デバイスでどのような色再現や高コントラストを実現しているか注目です。ハードウェアエンジニアとしては、光学エンジンと熱設計のバランスについて、最新の仕様をベンチマークする価値があります。",
+    "sourceUrl": "https://www.fujifilm.com/cz/en/news/hq/13803",
+    "sourceName": "Fujifilm [Global]",
+    "originalImageUrl": "https://asset.fujifilm.com/common/img/fujifilm_ogp.png",
+    "originalImageArticleUrl": "https://www.fujifilm.com/cz/en/news/hq/13803",
+    "displayDate": "2026-08-05"
+  },
+  "AI": {
+    "title": "米政権、オープンウェイトAIの安全性審査を免除へ",
+    "summary": "次期トランプ政権の顧問らは、オープンソースモデル（オープンウェイトモデル）に対して、AI企業に安全性テストを義務付けない方針を示しました。これはAIのイノベーション加速を優先する姿勢を示しており、今後の業界規制のあり方に大きな影響を与える可能性があります。",
+    "insight": "この方針は、AIの民主化や開発の高速化を促す一方、モデルの悪用や意図しない挙動に対するガバナンスが課題となります。エンジニアとしては、規制環境に依存しない堅牢なモデル評価や、セーフティ・バイ・デザインの実装がこれまで以上に重要になるでしょう。",
+    "sourceUrl": "https://www.reuters.com/legal/litigation/meta-anthropic-google-openai-meet-with-trump-white-house-amid-rogue-ai-agent-2026-08-04/",
+    "sourceName": "Reuters",
+    "originalImageUrl": null,
+    "originalImageArticleUrl": "https://www.reuters.com/legal/litigation/meta-anthropic-google-openai-meet-with-trump-white-house-amid-rogue-ai-agent-2026-08-04/",
+    "displayDate": "2026-08-05"
+  },
+  "Camera Control": {
+    "title": "カメラ搭載のAirPodsが年内に登場か？",
+    "summary": "Appleが開発中と噂されるカメラ搭載のAirPodsが、予想より早い2026年内にリリースされる可能性があると報じられました。ウェアラブルデバイスの新たな形として注目されています。",
+    "insight": "小型カメラとAI処理の統合は、エッジコンピューティングの新たなユースケースとなりそうです。耳元にカメラを置くことで、視線に近い情報をリアルタイムで解析・補完する「空間コンピューティング」への発展が期待されます。",
+    "sourceUrl": "https://petapixel.com/2026/08/04/airpods-with-cameras-could-be-released-this-year/",
+    "sourceName": "PetaPixel",
+    "originalImageUrl": "https://petapixel.com/assets/uploads/2026/06/airpods-camera.jpg",
+    "originalImageArticleUrl": "https://petapixel.com/2026/08/04/airpods-with-cameras-could-be-released-this-year/",
+    "displayDate": "2026-08-05"
+  },
+  "Production Monitor": {
+    "title": "DJI Mic Mini 2S登場：32bit浮動小数点録音に対応",
+    "summary": "DJIからワイヤレスマイク「Mic Mini 2S」が発表されました。本体に14.5GBのストレージを内蔵し、32bit浮動小数点形式での直接録音が可能。受信機1台で最大4つの送信機を制御でき、AIノイズキャンセリングや効率的なファイルオフロード機能も搭載されています。",
+    "insight": "オーディオ録音において32bit floatは、ゲイン調整の失敗によるクリッピングを防ぐ極めて強力な技術です。ハードウェアレベルでこの技術が小型機器に標準実装されることで、クリエイターのワークフローにおける冗長性と安全性が劇的に向上します。",
+    "sourceUrl": "https://www.cined.com/dji-mic-mini-2s-released-32-bit-float-internal-recording-14-5gb-storage-and-four-transmitter-support/",
+    "sourceName": "CineD",
+    "originalImageUrl": "https://www.cined.com/content/uploads/2026/08/DJI-Mic-Mini-2S-featured-300x169.jpg",
+    "originalImageArticleUrl": "https://www.cined.com/dji-mic-mini-2s-released-32-bit-float-internal-recording-14-5gb-storage-and-four-transmitter-support/",
+    "displayDate": "2026-08-05"
+  },
+  "SONY": {
+    "title": "Sony BRAVIA 9 II：115インチの巨大テレビが登場",
+    "summary": "Sonyから最新のフラッグシップテレビ「BRAVIA 9 II」が正式発表されました。最大の特徴は圧倒的なサイズとなる115インチディスプレイであり、家庭用テレビの枠を超えた没入感と高性能な画質処理技術が統合されています。",
+    "insight": "大型ディスプレイにおけるバックライト制御技術は、信号処理と熱管理の精緻な最適化が不可欠です。この製品の裏側には、高解像度映像を低遅延で処理するための高度なアルゴリズムと、大画面特有の均一性を維持するハードウェア設計が活かされています。",
+    "sourceUrl": "https://techgenyz.com/sony-bravia-9-ii-india-launch/",
+    "sourceName": "Techgenyz",
+    "originalImageUrl": "https://techgenyz.com/wp-content/uploads/2026/08/Bravia-9-II.webp",
+    "originalImageArticleUrl": "https://techgenyz.com/sony-bravia-9-ii-india-launch/",
+    "displayDate": "2026-08-05"
+  },
+  "TCL": {
+    "title": "TCL、フィリピンで3年連続TVシェア1位を達成",
+    "summary": "TCLがフィリピン市場において、3年連続でテレビ販売台数シェア第1位を獲得しました。コストパフォーマンスに優れたMini LEDやQLEDモデルの拡販が奏功し、地域市場での確固たる地位を維持しています。",
+    "insight": "中国メーカーがグローバルなサプライチェーンと低価格なパネル供給能力を活かし、新興国市場で圧倒的なシェアを確立している好例です。技術的にはMini LEDなどの高付加価値製品へのシフトを、いかに低コストで実現できるかが今後のシェア争いの鍵となります。",
+    "sourceUrl": "https://www.megabites.com.ph/tcl-extends-reign-as-the-philippines-no-1-panel-tv-brand-for-three-consecutive-years/",
+    "sourceName": "megabites.com.ph",
+    "originalImageUrl": "https://www.megabites.com.ph/wp-content/uploads/2026/08/TCL-Solidifies-Market-Leadership-as-Philippines-No.-1-Panel-TV-Brand-for-Three-Straight-Years.webp",
+    "originalImageArticleUrl": "https://www.megabites.com.ph/tcl-extends-reign-as-the-philippines-no-1-panel-tv-brand-for-three-consecutive-years/",
+    "displayDate": "2026-08-05"
+  },
+  "TV": {
+    "title": "最新OLEDテレビの評価と選び方",
+    "summary": "最近、SamsungやSonyといった主要メーカーのOLED（有機EL）テレビに関するレビューやセール情報が活発です。特に明るい部屋での視認性や、大型サイズのBundle販売などが注目されており、ホームエンターテインメント体験の進化が続いています。",
+    "insight": "エンジニア視点では、OLED特有の輝度と焼き付き防止技術の進化、そしてHDR性能を支える映像エンジン技術に注目です。高リフレッシュレートや低遅延などのゲーミング機能との親和性も、コンソールやPCゲーマーにとって重要な評価指標となります。",
+    "sourceUrl": "https://theinventory.com/samsung-s95h-oled-tv-bright-room-glare-free-review",
+    "sourceName": "The Inventory",
+    "originalImageUrl": "https://theinventory.com/cdn-cgi/image/width=1200,quality=85,format=auto/https://assets.theinventory.com/media/samsung-s95h-oled-tv-bright-room-glare-free-review-1785862467433-1200x630.png",
+    "originalImageArticleUrl": "https://theinventory.com/samsung-s95h-oled-tv-bright-room-glare-free-review",
+    "displayDate": "2026-08-05"
+  },
+  "LED Wall Display": {
+    "title": "テキサス州立大が導入！ハリウッド級バーチャルプロダクション",
+    "summary": "テキサス州立大学のコミュニケーション学部が、最新のハリウッド級バーチャルプロダクション向けLEDウォールを導入しました。教育機関がプロ仕様の制作環境を整えることで、映像制作教育の現場に革新をもたらしています。",
+    "insight": "バーチャルプロダクションでは、高リフレッシュレートと低レイテンシの同期が不可欠であり、計算リソースの最適化がエンジニアの腕の見せ所です。特に教育現場での導入は、将来的なクリエイターへのリアルタイムレンダリング技術の浸透を加速させるでしょう。",
+    "sourceUrl": "chrome-error://chromewebdata/",
+    "sourceName": "Texas Metro News",
+    "originalImageUrl": null,
+    "originalImageArticleUrl": "chrome-error://chromewebdata/",
+    "displayDate": "2026-08-05"
+  },
+  "SRD / XR": {
+    "title": "VRで震度7を疑似体験、防災教育の新たな可能性",
+    "summary": "長崎県佐世保市で、VRを活用した防災学習が実施されました。小学生が熊本地震と同等の震度7をVRで疑似体験し、避難行動の重要性を学ぶ貴重な機会となりました。災害時の行動変容を促すシミュレーターとしてのXR技術の活用事例です。",
+    "insight": "VRによる没入型トレーニングは、テキストや講義では困難な『恐怖感』の疑似体験を通じて、行動記憶をより定着させる効果が期待できます。エンジニアとしては、物理挙動の正確な再現や低遅延な同期処理といった、体験のリアルさを追求する開発の社会貢献性が改めて注目される領域です。",
+    "sourceUrl": "https://newsdig.tbs.co.jp/articles/nbc/2850988",
+    "sourceName": "TBS NEWS DIG",
+    "originalImageUrl": "https://newsdig.ismcdn.jp/mwimgs/7/4/1200w/img_748d8dc6317a36c2721dd56de64d9d2b252951.jpg",
+    "originalImageArticleUrl": "https://newsdig.tbs.co.jp/articles/nbc/2850988",
+    "displayDate": "2026-08-05"
+  },
+  "Gaming Monitor": {
+    "title": "480Hzの衝撃！AsusのOLEDゲーミングモニターが過去最安値に",
+    "summary": "Amazonにて、驚異的な480Hzのリフレッシュレートを誇るAsus製OLEDゲーミングモニターが過去最安値を記録。高リフレッシュレート化が進むディスプレイ技術の進化が、競技性の高いゲーム体験をさらに引き上げています。",
+    "insight": "480Hzという圧倒的なフレームレートは、入力遅延を極限まで抑える必要のある競技シーンで大きなアドバンテージとなります。エンジニアとしては、この高密度な描画パイプラインを支えるGPUのレンダリング負荷や、ディスプレイ側の同期技術（G-SYNC/FreeSync）の処理コストについて考察を深める好機です。",
+    "sourceUrl": "https://www.pcguide.com/deals/mind-blowing-480hz-asus-oled-gaming-monitor-hits-another-low-price-at-amazon/",
+    "sourceName": "PC Guide",
+    "originalImageUrl": "https://www.pcguide.com/wp-content/uploads/2026/08/Mind-blowing-480Hz-Asus-OLED-gaming-monitor-hits-another-low-price-at-Amazon.jpg",
+    "originalImageArticleUrl": "https://www.pcguide.com/deals/mind-blowing-480hz-asus-oled-gaming-monitor-hits-another-low-price-at-amazon/",
+    "displayDate": "2026-08-05"
+  }
+}

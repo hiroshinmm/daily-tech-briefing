@@ -1,10 +1,6 @@
 {
   "Production Monitor": [
     {
-      "url": "https://www.cined.com/blackmagic-ultrastudio-mini-12g-family-released-thunderbolt-4-capture-and-playback-12g-sdi-fill-and-key-davinci-resolve-replay/",
-      "date": "2026-07-29"
-    },
-    {
       "url": "https://www.newsshooter.com/2026/07/29/sony-semiconductor-manufacturing-halted-in-kumamoto-prefecture/?utm_source=rss&utm_medium=rss&utm_campaign=sony-semiconductor-manufacturing-halted-in-kumamoto-prefecture",
       "date": "2026-07-30"
     },
@@ -27,13 +23,13 @@
     {
       "url": "https://www.cined.com/sony-proposes-to-acquire-lens-maker-tamron-what-a-takeover-could-mean-for-the-lens-market/",
       "date": "2026-08-04"
+    },
+    {
+      "url": "https://www.cined.com/dji-mic-mini-2s-released-32-bit-float-internal-recording-14-5gb-storage-and-four-transmitter-support/",
+      "date": "2026-08-05"
     }
   ],
   "SRD / XR": [
-    {
-      "url": "https://realsound.jp/tech/2026/07/post-2473905.html",
-      "date": "2026-07-29"
-    },
     {
       "url": "https://realsound.jp/tech/2026/07/post-2474731.html",
       "date": "2026-07-30"
@@ -57,13 +53,13 @@
     {
       "url": "https://prtimes.jp/main/html/rd/p/000000196.000020924.html",
       "date": "2026-08-04"
+    },
+    {
+      "url": "https://newsdig.tbs.co.jp/articles/nbc/2850988",
+      "date": "2026-08-05"
     }
   ],
   "AI": [
-    {
-      "url": "https://jp.reuters.com/economy/4GVQSVCMHNO6BG6XGT5KKZXNRA-2026-07-28/",
-      "date": "2026-07-29"
-    },
     {
       "url": "https://www.nytimes.com/2026/07/29/business/economy/data-center-electricians-training.html",
       "date": "2026-07-30"
@@ -87,13 +83,13 @@
     {
       "url": "https://www.cnbc.com/2026/08/03/white-house-ai-companies-voluntary-framework-meeting.html",
       "date": "2026-08-04"
+    },
+    {
+      "url": "https://www.reuters.com/legal/litigation/meta-anthropic-google-openai-meet-with-trump-white-house-amid-rogue-ai-agent-2026-08-04/",
+      "date": "2026-08-05"
     }
   ],
   "Gaming Monitor": [
-    {
-      "url": "https://www.flatpanelshd.com/news.php?subaction=showfull&id=1785129741",
-      "date": "2026-07-29"
-    },
     {
       "url": "https://www.ign.com/articles/lg-ultragear-gaming-monitor-deal-with-tandem-oled",
       "date": "2026-07-30"
@@ -117,13 +113,13 @@
     {
       "url": "https://www.ign.com/articles/lg-ultragear-gaming-monitor-deal-with-tandem-oled",
       "date": "2026-08-04"
+    },
+    {
+      "url": "https://www.pcguide.com/deals/mind-blowing-480hz-asus-oled-gaming-monitor-hits-another-low-price-at-amazon/",
+      "date": "2026-08-05"
     }
   ],
   "TCL": [
-    {
-      "url": "https://www.tweaktown.com/news/112871/tcl-debuts-ultimate-pro-32x3b-and-27x3b-gaming-monitors-with-lgs-4th-gen-woled-panel/index.html",
-      "date": "2026-07-29"
-    },
     {
       "url": "https://www.eteknix.com/tcl-introduces-next-generation-woled-gaming-monitors-with-up-to-480hz-refresh-rate/",
       "date": "2026-07-30"
@@ -147,13 +143,13 @@
     {
       "url": "https://www.thetechoutlook.com/new-release/gadgets-release/tcl-csot-and-msi-unveiled-the-worlds-first-27-4k-120hz-ijp-oled-high-end-professional-desktop-monitor-at-chinajoy-2026/",
       "date": "2026-08-04"
+    },
+    {
+      "url": "https://www.megabites.com.ph/tcl-extends-reign-as-the-philippines-no-1-panel-tv-brand-for-three-consecutive-years/",
+      "date": "2026-08-05"
     }
   ],
   "Camera Control": [
-    {
-      "url": "https://www.dpreview.com/samples/dji-osmo-pocket-4p-sample-footage-dlog2-dual-cameras/",
-      "date": "2026-07-29"
-    },
     {
       "url": "https://petapixel.com/2026/07/29/sony-is-reportedly-trying-to-buy-tamron-which-makes-perfect-sense/",
       "date": "2026-07-30"
@@ -177,13 +173,13 @@
     {
       "url": "https://dc.watch.impress.co.jp/docs/column/photo_ai/2129982.html",
       "date": "2026-08-04"
+    },
+    {
+      "url": "https://petapixel.com/2026/08/04/airpods-with-cameras-could-be-released-this-year/",
+      "date": "2026-08-05"
     }
   ],
   "LED Wall Display": [
-    {
-      "url": "//www.ledinside.com/news/2026/7/2026_07_28_03",
-      "date": "2026-07-29"
-    },
     {
       "url": "//www.ledinside.com/products/2026/7/2026_07_29_10",
       "date": "2026-07-30"
@@ -207,13 +203,13 @@
     {
       "url": "https://www.digitalsignagetoday.com/news/proto-hologram-gets-holographic-display-patent/",
       "date": "2026-08-04"
+    },
+    {
+      "url": "chrome-error://chromewebdata/",
+      "date": "2026-08-05"
     }
   ],
   "SONY": [
-    {
-      "url": "https://dime.jp/genre/2138972/",
-      "date": "2026-07-29"
-    },
     {
       "url": "https://diamond.jp/articles/amp/395310",
       "date": "2026-07-30"
@@ -237,13 +233,13 @@
     {
       "url": "https://www.accessnewswire.com/newsroom/en/electronics-and-engineering/vadzo-imaging-positions-the-bolt-900mgs-imx900-sony-pregius-s-based-mon-1197974",
       "date": "2026-08-04"
+    },
+    {
+      "url": "https://techgenyz.com/sony-bravia-9-ii-india-launch/",
+      "date": "2026-08-05"
     }
   ],
   "TV": [
-    {
-      "url": "https://theinventory.com/panasonic-z8-77-inch-oled-tv-deal-144hz-gaming",
-      "date": "2026-07-29"
-    },
     {
       "url": "https://www.notebookcheck.net/2026-Samsung-S90H-OLED-TV-brings-glare-free-gaming-at-record-low-Amazon-sale-price.1354984.0.html",
       "date": "2026-07-30"
@@ -267,13 +263,13 @@
     {
       "url": "https://www.apple.com/jp/newsroom/2026/08/leagues-cup-kicks-off-tomorrow-august-4-on-apple-tv/",
       "date": "2026-08-04"
+    },
+    {
+      "url": "https://theinventory.com/samsung-s95h-oled-tv-bright-room-glare-free-review",
+      "date": "2026-08-05"
     }
   ],
   "Projector": [
-    {
-      "url": "https://www.rtings.com/projector/tests/changelogs/1-0",
-      "date": "2026-07-29"
-    },
     {
       "url": "https://www.rtings.com/projector/tests/picture-quality/color-volume",
       "date": "2026-07-30"
@@ -297,6 +293,10 @@
     {
       "url": "https://www.techtimes.com/articles/322832/20260803/hisense-px4-pro-brings-freesync-premium-ultra-short-throw-projection-first-time.htm",
       "date": "2026-08-04"
+    },
+    {
+      "url": "https://www.fujifilm.com/cz/en/news/hq/13803",
+      "date": "2026-08-05"
     }
   ]
 }
