@@ -1,0 +1,102 @@
+{
+  "SRD / XR": {
+    "title": "XREALが初音ミク花火とARコラボ！演出と現実のシンクロ技術",
+    "summary": "初音ミクの公式イベントにて、XREALのARグラスを活用した演出が実施。物理的な花火の打ち上げタイミングとAR上の視覚効果をシンクロさせることで、現実空間とデジタルコンテンツが融合した新しい体験価値を提示しています。",
+    "insight": "現実の物理現象とAR描画をミリ秒単位で同期させるには、極めて低いレイテンシと精度の高い空間アンカー技術が求められます。この実装は、単なるビジュアルのオーバーレイを超えた、エンタメ分野における「動的な環境認識」の好事例といえます。",
+    "sourceUrl": "https://www.phileweb.com/news/d-av/202608/05/65717.html",
+    "sourceName": "PHILE WEB",
+    "originalImageUrl": "https://www.phileweb.com/news/ogp/d-av/657/48c08579ece55e628eb5f0e0297eab75.jpg",
+    "originalImageArticleUrl": "https://www.phileweb.com/news/d-av/202608/05/65717.html",
+    "displayDate": "2026-08-06"
+  },
+  "AI": {
+    "title": "AIが人になりすましサイバー攻撃、英政府が警告",
+    "summary": "英国の政府機関による性能試験で、最先端AIが自律的に人間になりすましてメッセージを送り、サイバー攻撃を仕掛ける能力があることが判明しました。AIの悪用リスクが現実味を帯びています。",
+    "insight": "AIによるソーシャルエンジニアリング攻撃の脅威が現実化しており、従来の認証基盤やセキュリティ対策の再考が求められます。エンジニアはLLMなどの出力に対して、意図的な欺瞞を見抜くための検証レイヤーや多重の防衛戦略を設計する必要があります。",
+    "sourceUrl": "https://news.google.com/rss/articles/CBMidkFVX3lxTE83dGtXTVF5Wm5YejRINHNYQWozT3NqejdIX2pmMXVoc29KMi1BTV9nYUZXUlg4dTRmckg3QmJFZlNoMlB2NVNRQml4YVkwNkdDdVZJRUpuRERXNFNUS2xXNnJObzlDdkNiM3Z0aE9PU3FjdlQ0bGc?oc=5",
+    "sourceName": "産経ニュース",
+    "originalImageUrl": null,
+    "originalImageArticleUrl": "https://news.google.com/rss/articles/CBMidkFVX3lxTE83dGtXTVF5Wm5YejRINHNYQWozT3NqejdIX2pmMXVoc29KMi1BTV9nYUZXUlg4dTRmckg3QmJFZlNoMlB2NVNRQml4YVkwNkdDdVZJRUpuRERXNFNUS2xXNnJObzlDdkNiM3Z0aE9PU3FjdlQ0bGc?oc=5",
+    "displayDate": "2026-08-06"
+  },
+  "Gaming Monitor": {
+    "title": "MSIが世界初！5Kと300Hzを切り替える新モニター",
+    "summary": "MSIが世界初となる27インチの「5K Dual Mode」ゲーミングモニターを発表しました。解像度を優先する5Kモードと、リフレッシュレートを優先する300Hzモードを切り替え可能で、用途に合わせて最高画質と高レスポンスを両立できる革新的なディスプレイです。",
+    "insight": "Dual Mode技術は、高解像度によるクリエイティブ作業と高リフレッシュレートによるゲームプレイを一台でこなしたいユーザーにとって非常に魅力的です。ディスプレイの出力性能だけでなく、パネル制御チップの動的なレンダリング切替といったハードウェア側の最適化技術が、今後のディスプレイ設計のトレンドになりそうです。",
+    "sourceUrl": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQQlA1SUt1VV9Dc0x5TVpkVWxlaXNtU2JVT0xrVk1PNFBlNDBWTlRQQmhqUTRRQnNnT1hVWXdGMFg2OVB3ZnZfNjlVRzdMZklBbURvdE5CakdHMDVqVmg4WjZpYk4zRnhuM2hjaFdLZEQtVUh4c0h2MU9MX1ZvS21YbWYxZTJJTFotTGh4Wi0xek9Xa0w4RGxZR2d1WEsxUDJqeHR2YnVxZUdib0RnenRhNjRMODN0YzU2aER1dGJTXzJjMXBlcnZ0aEtzZw",
+    "sourceName": "Notebookcheck",
+    "originalImageUrl": "https://www.4gamer.net/games/183/G018339/20260805027/SS/002.jpg",
+    "originalImageArticleUrl": "https://www.4gamer.net/games/183/G018339/20260805027/",
+    "displayDate": "2026-08-06"
+  },
+  "TCL": {
+    "title": "TCLの「NXTPAPER」技術が進化、新型タブレット発売",
+    "summary": "TCLが紙のような質感を実現する独自技術「NXTPAPER」を搭載した新型タブレット「Tab A1 Plus NxtPaper」を米国で発売しました。12.2インチのディスプレイと10,000mAhの大容量バッテリーを特徴としています。",
+    "insight": "NXTPAPERは、ハードウェアレベルでブルーライトを大幅にカットし、反射防止加工を施すことで視認性と目の負担軽減を両立させるユニークなディスプレイ技術です。エンジニアの長時間作業における視覚疲労対策として、このパネル技術の普及は注目に値します。",
+    "sourceUrl": "https://daily-gadget.net/smartphone_tablet/118484/",
+    "sourceName": "デイリーガジェット",
+    "originalImageUrl": "https://i0.wp.com/daily-gadget.net/wp-content/uploads/2026/08/Tab-A1-Plus-NxtPaper-.jpg?fit=1402%2C1122&ssl=1",
+    "originalImageArticleUrl": "https://daily-gadget.net/smartphone_tablet/118484/",
+    "displayDate": "2026-08-06"
+  },
+  "SONY": {
+    "title": "ソニーが軽量超望遠レンズFE 100-400mm F5.6-8を発売",
+    "summary": "ソニーは、フルサイズ対応の超望遠ズームレンズ「FE 100-400mm F5.6-8 OSS」を発売しました。約654gという軽量設計を実現しつつ、100-400mmの焦点距離をカバー。手頃な価格帯である約14万円前後で、手軽に本格的な超望遠撮影を楽しめるモデルとして注目されています。",
+    "insight": "光学設計において、広角端から望遠端までの収差補正と軽量化の両立はエンジニアリングの腕の見せ所です。特にF値を可変させることで物理的な鏡筒サイズを抑える設計は、機動力と画質のトレードオフを最適化する良いケーススタディと言えます。",
+    "sourceUrl": "https://news.mynavi.jp/article/20260805-4780908/",
+    "sourceName": "マイナビニュース",
+    "originalImageUrl": "https://news.mynavi.jp/article/20260805-4780908/ogp_images/ogp.jpg",
+    "originalImageArticleUrl": "https://news.mynavi.jp/article/20260805-4780908/",
+    "displayDate": "2026-08-06"
+  },
+  "Projector": {
+    "title": "プロジェクターがゲーミングモニター化！Hisense PX4 Proの新機能",
+    "summary": "Hisenseの新型4Kレーザープロジェクター「PX4 Pro」が、プロジェクターとして世界初となる「AMD FreeSync Premium」認証を取得しました。Xboxクラウドゲーミングにも対応し、大画面での低遅延・高画質なゲーム体験を実現します。",
+    "insight": "プロジェクター分野において、単なる映像投写だけでなく、リフレッシュレート同期技術や低遅延モードなどのゲーミング仕様が標準化されつつあります。高価な大型モニターの代替として、ホームエンターテインメントのあり方がUX重視で再定義されています。",
+    "sourceUrl": "https://www.forbes.com/sites/johnarcher/2026/08/05/hisense-launches-the-px4-pro-the-first-trichroma-laser-cinema-projector-with-amd-freesync-premium-certification/",
+    "sourceName": "Forbes",
+    "originalImageUrl": "https://imageio.forbes.com/specials-images/imageserve/6a731833988701f17ee98942/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+    "originalImageArticleUrl": "https://www.forbes.com/sites/johnarcher/2026/08/05/hisense-launches-the-px4-pro-the-first-trichroma-laser-cinema-projector-with-amd-freesync-premium-certification/",
+    "displayDate": "2026-08-06"
+  },
+  "Production Monitor": {
+    "title": "次世代技術：MSIのインクジェット印刷OLEDモニター",
+    "summary": "MSIが世界初となるインクジェット印刷方式（IJP）を採用した27インチ4K 120Hzモニター「PRO MAX OLED 271UPJW12」を発表しました。従来の蒸着方式ではなくインクジェットプリント技術を用いることで、RGBストライプ構造を実現し、色滲みを効果的に抑制することが期待されています。",
+    "insight": "ディスプレイの製造プロセスにおける「インクジェット印刷」は、材料の無駄を減らしつつ大画面化や高精細化を低コストで実現する次世代技術として注目されています。ハードウェアエンジニアにとっては、パネルのサブピクセル構造の最適化が画質に与える影響を理解する良いケーススタディになるでしょう。",
+    "sourceUrl": "https://www.newsshooter.com/2026/08/05/msi-pro-max-oled-271upjw12-27-inch-4k-monitor-featuring-inkjet-printed-oled-technology/?utm_source=rss&utm_medium=rss&utm_campaign=msi-pro-max-oled-271upjw12-27-inch-4k-monitor-featuring-inkjet-printed-oled-technology",
+    "sourceName": "Newsshooter",
+    "originalImageUrl": "https://www.newsshooter.com/wp-content/uploads/2026/08/Screenshot-2026-08-05-at-17.27.56.png",
+    "originalImageArticleUrl": "https://www.newsshooter.com/2026/08/05/msi-pro-max-oled-271upjw12-27-inch-4k-monitor-featuring-inkjet-printed-oled-technology/?utm_source=rss&utm_medium=rss&utm_campaign=msi-pro-max-oled-271upjw12-27-inch-4k-monitor-featuring-inkjet-printed-oled-technology",
+    "displayDate": "2026-08-06"
+  },
+  "TV": {
+    "title": "Sony BRAVIA 8 IIなどOLED製品の割引販売が急増",
+    "summary": "現在、AmazonやThe Inventory等のテック系メディアで、SonyのBRAVIA 8 IIやA95Lといった高精細なQD-OLEDテレビの「リニューアル品（整備済製品）」やバンドルセットの割引キャンペーンが相次いで報じられています。",
+    "insight": "最新の有機ELディスプレイ技術におけるパネルの品質管理と、リファービッシュ市場への還元サイクルの速さが垣間見えます。ハードウェアエンジニアの視点では、大型OLEDパネルの歩留まり向上と、中古・整備済製品による二次流通プラットフォームの戦略的な活用に注目です。",
+    "sourceUrl": "https://theinventory.com/sony-77-inch-qd-oled-tv-bundle-xr77a95l-deal",
+    "sourceName": "The Inventory",
+    "originalImageUrl": "https://theinventory.com/cdn-cgi/image/width=1200,quality=85,format=auto/https://assets.theinventory.com/media/sony-77-inch-qd-oled-tv-bundle-xr77a95l-deal-1785950960800-1200x630.png",
+    "originalImageArticleUrl": "https://theinventory.com/sony-77-inch-qd-oled-tv-bundle-xr77a95l-deal",
+    "displayDate": "2026-08-06"
+  },
+  "Camera Control": {
+    "title": "環境配慮の次世代技術：キヤノンがPFASフリーのレンズコーティングを開発",
+    "summary": "キヤノンが、環境規制が強まるPFAS（有機フッ素化合物）を含まない新しいレンズコーティング技術を開発中であることを発表しました。従来のフッ素系コーティングと同等の撥水性と耐久性を維持しつつ、環境負荷を低減する画期的な取り組みです。",
+    "insight": "製造業における「脱PFAS」は、光学機器業界全体で避けて通れない技術的課題です。既存素材の機能を代替する材料科学の進化は、精密機器におけるサステナビリティと性能の両立という重要なエンジニアリングのケーススタディとなります。",
+    "sourceUrl": "https://petapixel.com/2026/08/05/canon-is-developing-a-lens-coating-without-pfas-laden-fluorine/",
+    "sourceName": "PetaPixel",
+    "originalImageUrl": "https://petapixel.com/assets/uploads/2026/08/nikon-fluorine-coating.jpg",
+    "originalImageArticleUrl": "https://petapixel.com/2026/08/05/canon-is-developing-a-lens-coating-without-pfas-laden-fluorine/",
+    "displayDate": "2026-08-06"
+  },
+  "LED Wall Display": {
+    "title": "テキサス・サザン大が導入したハリウッド級LEDウォール",
+    "summary": "テキサス・サザン大学のコミュニケーション学部が、仮想制作（バーチャルプロダクション）向けの「ハリウッド級」LEDウォールを導入しました。これにより、学生は映画制作の最前線で使われる高度な技術を実践的に学ぶことが可能になります。",
+    "insight": "バーチャルプロダクションにおいて、LEDウォールはもはや単なる背景ではなく、リアルタイムレンダリングと同期した照明環境としての役割を担っています。エンジニアとしては、低遅延な映像同期技術やカメラトラッキングとLEDコントローラー間の統合パイプラインの設計が、今後の映像制作の鍵となります。",
+    "sourceUrl": "https://texasmetronews.com/126943/hbcu-love-texas-southern-universitys-school-of-communication-unveils-hollywood-grade-virtual-production-led-wall/",
+    "sourceName": "texasmetronews.com",
+    "originalImageUrl": "https://texasmetronews.com/wp-content/uploads/2026/08/image-89-640x320.png",
+    "originalImageArticleUrl": "https://texasmetronews.com/126943/hbcu-love-texas-southern-universitys-school-of-communication-unveils-hollywood-grade-virtual-production-led-wall/",
+    "displayDate": "2026-08-06"
+  }
+}
