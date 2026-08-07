@@ -1,14 +1,6 @@
 {
   "Production Monitor": [
     {
-      "url": "https://www.newsshooter.com/2026/07/29/sony-semiconductor-manufacturing-halted-in-kumamoto-prefecture/?utm_source=rss&utm_medium=rss&utm_campaign=sony-semiconductor-manufacturing-halted-in-kumamoto-prefecture",
-      "date": "2026-07-30"
-    },
-    {
-      "url": "https://www.cined.com/dji-osmo-pocket-4-pro-beats-the-arri-alexa-35-in-our-lab-while-the-insta360-luna-ultra-fails-focus-check-ep127/",
-      "date": "2026-07-31"
-    },
-    {
       "url": "https://www.cined.com/nanlux-nebula-light-engine-explained/",
       "date": "2026-08-01"
     },
@@ -31,17 +23,13 @@
     {
       "url": "https://www.newsshooter.com/2026/08/05/msi-pro-max-oled-271upjw12-27-inch-4k-monitor-featuring-inkjet-printed-oled-technology/?utm_source=rss&utm_medium=rss&utm_campaign=msi-pro-max-oled-271upjw12-27-inch-4k-monitor-featuring-inkjet-printed-oled-technology",
       "date": "2026-08-06"
+    },
+    {
+      "url": "https://www.cined.com/sony-q1-fy2026-financial-results-image-sensors-shine-outlook-raised-and-tamron-bid-confirmed/",
+      "date": "2026-08-07"
     }
   ],
   "SRD / XR": [
-    {
-      "url": "https://realsound.jp/tech/2026/07/post-2474731.html",
-      "date": "2026-07-30"
-    },
-    {
-      "url": "https://www.uploadvr.com/altspacevr-will-relaunch-this-fall-under-sidequest-ceo-shane-harris/",
-      "date": "2026-07-31"
-    },
     {
       "url": "https://news.yahoo.co.jp/articles/510ee1e94041f3c45c9916a9f374cc46e2253def",
       "date": "2026-08-01"
@@ -65,17 +53,13 @@
     {
       "url": "https://www.phileweb.com/news/d-av/202608/05/65717.html",
       "date": "2026-08-06"
+    },
+    {
+      "url": "https://www.uploadvr.com/virtual-desktop-beta-adds-wired-usb-support-on-quest-headsets/",
+      "date": "2026-08-07"
     }
   ],
   "AI": [
-    {
-      "url": "https://www.nytimes.com/2026/07/29/business/economy/data-center-electricians-training.html",
-      "date": "2026-07-30"
-    },
-    {
-      "url": "https://www.washingtonpost.com/technology/interactive/2026/07/30/timeline-cyberattack-by-openais-ai-agent-shows-its-sophistication/",
-      "date": "2026-07-31"
-    },
     {
       "url": "https://abcnews.com/Business/anthropic-ai-models-escaped-test-hacked-3-organizations/story?id=135256212",
       "date": "2026-08-01"
@@ -99,17 +83,13 @@
     {
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE83dGtXTVF5Wm5YejRINHNYQWozT3NqejdIX2pmMXVoc29KMi1BTV9nYUZXUlg4dTRmckg3QmJFZlNoMlB2NVNRQml4YVkwNkdDdVZJRUpuRERXNFNUS2xXNnJObzlDdkNiM3Z0aE9PU3FjdlQ0bGc?oc=5",
       "date": "2026-08-06"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPWThpek9kUHFSVEk0Uk5aSGFrdDZMdmYtcEl6SUNkU3VKeTVISm43TDRxNVd6UDFsRDJqVm1NUWZUUm5oaDd1OGtwQjdvb2NKQ2NMU1JyVUpnUDlfeFJYSUVXcm5CckpNNnkwa0w5dmdBWXJvZ0RIYXN4d1NUMWZVNWF5WkhBTWJHaWhDWG4xcXBKNXBYR2FlUnBIdzk2Zm94R1VvNTRhTXFHV0ZSZnhlM195eWFqTTAzWWZSck1ndw?oc=5",
+      "date": "2026-08-07"
     }
   ],
   "Gaming Monitor": [
-    {
-      "url": "https://www.ign.com/articles/lg-ultragear-gaming-monitor-deal-with-tandem-oled",
-      "date": "2026-07-30"
-    },
-    {
-      "url": "https://9to5toys.com/2026/07/30/480hz-lg-ultragear-oled-gaming-monitor-down-to-its-lowest-price/",
-      "date": "2026-07-31"
-    },
     {
       "url": "https://mashable.com/tech/lg-customers-complain-about-unwanted-ads-tvs-gaming-monitors",
       "date": "2026-08-01"
@@ -133,17 +113,13 @@
     {
       "url": "https://www.4gamer.net/games/183/G018339/20260805027/",
       "date": "2026-08-06"
+    },
+    {
+      "url": "https://www.techradar.com/gaming/sony-inzone-m10s-2-review",
+      "date": "2026-08-07"
     }
   ],
   "TCL": [
-    {
-      "url": "https://www.eteknix.com/tcl-introduces-next-generation-woled-gaming-monitors-with-up-to-480hz-refresh-rate/",
-      "date": "2026-07-30"
-    },
-    {
-      "url": "https://www.thelec.net/news/articleView.html?idxno=12692",
-      "date": "2026-07-31"
-    },
     {
       "url": "https://www.cnet.com/tech/home-entertainment/tcls-qm8l-is-the-best-tv-ive-tested-in-2026/",
       "date": "2026-08-01"
@@ -167,17 +143,13 @@
     {
       "url": "https://daily-gadget.net/smartphone_tablet/118484/",
       "date": "2026-08-06"
+    },
+    {
+      "url": "https://www.manilatimes.net/2026/08/07/tmt-newswire/tcl-solidifies-market-leadership-as-philippines-no-1-panel-tv/2399735",
+      "date": "2026-08-07"
     }
   ],
   "Camera Control": [
-    {
-      "url": "https://petapixel.com/2026/07/29/sony-is-reportedly-trying-to-buy-tamron-which-makes-perfect-sense/",
-      "date": "2026-07-30"
-    },
-    {
-      "url": "https://www.dpreview.com/news/sony-wants-to-buy-tamron-nikon-and-canon-shooters-should-pay-attention/",
-      "date": "2026-07-31"
-    },
     {
       "url": "https://petapixel.com/2026/07/31/frank-automatically-develops-your-motion-picture-film-at-home/",
       "date": "2026-08-01"
@@ -201,17 +173,13 @@
     {
       "url": "https://petapixel.com/2026/08/05/canon-is-developing-a-lens-coating-without-pfas-laden-fluorine/",
       "date": "2026-08-06"
+    },
+    {
+      "url": "https://www.dpreview.com/news/panasonic-did-what-apple-sony-and-nikon-couldnt-overturn-a-red-raw-video-patent/",
+      "date": "2026-08-07"
     }
   ],
   "LED Wall Display": [
-    {
-      "url": "//www.ledinside.com/products/2026/7/2026_07_29_10",
-      "date": "2026-07-30"
-    },
-    {
-      "url": "https://britishcinematographer.co.uk/supplement_posts/pop-up-volumes/",
-      "date": "2026-07-31"
-    },
     {
       "url": "https://www.tvbeurope.com/virtual-production/how-itvs-believe-me-used-virtual-production-to-drive-the-story-forward",
       "date": "2026-08-01"
@@ -235,17 +203,13 @@
     {
       "url": "https://texasmetronews.com/126943/hbcu-love-texas-southern-universitys-school-of-communication-unveils-hollywood-grade-virtual-production-led-wall/",
       "date": "2026-08-06"
+    },
+    {
+      "url": "https://www.avinteractive.com/territories-news/uki/how-the-iet-upgraded-its-flagship-lecture-theatre-to-led-06-08-2026/",
+      "date": "2026-08-07"
     }
   ],
   "SONY": [
-    {
-      "url": "https://diamond.jp/articles/amp/395310",
-      "date": "2026-07-30"
-    },
-    {
-      "url": "https://news.livedoor.com/topics/detail/31951911/",
-      "date": "2026-07-31"
-    },
     {
       "url": "https://diamond.jp/articles/amp/396159",
       "date": "2026-08-01"
@@ -269,17 +233,13 @@
     {
       "url": "https://news.mynavi.jp/article/20260805-4780908/",
       "date": "2026-08-06"
+    },
+    {
+      "url": "https://diamond.jp/articles/-/396640?page=3",
+      "date": "2026-08-07"
     }
   ],
   "TV": [
-    {
-      "url": "https://www.notebookcheck.net/2026-Samsung-S90H-OLED-TV-brings-glare-free-gaming-at-record-low-Amazon-sale-price.1354984.0.html",
-      "date": "2026-07-30"
-    },
-    {
-      "url": "https://www.techradar.com/televisions/lgs-c6-oled-tv-vs-sony-bravia-7-ii-rgb-tv-the-close-battle-shocked-me",
-      "date": "2026-07-31"
-    },
     {
       "url": "https://mashable.com/roundup/best-65-inch-tvs-2026-expert-tested",
       "date": "2026-08-01"
@@ -303,17 +263,13 @@
     {
       "url": "https://theinventory.com/sony-77-inch-qd-oled-tv-bundle-xr77a95l-deal",
       "date": "2026-08-06"
+    },
+    {
+      "url": "https://www.itochu.co.jp/ja/news/press/2026/260807.html",
+      "date": "2026-08-07"
     }
   ],
   "Projector": [
-    {
-      "url": "https://www.rtings.com/projector/tests/picture-quality/color-volume",
-      "date": "2026-07-30"
-    },
-    {
-      "url": "https://newatlas.com/home-entertainment/samsung-freestyle-plus-canister-projector/",
-      "date": "2026-07-31"
-    },
     {
       "url": "https://www.twice.com/product/video/projectors/hisense-ships-px4-pro-ust-projector",
       "date": "2026-08-01"
@@ -337,6 +293,10 @@
     {
       "url": "https://www.forbes.com/sites/johnarcher/2026/08/05/hisense-launches-the-px4-pro-the-first-trichroma-laser-cinema-projector-with-amd-freesync-premium-certification/",
       "date": "2026-08-06"
+    },
+    {
+      "url": "https://www.newsbytesapp.com/news/science/fujifilms-zuh12000-offers-12000-ansi-lumens-4k-resolution-rotatable-lens/tldr",
+      "date": "2026-08-07"
     }
   ]
 }

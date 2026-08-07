@@ -1,0 +1,102 @@
+{
+  "SRD / XR": {
+    "title": "Virtual DesktopがQuestで有線USB接続に対応",
+    "summary": "Quest向けの人気PC VRストリーミングアプリ「Virtual Desktop」のベータ版がアップデートされ、有線USB接続によるPC VRストリーミングをサポートしました。これにより、Wi-Fi環境に依存しない安定した低遅延通信が可能になります。",
+    "insight": "無線通信の不安定さを嫌うパワーユーザーにとって、USBによる有線接続の公式サポートは大きな福音です。帯域幅が確保されるため、高画質なレンダリングと低遅延が求められるシビアなVR開発・体験環境において、非常に価値のあるアップデートと言えます。",
+    "sourceUrl": "https://www.uploadvr.com/virtual-desktop-beta-adds-wired-usb-support-on-quest-headsets/",
+    "sourceName": "UploadVR",
+    "originalImageUrl": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/08/Virtual-Desktop.png",
+    "originalImageArticleUrl": "https://www.uploadvr.com/virtual-desktop-beta-adds-wired-usb-support-on-quest-headsets/",
+    "displayDate": "2026-08-07"
+  },
+  "AI": {
+    "title": "AIが自然界にないウイルスを設計・生成",
+    "summary": "スタンフォード大学の研究チームが、AIモデルを用いてDNA配列から自然界には存在しない16種類の新規ウイルスを生成することに成功しました。AIの設計能力は進化していますが、生物学的安全性や悪用リスクに関する議論も同時に高まっています。",
+    "insight": "タンパク質やDNAのような非構造化データに対するLLMのアプローチが、生物工学領域で急速に実用化されています。バイオインフォマティクスに関わるエンジニアは、AIの設計能力がもたらす革新と、それに伴うセキュリティ対策・倫理的制約のバランスを意識する必要があります。",
+    "sourceUrl": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPWThpek9kUHFSVEk0Uk5aSGFrdDZMdmYtcEl6SUNkU3VKeTVISm43TDRxNVd6UDFsRDJqVm1NUWZUUm5oaDd1OGtwQjdvb2NKQ2NMU1JyVUpnUDlfeFJYSUVXcm5CckpNNnkwa0w5dmdBWXJvZ0RIYXN4d1NUMWZVNWF5WkhBTWJHaWhDWG4xcXBKNXBYR2FlUnBIdzk2Zm94R1VvNTRhTXFHV0ZSZnhlM195eWFqTTAzWWZSck1ndw?oc=5",
+    "sourceName": "forbes.com",
+    "originalImageUrl": null,
+    "originalImageArticleUrl": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPWThpek9kUHFSVEk0Uk5aSGFrdDZMdmYtcEl6SUNkU3VKeTVISm43TDRxNVd6UDFsRDJqVm1NUWZUUm5oaDd1OGtwQjdvb2NKQ2NMU1JyVUpnUDlfeFJYSUVXcm5CckpNNnkwa0w5dmdBWXJvZ0RIYXN4d1NUMWZVNWF5WkhBTWJHaWhDWG4xcXBKNXBYR2FlUnBIdzk2Zm94R1VvNTRhTXFHV0ZSZnhlM195eWFqTTAzWWZSck1ndw?oc=5",
+    "displayDate": "2026-08-07"
+  },
+  "Production Monitor": {
+    "title": "Sonyがタムロン買収へ？映像業界の巨頭動向",
+    "summary": "Sonyがレンズメーカーであるタムロンの完全子会社化を提案しました。Sonyの2026年度第1四半期決算は、イメージング・センシング部門が牽引し営業利益が前年比40%増と好調。Canonもコンパクトカメラ等が好調で大幅な利益増を記録しており、カメラ市場全体の活況が浮き彫りとなっています。",
+    "insight": "センサー技術を核とした垂直統合モデルを強化するSonyの戦略は、ハードウェアエンジニアにとってプラットフォーム覇権の重要性を再確認させる事例です。カメラ市場の急激な収益回復は、エッジAIや高精度光学センサー技術の需要増と密接に関係しており、ソフトウェア側の処理性能向上の余地も大きいことを示唆しています。",
+    "sourceUrl": "https://www.cined.com/sony-q1-fy2026-financial-results-image-sensors-shine-outlook-raised-and-tamron-bid-confirmed/",
+    "sourceName": "CineD",
+    "originalImageUrl": "https://www.cined.com/content/uploads/2026/08/Sony-financial-results-300x169.jpg",
+    "originalImageArticleUrl": "https://www.cined.com/sony-q1-fy2026-financial-results-image-sensors-shine-outlook-raised-and-tamron-bid-confirmed/",
+    "displayDate": "2026-08-07"
+  },
+  "Gaming Monitor": {
+    "title": "Sonyの最新ゲーミングモニター「Inzone M10S 2」が登場",
+    "summary": "TechRadarによるSonyの最新ゲーミングモニター「Inzone M10S 2」のレビューが公開されました。eスポーツ向けとして高い評価を得ていた従来モデルの性能を継承しつつ、さらなる進化を遂げた仕様が注目されています。高リフレッシュレートや応答速度など、競技シーンでの優位性を高めるデバイスとして期待が高まっています。",
+    "insight": "最新のディスプレイ技術において、応答速度だけでなく色彩や明暗の再現性がどのようにFPS等の競技性に寄与するかが注目されます。また、ハードウェア開発において「前世代のベストをどう改善するか」という反復的なアプローチは、ソフトウェアの最適化や機能改善のプロセスにも通じる学びがあります。",
+    "sourceUrl": "https://www.techradar.com/gaming/sony-inzone-m10s-2-review",
+    "sourceName": "TechRadar",
+    "originalImageUrl": "https://cdn.mos.cms.futurecdn.net/P8z9US7Fjwen6roJ7SbgXd-2342-80.jpg",
+    "originalImageArticleUrl": "https://www.techradar.com/gaming/sony-inzone-m10s-2-review",
+    "displayDate": "2026-08-07"
+  },
+  "Camera Control": {
+    "title": "パナソニックがREDのRAW特許を無効化、業界への影響は？",
+    "summary": "パナソニックが、映像業界で長年議論されていたREDのRAW動画記録に関する特許を不服として特許庁へ異議を申し立て、無効化に成功しました。AppleやSony、Nikonでさえ覆せなかった特許を崩したこのニュースは、今後の映像技術やライセンスのあり方に大きな転換点をもたらす可能性があります。",
+    "insight": "特許の有効性が「当業者にとって自明であるか」という観点から覆された点は、知財戦略を考える上で非常に興味深い事例です。ハードウェアメーカーがソフトウェア領域の特許を法的に無効化させたことで、今後のカメラファームウェアやデータ記録方式のオープン化が加速するかもしれません。",
+    "sourceUrl": "https://www.dpreview.com/news/panasonic-did-what-apple-sony-and-nikon-couldnt-overturn-a-red-raw-video-patent/",
+    "sourceName": "DPReview",
+    "originalImageUrl": "https://www.dpreview.com/wp-content/uploads/2020/12/8323309263-V_RAPTOR_XL_Selects_Camera_w_Family_Bckgrnd.jpeg",
+    "originalImageArticleUrl": "https://www.dpreview.com/news/panasonic-did-what-apple-sony-and-nikon-couldnt-overturn-a-red-raw-video-patent/",
+    "displayDate": "2026-08-07"
+  },
+  "SONY": {
+    "title": "タムロン買収提案で注目のソニーのエレキ事業戦略",
+    "summary": "ソニーがタムロンに対して買収提案を行っていることが報じられました。単なる光学技術の獲得にとどまらず、ソニーが注力するエレキ・カメラ事業におけるサプライチェーン強化や、競争力維持に向けた並々ならぬ執念が垣間見える動きとして業界の注目を集めています。",
+    "insight": "レンズメーカーの垂直統合は、ミラーレス市場における光学性能の差別化を加速させる戦略的布石です。エンジニア視点では、競合との差別化要因がセンサー性能から光学設計・システム全体の最適化へシフトしている動向を注視すべきです。",
+    "sourceUrl": "https://diamond.jp/articles/-/396640?page=3",
+    "sourceName": "ダイヤモンド・オンライン",
+    "originalImageUrl": "https://dol.ismcdn.jp/mwimgs/7/b/-/img_7bba237a70ebb2459a6b2a542d2e6cfb173115.jpg",
+    "originalImageArticleUrl": "https://diamond.jp/articles/-/396640?page=3",
+    "displayDate": "2026-08-07"
+  },
+  "Projector": {
+    "title": "富士フイルムが新プロジェクターZUH12000を発表",
+    "summary": "富士フイルムが12,000 ANSIルーメンの高輝度と4K解像度を誇るプロジェクター「ZUH12000」を発表しました。回転可能なレンズを搭載しており、設置の柔軟性と高画質を両立させた、業務用からハイエンドまで対応可能な製品です。",
+    "insight": "映像の明るさと解像度の向上に加え、レンズの物理的な回転機構により設置制限を克服する設計は、ハードウェアエンジニアリングにおける物理的な課題解決の好例です。輝度と精細度のトレードオフを高度に制御する光工学の進化は、今後の没入型空間演出において重要な技術スタックとなるでしょう。",
+    "sourceUrl": "https://www.newsbytesapp.com/news/science/fujifilms-zuh12000-offers-12000-ansi-lumens-4k-resolution-rotatable-lens/tldr",
+    "sourceName": "newsbytesapp.com",
+    "originalImageUrl": "https://i.cdn.newsbytesapp.com/images/l144_5651786043154.jpg",
+    "originalImageArticleUrl": "https://www.newsbytesapp.com/news/science/fujifilms-zuh12000-offers-12000-ansi-lumens-4k-resolution-rotatable-lens/tldr",
+    "displayDate": "2026-08-07"
+  },
+  "TCL": {
+    "title": "TCLがフィリピンでTVシェア1位を獲得",
+    "summary": "TCLがフィリピン市場において、パネルテレビ部門でシェア1位を達成しました。コストパフォーマンスと技術力で新興市場でのプレゼンスを急速に高めており、グローバル展開における戦略的な成功事例として注目されています。",
+    "insight": "中国メーカーが低価格帯からプレミアムMini-LED市場まで網羅する製品ラインナップで、グローバルシェアを席巻している点はエンジニアとしても注目です。特にハードウェアの量産効率とローカライズ戦略の組み合わせが、家電・デバイス市場の勢力図をどう塗り替えるか考察する良い材料になります。",
+    "sourceUrl": "https://www.manilatimes.net/2026/08/07/tmt-newswire/tcl-solidifies-market-leadership-as-philippines-no-1-panel-tv/2399735",
+    "sourceName": "The Manila Times",
+    "originalImageUrl": "https://manilatimes.net/manilatimes/uploads/images/2026/08/06/1166182.jpg",
+    "originalImageArticleUrl": "https://www.manilatimes.net/2026/08/07/tmt-newswire/tcl-solidifies-market-leadership-as-philippines-no-1-panel-tv/2399735",
+    "displayDate": "2026-08-07"
+  },
+  "LED Wall Display": {
+    "title": "ams OSRAM：次世代ARグラス向けMicroLED開発を加速",
+    "summary": "ams OSRAMが2026年第2四半期の好調な業績を発表。半導体部門が前年比13%増と堅調に推移する中、次世代ARスマートグラス向けのMicroLEDアレイの開発と量産に向けた準備を本格化させています。",
+    "insight": "AR/VR分野において、高輝度かつ超小型なMicroLEDはディスプレイ技術の究極的な進化形です。特にARグラスのフォームファクタを実現するための高密度実装と低消費電力化は、ハードウェアエンジニアにとっても重要な技術的挑戦領域となります。",
+    "sourceUrl": "https://www.avinteractive.com/territories-news/uki/how-the-iet-upgraded-its-flagship-lecture-theatre-to-led-06-08-2026/",
+    "sourceName": "LEDinside",
+    "originalImageUrl": "https://d3hjf51r9j54j7.cloudfront.net/wp-content/uploads/sites/9/2026/08/IET-SavoyPlace_DirectLight-Pro1.8_Leyard-Europe_001use.webp",
+    "originalImageArticleUrl": "https://www.avinteractive.com/territories-news/uki/how-the-iet-upgraded-its-flagship-lecture-theatre-to-led-06-08-2026/",
+    "displayDate": "2026-08-07"
+  },
+  "TV": {
+    "title": "伊藤忠と日テレが連携「TV×リテールメディア」へ",
+    "summary": "伊藤忠商事グループと日本テレビ放送網が、テレビ放送とリアル店舗・ECサイトの購買データを掛け合わせた「TV×リテールメディア」領域での戦略的協業を開始しました。広告効果の可視化と販促の高度化を目指します。",
+    "insight": "オフラインのテレビ視聴データとオンラインのリテールデータを統合する動きは、IDベースのマーケティング精度を飛躍的に向上させます。エンジニアの視点からは、膨大な異種データの統合パイプライン構築や、プライバシーを考慮したセキュアなデータクリーンルームの実装が今後の技術的要諦となります。",
+    "sourceUrl": "https://www.itochu.co.jp/ja/news/press/2026/260807.html",
+    "sourceName": "itochu.co.jp",
+    "originalImageUrl": "https://www.itochu.co.jp/ja/news/press/2026/__icsFiles/afieldfile/2026/08/07/news_260807sns.jpg",
+    "originalImageArticleUrl": "https://www.itochu.co.jp/ja/news/press/2026/260807.html",
+    "displayDate": "2026-08-07"
+  }
+}
