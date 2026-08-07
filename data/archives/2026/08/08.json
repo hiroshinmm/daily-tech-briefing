@@ -1,0 +1,102 @@
+{
+  "AI": {
+    "title": "生成AIが16種の新規ウイルスを設計：安全性リスクの再考",
+    "summary": "米国の研究者が生成AIを活用し、既存のウイルスを模倣した16種類の新規ウイルスを設計したと発表。AIの設計能力が生物学や創薬の進歩に寄与する一方で、悪用された際の生物学的リスクに対する懸念が専門家の間で高まっています。",
+    "insight": "AIモデルの出力が物理世界（特に生物兵器のリスク）に直接的な脅威をもたらす可能性が現実味を帯びています。エンジニアとしては、単なる生成の精度だけでなく、RLHFやファインチューニングの過程で組み込むべき「AIのガードレール」や「セーフティ評価プロトコル」の設計がいかに重要かを認識する必要があります。",
+    "sourceUrl": "https://www.wired.com/story/scientists-used-ai-to-create-16-new-viruses/",
+    "sourceName": "WIRED",
+    "originalImageUrl": "https://media.wired.com/photos/6a75dcaa629c4defb09289b6/191:100/w_1280,c_limit/virusIA.jpg",
+    "originalImageArticleUrl": "https://www.wired.com/story/scientists-used-ai-to-create-16-new-viruses/",
+    "displayDate": "2026-08-08"
+  },
+  "Gaming Monitor": {
+    "title": "ASUSの新ソフト：AIによる自動輝度調整",
+    "summary": "ASUSが、モニターの輝度を音声コマンドやAIによって自動制御できる新しいソフトウェアを発表しました。ユーザーの環境や好みに合わせ、手動調整の手間を省く革新的な機能です。",
+    "insight": "ハードウェアの周辺機器においても、ファームウェアやドライバー層でAIを活用した制御が普及しつつあります。APIベースの輝度制御は、OSレベルの省電力管理やUX向上に向けたエンジニアリングの面白い試みと言えます。",
+    "sourceUrl": "https://www.techspot.com/news/113401-asus-new-monitor-software-you-control-brightness-voice.html",
+    "sourceName": "TechSpot",
+    "originalImageUrl": "https://www.techspot.com/images2/news/bigimage/2026/08/2026-08-07-image-24.jpg",
+    "originalImageArticleUrl": "https://www.techspot.com/news/113401-asus-new-monitor-software-you-control-brightness-voice.html",
+    "displayDate": "2026-08-08"
+  },
+  "TCL": {
+    "title": "TCLの85インチMini-LEDテレビが過去最安値に",
+    "summary": "TCLのフラッグシップモデルである85インチQM8L Mini-LED TVが、Amazonにて1,000ドル以上の大幅値下げとなり、過去最安値を記録しました。現在、大型高画質ディスプレイ市場における競争が激化しています。",
+    "insight": "Mini-LED技術はローカルディミングによる高コントラストが特徴で、現在コンシューマー向け液晶ディスプレイの最高峰です。エンジニアの視点では、PWM調光制御やバックライトのゾーン管理など、ファームウェアによる画質最適化アルゴリズムの進化に注目すべきでしょう。",
+    "sourceUrl": "https://mashable.com/tech/july-30-tcl-85-inch-qm8l-mini-led-tv-deal",
+    "sourceName": "Mashable",
+    "originalImageUrl": "https://helios-i.mashable.com/imagery/articles/01VVECNA6Sc9aTMLE32b00z/hero-image.fill.size_1200x675.v1785406606.jpg",
+    "originalImageArticleUrl": "https://mashable.com/tech/july-30-tcl-85-inch-qm8l-mini-led-tv-deal",
+    "displayDate": "2026-08-08"
+  },
+  "SRD / XR": {
+    "title": "VRで平和学習：歴史継承の新たな形",
+    "summary": "広島市が被爆の実相を伝えるため、VRゴーグルを活用した疑似体験コンテンツを各地へ貸与する取り組みを行っています。物理的な距離や時間の制約を超え、臨場感ある体験を通じて戦争の記憶を次世代へ継承する新しい教育手法として注目されています。",
+    "insight": "XR技術は単なるエンターテインメントにとどまらず、社会課題の解決や記憶の風化を防ぐ「デジタルアーカイブ」として極めて高い有用性を持っています。エンジニアとしては、没入感を最大化するUI/UX設計と、教育現場に適した軽量・簡便なハードウェア運用の両面から貢献できる領域です。",
+    "sourceUrl": "https://digital.komei-shimbun.jp/kmd/article/0435202608080701",
+    "sourceName": "公明新聞電子版プラス",
+    "originalImageUrl": "https://v2-meta.komei-shimbun.jp/TCDBWS/DownloadS3?s3FileKey=/KM/photo/image/2026/08/07/AKM2026080820260804-001007/78decb91622205c852acc649600eb11bbd72ffd05f6b8bdc8b8c7bff8e39f33f/CAKM2026080820260804-001007.jpg",
+    "originalImageArticleUrl": "https://digital.komei-shimbun.jp/kmd/article/0435202608080701",
+    "displayDate": "2026-08-08"
+  },
+  "Projector": {
+    "title": "Ankerが新プロジェクターNebula P1を発表",
+    "summary": "Anker傘下のSoundcoreより、着脱可能なスピーカーを搭載したポータブルプロジェクター「Nebula P1」が登場しました。価格は639ドルから。ポータビリティと音響性能の両立を目指した新製品です。",
+    "insight": "ポータブルプロジェクターにおいて、スピーカーの物理的な着脱構造を採用することで、デバイスの可搬性と音質体験のカスタマイズ性を両立させようとする設計思想が興味深いです。エンジニアリング視点では、ワイヤレス伝送と電源供給の同期技術におけるレイテンシ処理が実装の要所になると考えられます。",
+    "sourceUrl": "https://9to5toys.com/2026/08/07/anker-soundcore-nebula-p1-portable-projector-with-detachable-speakers-639-more/",
+    "sourceName": "9to5Toys",
+    "originalImageUrl": "https://i0.wp.com/9to5toys.com/wp-content/uploads/sites/5/2026/07/Anker-Nebula-P1-Portable-GTV-Projector-with-detacehable-speakers-2.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+    "originalImageArticleUrl": "https://9to5toys.com/2026/08/07/anker-soundcore-nebula-p1-portable-projector-with-detachable-speakers-639-more/",
+    "displayDate": "2026-08-08"
+  },
+  "SONY": {
+    "title": "Dellの43型会議用モニターにソニー製センサー採用",
+    "summary": "Dellが発売した43インチ4K会議モニターの新製品に、ソニー製のイメージセンサーを搭載したWebカメラが統合されました。AIを活用した会議最適化機能を備え、小規模なオフィス環境でのビデオ会議品質を向上させます。",
+    "insight": "ソニーのイメージセンサーがPC周辺機器のハイエンド市場で標準的な信頼を獲得している好例です。エッジデバイスにおけるAI処理との統合が進む中、センサー技術がいかにSaaS的な会議体験を支えているかに注目です。",
+    "sourceUrl": "https://pc.watch.impress.co.jp/docs/news/2131723.html",
+    "sourceName": "PC Watch",
+    "originalImageUrl": "https://pc.watch.impress.co.jp/img/pcw/list/2131/723/01.jpg",
+    "originalImageArticleUrl": "https://pc.watch.impress.co.jp/docs/news/2131723.html",
+    "displayDate": "2026-08-08"
+  },
+  "LED Wall Display": {
+    "title": "Micro LEDが通信技術へ！2.1GHzへの帯域幅拡大",
+    "summary": "Ennostarが青色Micro LEDの変調帯域幅を2.1GHz（最大3.3GHz）まで引き上げるブレイクスルーを達成しました。これにより、Micro LEDが単なる表示デバイスを超え、高速短距離光通信の次世代キーデバイスとして実用化に一歩近づきました。",
+    "insight": "表示用デバイスとしてのLEDが、光通信の送信機へと転換する大きな技術進歩です。高密度な電流駆動環境下での応答速度向上は、今後のLi-Fi（光無線通信）や高精細ディスプレイのデータ伝送効率に直結する重要な指標となります。",
+    "sourceUrl": "//www.ledinside.com/products/2026/8/2026_08_07_02",
+    "sourceName": "LEDinside",
+    "originalImageUrl": null,
+    "originalImageArticleUrl": "//www.ledinside.com/products/2026/8/2026_08_07_02",
+    "displayDate": "2026-08-08"
+  },
+  "TV": {
+    "title": "テレビ朝日HD、27年3月期1Qは32.4%減益",
+    "summary": "テレビ朝日ホールディングスの2027年3月期第1四半期決算が発表され、経常利益が前年同期比で32.4％減となる厳しい結果となりました。広告市場の構造変化やメディア環境のデジタルシフトが影響していると考えられます。",
+    "insight": "レガシーメディアの収益モデルが転換期を迎える中、エンジニアの視点では放送コンテンツのデジタル配信プラットフォーム（ABEMA等）の最適化や、AIを用いた制作・広告配信の効率化といった「メディアDX」の重要性が改めて問われています。配信トラフィックの急増に対するインフラの堅牢性確保や、データ駆動型の広告枠最適化が今後の事業成長の鍵となりそうです。",
+    "sourceUrl": "https://finance.yahoo.co.jp/news/detail/ec5e67f8a37e0b221024cdfaa8556c690ddf29e8",
+    "sourceName": "Yahoo!ファイナンス",
+    "originalImageUrl": "https://s.yimg.jp/images/finance/common/image/ogp.png",
+    "originalImageArticleUrl": "https://finance.yahoo.co.jp/news/detail/ec5e67f8a37e0b221024cdfaa8556c690ddf29e8",
+    "displayDate": "2026-08-08"
+  },
+  "Camera Control": {
+    "title": "AdobeがChatGPTと統合強化、全アプリを内包へ",
+    "summary": "AdobeはChatGPT向けプラグインを大幅に強化し、PhotoshopやAcrobatを含む全てのAdobeアプリケーションをChatGPT経由で操作可能にしました。Canvaへの対抗として、生成AIを軸にしたクリエイティブワークフローの利便性を飛躍的に高めています。",
+    "insight": "AIモデルをフロントエンドではなくバックエンドのツール統合に活用する戦略は、エンジニアにとってもAPI連携の重要性を示唆しています。既存の堅牢なデスクトップアプリ群をLLMのインターフェース経由で制御するアーキテクチャは、今後B2Bツール開発のトレンドになるでしょう。",
+    "sourceUrl": "https://petapixel.com/2026/08/07/adobe-is-coming-for-canva-with-expanded-chatgpt-integration/",
+    "sourceName": "PetaPixel",
+    "originalImageUrl": "https://petapixel.com/assets/uploads/2026/08/adobe-chatgpt-integration1600x840.jpg",
+    "originalImageArticleUrl": "https://petapixel.com/2026/08/07/adobe-is-coming-for-canva-with-expanded-chatgpt-integration/",
+    "displayDate": "2026-08-08"
+  },
+  "Production Monitor": {
+    "title": "REDのRAW特許が無効化、業界の知財戦略に転換点",
+    "summary": "日本の知的財産高等裁判所は、かつてREDが保有し、現在はNikonが所有する「圧縮RAW動画」に関する特許を無効と判断しました。長年業界の標準を支配してきた強力な特許網が崩れたことで、今後のカメラメーカー間の開発競争や知財戦略に大きな影響を与える可能性があります。",
+    "insight": "技術の「非自明性（進歩性）」が法的に否定されたことで、長年続いた特許による技術的独占が崩壊しました。エンジニア視点では、既存の「囲い込み」戦略よりも、オープンな規格やエコシステムによる競争が今後の製品開発の主流になることを示唆しています。",
+    "sourceUrl": "https://www.cined.com/reds-compressed-raw-patent-invalidated-in-japan-nikon-loses-defending-the-patent-it-once-fought/",
+    "sourceName": "CineD",
+    "originalImageUrl": "https://www.cined.com/content/uploads/2026/08/RED-RAW-patent-dismissed-in-Japan-featured-300x169.jpg",
+    "originalImageArticleUrl": "https://www.cined.com/reds-compressed-raw-patent-invalidated-in-japan-nikon-loses-defending-the-patent-it-once-fought/",
+    "displayDate": "2026-08-08"
+  }
+}
