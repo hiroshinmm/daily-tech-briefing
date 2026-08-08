@@ -1,0 +1,102 @@
+{
+  "SRD / XR": {
+    "title": "eスポーツチームVARRELからAITuber「LUMA」デビュー",
+    "summary": "プロeスポーツチーム「VARREL」に、AITuberの「LUMA」が所属し活動を開始しました。LLMを活用した対話能力を持ち、選手とのリアルタイムな掛け合いやエピソードトークを通じて、コミュニティの新たなエンターテインメントを提供します。",
+    "insight": "LLMとボイス合成技術の統合により、VTuberが単なる配信者から、自律的に対話を行う「AITuber」へと進化しています。エンジニア視点では、低遅延な推論処理とキャラクターの文脈保持技術が、今後エンタメ分野のUXをどう変えていくかが注目ポイントです。",
+    "sourceUrl": "https://www.moguravr.com/varrel-aituber-luma-debut/",
+    "sourceName": "Mogura VR",
+    "originalImageUrl": "https://assets.moguravr.com/uploads/2018/12/8bd8ccf9f5cc90bc2e50367861a94470-kix.jmlsikbo7qnz-300x169.webp",
+    "originalImageArticleUrl": "https://www.moguravr.com/varrel-aituber-luma-debut/",
+    "displayDate": "2026-08-09"
+  },
+  "AI": {
+    "title": "Hugging Faceハッキングが示すAI時代の脅威",
+    "summary": "Hugging Faceで発生したハッキング事案は、AIサプライチェーンの脆弱性を浮き彫りにしました。多くの企業がAIモデルのセキュリティリスクを正しく把握できていない現状があり、今後AI開発におけるサイバーセキュリティ対策が喫緊の課題となります。",
+    "insight": "AIモデルや学習済みデータを提供するプラットフォームへの攻撃は、推論APIやモデル自体への毒入れなど深刻なサプライチェーン攻撃に繋がるリスクがあります。エンジニアはモデルの利用時に署名検証や信頼できるソースの選定など、SBOMと同様のセキュリティアプローチをAI開発にも取り入れるべきです。",
+    "sourceUrl": "https://www.cnbc.com/2026/08/08/hugging-face-ai-hack-cybersecurity-black-hat.html",
+    "sourceName": "CNBC",
+    "originalImageUrl": "https://image.cnbcfm.com/api/v1/image/108346935-1786143490931-gettyimages-2219339316-AA_14062025_2286644.jpeg?v=1786143564&w=1920&h=1080",
+    "originalImageArticleUrl": "https://www.cnbc.com/2026/08/08/hugging-face-ai-hack-cybersecurity-black-hat.html",
+    "displayDate": "2026-08-09"
+  },
+  "SONY": {
+    "title": "ソニー「FX5」出荷停止の波紋、品質管理の重要性",
+    "summary": "ソニーが業務用シネマカメラ「FX5」の品質管理上の問題により、出荷を一時停止したことが明らかになりました。プロフェッショナル向け映像機器市場において、ブランドの信頼性と品質保証体制が改めて注目されています。",
+    "insight": "ハードウェアの出荷停止は、ソフトウェアの不具合以上に供給網やブランド価値に深刻な影響を与えます。エンジニアの視点では、設計から量産工程に至るまでの品質ゲート（品質検証フェーズ）におけるトレーサビリティと、障害発生時の迅速なロールバック体制の重要性を再認識する事例です。",
+    "sourceUrl": "https://www.canonrumors.com/sony-fx5-shipments-delayed-due-to-quality-control-issue/",
+    "sourceName": "Canon Rumors",
+    "originalImageUrl": "https://www.canonrumors.com/wp-content/uploads/2026/08/sony-fx5-1600.png",
+    "originalImageArticleUrl": "https://www.canonrumors.com/sony-fx5-shipments-delayed-due-to-quality-control-issue/",
+    "displayDate": "2026-08-09"
+  },
+  "TCL": {
+    "title": "TCLが挑む「紙のような画面」技術の進化",
+    "summary": "TCLは、紙のような質感で目に優しいディスプレイ技術「NXTPAPER」を搭載したスマートフォン最新モデルを投入しました。ハードウェアレベルで反射やブルーライトを低減する独自技術が特徴で、長時間のスクリーン利用による目の疲労軽減を目指しています。",
+    "insight": "UI/UX開発者にとって、反射防止とテクスチャ制御をディスプレイハードウェア側で解決するアプローチは興味深いです。ソフトウェア側だけでなく、ハードウェア特性を活かしたUI設計（電子ペーパーと液晶のハイブリッド的表現）が今後注目されます。",
+    "sourceUrl": "https://newsbytes.ph/2026/08/08/tcl-debuts-nxtpaper-phones-with-paper-like-displays-in-ph/",
+    "sourceName": "newsbytes.ph",
+    "originalImageUrl": "https://newsbytes.ph/wp-content/uploads/2026/08/NXTPAPER-60-Ultra.jpg",
+    "originalImageArticleUrl": "https://newsbytes.ph/2026/08/08/tcl-debuts-nxtpaper-phones-with-paper-like-displays-in-ph/",
+    "displayDate": "2026-08-09"
+  },
+  "Camera Control": {
+    "title": "「撮って出しJPEG」を活かす新ツールが登場",
+    "summary": "JUNO TokyoがリリースしたMac用アプリ「Filmator」が注目を集めています。RAW＋JPEGで撮影するユーザー向けに、カメラメーカーのデフォルトJPEGの質感を活かしつつ効率的な編集を可能にするツールです。",
+    "insight": "現像処理でメーカー独自の画作り（カラーサイエンス）が失われる悩みを解決するアプローチは、画像処理エンジニアにとって興味深いUI/UXの設計思想と言えます。ライブラリ開発や画像編集ツールの最適化において、プリセットのプリプロセスとして「撮って出し」をどう優先順位付けするかは重要な設計判断です。",
+    "sourceUrl": "https://dc.watch.impress.co.jp/docs/review/item/2130860.html",
+    "sourceName": "デジカメ Watch",
+    "originalImageUrl": "https://dc.watch.impress.co.jp/img/dcw/list/2130/860/top.jpg",
+    "originalImageArticleUrl": "https://dc.watch.impress.co.jp/docs/review/item/2130860.html",
+    "displayDate": "2026-08-09"
+  },
+  "Gaming Monitor": {
+    "title": "ゲーミングモニターの焼き付き問題、ASUS ROGが革新的解決策",
+    "summary": "OLEDゲーミングモニターの最大の課題である「焼き付き（Burn-in）」に対し、ASUS ROGが新たな技術的アプローチを導入した。これまで懸念されていた寿命問題が解消されつつあり、ハイエンドモニターの選定基準が大きく変わる可能性がある。",
+    "insight": "OLEDの焼き付き防止技術は、単なるパネル制御だけでなく、動的なアルゴリズムによる熱管理と画素寿命の最適化が肝となっています。エンジニア視点では、ディスプレイの駆動制御における信頼性確保が普及のボトルネックを解消する好例として注目すべきです。",
+    "sourceUrl": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNZ3NYeERoSms0WWpFRlFTOHl5Umg4YzVCUnNsYng0eVdRNm5uVUZlWjVlYWRLTEExdzZBVUd1eWRYTE5FcU11dEdZQ2dnX1Z6WlBzWUZoNjJ1RkRVeDEyOGRGZFU0anlqVEFQbEhod1hkR09UZlAxQkNLaEhibXVDVkNmd195emJHbVlGVFVYQVB5Zw?oc=5",
+    "sourceName": "Windows Central",
+    "originalImageUrl": null,
+    "originalImageArticleUrl": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNZ3NYeERoSms0WWpFRlFTOHl5Umg4YzVCUnNsYng0eVdRNm5uVUZlWjVlYWRLTEExdzZBVUd1eWRYTE5FcU11dEdZQ2dnX1Z6WlBzWUZoNjJ1RkRVeDEyOGRGZFU0anlqVEFQbEhod1hkR09UZlAxQkNLaEhibXVDVkNmd195emJHbVlGVFVYQVB5Zw?oc=5",
+    "displayDate": "2026-08-09"
+  },
+  "Projector": {
+    "title": "進化形大画面テレビ vs 高品質プロジェクター",
+    "summary": "GoodsPressによる2026年上半期AWARDで、大型テレビと高品質プロジェクターの頂上決戦が特集されました。大画面の視聴体験における両者の進化と、現在の技術到達点が比較されています。",
+    "insight": "デバイス選定において、設置環境や輝度要件に応じたプロジェクターの物理的な空間設計能力と、テレビのコントラスト比の優位性が常に議論の焦点となります。エンジニアとしては、光学エンジンの進化がもたらす映像信号処理の最適化に注目すべきでしょう。",
+    "sourceUrl": "https://article.auone.jp/article/199524ca-5139-4950-a0a8-849a24ff23de",
+    "sourceName": "au Webポータル",
+    "originalImageUrl": "https://newportal.portal.auone.jp/media/thumbnails/2026/08/07/https___www_goodspress_jp_features_742306_.jpg",
+    "originalImageArticleUrl": "https://article.auone.jp/article/199524ca-5139-4950-a0a8-849a24ff23de",
+    "displayDate": "2026-08-09"
+  },
+  "TV": {
+    "title": "世界TV市場は停滞も、OLED出荷台数は20％増",
+    "summary": "2026年第2四半期のグローバルテレビ市場は全体として横ばいでしたが、OLEDテレビの出荷台数は前年同期比で20％増加しました。市場全体の成長が停滞する一方で、ハイエンド製品であるOLEDへのシフトが顕著になっています。",
+    "insight": "市場全体の低迷に対しOLEDが成長している点は、消費者層のハイエンド志向への回帰を示唆しています。ハードウェアエンジニアとしては、ディスプレイのパネル技術や省電力化・高画質化を支える画像処理アルゴリズムの重要性が今後さらに高まるでしょう。",
+    "sourceUrl": "https://techlomedia.in/2026/08/global-tv-market-stalls-in-q2-but-oled-tv-shipments-grow-20-125560/",
+    "sourceName": "TechloMedia",
+    "originalImageUrl": "https://techlomedia.in/wp-content/uploads/2025/03/Smart-TV.jpg",
+    "originalImageArticleUrl": "https://techlomedia.in/2026/08/global-tv-market-stalls-in-q2-but-oled-tv-shipments-grow-20-125560/",
+    "displayDate": "2026-08-09"
+  },
+  "LED Wall Display": {
+    "title": "AR/VR市場拡大へ：MicroLEDとマイクロディスプレイの進化",
+    "summary": "AIやウェアラブルデバイスの普及に伴い、ARグラスの出荷台数は2026年に100万台に達する見込みです。SIDTEK等の企業は、コスト低減と高解像度化を実現するマイクロディスプレイの量産体制構築を急いでおり、次世代表示技術の競争が激化しています。",
+    "insight": "MicroLEDやTGV（ガラス貫通ビア）といった技術は、AR/VRの小型・軽量化におけるハードウェアのボトルネックを解消する鍵となります。エンジニアとしては、ディスプレイ単体の進化だけでなく、これらを統合する高度なパッケージング技術が製品の競争力を左右することに注目すべきです。",
+    "sourceUrl": "//www.ledinside.com/interview/2026/8/2026_08_07_10",
+    "sourceName": "LEDinside",
+    "originalImageUrl": null,
+    "originalImageArticleUrl": "//www.ledinside.com/interview/2026/8/2026_08_07_10",
+    "displayDate": "2026-08-09"
+  },
+  "Production Monitor": {
+    "title": "米FCCによるDJIドローン規制案の波紋",
+    "summary": "米FCCが、DJIを含む海外製ドローンに対する新たな規制を検討しています。今回の提案は将来の製品だけでなく、既に米国で販売・認可済みの製品（赤外線、LiDAR搭載機等）も対象となる可能性があり、映像制作や農業、公共安全の現場に大きな影響を与える懸念が浮上しています。9月2日までパブリックコメントを募集中です。",
+    "insight": "ハードウェアの特定ベンダーへの依存が、地政学的リスクによって突如として供給・運用停止を招くというサプライチェーン上の脆弱性を浮き彫りにしています。エンジニアとしては、特定のハードウェアに依存しないオープンなプロトコルや代替システムを視野に入れたシステム設計の重要性が再認識されます。",
+    "sourceUrl": "https://www.cined.com/the-drone-in-your-kit-could-be-next-us-fcc-proposal-targets-thermal-and-lidar-models-already-approved-for-sale/",
+    "sourceName": "CineD",
+    "originalImageUrl": "https://www.cined.com/content/uploads/2026/08/DJI-drone-ban-US-featured1-300x169.jpg",
+    "originalImageArticleUrl": "https://www.cined.com/the-drone-in-your-kit-could-be-next-us-fcc-proposal-targets-thermal-and-lidar-models-already-approved-for-sale/",
+    "displayDate": "2026-08-09"
+  }
+}
