@@ -1,10 +1,6 @@
 {
   "Production Monitor": [
     {
-      "url": "https://www.newsshooter.com/2026/07/31/nanokvm-go-worlds-first-ai-native-4k-usb-c-kvm/?utm_source=rss&utm_medium=rss&utm_campaign=nanokvm-go-worlds-first-ai-native-4k-usb-c-kvm",
-      "date": "2026-08-02"
-    },
-    {
       "url": "https://www.cined.com/native-premiere-pro-masking-and-overlapping-performances-in-resolve-ai-masking-course-update-on-mzed/",
       "date": "2026-08-03"
     },
@@ -31,13 +27,13 @@
     {
       "url": "https://www.cined.com/the-drone-in-your-kit-could-be-next-us-fcc-proposal-targets-thermal-and-lidar-models-already-approved-for-sale/",
       "date": "2026-08-09"
+    },
+    {
+      "url": "https://www.cined.com/cipa-first-half-2026-numbers-compact-cameras-keep-booming-while-the-market-shifts-to-pricier-gear/",
+      "date": "2026-08-10"
     }
   ],
   "SRD / XR": [
-    {
-      "url": "https://news.yahoo.co.jp/articles/510ee1e94041f3c45c9916a9f374cc46e2253def",
-      "date": "2026-08-02"
-    },
     {
       "url": "https://www.moguravr.com/?p=322949",
       "date": "2026-08-03"
@@ -65,13 +61,13 @@
     {
       "url": "https://www.moguravr.com/varrel-aituber-luma-debut/",
       "date": "2026-08-09"
+    },
+    {
+      "url": "https://www.nikkei.com/article/DGKKZO98070750Z00C26A8CT0000/",
+      "date": "2026-08-10"
     }
   ],
   "AI": [
-    {
-      "url": "https://www.npr.org/2026/08/01/nx-s1-5914852/anthropic-openai-models-hack-cybersecurity",
-      "date": "2026-08-02"
-    },
     {
       "url": "https://www.cnbc.com/2026/08/01/open-ai-hugging-face-hack-cyber-warnings.html",
       "date": "2026-08-03"
@@ -99,13 +95,13 @@
     {
       "url": "https://www.cnbc.com/2026/08/08/hugging-face-ai-hack-cybersecurity-black-hat.html",
       "date": "2026-08-09"
+    },
+    {
+      "url": "https://www.yomiuri.co.jp/politics/20260809-GYT1T00295/",
+      "date": "2026-08-10"
     }
   ],
   "Gaming Monitor": [
-    {
-      "url": "https://www.notebookcheck.net/Sony-s-Inzone-M10S-II-monitor-with-Tandem-OLED-panel-and-720Hz-mode-is-now-available-globally.1356599.0.html",
-      "date": "2026-08-02"
-    },
     {
       "url": "https://www.tomshardware.com/monitors/gaming-monitors/grab-this-240-hz-qd-oled-gaming-monitor-at-just-usd300-gigabytes-27-inch-go27q24a-is-now-usd150-off-at-newegg",
       "date": "2026-08-03"
@@ -133,13 +129,13 @@
     {
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNZ3NYeERoSms0WWpFRlFTOHl5Umg4YzVCUnNsYng0eVdRNm5uVUZlWjVlYWRLTEExdzZBVUd1eWRYTE5FcU11dEdZQ2dnX1Z6WlBzWUZoNjJ1RkRVeDEyOGRGZFU0anlqVEFQbEhod1hkR09UZlAxQkNLaEhibXVDVkNmd195emJHbVlGVFVYQVB5Zw?oc=5",
       "date": "2026-08-09"
+    },
+    {
+      "url": "https://www.4gamer.net/games/036/G003691/20260807050/",
+      "date": "2026-08-10"
     }
   ],
   "TCL": [
-    {
-      "url": "https://finance.biggo.com/news/a758e180-64c8-47ea-9f33-e6552c53269c",
-      "date": "2026-08-02"
-    },
     {
       "url": "https://finance.biggo.jp/news/a758e180-64c8-47ea-9f33-e6552c53269c",
       "date": "2026-08-03"
@@ -167,13 +163,13 @@
     {
       "url": "https://newsbytes.ph/2026/08/08/tcl-debuts-nxtpaper-phones-with-paper-like-displays-in-ph/",
       "date": "2026-08-09"
+    },
+    {
+      "url": "https://topics.smt.docomo.ne.jp/article/phileweb/trend/phileweb-interview__article__1129?page=2",
+      "date": "2026-08-10"
     }
   ],
   "Camera Control": [
-    {
-      "url": "https://www.sonyalpharumors.com/curiosity-kase-lenses-can-also-be-found-under-the-lightdow-brand/",
-      "date": "2026-08-02"
-    },
     {
       "url": "https://petapixel.com/2026/08/02/3-2-gigapixel-lsst-camera-captures-over-half-a-million-galaxies/",
       "date": "2026-08-03"
@@ -201,13 +197,13 @@
     {
       "url": "https://dc.watch.impress.co.jp/docs/review/item/2130860.html",
       "date": "2026-08-09"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/curiosity-full-sony-a7riv-teardown-by-kolarivision/",
+      "date": "2026-08-10"
     }
   ],
   "LED Wall Display": [
-    {
-      "url": "https://www.avnetwork.com/installations/brompton-technology-powers-controlled-virtual-production-workflow",
-      "date": "2026-08-02"
-    },
     {
       "url": "https://www.tvbeurope.com/virtual-production/how-itvs-believe-me-used-virtual-production-to-drive-the-story-forward",
       "date": "2026-08-03"
@@ -235,13 +231,13 @@
     {
       "url": "//www.ledinside.com/interview/2026/8/2026_08_07_10",
       "date": "2026-08-09"
+    },
+    {
+      "url": "https://mshale.com/ea8c9e75/1c20d8e7SkX0T-YOpDc",
+      "date": "2026-08-10"
     }
   ],
   "SONY": [
-    {
-      "url": "https://www.notebookcheck.net/Sony-s-Inzone-M10S-II-monitor-with-Tandem-OLED-panel-and-720Hz-mode-is-now-available-globally.1356599.0.html",
-      "date": "2026-08-02"
-    },
     {
       "url": "https://www.digitaltrends.com/gaming/sonys-720hz-tandem-woled-gaming-monitor-is-finally-available-worldwide/",
       "date": "2026-08-03"
@@ -269,13 +265,13 @@
     {
       "url": "https://www.canonrumors.com/sony-fx5-shipments-delayed-due-to-quality-control-issue/",
       "date": "2026-08-09"
+    },
+    {
+      "url": "https://hashout.jp/gadget/5473/",
+      "date": "2026-08-10"
     }
   ],
   "TV": [
-    {
-      "url": "https://mashable.com/roundup/best-65-inch-tvs-2026-expert-tested",
-      "date": "2026-08-02"
-    },
     {
       "url": "https://www.dazn.com/ja-JP/news/%E3%83%90%E3%83%AC%E3%83%BC%E3%83%9C%E3%83%BC%E3%83%AB/vnl2026-men-3rd-place-match-japan-vs-slovenia-tv-broadcast-schedule/7g44um6prtue1b04mj29p4jlh",
       "date": "2026-08-03"
@@ -303,13 +299,13 @@
     {
       "url": "https://techlomedia.in/2026/08/global-tv-market-stalls-in-q2-but-oled-tv-shipments-grow-20-125560/",
       "date": "2026-08-09"
+    },
+    {
+      "url": "https://www.pcguide.com/deals/samsung-s90h-deal-slashes-a-massive-700-off-the-price-of-this-new-65-inch-oled-tv/",
+      "date": "2026-08-10"
     }
   ],
   "Projector": [
-    {
-      "url": "https://www.twice.com/product/video/projectors/hisense-ships-px4-pro-ust-projector",
-      "date": "2026-08-02"
-    },
     {
       "url": "https://www.notebookcheck.net/BenQ-recalls-GV31-portable-projectors-globally-due-to-risk-of-fire-and-burns.1358371.0.html",
       "date": "2026-08-03"
@@ -337,6 +333,10 @@
     {
       "url": "https://article.auone.jp/article/199524ca-5139-4950-a0a8-849a24ff23de",
       "date": "2026-08-09"
+    },
+    {
+      "url": "https://www.gizmochina.com/2026/08/09/xgimi-z9x-4k-high-brightness-edition-launched-specs-price/",
+      "date": "2026-08-10"
     }
   ]
 }

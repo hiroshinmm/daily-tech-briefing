@@ -1,0 +1,102 @@
+{
+  "SRD / XR": {
+    "title": "国立ハンセン病資料館、VRで歴史を追体験",
+    "summary": "国立ハンセン病資料館が、隔離政策の象徴であった往時の施設の姿をVRで再現。物理的に現存しない歴史的建造物をデジタル空間で追体験することで、過去の偏見や差別の実態を次世代に深く伝える取り組みが進められています。",
+    "insight": "デジタルアーカイブとVR技術の融合は、歴史教育における「共感」の質を大きく変えるポテンシャルがあります。UI/UX設計において、単なる視覚的再現に留まらず、没入体験を通じた文脈的理解をどう深めるかがエンジニアリング上の重要な鍵となります。",
+    "sourceUrl": "https://www.nikkei.com/article/DGKKZO98070750Z00C26A8CT0000/",
+    "sourceName": "日本経済新聞",
+    "originalImageUrl": "https://article-image-ix.nikkei.com/https%3A%2F%2Fimgix-proxy.n8s.jp%2FDSKKZO9807076009082026CT0000-2.jpg?auto=compress&bg=FFFF&crop=focalpoint&fit=crop&fm=jpg&h=630&upscale=false&w=1200&s=96bd919dc7d326a6fc3c2831428faa9d",
+    "originalImageArticleUrl": "https://www.nikkei.com/article/DGKKZO98070750Z00C26A8CT0000/",
+    "displayDate": "2026-08-10"
+  },
+  "AI": {
+    "title": "自衛隊指揮に国産AI採用へ、国産技術の重要性が急浮上",
+    "summary": "日本の自衛隊が意思決定の迅速化を図るため、情報収集や分析を担う国産AIの導入を検討していることが報じられました。特にセキュリティと自律性の観点から「サカナAI」などが有力視されており、地政学リスクを考慮した中国製AIの排除方針が明確になっています。",
+    "insight": "国家レベルのAI導入において、サプライチェーンの透明性とデータ主権を確保する動きが加速しています。エンジニアとしては、特定のLLMや基盤モデルに依存するだけでなく、エッジサイドでのモデル運用や国産インフラへの適応能力が、今後の公共系システム開発における鍵となるでしょう。",
+    "sourceUrl": "https://www.yomiuri.co.jp/politics/20260809-GYT1T00295/",
+    "sourceName": "読売新聞",
+    "originalImageUrl": "https://www.yomiuri.co.jp/media/2026/08/20260809-GYT1I00297-1.jpg?type=ogp",
+    "originalImageArticleUrl": "https://www.yomiuri.co.jp/politics/20260809-GYT1T00295/",
+    "displayDate": "2026-08-10"
+  },
+  "Gaming Monitor": {
+    "title": "AIブームが変えるゲーミングPCの未来",
+    "summary": "生成AIブームに伴う「メムフレーション」が、ゲームハードの価格高騰を招いています。高騰するハードウェアに対し、クラウドゲーミングが再び解決策として注目される中、今後のゲーミング環境がどのように変化していくのかを考察する記事です。",
+    "insight": "AIワークロードによるGPUやメモリの需要急増が、ゲーム用ハードウェアの供給と価格に直接的な負の影響を与えています。ハードウェアの限界コストが高まる今、クラウドインフラをベースとしたレンダリング技術の最適化が、エンジニアにとっての新たな重要課題となっています。",
+    "sourceUrl": "https://www.4gamer.net/games/036/G003691/20260807050/",
+    "sourceName": "4Gamer.net − 最新記事",
+    "originalImageUrl": "https://www.4gamer.net/games/036/G003691/20260807050/SS/002.jpg",
+    "originalImageArticleUrl": "https://www.4gamer.net/games/036/G003691/20260807050/",
+    "displayDate": "2026-08-10"
+  },
+  "TCL": {
+    "title": "TCLブランド司令塔に聞く、45年の軌跡と日本戦略",
+    "summary": "TCLのブランド責任者が、創業から45年にわたる成長の歴史と、失敗から学んだ教訓を語った。なぜ同社が現在、日本市場を重視し、積極的にローカライズや品質向上に取り組んでいるのか、その背景にある戦略とビジョンが明らかにされています。",
+    "insight": "中国家電大手がグローバル市場でいかに垂直統合によるコスト競争力を築き、それをどうブランド価値へ転換したかのケーススタディとして非常に興味深いです。特に技術製品における市場適応と現地化戦略は、ソフトウェアエンジニアにとっても市場適合性（PMF）を考える上で示唆に富む内容です。",
+    "sourceUrl": "https://topics.smt.docomo.ne.jp/article/phileweb/trend/phileweb-interview__article__1129?page=2",
+    "sourceName": "ｄメニューニュース",
+    "originalImageUrl": "https://img.topics.smt.news.goo.ne.jp/picture/phileweb/m_phileweb-interview__article__1129.jpg",
+    "originalImageArticleUrl": "https://topics.smt.docomo.ne.jp/article/phileweb/trend/phileweb-interview__article__1129?page=2",
+    "displayDate": "2026-08-10"
+  },
+  "SONY": {
+    "title": "ソニーがタムロン買収提案？カメラ市場の今後",
+    "summary": "ソニーによるタムロンの完全子会社化提案が大きな話題となっています。約2000億円規模と報じられる本件は、ソニーのイメージング技術とタムロンの光学設計力の統合を意味し、カメラファンや業界関係者の間で大きな注目を集めています。エレキ事業の強化を象徴する重要な動きです。",
+    "insight": "レンズ設計における光学性能とコスト競争力をどう統合するかが、今後の製品開発の鍵となります。エンジニア視点では、ハードウェアの内製化率向上に伴うサプライチェーンの最適化や、独自アルゴリズムとの融合による画質向上に注目すべきです。",
+    "sourceUrl": "https://hashout.jp/gadget/5473/",
+    "sourceName": "shiritomo",
+    "originalImageUrl": "https://hashout.jp/wp-content/uploads/2026/08/2086246328850334061-img-1200x675.png",
+    "originalImageArticleUrl": "https://hashout.jp/gadget/5473/",
+    "displayDate": "2026-08-10"
+  },
+  "Camera Control": {
+    "title": "Sony A7rVIの内部構造を公開、分解レポートが話題に",
+    "summary": "KolarivisionがSonyの最新ミラーレス一眼「A7rVI」の完全分解レポートを公開しました。内部構造の配置や設計の難易度など、普段は見ることのできないプロ向けカメラの精密な内部構成が明らかになっています。",
+    "insight": "ハードウェアエンジニアにとって、製品の保守性やモジュール配置は非常に興味深いポイントです。特に大手メーカーのフラッグシップ機における基板レイアウトや放熱設計の進化は、製品の信頼性を左右する重要な知見と言えるでしょう。",
+    "sourceUrl": "https://www.sonyalpharumors.com/curiosity-full-sony-a7riv-teardown-by-kolarivision/",
+    "sourceName": "sonyalpharumors",
+    "originalImageUrl": "https://www.sonyalpharumors.com/wp-content/uploads/2026/06/Sony-A7rVI-in-Stock-BHphoto.png",
+    "originalImageArticleUrl": "https://www.sonyalpharumors.com/curiosity-full-sony-a7riv-teardown-by-kolarivision/",
+    "displayDate": "2026-08-10"
+  },
+  "TV": {
+    "title": "Samsung OLED TVが700ドル値下げ",
+    "summary": "Samsungの65インチOLED TV「S90H」が、700ドルという大幅な割引価格で提供されるキャンペーンが注目を集めています。高性能なOLEDディスプレイを検討しているユーザーには絶好の機会です。",
+    "insight": "最新のOLEDパネルは高リフレッシュレートや低遅延を実現しており、エンジニアの作業用モニターとしても非常に優秀です。近年の家電価格競争は、ハイエンドな映像体験をデスクトップ環境に取り入れるための良い契機となります。",
+    "sourceUrl": "https://www.pcguide.com/deals/samsung-s90h-deal-slashes-a-massive-700-off-the-price-of-this-new-65-inch-oled-tv/",
+    "sourceName": "PC Guide",
+    "originalImageUrl": "https://www.pcguide.com/wp-content/uploads/2026/08/Samsung-S90H-deal-slashes-a-massive-700-off-the-price-of-this-new-65-inch-OLED-TV.jpg",
+    "originalImageArticleUrl": "https://www.pcguide.com/deals/samsung-s90h-deal-slashes-a-massive-700-off-the-price-of-this-new-65-inch-oled-tv/",
+    "displayDate": "2026-08-10"
+  },
+  "Projector": {
+    "title": "Xgimiが「Z9X」新モデル発表、驚異の1msレイテンシ",
+    "summary": "Xgimiから、RGBレーザー光源を採用し、4K解像度と120Hz駆動、さらに1msという超低レイテンシを実現した新プロジェクター「Z9X 4K High Brightness Edition」が登場しました。ホームシアターのみならず、ゲーミング利用も想定した高性能モデルとして注目されています。",
+    "insight": "プロジェクターにおいて1msの入力遅延を実現したのは、コンソールゲーム等での利用を本格的にターゲットに入れていることを示唆しています。高輝度なRGBレーザーと高速描画の組み合わせは、大画面での低遅延環境を求めるゲーマーやストリーマーにとって、ディスプレイに代わる有力な選択肢になりそうです。",
+    "sourceUrl": "https://www.gizmochina.com/2026/08/09/xgimi-z9x-4k-high-brightness-edition-launched-specs-price/",
+    "sourceName": "gizmochina.com",
+    "originalImageUrl": "https://www.gizmochina.com/wp-content/uploads/2026/08/Xgimi-Z9X-High-Brightness-Edition.png",
+    "originalImageArticleUrl": "https://www.gizmochina.com/2026/08/09/xgimi-z9x-4k-high-brightness-edition-launched-specs-price/",
+    "displayDate": "2026-08-10"
+  },
+  "Production Monitor": {
+    "title": "2026年前半のカメラ市場：高級化とコンパクト回帰",
+    "summary": "CIPAが発表した2026年上半期の統計によると、カメラ市場の構造が大きく変化しています。ミラーレス機の出荷台数は横ばいですが金額ベースでは上昇しており、一方でコンパクトカメラは出荷台数で約16%増と好調です。全体として、消費者は「数は少なくても単価の高い製品」を選ぶ傾向が強まっています。",
+    "insight": "ハードウェアのコモディティ化が進む中、メーカーが高付加価値路線へシフトし利益率を追求する戦略が数値に表れています。エンジニアとしては、単なるスペック競争ではなく、ユーザー体験や特定用途に特化した機能強化がいかに購買行動に結びついているかを分析する良いケーススタディです。",
+    "sourceUrl": "https://www.cined.com/cipa-first-half-2026-numbers-compact-cameras-keep-booming-while-the-market-shifts-to-pricier-gear/",
+    "sourceName": "CineD",
+    "originalImageUrl": "https://www.cined.com/content/uploads/2026/08/CIPA-H1-2026-featured-300x169.jpg",
+    "originalImageArticleUrl": "https://www.cined.com/cipa-first-half-2026-numbers-compact-cameras-keep-booming-while-the-market-shifts-to-pricier-gear/",
+    "displayDate": "2026-08-10"
+  },
+  "LED Wall Display": {
+    "title": "次世代ウェアラブル：GarminがMicroLED採用へ？",
+    "summary": "Garminの次期フラッグシップ「Fenix 9 Pro」にMicroLEDディスプレイが搭載される可能性が浮上しています。高い輝度と省電力性能を両立する次世代技術として、ウェアラブル端末のバッテリー寿命と視認性を劇的に改善する期待が高まっており、2026年のリリースに向けたリーク情報が注目を集めています。",
+    "insight": "MicroLEDは自発光型でバックライトが不要なため、特に屋外での視認性と低消費電力化が求められるウェアラブルデバイスとの親和性が非常に高いです。エンジニアの観点では、既存のOLEDと比較した際の発光効率の改善度と、製造コスト低減による市場普及のスピード感が今後のハードウェア開発の鍵となります。",
+    "sourceUrl": "https://mshale.com/ea8c9e75/1c20d8e7SkX0T-YOpDc",
+    "sourceName": "Mshale",
+    "originalImageUrl": null,
+    "originalImageArticleUrl": "https://mshale.com/ea8c9e75/1c20d8e7SkX0T-YOpDc",
+    "displayDate": "2026-08-10"
+  }
+}
