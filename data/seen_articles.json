@@ -1,10 +1,6 @@
 {
   "Production Monitor": [
     {
-      "url": "https://www.cined.com/native-premiere-pro-masking-and-overlapping-performances-in-resolve-ai-masking-course-update-on-mzed/",
-      "date": "2026-08-03"
-    },
-    {
       "url": "https://www.cined.com/sony-proposes-to-acquire-lens-maker-tamron-what-a-takeover-could-mean-for-the-lens-market/",
       "date": "2026-08-04"
     },
@@ -31,13 +27,13 @@
     {
       "url": "https://www.cined.com/cipa-first-half-2026-numbers-compact-cameras-keep-booming-while-the-market-shifts-to-pricier-gear/",
       "date": "2026-08-10"
+    },
+    {
+      "url": "https://www.cined.com/blackmagic-camera-10-2-2-released-cinema-camera-6k-gains-phase-detect-autofocus-cloud-streaming-and-10-minute-pre-record/",
+      "date": "2026-08-11"
     }
   ],
   "SRD / XR": [
-    {
-      "url": "https://www.moguravr.com/?p=322949",
-      "date": "2026-08-03"
-    },
     {
       "url": "https://prtimes.jp/main/html/rd/p/000000196.000020924.html",
       "date": "2026-08-04"
@@ -65,13 +61,13 @@
     {
       "url": "https://www.nikkei.com/article/DGKKZO98070750Z00C26A8CT0000/",
       "date": "2026-08-10"
+    },
+    {
+      "url": "https://www.uploadvr.com/apple-expands-friday-night-baseball-with-live-immersive-access-on-vision-pro/",
+      "date": "2026-08-11"
     }
   ],
   "AI": [
-    {
-      "url": "https://www.cnbc.com/2026/08/01/open-ai-hugging-face-hack-cyber-warnings.html",
-      "date": "2026-08-03"
-    },
     {
       "url": "https://www.cnbc.com/2026/08/03/white-house-ai-companies-voluntary-framework-meeting.html",
       "date": "2026-08-04"
@@ -99,13 +95,13 @@
     {
       "url": "https://www.yomiuri.co.jp/politics/20260809-GYT1T00295/",
       "date": "2026-08-10"
+    },
+    {
+      "url": "https://www.nytimes.com/2026/08/10/technology/meta-ai-open-source.html",
+      "date": "2026-08-11"
     }
   ],
   "Gaming Monitor": [
-    {
-      "url": "https://www.tomshardware.com/monitors/gaming-monitors/grab-this-240-hz-qd-oled-gaming-monitor-at-just-usd300-gigabytes-27-inch-go27q24a-is-now-usd150-off-at-newegg",
-      "date": "2026-08-03"
-    },
     {
       "url": "https://www.ign.com/articles/lg-ultragear-gaming-monitor-deal-with-tandem-oled",
       "date": "2026-08-04"
@@ -133,13 +129,13 @@
     {
       "url": "https://www.4gamer.net/games/036/G003691/20260807050/",
       "date": "2026-08-10"
+    },
+    {
+      "url": "https://www.rtings.com/monitor/reviews/best/by-features/curved",
+      "date": "2026-08-11"
     }
   ],
   "TCL": [
-    {
-      "url": "https://finance.biggo.jp/news/a758e180-64c8-47ea-9f33-e6552c53269c",
-      "date": "2026-08-03"
-    },
     {
       "url": "https://www.thetechoutlook.com/new-release/gadgets-release/tcl-csot-and-msi-unveiled-the-worlds-first-27-4k-120hz-ijp-oled-high-end-professional-desktop-monitor-at-chinajoy-2026/",
       "date": "2026-08-04"
@@ -167,13 +163,13 @@
     {
       "url": "https://topics.smt.docomo.ne.jp/article/phileweb/trend/phileweb-interview__article__1129?page=2",
       "date": "2026-08-10"
+    },
+    {
+      "url": "https://topics.smt.docomo.ne.jp/article/mycom/trend/mycom_3216481?utm_source=dnews&utm_medium=article&utm_campaign=contentsmatch1",
+      "date": "2026-08-11"
     }
   ],
   "Camera Control": [
-    {
-      "url": "https://petapixel.com/2026/08/02/3-2-gigapixel-lsst-camera-captures-over-half-a-million-galaxies/",
-      "date": "2026-08-03"
-    },
     {
       "url": "https://dc.watch.impress.co.jp/docs/column/photo_ai/2129982.html",
       "date": "2026-08-04"
@@ -201,13 +197,13 @@
     {
       "url": "https://www.sonyalpharumors.com/curiosity-full-sony-a7riv-teardown-by-kolarivision/",
       "date": "2026-08-10"
+    },
+    {
+      "url": "https://petapixel.com/2026/08/10/sony-and-tsmc-are-spending-billions-to-make-next-gen-image-sensors/",
+      "date": "2026-08-11"
     }
   ],
   "LED Wall Display": [
-    {
-      "url": "https://www.tvbeurope.com/virtual-production/how-itvs-believe-me-used-virtual-production-to-drive-the-story-forward",
-      "date": "2026-08-03"
-    },
     {
       "url": "https://www.digitalsignagetoday.com/news/proto-hologram-gets-holographic-display-patent/",
       "date": "2026-08-04"
@@ -235,13 +231,13 @@
     {
       "url": "https://mshale.com/ea8c9e75/1c20d8e7SkX0T-YOpDc",
       "date": "2026-08-10"
+    },
+    {
+      "url": "https://ftp.erto.fi/updates/satco-nuvo-light-installation",
+      "date": "2026-08-11"
     }
   ],
   "SONY": [
-    {
-      "url": "https://www.digitaltrends.com/gaming/sonys-720hz-tandem-woled-gaming-monitor-is-finally-available-worldwide/",
-      "date": "2026-08-03"
-    },
     {
       "url": "https://www.accessnewswire.com/newsroom/en/electronics-and-engineering/vadzo-imaging-positions-the-bolt-900mgs-imx900-sony-pregius-s-based-mon-1197974",
       "date": "2026-08-04"
@@ -269,13 +265,13 @@
     {
       "url": "https://hashout.jp/gadget/5473/",
       "date": "2026-08-10"
+    },
+    {
+      "url": "https://www.phonearena.com/news/future-iphones-may-pack-brand-new-camera-sensors-developed-by-sony-and-tsmc_id182492",
+      "date": "2026-08-11"
     }
   ],
   "TV": [
-    {
-      "url": "https://www.dazn.com/ja-JP/news/%E3%83%90%E3%83%AC%E3%83%BC%E3%83%9C%E3%83%BC%E3%83%AB/vnl2026-men-3rd-place-match-japan-vs-slovenia-tv-broadcast-schedule/7g44um6prtue1b04mj29p4jlh",
-      "date": "2026-08-03"
-    },
     {
       "url": "https://www.apple.com/jp/newsroom/2026/08/leagues-cup-kicks-off-tomorrow-august-4-on-apple-tv/",
       "date": "2026-08-04"
@@ -303,13 +299,13 @@
     {
       "url": "https://www.pcguide.com/deals/samsung-s90h-deal-slashes-a-massive-700-off-the-price-of-this-new-65-inch-oled-tv/",
       "date": "2026-08-10"
+    },
+    {
+      "url": "https://www.itmedia.co.jp/pcuser/amp/2608/10/news097.html",
+      "date": "2026-08-11"
     }
   ],
   "Projector": [
-    {
-      "url": "https://www.notebookcheck.net/BenQ-recalls-GV31-portable-projectors-globally-due-to-risk-of-fire-and-burns.1358371.0.html",
-      "date": "2026-08-03"
-    },
     {
       "url": "https://www.techtimes.com/articles/322832/20260803/hisense-px4-pro-brings-freesync-premium-ultra-short-throw-projection-first-time.htm",
       "date": "2026-08-04"
@@ -337,6 +333,10 @@
     {
       "url": "https://www.gizmochina.com/2026/08/09/xgimi-z9x-4k-high-brightness-edition-launched-specs-price/",
       "date": "2026-08-10"
+    },
+    {
+      "url": "https://www.gamerevolution.com/review/984895-xgimi-titan-noir-max-review-4k-projector",
+      "date": "2026-08-11"
     }
   ]
 }

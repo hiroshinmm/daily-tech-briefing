@@ -1,0 +1,102 @@
+{
+  "AI": {
+    "title": "Metaが最強のオープンAIモデル「Llama 3.1」を発表",
+    "summary": "Metaは、同社史上最も強力なAIモデル「Llama 3.1 405B」をオープンソースとして公開しました。ザッカーバーグCEOは、AI開発の権力集中を避け、開発者コミュニティが技術革新を主導することの重要性を強調しており、業界に大きな影響を与えています。",
+    "insight": "商用利用可能な最強クラスのモデルがオープン化されたことで、自社ホスティングによる推論環境構築やファインチューニングの選択肢が劇的に広がりました。API依存のリスクを抑えつつ、オンプレミスでのプライバシー保護を重視するプロダクト開発において、LLMの選定基準が大きく変わる転換点となりそうです。",
+    "sourceUrl": "https://www.nytimes.com/2026/08/10/technology/meta-ai-open-source.html",
+    "sourceName": "The New York Times",
+    "originalImageUrl": null,
+    "originalImageArticleUrl": "https://www.nytimes.com/2026/08/10/technology/meta-ai-open-source.html",
+    "displayDate": "2026-08-11"
+  },
+  "Gaming Monitor": {
+    "title": "2026年版：今選ぶべきゲーミング曲面モニター5選",
+    "summary": "RTINGSが2026年版のベストな曲面モニターランキングを発表しました。没入感を高める曲面ディスプレイの最新トレンドと、ゲームプレイに最適なスペックを検証した結果がまとめられています。買い替えを検討している方は必見の内容です。",
+    "insight": "曲率（Curvature）は長時間の作業やゲームにおける眼精疲労軽減に影響しますが、パネルの種類によって色再現性や視野角が大きく異なります。エンジニアとしては、単なるスペック数値だけでなく、リフレッシュレートと解像度のバランス、およびデスクの奥行きに対する最適曲率を考慮して選定するのがポイントです。",
+    "sourceUrl": "https://www.rtings.com/monitor/reviews/best/by-features/curved",
+    "sourceName": "RTINGS.com",
+    "originalImageUrl": "https://i.rtings.com/assets/pages/KhRjWkQZ/best-curved-monitors-20230816-medium.jpg?format=auto",
+    "originalImageArticleUrl": "https://www.rtings.com/monitor/reviews/best/by-features/curved",
+    "displayDate": "2026-08-11"
+  },
+  "SRD / XR": {
+    "title": "Apple Vision ProでMLBのライブイマーシブ観戦が可能に",
+    "summary": "Apple Vision Pro向けに、Apple Immersive Videoを使用したMLB「Friday Night Baseball」のライブ配信が開始されます。スタジアムの臨場感を高解像度で体験できる、空間コンピューティングの新たな活用事例です。",
+    "insight": "立体的な映像データをリアルタイムで配信する仕組みは、低遅延と高圧縮の両立がエンジニアリング上の大きな鍵となります。単なる動画再生ではなく、空間オーディオと組み合わせた「没入体験」の最適化が今後の視聴体験の標準となるでしょう。",
+    "sourceUrl": "https://www.uploadvr.com/apple-expands-friday-night-baseball-with-live-immersive-access-on-vision-pro/",
+    "sourceName": "UploadVR",
+    "originalImageUrl": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/08/Friday-Night-Baseball-live-in-Apple-Immersive-16x9.png",
+    "originalImageArticleUrl": "https://www.uploadvr.com/apple-expands-friday-night-baseball-with-live-immersive-access-on-vision-pro/",
+    "displayDate": "2026-08-11"
+  },
+  "TCL": {
+    "title": "TCLが語る次世代技術「SQD-Mini LED」",
+    "summary": "TCLの最新ディスプレイ技術「SQD-Mini LED」に注目が集まっています。従来のMini LEDに加え、量子ドット技術を最適化することで、より高度な色再現性と高輝度を両立。ディスプレイの進化が止まりません。",
+    "insight": "量子ドット(QD)とMini LEDの組み合わせは、液晶パネルの限界を拡張する有力なアプローチです。高精細な輝度制御と広色域表現の最適化アルゴリズムは、映像ハードウェアエンジニアにとって今後も重要な最適化ポイントとなるでしょう。",
+    "sourceUrl": "https://topics.smt.docomo.ne.jp/article/mycom/trend/mycom_3216481?utm_source=dnews&utm_medium=article&utm_campaign=contentsmatch1",
+    "sourceName": "マイナビニュース",
+    "originalImageUrl": "https://img.topics.smt.news.goo.ne.jp/picture/mycom/m_mycom_3216481.jpg",
+    "originalImageArticleUrl": "https://topics.smt.docomo.ne.jp/article/mycom/trend/mycom_3216481?utm_source=dnews&utm_medium=article&utm_campaign=contentsmatch1",
+    "displayDate": "2026-08-11"
+  },
+  "SONY": {
+    "title": "次期iPhoneにソニーとTSMCの新型センサー採用の可能性",
+    "summary": "次期iPhoneのカメラ性能が大幅に向上する可能性があります。報道によると、ソニーとTSMCが共同開発した新型のイメージセンサーが将来のiPhoneに搭載される見込みです。積層型センサー技術の深化により、低照度性能やダイナミックレンジがさらに強化されると期待されています。",
+    "insight": "モバイル向けイメージセンサーの微細化と積層技術は、現在エッジコンピューティングやIoTにおいて非常に重要な技術トレンドです。特にロジックと画素を分離する積層プロセスにおいて、ファウンドリであるTSMCとの連携は、信号処理の高速化と電力効率の最適化において極めて高いハードウェア設計のポテンシャルを秘めています。",
+    "sourceUrl": "https://www.phonearena.com/news/future-iphones-may-pack-brand-new-camera-sensors-developed-by-sony-and-tsmc_id182492",
+    "sourceName": "PhoneArena",
+    "originalImageUrl": null,
+    "originalImageArticleUrl": "https://www.phonearena.com/news/future-iphones-may-pack-brand-new-camera-sensors-developed-by-sony-and-tsmc_id182492",
+    "displayDate": "2026-08-11"
+  },
+  "Projector": {
+    "title": "XGIMIの次世代4Kプロジェクター「TITAN Noir Max」が登場",
+    "summary": "XGIMIから待望の最新ハイエンド4Kプロジェクター「TITAN Noir Max」が登場し、注目を集めています。高解像度かつ没入感のある映像体験を追求しており、ホームシアター環境のアップグレードを検討している層にとって有力な選択肢となっています。",
+    "insight": "プロジェクター市場では、レーザー光源と4K解像度による画質向上に加え、AIによる台形補正やOSの最適化など、エンジニアリング面でのUX向上が顕著です。ハードウェアとソフトウェアの統合がいかに視聴体験を左右するか、開発視点でも興味深いプロダクトです。",
+    "sourceUrl": "https://www.gamerevolution.com/review/984895-xgimi-titan-noir-max-review-4k-projector",
+    "sourceName": "gamerevolution.com",
+    "originalImageUrl": "https://www.gamerevolution.com/wp-content/uploads/sites/2/2026/08/xgimi-review_0003_Noir-Max_KV2.jpg?resize=1200,630",
+    "originalImageArticleUrl": "https://www.gamerevolution.com/review/984895-xgimi-titan-noir-max-review-4k-projector",
+    "displayDate": "2026-08-11"
+  },
+  "Production Monitor": {
+    "title": "Blackmagic Cinema Camera 6Kが大幅進化",
+    "summary": "Blackmagic Designのファームウェア10.2.2が公開され、Cinema Camera 6Kに待望の位相差オートフォーカス(PDAF)が実装されました。さらにクラウドストリーミングや最大10分のプリレコーディング機能も追加され、ソフトウェアアップデートによる既存ハードウェアの機能拡張が注目を集めています。",
+    "insight": "ファームウェア更新だけでAFや映像処理パイプラインを大幅に強化できる点は、組込みソフトウェアの設計が製品寿命をどう延ばせるかを示す好例です。特に制約の多い映像機器において、既存のセンサーで位相差AFを実現するためのアルゴリズム最適化は、エンジニアリングの観点でも非常に興味深い取り組みです。",
+    "sourceUrl": "https://www.cined.com/blackmagic-camera-10-2-2-released-cinema-camera-6k-gains-phase-detect-autofocus-cloud-streaming-and-10-minute-pre-record/",
+    "sourceName": "CineD",
+    "originalImageUrl": "https://www.cined.com/content/uploads/2026/08/Blackmagic-Cinema-Camera-6K-300x169.jpeg",
+    "originalImageArticleUrl": "https://www.cined.com/blackmagic-camera-10-2-2-released-cinema-camera-6k-gains-phase-detect-autofocus-cloud-streaming-and-10-minute-pre-record/",
+    "displayDate": "2026-08-11"
+  },
+  "TV": {
+    "title": "Amazon Fire TV Stick HDがセール中",
+    "summary": "Amazonのストリーミングデバイス「Fire TV Stick HD」が29%オフの4,980円で販売されています。リビングのテレビをスマート化し、手軽にコンテンツ視聴環境を構築できるチャンスです。",
+    "insight": "エンジニアとしては、ストリーミングデバイスのOS（Fire OS）におけるパフォーマンス最適化や、低コストなデバイスでのメディアコンテナ再生技術に関心を持つべきです。特定のOS環境下でのWebベースのUIレンダリング効率を考慮したアプリ開発のヒントが得られるかもしれません。",
+    "sourceUrl": "https://www.itmedia.co.jp/pcuser/amp/2608/10/news097.html",
+    "sourceName": "ITmedia PC USER",
+    "originalImageUrl": "https://image.itmedia.co.jp/pcuser/articles/2608/10/cover_news097.jpg",
+    "originalImageArticleUrl": "https://www.itmedia.co.jp/pcuser/amp/2608/10/news097.html",
+    "displayDate": "2026-08-11"
+  },
+  "Camera Control": {
+    "title": "SonyとTSMC、次世代イメージセンサー量産へ",
+    "summary": "ソニーグループとTSMCが、2029年を目処に日本で次世代イメージセンサーの量産を開始する計画を明かしました。数十億ドル規模の巨額投資を通じ、両社の製造技術を融合させることで、カメラ業界の技術的転換点となる可能性があります。",
+    "insight": "半導体製造の最前線であるTSMCとの提携は、オンチップ処理の高度化やスタック型センサーのさらなる進化を示唆しています。ソフトウェアエンジニアの視点では、ハードウェア側の画質処理能力が向上することで、計算機写真学（Computational Photography）におけるアルゴリズムの最適化範囲がどう変化するかが注目されます。",
+    "sourceUrl": "https://petapixel.com/2026/08/10/sony-and-tsmc-are-spending-billions-to-make-next-gen-image-sensors/",
+    "sourceName": "PetaPixel",
+    "originalImageUrl": "https://petapixel.com/assets/uploads/2026/05/Sony-Teams-Up-With-TSMC-to-Build-a-Japan-Based-Image-Sensor-Factory.jpg",
+    "originalImageArticleUrl": "https://petapixel.com/2026/08/10/sony-and-tsmc-are-spending-billions-to-make-next-gen-image-sensors/",
+    "displayDate": "2026-08-11"
+  },
+  "LED Wall Display": {
+    "title": "マイクロLEDの効率低下を改善：側面ダメージ抑制技術",
+    "summary": "中国の研究チームが、5μmサイズのGaNブルーLEDにおいて、中性窒素/水素プラズマ処理を用いた新しい製造手法を発表しました。これにより、課題であった側面ダメージを軽減し、外部量子効率(EQE)を34%向上させることに成功しました。",
+    "insight": "マイクロLEDの微細化における最大の障壁である側面欠陥（非放射再結合）を化学的処理で制御する技術です。歩留まりと発光効率を両立させるため、物理的なエッチングだけでなく化学的パッシベーション技術の重要性が高まっています。",
+    "sourceUrl": "https://ftp.erto.fi/updates/satco-nuvo-light-installation",
+    "sourceName": "LEDinside",
+    "originalImageUrl": "https://ftp.erto.fi/Themes/agk/assets/agk.jpg",
+    "originalImageArticleUrl": "https://ftp.erto.fi/updates/satco-nuvo-light-installation",
+    "displayDate": "2026-08-11"
+  }
+}
