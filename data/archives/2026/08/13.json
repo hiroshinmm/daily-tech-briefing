@@ -1,0 +1,102 @@
+{
+  "AI": {
+    "title": "中国で「AI俳優」が台頭、エンタメ制作の現場に変化",
+    "summary": "中国のエンタメ業界で、スマホ向けドラマや映画にAI生成された俳優を起用する動きが加速しています。実在の俳優に代わり、低コストかつ短期間でのコンテンツ制作を可能にする技術が、従来の映像制作モデルを揺るがしています。",
+    "insight": "生成AIによるキャラクター生成やモーション制御の進化は、クリエイティブ産業の生産性を劇的に向上させる一方、著作権や俳優の権利保護といった新たな技術的・倫理的課題を突きつけています。ソフトウェアエンジニアとしては、単なる生成ツールとしてではなく、コンテンツの権利管理や倫理的な検証プロセスをシステムにどう組み込むかが今後重要になります。",
+    "sourceUrl": "https://www.asahi.com/articles/ASV8B2GPFV8BUHBI028M.html",
+    "sourceName": "朝日新聞",
+    "originalImageUrl": "https://imgopt.asahi.com/ogp/AS20260812000050_comm.jpg",
+    "originalImageArticleUrl": "https://www.asahi.com/articles/ASV8B2GPFV8BUHBI028M.html",
+    "displayDate": "2026-08-13"
+  },
+  "SRD / XR": {
+    "title": "Insta360 X6登場：8KとAIで広がる映像制作の可能性",
+    "summary": "Insta360から新型カメラ「X6」が登場。8K50fpsの高解像度撮影に対応し、1/1.1インチの大型センサーによる画質向上と、AIによる自動編集機能が大幅に進化しました。VR映像や360度コンテンツ制作の効率と品質を劇的に高めるアップデートです。",
+    "insight": "大型センサーと高フレームレート化は、360度映像の没入感を向上させるだけでなく、ポストプロセスでのトリミング耐性を大幅に高めます。AI自動編集の進化は、クリエイターが画角設計という「編集の悩み」から解放され、よりストーリーテリングに注力できる環境を示唆しています。",
+    "sourceUrl": "https://jp.pronews.com/column/202608122208773722.html",
+    "sourceName": "pronews.com",
+    "originalImageUrl": "https://jp.pronews.com/wp-content/uploads/2026/08/ccbabf6314c8be48e9b8518a9b76fdcf.jpg",
+    "originalImageArticleUrl": "https://jp.pronews.com/column/202608122208773722.html",
+    "displayDate": "2026-08-13"
+  },
+  "Gaming Monitor": {
+    "title": "ゲーミングモニターが軒並みセール中！狙い目は？",
+    "summary": "現在、GIGABYTEの1,500nit OLEDモデルやLGの1440pウルトラワイドOLED、Samsung Odyssey G6など、ハイエンドなゲーミングモニターが大幅なセール価格で販売されています。型落ちや在庫処分を含め、ゲーミング環境のアップグレードを検討する絶好の機会となっています。",
+    "insight": "OLEDパネルの普及に伴い、以前は高嶺の花だったハイエンド帯の価格競争が激化しています。リフレッシュレートや応答速度だけでなく、ピーク輝度（nit）が実用性に直結するため、エンジニアの作業環境としても色精度とHDR性能の向上を低コストで享受できるチャンスと言えます。",
+    "sourceUrl": "https://www.pcworld.com/article/3195904/this-lg-1440p-ultrawide-oled-gaming-monitor-is-over-500-off.html",
+    "sourceName": "PCWorld",
+    "originalImageUrl": "https://www.pcworld.com/wp-content/uploads/2026/08/3195904-0-36272400-1786566795-image_afabed.png?w=1024",
+    "originalImageArticleUrl": "https://www.pcworld.com/article/3195904/this-lg-1440p-ultrawide-oled-gaming-monitor-is-over-500-off.html",
+    "displayDate": "2026-08-13"
+  },
+  "TCL": {
+    "title": "TCL CSOT、AIコンピューティング領域へ本格参入",
+    "summary": "TCLグループのCSOTは、中国で開催された「ChinaJoy 2026」にて、プロ向けeスポーツ環境とAIコンピューティングを支援する最新ディスプレイ技術を発表しました。ハードウェア製造からAI時代のインフラ構築へと技術的注力範囲を拡大しています。",
+    "insight": "家電メーカーであったTCLが、高精細ディスプレイ技術を軸にAI処理やeスポーツの低遅延環境を支えるインフラ企業へとシフトしています。ハードウェア側の最適化がAI演算性能やユーザー体験に直結する現代において、ディスプレイ業界の技術革新は要注目です。",
+    "sourceUrl": "https://www.manilatimes.net/2026/08/12/tmt-newswire/pr-newswire/tcl-csot-advances-into-professional-esports-and-powers-the-future-of-ai-computing-at-chinajoy-2026/2404161/amp",
+    "sourceName": "The Manila Times",
+    "originalImageUrl": "https://manilatimes.net/manilatimes/uploads/images/2026/08/12/1174625.jpg",
+    "originalImageArticleUrl": "https://www.manilatimes.net/2026/08/12/tmt-newswire/pr-newswire/tcl-csot-advances-into-professional-esports-and-powers-the-future-of-ai-computing-at-chinajoy-2026/2404161/amp",
+    "displayDate": "2026-08-13"
+  },
+  "Projector": {
+    "title": "映画制作の現場が変わる！mocopiの意外な活用事例",
+    "summary": "映画「キングダム 魂の決戦」の制作において、ソニーの小型モバイルモーションキャプチャ「mocopi」が実写映画のCG制作に初めて本格導入されました。プロ機材と民生機が融合し、現場のワークフローが進化しています。",
+    "insight": "低価格な民生向けモーションキャプチャでも、補正技術や統合環境次第で商用映画の制作フローに組み込めることが証明されました。ハードウェアの制約をソフトウェアの工夫でどう解決するか、エンジニアにとっても興味深い適応事例です。",
+    "sourceUrl": "https://av.watch.impress.co.jp/docs/topic/2130939.html",
+    "sourceName": "AV Watch",
+    "originalImageUrl": "https://av.watch.impress.co.jp/img/avw/list/2130/939/ki2.jpg",
+    "originalImageArticleUrl": "https://av.watch.impress.co.jp/docs/topic/2130939.html",
+    "displayDate": "2026-08-13"
+  },
+  "SONY": {
+    "title": "ソニーがTSMCと提携、スマホ用センサー新工場を設立へ",
+    "summary": "ソニーがTSMCとの協業を強化し、日本国内にスマートフォン向けカメラセンサーの生産拠点を新設することが報じられました。ハイエンドスマホ市場での需要拡大に対応し、供給網の安定化と次世代センサーの量産体制を整える狙いがあります。",
+    "insight": "TSMCの微細化プロセスを活かしたセンサー供給は、高画素・高感度化が進むモバイルカメラのハードウェア競合優位性に直結します。ソフトウェア処理（AI）だけでなく、物理層でのパイプライン制御がいかに競争力を左右するかを象徴する動きといえます。",
+    "sourceUrl": "https://www.androidpure.com/sony-tsmc-image-sensor-joint-venture/",
+    "sourceName": "AndroidPure",
+    "originalImageUrl": "https://www.androidpure.com/wp-content/uploads/2026/08/sony-tsmc-image-sensor-joint-venture-featured.jpg",
+    "originalImageArticleUrl": "https://www.androidpure.com/sony-tsmc-image-sensor-joint-venture/",
+    "displayDate": "2026-08-13"
+  },
+  "Production Monitor": {
+    "title": "スマホにARRIの画作りが搭載：HONORの新展開",
+    "summary": "HONORがARRIと共同開発した「Robot Phone」を発表しました。200MPのジンバルカメラを搭載し、映画業界標準の「ARRI LogC3」や「Wide Gamut 3」に商用スマートフォンとして初めて対応。ARRIのプロ向け画像処理技術がモバイル端末に移植された画期的な事例です。",
+    "insight": "プロ向けの高品質な画像処理アルゴリズムやLUTが、スマホハードウェアの制約を超えて実装される時代になりました。SDKやパイプラインの共有化が進むことで、将来的にエッジデバイスでのRAW/Log収録が当たり前になるかもしれません。",
+    "sourceUrl": "https://www.cined.com/honor-robot-phone-launches-arri-logc3-wide-gamut-3-and-a-motorized-titanium-gimbal-camera/",
+    "sourceName": "CineD",
+    "originalImageUrl": "https://www.cined.com/content/uploads/2026/08/2-HONOR-Robot-Phone-co-engineered-with-ARRI_In-action1-300x169.jpg",
+    "originalImageArticleUrl": "https://www.cined.com/honor-robot-phone-launches-arri-logc3-wide-gamut-3-and-a-motorized-titanium-gimbal-camera/",
+    "displayDate": "2026-08-13"
+  },
+  "TV": {
+    "title": "攻殻機動隊 新作アニメの最新情報が公開",
+    "summary": "新作TVアニメ『攻殻機動隊 THE GHOST IN THE SHELL』の第06話キャスト情報やコメント、エンドカードが公開されました。また、Otakon 2026での公式レポートやイベント写真も併せて解禁され、ファンの間で期待が高まっています。",
+    "insight": "サイバーパンクの金字塔である本作が、現代の技術でどのように再構築されるかはエンジニアにとって興味深い事例です。物語の根幹である「電脳化」や「AIの自律性」が、現実のテクノロジーとどうリンクしていくのかを追うことは、技術トレンドの予測にも繋がります。",
+    "sourceUrl": "https://v-storage.jp/anime/koukaku/283799/",
+    "sourceName": "v-storage.jp",
+    "originalImageUrl": "https://v-storage.jp/wp-content/uploads/2026/08/05_ENDCARD_6_FB-1.jpg",
+    "originalImageArticleUrl": "https://v-storage.jp/anime/koukaku/283799/",
+    "displayDate": "2026-08-13"
+  },
+  "Camera Control": {
+    "title": "Insta360がミラーレス市場に参入？",
+    "summary": "アクションカメラで知られるInsta360が、レンズ交換式ミラーレスカメラ2機種を開発中であることを認めました。そのうち1機種は既存の概念を覆す全く新しい形状になると示唆されており、カメラ業界の勢力図に変化が訪れるか注目されています。",
+    "insight": "ソフトウェア主導のアクションカメラメーカーが光学機器のハードウェア設計にどう挑むのか、UIや処理アルゴリズムの統合が鍵となります。特に「既存のテンプレートを壊す形状」という点は、筐体設計や冷却機構におけるエンジニアリング的な挑戦として非常に興味深いです。",
+    "sourceUrl": "https://www.dpreview.com/news/insta360-confirms-it-s-working-on-two-surprising-mirrorless-cameras/",
+    "sourceName": "DPReview",
+    "originalImageUrl": "https://dc.watch.impress.co.jp/img/dcw/list/2132/326/009.jpg",
+    "originalImageArticleUrl": "https://dc.watch.impress.co.jp/docs/review/lens_review_2/2132326.html",
+    "displayDate": "2026-08-13"
+  },
+  "LED Wall Display": {
+    "title": "AUOとfaytech、透明Micro-LEDの商用化で提携",
+    "summary": "ディスプレイ大手のAUOと産業用タッチディスプレイのfaytechが、透明Micro-LED技術の活用に向けたMOU（基本合意書）を締結しました。商用および産業用市場における製品開発から製造、販売まで幅広く連携し、次世代ディスプレイの普及を加速させます。",
+    "insight": "透明ディスプレイは、店舗のウィンドウや産業機器のHMI（ヒューマンマシンインターフェース）において、空間デザインと情報を両立させる重要な技術です。Micro-LEDの高輝度・高コントラスト特性と透過率のバランスが製品化の鍵となり、今後の産業用UI設計のスタンダードになる可能性があります。",
+    "sourceUrl": "https://sundayguardianlive.com/business/nasdaq-today-nasdaq-rises-057-to-2659609-as-micron-surges-688-ai-semiconductor-stocks-lead-gains-fed-rate-hike-bets-ease-what-investors-should-watch-259858/",
+    "sourceName": "LEDinside",
+    "originalImageUrl": "https://sundayguardianlive.com/wp-content/uploads/2026/08/nasdaq-today-nasdaq-rises-057-to-2659609-as-micron-surges-688-what-investors-should-watch.png",
+    "originalImageArticleUrl": "https://sundayguardianlive.com/business/nasdaq-today-nasdaq-rises-057-to-2659609-as-micron-surges-688-ai-semiconductor-stocks-lead-gains-fed-rate-hike-bets-ease-what-investors-should-watch-259858/",
+    "displayDate": "2026-08-13"
+  }
+}
