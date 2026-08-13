@@ -1,0 +1,102 @@
+{
+  "SRD / XR": {
+    "title": "名作『System Shock』がVR化！Flat2VRが描く移植の未来",
+    "summary": "VR Games Showcaseにて、名作SFアクション『System Shock』のVR対応が発表されました。Meta Quest、PSVR2、PC VR向けに展開されます。Flat2VR Studiosによる既存タイトルのVR移植プロジェクトが本格化しています。",
+    "insight": "既存の高品質なフラットゲームをVR環境に移植する際、UIの再設計や操作系の最適化においてFlat2VRの手法は業界標準になりつつあります。エンジニア視点では、単なる視点移動だけでなく、没入感を損なわない物理インタラクションの実装技術が今後のXR開発の鍵となるでしょう。",
+    "sourceUrl": "https://www.uploadvr.com/system-shock-vr-announced-for-meta-quest-playstation-vr2-and-pc-vr/",
+    "sourceName": "UploadVR",
+    "originalImageUrl": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/08/w-baA9y0Ld0-HD.jpg",
+    "originalImageArticleUrl": "https://www.uploadvr.com/system-shock-vr-announced-for-meta-quest-playstation-vr2-and-pc-vr/",
+    "displayDate": "2026-08-14"
+  },
+  "AI": {
+    "title": "国内IT大手11社、2030年にAI主導開発へ転換",
+    "summary": "国内の主要ITシステム企業11社が、2030年までにソフトウェア開発の工程をAI主導に転換する方針を固めた。AIによるコード生成やテスト自動化を本格導入することで、生産性を最大1.5倍に引き上げ、深刻化するエンジニア不足と競争力低下の課題に対処する。",
+    "insight": "AIコーディング支援は単なる効率化のツールから、開発プロセスのパラダイムシフトへと移行しています。今後はAIが生成したコードの品質保証（QA）や、AIと協働するためのアーキテクチャ設計能力がエンジニアの主要スキルとなるでしょう。",
+    "sourceUrl": "https://www.nikkei.com/article/DGXZQOUC0747M0X00C26A5000000/",
+    "sourceName": "日本経済新聞",
+    "originalImageUrl": "https://article-image-ix.nikkei.com/https%3A%2F%2Fimgix-proxy.n8s.jp%2FDSXZQO3448850013082026000000-1.jpg?auto=compress&bg=FFFF&crop=focalpoint&fit=crop&fm=jpg&h=630&w=1200&s=75928eac8181d6c3a74d167d191bf89b",
+    "originalImageArticleUrl": "https://www.nikkei.com/article/DGXZQOUC0747M0X00C26A5000000/",
+    "displayDate": "2026-08-14"
+  },
+  "TCL": {
+    "title": "TCLが日本で攻める理由：ソニーとの協業",
+    "summary": "TCLが日本市場においてソニーとの提携を通じ、ブランド価値の向上と「推し活」「スポーツ観戦」という潜在需要の開拓に注力している。テレビ離れが進む日本で、大画面・高画質製品を武器にどうシェアを拡大するかが注目されています。",
+    "insight": "中国家電メーカーがグローバルな量産能力と、ローカルプレイヤーのブランド力を掛け合わせる戦略は、今後の市場参入の定石になりそうです。エンジニア視点では、単なるハードウェアの競争から、Google TV等のプラットフォームを通じたコンテンツ視聴体験の最適化へ、競争の軸がどうシフトするかに注目すべきです。",
+    "sourceUrl": "https://toyokeizai.net/articles/-/954447?display=b",
+    "sourceName": "東洋経済オンライン",
+    "originalImageUrl": "https://tk.ismcdn.jp/mwimgs/a/6/1200xm/img_a653e9670a4558904ee9cd7e5dfcb455736182.jpg",
+    "originalImageArticleUrl": "https://toyokeizai.net/articles/-/954447?display=b",
+    "displayDate": "2026-08-14"
+  },
+  "SONY": {
+    "title": "国際宇宙ステーションからソニーのカメラで捉えた映像が公開",
+    "summary": "国際宇宙ステーション（ISS）において、ソニーのデジタル一眼カメラを用いて撮影された映像が公開されました。過酷な宇宙環境下での信頼性と映像処理技術が改めて注目されています。",
+    "insight": "宇宙という極限環境での撮影には、放射線耐性や堅牢な筐体設計、そして遠隔からのデータ制御など、高度なハードウェアエンジニアリングが不可欠です。民生品が宇宙開発で活用される事例は、デバイスの耐久性やエッジコンピューティングの信頼性指標としてエンジニアにとっても興味深いトピックです。",
+    "sourceUrl": "https://www.walkerplus.com/article/116197/image640394.html",
+    "sourceName": "ウォーカープラス",
+    "originalImageUrl": "https://news.walkerplus.com/article/116197/640383_615.jpg",
+    "originalImageArticleUrl": "https://www.walkerplus.com/article/116197/image640394.html",
+    "displayDate": "2026-08-14"
+  },
+  "Production Monitor": {
+    "title": "特許の壁が崩壊！REDのRAW特許が無効に",
+    "summary": "日本の特許庁にて、長年RAW動画記録の業界標準を支配してきたRED社のRAW動画圧縮に関する特許が無効化されました。これにより、カメラメーカー間のRAW記録を巡る競争環境が大きく変化し、他社製カメラでのRAW撮影機能の解放や、よりオープンな技術開発が加速する可能性があります。",
+    "insight": "知的財産権の無効化がハードウェア市場の競争力に与える影響は甚大です。特定の技術特許が市場の排他性を支えていたケースであり、今後のファームウェアアップデートによる機能解放や新製品のRAW対応が期待されます。",
+    "sourceUrl": "https://www.cined.com/reds-raw-patent-falls-in-japan-dji-drones-might-be-grounded-in-us-focus-check-ep129/",
+    "sourceName": "CineD",
+    "originalImageUrl": "https://www.cined.com/content/uploads/2026/08/ep129-Focus-Check-featured-300x169.jpg",
+    "originalImageArticleUrl": "https://www.cined.com/reds-raw-patent-falls-in-japan-dji-drones-might-be-grounded-in-us-focus-check-ep129/",
+    "displayDate": "2026-08-14"
+  },
+  "Gaming Monitor": {
+    "title": "AIがZoomの脆弱性を1日で発見！セキュリティの脅威",
+    "summary": "Zoomの注釈機能にリモートコード実行などの深刻な脆弱性が発見されました。驚くべき点は、この脆弱性をAIを活用した調査によって1日足らずで特定したという事実です。すでにパッチは提供されていますが、AIがサイバーセキュリティの脅威分析を加速させている現実を突きつけるニュースです。",
+    "insight": "AIを活用した脆弱性診断の高速化は、防御側の迅速な対応を促す一方で、攻撃側が未知の脆弱性を突くスピードを劇的に上げる可能性を秘めています。エンジニアとして、AI時代には従来のセキュリティ設計を再考し、より迅速なパッチ適用の自動化パイプラインが不可欠になるでしょう。",
+    "sourceUrl": "https://pc.watch.impress.co.jp/docs/news/2132649.html",
+    "sourceName": "PC Watch",
+    "originalImageUrl": "https://pc.watch.impress.co.jp/img/pcw/list/2132/649/01.jpg",
+    "originalImageArticleUrl": "https://pc.watch.impress.co.jp/docs/news/2132649.html",
+    "displayDate": "2026-08-14"
+  },
+  "Camera Control": {
+    "title": "9ヶ月の準備と84秒の勝負：皆既日食撮影の舞台裏",
+    "summary": "2026年8月の皆既日食で、レッドブルのアスリートが翼を装着して日食を突き抜けるという驚異的な写真を撮影。写真家のノア・ウェッツェルは、9ヶ月間の周到な計算と遠隔フラッシュの緻密な制御、そして84秒の皆既時間という極限の状況下で、この奇跡的なショットを成功させました。",
+    "insight": "極限の動体撮影において、機材の信頼性以上に「現場の物理的な計算とシミュレーション」がいかに重要かを物語る好例です。ソフトウェア開発における大規模なリリース前テストや、エッジケースを想定したアーキテクチャ設計の重要性に通じるエンジニアリング的教訓が得られます。",
+    "sourceUrl": "https://petapixel.com/2026/08/13/inside-red-bulls-high-flying-eclipse-photo-nine-months-in-the-making/",
+    "sourceName": "PetaPixel",
+    "originalImageUrl": "https://petapixel.com/assets/uploads/2026/08/Red-Bull-Eclipse-Wingsuit-PetaPixel-Cover-2.jpg",
+    "originalImageArticleUrl": "https://petapixel.com/2026/08/13/inside-red-bulls-high-flying-eclipse-photo-nine-months-in-the-making/",
+    "displayDate": "2026-08-14"
+  },
+  "Projector": {
+    "title": "TCLの4Kスマートプロジェクターが記録的安値に",
+    "summary": "TCLの4Kスマートプロジェクターが、120インチの大画面投影とDolby Audio対応というスペックながら、過去最安値を記録しました。テレビに代わる大画面環境を検討している層にとって、非常に魅力的な選択肢となっています。",
+    "insight": "プロジェクターの低価格化と高画質化は、家庭でのコンテンツ消費体験を再定義しています。特に短焦点やスマート機能を統合したモデルの普及により、エンジニアのホームオフィスや書斎におけるディスプレイ環境の柔軟性が大きく向上しました。",
+    "sourceUrl": "https://kotaku.com/who-needs-tv-when-tcls-4k-smart-projector-hits-a-record-low-with-120-inch-display-and-dolby-audio-2000723866",
+    "sourceName": "Kotaku",
+    "originalImageUrl": "https://kotaku.com/app/uploads/2026/08/TCLC1.jpg",
+    "originalImageArticleUrl": "https://kotaku.com/who-needs-tv-when-tcls-4k-smart-projector-hits-a-record-low-with-120-inch-display-and-dolby-audio-2000723866",
+    "displayDate": "2026-08-14"
+  },
+  "TV": {
+    "title": "ソニーがテレビ事業の一部を分社化へ",
+    "summary": "ソニーがテレビ事業において、事業部を切り離し新会社を設立する動きが報じられています。今回の再編により、名門部門の体制変更が行われるとともに、新製品に象徴的な「SONYロゴ」が継続して冠されるのかどうかに業界の注目が集まっています。",
+    "insight": "ハードウェア企業が構造改革のためにブランド管理と事業実体を分社化する戦略は、エンジニアにとってもサプライチェーンや製品ブランディングの観点から興味深い事例です。OEM供給やブランドライセンスのビジネスモデルが今後どう変化するかを注視することで、自社製品のロードマップ戦略にも示唆が得られます。",
+    "sourceUrl": "https://diamond.jp/articles/-/396581",
+    "sourceName": "ダイヤモンド・オンライン",
+    "originalImageUrl": "https://dol.ismcdn.jp/mwimgs/2/0/-/img_2011ff5a0d0091b77a5a764767d1f9b4238267.jpg",
+    "originalImageArticleUrl": "https://diamond.jp/articles/-/396581",
+    "displayDate": "2026-08-14"
+  },
+  "LED Wall Display": {
+    "title": "3Dプリントで自作！WLED搭載のモジュール式LEDウォール",
+    "summary": "Adafruitのブログで、3Dプリンタを活用したモジュール式スマートLEDウォール「PixelTiles」が紹介されました。WLEDプロジェクトを活用し、DIYでオリジナルのLEDディスプレイを構築する手法は、小規模な空間演出やプロトタイピングにおいて注目すべき動向です。",
+    "insight": "ESP32ベースのWLEDは、Webインターフェース経由で高度なライティング制御が可能なため、産業用パネルの代替として低コストなインタラクティブ体験を構築するのに適しています。エンジニアとしては、ハードウェアのモジュール化と制御ソフトウェアの抽象化を組み合わせ、いかに安価かつ拡張性の高い表示システムを作るかの参考にできます。",
+    "sourceUrl": "https://blog.adafruit.com/2026/08/13/pixeltiles-modular-smart-led-wall-panels-with-wled-3dthursday-3dprinting/",
+    "sourceName": "blog.adafruit.com",
+    "originalImageUrl": null,
+    "originalImageArticleUrl": "https://blog.adafruit.com/2026/08/13/pixeltiles-modular-smart-led-wall-panels-with-wled-3dthursday-3dprinting/",
+    "displayDate": "2026-08-14"
+  }
+}
