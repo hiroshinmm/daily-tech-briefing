@@ -1,0 +1,102 @@
+{
+  "SRD / XR": {
+    "title": "VR/ARの安全性を議論、産総研の検討会が始動",
+    "summary": "VRChat関連企画の運営代表らが、産業技術総合研究所（産総研）の研究開発委員会に参加し、VRやAR空間における安全性の確保やガイドライン策定に向けた議論を開始しました。没入型技術が普及する中、公的機関が安全性基準の検討に着手した点は大きな一歩です。",
+    "insight": "メタバースやXR環境では、身体的安全性だけでなく心理的・倫理的な安全性の設計が不可欠になっています。エンジニアにとっては、開発段階からセキュリティやプライバシー保護を組み込む「セーフティ・バイ・デザイン」の重要性が今後さらに高まるでしょう。",
+    "sourceUrl": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBfbWdQbGFDWS1vNHJGdXhpWWVhaTdSM0FnRWhnN29wM2RTbTBEZ3ZQNy1BY21XLW1zZHFXWllKdHlROFQ3LXZVQw?oc=5",
+    "sourceName": "KAI-YOU",
+    "originalImageUrl": null,
+    "originalImageArticleUrl": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBfbWdQbGFDWS1vNHJGdXhpWWVhaTdSM0FnRWhnN29wM2RTbTBEZ3ZQNy1BY21XLW1zZHFXWllKdHlROFQ3LXZVQw?oc=5",
+    "displayDate": "2026-08-15"
+  },
+  "AI": {
+    "title": "データ侵害が過去最多に、AIの関与が拡大",
+    "summary": "2024年のデータ侵害通知数が既に昨年の年間総数を超過しました。CNBCの報道によれば、AIを活用した高度な攻撃手法がその背景にあり、企業におけるサイバーセキュリティ対策の再構築と、AI時代のリスク管理が喫緊の課題となっています。",
+    "insight": "AIを利用した自動化攻撃や巧妙なフィッシングが増加しており、従来の境界防御だけでは不十分です。ゼロトラストアーキテクチャの徹底と、AIを活用した脅威検知・インシデントレスポンスの強化がエンジニアには求められます。",
+    "sourceUrl": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOQWpHNFg2Wi04V0t6R3RlcnZGbWlrR0hvcnVEV0psMnFIdmljRmNlQURKUVdvYmwweFZCaWQ0NXlZSjVYRDlIa2I1RDFJN0FRX2VUN3haTU1heFhUM1ViOHJ6TlF3NzZjSlJrQ09INl8zT1lPMGp3WU1uWnBmSjQycXB1NNIBiAFBVV95cUxPLWh1TXhCa3Y0Y1YyMi16V2l3NnR1bXpfb0Z6OVJYS0ZIOWh6Wm1BbVI2TG9fX2pWSF9jcmFqV3RyRWxGVnFKR1d3bExLVVJ4emNZamhtOXpvSzdyaFVTRmlRbTJhRjZUMzYxUGlva203UVY1YldWc1lnZ3J5Vm5oSTdzZmlWQ1NO?oc=5",
+    "sourceName": "CNBC",
+    "originalImageUrl": null,
+    "originalImageArticleUrl": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOQWpHNFg2Wi04V0t6R3RlcnZGbWlrR0hvcnVEV0psMnFIdmljRmNlQURKUVdvYmwweFZCaWQ0NXlZSjVYRDlIa2I1RDFJN0FRX2VUN3haTU1heFhUM1ViOHJ6TlF3NzZjSlJrQ09INl8zT1lPMGp3WU1uWnBmSjQycXB1NNIBiAFBVV95cUxPLWh1TXhCa3Y0Y1YyMi16V2l3NnR1bXpfb0Z6OVJYS0ZIOWh6Wm1BbVI2TG9fX2pWSF9jcmFqV3RyRWxGVnFKR1d3bExLVVJ4emNZamhtOXpvSzdyaFVTRmlRbTJhRjZUMzYxUGlva203UVY1YldWc1lnZ3J5Vm5oSTdzZmlWQ1NO?oc=5",
+    "displayDate": "2026-08-15"
+  },
+  "SONY": {
+    "title": "モトローラ新端末「moto g max」がソニーLYTIAを採用",
+    "summary": "モトローラから発売された新型スマートフォン「moto g max」に、ソニーのモバイル向けイメージセンサーブランド「LYTIA 600」が採用されました。50MPのカメラ性能に加え、7,000mAhの大容量バッテリーを搭載し、インド市場で展開されます。",
+    "insight": "モバイル向けCMOSセンサー市場において、ソニーのLYTIAブランドがミドルレンジ帯のスマホにも浸透している点に注目です。高画素化と省電力性能の両立が求められるモバイルカメラ技術において、LYTIAの採用実績がさらに拡大していく可能性を示唆しています。",
+    "sourceUrl": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPUGFwOHR4ekhZaGdUa3Q0UWlSZFQzSVNVQ2FGQjdGUkFtTDl4ZE5NQlgzUlBfajBmSTJTcFhGS3hBWDN6YnRBZHFHUWRpY0FyejdBdTU1MjFsYTROY3VfNGxUQ2J6UHV5TzJpdnZMdnR5U3hBRjNhOXFVNnc5RXRLVlA4Tnd3aUdVZEF5YmptdkVoVDBaTVFUb2JGN2VxcXhTeVFCMEJ1bWUyaUVEeVdCdmdRREt4b0MwWWc0NFVxUFBERWU4dWJz0gHHAUFVX3lxTE9QYXA4dHh6SFloZ1RrdDRRaVJkVDNJU1VDYUZCN0ZSQW1MOXhkTk1CWDNSUF9qMGZJMlNwWEZLeEFYM3pidEFkcUdRZGljQXJ6N0F1NTUyMWxhNE5jdV80bFRDYnpQdXlPMml2dkx2dHlTeEFGM2E5cVU2dzlFdEtWUDhOd3dpR1VkQXliam12RWhUMFpNUVRvYkY3ZXFxeFN5UUIwQnVtZTJpRUR5V0J2Z1FES3hvQzBZZzQ0VXFQUERFZTh1YnM?oc=5",
+    "sourceName": "My Mobile India",
+    "originalImageUrl": null,
+    "originalImageArticleUrl": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPUGFwOHR4ekhZaGdUa3Q0UWlSZFQzSVNVQ2FGQjdGUkFtTDl4ZE5NQlgzUlBfajBmSTJTcFhGS3hBWDN6YnRBZHFHUWRpY0FyejdBdTU1MjFsYTROY3VfNGxUQ2J6UHV5TzJpdnZMdnR5U3hBRjNhOXFVNnc5RXRLVlA4Tnd3aUdVZEF5YmptdkVoVDBaTVFUb2JGN2VxcXhTeVFCMEJ1bWUyaUVEeVdCdmdRREt4b0MwWWc0NFVxUFBERWU4dWJz0gHHAUFVX3lxTE9QYXA4dHh6SFloZ1RrdDRRaVJkVDNJU1VDYUZCN0ZSQW1MOXhkTk1CWDNSUF9qMGZJMlNwWEZLeEFYM3pidEFkcUdRZGljQXJ6N0F1NTUyMWxhNE5jdV80bFRDYnpQdXlPMml2dkx2dHlTeEFGM2E5cVU2dzlFdEtWUDhOd3dpR1VkQXliam12RWhUMFpNUVRvYkY3ZXFxeFN5UUIwQnVtZTJpRUR5V0J2Z1FES3hvQzBZZzQ0VXFQUERFZTh1YnM?oc=5",
+    "displayDate": "2026-08-15"
+  },
+  "TCL": {
+    "title": "TCLがフィリピンで3年連続シェア1位を獲得",
+    "summary": "TCLがフィリピンのテレビ市場において、3年連続で販売台数シェア第1位を達成しました。価格競争力のあるミニLEDや4Kテレビの普及に加え、現地でのブランド認知戦略が成功しており、新興市場でのプレゼンスをさらに強固なものにしています。",
+    "insight": "家電メーカーの市場シェア拡大は、サプライチェーンの最適化と製品のローカライズの成果を反映しています。エンジニアとしては、ハードウェアのコスト効率を維持しながら、地域ごとの需要に応じたプラットフォーム展開を行う重要性を再認識できます。",
+    "sourceUrl": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQTlJzNHNWdmlUM1lUZ1ZsUExQMDFRN0xScDhwY21yLXlXM1ZnemF0NFNUU1NqeUl4a1lFQzZNS0JsQnBLUGI4YmFLMjJpVVpGYlJYOS05NjZqUkNrNHNTZy1VcTRSMm5OVmNNeHo4VVo3UTk5UGlHNEVlU1lmdFlhbUpxQXdLNkk?oc=5",
+    "sourceName": "PressReader",
+    "originalImageUrl": null,
+    "originalImageArticleUrl": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQTlJzNHNWdmlUM1lUZ1ZsUExQMDFRN0xScDhwY21yLXlXM1ZnemF0NFNUU1NqeUl4a1lFQzZNS0JsQnBLUGI4YmFLMjJpVVpGYlJYOS05NjZqUkNrNHNTZy1VcTRSMm5OVmNNeHo4VVo3UTk5UGlHNEVlU1lmdFlhbUpxQXdLNkk?oc=5",
+    "displayDate": "2026-08-15"
+  },
+  "Gaming Monitor": {
+    "title": "OLEDゲーミングモニター市場が98%成長、技術トレンドの現在地",
+    "summary": "最新の調査で、ゲーミングモニター市場におけるOLED（有機EL）モデルのシェアが前年比98%増と急拡大していることが判明。ASUSがリードしつつ、GIGABYTEがAIを活用したパネル保護技術「AI OLED Care」を投入するなど、耐久性や焼き付き対策の技術革新が加速しています。",
+    "insight": "OLEDの普及に伴い、バックライトがない特性を活かした高速応答と、ソフトウェア・AIレベルでの焼き付き防止制御が差別化の焦点となっています。エンジニア視点では、単なる画質競争から、長期運用を見据えたインテリジェントな寿命管理機能の実装へトレンドがシフトしている点に注目すべきです。",
+    "sourceUrl": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNeGRVU09PZnV2UmR0RzdkT2QwdUhFU1BtdlpQc2NYOFZMVldTamhjNzluc2VJSVpWcFpsT1RCUjlIdkl1TnZIYzJfYVVZcGlBZHRGVHVpYTM3TE5kRW1Vb3BxSUVnUVVJcWVKZU5BTDAzRnk1VjU0bnF6T1V2XzRzYk9qYlE5SzJBRnNwX2FVS3Z3VGFZdnk5U3ZvOWJ2bG9xUW1GS0psUQ?oc=5",
+    "sourceName": "Notebookcheck",
+    "originalImageUrl": null,
+    "originalImageArticleUrl": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNeGRVU09PZnV2UmR0RzdkT2QwdUhFU1BtdlpQc2NYOFZMVldTamhjNzluc2VJSVpWcFpsT1RCUjlIdkl1TnZIYzJfYVVZcGlBZHRGVHVpYTM3TE5kRW1Vb3BxSUVnUVVJcWVKZU5BTDAzRnk1VjU0bnF6T1V2XzRzYk9qYlE5SzJBRnNwX2FVS3Z3VGFZdnk5U3ZvOWJ2bG9xUW1GS0psUQ?oc=5",
+    "displayDate": "2026-08-15"
+  },
+  "Projector": {
+    "title": "RGBレーザー×Google TV！次世代4Kプロジェクター",
+    "summary": "RGBレーザー光源とGoogle TVを搭載し、映画やゲーム、PC画面まで高画質・大画面で楽しめる「AWOL Valerion Pro 2」の実機レビューが話題に。ホームシアター環境の進化が注目されています。",
+    "insight": "最新のレーザー技術により、リビングの壁がそのまま高精細なモニター環境へと進化しています。OS統合が進んだことで、エンジニアの作業用大画面や没入感のあるゲーミング環境としてのポテンシャルが高まっています。",
+    "sourceUrl": "https://news.google.com/rss/articles/CBMidkFVX3lxTFAzNGVnbkNGQjkzT2xVaVdSM2l6OTEwX0RMYUR3T2hoSmZyUDZEZjlCUWt2WXYtczFoeUFTR1pmcHJ6eE1waUxGOEh4cU1GbFlWNlZCWWxnZ1g5NXpBTHZMS0VySEktQXlrOXR4Wm5jcllDTlhlT1HSAXZBVV95cUxQMzRlZ25DRkI5M09sVWlXUjNpejkxMF9ETGFEd09oaEpmclA2RGY5QlFrdll2LXMxaHlBU0daZnByenhNcGlMRjhIeHFNRmxZVjZWQllsZ2dYOTV6QUx2TEtFckhJLUF5azl0eFpuY3JZQ05YZU9R?oc=5",
+    "sourceName": "news.infoseek.co.jp",
+    "originalImageUrl": null,
+    "originalImageArticleUrl": "https://news.google.com/rss/articles/CBMidkFVX3lxTFAzNGVnbkNGQjkzT2xVaVdSM2l6OTEwX0RMYUR3T2hoSmZyUDZEZjlCUWt2WXYtczFoeUFTR1pmcHJ6eE1waUxGOEh4cU1GbFlWNlZCWWxnZ1g5NXpBTHZMS0VySEktQXlrOXR4Wm5jcllDTlhlT1HSAXZBVV95cUxQMzRlZ25DRkI5M09sVWlXUjNpejkxMF9ETGFEd09oaEpmclA2RGY5QlFrdll2LXMxaHlBU0daZnByenhNcGlMRjhIeHFNRmxZVjZWQllsZ2dYOTV6QUx2TEtFckhJLUF5azl0eFpuY3JZQ05YZU9R?oc=5",
+    "displayDate": "2026-08-15"
+  },
+  "Camera Control": {
+    "title": "Sony FX5の出荷開始が9月15日に延期",
+    "summary": "Sonyの新型シネマカメラ「FX5」の米国での出荷開始日が、当初の8月18日から約1ヶ月遅れとなる9月15日に変更されました。Adoramaなどの主要販売店で確認されており、プレオーダー済みのユーザーにとっては待望のリリースとなります。",
+    "insight": "ハードウェア製品のリリース遅延は、サプライチェーンのボトルネックや最終的な品質管理が要因であることが多く、開発者にとっても納期管理の難しさを再認識させられます。特に高価格帯のカメラ製品では、ファームウェアの安定性とハードウェア供給の同期がブランド価値に直結するため、慎重な調整が行われていると推測されます。",
+    "sourceUrl": "https://www.sonyalpharumors.com/confirmed-sony-fx5-shipment-start-is-now-september-15/",
+    "sourceName": "sonyalpharumors",
+    "originalImageUrl": "https://www.sonyalpharumors.com/wp-content/uploads/2026/08/Screenshot-2026-08-12-at-16.35.52.png",
+    "originalImageArticleUrl": "https://www.sonyalpharumors.com/confirmed-sony-fx5-shipment-start-is-now-september-15/",
+    "displayDate": "2026-08-15"
+  },
+  "TV": {
+    "title": "AIが戦場を変える？最新ドキュメンタリーに注目",
+    "summary": "TBSで放送された「THEワールドチェンジ ＡＩが変える戦争の世界」では、現代の戦争におけるAIの役割と影響を深掘りしています。自律型兵器や情報戦など、AI技術が安全保障の在り方をどのように塗り替えようとしているのかを考察する内容です。",
+    "insight": "AI技術の進化が非軍事分野だけでなく、国防や戦争の倫理にまで及んでいる現実は、エンジニアとして注目すべきトピックです。AIの自律性や責任の所在、計算資源が物理的なパワーバランスに直結する現代において、エンジニアは技術の社会実装の影響範囲をより広く捉える視点が求められています。",
+    "sourceUrl": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9ZZFp6YXp1enRhY3FzallncW9RX0EtdGl3Qk1EM1ZfNTVBc01NQXRYVEgxRkZVZHNqZjk5YzJKeUVUbVRPWGdBYXFiam9vWUJ5RGc?oc=5",
+    "sourceName": "tbs.co.jp",
+    "originalImageUrl": null,
+    "originalImageArticleUrl": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9ZZFp6YXp1enRhY3FzallncW9RX0EtdGl3Qk1EM1ZfNTVBc01NQXRYVEgxRkZVZHNqZjk5YzJKeUVUbVRPWGdBYXFiam9vWUJ5RGc?oc=5",
+    "displayDate": "2026-08-15"
+  },
+  "Production Monitor": {
+    "title": "AIサービスの「無制限」の罠と信頼性の崩壊",
+    "summary": "Artlistが提供していた「AI生成無制限」プランが、販売開始からわずか1週間で制限付きへ変更されました。高額なサブスクリプションを販売しながら、コスト見通しの甘さから内容を大幅縮小したこの事例は、AIサービスのビジネスモデルと信頼性に警鐘を鳴らしています。",
+    "insight": "AI APIの利用コストを予測せずに「無制限」を謳うことは、技術的負債および経営リスクを急速に高めます。開発者が外部AIモデルを組み込む際は、スケーラビリティとユニットエコノミクスを慎重に設計する必要があることを示唆しています。",
+    "sourceUrl": "https://www.cined.com/artlist-sold-a-year-of-unlimited-seedance-2-5-for-500-and-delivered-a-week/",
+    "sourceName": "CineD",
+    "originalImageUrl": "https://www.cined.com/content/uploads/2026/08/Artlist-Seedance-unlimited-featured-300x169.jpg",
+    "originalImageArticleUrl": "https://www.cined.com/artlist-sold-a-year-of-unlimited-seedance-2-5-for-500-and-delivered-a-week/",
+    "displayDate": "2026-08-15"
+  },
+  "LED Wall Display": {
+    "title": "DIY派必見：WLEDで制御するモジュール式LEDパネル",
+    "summary": "Adafruitが紹介する「PixelTiles」は、3Dプリント技術とオープンソースの制御ソフトウェア「WLED」を組み合わせたモジュール式のスマートLEDウォールパネルです。手軽にカスタマイズ可能な照明環境やサイネージを構築できるため、ハードウェアエンジニアにとって非常に興味深いプロジェクトです。",
+    "insight": "WLEDのようなオープンソースの制御エコシステムを採用することで、専用の商用コントローラーに依存しない柔軟なLED制御が可能になります。モジュール設計において、ハードウェアの物理構造と照明データ処理のレイテンシをどう最適化するかが、システム全体の完成度を左右する鍵となります。",
+    "sourceUrl": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNSVZ3VzZWS3pLLS1KaWNKQ2MtTmZxZzJCT0pPMHE5Ykh6QklrY241dUFGSWJ6LVpTRkNuaEZKSkRSNWlIdENxd2JvSFZBTGZHQXBXRDFpZk5rTGJRSlJNTFhfcjZOMUhoU2E1YjFjR0I4Y2V3ek1RVnYxRDhSdjNrZURKM3UzRno1M09aeWtRdVVkaWlzbExSTzh3d2hxZHB4Ym0xdGlYaFlLMDVhNkhv?oc=5",
+    "sourceName": "Adafruit",
+    "originalImageUrl": null,
+    "originalImageArticleUrl": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNSVZ3VzZWS3pLLS1KaWNKQ2MtTmZxZzJCT0pPMHE5Ykh6QklrY241dUFGSWJ6LVpTRkNuaEZKSkRSNWlIdENxd2JvSFZBTGZHQXBXRDFpZk5rTGJRSlJNTFhfcjZOMUhoU2E1YjFjR0I4Y2V3ek1RVnYxRDhSdjNrZURKM3UzRno1M09aeWtRdVVkaWlzbExSTzh3d2hxZHB4Ym0xdGlYaFlLMDVhNkhv?oc=5",
+    "displayDate": "2026-08-15"
+  }
+}

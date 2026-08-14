@@ -1,10 +1,6 @@
 {
   "Production Monitor": [
     {
-      "url": "https://www.cined.com/sony-q1-fy2026-financial-results-image-sensors-shine-outlook-raised-and-tamron-bid-confirmed/",
-      "date": "2026-08-07"
-    },
-    {
       "url": "https://www.cined.com/reds-compressed-raw-patent-invalidated-in-japan-nikon-loses-defending-the-patent-it-once-fought/",
       "date": "2026-08-08"
     },
@@ -31,13 +27,13 @@
     {
       "url": "https://www.cined.com/reds-raw-patent-falls-in-japan-dji-drones-might-be-grounded-in-us-focus-check-ep129/",
       "date": "2026-08-14"
+    },
+    {
+      "url": "https://www.cined.com/artlist-sold-a-year-of-unlimited-seedance-2-5-for-500-and-delivered-a-week/",
+      "date": "2026-08-15"
     }
   ],
   "SRD / XR": [
-    {
-      "url": "https://www.uploadvr.com/virtual-desktop-beta-adds-wired-usb-support-on-quest-headsets/",
-      "date": "2026-08-07"
-    },
     {
       "url": "https://digital.komei-shimbun.jp/kmd/article/0435202608080701",
       "date": "2026-08-08"
@@ -65,13 +61,13 @@
     {
       "url": "https://www.uploadvr.com/system-shock-vr-announced-for-meta-quest-playstation-vr2-and-pc-vr/",
       "date": "2026-08-14"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBfbWdQbGFDWS1vNHJGdXhpWWVhaTdSM0FnRWhnN29wM2RTbTBEZ3ZQNy1BY21XLW1zZHFXWllKdHlROFQ3LXZVQw?oc=5",
+      "date": "2026-08-15"
     }
   ],
   "AI": [
-    {
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPWThpek9kUHFSVEk0Uk5aSGFrdDZMdmYtcEl6SUNkU3VKeTVISm43TDRxNVd6UDFsRDJqVm1NUWZUUm5oaDd1OGtwQjdvb2NKQ2NMU1JyVUpnUDlfeFJYSUVXcm5CckpNNnkwa0w5dmdBWXJvZ0RIYXN4d1NUMWZVNWF5WkhBTWJHaWhDWG4xcXBKNXBYR2FlUnBIdzk2Zm94R1VvNTRhTXFHV0ZSZnhlM195eWFqTTAzWWZSck1ndw?oc=5",
-      "date": "2026-08-07"
-    },
     {
       "url": "https://www.wired.com/story/scientists-used-ai-to-create-16-new-viruses/",
       "date": "2026-08-08"
@@ -99,13 +95,13 @@
     {
       "url": "https://www.nikkei.com/article/DGXZQOUC0747M0X00C26A5000000/",
       "date": "2026-08-14"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOQWpHNFg2Wi04V0t6R3RlcnZGbWlrR0hvcnVEV0psMnFIdmljRmNlQURKUVdvYmwweFZCaWQ0NXlZSjVYRDlIa2I1RDFJN0FRX2VUN3haTU1heFhUM1ViOHJ6TlF3NzZjSlJrQ09INl8zT1lPMGp3WU1uWnBmSjQycXB1NNIBiAFBVV95cUxPLWh1TXhCa3Y0Y1YyMi16V2l3NnR1bXpfb0Z6OVJYS0ZIOWh6Wm1BbVI2TG9fX2pWSF9jcmFqV3RyRWxGVnFKR1d3bExLVVJ4emNZamhtOXpvSzdyaFVTRmlRbTJhRjZUMzYxUGlva203UVY1YldWc1lnZ3J5Vm5oSTdzZmlWQ1NO?oc=5",
+      "date": "2026-08-15"
     }
   ],
   "Gaming Monitor": [
-    {
-      "url": "https://www.techradar.com/gaming/sony-inzone-m10s-2-review",
-      "date": "2026-08-07"
-    },
     {
       "url": "https://www.techspot.com/news/113401-asus-new-monitor-software-you-control-brightness-voice.html",
       "date": "2026-08-08"
@@ -133,13 +129,13 @@
     {
       "url": "https://pc.watch.impress.co.jp/docs/news/2132649.html",
       "date": "2026-08-14"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNeGRVU09PZnV2UmR0RzdkT2QwdUhFU1BtdlpQc2NYOFZMVldTamhjNzluc2VJSVpWcFpsT1RCUjlIdkl1TnZIYzJfYVVZcGlBZHRGVHVpYTM3TE5kRW1Vb3BxSUVnUVVJcWVKZU5BTDAzRnk1VjU0bnF6T1V2XzRzYk9qYlE5SzJBRnNwX2FVS3Z3VGFZdnk5U3ZvOWJ2bG9xUW1GS0psUQ?oc=5",
+      "date": "2026-08-15"
     }
   ],
   "TCL": [
-    {
-      "url": "https://www.manilatimes.net/2026/08/07/tmt-newswire/tcl-solidifies-market-leadership-as-philippines-no-1-panel-tv/2399735",
-      "date": "2026-08-07"
-    },
     {
       "url": "https://mashable.com/tech/july-30-tcl-85-inch-qm8l-mini-led-tv-deal",
       "date": "2026-08-08"
@@ -167,13 +163,13 @@
     {
       "url": "https://toyokeizai.net/articles/-/954447?display=b",
       "date": "2026-08-14"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQTlJzNHNWdmlUM1lUZ1ZsUExQMDFRN0xScDhwY21yLXlXM1ZnemF0NFNUU1NqeUl4a1lFQzZNS0JsQnBLUGI4YmFLMjJpVVpGYlJYOS05NjZqUkNrNHNTZy1VcTRSMm5OVmNNeHo4VVo3UTk5UGlHNEVlU1lmdFlhbUpxQXdLNkk?oc=5",
+      "date": "2026-08-15"
     }
   ],
   "Camera Control": [
-    {
-      "url": "https://www.dpreview.com/news/panasonic-did-what-apple-sony-and-nikon-couldnt-overturn-a-red-raw-video-patent/",
-      "date": "2026-08-07"
-    },
     {
       "url": "https://petapixel.com/2026/08/07/adobe-is-coming-for-canva-with-expanded-chatgpt-integration/",
       "date": "2026-08-08"
@@ -201,13 +197,13 @@
     {
       "url": "https://petapixel.com/2026/08/13/inside-red-bulls-high-flying-eclipse-photo-nine-months-in-the-making/",
       "date": "2026-08-14"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/confirmed-sony-fx5-shipment-start-is-now-september-15/",
+      "date": "2026-08-15"
     }
   ],
   "LED Wall Display": [
-    {
-      "url": "https://www.avinteractive.com/territories-news/uki/how-the-iet-upgraded-its-flagship-lecture-theatre-to-led-06-08-2026/",
-      "date": "2026-08-07"
-    },
     {
       "url": "//www.ledinside.com/products/2026/8/2026_08_07_02",
       "date": "2026-08-08"
@@ -235,13 +231,13 @@
     {
       "url": "https://blog.adafruit.com/2026/08/13/pixeltiles-modular-smart-led-wall-panels-with-wled-3dthursday-3dprinting/",
       "date": "2026-08-14"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNSVZ3VzZWS3pLLS1KaWNKQ2MtTmZxZzJCT0pPMHE5Ykh6QklrY241dUFGSWJ6LVpTRkNuaEZKSkRSNWlIdENxd2JvSFZBTGZHQXBXRDFpZk5rTGJRSlJNTFhfcjZOMUhoU2E1YjFjR0I4Y2V3ek1RVnYxRDhSdjNrZURKM3UzRno1M09aeWtRdVVkaWlzbExSTzh3d2hxZHB4Ym0xdGlYaFlLMDVhNkhv?oc=5",
+      "date": "2026-08-15"
     }
   ],
   "SONY": [
-    {
-      "url": "https://diamond.jp/articles/-/396640?page=3",
-      "date": "2026-08-07"
-    },
     {
       "url": "https://pc.watch.impress.co.jp/docs/news/2131723.html",
       "date": "2026-08-08"
@@ -269,13 +265,13 @@
     {
       "url": "https://www.walkerplus.com/article/116197/image640394.html",
       "date": "2026-08-14"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPUGFwOHR4ekhZaGdUa3Q0UWlSZFQzSVNVQ2FGQjdGUkFtTDl4ZE5NQlgzUlBfajBmSTJTcFhGS3hBWDN6YnRBZHFHUWRpY0FyejdBdTU1MjFsYTROY3VfNGxUQ2J6UHV5TzJpdnZMdnR5U3hBRjNhOXFVNnc5RXRLVlA4Tnd3aUdVZEF5YmptdkVoVDBaTVFUb2JGN2VxcXhTeVFCMEJ1bWUyaUVEeVdCdmdRREt4b0MwWWc0NFVxUFBERWU4dWJz0gHHAUFVX3lxTE9QYXA4dHh6SFloZ1RrdDRRaVJkVDNJU1VDYUZCN0ZSQW1MOXhkTk1CWDNSUF9qMGZJMlNwWEZLeEFYM3pidEFkcUdRZGljQXJ6N0F1NTUyMWxhNE5jdV80bFRDYnpQdXlPMml2dkx2dHlTeEFGM2E5cVU2dzlFdEtWUDhOd3dpR1VkQXliam12RWhUMFpNUVRvYkY3ZXFxeFN5UUIwQnVtZTJpRUR5V0J2Z1FES3hvQzBZZzQ0VXFQUERFZTh1YnM?oc=5",
+      "date": "2026-08-15"
     }
   ],
   "TV": [
-    {
-      "url": "https://www.itochu.co.jp/ja/news/press/2026/260807.html",
-      "date": "2026-08-07"
-    },
     {
       "url": "https://finance.yahoo.co.jp/news/detail/ec5e67f8a37e0b221024cdfaa8556c690ddf29e8",
       "date": "2026-08-08"
@@ -303,13 +299,13 @@
     {
       "url": "https://diamond.jp/articles/-/396581",
       "date": "2026-08-14"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9ZZFp6YXp1enRhY3FzallncW9RX0EtdGl3Qk1EM1ZfNTVBc01NQXRYVEgxRkZVZHNqZjk5YzJKeUVUbVRPWGdBYXFiam9vWUJ5RGc?oc=5",
+      "date": "2026-08-15"
     }
   ],
   "Projector": [
-    {
-      "url": "https://www.newsbytesapp.com/news/science/fujifilms-zuh12000-offers-12000-ansi-lumens-4k-resolution-rotatable-lens/tldr",
-      "date": "2026-08-07"
-    },
     {
       "url": "https://9to5toys.com/2026/08/07/anker-soundcore-nebula-p1-portable-projector-with-detachable-speakers-639-more/",
       "date": "2026-08-08"
@@ -337,6 +333,10 @@
     {
       "url": "https://kotaku.com/who-needs-tv-when-tcls-4k-smart-projector-hits-a-record-low-with-120-inch-display-and-dolby-audio-2000723866",
       "date": "2026-08-14"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFAzNGVnbkNGQjkzT2xVaVdSM2l6OTEwX0RMYUR3T2hoSmZyUDZEZjlCUWt2WXYtczFoeUFTR1pmcHJ6eE1waUxGOEh4cU1GbFlWNlZCWWxnZ1g5NXpBTHZMS0VySEktQXlrOXR4Wm5jcllDTlhlT1HSAXZBVV95cUxQMzRlZ25DRkI5M09sVWlXUjNpejkxMF9ETGFEd09oaEpmclA2RGY5QlFrdll2LXMxaHlBU0daZnByenhNcGlMRjhIeHFNRmxZVjZWQllsZ2dYOTV6QUx2TEtFckhJLUF5azl0eFpuY3JZQ05YZU9R?oc=5",
+      "date": "2026-08-15"
     }
   ]
 }
