@@ -1,10 +1,6 @@
 {
   "Production Monitor": [
     {
-      "url": "https://www.cined.com/the-drone-in-your-kit-could-be-next-us-fcc-proposal-targets-thermal-and-lidar-models-already-approved-for-sale/",
-      "date": "2026-08-09"
-    },
-    {
       "url": "https://www.cined.com/cipa-first-half-2026-numbers-compact-cameras-keep-booming-while-the-market-shifts-to-pricier-gear/",
       "date": "2026-08-10"
     },
@@ -31,13 +27,13 @@
     {
       "url": "https://www.cined.com/youtube-makes-monetization-harder-new-partner-program-rules-explained/",
       "date": "2026-08-16"
+    },
+    {
+      "url": "https://www.provideocoalition.com/descript-a-v-translation-dubbing-with-lip-sync-beyond-rotoscoping/",
+      "date": "2026-08-17"
     }
   ],
   "SRD / XR": [
-    {
-      "url": "https://www.moguravr.com/varrel-aituber-luma-debut/",
-      "date": "2026-08-09"
-    },
     {
       "url": "https://www.nikkei.com/article/DGKKZO98070750Z00C26A8CT0000/",
       "date": "2026-08-10"
@@ -65,13 +61,13 @@
     {
       "url": "https://www.kknews.co.jp/news/20260815o01",
       "date": "2026-08-16"
+    },
+    {
+      "url": "https://www.nikkei.com/article/DGXZQOJC233MF0T20C26A7000000/",
+      "date": "2026-08-17"
     }
   ],
   "AI": [
-    {
-      "url": "https://www.cnbc.com/2026/08/08/hugging-face-ai-hack-cybersecurity-black-hat.html",
-      "date": "2026-08-09"
-    },
     {
       "url": "https://www.yomiuri.co.jp/politics/20260809-GYT1T00295/",
       "date": "2026-08-10"
@@ -99,13 +95,13 @@
     {
       "url": "https://finance.yahoo.com/technology/ai/articles/alibaba-ai-models-hit-3-091606840.html",
       "date": "2026-08-16"
+    },
+    {
+      "url": "https://news.yahoo.co.jp/pickup/6592006",
+      "date": "2026-08-17"
     }
   ],
   "Gaming Monitor": [
-    {
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNZ3NYeERoSms0WWpFRlFTOHl5Umg4YzVCUnNsYng0eVdRNm5uVUZlWjVlYWRLTEExdzZBVUd1eWRYTE5FcU11dEdZQ2dnX1Z6WlBzWUZoNjJ1RkRVeDEyOGRGZFU0anlqVEFQbEhod1hkR09UZlAxQkNLaEhibXVDVkNmd195emJHbVlGVFVYQVB5Zw?oc=5",
-      "date": "2026-08-09"
-    },
     {
       "url": "https://www.4gamer.net/games/036/G003691/20260807050/",
       "date": "2026-08-10"
@@ -133,13 +129,13 @@
     {
       "url": "https://hi-tech.ua/en/oled-monitor-market-surges-98-asus-leads-as-samsung-slips/",
       "date": "2026-08-16"
+    },
+    {
+      "url": "https://pc.watch.impress.co.jp/docs/topic/feature/2132976.html",
+      "date": "2026-08-17"
     }
   ],
   "TCL": [
-    {
-      "url": "https://newsbytes.ph/2026/08/08/tcl-debuts-nxtpaper-phones-with-paper-like-displays-in-ph/",
-      "date": "2026-08-09"
-    },
     {
       "url": "https://topics.smt.docomo.ne.jp/article/phileweb/trend/phileweb-interview__article__1129?page=2",
       "date": "2026-08-10"
@@ -167,13 +163,13 @@
     {
       "url": "https://techcrunch.com/sponsor/tcl/seeing-smarter-tcl-csot-brings-together-ai-driven-thinking-and-apex-pixel-innovation/",
       "date": "2026-08-16"
+    },
+    {
+      "url": "https://techcrunch.com/sponsor/tcl/seeing-smarter-tcl-csot-brings-together-ai-driven-thinking-and-apex-pixel-innovation/",
+      "date": "2026-08-17"
     }
   ],
   "Camera Control": [
-    {
-      "url": "https://dc.watch.impress.co.jp/docs/review/item/2130860.html",
-      "date": "2026-08-09"
-    },
     {
       "url": "https://www.sonyalpharumors.com/curiosity-full-sony-a7riv-teardown-by-kolarivision/",
       "date": "2026-08-10"
@@ -201,13 +197,13 @@
     {
       "url": "https://www.sonyalpharumors.com/benj-haisch-says-the-sony-28-70mm-f-2-gm-makes-it-worth-switching-systems-for/",
       "date": "2026-08-16"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/bcnranking-bestseller-data-for-july-sony-zv-e10ii-is-the-best-selling-camera-in-japan/",
+      "date": "2026-08-17"
     }
   ],
   "LED Wall Display": [
-    {
-      "url": "//www.ledinside.com/interview/2026/8/2026_08_07_10",
-      "date": "2026-08-09"
-    },
     {
       "url": "https://mshale.com/ea8c9e75/1c20d8e7SkX0T-YOpDc",
       "date": "2026-08-10"
@@ -235,13 +231,13 @@
     {
       "url": "https://www.digitalsignagetoday.com/blogs/the-enterprise-digital-signage-questions-buyers-should-be-asking-2/",
       "date": "2026-08-16"
+    },
+    {
+      "url": "//www.ledinside.com/news/2026/8/2026_08_13_02",
+      "date": "2026-08-17"
     }
   ],
   "SONY": [
-    {
-      "url": "https://www.canonrumors.com/sony-fx5-shipments-delayed-due-to-quality-control-issue/",
-      "date": "2026-08-09"
-    },
     {
       "url": "https://hashout.jp/gadget/5473/",
       "date": "2026-08-10"
@@ -269,13 +265,13 @@
     {
       "url": "https://www.walkerplus.com/article/116197/image640394.html",
       "date": "2026-08-16"
+    },
+    {
+      "url": "https://mirrorless-camera.info/news/sony-news/57140.html",
+      "date": "2026-08-17"
     }
   ],
   "TV": [
-    {
-      "url": "https://techlomedia.in/2026/08/global-tv-market-stalls-in-q2-but-oled-tv-shipments-grow-20-125560/",
-      "date": "2026-08-09"
-    },
     {
       "url": "https://www.pcguide.com/deals/samsung-s90h-deal-slashes-a-massive-700-off-the-price-of-this-new-65-inch-oled-tv/",
       "date": "2026-08-10"
@@ -303,13 +299,13 @@
     {
       "url": "https://news.yahoo.co.jp/articles/81c855d905a4f204cb1ee37da5581c467f61d0ad",
       "date": "2026-08-16"
+    },
+    {
+      "url": "https://news.yahoo.co.jp/articles/9d6bda33d2464138165fd033bcdf467334817f8a",
+      "date": "2026-08-17"
     }
   ],
   "Projector": [
-    {
-      "url": "https://article.auone.jp/article/199524ca-5139-4950-a0a8-849a24ff23de",
-      "date": "2026-08-09"
-    },
     {
       "url": "https://www.gizmochina.com/2026/08/09/xgimi-z9x-4k-high-brightness-edition-launched-specs-price/",
       "date": "2026-08-10"
@@ -337,6 +333,10 @@
     {
       "url": "https://news.yahoo.co.jp/articles/3d72e0f4200a6b1f0f7f0ac05064ed160e8b42c3/images/000",
       "date": "2026-08-16"
+    },
+    {
+      "url": "https://www.pcgamer.com/hardware/gaming-monitors/ive-been-loving-this-super-cinematic-4k-hdr-projector-for-movie-and-game-nights-for-years-and-its-now-half-price-with-this-handy-dandy-discount-code/",
+      "date": "2026-08-17"
     }
   ]
 }

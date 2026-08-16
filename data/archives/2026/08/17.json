@@ -1,0 +1,102 @@
+{
+  "SRD / XR": {
+    "title": "延岡市が防災力強化にVRを活用",
+    "summary": "宮崎県延岡市が、防災教育にVR技術を導入。災害時の没入体験を通じて、若年層の当事者意識を高め、地域全体の防災力向上を図る取り組みを開始しました。",
+    "insight": "VRを用いたシミュレーションは、現実では再現が困難な災害時の危機感を視覚・体験としてリアルに提供できるため、教育的インパクトが非常に高いです。UI/UX設計において、ユーザーの行動変容を促すための「没入感のコントロール」や「シチュエーションの具体性」を考慮する好例と言えます。",
+    "sourceUrl": "https://www.nikkei.com/article/DGXZQOJC233MF0T20C26A7000000/",
+    "sourceName": "日本経済新聞",
+    "originalImageUrl": "https://article-image-ix.nikkei.com/https%3A%2F%2Fimgix-proxy.n8s.jp%2FDSXZQO3435509010082026000000-1.png?auto=compress&bg=FFFF&crop=focalpoint&fit=crop&fm=jpg&h=630&w=1200&s=d1ec2e2be8e634883bcd902d52bdae0d",
+    "originalImageArticleUrl": "https://www.nikkei.com/article/DGXZQOJC233MF0T20C26A7000000/",
+    "displayDate": "2026-08-17"
+  },
+  "AI": {
+    "title": "OpenAI幹部相次ぐ退社と企業ガバナンスの課題",
+    "summary": "AI業界を牽引するOpenAIで、経営幹部や主要メンバーの退社が相次いでいます。新規株式公開を控える中での相次ぐ離脱は、組織の安定性やAIの安全性、今後のガバナンス体制に対する不安要素として市場から注目されており、同社の将来に「危険信号」が灯っていると報じられています。",
+    "insight": "急速な成長と組織拡大を続けるテック企業において、キーマンの流出は技術ロードマップの停滞や企業文化の変質を招くリスクがあります。エンジニアの視点では、AIモデルの性能だけでなく、開発を主導する組織の持続可能性やガバナンス体制を評価する重要性が増しています。",
+    "sourceUrl": "https://news.yahoo.co.jp/pickup/6592006",
+    "sourceName": "Yahoo!ニュース",
+    "originalImageUrl": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/8/16/63285a70e2c6877e003d95ceb7bcc36539bcc2cbcb615152b616f90f0e616d12.jpg",
+    "originalImageArticleUrl": "https://news.yahoo.co.jp/pickup/6592006",
+    "displayDate": "2026-08-17"
+  },
+  "Gaming Monitor": {
+    "title": "中国DRAMメーカーCXMTの台頭とメモリ市場の今後",
+    "summary": "中国のDRAMメーカー「CXMT」がDDR5メモリ市場で急成長しており、Appleとの連携やIPOなどその動向が注目されています。国策企業として技術力を高める同社の動きが、今後のグローバルなメモリ価格や供給網にどのような影響を与えるかが焦点となっています。",
+    "insight": "DDR5メモリのサプライチェーンにおいて、CXMTの存在感が増すことは、サーバーやPCのコスト構造に影響を及ぼす可能性があります。エンジニアとしては、特定のベンダーに依存しないハードウェア調達の柔軟性や、今後のメモリ互換性リスクを考慮したインフラ設計の重要性が再認識されます。",
+    "sourceUrl": "https://pc.watch.impress.co.jp/docs/topic/feature/2132976.html",
+    "sourceName": "PC Watch",
+    "originalImageUrl": "https://pc.watch.impress.co.jp/img/pcw/list/2132/976/01a.jpg",
+    "originalImageArticleUrl": "https://pc.watch.impress.co.jp/docs/topic/feature/2132976.html",
+    "displayDate": "2026-08-17"
+  },
+  "TCL": {
+    "title": "TCLの次世代ディスプレイ技術：AIとAPEX Pixelの融合",
+    "summary": "TCLのディスプレイ部門であるCSOTが、AI駆動の画像処理技術と最新の「APEX Pixel」イノベーションを組み合わせた新しいディスプレイ戦略を発表しました。より高精細で知的な描画能力の実現を目指します。",
+    "insight": "ディスプレイのハードウェア進化において、画素制御技術（APEX Pixel）とAIによる推論処理の組み合わせは、もはや不可欠なトレンドです。エンジニアの視点では、単なるハードのスペック向上だけでなく、リアルタイムでのコンピュテーショナル・フォトグラフィ的なアプローチが画質決定の鍵を握るようになっています。",
+    "sourceUrl": "https://techcrunch.com/sponsor/tcl/seeing-smarter-tcl-csot-brings-together-ai-driven-thinking-and-apex-pixel-innovation/",
+    "sourceName": "TechCrunch",
+    "originalImageUrl": "https://techcrunch.com/wp-content/uploads/2026/05/TCL-CSOT-SID-2026-booth_171.jpg.jpeg?resize=1200,779",
+    "originalImageArticleUrl": "https://techcrunch.com/sponsor/tcl/seeing-smarter-tcl-csot-brings-together-ai-driven-thinking-and-apex-pixel-innovation/",
+    "displayDate": "2026-08-17"
+  },
+  "SONY": {
+    "title": "ソニーとTSMC、熊本での先端半導体生産へ",
+    "summary": "ソニーとTSMCが熊本県において、高度な画像センサーの製造に向けた連携を強化するというニュースが注目されています。イメージセンサー市場で世界シェアを誇るソニーと、最先端ファウンドリであるTSMCの協力体制は、日本の半導体産業の再興を象徴する重要な動きです。",
+    "insight": "エンジニア視点では、単なるハードウェアの製造を超え、積層センサー技術やプロセスルールの微細化における協業が次世代の映像技術やAI処理の要となります。ハードウェアの物理限界を突破するための、製造プロセスと半導体設計の緊密な統合プロセスに注目です。",
+    "sourceUrl": "https://mirrorless-camera.info/news/sony-news/57140.html",
+    "sourceName": "mirrorless-camera.info",
+    "originalImageUrl": "https://mirrorless-camera.info/wp-content/uploads/2026/05/20260510_001.jpg",
+    "originalImageArticleUrl": "https://mirrorless-camera.info/news/sony-news/57140.html",
+    "displayDate": "2026-08-17"
+  },
+  "Projector": {
+    "title": "テレビの代替？プロジェクターによる大画面体験の再考",
+    "summary": "最近の海外テックメディアでは、テレビを撤去してプロジェクターへ切り替えるユーザーの体験談や、大幅な割引によりコストパフォーマンスが向上した高性能機に関するレビューが散見されます。単なる映画鑑賞だけでなく、4K HDR対応によるゲーミング用途としての実用性も評価されています。",
+    "insight": "ホームシアター向けレーザープロジェクターの低価格化と高画質化は、物理的なスペース制約がある都市部の居住空間におけるモニターの代替案として有力です。特に遅延や解像度性能の向上は、ディスプレイ技術の新たな活用フェーズを示唆しています。",
+    "sourceUrl": "https://www.pcgamer.com/hardware/gaming-monitors/ive-been-loving-this-super-cinematic-4k-hdr-projector-for-movie-and-game-nights-for-years-and-its-now-half-price-with-this-handy-dandy-discount-code/",
+    "sourceName": "PC Gamer",
+    "originalImageUrl": "https://cdn.mos.cms.futurecdn.net/v8vU9cNJfeocSxjmfbFMhK-1920-80.jpg",
+    "originalImageArticleUrl": "https://www.pcgamer.com/hardware/gaming-monitors/ive-been-loving-this-super-cinematic-4k-hdr-projector-for-movie-and-game-nights-for-years-and-its-now-half-price-with-this-handy-dandy-discount-code/",
+    "displayDate": "2026-08-17"
+  },
+  "TV": {
+    "title": "全世代で進む「テレビ離れ」の深層",
+    "summary": "SNSや動画配信の普及だけでなく、視聴体験の質やコンテンツのテンポに対する不満が、若年層から60代まで幅広い世代の「テレビ離れ」を加速させている現状が報じられています。",
+    "insight": "レガシーなコンテンツ提供形態が、現代の高速な消費サイクルに適応できていない課題を示唆しています。UXデザインの観点では、ユーザーの可処分時間を奪い合う競争において、従来の「まどろっこしさ」を排除するインターフェースや配信戦略の再構築が急務と言えます。",
+    "sourceUrl": "https://news.yahoo.co.jp/articles/9d6bda33d2464138165fd033bcdf467334817f8a",
+    "sourceName": "Yahoo!ニュース",
+    "originalImageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260816-00000005-moneypost-000-1-view.jpg?exp=10800",
+    "originalImageArticleUrl": "https://news.yahoo.co.jp/articles/9d6bda33d2464138165fd033bcdf467334817f8a",
+    "displayDate": "2026-08-17"
+  },
+  "Camera Control": {
+    "title": "国内カメラ市場：Sony ZV-E10 IIが首位に",
+    "summary": "BCNランキングの7月データによると、VLOGCAM ZV-E10 IIが国内のベストセラーカメラに輝きました。ミラーレス一眼のエントリー機からミドルクラスが売れ筋を独占しており、動画と静止画のハイブリッド需要が市場を牽引しています。",
+    "insight": "映像のクリエイターエコノミー化に伴い、ハードウェアの最適化ポイントが「高画質」から「Vlog対応の使い勝手」へと完全にシフトしています。ソフトウェアエンジニアの視点では、単なる画質向上よりも、UI/UXや転送・編集のシームレスな体験設計が製品の競争力を左右していると言えます。",
+    "sourceUrl": "https://www.sonyalpharumors.com/bcnranking-bestseller-data-for-july-sony-zv-e10ii-is-the-best-selling-camera-in-japan/",
+    "sourceName": "sonyalpharumors",
+    "originalImageUrl": "https://www.sonyalpharumors.com/wp-content/uploads/2026/08/Screenshot-2026-08-14-at-15.12.31.png",
+    "originalImageArticleUrl": "https://www.sonyalpharumors.com/bcnranking-bestseller-data-for-july-sony-zv-e10ii-is-the-best-selling-camera-in-japan/",
+    "displayDate": "2026-08-17"
+  },
+  "LED Wall Display": {
+    "title": "次世代LEDを支えるKSF蛍光体技術のライセンス契約",
+    "summary": "Edison Innovations社が、KSF蛍光体技術の特許ポートフォリオを米LED大手Bridgelux社にライセンス供与しました。この技術は高演色性と高効率なLED照明やディスプレイ性能の向上に不可欠であり、次世代LEDの品質改善に大きく貢献します。",
+    "insight": "KSF蛍光体は、ディスプレイや照明における色域の広さとエネルギー効率を両立させるための重要技術です。エンジニアの観点では、この種の特許ライセンスの動きは、今後のLED製品における色の再現性や省電力設計が次のフェーズへ進化することを示唆しています。",
+    "sourceUrl": "//www.ledinside.com/news/2026/8/2026_08_13_02",
+    "sourceName": "LEDinside",
+    "originalImageUrl": null,
+    "originalImageArticleUrl": "//www.ledinside.com/news/2026/8/2026_08_13_02",
+    "displayDate": "2026-08-17"
+  },
+  "Production Monitor": {
+    "title": "動画翻訳とリップシンクの未来：Descriptの進化",
+    "summary": "動画編集ツールDescriptが、翻訳とダビング機能にリップシンク（口の動きの同期）を統合しました。人間の修正も可能なワークフローで、かつての rotoscoping のような高度な手作業なしに、自然な多言語コンテンツ制作を可能にします。",
+    "insight": "AIによる自動翻訳だけでなく、視覚的な同期（リップシンク）までが生成AIで統合されたことで、動画コンテンツのローカライズ障壁が大幅に下がりました。マルチモーダルなAI処理をプロダクトにどう組み込むか、このUI/UXはエンジニアにとって良い参考になります。",
+    "sourceUrl": "https://www.provideocoalition.com/descript-a-v-translation-dubbing-with-lip-sync-beyond-rotoscoping/",
+    "sourceName": "ProVideo Coalition",
+    "originalImageUrl": "https://www.provideocoalition.com/wp-content/uploads/1-Meet-Flip-1-English-final.mp4",
+    "originalImageArticleUrl": "https://www.provideocoalition.com/descript-a-v-translation-dubbing-with-lip-sync-beyond-rotoscoping/",
+    "displayDate": "2026-08-17"
+  }
+}
