@@ -1,10 +1,6 @@
 {
   "Production Monitor": [
     {
-      "url": "https://www.cined.com/cipa-first-half-2026-numbers-compact-cameras-keep-booming-while-the-market-shifts-to-pricier-gear/",
-      "date": "2026-08-10"
-    },
-    {
       "url": "https://www.cined.com/blackmagic-camera-10-2-2-released-cinema-camera-6k-gains-phase-detect-autofocus-cloud-streaming-and-10-minute-pre-record/",
       "date": "2026-08-11"
     },
@@ -31,13 +27,13 @@
     {
       "url": "https://www.provideocoalition.com/descript-a-v-translation-dubbing-with-lip-sync-beyond-rotoscoping/",
       "date": "2026-08-17"
+    },
+    {
+      "url": "https://www.cined.com/sony-and-tsmc-definitive-sensor-deal-signed-747-billion-yen-new-kumamoto-fab-and-volume-production-in-2029/",
+      "date": "2026-08-18"
     }
   ],
   "SRD / XR": [
-    {
-      "url": "https://www.nikkei.com/article/DGKKZO98070750Z00C26A8CT0000/",
-      "date": "2026-08-10"
-    },
     {
       "url": "https://www.uploadvr.com/apple-expands-friday-night-baseball-with-live-immersive-access-on-vision-pro/",
       "date": "2026-08-11"
@@ -65,13 +61,13 @@
     {
       "url": "https://www.nikkei.com/article/DGXZQOJC233MF0T20C26A7000000/",
       "date": "2026-08-17"
+    },
+    {
+      "url": "https://prtimes.jp/main/html/rd/p/000000084.000110387.html",
+      "date": "2026-08-18"
     }
   ],
   "AI": [
-    {
-      "url": "https://www.yomiuri.co.jp/politics/20260809-GYT1T00295/",
-      "date": "2026-08-10"
-    },
     {
       "url": "https://www.nytimes.com/2026/08/10/technology/meta-ai-open-source.html",
       "date": "2026-08-11"
@@ -99,13 +95,13 @@
     {
       "url": "https://news.yahoo.co.jp/pickup/6592006",
       "date": "2026-08-17"
+    },
+    {
+      "url": "https://www.wsj.com/tech/ai/why-open-weight-ai-models-matter-and-meta-benefits-from-them-2989ef09",
+      "date": "2026-08-18"
     }
   ],
   "Gaming Monitor": [
-    {
-      "url": "https://www.4gamer.net/games/036/G003691/20260807050/",
-      "date": "2026-08-10"
-    },
     {
       "url": "https://www.rtings.com/monitor/reviews/best/by-features/curved",
       "date": "2026-08-11"
@@ -133,13 +129,13 @@
     {
       "url": "https://pc.watch.impress.co.jp/docs/topic/feature/2132976.html",
       "date": "2026-08-17"
+    },
+    {
+      "url": "https://www.gamesradar.com/hardware/tvs-monitors/philips-evnia-32m2n8900-review/",
+      "date": "2026-08-18"
     }
   ],
   "TCL": [
-    {
-      "url": "https://topics.smt.docomo.ne.jp/article/phileweb/trend/phileweb-interview__article__1129?page=2",
-      "date": "2026-08-10"
-    },
     {
       "url": "https://topics.smt.docomo.ne.jp/article/mycom/trend/mycom_3216481?utm_source=dnews&utm_medium=article&utm_campaign=contentsmatch1",
       "date": "2026-08-11"
@@ -167,13 +163,13 @@
     {
       "url": "https://techcrunch.com/sponsor/tcl/seeing-smarter-tcl-csot-brings-together-ai-driven-thinking-and-apex-pixel-innovation/",
       "date": "2026-08-17"
+    },
+    {
+      "url": "https://mshale.com/e826d869/2c5f5b49Aix9gN3DZ0k",
+      "date": "2026-08-18"
     }
   ],
   "Camera Control": [
-    {
-      "url": "https://www.sonyalpharumors.com/curiosity-full-sony-a7riv-teardown-by-kolarivision/",
-      "date": "2026-08-10"
-    },
     {
       "url": "https://petapixel.com/2026/08/10/sony-and-tsmc-are-spending-billions-to-make-next-gen-image-sensors/",
       "date": "2026-08-11"
@@ -201,13 +197,13 @@
     {
       "url": "https://www.sonyalpharumors.com/bcnranking-bestseller-data-for-july-sony-zv-e10ii-is-the-best-selling-camera-in-japan/",
       "date": "2026-08-17"
+    },
+    {
+      "url": "https://petapixel.com/2026/08/17/honor-robot-phone-hands-on-this-isnt-a-gimmick/",
+      "date": "2026-08-18"
     }
   ],
   "LED Wall Display": [
-    {
-      "url": "https://mshale.com/ea8c9e75/1c20d8e7SkX0T-YOpDc",
-      "date": "2026-08-10"
-    },
     {
       "url": "https://ftp.erto.fi/updates/satco-nuvo-light-installation",
       "date": "2026-08-11"
@@ -235,13 +231,13 @@
     {
       "url": "//www.ledinside.com/news/2026/8/2026_08_13_02",
       "date": "2026-08-17"
+    },
+    {
+      "url": "//www.ledinside.com/products/2026/8/2026_08_17_06",
+      "date": "2026-08-18"
     }
   ],
   "SONY": [
-    {
-      "url": "https://hashout.jp/gadget/5473/",
-      "date": "2026-08-10"
-    },
     {
       "url": "https://www.phonearena.com/news/future-iphones-may-pack-brand-new-camera-sensors-developed-by-sony-and-tsmc_id182492",
       "date": "2026-08-11"
@@ -269,13 +265,13 @@
     {
       "url": "https://mirrorless-camera.info/news/sony-news/57140.html",
       "date": "2026-08-17"
+    },
+    {
+      "url": "https://cameota.com/canon/51667.html",
+      "date": "2026-08-18"
     }
   ],
   "TV": [
-    {
-      "url": "https://www.pcguide.com/deals/samsung-s90h-deal-slashes-a-massive-700-off-the-price-of-this-new-65-inch-oled-tv/",
-      "date": "2026-08-10"
-    },
     {
       "url": "https://www.itmedia.co.jp/pcuser/amp/2608/10/news097.html",
       "date": "2026-08-11"
@@ -303,13 +299,13 @@
     {
       "url": "https://news.yahoo.co.jp/articles/9d6bda33d2464138165fd033bcdf467334817f8a",
       "date": "2026-08-17"
+    },
+    {
+      "url": "https://lifehacker.com/tech/lg-65-inch-oled-ai-4k-smart-tv-sale-august-2026",
+      "date": "2026-08-18"
     }
   ],
   "Projector": [
-    {
-      "url": "https://www.gizmochina.com/2026/08/09/xgimi-z9x-4k-high-brightness-edition-launched-specs-price/",
-      "date": "2026-08-10"
-    },
     {
       "url": "https://www.gamerevolution.com/review/984895-xgimi-titan-noir-max-review-4k-projector",
       "date": "2026-08-11"
@@ -337,6 +333,10 @@
     {
       "url": "https://www.pcgamer.com/hardware/gaming-monitors/ive-been-loving-this-super-cinematic-4k-hdr-projector-for-movie-and-game-nights-for-years-and-its-now-half-price-with-this-handy-dandy-discount-code/",
       "date": "2026-08-17"
+    },
+    {
+      "url": "https://s-max.jp/archives/1808127.html",
+      "date": "2026-08-18"
     }
   ]
 }
