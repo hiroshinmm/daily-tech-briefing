@@ -1,0 +1,102 @@
+{
+  "AI": {
+    "title": "OpenAI、AI開発を減速へ──安全性重視の転換",
+    "summary": "OpenAIが、モデル開発のスピードを一時的に緩め、安全性試験体制の抜本的な見直しを行っている。AIモデルの「暴走」や不測の挙動が懸念される中、リリース速度よりもガバナンスと安全性を優先する方針へシフトした。",
+    "insight": "開発速度と安全性のトレードオフは、全てのAIエンジニアが直面する現代の課題です。今後のAI開発では、モデルの性能向上だけでなく、信頼性を担保するためのテスト戦略やデバッグ手法が、より一層重要なスキルとなるでしょう。",
+    "sourceUrl": "https://jp.reuters.com/economy/DVEUYL2XYRMLLBLLBRSAXVSKRU-2026-08-18/",
+    "sourceName": "ロイター",
+    "originalImageUrl": null,
+    "originalImageArticleUrl": "https://jp.reuters.com/economy/DVEUYL2XYRMLLBLLBRSAXVSKRU-2026-08-18/",
+    "displayDate": "2026-08-19"
+  },
+  "SRD / XR": {
+    "title": "現実の手をアバター化！新ツール公開",
+    "summary": "VTuberの三珠さくまる氏が、現実の手の動きを3Dアバターの手にリアルタイムで置き換えて表示する「超バーチャル手元カメラ」のβ版を公開しました。iPhone等のカメラを利用し、手元動画の制作効率と表現力を劇的に向上させます。",
+    "insight": "ハンドトラッキング技術とアバターリターゲティングを組み合わせた本ツールは、配信の没入感を高めるUX改善の好例です。個人のクリエイターがこうした技術を実装・公開することで、VR/AR空間での表現の幅がより一層広がっています。",
+    "sourceUrl": "https://www.moguravr.com/sakumaru-virtual-hand-retargeter-beta/",
+    "sourceName": "Mogura VR",
+    "originalImageUrl": "https://assets.moguravr.com/uploads/2026/08/83fea271eb23dbadd1e67b9d2070b621-kix.626qzusm6j97-300x169.webp",
+    "originalImageArticleUrl": "https://www.moguravr.com/sakumaru-virtual-hand-retargeter-beta/",
+    "displayDate": "2026-08-19"
+  },
+  "SONY": {
+    "title": "ソニー新社長が語る「フィジカルAI」の戦略",
+    "summary": "ソニーグループの十時裕樹新社長が、今後の事業成長の鍵として「フィジカルAI」を掲げました。物理的な現場でのデータを活用するAI技術を、カメラやセンサーなどの自社製品と融合させることで、ソニー独自の競争優位性を確立する戦略を示しています。",
+    "insight": "AIと物理デバイスの融合（Edge AI）は、ソフトウェア単体では到達できない現場の知見を抽出する鍵です。エンジニアとしては、センサーから得られる膨大な時系列データを、いかに低レイテンシでモデル推論へ繋ぎ、製品価値へ昇華させるかが技術的差別化の焦点となります。",
+    "sourceUrl": "https://xtech.nikkei.com/atcl/nxt/mag/ne/18/00001/00682/",
+    "sourceName": "日経クロステック",
+    "originalImageUrl": "https://xtech.nikkei.com/atcl/nxt/mag/ne/18/00001/00682/topm.jpg?20220512",
+    "originalImageArticleUrl": "https://xtech.nikkei.com/atcl/nxt/mag/ne/18/00001/00682/",
+    "displayDate": "2026-08-19"
+  },
+  "Gaming Monitor": {
+    "title": "480Hzモニターが約800ドルに！Inzone M10Sが大幅値下げ",
+    "summary": "Sonyのハイエンドゲーミングモニター「Inzone M10S」がAmazonで798ドルに値下げされました。480Hzという驚異的なリフレッシュレートを誇る本機は、プロレベルの競技シーンを想定したゲーマーにとって非常に魅力的な価格となっています。",
+    "insight": "480Hzという超高リフレッシュレートは、表示遅延の極小化だけでなく、モーションブラーの軽減により動体視力による索敵精度を劇的に向上させます。ソフトウェアエンジニアの視点では、この描画密度を維持するためのGPUとディスプレイ間のフレーム同期ロジックや、排熱設計の最適化が製品競争力の鍵となります。",
+    "sourceUrl": "https://mashable.com/tech/aug-3-sony-inzone-gaming-monitor-deal",
+    "sourceName": "Mashable",
+    "originalImageUrl": "https://helios-i.mashable.com/imagery/articles/01ubiOG1E99nMPNLxmnFana/hero-image.fill.size_1200x675.v1785768156.png",
+    "originalImageArticleUrl": "https://mashable.com/tech/aug-3-sony-inzone-gaming-monitor-deal",
+    "displayDate": "2026-08-19"
+  },
+  "TCL": {
+    "title": "TCLがLCDテレビ市場でサムスンに肉薄",
+    "summary": "TCLが液晶テレビのグローバル市場シェアでサムスンに急接近し、激しい首位争いを繰り広げています。コストパフォーマンスに優れたMini-LED技術を武器に、市場での存在感を急速に高めています。",
+    "insight": "中国メーカーであるTCLの躍進は、製造コストの最適化と先端ディスプレイ技術の低価格化が市場に受け入れられている証左です。エンジニアの視点からは、ハードウェアにおける垂直統合とサプライチェーンの効率化が、いかにレガシーな巨大ブランドを追い抜く要因となるかを考察する良い事例といえます。",
+    "sourceUrl": "https://www.businesskorea.co.kr/news/articleView.html?idxno=275012",
+    "sourceName": "Businesskorea",
+    "originalImageUrl": "https://www.businesskorea.co.kr/news/thumbnail/202608/275012_282355_1525_v150.jpg",
+    "originalImageArticleUrl": "https://www.businesskorea.co.kr/news/articleView.html?idxno=275012",
+    "displayDate": "2026-08-19"
+  },
+  "Projector": {
+    "title": "AWOL Visionの最新4K超短焦点プロジェクターが登場",
+    "summary": "AWOL Visionが4K対応の超短焦点プロジェクター「Aetherion Max／Pro」をMakuakeにて先行発売しました。床置きで大画面投影が可能なため、ホームシアター環境を導入したいユーザーから注目を集めています。",
+    "insight": "プロジェクターの進化は単なる解像度の向上だけでなく、設置制約を排除する「超短焦点技術」にシフトしています。ハードウェア側の光学設計と、設置場所を選ばないUI/UXの両立が現在のトレンドと言えます。",
+    "sourceUrl": "https://news.yahoo.co.jp/articles/97a5c458502006d1ae9fe6b5523e4bc7c9887a09/images/000",
+    "sourceName": "Yahoo!ニュース",
+    "originalImageUrl": "https://news-pctr.c.yimg.jp/uUzvQ3lML_bkIqyakc1vFhNrRI0RUQxg5aFkrX0xDg1_T0wXrbEJjtNGtrf1o9y3h9uiCojScY7SLYgxmEygYwZxKbx2CP123xWO9HT0oYv8mzUdjLdlmhvnfkAhgbf7LNK9P1ABP23Bj13uqhCO1zYxXg5qFugqFEUFnVD7Q5ts0VsUNofB3ysSt23aGxZKmM3DA2x55F8ebFD5z7NbfQ==",
+    "originalImageArticleUrl": "https://news.yahoo.co.jp/articles/97a5c458502006d1ae9fe6b5523e4bc7c9887a09/images/000",
+    "displayDate": "2026-08-19"
+  },
+  "Camera Control": {
+    "title": "AirPodsにカメラ搭載？macOSベータ版で機能が判明",
+    "summary": "Appleが開発中と噂されるカメラ搭載AirPodsの存在を示す証拠が、最新のmacOSベータ版から発見されました。イヤホンというウェアラブルデバイスにカメラを統合し、どのような空間コンピューティング体験が提供されるのか、業界で注目を集めています。",
+    "insight": "イヤホンへのカメラ搭載は、視覚情報をリアルタイムでAI処理するエッジコンピューティングの究極形と言えます。カメラの小型化・省電力化がハードウェアのフォームファクタをいかに再定義するかの興味深い事例です。",
+    "sourceUrl": "https://petapixel.com/2026/08/18/camera-equipped-airpods-shown-in-action-in-macos-beta/",
+    "sourceName": "PetaPixel",
+    "originalImageUrl": "https://petapixel.com/assets/uploads/2026/08/camera-equipped-airpods-again-featured.jpg",
+    "originalImageArticleUrl": "https://petapixel.com/2026/08/18/camera-equipped-airpods-shown-in-action-in-macos-beta/",
+    "displayDate": "2026-08-19"
+  },
+  "LED Wall Display": {
+    "title": "Absenがシンガポール建国記念日で1,500㎡超の巨大LED壁を実現",
+    "summary": "シンガポールの建国61周年記念イベントにおいて、Absenが1,500平方メートルを超える大規模なLEDウォールを構築しました。JP Proシリーズなどのプロフェッショナル向けLEDディスプレイを活用し、国家規模の祭典にふさわしい没入感のある視覚体験を提供しました。",
+    "insight": "大規模イベントにおけるLEDウォールの活用では、高精細な映像出力だけでなく、迅速な設営と安定稼働を支えるハードウェア性能が極めて重要です。また、これほど広大な面積を一括で制御・同期させるレンダリング技術や同期技術の知見は、大規模なライブパフォーマンスやデジタルサイネージの設計において非常に参考になります。",
+    "sourceUrl": "https://www.provideocoalition.com/sp-studios-uses-brompton-hydra-to-transform-virtual-production/amp/",
+    "sourceName": "LEDinside",
+    "originalImageUrl": "https://www.provideocoalition.com/wp-content/uploads/bromptonredrock001.jpg",
+    "originalImageArticleUrl": "https://www.provideocoalition.com/sp-studios-uses-brompton-hydra-to-transform-virtual-production/amp/",
+    "displayDate": "2026-08-19"
+  },
+  "Production Monitor": {
+    "title": "YouTube、視聴数カウントの基準を大幅変更",
+    "summary": "YouTubeは8月24日より、視聴数のカウント方法を刷新しました。これまでは一定の視聴時間が基準でしたが、今後は形式（長尺、ライブ、ショート）に関わらず、動画が再生開始された瞬間に1回としてカウントされます。指標の定義が統一されることで、クリエイターやマーケターにとっての数値の意味合いが大きく変化します。",
+    "insight": "プラットフォーム側のメトリクス定義の変更は、データ分析基盤に直結する重要なトピックです。特に、従来の「視聴時間ベースの指標」と「再生開始ベースの指標」が混在する期間のデータ整合性や、レポートロジックの修正が必要になる可能性があるため注意が必要です。",
+    "sourceUrl": "https://www.cined.com/youtube-changes-how-views-are-counted-no-minimum-watch-time-all-formats-from-august-24/",
+    "sourceName": "CineD",
+    "originalImageUrl": "https://www.cined.com/content/uploads/2026/08/youtube-view-count-featured-300x169.jpg",
+    "originalImageArticleUrl": "https://www.cined.com/youtube-changes-how-views-are-counted-no-minimum-watch-time-all-formats-from-august-24/",
+    "displayDate": "2026-08-19"
+  },
+  "TV": {
+    "title": "ハイエンドOLEDテレビが大幅値下げ中",
+    "summary": "Amazonや各小売店にて、SamsungやLGの大型OLED（有機EL）テレビが、長期保証付きのバンドル販売や大幅割引価格で提供されています。最新モデルのスペックを抑えつつ、コストパフォーマンスの高い買い物ができるタイミングとなっています。",
+    "insight": "エンジニアとしては、単なる値下げだけでなく、QD-OLEDなどのパネル技術の普及と価格競争が加速している点に注目です。高リフレッシュレート対応モデルが増えており、PCモニター兼リビングディスプレイとしての活用も現実的になっています。",
+    "sourceUrl": "https://www.ign.com/articles/samsung-s65f-4k-oled-tv-deal-august-2026",
+    "sourceName": "IGN",
+    "originalImageUrl": "https://assets-prd.ignimgs.com/2026/08/17/samsungs90f-1787008081737.jpg?width=1280&format=jpg&auto=webp&quality=80",
+    "originalImageArticleUrl": "https://www.ign.com/articles/samsung-s65f-4k-oled-tv-deal-august-2026",
+    "displayDate": "2026-08-19"
+  }
+}

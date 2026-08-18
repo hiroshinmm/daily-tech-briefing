@@ -1,10 +1,6 @@
 {
   "Production Monitor": [
     {
-      "url": "https://www.cined.com/blackmagic-camera-10-2-2-released-cinema-camera-6k-gains-phase-detect-autofocus-cloud-streaming-and-10-minute-pre-record/",
-      "date": "2026-08-11"
-    },
-    {
       "url": "https://www.cined.com/gopro-says-its-sale-process-is-in-the-later-stages-camera-sales-fall-38-cash-down-to-27-million/",
       "date": "2026-08-12"
     },
@@ -31,13 +27,13 @@
     {
       "url": "https://www.cined.com/sony-and-tsmc-definitive-sensor-deal-signed-747-billion-yen-new-kumamoto-fab-and-volume-production-in-2029/",
       "date": "2026-08-18"
+    },
+    {
+      "url": "https://www.cined.com/youtube-changes-how-views-are-counted-no-minimum-watch-time-all-formats-from-august-24/",
+      "date": "2026-08-19"
     }
   ],
   "SRD / XR": [
-    {
-      "url": "https://www.uploadvr.com/apple-expands-friday-night-baseball-with-live-immersive-access-on-vision-pro/",
-      "date": "2026-08-11"
-    },
     {
       "url": "https://www.okinawatimes.co.jp/articles/-/1900134",
       "date": "2026-08-12"
@@ -65,13 +61,13 @@
     {
       "url": "https://prtimes.jp/main/html/rd/p/000000084.000110387.html",
       "date": "2026-08-18"
+    },
+    {
+      "url": "https://www.moguravr.com/sakumaru-virtual-hand-retargeter-beta/",
+      "date": "2026-08-19"
     }
   ],
   "AI": [
-    {
-      "url": "https://www.nytimes.com/2026/08/10/technology/meta-ai-open-source.html",
-      "date": "2026-08-11"
-    },
     {
       "url": "https://www.asahi.com/articles/ASV8C3F4YV8CUTIL004M.html",
       "date": "2026-08-12"
@@ -99,13 +95,13 @@
     {
       "url": "https://www.wsj.com/tech/ai/why-open-weight-ai-models-matter-and-meta-benefits-from-them-2989ef09",
       "date": "2026-08-18"
+    },
+    {
+      "url": "https://jp.reuters.com/economy/DVEUYL2XYRMLLBLLBRSAXVSKRU-2026-08-18/",
+      "date": "2026-08-19"
     }
   ],
   "Gaming Monitor": [
-    {
-      "url": "https://www.rtings.com/monitor/reviews/best/by-features/curved",
-      "date": "2026-08-11"
-    },
     {
       "url": "https://pc.watch.impress.co.jp/docs/topic/readitnow/2132085.html",
       "date": "2026-08-12"
@@ -133,13 +129,13 @@
     {
       "url": "https://www.gamesradar.com/hardware/tvs-monitors/philips-evnia-32m2n8900-review/",
       "date": "2026-08-18"
+    },
+    {
+      "url": "https://mashable.com/tech/aug-3-sony-inzone-gaming-monitor-deal",
+      "date": "2026-08-19"
     }
   ],
   "TCL": [
-    {
-      "url": "https://topics.smt.docomo.ne.jp/article/mycom/trend/mycom_3216481?utm_source=dnews&utm_medium=article&utm_campaign=contentsmatch1",
-      "date": "2026-08-11"
-    },
     {
       "url": "https://www.technetbooks.com/2026/08/xiaomi-launches-redmi-k100-pro-series.html",
       "date": "2026-08-12"
@@ -167,13 +163,13 @@
     {
       "url": "https://mshale.com/e826d869/2c5f5b49Aix9gN3DZ0k",
       "date": "2026-08-18"
+    },
+    {
+      "url": "https://www.businesskorea.co.kr/news/articleView.html?idxno=275012",
+      "date": "2026-08-19"
     }
   ],
   "Camera Control": [
-    {
-      "url": "https://petapixel.com/2026/08/10/sony-and-tsmc-are-spending-billions-to-make-next-gen-image-sensors/",
-      "date": "2026-08-11"
-    },
     {
       "url": "https://petapixel.com/2026/08/11/nasas-voyager-2-space-probe-just-got-new-software-from-over-13-billion-miles-away/",
       "date": "2026-08-12"
@@ -201,13 +197,13 @@
     {
       "url": "https://petapixel.com/2026/08/17/honor-robot-phone-hands-on-this-isnt-a-gimmick/",
       "date": "2026-08-18"
+    },
+    {
+      "url": "https://petapixel.com/2026/08/18/camera-equipped-airpods-shown-in-action-in-macos-beta/",
+      "date": "2026-08-19"
     }
   ],
   "LED Wall Display": [
-    {
-      "url": "https://ftp.erto.fi/updates/satco-nuvo-light-installation",
-      "date": "2026-08-11"
-    },
     {
       "url": "//www.ledinside.com/news/2026/8/2026_08_11_05",
       "date": "2026-08-12"
@@ -235,13 +231,13 @@
     {
       "url": "//www.ledinside.com/products/2026/8/2026_08_17_06",
       "date": "2026-08-18"
+    },
+    {
+      "url": "https://www.provideocoalition.com/sp-studios-uses-brompton-hydra-to-transform-virtual-production/amp/",
+      "date": "2026-08-19"
     }
   ],
   "SONY": [
-    {
-      "url": "https://www.phonearena.com/news/future-iphones-may-pack-brand-new-camera-sensors-developed-by-sony-and-tsmc_id182492",
-      "date": "2026-08-11"
-    },
     {
       "url": "https://www.telecompaper.com/news/sony-tsmc-confirm-deal-to-set-up-smartphone-camera-chip-venture-in-japan--1579623",
       "date": "2026-08-12"
@@ -269,13 +265,13 @@
     {
       "url": "https://cameota.com/canon/51667.html",
       "date": "2026-08-18"
+    },
+    {
+      "url": "https://xtech.nikkei.com/atcl/nxt/mag/ne/18/00001/00682/",
+      "date": "2026-08-19"
     }
   ],
   "TV": [
-    {
-      "url": "https://www.itmedia.co.jp/pcuser/amp/2608/10/news097.html",
-      "date": "2026-08-11"
-    },
     {
       "url": "https://www.rtings.com/tv/reviews/best/by-type/oled",
       "date": "2026-08-12"
@@ -303,13 +299,13 @@
     {
       "url": "https://lifehacker.com/tech/lg-65-inch-oled-ai-4k-smart-tv-sale-august-2026",
       "date": "2026-08-18"
+    },
+    {
+      "url": "https://www.ign.com/articles/samsung-s65f-4k-oled-tv-deal-august-2026",
+      "date": "2026-08-19"
     }
   ],
   "Projector": [
-    {
-      "url": "https://www.gamerevolution.com/review/984895-xgimi-titan-noir-max-review-4k-projector",
-      "date": "2026-08-11"
-    },
     {
       "url": "https://www.phileweb.com/review/column/202608/12/3120.html",
       "date": "2026-08-12"
@@ -337,6 +333,10 @@
     {
       "url": "https://s-max.jp/archives/1808127.html",
       "date": "2026-08-18"
+    },
+    {
+      "url": "https://news.yahoo.co.jp/articles/97a5c458502006d1ae9fe6b5523e4bc7c9887a09/images/000",
+      "date": "2026-08-19"
     }
   ]
 }
