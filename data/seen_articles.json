@@ -1,10 +1,6 @@
 {
   "Production Monitor": [
     {
-      "url": "https://www.cined.com/gopro-says-its-sale-process-is-in-the-later-stages-camera-sales-fall-38-cash-down-to-27-million/",
-      "date": "2026-08-12"
-    },
-    {
       "url": "https://www.cined.com/honor-robot-phone-launches-arri-logc3-wide-gamut-3-and-a-motorized-titanium-gimbal-camera/",
       "date": "2026-08-13"
     },
@@ -31,13 +27,13 @@
     {
       "url": "https://www.cined.com/youtube-changes-how-views-are-counted-no-minimum-watch-time-all-formats-from-august-24/",
       "date": "2026-08-19"
+    },
+    {
+      "url": "https://www.provideocoalition.com/avid-media-composer-2026-8-will-bring-changes-to-third-party-storage/",
+      "date": "2026-08-20"
     }
   ],
   "SRD / XR": [
-    {
-      "url": "https://www.okinawatimes.co.jp/articles/-/1900134",
-      "date": "2026-08-12"
-    },
     {
       "url": "https://jp.pronews.com/column/202608122208773722.html",
       "date": "2026-08-13"
@@ -65,13 +61,13 @@
     {
       "url": "https://www.moguravr.com/sakumaru-virtual-hand-retargeter-beta/",
       "date": "2026-08-19"
+    },
+    {
+      "url": "https://xtech.nikkei.com/atcl/nxt/column/18/03720/?i_cid=nbpnxt_feature_top_it_02",
+      "date": "2026-08-20"
     }
   ],
   "AI": [
-    {
-      "url": "https://www.asahi.com/articles/ASV8C3F4YV8CUTIL004M.html",
-      "date": "2026-08-12"
-    },
     {
       "url": "https://www.asahi.com/articles/ASV8B2GPFV8BUHBI028M.html",
       "date": "2026-08-13"
@@ -99,13 +95,13 @@
     {
       "url": "https://jp.reuters.com/economy/DVEUYL2XYRMLLBLLBRSAXVSKRU-2026-08-18/",
       "date": "2026-08-19"
+    },
+    {
+      "url": "https://www.wired.com/story/generalist-ai-robots-learn-like-clever-toddlers/",
+      "date": "2026-08-20"
     }
   ],
   "Gaming Monitor": [
-    {
-      "url": "https://pc.watch.impress.co.jp/docs/topic/readitnow/2132085.html",
-      "date": "2026-08-12"
-    },
     {
       "url": "https://www.pcworld.com/article/3195904/this-lg-1440p-ultrawide-oled-gaming-monitor-is-over-500-off.html",
       "date": "2026-08-13"
@@ -133,13 +129,13 @@
     {
       "url": "https://mashable.com/tech/aug-3-sony-inzone-gaming-monitor-deal",
       "date": "2026-08-19"
+    },
+    {
+      "url": "https://www.technetbooks.com/2026/08/aoc-launches-agon-7-agp497uczd-49-inch.html",
+      "date": "2026-08-20"
     }
   ],
   "TCL": [
-    {
-      "url": "https://www.technetbooks.com/2026/08/xiaomi-launches-redmi-k100-pro-series.html",
-      "date": "2026-08-12"
-    },
     {
       "url": "https://www.manilatimes.net/2026/08/12/tmt-newswire/pr-newswire/tcl-csot-advances-into-professional-esports-and-powers-the-future-of-ai-computing-at-chinajoy-2026/2404161/amp",
       "date": "2026-08-13"
@@ -167,13 +163,13 @@
     {
       "url": "https://www.businesskorea.co.kr/news/articleView.html?idxno=275012",
       "date": "2026-08-19"
+    },
+    {
+      "url": "https://theinventory.com/tcl-65-qm9k-mini-led-tv-144hz-gaming-brightness-deal",
+      "date": "2026-08-20"
     }
   ],
   "Camera Control": [
-    {
-      "url": "https://petapixel.com/2026/08/11/nasas-voyager-2-space-probe-just-got-new-software-from-over-13-billion-miles-away/",
-      "date": "2026-08-12"
-    },
     {
       "url": "https://dc.watch.impress.co.jp/docs/review/lens_review_2/2132326.html",
       "date": "2026-08-13"
@@ -201,13 +197,13 @@
     {
       "url": "https://petapixel.com/2026/08/18/camera-equipped-airpods-shown-in-action-in-macos-beta/",
       "date": "2026-08-19"
+    },
+    {
+      "url": "https://petapixel.com/2026/08/19/you-can-play-doom-on-a-16-year-old-canon-dslr/",
+      "date": "2026-08-20"
     }
   ],
   "LED Wall Display": [
-    {
-      "url": "//www.ledinside.com/news/2026/8/2026_08_11_05",
-      "date": "2026-08-12"
-    },
     {
       "url": "https://sundayguardianlive.com/business/nasdaq-today-nasdaq-rises-057-to-2659609-as-micron-surges-688-ai-semiconductor-stocks-lead-gains-fed-rate-hike-bets-ease-what-investors-should-watch-259858/",
       "date": "2026-08-13"
@@ -235,13 +231,13 @@
     {
       "url": "https://www.provideocoalition.com/sp-studios-uses-brompton-hydra-to-transform-virtual-production/amp/",
       "date": "2026-08-19"
+    },
+    {
+      "url": "https://www.digitalsignagetoday.com/blogs/the-importance-of-ambient-light-for-large-format-displays/",
+      "date": "2026-08-20"
     }
   ],
   "SONY": [
-    {
-      "url": "https://www.telecompaper.com/news/sony-tsmc-confirm-deal-to-set-up-smartphone-camera-chip-venture-in-japan--1579623",
-      "date": "2026-08-12"
-    },
     {
       "url": "https://www.androidpure.com/sony-tsmc-image-sensor-joint-venture/",
       "date": "2026-08-13"
@@ -269,13 +265,13 @@
     {
       "url": "https://xtech.nikkei.com/atcl/nxt/mag/ne/18/00001/00682/",
       "date": "2026-08-19"
+    },
+    {
+      "url": "https://tecstaff.jp/2026-8-18-inzone-m10s2-m9-2-software-update.html",
+      "date": "2026-08-20"
     }
   ],
   "TV": [
-    {
-      "url": "https://www.rtings.com/tv/reviews/best/by-type/oled",
-      "date": "2026-08-12"
-    },
     {
       "url": "https://v-storage.jp/anime/koukaku/283799/",
       "date": "2026-08-13"
@@ -303,13 +299,13 @@
     {
       "url": "https://www.ign.com/articles/samsung-s65f-4k-oled-tv-deal-august-2026",
       "date": "2026-08-19"
+    },
+    {
+      "url": "https://www.carenet.com/news/general/hdn/63357",
+      "date": "2026-08-20"
     }
   ],
   "Projector": [
-    {
-      "url": "https://www.phileweb.com/review/column/202608/12/3120.html",
-      "date": "2026-08-12"
-    },
     {
       "url": "https://av.watch.impress.co.jp/docs/topic/2130939.html",
       "date": "2026-08-13"
@@ -337,6 +333,10 @@
     {
       "url": "https://news.yahoo.co.jp/articles/97a5c458502006d1ae9fe6b5523e4bc7c9887a09/images/000",
       "date": "2026-08-19"
+    },
+    {
+      "url": "https://www.installation-international.com/product-news/epson-brings-30000-lumen-laser-projector-to-integrate",
+      "date": "2026-08-20"
     }
   ]
 }

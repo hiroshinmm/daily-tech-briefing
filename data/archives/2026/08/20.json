@@ -1,0 +1,102 @@
+{
+  "SRD / XR": {
+    "title": "ARグラスが本格離陸へ：AIによる体験価値の向上",
+    "summary": "日経クロステックにて、ARグラスがついに普及期に入ったことが報じられました。単なる表示デバイスではなく、AIと融合することでユーザーの視界にコンテキスト（文脈）を付与し、新しい体験価値を生み出す「翼」としての役割に注目が集まっています。",
+    "insight": "ハードウェア性能の向上に加え、LLM等のAI技術がUI/UXを劇的に変えています。エンジニアとしては、デバイス側の制約をAIがどう補完し、いかに自然なユーザー体験へと昇華させるかという、ソフトウェア設計の抽象化層の扱いに注目すべきです。",
+    "sourceUrl": "https://xtech.nikkei.com/atcl/nxt/column/18/03720/?i_cid=nbpnxt_feature_top_it_02",
+    "sourceName": "日経クロステック",
+    "originalImageUrl": "https://xtech.nikkei.com/atcl/nxt/column/18/03720/topm.jpg?20220512",
+    "originalImageArticleUrl": "https://xtech.nikkei.com/atcl/nxt/column/18/03720/?i_cid=nbpnxt_feature_top_it_02",
+    "displayDate": "2026-08-20"
+  },
+  "AI": {
+    "title": "その場学習するロボット：AIの未来",
+    "summary": "WIREDが、現場でリアルタイムに学習を行うAI搭載ロボットの可能性を報じました。従来の「学習済みモデルを実行する」段階から、「環境に適応しながら学習し続ける」次世代AIの姿が浮き彫りになっています。",
+    "insight": "LLMの推論能力だけでなく、強化学習やエッジAIを用いたオンデマンドな適応アルゴリズムが、今後のロボティクス開発の鍵となります。エンジニアは、推論速度だけでなく、実環境でのフィードバックループをどう低レイテンシで実装するかに注目すべきです。",
+    "sourceUrl": "https://www.wired.com/story/generalist-ai-robots-learn-like-clever-toddlers/",
+    "sourceName": "WIRED",
+    "originalImageUrl": "https://media.wired.com/photos/6a85e8ea4518d27679a9b132/191:100/w_1280,c_limit/AI-Lab-Very-Clever-Robot-Creeped-Me-Out-Business.jpg",
+    "originalImageArticleUrl": "https://www.wired.com/story/generalist-ai-robots-learn-like-clever-toddlers/",
+    "displayDate": "2026-08-20"
+  },
+  "Projector": {
+    "title": "Epsonが3万ルーメンのレーザープロジェクターを発表",
+    "summary": "プロジェクター技術の進化が止まりません。Epsonが業務用「30,000ルーメン」という驚異的な輝度を誇るレーザープロジェクターを「Integrate」展示会で発表しました。高輝度化が進む映像体験の最新動向です。",
+    "insight": "高輝度レーザー光源は、明るい環境下での大型ディスプレイ代替として今後さらにシェアを拡大するでしょう。ハードウェアの出力向上だけでなく、この大画面を制御・最適化するための描画アルゴリズムや冷却設計のエンジニアリングが重要になっています。",
+    "sourceUrl": "https://www.installation-international.com/product-news/epson-brings-30000-lumen-laser-projector-to-integrate",
+    "sourceName": "Installation-international",
+    "originalImageUrl": "https://www.installation-international.com/wp-content/uploads/2026/08/image001-20-scaled.jpg",
+    "originalImageArticleUrl": "https://www.installation-international.com/product-news/epson-brings-30000-lumen-laser-projector-to-integrate",
+    "displayDate": "2026-08-20"
+  },
+  "Gaming Monitor": {
+    "title": "AOCが49インチDQHD有機ELモニターを発表",
+    "summary": "AOCは、ゲーミングブランド「AGON」から49インチの超ワイドDQHD解像度を誇るQD-OLED搭載ゲーミングモニター「AGON 7 AGP497UCZD」を発表しました。没入感の高い大型スクリーンと有機EL特有の高速応答・高画質を両立したハイエンドモデルです。",
+    "insight": "アスペクト比32:9の超ワイドディスプレイは、マルチウィンドウ環境での開発効率を飛躍的に向上させます。特にQD-OLEDは黒の締まりや広色域において従来の液晶パネルを圧倒しており、長時間作業の眼精疲労軽減にも寄与する技術として注目すべきです。",
+    "sourceUrl": "https://www.technetbooks.com/2026/08/aoc-launches-agon-7-agp497uczd-49-inch.html",
+    "sourceName": "Technetbook",
+    "originalImageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhGHylcvnMfcshSVwBWMkrfeNaxBGcNR4qJ0mJEbQJ_7wG0hcWTZfskanvL_cbWMUA0or_atbj_mSzYnNQR7Up_39VWjMl7PZ84TStIAbWvF3DMlKAvzCUnD6UeVEs2ODS_UmrUnaLa6wCxad8YrGo_iTFHpsQmx35iZTxzIaCxI9nhkYHp4aB_OLWoNg4/w1280-h720-p-k-no-nu/AOC%20Launches%20AGON%207%20AGP497UCZD%2049%20Inch%20DQHD%20QD%20OLED%20Gaming%20Monitor.jpg",
+    "originalImageArticleUrl": "https://www.technetbooks.com/2026/08/aoc-launches-agon-7-agp497uczd-49-inch.html",
+    "displayDate": "2026-08-20"
+  },
+  "SONY": {
+    "title": "ソニー「INZONE」モニター、起動不具合修正のアップデート公開",
+    "summary": "ソニーはゲーミングモニター「INZONE M10S II」および「M9 II」向けに本体アップデートを公開しました。主な修正内容は、スタンバイ状態から復帰しない不具合の解消で、ユーザーは迅速な適用が推奨されます。",
+    "insight": "デバイスの電源管理に関するファームウェア修正は、ハードウェアの信頼性に直結する重要なパッチです。エンジニアの視点では、スタンバイからの復帰プロセスにおける電力管理制御やカーネル/ファームウェアレベルの割り込み処理の安定化が図られたと推測されます。",
+    "sourceUrl": "https://tecstaff.jp/2026-8-18-inzone-m10s2-m9-2-software-update.html",
+    "sourceName": "tecstaff.jp",
+    "originalImageUrl": "https://tecstaff.jp/wp-content/uploads/2024/10/inzone_003.jpg",
+    "originalImageArticleUrl": "https://tecstaff.jp/2026-8-18-inzone-m10s2-m9-2-software-update.html",
+    "displayDate": "2026-08-20"
+  },
+  "TCL": {
+    "title": "TCLの新型「QM9K」：ゲーミング性能とHDRの両立",
+    "summary": "TCLから65インチのMini-LEDテレビ「QM9K」が登場。144Hzのリフレッシュレートに対応し、高輝度なHDR表示を実現するなど、ゲーミング用途でのパフォーマンスを強化しています。コストパフォーマンスを重視しつつ、フラッグシップ級の映像体験を追求したモデルです。",
+    "insight": "Mini-LEDと144Hz駆動の組み合わせは、コンソールやPCゲーミング環境での低遅延と高コントラストを両立させる現在のトレンドです。ディスプレイの輝度制御アルゴリズムがどのようにゲーミング時の黒浮きを抑えているのか、バックライト制御技術の進化に注目です。",
+    "sourceUrl": "https://theinventory.com/tcl-65-qm9k-mini-led-tv-144hz-gaming-brightness-deal",
+    "sourceName": "The Inventory",
+    "originalImageUrl": "https://theinventory.com/cdn-cgi/image/width=1200,quality=85,format=auto/https://assets.theinventory.com/media/tcl-65-qm9k-mini-led-tv-144hz-gaming-brightness-deal-1787060924460-1200x630.png",
+    "originalImageArticleUrl": "https://theinventory.com/tcl-65-qm9k-mini-led-tv-144hz-gaming-brightness-deal",
+    "displayDate": "2026-08-20"
+  },
+  "Production Monitor": {
+    "title": "Avid Media Composerのサードパーティ製ストレージ制限",
+    "summary": "Avid Media Composer 2026.8から、サードパーティ製NEXIS/ISISエミュレーションのサポートが終了する方針が示されました。これにより、Avid認定外のストレージを使用している施設では、ビンロック機能やメディア共有に支障が出る可能性があり、運用の見直しが求められています。",
+    "insight": "ソフトウェア側のエミュレーション排除は、ベンダーロックインを強める一方で、パフォーマンスや互換性の保証を厳格化する動きです。エンジニアとしては、ストレージプロトコルの依存関係を早期に確認し、将来的なインフラ更新計画に含める必要があります。",
+    "sourceUrl": "https://www.provideocoalition.com/avid-media-composer-2026-8-will-bring-changes-to-third-party-storage/",
+    "sourceName": "ProVideo Coalition",
+    "originalImageUrl": "https://www.provideocoalition.com/wp-content/uploads/Media-Composer-Ultimate-Vivaldi-slVzZZSm-000110.jpg",
+    "originalImageArticleUrl": "https://www.provideocoalition.com/avid-media-composer-2026-8-will-bring-changes-to-third-party-storage/",
+    "displayDate": "2026-08-20"
+  },
+  "TV": {
+    "title": "「長時間テレビ視聴」が脳に与える影響とは？",
+    "summary": "CareNet.comの最新記事によると、テレビを長時間視聴する習慣と脳の萎縮（認知機能の低下リスク）との間に関連性があることが示唆されました。日常生活における受動的な娯楽の過ごし方が、将来的な健康にどう影響するかを議論するきっかけになります。",
+    "insight": "エンジニアとしては、長時間のディスプレイ視聴が当たり前の環境にいるため、デジタルデバイスとの適切な距離感を見直す良い機会です。ブルーライトや座りっぱなしのリスク管理と同様に、脳の休息と認知負荷についても意識的に設計することが重要です。",
+    "sourceUrl": "https://www.carenet.com/news/general/hdn/63357",
+    "sourceName": "CareNet.com",
+    "originalImageUrl": "https://www.carenet.com/files/news/20260803184455-1.jpg",
+    "originalImageArticleUrl": "https://www.carenet.com/news/general/hdn/63357",
+    "displayDate": "2026-08-20"
+  },
+  "LED Wall Display": {
+    "title": "大型ディスプレイ選定の新基準：環境と光の物理学",
+    "summary": "100インチを超える大型ディスプレイ導入において、予算以上に「周辺光」と「壁面の形状」という物理的要因を考慮すべきだとする考察。単なるスペック比較から、設置環境に最適化された技術選定へとシフトする必要性が説かれています。",
+    "insight": "エンジニア視点では、ディスプレイの輝度性能だけでなく、環境光の反射特性や空間ジオメトリを計算に入れた光学的設計が不可欠です。画質はデバイス単体の性能ではなく、設置空間との相互作用によって決定されるという視点は、高度な映像システム構築において重要です。",
+    "sourceUrl": "https://www.digitalsignagetoday.com/blogs/the-importance-of-ambient-light-for-large-format-displays/",
+    "sourceName": "Digital Signage Today",
+    "originalImageUrl": "https://nmgprod.s3.amazonaws.com/media/file/68/80/bf731b118cb7e3d518c63d304866/cover_image__sn6C9TpB__Amped_cover_photo.png.360x190_q85_crop_upscale.webp",
+    "originalImageArticleUrl": "https://www.digitalsignagetoday.com/blogs/the-importance-of-ambient-light-for-large-format-displays/",
+    "displayDate": "2026-08-20"
+  },
+  "Camera Control": {
+    "title": "16年前のデジカメで『DOOM』が動く？",
+    "summary": "2010年発売のキヤノンEOS 550Dにて、カスタムファームウェア「Magic Lantern」を導入し、名作ゲーム『DOOM』をプレイすることに成功したというニュース。ハードウェアのハック事例として注目されています。",
+    "insight": "レガシーデバイスのメモリや処理能力を最大限に引き出すファームウェア改変は、エンジニアリングにおける好奇心の象徴です。組込みシステムにおけるリソース制限下での最適化や、非公式な拡張がどれほどの可能性を秘めているかを再認識させられます。",
+    "sourceUrl": "https://petapixel.com/2026/08/19/you-can-play-doom-on-a-16-year-old-canon-dslr/",
+    "sourceName": "PetaPixel",
+    "originalImageUrl": "https://petapixel.com/assets/uploads/2026/08/doom-canon-550d-featured.jpg",
+    "originalImageArticleUrl": "https://petapixel.com/2026/08/19/you-can-play-doom-on-a-16-year-old-canon-dslr/",
+    "displayDate": "2026-08-20"
+  }
+}
