@@ -1,0 +1,102 @@
+{
+  "AI": {
+    "title": "「AIスロップ」に終止符？巨大テックが品質重視へ転換",
+    "summary": "AI生成された低品質なコンテンツ（AIスロップ）がネットに溢れる現状に対し、Googleなどの大手テック企業が対策を強化しています。ユーザー体験の悪化を防ぐため、量より質を重視する姿勢へと転換しつつあります。",
+    "insight": "AIモデルの乱用による質の低下は、エンジニアリングにおける検索精度やデータセットの信頼性に直結します。今後は生成AIをどう活用するかだけでなく、生成物の品質管理や信頼性検証を自動化するパイプラインの構築が、技術的優位性を左右する重要なテーマとなるでしょう。",
+    "sourceUrl": "https://www.nytimes.com/2026/08/17/technology/ai-slop.html",
+    "sourceName": "The New York Times",
+    "originalImageUrl": null,
+    "originalImageArticleUrl": "https://www.nytimes.com/2026/08/17/technology/ai-slop.html",
+    "displayDate": "2026-08-22"
+  },
+  "SRD / XR": {
+    "title": "3DoF対応ARグラス「RayNeo GT Max」登場",
+    "summary": "RayNeoから3DoF（3自由度）に対応したARグラス「RayNeo GT Max」が9月4日に発売。フルHD解像度、120Hzのリフレッシュレート、59度の視野角を実現しており、没入感のある映像体験が手軽に楽しめるようになります。",
+    "insight": "3DoF対応はARグラスの定着に向けた重要な一歩で、コンテンツ消費体験が大きく向上します。Web開発者やアプリエンジニアは、こうしたデバイスの普及を見据えた空間UI/UXデザインの設計が今後重要になるでしょう。",
+    "sourceUrl": "https://news.yahoo.co.jp/articles/b38939069f5119262196e48e341c9055011c0468/images/000",
+    "sourceName": "Yahoo!ニュース",
+    "originalImageUrl": "https://news-pctr.c.yimg.jp/uUzvQ3lML_bkIqyakc1vFhNrRI0RUQxg5aFkrX0xDg1_T0wXrbEJjtNGtrf1o9y3h9uiCojScY7SLYgxmEygY6k9jej4dp5-3_W1fsTsC-NZdY47joB5dBWJCueo8TYVuPajgbqIVaYfz7HfY7K3gCzxyg5D4V-2Nuu2QYmQrSpvEs-1i3sdv4kbooh7oYwe",
+    "originalImageArticleUrl": "https://news.yahoo.co.jp/articles/b38939069f5119262196e48e341c9055011c0468/images/000",
+    "displayDate": "2026-08-22"
+  },
+  "Camera Control": {
+    "title": "2000mmの超望遠をポケットに：AI野生動物追尾カメラの衝撃",
+    "summary": "50倍ハイブリッドズームと300種以上の野鳥を識別するAIトラッキングを搭載した小型カメラ「RocXZoom」が話題です。重装備なしで超望遠撮影を可能にするモバイルカメラの進化が注目されています。",
+    "insight": "AI推論をエッジデバイスに最適化し、小型ボディでリアルタイムな物体追尾を実現する技術的アプローチが鍵です。光学設計とAI処理を高度に融合させた、カメラ制御における次世代のモビリティと自動化の実装例として興味深いトピックです。",
+    "sourceUrl": "https://www.dpreview.com/articles/this-pocket-sized-camera-zooms-to-2000mm-and-tracks-wildlife-on-its-own/",
+    "sourceName": "DPReview",
+    "originalImageUrl": "https://www.dpreview.com/wp-content/uploads/2026/08/FAR-26-001-FTE-AUG-lead.jpg",
+    "originalImageArticleUrl": "https://www.dpreview.com/articles/this-pocket-sized-camera-zooms-to-2000mm-and-tracks-wildlife-on-its-own/",
+    "displayDate": "2026-08-22"
+  },
+  "Projector": {
+    "title": "Optomaがインドで4Kプロジェクター等の新製品を披露",
+    "summary": "Optoma Indiaがベンガルールにて、最新の4Kホームシネマプロジェクターおよび業務用ディスプレイ製品群を発表しました。高精細な映像体験とプロフェッショナル向けソリューションを強化する狙いです。",
+    "insight": "DLPプロジェクターにおける4K解像度の高輝度化や高コントラスト化は、ホームシアター市場の成熟を象徴しています。ディスプレイエンジニアの視点では、単なる解像度だけでなく、色再現性と設置性の両立が現在のトレンドとして注目すべきポイントです。",
+    "sourceUrl": "https://www.varindia.com/news/optoma-india-showcases-4k-home-cinema-and-professional-display-portfolio-in-bengaluru",
+    "sourceName": "varindia.com",
+    "originalImageUrl": "https://www.varindia.com/storage/news/2026/08/wqsxCO5W3VipG0ZIzeBEK6edNmhj7m0OAOJMC1mE.jpg",
+    "originalImageArticleUrl": "https://www.varindia.com/news/optoma-india-showcases-4k-home-cinema-and-professional-display-portfolio-in-bengaluru",
+    "displayDate": "2026-08-22"
+  },
+  "SONY": {
+    "title": "ソニーがToFセンサーを来年量産へ、スマホ3D化が加速",
+    "summary": "日刊工業新聞によると、ソニーがスマートフォン向けToF（Time of Flight）センサーの量産を来年開始する見通しです。スマホの3Dカメラ機能の普及を後押しし、XRや空間コンピューティング領域でのセンサー活用がより現実味を帯びてきました。",
+    "insight": "ToFセンサーの量産は、モバイルデバイスにおける深度情報の高精度化とリアルタイム処理能力の向上を意味します。エンジニアにとっては、モバイルAR/VRアプリ開発における空間マッピングやハンドトラッキングの精度の飛躍的な向上が期待できる注目技術です。",
+    "sourceUrl": "https://www.nikkan.co.jp/articles/view/501344?gnr_footer=16611",
+    "sourceName": "日刊工業新聞",
+    "originalImageUrl": null,
+    "originalImageArticleUrl": "https://www.nikkan.co.jp/articles/view/501344?gnr_footer=16611",
+    "displayDate": "2026-08-22"
+  },
+  "TCL": {
+    "title": "TCLのペーパーライクタブレットが市場を席巻中",
+    "summary": "TCLはテレビのセール攻勢に加え、14.3インチのペーパーライクディスプレイを搭載したタブレット「NXTPAPER」シリーズを大幅値下げしました。iPadやGalaxy Tabと比較して、圧倒的なコストパフォーマンスで注目を集めています。",
+    "insight": "目に優しい反射防止技術（NXTPAPER）を大型ディスプレイに適用する戦略は、長時間作業を行うエンジニアにとって強力な選択肢となり得ます。ディスプレイ技術の進化が、タブレットと電子ペーパーの境界を曖昧にし、デバイスの役割を再定義しています。",
+    "sourceUrl": "https://gizmodo.com/tcl-goes-big-on-its-nxtpaper-tablet-after-tv-deals-with-a-14-3-inch-2-4k-paper-like-display-for-far-less-than-ipad-or-galaxy-tab-2000801151",
+    "sourceName": "Gizmodo",
+    "originalImageUrl": null,
+    "originalImageArticleUrl": "https://gizmodo.com/tcl-goes-big-on-its-nxtpaper-tablet-after-tv-deals-with-a-14-3-inch-2-4k-paper-like-display-for-far-less-than-ipad-or-galaxy-tab-2000801151",
+    "displayDate": "2026-08-22"
+  },
+  "TV": {
+    "title": "ハイセンスの次世代MiniLED TV、2026年モデルが早くも登場",
+    "summary": "Hisenseが2026年モデルとなる「E8S ULED MiniLED TV」シリーズを発表しました。Amazonでの限定ローンチセールも実施されており、最新のディスプレイ技術を採用したモデルが市場に投入されています。",
+    "insight": "MiniLED技術は、従来のLCDの欠点を補う高コントラストと高輝度を実現しており、エンジニアとしてはバックライト制御のアルゴリズムやローカルディミングの精度向上が体験価値にどう影響しているか注目です。特に家庭用大画面での高リフレッシュレート対応が標準化する中、コンシューマー向けディスプレイの進化速度は今後も注視が必要です。",
+    "sourceUrl": "https://menafn.com/1111572193/Hisense-Unveils-2026-E8S-ULED-Miniled-TV-Models-With-Exclusive-Amazon-Launch-Deals",
+    "sourceName": "Menafn",
+    "originalImageUrl": "https://menafn.com/updates/pr/2026-08/21/MI_e699eimage_story.jpg",
+    "originalImageArticleUrl": "https://menafn.com/1111572193/Hisense-Unveils-2026-E8S-ULED-Miniled-TV-Models-With-Exclusive-Amazon-Launch-Deals",
+    "displayDate": "2026-08-22"
+  },
+  "LED Wall Display": {
+    "title": "Absenの可変透過LED：ステージ演出の新潮流",
+    "summary": "Absenが発表した「LR V3シリーズ」は、ツアーやフェス等の大規模イベント向け次世代LEDディスプレイです。最大の特徴は、アダプティブ・ルーバーにより透明とソリッドな映像表現をワンタッチで切り替え可能な点です。これにより、ライブステージ演出の自由度が飛躍的に向上します。",
+    "insight": "物理的なルーバー構造による透過率の可変制御は、透過型と非透過型の長所を統合した革新的な機構です。制御信号による光学特性の動的な変更は、将来的にスマートグラスやヘッドマウントディスプレイ等の表示技術に応用される可能性が高い技術トレンドです。",
+    "sourceUrl": "//www.ledinside.com/news/2026/8/2026_08_21_05",
+    "sourceName": "LEDinside",
+    "originalImageUrl": null,
+    "originalImageArticleUrl": "//www.ledinside.com/news/2026/8/2026_08_21_05",
+    "displayDate": "2026-08-22"
+  },
+  "Production Monitor": {
+    "title": "Seedance 2.5：映像生成AIの進化とプロンプト技術",
+    "summary": "映像業界で急速に進化する生成AIプラットフォーム「Higgsfield AI」の最新モデル「Seedance 2.5」が検証されました。ByteDance社が開発したこのモデルを駆使し、CinematographerのDrew Geraci氏が高度なプロンプトを用いた映像制作の手法を解説しています。",
+    "insight": "AIモデルの進化に伴い、生成AIを実用的なワークフローに統合するプロンプトエンジニアリングの重要性が増しています。モデルの特性を理解し、特定の文脈に応じたパラメータ制御を行うことは、映像制作だけでなく、マルチモーダルAIを活用するあらゆるエンジニアリング領域で不可欠なスキルとなるでしょう。",
+    "sourceUrl": "https://www.cined.com/testing-seedance-2-5-with-elaborate-prompting-new-module-in-directing-the-future-ethical-ai-video-for-filmmakers/",
+    "sourceName": "CineD",
+    "originalImageUrl": "https://www.cined.com/content/uploads/2026/08/testing_higgsfield_new_lesson-feature_image-300x169.jpg",
+    "originalImageArticleUrl": "https://www.cined.com/testing-seedance-2-5-with-elaborate-prompting-new-module-in-directing-the-future-ethical-ai-video-for-filmmakers/",
+    "displayDate": "2026-08-22"
+  },
+  "Gaming Monitor": {
+    "title": "27インチの240Hz OLEDモニターが約4万円に、価格破壊が進行中",
+    "summary": "ASRockの27インチ240Hz OLEDゲーミングモニターが、Newegg経由のAliExpressにて279ドル（約4万円）まで値下げされました。高リフレッシュレートかつ応答速度に優れた有機ELパネルが、エントリークラスの価格帯まで急落しています。",
+    "insight": "OLEDパネルの低価格化は、開発環境における高フレームレート表示や残像感のないUI作業の快適性を向上させる良い機会です。ただし、長時間の静止画表示による焼き付きリスクがあるため、業務用途での導入時はタスクバーの自動非表示など、ソフトウェア側での対策を併せて検討すべきです。",
+    "sourceUrl": "https://www.ign.com/articles/asrock-phantom-oled-gaming-monitor-deal",
+    "sourceName": "IGN",
+    "originalImageUrl": "https://assets-prd.ignimgs.com/2026/08/21/asrockoled-1787341565462.jpg?width=1280&format=jpg&auto=webp&quality=80",
+    "originalImageArticleUrl": "https://www.ign.com/articles/asrock-phantom-oled-gaming-monitor-deal",
+    "displayDate": "2026-08-22"
+  }
+}
