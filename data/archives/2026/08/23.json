@@ -1,0 +1,102 @@
+{
+  "SRD / XR": {
+    "title": "実家を丸ごと記録するVR「家じまい」サービス",
+    "summary": "見慣れた実家の風景をVRで記録し、後世に残す「家じまい」の新しいサービスが北海道で展開されています。家屋の取り壊しや転居を前に、思い出の場所をデジタル空間に保存することで、心理的な負担を軽減しつつ記憶を継承する試みです。",
+    "insight": "デジタルツインを個人の生活空間に応用する実用的なユースケースです。点群データや360度撮影の技術をいかに低コストで高精度に実装し、遺族の感情的価値を最大化できるかが技術的な差別化要因になります。",
+    "sourceUrl": "https://news.yahoo.co.jp/articles/34bdd3c5b8fda2dbe24a8f1e88ef330ba8af5659/images/006",
+    "sourceName": "Yahoo!ニュース",
+    "originalImageUrl": "https://news-pctr.c.yimg.jp/uUzvQ3lML_bkIqyakc1vFhNrRI0RUQxg5aFkrX0xDg1_T0wXrbEJjtNGtrf1o9y3h9uiCojScY7SLYgxmEygY8QeQySzxuKxQ2YQGjb1ZQCB-2JAxF4rpEuV6LojnqpS-nC5q6GpHfLEh6eGrpkvj_rrLLojSr0P4oE_56yGYU13whPQmk2VxfAq4x7bIB_5wkOLOoXsOo1-77viESswcg==",
+    "originalImageArticleUrl": "https://news.yahoo.co.jp/articles/34bdd3c5b8fda2dbe24a8f1e88ef330ba8af5659/images/006",
+    "displayDate": "2026-08-23"
+  },
+  "AI": {
+    "title": "「AIスロップ」への反発と企業の責務",
+    "summary": "近年、AIが生成した低品質なコンテンツ（AIスロップ）がネット上に溢れ、ユーザーの不信感が高まっています。企業がAI生成物をマーケティングに利用する際、AI使用の有無だけでなく、製品への愛やブランドの誠実さが問われる転換点に来ています。",
+    "insight": "AI生成物の効率性だけでなく、コンテンツの文脈や品質管理がブランド価値に直結する時代になりました。エンジニアとしては、生成AIの出力に対して人間による徹底した検閲（Human-in-the-loop）や、品質を維持するガバナンス体制をシステムにどう組み込むかが重要です。",
+    "sourceUrl": "https://wired.jp/article/the-ai-slop-backlash-is-actually-having-an-impact/",
+    "sourceName": "WIRED.jp",
+    "originalImageUrl": "https://media.wired.jp/photos/6a7ec023f6c841046f42c9ae/16:9/w_1280,c_limit/AI%20Slop.jpg",
+    "originalImageArticleUrl": "https://wired.jp/article/the-ai-slop-backlash-is-actually-having-an-impact/",
+    "displayDate": "2026-08-23"
+  },
+  "SONY": {
+    "title": "ソニー「α7 V」国内販売ランキング4連覇を達成",
+    "summary": "ヨドバシカメラの最新販売ランキングにおいて、ソニーのフルサイズミラーレス一眼カメラ「α7 V」が4週連続で首位を獲得しました。圧倒的な市場シェアを維持しており、依然として高い人気と競争力を示しています。",
+    "insight": "画像処理エンジンやAFアルゴリズムのソフトウェア実装が、ハードウェアの売れ行きに直結する典型例です。エンジニア視点では、製品の長期的なUI/UXのアップデートが市場での製品寿命をいかに拡張できるかの参考になります。",
+    "sourceUrl": "https://getnavi.jp/capa/news/504149/",
+    "sourceName": "GetNavi web",
+    "originalImageUrl": "https://getnavi.jp/capa/wps/wp-content/uploads/2026/08/260822ranking_ichigan00.jpg",
+    "originalImageArticleUrl": "https://getnavi.jp/capa/news/504149/",
+    "displayDate": "2026-08-23"
+  },
+  "TCL": {
+    "title": "ソニーとTCLの戦略的提携、背景と狙い",
+    "summary": "ソニーがテレビ事業で中国のTCLと提携を検討・発表していることが話題です。世界シェア2位の製造力を持つTCLと、ブランド力・技術力を持つソニーが組むことで、競争が激化するテレビ市場でのコスト競争力強化やサプライチェーンの再編が狙いと見られています。",
+    "insight": "家電大手メーカーが垂直統合から水平分業へ舵を切る典型的な事例です。ハードウェア製造の外部委託によるコスト効率化と、独自の映像処理エンジンやブランド体験への注力という、大手企業の生き残り戦略の構造を理解する良い題材となります。",
+    "sourceUrl": "https://www.excite.co.jp/news/article/FNN_1464017101363118290/",
+    "sourceName": "Excite エキサイト",
+    "originalImageUrl": null,
+    "originalImageArticleUrl": "https://www.excite.co.jp/news/article/FNN_1464017101363118290/",
+    "displayDate": "2026-08-23"
+  },
+  "Gaming Monitor": {
+    "title": "480Hz OLEDゲーミングモニターが歴史的安値に",
+    "summary": "LGの480Hz対応27インチOLEDゲーミングモニター（27GX790A-B）が、Amazonにて53%OFF（532ドル引き）という過去最大級の割引を記録しました。超高速リフレッシュレートとOLEDの応答速度を両立したハイエンドモデルが、大幅に手が届きやすい価格となっています。",
+    "insight": "480Hzの超高リフレッシュレートは、コンマ数ミリ秒を争う競技シーンにおけるエンジニア視点での描画遅延検証にも有用なスペックです。OLEDの焼き付き耐性やパネル寿命の技術進化が、一般ユーザーの手の届く価格帯まで降りてきたことは、ディスプレイ技術の転換点と言えるでしょう。",
+    "sourceUrl": "https://www.tomshardware.com/monitors/gaming-monitors/save-usd532-on-a-480-hz-oled-gaming-monitor-amazon-drops-a-massive-53-percent-discount-on-the-lg-ultragear-27gx790a-b",
+    "sourceName": "Tom's Hardware",
+    "originalImageUrl": "https://cdn.mos.cms.futurecdn.net/DbgBTBryQJiYhsrJdKgyDF-1920-80.jpg",
+    "originalImageArticleUrl": "https://www.tomshardware.com/monitors/gaming-monitors/save-usd532-on-a-480-hz-oled-gaming-monitor-amazon-drops-a-massive-53-percent-discount-on-the-lg-ultragear-27gx790a-b",
+    "displayDate": "2026-08-23"
+  },
+  "TV": {
+    "title": "なぜOLEDテレビの多くはLG製なのか？市場支配の背景",
+    "summary": "世界中の主要ブランドが販売するOLEDテレビの多くは、実はLG Displayのパネルを採用しています。なぜこれほどまでにLGが市場で圧倒的なシェアを誇るのか、その技術的優位性と製造プロセスの背景を解説する記事です。",
+    "insight": "OLED技術における垂直統合とサプライチェーンの支配が、製品の標準化にどう影響しているかを理解するのは重要です。エンジニアの視点からは、単一サプライヤーへの依存がイノベーションとコスト競争力に与えるトレードオフの好例と言えます。",
+    "sourceUrl": "https://www.bgr.com/2238483/why-lg-makes-most-tv-oled-displays/",
+    "sourceName": "bgr.com",
+    "originalImageUrl": "https://www.bgr.com/img/gallery/your-oled-tv-screen-was-probably-made-by-lg-heres-why/l-intro-1786989738.jpg",
+    "originalImageArticleUrl": "https://www.bgr.com/2238483/why-lg-makes-most-tv-oled-displays/",
+    "displayDate": "2026-08-23"
+  },
+  "Camera Control": {
+    "title": "米ドローン規制が波及、HoverAirの販売停止か",
+    "summary": "「空飛ぶポケットカメラ」を謳うHoverAir Versaが、米国での新たなドローン規制の影響を受け、販売停止状態にあるようです。技術革新と法的規制の板挟みとなるドローン市場の現状が浮き彫りになりました。",
+    "insight": "ハードウェアエンジニアリングにおいて、製品のポータビリティを追求するほど、既存の規制枠組み（ドローン定義等）との衝突リスクが高まります。新領域の製品開発では、技術仕様だけでなく、適用される法規制の動向を早期にモデリングしておく重要性が増しています。",
+    "sourceUrl": "https://petapixel.com/2026/08/21/it-looks-like-hover-airs-flying-gimbal-camera-already-got-banned-in-the-u-s/",
+    "sourceName": "PetaPixel",
+    "originalImageUrl": "https://petapixel.com/assets/uploads/2026/08/It-Looks-Like-Hover-Airs-Flying-Gimbal-Camera-Already-Got-Banned-in-the-U.S.jpg",
+    "originalImageArticleUrl": "https://petapixel.com/2026/08/21/it-looks-like-hover-airs-flying-gimbal-camera-already-got-banned-in-the-u-s/",
+    "displayDate": "2026-08-23"
+  },
+  "Projector": {
+    "title": "XGIMI、5700lmの4K/120Hz対応USTプロジェクター発表",
+    "summary": "XGIMIから超短焦点（UST）4Kプロジェクター「AURA 3 Max」が登場。5,700ルーメンの高輝度に加え、4K/120Hzのゲーミング性能を実現しており、ホームシアター環境における大型ディスプレイ代替としてのポテンシャルが注目されています。",
+    "insight": "高輝度化とゲーミング性能の両立は、プロジェクターが単なる映像投影機からメインのディスプレイデバイスへと進化していることを示しています。低遅延技術の向上は、リビングにおける大画面ゲーム体験の可能性を大きく広げています。",
+    "sourceUrl": "https://www.ecoustics.com/products/xgimi-aura-3-max-4k-ust-projector/",
+    "sourceName": "eCoustics",
+    "originalImageUrl": "https://www.ecoustics.com/wp-content/uploads/xgimi-aura-3-max-4k-120-ust-projector.jpg",
+    "originalImageArticleUrl": "https://www.ecoustics.com/products/xgimi-aura-3-max-4k-ust-projector/",
+    "displayDate": "2026-08-23"
+  },
+  "Production Monitor": {
+    "title": "Sony Cinema Line、日本国内で最大19%の大幅値上げへ",
+    "summary": "Sonyが日本国内におけるCinema Line製品の出荷価格および希望小売価格を9月1日より改定すると発表しました。FX3が約19%、FX6が約12%の値上げとなるほか、FX30やFR7も対象です。円安や市場環境の変化を受けた価格改定であり、検討中の方は8月末までの決断が求められます。",
+    "insight": "ハードウェア製品の価格改定は、エンジニアの機材調達計画や予算策定に直接的な影響を与える重要なイベントです。グローバル製品の現地価格が調整される際、為替ヘッジや調達のタイミングを考慮する「インフラとしての経済的視点」を改めて確認しましょう。",
+    "sourceUrl": "https://www.cined.com/sony-raises-cinema-line-prices-in-japan-fx3-jumps-19-fx6-fx30-and-fr7-also-affected/",
+    "sourceName": "CineD",
+    "originalImageUrl": "https://www.cined.com/content/uploads/2026/08/Sony-price-jump-Japan-300x169.jpg",
+    "originalImageArticleUrl": "https://www.cined.com/sony-raises-cinema-line-prices-in-japan-fx3-jumps-19-fx6-fx30-and-fr7-also-affected/",
+    "displayDate": "2026-08-23"
+  },
+  "LED Wall Display": {
+    "title": "ラスベガスWynn「Awakening」終了：LED演出の次なる進化",
+    "summary": "ラスベガスのWynnホテルで長年親しまれた没入型プロダクション「Awakening」が終了します。同施設は巨大なLEDウォールを活用した視覚演出で知られており、この終了は次世代のエンターテインメント・テクノロジーへの転換点として注目されています。",
+    "insight": "巨大LEDウォールを用いた空間演出では、ハードウェアの寿命とコンテンツの陳腐化をどう管理するかがエンジニアリング上の課題です。今後は高リフレッシュレートと輝度だけでなく、AIを用いたリアルタイム・レンダリングによる双方向の演出が次世代シアターの鍵となるでしょう。",
+    "sourceUrl": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOR3Y3eGRVSkltcU80LWg5Z2JleFpNUVBGRW1HZl9sQWd3VlF3OHYzbGxjQnl1NjhkMDJPcHJhUDFPZ1BBeTlKU0RfUll3UElCUmdEdjN1UVFZYkpXeUEycXpXMnplRXZfSUYxOUhaY0l5OHQzR2o4VGMxMXZvUDJhTWFlcUh0X3pFWEhHZERGclRtbHc?oc=5",
+    "sourceName": "ktnv.com",
+    "originalImageUrl": null,
+    "originalImageArticleUrl": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOR3Y3eGRVSkltcU80LWg5Z2JleFpNUVBGRW1HZl9sQWd3VlF3OHYzbGxjQnl1NjhkMDJPcHJhUDFPZ1BBeTlKU0RfUll3UElCUmdEdjN1UVFZYkpXeUEycXpXMnplRXZfSUYxOUhaY0l5OHQzR2o4VGMxMXZvUDJhTWFlcUh0X3pFWEhHZERGclRtbHc?oc=5",
+    "displayDate": "2026-08-23"
+  }
+}
