@@ -1,0 +1,102 @@
+{
+  "SRD / XR": {
+    "title": "PICOの次世代XRヘッドセットが9月3日に発表へ",
+    "summary": "PICOが9月3日に次世代となるXRヘッドセットを発表することが明らかになりました。MetaのQuestシリーズに対抗する有力な選択肢として、ハードウェアの進化とプラットフォームの動向に注目が集まっています。",
+    "insight": "コンシューマー向けXR市場は現在、スタンドアロン型デバイスの性能競争が激化しています。エンジニアとしては、次世代機の解像度やパススルー性能だけでなく、新たなSDKが提供する空間コンピューティング機能の拡充に注視すべきでしょう。",
+    "sourceUrl": "https://news.yahoo.co.jp/articles/18141dfebad97a670a2a1d6d9e425fe5cc8f9175/images/000",
+    "sourceName": "Yahoo!ニュース",
+    "originalImageUrl": "https://news-pctr.c.yimg.jp/uUzvQ3lML_bkIqyakc1vFhNrRI0RUQxg5aFkrX0xDg1_T0wXrbEJjtNGtrf1o9y3h9uiCojScY7SLYgxmEygY8yGqJwFGO0LNwWP89TkkZFu_fvRWayxqjjXMj3014oIuBYbqC0xLMsMy3I0ERPPBInDchlDuXKMOXQp_LKewIgvftB1cwCEi632Ql2e2prH",
+    "originalImageArticleUrl": "https://news.yahoo.co.jp/articles/18141dfebad97a670a2a1d6d9e425fe5cc8f9175/images/000",
+    "displayDate": "2026-08-25"
+  },
+  "AI": {
+    "title": "自律型AI兵器の脅威：現代の技術倫理と安全保障",
+    "summary": "AIが完全に自律制御するドローンが実戦で使用され、死傷者が出たという報告がなされました。従来の遠隔操作型とは異なり、ターゲットの選定から攻撃判断までをAIが行うこの技術は、戦争のあり方とAIの安全な利用という観点から国際的な議論を呼んでいます。",
+    "insight": "エンジニアとしては、自律型システムにおける「ヒューマン・イン・ザ・ループ（人間が介入する仕組み）」の設計と、予期せぬ挙動を制御するフェイルセーフの重要性が極めて高まっています。AIモデルが倫理的境界を超えないためのガードレール実装や、自律的判断の透明性確保は、今後避けて通れない技術的課題です。",
+    "sourceUrl": "https://www.nytimes.com/2026/08/24/world/europe/russia-drones-autonomous-ai-kill-ukraine-war.html",
+    "sourceName": "The New York Times",
+    "originalImageUrl": null,
+    "originalImageArticleUrl": "https://www.nytimes.com/2026/08/24/world/europe/russia-drones-autonomous-ai-kill-ukraine-war.html",
+    "displayDate": "2026-08-25"
+  },
+  "Gaming Monitor": {
+    "title": "AOCから第3世代QD-OLED搭載ゲーミングモニターが登場",
+    "summary": "AOCのG4シリーズに、第3世代QD-OLEDパネルを採用した27インチゲーミングモニター「Q27G4ZDRAD」が追加されました。価格は469ユーロで、高性能な有機ELディスプレイがより手の届きやすい価格帯で展開されています。",
+    "insight": "最新の第3世代QD-OLEDパネルの採用は、応答速度と色再現性のバランスを重視するエンジニアにとって注目すべき進化です。高リフレッシュレート環境下での残像低減技術がコモディティ化しつつあるため、デバイス選定の基準が画質品質の最適化へとシフトしています。",
+    "sourceUrl": "https://www.techtimes.com/articles/325382/20260824/aoc-q27g4zdrad-completes-g4-lineup-gen-3-qd-oled-gaming-monitor-469-euros.htm",
+    "sourceName": "Tech Times",
+    "originalImageUrl": "https://d.techtimes.com/en/full/473557/q27g4zdrad.png",
+    "originalImageArticleUrl": "https://www.techtimes.com/articles/325382/20260824/aoc-q27g4zdrad-completes-g4-lineup-gen-3-qd-oled-gaming-monitor-469-euros.htm",
+    "displayDate": "2026-08-25"
+  },
+  "SONY": {
+    "title": "ソニーが圧倒！世界イメージセンサー市場の独走態勢",
+    "summary": "ソニーが世界のイメージセンサー市場で圧倒的なシェアを保持し、業界を支配していることが改めて注目されています。高付加価値な積層型センサー技術などで競合を大きく引き離しており、スマホ向けカメラから産業用途まで、その存在感は揺るぎないものとなっています。",
+    "insight": "モバイル向けイメージセンサーの技術動向は、単なる画素数競争から、低照度性能や演算処理能力と連動した「システム・オン・チップ」的な役割へとシフトしています。エンジニアとしては、ソニーが確立した製造プロセスにおける歩留まりと設計ノウハウが、AI・自動運転市場でいかに再利用されるかに注目すべきです。",
+    "sourceUrl": "https://petapixel.com/2026/08/24/sony-is-utterly-dominating-the-global-image-sensor-market/",
+    "sourceName": "PetaPixel",
+    "originalImageUrl": "https://petapixel.com/assets/uploads/2026/08/sony-q1fy2026-featured.jpg",
+    "originalImageArticleUrl": "https://petapixel.com/2026/08/24/sony-is-utterly-dominating-the-global-image-sensor-market/",
+    "displayDate": "2026-08-25"
+  },
+  "Projector": {
+    "title": "4K解像度は万能か？プロジェクター選定の教訓",
+    "summary": "近年のプロジェクター市場では4K対応が一般的ですが、最新のテック系記事では「4K解像度だけが画質を決定するわけではない」という視点が注目されています。スペック数値に惑わされず、コントラスト比や輝度、投写環境を考慮することの重要性が改めて議論されています。",
+    "insight": "エンジニアとしては、マーケティング上の「高解像度」という数値目標が、必ずしもUX向上（映画体験の質）に直結しないという視点を持つべきです。ハードウェア選定において、ベンチマーク上の単一指標ではなく、システム全体のコンテキストを考慮した設計判断の重要性を再認識させられます。",
+    "sourceUrl": "https://www.hindustantimes.com/technology/i-used-a-4k-projector-for-weeks-and-realised-the-resolution-is-not-everything-101787562393973.html",
+    "sourceName": "Hindustan Times",
+    "originalImageUrl": "https://www.hindustantimes.com/ht-img/img/2026/08/24/1600x900/logo/projector_compact_1787562793788_1787562855327_e07075c6-2330-4d60-a7d8-68267cd5c8e4.jpg",
+    "originalImageArticleUrl": "https://www.hindustantimes.com/technology/i-used-a-4k-projector-for-weeks-and-realised-the-resolution-is-not-everything-101787562393973.html",
+    "displayDate": "2026-08-25"
+  },
+  "TV": {
+    "title": "「過料」でもなぜ路上喫煙は減らない？行動分析の視点",
+    "summary": "大阪市で実施された近大生の調査により、路上喫煙の禁止や過料（1000円）の導入後もポイ捨てが減らない実態が明らかに。喫煙所の数だけでなく、規模や清掃状況といった環境整備が利用者の行動にどう影響するかが鍵となっています。",
+    "insight": "このニュースは、罰則による抑止力には限界があり、行動変容には「UX（利用しやすさ）」の最適化が不可欠であることを示唆しています。エンジニアにとっても、システムの強制的な制約より、ユーザーが自然と適切な行動をとれる環境設計が重要であるという学びが得られます。",
+    "sourceUrl": "https://www.ktv.jp/news/articles/?id=29121",
+    "sourceName": "ktv.jp",
+    "originalImageUrl": "https://www.ktv.jp/news/data/images/29121_00.jpg",
+    "originalImageArticleUrl": "https://www.ktv.jp/news/articles/?id=29121",
+    "displayDate": "2026-08-25"
+  },
+  "Camera Control": {
+    "title": "Metabonesの新型アダプターがもたらすAF性能の飛躍",
+    "summary": "MetabonesがEF-X Speed BoosterおよびSmart Adapterを刷新。新設計により、従来のアダプターでは到達できなかったレベルの高速・高精度なオートフォーカス性能を実現したと発表しました。長期間の沈黙を破り、再び市場に革新をもたらそうとしています。",
+    "insight": "レガシーレンズを現行ミラーレスカメラで活用する際、プロトコル変換によるAF速度は最大のボトルネックであり、この性能向上の背景には制御プロトコルの最適化や通信レートの改善が予想されます。ハードウェア設計だけでなく、ファームウェアによる通信レイテンシの極限までの低減は、組み込みエンジニアにとっても興味深い技術課題です。",
+    "sourceUrl": "https://petapixel.com/2026/08/24/metabones-says-its-new-ef-x-adapters-deliver-autofocus-performance-never-seen-before/",
+    "sourceName": "PetaPixel",
+    "originalImageUrl": "https://petapixel.com/assets/uploads/2026/08/metabones-speedbooster-ef-x-featured.jpg",
+    "originalImageArticleUrl": "https://petapixel.com/2026/08/24/metabones-says-its-new-ef-x-adapters-deliver-autofocus-performance-never-seen-before/",
+    "displayDate": "2026-08-25"
+  },
+  "TCL": {
+    "title": "TCLが太陽光発電事業のスピンオフを検討",
+    "summary": "家電大手であるTCLが、傘下の太陽光発電（PV）事業を分社化・スピンオフすることを検討していることが明らかになりました。ディスプレイおよびテレビ市場で強みを持つ同社が、再生可能エネルギー部門の独立により資本効率の最適化と専門性の強化を図る狙いと見られます。",
+    "insight": "家電メーカーがハードウェア製造の枠を超え、エネルギー事業を切り出して別会社化する動きは、組織のスリム化と投資家へのアピールとして興味深い戦略です。エンジニアの視点では、単なる製品開発から、エネルギー管理システムやインフラ技術へのリソース配分がどう変化するか注目すべき点です。",
+    "sourceUrl": "https://www.marketscreener.com/news/tv-maker-tcl-mulls-spinning-off-photovoltaic-business-ce7858dbdc89f72d",
+    "sourceName": "marketscreener.com",
+    "originalImageUrl": "https://www.marketscreener.com/images/twitter_MS_fdnoir.png",
+    "originalImageArticleUrl": "https://www.marketscreener.com/news/tv-maker-tcl-mulls-spinning-off-photovoltaic-business-ce7858dbdc89f72d",
+    "displayDate": "2026-08-25"
+  },
+  "Production Monitor": {
+    "title": "MetabonesのTruePDAF対応が示すAF技術の進化",
+    "summary": "MetabonesがEF-富士フイルムX用アダプターのファームウェア1.70を公開し、新機能「TruePDAF」を導入しました。これは搭載レンズや使用履歴からAF挙動を学習するもので、動画撮影時やコンティニュアスAF（AF-C）の精度が大幅に向上しています。ハードウェア側のプロファイル蓄積とソフトウェアによる最適化の組み合わせが注目されています。",
+    "insight": "レガシーなレンズマウントを最新のAF技術に適合させる「プロファイルベースの適応型制御」は、ハードウェアの延命において非常に興味深いアプローチです。単なる変換ではなく、センサーとレンズの相関データを学習させることで実用的なパフォーマンスを引き出す点は、レガシーシステムの現代的な最適化事例としてエンジニアリングの参考になります。",
+    "sourceUrl": "https://www.cined.com/metabones-speed-booster-ultra-ii-and-smart-adapter-ii-announced-with-truepdaf/",
+    "sourceName": "CineD",
+    "originalImageUrl": "https://www.cined.com/content/uploads/2026/08/Metabones-speed-booster-feature-1-300x169.jpg",
+    "originalImageArticleUrl": "https://www.cined.com/metabones-speed-booster-ultra-ii-and-smart-adapter-ii-announced-with-truepdaf/",
+    "displayDate": "2026-08-25"
+  },
+  "LED Wall Display": {
+    "title": "バーチャルプロダクションの進化：Brompton HydraによるLED制御",
+    "summary": "SP Studiosにて、Red Rock OPSがBrompton Hydraシステムを採用し、LEDバーチャルプロダクション環境を大幅に刷新しました。この技術は高精度の測定とキャリブレーションを可能にし、よりリアルな映像制作を実現します。",
+    "insight": "LEDの画質管理には、パネル個体差を解消する高度なキャリブレーションと色精度が不可欠です。映像制作エンジンとLEDウォールの同期技術は今後、撮影現場のワークフローにおいてエンジニアが注視すべき重要な領域となります。",
+    "sourceUrl": "https://www.livedesignonline.com/news/red-rock-ops-uses-brompton-hydra-transform-led-virtual-production-stage-sp-studios",
+    "sourceName": "Live Design Online",
+    "originalImageUrl": "https://qtxasset.com/quartz/qcloud4/media/image/red_rock_ops_hydra_calibration_sp_studios_4.png?VersionId=CI0ObRx5dEq610.8b3ljC.mEGADFykbv",
+    "originalImageArticleUrl": "https://www.livedesignonline.com/news/red-rock-ops-uses-brompton-hydra-transform-led-virtual-production-stage-sp-studios",
+    "displayDate": "2026-08-25"
+  }
+}
