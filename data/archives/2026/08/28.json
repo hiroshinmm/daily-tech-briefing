@@ -1,0 +1,102 @@
+{
+  "SRD / XR": {
+    "title": "XRホラー『迷界デパート』が全国展開へ",
+    "summary": "大丸東京店で約6,000人を動員したXRホラーイベント『迷界デパート』が、商業施設向けパッケージとして全国展開を開始。9月からは中野や福岡でも開催が決定しており、実店舗とXR技術を掛け合わせた集客モデルとして注目されています。",
+    "insight": "商業施設でのXR導入は、体験型コンテンツによる滞在時間向上と集客のパッケージ化が重要です。実装面では、省スペースで運用可能なハードウェア構成や、不特定多数が入れ替わる環境下でのUXデザイン設計がエンジニアの腕の見せ所となります。",
+    "sourceUrl": "https://prtimes.jp/main/html/rd/p/000000083.000110387.html",
+    "sourceName": "PR TIMES",
+    "originalImageUrl": "https://prcdn.freetls.fastly.net/release_image/110387/83/110387-83-7168a7a696737a555259a6c86b145ad5-3900x2194.png?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+    "originalImageArticleUrl": "https://prtimes.jp/main/html/rd/p/000000083.000110387.html",
+    "displayDate": "2026-08-28"
+  },
+  "AI": {
+    "title": "NvidiaがAIクラウド企業への収益配分を一部停止",
+    "summary": "WSJの報道によると、Nvidiaが一部のAIクラウド企業に対して行っていた収益配分や信用支援を一時停止しました。AIエコシステムの収益モデルの持続可能性や市場の過熱感に対する調整局面が示唆されています。",
+    "insight": "AIインフラ市場において、Nvidiaのようなハードウェア支配者がクラウドプロバイダーの経済圏をコントロールし始めている点は要注意です。ソフトウェアエンジニアとしては、特定のクラウドやインフラへの依存度を再評価し、特定のプラットフォームにロックインされないポータブルなAIスタックの構築が重要になります。",
+    "sourceUrl": "https://www.wsj.com/tech/nvidia-pauses-revenue-sharing-deals-with-ai-cloud-companies-9c71454e",
+    "sourceName": "WSJ",
+    "originalImageUrl": null,
+    "originalImageArticleUrl": "https://www.wsj.com/tech/nvidia-pauses-revenue-sharing-deals-with-ai-cloud-companies-9c71454e",
+    "displayDate": "2026-08-28"
+  },
+  "TCL": {
+    "title": "TCLテクノロジー、CSOT半導体へ93億元の出資を完了",
+    "summary": "TCLテクノロジーは、傘下のディスプレイ大手CSOT（華星光電）の半導体部門に対し、約93億元（約1,900億円規模）の出資を行い、45%の株式を取得したことを発表しました。これにより、同社の半導体分野における戦略的投資が加速します。",
+    "insight": "ディスプレイパネルメーカーが自社で半導体部門を強化する動きは、ドライバICや制御プロセッサの垂直統合を加速させる重要な戦略です。ハードウェアと半導体の自社開発・製造能力の融合は、次世代ディスプレイの高付加価値化に向けた差別化要因となりそうです。",
+    "sourceUrl": "https://www.moomoo.com/news/post/75434124/tcl-technology-completes-45-stake-in-guangzhou-csot-semiconductor-for",
+    "sourceName": "Moomoo",
+    "originalImageUrl": "https://pubimg.futunn.com/2022050900000228c62231b363e.jpg",
+    "originalImageArticleUrl": "https://www.moomoo.com/news/post/75434124/tcl-technology-completes-45-stake-in-guangzhou-csot-semiconductor-for",
+    "displayDate": "2026-08-28"
+  },
+  "SONY": {
+    "title": "ソニー、2026年後半に新型カメラ3機種を発表か",
+    "summary": "ソニーが2026年後半に3つの新型カメラを発表するとの速報が報じられました。詳細は不明ですが、市場では次世代機に対する期待が高まっています。",
+    "insight": "カメラ製品のセンサー技術や画像処理エンジンは、組み込みAIや高度なISP（画像信号処理）の最前線です。ハードウェア設計だけでなく、AIによるオートフォーカスや動画解析アルゴリズムがどのように進化しているのか、エンジニア視点で注目すべきポイントです。",
+    "sourceUrl": "https://mshale.com/c8ea52f7/908fc720eNDvV-BjRM",
+    "sourceName": "Mshale",
+    "originalImageUrl": null,
+    "originalImageArticleUrl": "https://mshale.com/c8ea52f7/908fc720eNDvV-BjRM",
+    "displayDate": "2026-08-28"
+  },
+  "TV": {
+    "title": "24時間テレビ、初の全編TVerリアルタイム配信へ",
+    "summary": "日本テレビの人気番組「24時間テレビ49」のタイムテーブルが発表されました。特筆すべきは、全編がTVerにてリアルタイム配信されること。地上波の放送をインターネット上でサイマル配信する動きが、大型特番でも本格化しています。",
+    "insight": "地上波特番の全編サイマル配信は、低遅延ストリーミング配信の負荷分散や高可用性アーキテクチャの重要性を示唆しています。エンジニアとしては、ピークトラフィックを捌くクラウドインフラのスケーラビリティや、ネットワーク最適化の最新動向として注目すべき事例です。",
+    "sourceUrl": "https://www.ntv.co.jp/24h/articles/60fokb0elaizifz9yb.html",
+    "sourceName": "日本テレビ",
+    "originalImageUrl": "https://www.ntv.co.jp/24h/articles/images/1dmidzf05rt8aruzc46f5g1lskko4i.jpg",
+    "originalImageArticleUrl": "https://www.ntv.co.jp/24h/articles/60fokb0elaizifz9yb.html",
+    "displayDate": "2026-08-28"
+  },
+  "Production Monitor": {
+    "title": "映像制作の拠点がLAからロンドンへ？「Lollywood」現象",
+    "summary": "近年、大作映画の制作拠点がロサンゼルスからロンドンへと急速に移転しています。ロンドンのスタジオがマーベルやスター・ウォーズなどの超大作で連日満室となる一方で、LAの撮影日数は激減。この「Lollywood」と呼ばれる業界の地理的・経済的シフトは、制作現場のあり方に大きな変革を迫っています。",
+    "insight": "物理的な制作拠点の移動は、クラウドベースのポストプロダクションやリモートワーク環境の需要を加速させる要因になります。エンジニアとしては、物理距離を克服する大容量データ転送の最適化や、グローバルなコラボレーションツールの更なる需要拡大に注目すべきです。",
+    "sourceUrl": "https://www.cined.com/welcome-to-lollywood-why-film-production-is-leaving-los-angeles-for-london/",
+    "sourceName": "CineD",
+    "originalImageUrl": "https://www.cined.com/content/uploads/2026/08/Welcome-to-loliwood-300x169.jpeg",
+    "originalImageArticleUrl": "https://www.cined.com/welcome-to-lollywood-why-film-production-is-leaving-los-angeles-for-london/",
+    "displayDate": "2026-08-28"
+  },
+  "Projector": {
+    "title": "高輝度・長寿命のレーザープロジェクター「ViewSonic LSD500-4K」が登場",
+    "summary": "ViewSonicから、5,000 ANSIルーメンの高輝度と30,000時間の長寿命を実現した新しいレーザープロジェクター「LSD500-4K」が発表されました。メンテナンスフリーで運用可能な性能が特徴です。",
+    "insight": "長寿命なレーザー光源は、業務用途やホームシアター環境でのTCO削減においてエンジニアにとっても注目すべきスペックです。特に輝度とメンテナンス性のバランスは、設置環境を設計する際の重要な考慮点となります。",
+    "sourceUrl": "https://basic-tutorials.com/news/viewsonic-lsd500-4k/",
+    "sourceName": "Basic Tutorials",
+    "originalImageUrl": "https://basic-tutorials.de/wp-content/uploads/2026/08/Image2_With-installation-friendly-features-and-exceptional-placement-flexibility-the-LSD500-4K-can-accommodate-a-variety-of-spaces.jpg",
+    "originalImageArticleUrl": "https://basic-tutorials.com/news/viewsonic-lsd500-4k/",
+    "displayDate": "2026-08-28"
+  },
+  "Gaming Monitor": {
+    "title": "32インチ4K有機EL「Odyssey G8」が大幅割引",
+    "summary": "Samsungの高性能ゲーミングモニター「32インチ Odyssey G8 4K OLED」が、Neweggのプロモーションコード適用により通常価格からさらに170ドル引きで販売されています。最新の有機ELパネルを搭載したハイエンドモデルを安価に入手できるチャンスとして注目されています。",
+    "insight": "OLEDモニターは応答速度とコントラスト比で圧倒的な優位性がありますが、焼き付き対策技術の進化が導入の鍵となります。エンジニア視点では、こうしたハイエンドディスプレイが普及価格帯に降りてくることで、高リフレッシュレート環境でのUI/UX開発や検証環境の構築が容易になるメリットがあります。",
+    "sourceUrl": "https://www.pcguide.com/deals/already-discounted-samsung-32-odyssey-g8-4k-oled-gaming-monitor-has-an-extra-170-off-with-newegg-promo-code/",
+    "sourceName": "PC Guide",
+    "originalImageUrl": "https://www.pcguide.com/wp-content/uploads/2026/08/samsung-oled-32-inch-4K-deal.jpg",
+    "originalImageArticleUrl": "https://www.pcguide.com/deals/already-discounted-samsung-32-odyssey-g8-4k-oled-gaming-monitor-has-an-extra-170-off-with-newegg-promo-code/",
+    "displayDate": "2026-08-28"
+  },
+  "Camera Control": {
+    "title": "Photoshopに生成AI活用と非破壊の新機能が追加",
+    "summary": "Photoshopがバージョン26.0にアップデート。精密な補正を可能にする非破壊の「色調補正パネル：ライト」や、生成AI機能を統合した「AIアシストエディター」のベータ提供が開始されました。",
+    "insight": "レガシーな画像処理にAIモデルを統合する際、非破壊編集を維持したワークフロー設計が重要です。AdobeのUI改善は、エンジニアにとってもツールチェーンのユーザビリティ向上における良いUX実装の参考になります。",
+    "sourceUrl": "https://dc.watch.impress.co.jp/docs/news/2136392.html",
+    "sourceName": "デジカメ Watch",
+    "originalImageUrl": "https://dc.watch.impress.co.jp/img/dcw/list/2136/392/01.jpg",
+    "originalImageArticleUrl": "https://dc.watch.impress.co.jp/docs/news/2136392.html",
+    "displayDate": "2026-08-28"
+  },
+  "LED Wall Display": {
+    "title": "建築・空間演出の進化：フレキシブルLEDウォールの最新技術",
+    "summary": "最新のファサードプロジェクトにおいて、曲げ方向とピクセル制御を自在に操る「フレキシブルLEDウォール」が注目されています。物理的な柔軟性と高度な制御技術の融合により、建物の形状に沿った動的なビジュアル表現が可能となりました。",
+    "insight": "LEDの物理的な柔軟性は、従来の矩形ディスプレイの制約を打破し、非線形な空間デザインを可能にする重要なエンジニアリングの進歩です。ピクセル制御の精度向上は、複雑な形状においてもシームレスな映像同期を実現するためのコア技術として、空間コンピューティング分野での応用が期待されます。",
+    "sourceUrl": "https://natlawreview.com/press-releases/flexible-led-wall-washer-manufacturer-bending-direction-and-pixel-control",
+    "sourceName": "The National Law Review",
+    "originalImageUrl": null,
+    "originalImageArticleUrl": "https://natlawreview.com/press-releases/flexible-led-wall-washer-manufacturer-bending-direction-and-pixel-control",
+    "displayDate": "2026-08-28"
+  }
+}
