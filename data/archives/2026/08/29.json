@@ -1,0 +1,102 @@
+{
+  "AI": {
+    "title": "「AIエージェント」がネット通販を破壊？",
+    "summary": "AIエージェントの普及により、消費者が直接サービスを利用する「アマゾン飛ばし」の動きが加速し、既存のEコマースのビジネスモデルが根底から覆される可能性が指摘されています。",
+    "insight": "LLMを基盤としたエージェントは、検索・比較・決済を自動化し、中間プラットフォームの存在意義を低下させる可能性があります。エンジニアとしては、UI中心のアプリケーションから、API連携とエージェント間通信を重視したバックエンド設計へのシフトが求められます。",
+    "sourceUrl": "https://www.sankei.com/article/20260828-RJSFTQBT3VMEPN5EQIQZX4TG4U/",
+    "sourceName": "産経ニュース",
+    "originalImageUrl": "https://www.sankei.com/resizer/v2/OCSLVHQUUZOVFDRPJNTB6Z36QI.jpg?auth=1e73cbba48de29ac6ccf7949e59b1ed141aafce11c3a0b8d10c42d9980111976&quality=50&focal=2046%2C1422&width=1200&height=675",
+    "originalImageArticleUrl": "https://www.sankei.com/article/20260828-RJSFTQBT3VMEPN5EQIQZX4TG4U/",
+    "displayDate": "2026-08-29"
+  },
+  "SRD / XR": {
+    "title": "キヤノンの新MRソリューション「MREAL」が目指す企業への定着",
+    "summary": "キヤノンが発表したMRソリューション「MREAL Collaborator」は、単なる機材提供に留まらず、運用ルールや環境整備を含めた「企業への定着化」を重視したシステムです。リモート共有機能などを通じ、MRを業務フローにどう組み込むかというビジネス活用の実用フェーズに焦点が当たっています。",
+    "insight": "XR開発において、ハードウェアの性能だけでなく、既存のワークフローへいかに低摩擦で導入・運用できるかの「運用設計」が重要になっています。エンジニアとしては、デバイス単体の機能開発に加え、現場の運用コストを抑えるエコシステム全体を考慮したアーキテクチャ設計が求められます。",
+    "sourceUrl": "https://www.moguravr.com/mreal-collaborator-report/",
+    "sourceName": "Mogura VR",
+    "originalImageUrl": "https://assets.moguravr.com/uploads/2026/08/fd59c224949a4b0606c3a1aee91615db-kix.xjdah53rn4hb.webp",
+    "originalImageArticleUrl": "https://www.moguravr.com/mreal-collaborator-report/",
+    "displayDate": "2026-08-29"
+  },
+  "SONY": {
+    "title": "ソニーの新型240Hzゲーミングモニターが発表",
+    "summary": "ソニーが、240Hzのリフレッシュレートに対応したPlayStation向け新型モニターを発表しました。特徴として、ディスプレイ台座部分にDualSenseコントローラーを充電できるドック機能を搭載しており、ゲーマーのデスク環境をスッキリとまとめる利便性が強調されています。",
+    "insight": "高リフレッシュレートのゲーミング性能と、周辺機器のチャージングステーションとしての機能を統合したハードウェア設計は、UX向上における非常に興味深いアプローチです。単なる表示デバイスとしての性能向上だけでなく、周辺アクセサリとの物理的なエコシステム統合が今後の製品戦略のトレンドになる可能性があります。",
+    "sourceUrl": "https://hothardware.com/news/sony-playstation-monitor-built-in-dualsense-dock-now-available",
+    "sourceName": "HotHardware",
+    "originalImageUrl": "https://hothardware.com/contentimages/NewsItem/71499/content/16x9_2133x1200_highres-sony-playstation-gaming-monitor.jpg",
+    "originalImageArticleUrl": "https://hothardware.com/news/sony-playstation-monitor-built-in-dualsense-dock-now-available",
+    "displayDate": "2026-08-29"
+  },
+  "TCL": {
+    "title": "TCLの新型4K OLEDゲーミングモニターが進化",
+    "summary": "TCLから最新ゲーミングモニター「32X3A」が登場。480Hzの高リフレッシュレートに対応した4K OLEDパネルを採用しており、Studio Displayを彷彿とさせる高音質スピーカーも搭載したハイエンドな仕上がりです。",
+    "insight": "4K解像度で480Hz駆動を実現するOLEDパネルは、ゲーミングモニターにおける新たなスタンダードになりつつあります。エンジニア視点では、こうした超高速信号処理や焼き付き防止技術などのディスプレイ制御アルゴリズムが、製品競争力を大きく左右するキーファクターと言えます。",
+    "sourceUrl": "https://chimolog.co/tcl-32x3a/",
+    "sourceName": "ちもろぐ",
+    "originalImageUrl": "https://chimolog.co/wp-content/uploads/2026/08/tcl-32x3a-600.webp",
+    "originalImageArticleUrl": "https://chimolog.co/tcl-32x3a/",
+    "displayDate": "2026-08-29"
+  },
+  "Gaming Monitor": {
+    "title": "「Finding Polka」がgamescom受賞！日本発タイトルの世界躍進",
+    "summary": "ドイツで開催された「gamescom 2026」にて、日本の小規模開発スタジオlidlocksが手掛ける「Finding Polka」が、最も心温まる作品に贈られる「Most Wholesome」賞を受賞しました。国内外のイベントで高い評価を獲得し続けており、インディー開発の成功モデルとして注目を集めています。",
+    "insight": "限られたリソースでいかにプレイヤーの感情に訴えかける体験をデザインするかが、現代のインディー開発における競争力の源泉となっています。受賞の要因となった「体験設計」の抽象化と、それを支える技術スタックの選定は、プロダクト開発におけるUX向上にも示唆を与えるテーマです。",
+    "sourceUrl": "https://www.4gamer.net/games/975/G097539/20260829002/",
+    "sourceName": "4Gamer.net − 最新記事",
+    "originalImageUrl": "https://www.4gamer.net/games/975/G097539/20260829002/SS/002.jpg",
+    "originalImageArticleUrl": "https://www.4gamer.net/games/975/G097539/20260829002/",
+    "displayDate": "2026-08-29"
+  },
+  "TV": {
+    "title": "24時間テレビのドラマでシャ乱Qが完全再現",
+    "summary": "「24時間テレビ49」で放送されるスペシャルドラマ『幸せはある』にて、シャ乱Qの往年のCDジャケット5作品が完全再現されることが明らかになりました。さらにAdoの出演やモーニング娘。初期メンバーの登場も決定しており、放送前から大きな注目を集めています。",
+    "insight": "レトロなアートワークを現代の技術で精緻に再現する手法は、エンジニア視点で見てもデータ解析とビジュアル再現の興味深いケーススタディです。特に過去の資産を現代の制作パイプラインにどう適応させるかというワークフローは、システムのマイグレーションやリファクタリングに通じる示唆があります。",
+    "sourceUrl": "https://www.ntv.co.jp/24h-drama2026/articles/5646m95pjvkciy1uwon9.html",
+    "sourceName": "日本テレビ",
+    "originalImageUrl": "https://www.ntv.co.jp/24h-drama2026/articles/images/5q0i2hwg4p0cmwnw8fzgzysg9htyq3.jpg",
+    "originalImageArticleUrl": "https://www.ntv.co.jp/24h-drama2026/articles/5646m95pjvkciy1uwon9.html",
+    "displayDate": "2026-08-29"
+  },
+  "Camera Control": {
+    "title": "USB-Cケーブルの真贋判定ができるツール「WhatCable」",
+    "summary": "USB-Cケーブルの互換性や品質が不透明な現代において、Mac用無料アプリ「WhatCable」が注目されています。接続されたデバイスの仕様を解析し、ケーブルの真贋や転送速度・充電能力を診断できるため、機材トラブルの多い現場で重宝するツールとして話題です。",
+    "insight": "USB-Cは物理形状が同じでも、内部の配線やE-Markerチップの有無で性能が全く異なります。ハードウェアエンジニアの視点では、単なるコネクタではなく通信プロトコルと電力供給を司る複雑なデバイスとしてケーブルを再評価する必要があります。",
+    "sourceUrl": "https://www.dpreview.com/articles/whatcable-is-the-free-mac-app-photographers-with-a-drawer-full-of-usb-c-cables-need/",
+    "sourceName": "DPReview",
+    "originalImageUrl": "https://www.dpreview.com/wp-content/uploads/2026/08/GN-USB-C-cables-and-Macbook-Pro-16x9-Lead-2.jpg",
+    "originalImageArticleUrl": "https://www.dpreview.com/articles/whatcable-is-the-free-mac-app-photographers-with-a-drawer-full-of-usb-c-cables-need/",
+    "displayDate": "2026-08-29"
+  },
+  "Projector": {
+    "title": "自宅を映画館に！最新プロジェクター活用術",
+    "summary": "超短焦点プロジェクターを活用して自宅を本格的な映画館に変える体験が話題です。ポータブルモデルの音響性能向上や4K・レーザー対応の普及により、高精細かつ没入感のある視聴体験がかつてないほど身近になっています。プラネタリウムの改修など、公共施設での4K化も加速しており、映像体験の質的向上が進んでいます。",
+    "insight": "プロジェクターの進化は単なる解像度の向上だけでなく、設置自由度の高い超短焦点レンズや、物理的なスピーカー分離による音場設計へとシフトしています。ハードウェアの進化に加え、空間の制約を技術でどう解決するかというUXの観点が、今後のホームエンターテインメント開発の鍵になります。",
+    "sourceUrl": "https://news.infoseek.co.jp/article/allabout_162273/",
+    "sourceName": "Infoseek",
+    "originalImageUrl": "https://media.image.infoseek.co.jp/isnews/photos/allabout/allabout_162273_0.jpg",
+    "originalImageArticleUrl": "https://news.infoseek.co.jp/article/allabout_162273/",
+    "displayDate": "2026-08-29"
+  },
+  "Production Monitor": {
+    "title": "Eddie AIがMCPに対応しAIワークフローが劇的進化",
+    "summary": "Eddie AIの大型アップデートにより、サブスク制から従量課金制へ移行。さらにClaudeやChatGPTのMCPサーバーとして利用可能になり、外部LLMから直接編集ツールへアクセス可能に。iPhoneアプリの提供や生成AI機能の拡充も含まれ、AIが「使うツール」から「どこからでも呼び出せるサービス」へと変貌を遂げました。",
+    "insight": "LLMとローカルツールを統合するMCP（Model Context Protocol）の採用は、エンジニアリングにおけるワークフロー自動化の標準となる可能性が高いです。ツールを単体で使うのではなく、LLMのインテリジェンスと既存APIをいかにシームレスに結合させるかが、今後の生産性向上の鍵となります。",
+    "sourceUrl": "https://www.cined.com/eddie-ai-overhauled-pay-as-you-go-pricing-editing-from-claude-and-chatgpt-and-an-iphone-app/",
+    "sourceName": "CineD",
+    "originalImageUrl": "https://www.cined.com/content/uploads/2026/08/Eddie-AI-300x169.jpeg",
+    "originalImageArticleUrl": "https://www.cined.com/eddie-ai-overhauled-pay-as-you-go-pricing-editing-from-claude-and-chatgpt-and-an-iphone-app/",
+    "displayDate": "2026-08-29"
+  },
+  "LED Wall Display": {
+    "title": "米高校がプロ級演出！Daktronicsの制御基盤「Camino」導入",
+    "summary": "米オハイオ州のマシリオン・ワシントン高校が、全米で初めてDaktronicsの最新ショーコントロールプラットフォーム「Camino」を採用したLEDビデオディスプレイを導入しました。これにより、大学やプロスポーツ会場と同等の高度な映像演出が高校のスポーツ環境でも可能になり、地域コミュニティにおけるデジタルサイネージの活用が新たなフェーズに入りました。",
+    "insight": "Caminoのようなショーコントロールプラットフォームの一般普及は、LEDウォールを単なる「表示装置」から「リアルタイムな演出インフラ」へと進化させています。エンジニアリング視点では、プロ向けの複雑な制御系が汎用化されることで、エッジコンピューティングや低遅延な映像同期技術の応用範囲がさらに広がるでしょう。",
+    "sourceUrl": "https://stocktwits.com/news-articles/markets/equity/why-rdw-te-otlk-stocks-posted-double-digit-gains-on-tuesday/cZgXzBfReA9",
+    "sourceName": "LEDinside",
+    "originalImageUrl": "https://news.stocktwits-cdn.com/large_Getty_Images_1401171512_6_jpg_5e1bf9c809.webp",
+    "originalImageArticleUrl": "https://stocktwits.com/news-articles/markets/equity/why-rdw-te-otlk-stocks-posted-double-digit-gains-on-tuesday/cZgXzBfReA9",
+    "displayDate": "2026-08-29"
+  }
+}
