@@ -1,0 +1,102 @@
+{
+  "AI": {
+    "title": "フィジカルAI実用化へ：製造業の新たな潮流",
+    "summary": "京セラや神戸製鋼など国内大手20社が、現実世界で物理的に動く「フィジカルAI」の実用化を目指す連合を結成しました。製造ロボットの高度制御や福島第一原発の廃炉作業など、デジタル空間だけでなく実現場でのAI活用が本格的に始動します。",
+    "insight": "LLMなどの純粋なデジタルAIから、物理的制約やリアルタイム性が求められるフィジカルAIへのトレンドシフトは、エッジAIやロボティクス領域のエンジニアにとって大きな商機です。今後はサイバー空間と現実世界を橋渡しするマルチモーダルな制御アルゴリズムや、高信頼性なエッジコンピューティング基盤の実装が重要な技術課題となります。",
+    "sourceUrl": "https://www.nikkei.com/article/DGXZQOUC300U80Q6A830C2000000/",
+    "sourceName": "日本経済新聞",
+    "originalImageUrl": "https://article-image-ix.nikkei.com/https%3A%2F%2Fimgix-proxy.n8s.jp%2FDSXZQO3522959030082026000000-1.jpg?auto=compress&bg=FFFF&crop=focalpoint&fit=crop&fm=jpg&h=630&w=1200&s=f69744379d8164e510930e796bb0eb6d",
+    "originalImageArticleUrl": "https://www.nikkei.com/article/DGXZQOUC300U80Q6A830C2000000/",
+    "displayDate": "2026-08-31"
+  },
+  "Gaming Monitor": {
+    "title": "34型ウルトラワイドモニターが1万円引き",
+    "summary": "Amazonにて、LG製の高機能34型ウルトラワイドモニター「34BA75QE-B」が直近価格から1万円引きの6万4,800円で販売中。KVMスイッチ搭載で、複数PCの切り替えや作業効率化に最適なモデルです。",
+    "insight": "KVM搭載モニターは、開発機とメイン機を同一のキーボード・マウス・モニターで操作できるため、デスク周りの集約に非常に便利です。ソフトウェアで制御するKVMよりも物理切り替えによる安定性が高く、開発環境の物理構成をシンプルにしたいエンジニアには有力な選択肢となります。",
+    "sourceUrl": "https://pc.watch.impress.co.jp/docs/news/todays_sales/2136788.html",
+    "sourceName": "PC Watch",
+    "originalImageUrl": "https://pc.watch.impress.co.jp/img/pcw/list/2136/788/01.jpg",
+    "originalImageArticleUrl": "https://pc.watch.impress.co.jp/docs/news/todays_sales/2136788.html",
+    "displayDate": "2026-08-31"
+  },
+  "SRD / XR": {
+    "title": "Roblox開発にAIエージェントを導入する「Studio MCP Server」",
+    "summary": "Robloxのゲーム開発環境「Roblox Studio」に、AIエージェントを接続する「Studio MCP Server」のアップデートが注目されています。MCP（Model Context Protocol）を活用することで、外部のAIが直接Studio内の操作やデータにアクセス可能になり、開発効率の向上が期待されます。",
+    "insight": "MCPの活用により、AIによる自動ビルドやシーン構築といった高度なエージェントワークフローがゲームエンジン開発にも浸透し始めています。エンジニアはLLMを単なるコード生成ツールとしてだけでなく、SDKを操作する『デジタルスタッフ』として統合する設計思想が求められています。",
+    "sourceUrl": "https://www.moguravr.com/vr-ar-mr-weekly-2026-8-31/",
+    "sourceName": "Mogura VR",
+    "originalImageUrl": "https://assets.moguravr.com/uploads/2026/08/cce346505a0e41f26cb323a7e57a513a-kix.lmbvqffnpsgg-300x167.webp",
+    "originalImageArticleUrl": "https://www.moguravr.com/vr-ar-mr-weekly-2026-8-31/",
+    "displayDate": "2026-08-31"
+  },
+  "Camera Control": {
+    "title": "DJI Osmo Pocket 4Pの設計思想を読み解く",
+    "summary": "広角と中望遠の二眼を搭載し、発売直後から高い人気を誇るDJI「Osmo Pocket 4P」。デジカメWatchにて公開された技術白書では、12年間にわたるジンバル機器開発の歴史と、その裏側にある設計思想が詳細に解説されており、ハードウェア開発の知見が詰まっています。",
+    "insight": "小型ジンバルという制約の多い環境下で、光学性能とスタビライズ機能を両立させるための機構設計は非常に興味深いです。ハードウェア・ソフトウェアの垂直統合による最適化事例として、組み込みエンジニアにとっても学ぶべき点が多いでしょう。",
+    "sourceUrl": "https://dc.watch.impress.co.jp/docs/column/2136631.html",
+    "sourceName": "デジカメ Watch",
+    "originalImageUrl": "https://dc.watch.impress.co.jp/img/dcw/list/2136/631/top.jpg",
+    "originalImageArticleUrl": "https://dc.watch.impress.co.jp/docs/column/2136631.html",
+    "displayDate": "2026-08-31"
+  },
+  "SONY": {
+    "title": "ソニーがCreators' Appを刷新、カメラの表現力が拡張",
+    "summary": "ソニーが「Creators' App」および「Creators' Cloud Web」のアップデートを発表しました。今回の更新により、世界中の著名なクリエイターが作成した独自のルック（画作り設定）を、対応するカメラへ直接転送・適用することが可能となり、プロフェッショナルな映像表現をより手軽に再現できるようになりました。",
+    "insight": "カメラのファームウェアとクラウドプラットフォームの連携強化は、個別のカメラのハードウェア性能を超えた「体験の拡張」として非常に興味深いです。特にルックの配信機能は、APIを通じたコミュニティ主導のプリセット共有など、今後のデジタルフォトグラフィにおけるエコシステム構築のモデルケースとなり得ます。",
+    "sourceUrl": "https://jp.pronews.com/news/202608301046778106.html",
+    "sourceName": "pronews.com",
+    "originalImageUrl": "https://jp.pronews.com/wp-content/uploads/2026/08/260828_SONY_CreativeBook_topFYWOUknl.jpg",
+    "originalImageArticleUrl": "https://jp.pronews.com/news/202608301046778106.html",
+    "displayDate": "2026-08-31"
+  },
+  "Projector": {
+    "title": "3万円台からの最新プロジェクター比較レビュー",
+    "summary": "PHILE WEBなどで、スタンド一体型プロジェクターの注目8モデルが一斉レビューされました。3万円台の手頃なモデルから高機能なものまで、コンパクトかつ設置性の高い製品が市場を賑わせています。ホームシアター環境の民主化が進んでいます。",
+    "insight": "近年のモバイルプロジェクターは、自動台形補正やAFなどの周辺認識アルゴリズムが高度化し、設置の手間が極限まで省かれています。ハードウェアの小型化と、それを支える組込みAIの進化が、リビングのUXをどのように変えているか議論の余地があります。",
+    "sourceUrl": "https://www.phileweb.com/review/article/202608/31/6644.html",
+    "sourceName": "PHILE WEB",
+    "originalImageUrl": "https://www.phileweb.com/news/ogp/review/66/3ce5d991b4d3ccc4ad87ae98a4d77e35.jpg",
+    "originalImageArticleUrl": "https://www.phileweb.com/review/article/202608/31/6644.html",
+    "displayDate": "2026-08-31"
+  },
+  "TV": {
+    "title": "24時間テレビの生放送中に発生した乱入騒動の考察",
+    "summary": "大型チャリティー番組『24時間テレビ』のマラソン中に、配信者が走行路に乱入するトラブルが発生。ネット上では「売名行為」との批判が相次ぎ、生放送におけるセキュリティと配信者の倫理的境界線が議論の的となっています。",
+    "insight": "生放送という制約の中で、リアルタイムのセキュリティリスクをどう管理するかはエンジニアにとっても重要な視点です。配信者側が視聴者数を稼ぐために公共空間を「ハック」する手法が増えており、監視システムや警備プロトコルのアップデートと同時に、行動予測AIなどの活用が求められる時代になっています。",
+    "sourceUrl": "https://news.yahoo.co.jp/expert/articles/8eaad7b1d2bedf4bb41d54a0536676449decf833",
+    "sourceName": "Yahoo!ニュース",
+    "originalImageUrl": "https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/rpr/tanabeyuki/02704808/title-1788098822570.jpeg?exp=10800",
+    "originalImageArticleUrl": "https://news.yahoo.co.jp/expert/articles/8eaad7b1d2bedf4bb41d54a0536676449decf833",
+    "displayDate": "2026-08-31"
+  },
+  "TCL": {
+    "title": "TCLのミニLED誇張広告疑惑と市場競争の激化",
+    "summary": "TCLのミニLEDテレビに関する宣伝が誇張であるとの指摘が韓国内で報じられました。中韓メーカー間でのディスプレイ技術競争が激化する中、技術仕様の明確化やマーケティング上の誠実さが改めて問われています。",
+    "insight": "ハードウェアのスペック競争では、測定基準や「Mini-LED」の定義が曖昧になりがちです。エンジニアとしては、消費電力を伴う輝度性能だけでなく、実効的なローカルディミング制御アルゴリズムやパネルの階調表現といった実用的な評価指標を注視する必要があります。",
+    "sourceUrl": "https://biz.chosun.com/jp/jp-it/2026/08/31/PBRHAV77NNHELF6HOE2FLUNDRY/?outputType=amp",
+    "sourceName": "CHOSUNBIZ",
+    "originalImageUrl": "https://biz.chosun.com/resizer/v2/UQCGNQPXBFOQTCPC6TCRN6N24U.jpg?auth=db95ab4c14b8599cc89edd8319f11ee185a02412ea3a9a960e82edb1e3901d99&width=1200&height=630&smart=true",
+    "originalImageArticleUrl": "https://biz.chosun.com/jp/jp-it/2026/08/31/PBRHAV77NNHELF6HOE2FLUNDRY/?outputType=amp",
+    "displayDate": "2026-08-31"
+  },
+  "Production Monitor": {
+    "title": "DaVinci Resolve 21：最新AI機能と無料セミナー",
+    "summary": "Blackmagic DesignがDaVinci Resolve 21のオンライン無料セミナーを開催します。新バージョンには、AIを活用した「IntelliSearch（コンテンツ検索）」や「CineFocus（フォーカス調整）」など、100以上の新エフェクトや機能が追加されています。",
+    "insight": "AI技術が動画編集ワークフローの効率化を加速させています。特にコンテンツのメタデータ自動生成やAIベースの補正機能は、開発者がツールを設計する際のインテリジェントな自動化の参考になります。",
+    "sourceUrl": "https://www.newsshooter.com/2026/08/28/blackmagic-design-free-online-seminars-for-davinci-resolve-21/?utm_source=rss&utm_medium=rss&utm_campaign=blackmagic-design-free-online-seminars-for-davinci-resolve-21",
+    "sourceName": "Newsshooter",
+    "originalImageUrl": "https://www.newsshooter.com/wp-content/uploads/2026/08/Screenshot-2026-08-29-at-9.24.02.jpg",
+    "originalImageArticleUrl": "https://www.newsshooter.com/2026/08/28/blackmagic-design-free-online-seminars-for-davinci-resolve-21/?utm_source=rss&utm_medium=rss&utm_campaign=blackmagic-design-free-online-seminars-for-davinci-resolve-21",
+    "displayDate": "2026-08-31"
+  },
+  "LED Wall Display": {
+    "title": "CEDIA Expo 2026：171インチLEDウォールが登場",
+    "summary": "Focal、Naim、Barcoの3社が、CEDIA Expo 2026にて171インチの超大型LEDウォールと7.0.4構成のホームシアターシステムを公開しました。没入感のある映像体験とハイエンドオーディオの統合が注目されています。",
+    "insight": "商用ディスプレイ技術がホームシアター市場へ本格的に流入しており、ピクセルピッチの微細化とコントラスト性能の向上が期待されます。エンジニアとしては、単なるパネル性能だけでなく、大画面特有の熱制御やマルチソース同期のアーキテクチャに注目すべきです。",
+    "sourceUrl": "https://www.ecoustics.com/news/barco-focal-naim-cedia-2026/",
+    "sourceName": "eCoustics",
+    "originalImageUrl": "https://www.ecoustics.com/wp-content/uploads/focal-1000-series-lifestyle.jpg",
+    "originalImageArticleUrl": "https://www.ecoustics.com/news/barco-focal-naim-cedia-2026/",
+    "displayDate": "2026-08-31"
+  }
+}
