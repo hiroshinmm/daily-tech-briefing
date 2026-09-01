@@ -1,0 +1,102 @@
+{
+  "AI": {
+    "title": "「AIに選ばれるサイト」へ：検索から生成AI経由へのパラダイムシフト",
+    "summary": "花王や森永乳業など大手企業が、チャット型AI経由の購買行動増加を見据え、Webサイトの構造やSEO戦略の転換を始めている。従来の検索エンジン最適化（SEO）とは異なる、「AIに引用・推奨されるための情報設計」が新たな企業競争力の源泉となりつつある。",
+    "insight": "LLMが回答を生成する際、従来のクローラー型検索以上に構造化データや信頼性の高いソースが参照される傾向があります。エンジニアは、単なるキーワード最適化から、RAG環境を想定したコンテンツのスキーマ設計やナレッジグラフへの適応を考慮すべき時期に来ています。",
+    "sourceUrl": "https://www.nikkei.com/article/DGXZQOUC069TH0W6A800C2000000/",
+    "sourceName": "日本経済新聞",
+    "originalImageUrl": "https://article-image-ix.nikkei.com/https%3A%2F%2Fimgix-proxy.n8s.jp%2FDSXZQO3452011013082026000000-2.jpg?auto=compress&bg=FFFF&crop=focalpoint&fit=crop&fm=jpg&h=630&w=1200&s=3c19e3234b3b2b551c4dce71b2fb9fa3",
+    "originalImageArticleUrl": "https://www.nikkei.com/article/DGXZQOUC069TH0W6A800C2000000/",
+    "displayDate": "2026-09-01"
+  },
+  "Gaming Monitor": {
+    "title": "Alienwareが世界初の39インチ5K有機ELモニターを発売",
+    "summary": "Alienwareが世界初となる39インチ5K解像度の「RGB Stripe Tandem OLED」ゲーミングモニターを発売しました。高精細な映像体験とOLEDの高速応答性能を両立した、ハイエンドゲーマー注目の最新ディスプレイです。",
+    "insight": "Tandem OLED技術は、複数の発光層を重ねることで輝度と寿命を飛躍的に向上させるディスプレイの最先端です。エンジニアの視点で見ると、高解像度5Kと高リフレッシュレートを維持するためのデータ伝送帯域や、消費電力管理および熱設計の最適化が非常に興味深い製品です。",
+    "sourceUrl": "https://mashable.com/tech/alienware-39-5k-rgb-stripe-tandem-oled-gaming-monitor",
+    "sourceName": "Mashable",
+    "originalImageUrl": "https://helios-i.mashable.com/imagery/articles/00TAKYxShtk7ebzfQRpn9U4/hero-image.fill.size_1200x675.v1787913343.jpg",
+    "originalImageArticleUrl": "https://mashable.com/tech/alienware-39-5k-rgb-stripe-tandem-oled-gaming-monitor",
+    "displayDate": "2026-09-01"
+  },
+  "Camera Control": {
+    "title": "元DJIエンジニア開発！AI搭載のロボット型ズームカメラ",
+    "summary": "元DJIのエンジニアらが設立したFarseerTechが、AIによる被写体認識と電動パン・チルト機能を備えた『RocXZoom』を発表しました。50倍ハイブリッドズームを搭載し、野鳥や野生動物などの遠くの動く被写体を自動追尾撮影できる画期的なカメラとして注目されています。",
+    "insight": "AIによる物体認識と高精度なモーター制御を組み合わせた、ハードウェアとソフトウェアの統合的な進化を感じさせるプロダクトです。特に遠隔撮影において、手動操作の限界をAIがどう補完するのか、エンジニア視点ではアルゴリズムの処理レイテンシや追尾精度が気になるところです。",
+    "sourceUrl": "https://petapixel.com/2026/08/31/former-dji-engineers-raise-250000-for-worlds-first-robotic-extreme-zoom-camera/",
+    "sourceName": "PetaPixel",
+    "originalImageUrl": "https://petapixel.com/assets/uploads/2026/08/RocXZoom-PetaPixel-Cover.jpg",
+    "originalImageArticleUrl": "https://petapixel.com/2026/08/31/former-dji-engineers-raise-250000-for-worlds-first-robotic-extreme-zoom-camera/",
+    "displayDate": "2026-09-01"
+  },
+  "SRD / XR": {
+    "title": "AR用マイクロディスプレイ市場が活況、2026-2032年の動向",
+    "summary": "ARグラス等のデバイスに不可欠な近眼マイクロディスプレイチップの市場動向レポートが公開されました。2026年から2032年にかけての売上、販売量、価格推移が分析されており、今後のXRハードウェアの進化を予測する上で重要な資料となっています。",
+    "insight": "ARデバイスの普及には、省電力かつ高精細なディスプレイ技術の進化がボトルネックとなっています。この市場動向は、次世代のウェアラブルUI設計や光学エンジニアにとって重要な指標になるでしょう。",
+    "sourceUrl": "https://newscast.jp/news/1827656",
+    "sourceName": "Newscast.jp",
+    "originalImageUrl": "https://www.atpress.ne.jp/attachments/WQc7BqheRTIhIwLcJfgA.png",
+    "originalImageArticleUrl": "https://newscast.jp/news/1827656",
+    "displayDate": "2026-09-01"
+  },
+  "Projector": {
+    "title": "TCLのテレビにGemini搭載！TV体験はどう変わる？",
+    "summary": "TCLはGoogle TV搭載モデルにて、AIアシスタント「Gemini for Google TV」への対応を開始しました。自然な会話を通じて作品検索や番組推奨が受けられるようになり、単なる視聴デバイスから対話型エンターテインメント体験へと進化しています。",
+    "insight": "LLMの家庭用UIへの統合は、GUI中心だったテレビ操作を自然言語による能動的探索へと変容させています。インテント理解の精度向上により、従来の検索ロジックよりもユーザーの曖昧な好みを汲み取った推薦エンジンの活用が今後のスタンダードになるでしょう。",
+    "sourceUrl": "https://av.watch.impress.co.jp/docs/news/2137042.html",
+    "sourceName": "AV Watch",
+    "originalImageUrl": "https://av.watch.impress.co.jp/img/avw/list/2137/042/main.jpg",
+    "originalImageArticleUrl": "https://av.watch.impress.co.jp/docs/news/2137042.html",
+    "displayDate": "2026-09-01"
+  },
+  "TCL": {
+    "title": "TCLが新タブレットを投入：NXTPAPER技術に注目",
+    "summary": "TCLが最新の11インチタブレット「NXTPAPER」シリーズを発表しました。マットな質感のディスプレイ技術を採用し、目に優しい視聴体験とペーパーライクな書き心地を両立させています。価格は229ドルからと手頃ですが、搭載チップセットの性能については議論を呼んでいます。",
+    "insight": "NXTPAPER技術は、アンチグレア特性をハードウェアレベルで組み込むことで、電子ペーパーと液晶のハイブリッドのような独自のUXを提供しています。エンジニアとしては、単なるハードウェアスペックの比較だけでなく、このような「ユーザーの視覚体験を最適化するディスプレイのUXデザイン」のトレンドを注視すべきでしょう。",
+    "sourceUrl": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQX1N4cU00TGxFcjVpU2JHNnJRalY2dWlpTVA4ci12bDdocGk3ckRDZE9rYWtwcENGLTlkMXQ4UmJYcXJpc0JVQ2kzbVp4N0wydHRkd1pDNXBhNmloemRrd1h0TzBmOENESkZkc3VBUTlEWHB4V0RoVWZoZmtVTFcwSWFsM0ZJaVIyUGdITHEtRlpwUmNrMmRrcEN2TEpxQmp4VkhOb283R19hQVFNY3lYbnF2SGZ3OGt6V0E?oc=5",
+    "sourceName": "9to5Google",
+    "originalImageUrl": null,
+    "originalImageArticleUrl": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQX1N4cU00TGxFcjVpU2JHNnJRalY2dWlpTVA4ci12bDdocGk3ckRDZE9rYWtwcENGLTlkMXQ4UmJYcXJpc0JVQ2kzbVp4N0wydHRkd1pDNXBhNmloemRrd1h0TzBmOENESkZkc3VBUTlEWHB4V0RoVWZoZmtVTFcwSWFsM0ZJaVIyUGdITHEtRlpwUmNrMmRrcEN2TEpxQmp4VkhOb283R19hQVFNY3lYbnF2SGZ3OGt6V0E?oc=5",
+    "displayDate": "2026-09-01"
+  },
+  "TV": {
+    "title": "日本テレビとHulu、ワーナーとコンテンツ提携",
+    "summary": "日本テレビとHuluが、米ワーナー・ブラザースとコンテンツ分野での業務提携を発表しました。グローバル市場を見据えたコンテンツ供給体制の強化や、配信プラットフォームにおける連携が期待されます。",
+    "insight": "大手メディア企業による国境を越えたコンテンツ提携は、分散する配信プラットフォームの統合や、エンジニアにとってはグローバル配信基盤の最適化が重要な課題となります。特にレコメンデーションアルゴリズムやメタデータ管理の相互運用性において、大規模なシステム設計が求められる領域です。",
+    "sourceUrl": "https://news.ntv.co.jp/category/economy/8a23bb159927487689e1222cb0365827",
+    "sourceName": "日テレNEWS NNN",
+    "originalImageUrl": "https://news.ntv.co.jp/gimage/n24/articles/1715bf4997bc406b8b829c16fbdf2a34/654c214493777c10b6a04b4165f2c57123bc08ccb968e86cfc475d1ee26a2515.jpg?w=1200",
+    "originalImageArticleUrl": "https://news.ntv.co.jp/category/economy/8a23bb159927487689e1222cb0365827",
+    "displayDate": "2026-09-01"
+  },
+  "SONY": {
+    "title": "ソニー、空間コンテンツ制作向けカメラトラッキングシステム「OCELLUS」を発表",
+    "summary": "ソニー・インディアは、AR（拡張現実）やバーチャルプロダクション向けの次世代カメラトラッキングシステム「OCELLUS」を発表しました。このシステムは、高精度な位置・姿勢トラッキングにより、空間コンピューティングコンテンツの制作効率を飛躍的に高めることを目的としています。",
+    "insight": "リアルタイムのカメラトラッキングは、バーチャルプロダクションやメタバース構築における空間演算の基盤となる重要な技術です。高精度な空間データの取得と、それをレンダリングパイプラインへ同期させる低遅延な同期技術の進化は、今後エンジニアが扱うべき重要なトピックとなるでしょう。",
+    "sourceUrl": "https://m.thewire.in/article/ptiprnews/sony-india-introduces-a-next-generation-camera-tracking-system-ocellus-for-creation-of-spatial-content-in-augmented-reality-or-virtual-production/amp",
+    "sourceName": "thewire.in",
+    "originalImageUrl": null,
+    "originalImageArticleUrl": "https://m.thewire.in/article/ptiprnews/sony-india-introduces-a-next-generation-camera-tracking-system-ocellus-for-creation-of-spatial-content-in-augmented-reality-or-virtual-production/amp",
+    "displayDate": "2026-09-01"
+  },
+  "LED Wall Display": {
+    "title": "Micro LED市場が拡大、VIJOが約20億円の資金調達を完了",
+    "summary": "Micro LED光学チップメーカーのVIJO（Suzhou Optoelectronics Technology）が、約1億人民元（約20億円）の資金調達を実施しました。今後のMicro LEDの量産体制強化と技術開発に充てられる予定で、半導体関連企業や投資ファンドからの出資が注目されています。",
+    "insight": "Micro LEDは次世代ディスプレイの本命技術ですが、量産における歩留まりとコストが最大の課題です。今回の調達は、半導体検査装置メーカーなどの関連企業がエコシステムに参画している点が重要で、製造プロセスの高度化が加速する兆候と言えます。",
+    "sourceUrl": "//www.ledinside.com/news/2026/8/2026_08_31_02",
+    "sourceName": "LEDinside",
+    "originalImageUrl": null,
+    "originalImageArticleUrl": "//www.ledinside.com/news/2026/8/2026_08_31_02",
+    "displayDate": "2026-09-01"
+  },
+  "Production Monitor": {
+    "title": "Avid Media ComposerにAI編集機能が登場",
+    "summary": "Avid Media Composer 2026.8が発表され、AIによるマルチカム編集の自動化機能や、制限撤廃された無料プランが導入されます。また、ビンロック機能の仕様変更が業界で議論を呼んでいます。",
+    "insight": "映像編集におけるAI自動化が、単なるエフェクトからワークフロー（マルチカムの初稿作成など）の効率化へ移行していることが分かります。APIやライセンス形態の変化が既存のプラグインエコシステムに与える影響についても注目すべきです。",
+    "sourceUrl": "https://www.cined.com/avid-media-composer-2026-8-coming-soon-ai-multicam-cutting-an-uncapped-free-tier-and-a-bin-locking-shake-up/",
+    "sourceName": "CineD",
+    "originalImageUrl": "https://www.cined.com/content/uploads/2026/08/Avid-6-300x169.jpeg",
+    "originalImageArticleUrl": "https://www.cined.com/avid-media-composer-2026-8-coming-soon-ai-multicam-cutting-an-uncapped-free-tier-and-a-bin-locking-shake-up/",
+    "displayDate": "2026-09-01"
+  }
+}
