@@ -1,10 +1,6 @@
 {
   "Production Monitor": [
     {
-      "url": "https://www.cined.com/apple-refreshes-mac-studio-and-mac-mini-m5-ultra-goes-quad-die-m6-debuts-as-first-2nm-chip/",
-      "date": "2026-08-26"
-    },
-    {
       "url": "https://www.cined.com/miller-camera-support-equipment-closes-the-inventor-of-the-fluid-head-shuts-down/",
       "date": "2026-08-27"
     },
@@ -27,13 +23,13 @@
     {
       "url": "https://www.cined.com/avid-media-composer-2026-8-coming-soon-ai-multicam-cutting-an-uncapped-free-tier-and-a-bin-locking-shake-up/",
       "date": "2026-09-01"
+    },
+    {
+      "url": "https://www.cined.com/gopro-has-found-its-buyer-starman-optical-285-million-and-a-pivot-into-ai-data-center-optics/",
+      "date": "2026-09-02"
     }
   ],
   "SRD / XR": [
-    {
-      "url": "https://news.yahoo.co.jp/articles/79659ea1c9fe4194b3e62eb9dbf4dd60e077af71/images/000",
-      "date": "2026-08-26"
-    },
     {
       "url": "https://www.moguravr.com/abal-scape-10-locations/",
       "date": "2026-08-27"
@@ -57,13 +53,13 @@
     {
       "url": "https://newscast.jp/news/1827656",
       "date": "2026-09-01"
+    },
+    {
+      "url": "https://www.uploadvr.com/fitxr-expands-beyond-vr-with-personalized-smartphone-workouts/",
+      "date": "2026-09-02"
     }
   ],
   "AI": [
-    {
-      "url": "https://openai.com/index/jalapeno-first-results/",
-      "date": "2026-08-26"
-    },
     {
       "url": "https://www.washingtonpost.com/technology/2026/08/26/openai-says-its-ai-consistently-tries-cheat/",
       "date": "2026-08-27"
@@ -87,13 +83,13 @@
     {
       "url": "https://www.nikkei.com/article/DGXZQOUC069TH0W6A800C2000000/",
       "date": "2026-09-01"
+    },
+    {
+      "url": "https://www.wsj.com/tech/ai/new-google-ai-model-said-to-narrow-gap-on-coding-ability-264c6052",
+      "date": "2026-09-02"
     }
   ],
   "Gaming Monitor": [
-    {
-      "url": "https://www.4gamer.net/games/036/G103635/20260826032/",
-      "date": "2026-08-26"
-    },
     {
       "url": "https://www.4gamer.net/games/990/G999028/20260827008/",
       "date": "2026-08-27"
@@ -117,13 +113,13 @@
     {
       "url": "https://mashable.com/tech/alienware-39-5k-rgb-stripe-tandem-oled-gaming-monitor",
       "date": "2026-09-01"
+    },
+    {
+      "url": "https://www.pcmag.com/deals/screen-savings-take-over-50-off-powerful-tcl-gaming-monitor-sept-1",
+      "date": "2026-09-02"
     }
   ],
   "TCL": [
-    {
-      "url": "https://theinventory.com/tcl-55-inch-qm6k-mini-led-gaming-tv-deal-target",
-      "date": "2026-08-26"
-    },
     {
       "url": "https://www.tomsguide.com/tvs/4k-tvs/tcls-new-2026-fire-tv-is-usd320-off-heres-how-to-get-it",
       "date": "2026-08-27"
@@ -147,13 +143,13 @@
     {
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQX1N4cU00TGxFcjVpU2JHNnJRalY2dWlpTVA4ci12bDdocGk3ckRDZE9rYWtwcENGLTlkMXQ4UmJYcXJpc0JVQ2kzbVp4N0wydHRkd1pDNXBhNmloemRrd1h0TzBmOENESkZkc3VBUTlEWHB4V0RoVWZoZmtVTFcwSWFsM0ZJaVIyUGdITHEtRlpwUmNrMmRrcEN2TEpxQmp4VkhOb283R19hQVFNY3lYbnF2SGZ3OGt6V0E?oc=5",
       "date": "2026-09-01"
+    },
+    {
+      "url": "https://www.mk.co.kr/jp/world/12141910",
+      "date": "2026-09-02"
     }
   ],
   "Camera Control": [
-    {
-      "url": "https://petapixel.com/2026/08/25/apple-unveils-m6-its-first-2-nanometer-chip-and-the-extremely-powerful-m5-ultra/",
-      "date": "2026-08-26"
-    },
     {
       "url": "https://dc.watch.impress.co.jp/docs/news/2135893.html",
       "date": "2026-08-27"
@@ -177,13 +173,13 @@
     {
       "url": "https://petapixel.com/2026/08/31/former-dji-engineers-raise-250000-for-worlds-first-robotic-extreme-zoom-camera/",
       "date": "2026-09-01"
+    },
+    {
+      "url": "https://www.dpreview.com/news/the-colorchecker-photographys-most-important-24-squares-turns-50/",
+      "date": "2026-09-02"
     }
   ],
   "LED Wall Display": [
-    {
-      "url": "https://www.installation-international.com/technology/immersive-tech/antycip-and-dynisma-unite-for-driving-simulation-showcase",
-      "date": "2026-08-26"
-    },
     {
       "url": "https://ravepubs.com/dreamwall-brings-its-show-stopping-monarch-portable-microled-display-to-cedia-expo-2026/",
       "date": "2026-08-27"
@@ -207,13 +203,13 @@
     {
       "url": "//www.ledinside.com/news/2026/8/2026_08_31_02",
       "date": "2026-09-01"
+    },
+    {
+      "url": "//www.ledinside.com/news/2026/8/2026_09_01_04",
+      "date": "2026-09-02"
     }
   ],
   "SONY": [
-    {
-      "url": "https://www.vietnam.vn/ja/danh-gia-sony-xperia-10-viii-nang-cap-man-hinh-120hz-giu-giac-3-5mm-cung-chip-tam-trung",
-      "date": "2026-08-26"
-    },
     {
       "url": "https://www.nikkan.co.jp/articles/view/501344?gnr_footer=16611",
       "date": "2026-08-27"
@@ -237,13 +233,13 @@
     {
       "url": "https://m.thewire.in/article/ptiprnews/sony-india-introduces-a-next-generation-camera-tracking-system-ocellus-for-creation-of-spatial-content-in-augmented-reality-or-virtual-production/amp",
       "date": "2026-09-01"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOaEYtR0tqM1Rxa3NhTG1ZYm5WNUE3U09jQ0dHeTdQZ29USXpKSUs2NmRQLWRtai0tYWxMMFljX3BBNFdNRmxNMnlaRUJHNlE4a2tWaGtoNU4xenNmZVRUOVE1WmNoaGhVZkh1UWFFMlU2bDRNQ1o1aFZ1TUw5VENEUEFTYlVzSklSaTBmVFVsTEJIZVJUNkFrYjl0ZkV2UQ?oc=5",
+      "date": "2026-09-02"
     }
   ],
   "TV": [
-    {
-      "url": "https://www.ign.com/articles/lg-g5-gallery-series-4k-oled-tv-deal-august-2026",
-      "date": "2026-08-26"
-    },
     {
       "url": "https://minpo.online/article/mpte-awards-2026cm.html",
       "date": "2026-08-27"
@@ -267,13 +263,13 @@
     {
       "url": "https://news.ntv.co.jp/category/economy/8a23bb159927487689e1222cb0365827",
       "date": "2026-09-01"
+    },
+    {
+      "url": "https://www.pocket-lint.com/roku-is-finally-making-oled-tvs/",
+      "date": "2026-09-02"
     }
   ],
   "Projector": [
-    {
-      "url": "https://www.ecoustics.com/news/epson-stewart-filmscreen-cedia-expo-2026/",
-      "date": "2026-08-26"
-    },
     {
       "url": "https://www.einnews.com/pr_news/937260440/nebula-launches-upgraded-x1s-triple-laser-outdoor-4k-projector-with-6-000-lumens",
       "date": "2026-08-27"
@@ -297,6 +293,10 @@
     {
       "url": "https://av.watch.impress.co.jp/docs/news/2137042.html",
       "date": "2026-09-01"
+    },
+    {
+      "url": "https://www.manilatimes.net/2026/09/01/tmt-newswire/pr-newswire/xgimi-opens-pre-orders-for-the-aura-3-series-the-worlds-first-4k-120hz-ust-projector-lineup/2416208/amp",
+      "date": "2026-09-02"
     }
   ]
 }

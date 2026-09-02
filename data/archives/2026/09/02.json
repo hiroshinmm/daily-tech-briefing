@@ -1,0 +1,102 @@
+{
+  "SRD / XR": {
+    "title": "FitXRのスマホ展開に見るVRサービスの脱ヘッドセット戦略",
+    "summary": "VRフィットネスの大手であるFitXRが、VRヘッドセットを必要としないスマートフォン向けアプリをリリースしました。VRに限定せず、デバイスの垣根を超えて日常的なフィットネス体験を提供する戦略へと転換しています。",
+    "insight": "VR専業サービスがスマホへ横展開する動きは、ユーザーベースの拡大と継続率向上のための現実的な解といえます。エンジニア視点では、VR空間とモバイル環境で一貫したユーザー体験（UX）をいかに維持し、クロスプラットフォームでデータを同期するかが重要な技術課題となります。",
+    "sourceUrl": "https://www.uploadvr.com/fitxr-expands-beyond-vr-with-personalized-smartphone-workouts/",
+    "sourceName": "UploadVR",
+    "originalImageUrl": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/09/FitXR_Mobile_Key-Asset_02.png",
+    "originalImageArticleUrl": "https://www.uploadvr.com/fitxr-expands-beyond-vr-with-personalized-smartphone-workouts/",
+    "displayDate": "2026-09-02"
+  },
+  "AI": {
+    "title": "Googleの新AIモデル、コーディング能力で上位モデルに肉薄",
+    "summary": "WSJの報道によると、Googleが開発中の新しいAIモデルが、コーディング能力において現在の市場最高峰のモデルとの差を急速に縮めているとのことです。ソフトウェア開発の現場におけるAIの生産性がさらに向上する可能性が高まっています。",
+    "insight": "コーディング支援AIは成熟期に入り、単なるスニペット生成から複雑なシステム設計の補佐へと役割がシフトしています。今後、エンジニアにはモデルの出力を単に使うだけでなく、アーキテクチャの妥当性を評価する「コードのレビュー能力」や「仕様の厳密な定義能力」がより一層求められるようになるでしょう。",
+    "sourceUrl": "https://www.wsj.com/tech/ai/new-google-ai-model-said-to-narrow-gap-on-coding-ability-264c6052",
+    "sourceName": "WSJ",
+    "originalImageUrl": null,
+    "originalImageArticleUrl": "https://www.wsj.com/tech/ai/new-google-ai-model-said-to-narrow-gap-on-coding-ability-264c6052",
+    "displayDate": "2026-09-02"
+  },
+  "TCL": {
+    "title": "TCLがサムスンを提訴：ミニLED広告めぐり対立",
+    "summary": "中国TCLが、北米のミニLEDテレビ市場における広告表現を巡り、サムスン電子を提訴しました。市場シェアを奪われたTCLは、サムスンの広告が虚偽であると主張しており、大手メーカー間のディスプレイ競争が激化しています。",
+    "insight": "ミニLED市場におけるマーケティングとブランディングの重要性が浮き彫りになっています。エンジニアとしては、単なるパネル性能の向上だけでなく、輝度やコントラスト比といった仕様の測定・表示基準がいかに市場競争と法的リスクに直結するかを認識しておくべきです。",
+    "sourceUrl": "https://www.mk.co.kr/jp/world/12141910",
+    "sourceName": "매일경제",
+    "originalImageUrl": "https://pimg.mk.co.kr/news/cms/202609/02/rcv.YNA.20260415.PYH2026041504880001300_R.jpg",
+    "originalImageArticleUrl": "https://www.mk.co.kr/jp/world/12141910",
+    "displayDate": "2026-09-02"
+  },
+  "Gaming Monitor": {
+    "title": "TCLゲーミングモニターが半額以下に！",
+    "summary": "米PCMagにて、TCLの高性能ゲーミングモニターが50%以上の大幅割引で販売されているというニュースが報じられました。最新のゲーム体験を求めるユーザーにとって、コスパに優れたディスプレイ環境を構築する絶好のチャンスとなっています。",
+    "insight": "高リフレッシュレート対応のモニターが大幅値下げされる背景には、次世代のゲーミングディスプレイ技術や標準規格への移行が加速していることが考えられます。エンジニアとしては、単なるハードウェアの安売りだけでなく、最新のディスプレイプロトコルや解像度トレンドが市場に与える影響にも注目すべきでしょう。",
+    "sourceUrl": "https://www.pcmag.com/deals/screen-savings-take-over-50-off-powerful-tcl-gaming-monitor-sept-1",
+    "sourceName": "PCMag",
+    "originalImageUrl": "https://i.pcmag.com/imagery/articles/01g5B9LHR6gjfpF0n1lcJAa-1.fit_lim.size_1200x630.v1788260403.png",
+    "originalImageArticleUrl": "https://www.pcmag.com/deals/screen-savings-take-over-50-off-powerful-tcl-gaming-monitor-sept-1",
+    "displayDate": "2026-09-02"
+  },
+  "TV": {
+    "title": "Rokuが初のOLED TV市場に参入、独自OSとのシナジーに注目",
+    "summary": "Rokuがブランド初のOLED TV「Pro Series」を発売しました。従来はストリーミングプレーヤーやOSライセンス提供が主軸でしたが、ハードウェアへの本格参入により、ユーザー体験の統合と広告モデルの強化を図る戦略が見て取れます。",
+    "insight": "ストリーミング特化型OSと自社製ハードウェアの垂直統合は、UXの最適化だけでなく、視聴データを基にした高度な広告ターゲティングを可能にします。ソフトウェア専業企業がハードウェアへ進出する際の、OS層でのプラットフォーム支配力の強まりに注目すべきです。",
+    "sourceUrl": "https://www.pocket-lint.com/roku-is-finally-making-oled-tvs/",
+    "sourceName": "pocket-lint.com",
+    "originalImageUrl": "https://static0.pocketlintimages.com/wordpress/wp-content/uploads/2026/09/roku-oled-tv-hero.jpg?w=1600&h=900&fit=crop",
+    "originalImageArticleUrl": "https://www.pocket-lint.com/roku-is-finally-making-oled-tvs/",
+    "displayDate": "2026-09-02"
+  },
+  "SONY": {
+    "title": "次期Sony α6900にグローバルシャッター搭載の噂",
+    "summary": "Sonyのミラーレスカメラ「α6900」に、イメージセンサーの全画素を同時に露光する「グローバルシャッター」が搭載される可能性が報じられました。従来のローリングシャッター方式で見られた動体歪み（ジェリー現象）を物理的に解消し、プロフェッショナルな静止画・動画撮影に革命をもたらすことが期待されています。",
+    "insight": "グローバルシャッターの採用は、画像処理パイプラインにおけるデータ読み出し速度と熱設計のハードルが高く、コンシューマー向け機体での実装は技術的なブレークスルーを意味します。 rolling shutter distortionの克服により、高精度なマシンビジョンや高速スキャン用途のセンサー選定基準にも影響を与える可能性があります。",
+    "sourceUrl": "https://news.google.com/rss/articles/CBMingFBVV95cUxOaEYtR0tqM1Rxa3NhTG1ZYm5WNUE3U09jQ0dHeTdQZ29USXpKSUs2NmRQLWRtai0tYWxMMFljX3BBNFdNRmxNMnlaRUJHNlE4a2tWaGtoNU4xenNmZVRUOVE1WmNoaGhVZkh1UWFFMlU2bDRNQ1o1aFZ1TUw5VENEUEFTYlVzSklSaTBmVFVsTEJIZVJUNkFrYjl0ZkV2UQ?oc=5",
+    "sourceName": "The Phoblographer",
+    "originalImageUrl": null,
+    "originalImageArticleUrl": "https://news.google.com/rss/articles/CBMingFBVV95cUxOaEYtR0tqM1Rxa3NhTG1ZYm5WNUE3U09jQ0dHeTdQZ29USXpKSUs2NmRQLWRtai0tYWxMMFljX3BBNFdNRmxNMnlaRUJHNlE4a2tWaGtoNU4xenNmZVRUOVE1WmNoaGhVZkh1UWFFMlU2bDRNQ1o1aFZ1TUw5VENEUEFTYlVzSklSaTBmVFVsTEJIZVJUNkFrYjl0ZkV2UQ?oc=5",
+    "displayDate": "2026-09-02"
+  },
+  "Production Monitor": {
+    "title": "GoProがStarman Opticalに買収され、AIデータセンター向けへ転換",
+    "summary": "アクションカメラで知られるGoProが、光学機器メーカーのStarman Opticalに2億8500万ドルで買収されることが決定しました。今後はカメラ市場から軸足を移し、GoProの特許技術を活用してAIデータセンター向けの光トランシーバー事業へ注力する方針です。",
+    "insight": "ハードウェア企業が既存の光学技術資産をAIインフラ転用するピボット戦略は、製造業におけるDXの一例として非常に興味深いです。高付加価値なデータセンター光学部品へのシフトが、かつてのコンシューマー向けビジネスの苦境をどう打破するのか注目されます。",
+    "sourceUrl": "https://www.cined.com/gopro-has-found-its-buyer-starman-optical-285-million-and-a-pivot-into-ai-data-center-optics/",
+    "sourceName": "CineD",
+    "originalImageUrl": "https://www.cined.com/content/uploads/2026/09/GoPro-Merger-featured-300x169.jpg",
+    "originalImageArticleUrl": "https://www.cined.com/gopro-has-found-its-buyer-starman-optical-285-million-and-a-pivot-into-ai-data-center-optics/",
+    "displayDate": "2026-09-02"
+  },
+  "Projector": {
+    "title": "世界初！4K 120Hz対応の超短焦点プロジェクター「AURA 3」",
+    "summary": "XGIMIが世界初となる4K/120Hz対応の超短焦点プロジェクター「AURA 3」の予約を開始しました。ホームシアター環境において、これまで難しかった高解像度かつ高リフレッシュレートの映像体験を短焦点で実現します。",
+    "insight": "プロジェクターにおいて4Kと120Hzの両立は、帯域幅と処理負荷の観点から非常に高いハードルでしたが、これが製品化されたことは映像エンジニアリングの大きな進歩です。今後、家庭用ディスプレイの要件として高リフレッシュレートが標準化していく兆しを感じさせます。",
+    "sourceUrl": "https://www.manilatimes.net/2026/09/01/tmt-newswire/pr-newswire/xgimi-opens-pre-orders-for-the-aura-3-series-the-worlds-first-4k-120hz-ust-projector-lineup/2416208/amp",
+    "sourceName": "The Manila Times",
+    "originalImageUrl": "https://manilatimes.net/manilatimes/uploads/images/2026/09/01/1198425.jpg",
+    "originalImageArticleUrl": "https://www.manilatimes.net/2026/09/01/tmt-newswire/pr-newswire/xgimi-opens-pre-orders-for-the-aura-3-series-the-worlds-first-4k-120hz-ust-projector-lineup/2416208/amp",
+    "displayDate": "2026-09-02"
+  },
+  "LED Wall Display": {
+    "title": "ARグラスの進化：積層ホログラフィック回折格子の技術革新",
+    "summary": "研究者がRGB各色に対応した3層のホログラフィック回折格子を重ねることで、高輝度かつフルカラーの近眼用ディスプレイ技術を開発しました。この小型でエネルギー効率の高い設計は、ARグラスの次世代ディスプレイ技術として期待されています。",
+    "insight": "従来の導波路方式に代わり、微細な光学構造で光を精密に制御する手法は、ARデバイスのフォームファクタ削減に大きく寄与します。回折格子の設計とスタッキング技術は、高効率な光結合を実現するためのエンジニアリング上の重要な鍵となるでしょう。",
+    "sourceUrl": "//www.ledinside.com/news/2026/8/2026_09_01_04",
+    "sourceName": "LEDinside",
+    "originalImageUrl": null,
+    "originalImageArticleUrl": "//www.ledinside.com/news/2026/8/2026_09_01_04",
+    "displayDate": "2026-09-02"
+  },
+  "Camera Control": {
+    "title": "カラーチャートの標準「ColorChecker」が50周年",
+    "summary": "写真撮影や映像制作のカラーマネジメントにおいて業界標準となっている「ColorChecker」が誕生から50周年を迎えました。わずか24色のパッチが、半世紀にわたりデジタル・フィルム双方の色彩の基準を支え続けてきた歴史は、技術者にとっても興味深いトピックです。",
+    "insight": "デジタル画像処理において、色情報の不変性を定義するキャリブレーション技術は基礎となる重要な要素です。50年前から変わらぬ24色の標準値が現代のAI画像処理やRAW現像フローにどう組み込まれているかを再考するのは、エンジニアにとって有意義な知的刺激になります。",
+    "sourceUrl": "https://www.dpreview.com/news/the-colorchecker-photographys-most-important-24-squares-turns-50/",
+    "sourceName": "DPReview",
+    "originalImageUrl": "https://www.dpreview.com/wp-content/uploads/2026/09/50-Years-16x9-Lead-1.jpg",
+    "originalImageArticleUrl": "https://www.dpreview.com/news/the-colorchecker-photographys-most-important-24-squares-turns-50/",
+    "displayDate": "2026-09-02"
+  }
+}
