@@ -1,10 +1,6 @@
 {
   "Production Monitor": [
     {
-      "url": "https://www.cined.com/welcome-to-lollywood-why-film-production-is-leaving-los-angeles-for-london/",
-      "date": "2026-08-28"
-    },
-    {
       "url": "https://www.cined.com/eddie-ai-overhauled-pay-as-you-go-pricing-editing-from-claude-and-chatgpt-and-an-iphone-app/",
       "date": "2026-08-29"
     },
@@ -27,13 +23,13 @@
     {
       "url": "https://www.provideocoalition.com/avid-media-composer-2026-8-is-now-available/",
       "date": "2026-09-03"
+    },
+    {
+      "url": "https://www.cined.com/opinion-the-ai-ad-selling-storage-to-the-filmmakers-its-replacing-samsungs-portable-ssd-p9-campaign/",
+      "date": "2026-09-04"
     }
   ],
   "SRD / XR": [
-    {
-      "url": "https://prtimes.jp/main/html/rd/p/000000083.000110387.html",
-      "date": "2026-08-28"
-    },
     {
       "url": "https://www.moguravr.com/mreal-collaborator-report/",
       "date": "2026-08-29"
@@ -57,13 +53,13 @@
     {
       "url": "https://www.moguravr.com/horizon-os-2-7-quest3-207hz/",
       "date": "2026-09-03"
+    },
+    {
+      "url": "https://finance.yahoo.co.jp/news/detail/2c279b8be1c05a0424141b5f512e82113df3a949",
+      "date": "2026-09-04"
     }
   ],
   "AI": [
-    {
-      "url": "https://www.wsj.com/tech/nvidia-pauses-revenue-sharing-deals-with-ai-cloud-companies-9c71454e",
-      "date": "2026-08-28"
-    },
     {
       "url": "https://www.sankei.com/article/20260828-RJSFTQBT3VMEPN5EQIQZX4TG4U/",
       "date": "2026-08-29"
@@ -87,13 +83,13 @@
     {
       "url": "https://jp.reuters.com/economy/WGFCOPV5NRLPJNNK5ZX56JJHUQ-2026-09-03/",
       "date": "2026-09-03"
+    },
+    {
+      "url": "https://jp.reuters.com/economy/GO2RY5V7EVO7TDA6K27C3B7IFQ-2026-09-03/",
+      "date": "2026-09-04"
     }
   ],
   "Gaming Monitor": [
-    {
-      "url": "https://www.pcguide.com/deals/already-discounted-samsung-32-odyssey-g8-4k-oled-gaming-monitor-has-an-extra-170-off-with-newegg-promo-code/",
-      "date": "2026-08-28"
-    },
     {
       "url": "https://www.4gamer.net/games/975/G097539/20260829002/",
       "date": "2026-08-29"
@@ -117,13 +113,13 @@
     {
       "url": "https://www.ign.com/articles/alienware-aw3926qw-39-5k-oled-gaming-monitor-is-now-available",
       "date": "2026-09-03"
+    },
+    {
+      "url": "https://www.ign.com/articles/alienware-aw3926qw-39-5k-oled-gaming-monitor-is-now-available",
+      "date": "2026-09-04"
     }
   ],
   "TCL": [
-    {
-      "url": "https://www.moomoo.com/news/post/75434124/tcl-technology-completes-45-stake-in-guangzhou-csot-semiconductor-for",
-      "date": "2026-08-28"
-    },
     {
       "url": "https://chimolog.co/tcl-32x3a/",
       "date": "2026-08-29"
@@ -147,13 +143,13 @@
     {
       "url": "https://www.socialsamosa.com/industry-updates/tcl-sues-samsung-us-over-alleged-false-mini-led-tv-ads-12483620",
       "date": "2026-09-03"
+    },
+    {
+      "url": "https://sumahodigest.com/?p=69448",
+      "date": "2026-09-04"
     }
   ],
   "Camera Control": [
-    {
-      "url": "https://dc.watch.impress.co.jp/docs/news/2136392.html",
-      "date": "2026-08-28"
-    },
     {
       "url": "https://www.dpreview.com/articles/whatcable-is-the-free-mac-app-photographers-with-a-drawer-full-of-usb-c-cables-need/",
       "date": "2026-08-29"
@@ -177,13 +173,13 @@
     {
       "url": "https://petapixel.com/2026/09/02/this-new-open-source-camera-has-swappable-sensors-and-lens-mounts/",
       "date": "2026-09-03"
+    },
+    {
+      "url": "https://petapixel.com/2026/09/03/you-can-now-use-gemini-spark-to-manage-your-google-photos/",
+      "date": "2026-09-04"
     }
   ],
   "LED Wall Display": [
-    {
-      "url": "https://natlawreview.com/press-releases/flexible-led-wall-washer-manufacturer-bending-direction-and-pixel-control",
-      "date": "2026-08-28"
-    },
     {
       "url": "https://stocktwits.com/news-articles/markets/equity/why-rdw-te-otlk-stocks-posted-double-digit-gains-on-tuesday/cZgXzBfReA9",
       "date": "2026-08-29"
@@ -207,13 +203,13 @@
     {
       "url": "//www.ledinside.com/news/2026/9/2026_09_02_01",
       "date": "2026-09-03"
+    },
+    {
+      "url": "https://www.digitalsignagetoday.com/news/yodeck-launches-ai-agent-for-digital-signage-management/",
+      "date": "2026-09-04"
     }
   ],
   "SONY": [
-    {
-      "url": "https://mshale.com/c8ea52f7/908fc720eNDvV-BjRM",
-      "date": "2026-08-28"
-    },
     {
       "url": "https://hothardware.com/news/sony-playstation-monitor-built-in-dualsense-dock-now-available",
       "date": "2026-08-29"
@@ -237,13 +233,13 @@
     {
       "url": "https://www.mysmartprice.com/gear/others/others-news/sony-rx10-v-launched-in-india-with-25x-optical-zoom-30fps-burst-shooting-and-4k-120p-video/?amp",
       "date": "2026-09-03"
+    },
+    {
+      "url": "https://diamond.jp/articles/amp/398016",
+      "date": "2026-09-04"
     }
   ],
   "TV": [
-    {
-      "url": "https://www.ntv.co.jp/24h/articles/60fokb0elaizifz9yb.html",
-      "date": "2026-08-28"
-    },
     {
       "url": "https://www.ntv.co.jp/24h-drama2026/articles/5646m95pjvkciy1uwon9.html",
       "date": "2026-08-29"
@@ -267,13 +263,13 @@
     {
       "url": "https://www.ign.com/articles/philips-4k-oled-roku-tv-deal-september-2026",
       "date": "2026-09-03"
+    },
+    {
+      "url": "https://www.techtimes.com/articles/326268/20260903/labor-day-oled-tv-deals-hit-multi-year-lows-while-rgb-mini-led-costs-double.htm",
+      "date": "2026-09-04"
     }
   ],
   "Projector": [
-    {
-      "url": "https://basic-tutorials.com/news/viewsonic-lsd500-4k/",
-      "date": "2026-08-28"
-    },
     {
       "url": "https://news.infoseek.co.jp/article/allabout_162273/",
       "date": "2026-08-29"
@@ -297,6 +293,10 @@
     {
       "url": "https://ca.news.yahoo.com/jmgo-iris-ultra-max-world-000023657.html",
       "date": "2026-09-03"
+    },
+    {
+      "url": "https://www.techlicious.com/blog/xgimi-aura-3-is-worlds-first-4k-120hz-ust-projector/",
+      "date": "2026-09-04"
     }
   ]
 }
