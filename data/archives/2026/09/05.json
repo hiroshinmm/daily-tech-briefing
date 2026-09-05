@@ -1,0 +1,66 @@
+{
+  "Camera Control": {
+    "title": "Blackmagicがシネマカメラを大幅値下げ、その理由は？",
+    "summary": "Blackmagic Designが「Cinema Camera 6K」および「Pyxis 6K」の価格を1000ドル以上引き下げました。同社はサプライチェーンでのパーツ調達コストの改善が値下げを可能にしたと説明しており、昨今の製品価格高騰の中で異例の動きとして注目されています。",
+    "insight": "製造業における「パーツ調達の最適化」が、どのように最終製品の価格競争力に直結するかを示す良い実例です。エンジニアリング視点では、単なるコスト削減だけでなく、調達戦略が製品の市場ポジショニングをどう変えるかというサプライチェーン管理の重要性が再認識されます。",
+    "sourceUrl": "https://www.dpreview.com/news/this-is-refreshing-blackmagic-is-making-some-of-its-cameras-over-1000-cheaper/",
+    "sourceName": "DPReview",
+    "originalImageUrl": "https://www.dpreview.com/wp-content/uploads/2026/09/hero-sm2x-16x9-Lead-1.jpg",
+    "originalImageArticleUrl": "https://www.dpreview.com/news/this-is-refreshing-blackmagic-is-making-some-of-its-cameras-over-1000-cheaper/",
+    "displayDate": "2026-09-05"
+  },
+  "Production Monitor": {
+    "title": "GoProがAI企業と合併、カメラ事業の行方は？",
+    "summary": "GoProがAIデータセンター関連企業「Starman Optical」との合併を発表しました。これを受け、ファンやユーザーから「今後もカメラ開発を続けるのか」という懸念の声が上がり、CEOのNick Woodman氏が公式にカメラ事業継続の姿勢を表明する公開書簡を公開しました。",
+    "insight": "AIハードウェアへの戦略転換と既存のコンシューマー向け製品ラインの維持をどう両立させるかは、多くのテック企業が直面する現代的な課題です。ハードウェアエンジニアとしては、エッジデバイスとしてのカメラがAIインフラとどう統合・進化していくかというアーキテクチャの未来図に注目です。",
+    "sourceUrl": "https://www.cined.com/gopro-says-the-cameras-are-staying-reading-nick-woodmans-post-merger-letter/",
+    "sourceName": "CineD",
+    "originalImageUrl": "https://www.cined.com/content/uploads/2026/09/gopro-woodman-featured-16x9-3-300x169.jpeg",
+    "originalImageArticleUrl": "https://www.cined.com/gopro-says-the-cameras-are-staying-reading-nick-woodmans-post-merger-letter/",
+    "displayDate": "2026-09-05"
+  },
+  "Projector": {
+    "title": "radikoにAIチャプター機能が登場",
+    "summary": "radikoアプリに新機能「チャプター」が追加されました。AIがラジオ番組やポッドキャストの内容を解析し、話題ごとに自動で区切りを作成。聴きたい場面にスキップできるため、長尺コンテンツの視聴体験が大幅に向上しました。",
+    "insight": "音声データに対するAIの自動セグメンテーションは、UXを劇的に改善する好例です。UI/UXエンジニアとしては、長尺メディアにおけるシークの利便性やメタデータ活用について改めて考察する良い機会と言えます。",
+    "sourceUrl": "https://av.watch.impress.co.jp/docs/news/2138232.html",
+    "sourceName": "AV Watch",
+    "originalImageUrl": "https://av.watch.impress.co.jp/img/avw/list/2138/232/main.jpg",
+    "originalImageArticleUrl": "https://av.watch.impress.co.jp/docs/news/2138232.html",
+    "displayDate": "2026-09-05"
+  },
+  "SRD / XR": {
+    "title": "VRChatで5.4万人動員、企業向けメタバース活用の要諦",
+    "summary": "VRChatにおける大規模イベントの成功事例が公開。無料プラットフォームでいかにユーザーを惹きつけ、ビジネスとしてマネタイズを成立させるかという企画・運用の知見が語られました。企業や自治体のメタバース参入が加速する中、エンジニアにとっても集客と収益化を両立するワールド設計のベストプラクティスは注目すべきトピックです。",
+    "insight": "メタバース空間での大規模イベント成功には、単なるワールド制作だけでなく、滞在時間を延ばす動線設計と体験価値の言語化が不可欠です。プラットフォームの制約を逆手に取ったインタラクティブな仕掛けや、UI/UXデザインにおける工夫が、今後の空間コンピューティング時代のUX実装の参考になります。",
+    "sourceUrl": "https://www.moguravr.com/xr-kaigi-hub-hukuoka-2026-vrc-report/",
+    "sourceName": "Mogura VR",
+    "originalImageUrl": "https://assets.moguravr.com/uploads/2026/09/ee5ad28c36e9a415ba5676c7f0e9df99-kix.rw8otivb1gbb-300x169.webp",
+    "originalImageArticleUrl": "https://www.moguravr.com/xr-kaigi-hub-hukuoka-2026-vrc-report/",
+    "displayDate": "2026-09-05"
+  },
+  "TV": null,
+  "Gaming Monitor": {
+    "title": "2.5Gbps時代の必須知識：LANケーブルの選び方",
+    "summary": "1Gbpsを超える有線LAN環境が普及する中、従来のカテゴリ6ケーブルの役割が見直されています。PCやNAS、Wi-Fi 7ルーターなどの高速通信機器を導入する際、どのLANケーブルを選ぶべきか、速度差や規格の変遷を交えて解説したエンジニア必読の技術記事です。",
+    "insight": "ネットワーク機器の高速化に伴い、パケットロスや伝送品質を維持するための物理層の仕様把握が重要になっています。特にCat6/6A以降のシールド仕様の違いは、トラブルシューティング時の切り分けにおいても考慮すべきエンジニアリング指標です。",
+    "sourceUrl": "https://pc.watch.impress.co.jp/docs/topic/readitnow/2138514.html",
+    "sourceName": "PC Watch",
+    "originalImageUrl": "https://pc.watch.impress.co.jp/img/pcw/list/2138/514/1.jpg",
+    "originalImageArticleUrl": "https://pc.watch.impress.co.jp/docs/topic/readitnow/2138514.html",
+    "displayDate": "2026-09-05"
+  },
+  "AI": null,
+  "SONY": null,
+  "TCL": null,
+  "LED Wall Display": {
+    "title": "エプソンがAll-in-One dvLED市場に参入",
+    "summary": "エプソンが、設置やメンテナンスの手間を簡略化したAll-in-One形式のdvLED（ダイレクトビューLED）ディスプレイを発表しました。大型ディスプレイ市場における新たな選択肢として注目されています。",
+    "insight": "dvLEDのモジュール化が進むことで、従来の複雑な設置プロセスが簡素化され、市場の裾野が広がります。エンジニアの視点では、スケーラビリティと統合の容易さがシステム設計における重要な差別化要因になるでしょう。",
+    "sourceUrl": "https://www.digitalsignagetoday.com/news/epson-debuts-all-in-one-dvled-displays/",
+    "sourceName": "Digital Signage Today",
+    "originalImageUrl": "https://nmgprod.s3.amazonaws.com/media/file/b6/7a/56ff3cd1e3292dd32278d066bb88/cover_image__Ks9hlf3U__epson_all_in_one_dvled_us.jpg.360x190_q85_crop_upscale.webp",
+    "originalImageArticleUrl": "https://www.digitalsignagetoday.com/news/epson-debuts-all-in-one-dvled-displays/",
+    "displayDate": "2026-09-05"
+  }
+}
