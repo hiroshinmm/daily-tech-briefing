@@ -1,0 +1,102 @@
+{
+  "SRD / XR": {
+    "title": "Picoの新型機「Space Pro」がFCC認証を取得",
+    "summary": "Picoの次期デバイスと目される「Space Pro」が、Q4へのリリース延期を経てFCCの認証を通過しました。公開された資料から、外部バッテリーや演算ユニットを接続するテザー型デバイスである可能性が高いことが判明しています。",
+    "insight": "VR/ARデバイスにおける軽量化と処理能力の両立を目指すトレンドとして、コンピュートユニットを分離する構成は今後も主要な選択肢となりそうです。開発者は、こうした外部接続デバイスにおける通信レイテンシの最適化やUX設計の差異を考慮する必要があります。",
+    "sourceUrl": "https://www.uploadvr.com/pico-space-pro-appears-to-receive-fcc-certification-following-delay-to-q4/",
+    "sourceName": "UploadVR",
+    "originalImageUrl": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/09/Pico-Project-Swan-headset-visual.webp",
+    "originalImageArticleUrl": "https://www.uploadvr.com/pico-space-pro-appears-to-receive-fcc-certification-following-delay-to-q4/",
+    "displayDate": "2026-09-06"
+  },
+  "AI": {
+    "title": "激化するAIモデルの低価格化競争と技術戦略",
+    "summary": "中国のAI市場で、智譜（Zhipu AI）などの企業が競合のDeepSeekより7割安価なモデルを投入するなど、モデルの低料金化競争が加速しています。性能向上だけでなく、いかに安価に社会実装するかが今後の普及の鍵となりそうです。",
+    "insight": "APIの低価格化は、開発者が実験的なプロジェクトを量産しやすくする追い風となります。エンジニアとしては、特定のモデルに依存しないアーキテクチャや、推論コストを最適化するMLOpsの重要性がこれまで以上に高まっています。",
+    "sourceUrl": "https://www.nikkei.com/article/DGXZQOGM038X50T00C26A9000000/",
+    "sourceName": "日本経済新聞",
+    "originalImageUrl": "https://article-image-ix.nikkei.com/https%3A%2F%2Fimgix-proxy.n8s.jp%2FDSXZQO3553561004092026000000-1.jpg?auto=compress&bg=FFFF&crop=focalpoint&fit=crop&fm=jpg&h=630&w=1200&s=7543263e65114e9a6fedc966c5510bc4",
+    "originalImageArticleUrl": "https://www.nikkei.com/article/DGXZQOGM038X50T00C26A9000000/",
+    "displayDate": "2026-09-06"
+  },
+  "SONY": {
+    "title": "ソニー新型超望遠レンズ、994gの衝撃",
+    "summary": "ソニーから世界最軽量級となる400mm/600mmクラスの超望遠レンズが登場するとの噂が話題です。重量わずか994gと予測されており、プロやハイアマチュアの間で「この軽さなら即買い」と期待が最高潮に達しています。",
+    "insight": "光学設計において「軽さと高画質のトレードオフ」をいかに解消したか、最新のレンズ素材や非球面レンズ技術の進歩が注目されます。軽量化はモバイル性能だけでなく、撮影者のフィジカル負荷を劇的に変えるため、UXエンジニアにとってもハードウェアの物理的制約の克服事例として興味深いトピックです。",
+    "sourceUrl": "https://hashout.jp/gadget/9998/",
+    "sourceName": "shiritomo",
+    "originalImageUrl": "https://hashout.jp/wp-content/uploads/2026/09/2095889692730269776-img-1-1200x675.png",
+    "originalImageArticleUrl": "https://hashout.jp/gadget/9998/",
+    "displayDate": "2026-09-06"
+  },
+  "TCL": {
+    "title": "TCLの次世代技術：印刷OLEDがIFAで金賞受賞",
+    "summary": "IFA 2026において、TCL傘下のディスプレイ部門であるTCL CSOTが、「印刷OLED（Inkjet-printed OLED）」技術で金賞を受賞しました。従来の蒸着方式と比較し、低コストかつ大画面化に適した製造技術として注目を集めています。",
+    "insight": "印刷方式のOLED製造は、材料ロスを大幅に削減し、製造コストを抑えつつ大型パネルを量産できる可能性を秘めたブレイクスルー技術です。ハードウェアエンジニアにとっては、今後のディスプレイ産業の価格構造やフォームファクタの進化を占う重要なマイルストーンとなります。",
+    "sourceUrl": "chrome-error://chromewebdata/",
+    "sourceName": "財経新聞",
+    "originalImageUrl": null,
+    "originalImageArticleUrl": "chrome-error://chromewebdata/",
+    "displayDate": "2026-09-06"
+  },
+  "Camera Control": {
+    "title": "折りたたみスマホのカメラ、妥協すべきは超広角か望遠か？",
+    "summary": "iPhoneの折りたたみモデルにおけるカメラ構成の議論が白熱しています。3眼構成が主流の現在、もし制約により2眼に絞らなければならない場合、ユーザー体験や実用性の観点から超広角と望遠のどちらを残すべきか、という技術的かつ設計思想的な問いを投げかけています。",
+    "insight": "モバイルカメラの設計において、センサーサイズと光学ズームのトレードオフは物理的な限界との戦いです。計算写真学（Computational Photography）による補完が進む現在でも、光学的な焦点距離の選択は製品のターゲット層を決定づける重要なエンジニアリングの判断基準となります。",
+    "sourceUrl": "https://www.dpreview.com/opinion/ultrawide-vs-telephoto-if-the-iphone-fold-only-has-one-which-should-it-be/",
+    "sourceName": "DPReview",
+    "originalImageUrl": "https://www.dpreview.com/wp-content/uploads/2026/09/gi_iphone_15_pro_and_iphone_16_on_bench.jpg",
+    "originalImageArticleUrl": "https://www.dpreview.com/opinion/ultrawide-vs-telephoto-if-the-iphone-fold-only-has-one-which-should-it-be/",
+    "displayDate": "2026-09-06"
+  },
+  "Gaming Monitor": {
+    "title": "Samsungが2027年向け新型モニターラインナップを発表",
+    "summary": "SamsungがOdysseyシリーズの2027年モデルとして、OLED搭載のG9, G8, G7, G6を発表しました。ゲーミングモニター市場でのOLED採用がさらに加速しており、次世代ディスプレイの基準が刷新されそうです。",
+    "insight": "OLED技術の標準化が進む中、エンジニアとしては焼き付き耐性や輝度維持率といったハードウェア特性の変化に注目が必要です。特に高リフレッシュレート環境での表示遅延や色精度管理の最適化は、次世代UI開発において重要な知見となります。",
+    "sourceUrl": "https://mashable.com/tech/samsung-odyssey-2027-gaming-monitors-announcement",
+    "sourceName": "mashable.com",
+    "originalImageUrl": "https://helios-i.mashable.com/imagery/articles/07KSwHVtCXjwGMtbC9PN9Oa/hero-image.fill.size_1200x675.v1787929700.jpg",
+    "originalImageArticleUrl": "https://mashable.com/tech/samsung-odyssey-2027-gaming-monitors-announcement",
+    "displayDate": "2026-09-06"
+  },
+  "TV": {
+    "title": "YouTuber「wakatte.tv」の侮辱騒動と炎上後の対応",
+    "summary": "人気YouTubeチャンネル「wakatte.tv」が福島大学を侮辱するような発言を行い、大学からの抗議を受けて謝罪する事態に発展。出演者の対応や吉村知事のコメントなども含め、ネットメディアの品位と倫理が問われる騒動となっています。",
+    "insight": "インフルエンサーの言動が即座に法的・社会的問題に発展するリスクは、ソフトウェア開発における「炎上マーケティング」のリスク管理にも通じます。ユーザーのフィードバックや不適切なコンテンツへの対処プロセスを疎かにすると、企業ブランドに回復不能なダメージを与える可能性を再認識すべきです。",
+    "sourceUrl": "https://news.yahoo.co.jp/expert/articles/d4203fb2f145c2382528fed5e62580276eac08d5",
+    "sourceName": "Yahoo!ニュース",
+    "originalImageUrl": "https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/rpr/ishiwatarireiji/02709599/title-1788613862475.jpeg?exp=10800",
+    "originalImageArticleUrl": "https://news.yahoo.co.jp/expert/articles/d4203fb2f145c2382528fed5e62580276eac08d5",
+    "displayDate": "2026-09-06"
+  },
+  "Projector": {
+    "title": "世界初！光学レンズシフト搭載の4K/120Hz短焦点プロジェクター",
+    "summary": "AWOL Visionが、世界初となる光学レンズシフト機能を搭載した4K・120Hz対応の超短焦点（UST）プロジェクター「LuxVision」を発表しました。価格は5,999ドルです。",
+    "insight": "超短焦点モデルで物理的な光学レンズシフトを搭載するのは技術的難易度が高く、設置自由度の向上は大きな進歩です。高リフレッシュレート（120Hz）との組み合わせにより、ゲーミングとホームシアターの境界がまた一つ消滅しました。",
+    "sourceUrl": "https://www.androidheadlines.com/2026/09/awol-vision-just-announced-the-worlds-first-4k-120hz-ultra-short-throw-projector-with-optical-shift.html",
+    "sourceName": "Android Headlines",
+    "originalImageUrl": null,
+    "originalImageArticleUrl": "https://www.androidheadlines.com/2026/09/awol-vision-just-announced-the-worlds-first-4k-120hz-ultra-short-throw-projector-with-optical-shift.html",
+    "displayDate": "2026-09-06"
+  },
+  "Production Monitor": {
+    "title": "Blackmagicが6Kシネマカメラを大幅値下げ",
+    "summary": "Blackmagic Designが「PYXIS 6K」および「Cinema Camera 6K」の販売価格を値下げしました。昨今の機材価格高騰のトレンドに逆行し、部品調達コストの最適化により実現したもので、映像制作現場にとって大きな朗報となっています。",
+    "insight": "製造コストの最適化によって販売価格を下げるという意思決定は、サプライチェーン管理の優れた事例と言えます。技術者としては、ハードウェアの価格変動がエコシステムに与える影響や、低コスト化が開発・検証環境の構築をどう加速させるかに注目すべきです。",
+    "sourceUrl": "https://www.newsshooter.com/2026/09/04/blackmagic-design-lowers-the-prices-for-pyxis-6k-cinema-camera-6k/",
+    "sourceName": "Newsshooter",
+    "originalImageUrl": "https://www.provideocoalition.com/wp-content/uploads/blackmagiclowerprice001.jpg",
+    "originalImageArticleUrl": "https://www.provideocoalition.com/blackmagic-pyxis-6k-and-cinema-camera-6k-have-a-new-lower-price/",
+    "displayDate": "2026-09-06"
+  },
+  "LED Wall Display": {
+    "title": "屋外でも高輝度！DreamWallの新型SMD LEDウォール",
+    "summary": "CEDIA Expo 2026にて、DreamWallが直射日光下でも鮮明な映像を表示可能な屋外用SMD 2.6 LEDウォールを発表しました。過酷な環境下での視認性と耐久性を高めた最新モデルです。",
+    "insight": "屋外用LEDではピクセルピッチの微細化と輝度の両立がエンジニアリング上の課題ですが、SMD 2.6の採用は高解像度化への重要なステップです。放熱設計と耐環境性能の最適化は、デジタルサイネージの屋外展開における信頼性を大きく左右する重要な要素と言えます。",
+    "sourceUrl": "https://ravepubs.com/rave-video/cedia-expo-2026-dreamwall-showcases-outdoor-smd-2-6-led-wall-designed-for-full-sun-exposure/",
+    "sourceName": "rAVe [PUBS]",
+    "originalImageUrl": null,
+    "originalImageArticleUrl": "https://ravepubs.com/rave-video/cedia-expo-2026-dreamwall-showcases-outdoor-smd-2-6-led-wall-designed-for-full-sun-exposure/",
+    "displayDate": "2026-09-06"
+  }
+}
