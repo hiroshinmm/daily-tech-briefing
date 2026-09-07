@@ -1,0 +1,102 @@
+{
+  "AI": {
+    "title": "ビル・ゲイツが語る「AI時代の重大な岐路」",
+    "summary": "ビル・ゲイツ氏が自身のブログ「Gates Notes」で、AI時代における技術の急速な発展と、現在我々が下す選択が極めて重要であると指摘。AIがもたらす変革期において、社会や開発者はどのような姿勢で向き合うべきかについて警鐘を鳴らしています。",
+    "insight": "技術開発の進展が指数関数的である一方で、その影響を考慮した倫理的・社会的な合意形成が追いついていない現状は、エンジニアにとって無視できない課題です。実装の効率化だけでなく、システムの安全性とガバナンスを設計段階から組み込むことが、今後より一層強く求められるでしょう。",
+    "sourceUrl": "https://www.gatesnotes.com/a-turbulent-ai-era-and-critical-choices-to-make",
+    "sourceName": "Gates Notes",
+    "originalImageUrl": "https://images.gatesnotes.com/12514eb8-7b51-008e-41a9-512542cf683b/f93f0cc8-be6d-4e33-870b-ab6d546576f1/AI-Article-08.19.2026-Share-Image-1200x630.jpg",
+    "originalImageArticleUrl": "https://www.gatesnotes.com/a-turbulent-ai-era-and-critical-choices-to-make",
+    "displayDate": "2026-09-07"
+  },
+  "SRD / XR": {
+    "title": "AR×介護の現場革命！高専生が開発した即戦力グラス",
+    "summary": "徳島の高専生が、介護現場の負担軽減を目指してARグラスを開発。新人やスポットワーカーが装着するだけで作業手順や支援情報を視覚的に確認でき、即戦力化を支援するソリューションとして注目されています。",
+    "insight": "ARの現場導入において、ハンズフリーでコンテキストに沿った情報提示を行うUI設計は依然として重要です。特に介護のような非定型業務が多い現場では、ウェアラブルによるDXが人手不足解消の強力な武器になり得ます。",
+    "sourceUrl": "https://www.tokyo-np.co.jp/article/511381",
+    "sourceName": "東京新聞",
+    "originalImageUrl": "https://static.tokyo-np.co.jp/image/article/size1/e/b/1/c/eb1c077d8b4cc8428149631181092ce6_2.jpg",
+    "originalImageArticleUrl": "https://www.tokyo-np.co.jp/article/511381",
+    "displayDate": "2026-09-07"
+  },
+  "TCL": {
+    "title": "TCLの「ダークファクトリー」：完全自動化工場の衝撃",
+    "summary": "TCL傘下のCSOTが運営するディスプレイ製造工場のルポ記事。照明を消して稼働するほど高度に自動化された「ダークファクトリー」の実態が明かされました。巨大ガラス基板のハンドリングから製品完成までを無人・低人手で完結させる生産技術の進化が注目を集めています。",
+    "insight": "製造業の自動化は、単なる省人化から、環境制御を最小限に抑えるエネルギー効率重視のインフラ設計へとシフトしています。極めて高い精度が求められるディスプレイ製造において、ロボティクスとセンサー技術がどのように歩留まりを維持しているのか、その制御アルゴリズムには学ぶべき点が多くあります。",
+    "sourceUrl": "https://corriente.jp/tcl-ac-guangju-intelligent-manufacturing-base-report/",
+    "sourceName": "corriente.jp",
+    "originalImageUrl": "https://corriente.jp/wp-content/uploads/2026/09/tcl-ac-guangju-intelligent-manufacturing-base-photo8.webp",
+    "originalImageArticleUrl": "https://corriente.jp/tcl-ac-guangju-intelligent-manufacturing-base-report/",
+    "displayDate": "2026-09-07"
+  },
+  "Gaming Monitor": {
+    "title": "560Hz駆動の衝撃、Alienwareの新型OLEDが凄すぎる",
+    "summary": "Alienwareが展開するリフレッシュレート560Hz対応のOLEDゲーミングモニターが、eスポーツ界で「チート級」の体験をもたらすと話題です。超高速描画による滑らかさは視認性を劇的に向上させます。",
+    "insight": "リフレッシュレート560Hzというスペックは、もはやディスプレイの入力遅延や描画間隔が人間の反応速度のボトルネックにならないレベルに到達しています。エンジニア視点では、この描画データ量やフレーム生成のレンダリングパイプラインを支えるGPU性能とのバランス、そしてOLED特有の焼き付き防止技術の進化に注目すべきです。",
+    "sourceUrl": "https://www.digitaltrends.com/gaming/alienware-aw2527hx-560hz-oled-gaming-monitor/",
+    "sourceName": "Digital Trends",
+    "originalImageUrl": null,
+    "originalImageArticleUrl": "https://www.digitaltrends.com/gaming/alienware-aw2527hx-560hz-oled-gaming-monitor/",
+    "displayDate": "2026-09-07"
+  },
+  "TV": {
+    "title": "テレビの「凋落」を語る！番組戦略と視聴率の現在地",
+    "summary": "フジテレビが苦戦する一方、テレ朝が朝ドラヒロインを起用する戦略で視聴率3冠を維持。なぜテレビ番組はかつての熱狂を失ったのか、芸人からの提言も交えてテレビ業界の構造変化と視聴者離れが議論されています。",
+    "insight": "プラットフォームが多様化する中、従来の視聴率を追うビジネスモデルは限界を迎えつつあります。エンジニア視点では、レガシーなメディアがUI/UXやコンテンツ戦略の転換点でどうデータを利活用し、デジタルネイティブ世代へ適応していくかを考察する良い機会です。",
+    "sourceUrl": "https://news.yahoo.co.jp/articles/9fc5e44960f92b762ec4a24ecaab29d11a553fb7",
+    "sourceName": "Yahoo!ニュース",
+    "originalImageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260907-01494882-shincho-000-1-view.jpg?exp=10800",
+    "originalImageArticleUrl": "https://news.yahoo.co.jp/articles/9fc5e44960f92b762ec4a24ecaab29d11a553fb7",
+    "displayDate": "2026-09-07"
+  },
+  "SONY": {
+    "title": "ソニー新型望遠レンズ、994gの軽量化実現か？",
+    "summary": "ソニーが開発中と噂される新型望遠レンズ（400mm/600mm）が、驚異的な軽さである約994gを実現する可能性があり、カメラ愛好家の間で大きな話題となっています。これが事実であれば、プロ仕様の超望遠撮影が劇的に手軽になります。",
+    "insight": "ハードウェアエンジニアリングの観点では、望遠性能を維持しつつ物理的な重量を1kg以下に抑えるための、光学設計および素材選定の技術進化に注目です。エッジコンピューティングやカメラのモジュール設計においても、こうした軽量化と高精度の両立は、実装の柔軟性を高める重要な指標となります。",
+    "sourceUrl": "https://hashout.jp/gadget/9998/",
+    "sourceName": "shiritomo",
+    "originalImageUrl": "https://hashout.jp/wp-content/uploads/2026/09/2095889692730269776-img-2-1200x675.png",
+    "originalImageArticleUrl": "https://hashout.jp/gadget/9998/",
+    "displayDate": "2026-09-07"
+  },
+  "Production Monitor": {
+    "title": "2026年エンジニアリング・エミー賞発表",
+    "summary": "2026年のエンジニアリング・エミー賞の受賞リストが発表されました。映像編集業界のデファクトスタンダードであるAdobe Premiere Proと、AvidのDNxコーデックファミリーが選出されています。業界の進化を支えるソフトウェア技術の功績が改めて高く評価されました。",
+    "insight": "長年愛用されるツールが技術賞を受賞する背景には、単なる機能追加だけでなく、ワークフローの標準化とエコシステムの維持というソフトウェア工学的な貢献が不可欠です。レガシーと最先端のバランスをどう保つかという視点は、あらゆるシステム開発に応用できる重要なテーマと言えるでしょう。",
+    "sourceUrl": "https://www.provideocoalition.com/avids-20th-emmy-and-adobes-first-the-2026-engineering-emmy-awards-have-some-familiar-faces/",
+    "sourceName": "ProVideo Coalition",
+    "originalImageUrl": "https://www.provideocoalition.com/wp-content/uploads/78th-emmys-est-900x600-1.jpg",
+    "originalImageArticleUrl": "https://www.provideocoalition.com/avids-20th-emmy-and-adobes-first-the-2026-engineering-emmy-awards-have-some-familiar-faces/",
+    "displayDate": "2026-09-07"
+  },
+  "Camera Control": {
+    "title": "天体望遠鏡SCA310の排熱設計に見るエンジニアリング",
+    "summary": "サイトロンジャパンの超大口径アストログラフ「SCA310」は、カーボン外筒に3基の排気ファンを搭載した意欲作です。天体撮影における熱対策の重要性と、それを実現する光学・筐体設計のこだわりについて紹介します。",
+    "insight": "高精度な光学機器において、熱膨張によるピントズレやセンサーノイズを物理的に制御するハードウェア設計は非常に重要です。単なる冷却だけでなく、素材選定と気流制御による安定化アプローチは、他の高負荷デバイス開発にも通じる優れたエンジニアリング事例です。",
+    "sourceUrl": "https://dc.watch.impress.co.jp/docs/news/2137376.html",
+    "sourceName": "デジカメ Watch",
+    "originalImageUrl": "https://dc.watch.impress.co.jp/img/dcw/list/2137/376/5.jpg",
+    "originalImageArticleUrl": "https://dc.watch.impress.co.jp/docs/news/2137376.html",
+    "displayDate": "2026-09-07"
+  },
+  "LED Wall Display": {
+    "title": "屋外LEDウォールの新潮流：直射日光対応技術の進化",
+    "summary": "CEDIA Expo 2026にて、DreamWall社が直射日光下での使用に最適化された屋外用SMD 2.6 LEDウォールを発表しました。従来の屋外ディスプレイが抱えていた視認性と耐久性の課題を克服し、過酷な環境下での映像体験を向上させる新しいソリューションとして注目されています。",
+    "insight": "直射日光下での高コントラスト維持と熱対策は、屋外LEDエンジニアリングの最大の難関です。このモデルはSMD技術を改良し、環境耐性と解像度（ピクセルピッチ2.6mm）を両立させており、屋外サイネージの設計仕様に新たな基準を示す可能性があります。",
+    "sourceUrl": "https://ravepubs.com/rave-video/cedia-expo-2026-dreamwall-showcases-outdoor-smd-2-6-led-wall-designed-for-full-sun-exposure/",
+    "sourceName": "rAVe [PUBS]",
+    "originalImageUrl": null,
+    "originalImageArticleUrl": "https://ravepubs.com/rave-video/cedia-expo-2026-dreamwall-showcases-outdoor-smd-2-6-led-wall-designed-for-full-sun-exposure/",
+    "displayDate": "2026-09-07"
+  },
+  "Projector": {
+    "title": "世界初4K/120Hz対応の超短焦点プロジェクターが登場",
+    "summary": "XGIMIやAWOL Visionが、世界初となる4K解像度かつ120Hzのリフレッシュレートに対応した超短焦点（UST）レーザープロジェクターを発表しました。これにより、ホームシアター環境で大画面かつ滑らかなゲーミング体験が可能になります。",
+    "insight": "プロジェクター市場において4K/120Hzの実現は、高フレームレートを求めるPCや次世代ゲーム機との親和性を大きく高める技術革新です。超短焦点技術と高リフレッシュレートの組み合わせは、従来のモニターや大型テレビに代わる新たなゲーミング体験のスタンダードとなる可能性があります。",
+    "sourceUrl": "https://www.trustedreviews.com/news/xgimis-aura-3-is-worlds-first-4k-120hz-ust-projector",
+    "sourceName": "Trusted Reviews",
+    "originalImageUrl": "https://www.trustedreviews.com/wp-content/uploads/sites/7/2026/09/XGIMI-Aura-3-series.jpg",
+    "originalImageArticleUrl": "https://www.trustedreviews.com/news/xgimis-aura-3-is-worlds-first-4k-120hz-ust-projector",
+    "displayDate": "2026-09-07"
+  }
+}
