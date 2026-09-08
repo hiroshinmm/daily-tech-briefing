@@ -1,10 +1,6 @@
 {
   "Production Monitor": [
     {
-      "url": "https://www.cined.com/avid-media-composer-2026-8-coming-soon-ai-multicam-cutting-an-uncapped-free-tier-and-a-bin-locking-shake-up/",
-      "date": "2026-09-01"
-    },
-    {
       "url": "https://www.cined.com/gopro-has-found-its-buyer-starman-optical-285-million-and-a-pivot-into-ai-data-center-optics/",
       "date": "2026-09-02"
     },
@@ -27,13 +23,13 @@
     {
       "url": "https://www.provideocoalition.com/avids-20th-emmy-and-adobes-first-the-2026-engineering-emmy-awards-have-some-familiar-faces/",
       "date": "2026-09-07"
+    },
+    {
+      "url": "https://www.cined.com/cinedream-releases-native-plug-ins-for-premiere-pro-after-effects-final-cut-pro-and-davinci-resolve-on-image-grading-with-aces-2-0-color-management/",
+      "date": "2026-09-08"
     }
   ],
   "SRD / XR": [
-    {
-      "url": "https://newscast.jp/news/1827656",
-      "date": "2026-09-01"
-    },
     {
       "url": "https://www.uploadvr.com/fitxr-expands-beyond-vr-with-personalized-smartphone-workouts/",
       "date": "2026-09-02"
@@ -57,13 +53,13 @@
     {
       "url": "https://www.tokyo-np.co.jp/article/511381",
       "date": "2026-09-07"
+    },
+    {
+      "url": "https://www.moguravr.com/hololive-raku/",
+      "date": "2026-09-08"
     }
   ],
   "AI": [
-    {
-      "url": "https://www.nikkei.com/article/DGXZQOUC069TH0W6A800C2000000/",
-      "date": "2026-09-01"
-    },
     {
       "url": "https://www.wsj.com/tech/ai/new-google-ai-model-said-to-narrow-gap-on-coding-ability-264c6052",
       "date": "2026-09-02"
@@ -83,13 +79,13 @@
     {
       "url": "https://www.gatesnotes.com/a-turbulent-ai-era-and-critical-choices-to-make",
       "date": "2026-09-07"
+    },
+    {
+      "url": "https://jp.reuters.com/opinion/breakingviews/MDZDBBTRDNKXDAPEHNSYR6XDK4-2026-09-07/",
+      "date": "2026-09-08"
     }
   ],
   "Gaming Monitor": [
-    {
-      "url": "https://mashable.com/tech/alienware-39-5k-rgb-stripe-tandem-oled-gaming-monitor",
-      "date": "2026-09-01"
-    },
     {
       "url": "https://www.pcmag.com/deals/screen-savings-take-over-50-off-powerful-tcl-gaming-monitor-sept-1",
       "date": "2026-09-02"
@@ -113,13 +109,13 @@
     {
       "url": "https://www.digitaltrends.com/gaming/alienware-aw2527hx-560hz-oled-gaming-monitor/",
       "date": "2026-09-07"
+    },
+    {
+      "url": "https://www.ign.com/articles/levelling-up-with-lg-how-5k-is-changing-the-gaming-monitor-in-2026",
+      "date": "2026-09-08"
     }
   ],
   "TCL": [
-    {
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQX1N4cU00TGxFcjVpU2JHNnJRalY2dWlpTVA4ci12bDdocGk3ckRDZE9rYWtwcENGLTlkMXQ4UmJYcXJpc0JVQ2kzbVp4N0wydHRkd1pDNXBhNmloemRrd1h0TzBmOENESkZkc3VBUTlEWHB4V0RoVWZoZmtVTFcwSWFsM0ZJaVIyUGdITHEtRlpwUmNrMmRrcEN2TEpxQmp4VkhOb283R19hQVFNY3lYbnF2SGZ3OGt6V0E?oc=5",
-      "date": "2026-09-01"
-    },
     {
       "url": "https://www.mk.co.kr/jp/world/12141910",
       "date": "2026-09-02"
@@ -139,13 +135,13 @@
     {
       "url": "https://corriente.jp/tcl-ac-guangju-intelligent-manufacturing-base-report/",
       "date": "2026-09-07"
+    },
+    {
+      "url": "https://www.phileweb.com/news/d-av/202609/07/65914.html",
+      "date": "2026-09-08"
     }
   ],
   "Camera Control": [
-    {
-      "url": "https://petapixel.com/2026/08/31/former-dji-engineers-raise-250000-for-worlds-first-robotic-extreme-zoom-camera/",
-      "date": "2026-09-01"
-    },
     {
       "url": "https://www.dpreview.com/news/the-colorchecker-photographys-most-important-24-squares-turns-50/",
       "date": "2026-09-02"
@@ -169,13 +165,13 @@
     {
       "url": "https://dc.watch.impress.co.jp/docs/news/2137376.html",
       "date": "2026-09-07"
+    },
+    {
+      "url": "https://dc.watch.impress.co.jp/docs/news/2138871.html",
+      "date": "2026-09-08"
     }
   ],
   "LED Wall Display": [
-    {
-      "url": "//www.ledinside.com/news/2026/8/2026_08_31_02",
-      "date": "2026-09-01"
-    },
     {
       "url": "//www.ledinside.com/news/2026/8/2026_09_01_04",
       "date": "2026-09-02"
@@ -199,13 +195,13 @@
     {
       "url": "https://ravepubs.com/rave-video/cedia-expo-2026-dreamwall-showcases-outdoor-smd-2-6-led-wall-designed-for-full-sun-exposure/",
       "date": "2026-09-07"
+    },
+    {
+      "url": "//www.ledinside.com/products/2026/9/2026_09_07_05",
+      "date": "2026-09-08"
     }
   ],
   "SONY": [
-    {
-      "url": "https://m.thewire.in/article/ptiprnews/sony-india-introduces-a-next-generation-camera-tracking-system-ocellus-for-creation-of-spatial-content-in-augmented-reality-or-virtual-production/amp",
-      "date": "2026-09-01"
-    },
     {
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOaEYtR0tqM1Rxa3NhTG1ZYm5WNUE3U09jQ0dHeTdQZ29USXpKSUs2NmRQLWRtai0tYWxMMFljX3BBNFdNRmxNMnlaRUJHNlE4a2tWaGtoNU4xenNmZVRUOVE1WmNoaGhVZkh1UWFFMlU2bDRNQ1o1aFZ1TUw5VENEUEFTYlVzSklSaTBmVFVsTEJIZVJUNkFrYjl0ZkV2UQ?oc=5",
       "date": "2026-09-02"
@@ -225,13 +221,13 @@
     {
       "url": "https://hashout.jp/gadget/9998/",
       "date": "2026-09-07"
+    },
+    {
+      "url": "https://www.indiasnews.net/news/279291423/sony-introduces-bravia-3ii-with-xr-processor-and-120hz-refresh-rate-elevating-the-bravia-3-series-into-a-new-era-of-intelligent-picture-performance",
+      "date": "2026-09-08"
     }
   ],
   "TV": [
-    {
-      "url": "https://news.ntv.co.jp/category/economy/8a23bb159927487689e1222cb0365827",
-      "date": "2026-09-01"
-    },
     {
       "url": "https://www.pocket-lint.com/roku-is-finally-making-oled-tvs/",
       "date": "2026-09-02"
@@ -251,13 +247,13 @@
     {
       "url": "https://news.yahoo.co.jp/articles/9fc5e44960f92b762ec4a24ecaab29d11a553fb7",
       "date": "2026-09-07"
+    },
+    {
+      "url": "https://news.yahoo.co.jp/articles/0d422d24300c466d13afe3dffccc609844fd2d6e",
+      "date": "2026-09-08"
     }
   ],
   "Projector": [
-    {
-      "url": "https://av.watch.impress.co.jp/docs/news/2137042.html",
-      "date": "2026-09-01"
-    },
     {
       "url": "https://www.manilatimes.net/2026/09/01/tmt-newswire/pr-newswire/xgimi-opens-pre-orders-for-the-aura-3-series-the-worlds-first-4k-120hz-ust-projector-lineup/2416208/amp",
       "date": "2026-09-02"
@@ -281,6 +277,10 @@
     {
       "url": "https://www.trustedreviews.com/news/xgimis-aura-3-is-worlds-first-4k-120hz-ust-projector",
       "date": "2026-09-07"
+    },
+    {
+      "url": "https://online.stereosound.co.jp/_ct/17862668",
+      "date": "2026-09-08"
     }
   ]
 }
