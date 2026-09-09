@@ -1,10 +1,6 @@
 {
   "Production Monitor": [
     {
-      "url": "https://www.cined.com/gopro-has-found-its-buyer-starman-optical-285-million-and-a-pivot-into-ai-data-center-optics/",
-      "date": "2026-09-02"
-    },
-    {
       "url": "https://www.provideocoalition.com/avid-media-composer-2026-8-is-now-available/",
       "date": "2026-09-03"
     },
@@ -27,13 +23,13 @@
     {
       "url": "https://www.cined.com/cinedream-releases-native-plug-ins-for-premiere-pro-after-effects-final-cut-pro-and-davinci-resolve-on-image-grading-with-aces-2-0-color-management/",
       "date": "2026-09-08"
+    },
+    {
+      "url": "https://www.provideocoalition.com/sonys-new-dp7-and-dp5-put-cinema-line-camera-control-into-the-monitor/",
+      "date": "2026-09-09"
     }
   ],
   "SRD / XR": [
-    {
-      "url": "https://www.uploadvr.com/fitxr-expands-beyond-vr-with-personalized-smartphone-workouts/",
-      "date": "2026-09-02"
-    },
     {
       "url": "https://www.moguravr.com/horizon-os-2-7-quest3-207hz/",
       "date": "2026-09-03"
@@ -57,13 +53,13 @@
     {
       "url": "https://www.moguravr.com/hololive-raku/",
       "date": "2026-09-08"
+    },
+    {
+      "url": "https://finance.biggo.jp/news/c64ccc90-61b6-4761-86cd-5f000aada518",
+      "date": "2026-09-09"
     }
   ],
   "AI": [
-    {
-      "url": "https://www.wsj.com/tech/ai/new-google-ai-model-said-to-narrow-gap-on-coding-ability-264c6052",
-      "date": "2026-09-02"
-    },
     {
       "url": "https://jp.reuters.com/economy/WGFCOPV5NRLPJNNK5ZX56JJHUQ-2026-09-03/",
       "date": "2026-09-03"
@@ -83,13 +79,13 @@
     {
       "url": "https://jp.reuters.com/opinion/breakingviews/MDZDBBTRDNKXDAPEHNSYR6XDK4-2026-09-07/",
       "date": "2026-09-08"
+    },
+    {
+      "url": "https://business.nikkei.com/atcl/gen/19/00636/090700117/",
+      "date": "2026-09-09"
     }
   ],
   "Gaming Monitor": [
-    {
-      "url": "https://www.pcmag.com/deals/screen-savings-take-over-50-off-powerful-tcl-gaming-monitor-sept-1",
-      "date": "2026-09-02"
-    },
     {
       "url": "https://www.ign.com/articles/alienware-aw3926qw-39-5k-oled-gaming-monitor-is-now-available",
       "date": "2026-09-03"
@@ -113,13 +109,13 @@
     {
       "url": "https://www.ign.com/articles/levelling-up-with-lg-how-5k-is-changing-the-gaming-monitor-in-2026",
       "date": "2026-09-08"
+    },
+    {
+      "url": "https://www.4gamer.net/games/991/G999104/20260904023/",
+      "date": "2026-09-09"
     }
   ],
   "TCL": [
-    {
-      "url": "https://www.mk.co.kr/jp/world/12141910",
-      "date": "2026-09-02"
-    },
     {
       "url": "https://www.socialsamosa.com/industry-updates/tcl-sues-samsung-us-over-alleged-false-mini-led-tv-ads-12483620",
       "date": "2026-09-03"
@@ -139,13 +135,13 @@
     {
       "url": "https://www.phileweb.com/news/d-av/202609/07/65914.html",
       "date": "2026-09-08"
+    },
+    {
+      "url": "https://www.jiji.com/jc/article?k=kIWUGTZ7&g=prn",
+      "date": "2026-09-09"
     }
   ],
   "Camera Control": [
-    {
-      "url": "https://www.dpreview.com/news/the-colorchecker-photographys-most-important-24-squares-turns-50/",
-      "date": "2026-09-02"
-    },
     {
       "url": "https://petapixel.com/2026/09/02/this-new-open-source-camera-has-swappable-sensors-and-lens-mounts/",
       "date": "2026-09-03"
@@ -169,13 +165,13 @@
     {
       "url": "https://dc.watch.impress.co.jp/docs/news/2138871.html",
       "date": "2026-09-08"
+    },
+    {
+      "url": "https://dc.watch.impress.co.jp/docs/news/2139170.html",
+      "date": "2026-09-09"
     }
   ],
   "LED Wall Display": [
-    {
-      "url": "//www.ledinside.com/news/2026/8/2026_09_01_04",
-      "date": "2026-09-02"
-    },
     {
       "url": "//www.ledinside.com/news/2026/9/2026_09_02_01",
       "date": "2026-09-03"
@@ -199,13 +195,13 @@
     {
       "url": "//www.ledinside.com/products/2026/9/2026_09_07_05",
       "date": "2026-09-08"
+    },
+    {
+      "url": "//www.ledinside.com/news/2026/9/2026_09_08_01",
+      "date": "2026-09-09"
     }
   ],
   "SONY": [
-    {
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOaEYtR0tqM1Rxa3NhTG1ZYm5WNUE3U09jQ0dHeTdQZ29USXpKSUs2NmRQLWRtai0tYWxMMFljX3BBNFdNRmxNMnlaRUJHNlE4a2tWaGtoNU4xenNmZVRUOVE1WmNoaGhVZkh1UWFFMlU2bDRNQ1o1aFZ1TUw5VENEUEFTYlVzSklSaTBmVFVsTEJIZVJUNkFrYjl0ZkV2UQ?oc=5",
-      "date": "2026-09-02"
-    },
     {
       "url": "https://www.mysmartprice.com/gear/others/others-news/sony-rx10-v-launched-in-india-with-25x-optical-zoom-30fps-burst-shooting-and-4k-120p-video/?amp",
       "date": "2026-09-03"
@@ -225,13 +221,13 @@
     {
       "url": "https://www.indiasnews.net/news/279291423/sony-introduces-bravia-3ii-with-xr-processor-and-120hz-refresh-rate-elevating-the-bravia-3-series-into-a-new-era-of-intelligent-picture-performance",
       "date": "2026-09-08"
+    },
+    {
+      "url": "https://kunkoku.jp/rm-dp7-rm-dp5.html",
+      "date": "2026-09-09"
     }
   ],
   "TV": [
-    {
-      "url": "https://www.pocket-lint.com/roku-is-finally-making-oled-tvs/",
-      "date": "2026-09-02"
-    },
     {
       "url": "https://www.ign.com/articles/philips-4k-oled-roku-tv-deal-september-2026",
       "date": "2026-09-03"
@@ -251,13 +247,13 @@
     {
       "url": "https://news.yahoo.co.jp/articles/0d422d24300c466d13afe3dffccc609844fd2d6e",
       "date": "2026-09-08"
+    },
+    {
+      "url": "https://gigazine.net/news/20260908-smart-tv-spying/",
+      "date": "2026-09-09"
     }
   ],
   "Projector": [
-    {
-      "url": "https://www.manilatimes.net/2026/09/01/tmt-newswire/pr-newswire/xgimi-opens-pre-orders-for-the-aura-3-series-the-worlds-first-4k-120hz-ust-projector-lineup/2416208/amp",
-      "date": "2026-09-02"
-    },
     {
       "url": "https://ca.news.yahoo.com/jmgo-iris-ultra-max-world-000023657.html",
       "date": "2026-09-03"
@@ -281,6 +277,10 @@
     {
       "url": "https://online.stereosound.co.jp/_ct/17862668",
       "date": "2026-09-08"
+    },
+    {
+      "url": "https://dime.jp/genre/2151932/",
+      "date": "2026-09-09"
     }
   ]
 }

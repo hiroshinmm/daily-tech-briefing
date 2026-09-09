@@ -1,0 +1,102 @@
+{
+  "SRD / XR": {
+    "title": "ARデバイス普及の鍵？光導波路の量産化技術",
+    "summary": "半導体製造装置大手のApplied MaterialsとGlobalFoundriesが提携し、世界初となるARグラス用光導波路の量産体制を構築。これにより、ARデバイスの低コスト化と普及が加速する期待が高まっています。",
+    "insight": "ARの課題であった光学系の製造コストと歩留まりが改善される可能性が高いです。ハードウェアエンジニアにとっては、薄型化と高輝度化を両立させる新たな光学設計・製造プロセスの動向に注目です。",
+    "sourceUrl": "https://finance.biggo.jp/news/c64ccc90-61b6-4761-86cd-5f000aada518",
+    "sourceName": "BigGo ファイナンス",
+    "originalImageUrl": "https://img.biggo.com/3MMjpGxZObodoEotp2JP09zUGSyyMIuFm-sVGaN1-AI/fit/1200/0/sm/0/aHR0cHM6Ly9pbWcuYmdvLm9uZS9uZXdzLWltYWdlL2FpX2dlbmVyYXRlZC8yMDI2LTA5L2M2NGNjYzkwLTYxYjYtNDc2MS04NmNkLTVmMDAwYWFkYTUxOF8xNzg4ODkxNzAyX2RlZmF1bHQuanBn.jpg",
+    "originalImageArticleUrl": "https://finance.biggo.jp/news/c64ccc90-61b6-4761-86cd-5f000aada518",
+    "displayDate": "2026-09-09"
+  },
+  "AI": {
+    "title": "NECの「AIエージェント無人部署」が示唆する働き方の転換",
+    "summary": "NECが35体のAIエージェントを導入し、人件費月35万円で業務を完結させる「無人部署」の運用を開始しました。AIエージェントが定型業務を自律的に遂行するモデルは、組織のあり方に大きな変革をもたらそうとしています。",
+    "insight": "AIエージェントの実装において、単なるタスク実行から『自律的な業務フローの構築』へと技術の重心が移っています。エンジニアとしては、エージェント間の連携アーキテクチャや、人間の監督・承認プロセスをどう設計するかが重要なスキルとなります。",
+    "sourceUrl": "https://business.nikkei.com/atcl/gen/19/00636/090700117/",
+    "sourceName": "日経ビジネス電子版",
+    "originalImageUrl": "https://business.nikkei.com/atcl/gen/19/00636/090700117/fb.jpg",
+    "originalImageArticleUrl": "https://business.nikkei.com/atcl/gen/19/00636/090700117/",
+    "displayDate": "2026-09-09"
+  },
+  "Gaming Monitor": {
+    "title": "会心の一撃の快感は設計できるのか？",
+    "summary": "ゲーム開発の現場で重視される「会心の一撃」がなぜプレイヤーに快感を与えるのかを考察したレポート。期待値、時間軸、そして視覚・聴覚のコントラストといった、ゲーム演出における心理学的な設計の重要性について解説しています。",
+    "insight": "UI/UXデザインやフィードバックループの設計において、期待値と実行結果のギャップ（コントラスト）をいかに制御するかが、ユーザーの満足度に直結します。システム開発においても、レスポンスの緩急や演出を意識することで、UXの質を大きく向上させることが可能です。",
+    "sourceUrl": "https://www.4gamer.net/games/991/G999104/20260904023/",
+    "sourceName": "4Gamer.net − 最新記事",
+    "originalImageUrl": "https://www.4gamer.net/games/991/G999104/20260904023/SS/001.jpg",
+    "originalImageArticleUrl": "https://www.4gamer.net/games/991/G999104/20260904023/",
+    "displayDate": "2026-09-09"
+  },
+  "SONY": {
+    "title": "ソニーがCinema Line用リモコンユニット「RM-DP7/DP5」を発表",
+    "summary": "ソニーは、Cinema Lineカメラ（FX5, FX3, FX30等）に対応した、カメラ制御とモニタリングを統合したリモコンユニット「RM-DP7」「RM-DP5」を発表しました。最大2,000cd/m²の高輝度フルHDタッチモニターを搭載し、屋外や明るい現場での視認性と操作性を大幅に向上させています。",
+    "insight": "ハードウェアレベルでの制御統合は、映像制作のワークフローにおいて遅延のない直感的なUXを提供します。特に高輝度モニターの採用は、屋外環境下でのリアルタイムな撮影パラメータ調整をシームレスにするためのエンジニアリング上の重要な改善と言えます。",
+    "sourceUrl": "https://kunkoku.jp/rm-dp7-rm-dp5.html",
+    "sourceName": "ソニーが基本的に好き。",
+    "originalImageUrl": "https://kunkoku.jp/wp-content/uploads/2026/09/260908g35.jpg",
+    "originalImageArticleUrl": "https://kunkoku.jp/rm-dp7-rm-dp5.html",
+    "displayDate": "2026-09-09"
+  },
+  "TCL": {
+    "title": "TCLがIFA 2026で30以上のグローバル賞を受賞",
+    "summary": "TCLはドイツで開催されたIFA 2026において、ディスプレイ、AI、スマートリビング分野での革新的な取り組みが評価され、30以上の国際的な賞を獲得しました。特にミニLED技術やAIを融合させた次世代のスマートホーム体験が、業界から高い注目を集めています。",
+    "insight": "家電分野におけるAI活用は、単なる機能追加からユーザー体験の最適化へとシフトしています。特にディスプレイ制御とローカルAIの統合による、消費電力最適化や画質補正のリアルタイム処理技術は、エッジAIの今後の進化を示唆しています。",
+    "sourceUrl": "https://www.jiji.com/jc/article?k=kIWUGTZ7&g=prn",
+    "sourceName": "時事ドットコム",
+    "originalImageUrl": "https://mmx.prnasia.com/media/MS1967606/20260811040831EDT_image_3.jpg",
+    "originalImageArticleUrl": "https://www.jiji.com/jc/article?k=kIWUGTZ7&g=prn",
+    "displayDate": "2026-09-09"
+  },
+  "Projector": {
+    "title": "XGIMI、世界初4K/120Hz対応の超短焦点プロジェクターを発表",
+    "summary": "XGIMIがIFA2026にて、世界初となる4K解像度かつ120Hzのリフレッシュレートに対応した超短焦点プロジェクター「AURA 3シリーズ」を公開しました。ホームシアター体験の更なる高精細・高フレームレート化が加速しています。",
+    "insight": "プロジェクターにおいて4Kかつ120Hzというスペックは、ゲーミング性能としても非常に強力であり、遅延を抑えた高精細な映像表示が求められるUX設計において重要な指標となります。家庭用映像機器のスペックインフレは、今後インタラクティブな大画面アプリケーションの開発において新たな可能性を広げるでしょう。",
+    "sourceUrl": "https://dime.jp/genre/2151932/",
+    "sourceName": "@DIME アットダイム",
+    "originalImageUrl": "https://dime.jp/wp-content/uploads/2026/09/01-26-770x433.jpg",
+    "originalImageArticleUrl": "https://dime.jp/genre/2151932/",
+    "displayDate": "2026-09-09"
+  },
+  "LED Wall Display": {
+    "title": "Micro-LEDの量産化に光明：8インチ赤色チップが登場",
+    "summary": "Qiushui Semiconductorが、世界初となる8インチの「ダメージフリー」赤色Micro-LEDチップの量産化に成功しました。独自のハイブリッドボンディング技術により、ARグラスのフルカラー化における最大の課題であった赤色LEDの製造障壁を突破した画期的なニュースです。",
+    "insight": "従来の赤色AlInGaP材料の弱点であったプロセスダメージを克服し、8インチ基板での量産を可能にした点は大きなパラダイムシフトです。特にARデバイス向けの超小型高精細ディスプレイ開発において、歩留まり改善とコスト削減を加速させる重要な技術革新となるでしょう。",
+    "sourceUrl": "//www.ledinside.com/news/2026/9/2026_09_08_01",
+    "sourceName": "LEDinside",
+    "originalImageUrl": null,
+    "originalImageArticleUrl": "//www.ledinside.com/news/2026/9/2026_09_08_01",
+    "displayDate": "2026-09-09"
+  },
+  "TV": {
+    "title": "スマートテレビの「視聴追跡」リスクと対策",
+    "summary": "スマートテレビが視聴データを収集し、ユーザーの行動を追跡している問題が注目されています。LGだけでなく他社製品でも同様の機能が実装されており、プライバシー懸念が浮上。設定による制限方法やデータ保護の重要性が議論されています。",
+    "insight": "多くのスマートTVはACR（自動コンテンツ認識）技術を用いて視聴ログを収集しており、これはエンジニアにとってプライバシー保護とデータ活用の境界線を考える重要な事例です。ネットワークレベルでのログ解析やDNSフィルタリングなどの技術的な防衛策を検討する良い機会になります。",
+    "sourceUrl": "https://gigazine.net/news/20260908-smart-tv-spying/",
+    "sourceName": "GIGAZINE",
+    "originalImageUrl": "https://i.gzn.jp/img/2026/09/08/smart-tv-spying/00.jpg",
+    "originalImageArticleUrl": "https://gigazine.net/news/20260908-smart-tv-spying/",
+    "displayDate": "2026-09-09"
+  },
+  "Production Monitor": {
+    "title": "Sonyの新型モニターでカメラ制御が直感的に",
+    "summary": "Sonyが発表した新型モニター「RM-DP7」と「RM-DP5」は、単なる映像表示にとどまらず、Cinema Lineカメラ（FX3/FX5/FX30等）の直接制御を実現しました。撮影現場の効率化を狙った注目のハードウェアです。",
+    "insight": "デバイスの物理操作系とモニタリングを統合するアプローチは、UI/UXの設計における物理制約の解消という点で非常に興味深いです。特定のシネマカメラ製品群をSDK的に統合するエコシステム戦略にも注目すべきでしょう。",
+    "sourceUrl": "https://www.provideocoalition.com/sonys-new-dp7-and-dp5-put-cinema-line-camera-control-into-the-monitor/",
+    "sourceName": "ProVideo Coalition",
+    "originalImageUrl": "https://www.provideocoalition.com/wp-content/uploads/cropped-sony-dp5-and-dp7-photo-4.jpeg",
+    "originalImageArticleUrl": "https://www.provideocoalition.com/sonys-new-dp7-and-dp5-put-cinema-line-camera-control-into-the-monitor/",
+    "displayDate": "2026-09-09"
+  },
+  "Camera Control": {
+    "title": "ソニーEマウント初！20年ぶりの魚眼ズームレンズ発表",
+    "summary": "ソニーは、35mmフルサイズ対応のEマウント用魚眼ズームレンズ「FE 8-14mm F3.5 Fisheye G」を10月9日に発売すると発表しました。Eマウントとしては初の魚眼レンズであり、ソニーブランドのフルサイズ魚眼としては約20年ぶりの登場となります。",
+    "insight": "広角域での歪曲収差をあえて活かす魚眼ズームは、光学設計上の挑戦であると同時に、星景撮影やVRコンテンツ制作における空間表現の幅を大きく広げるものです。レンズ側の「フォーカスホールドボタン」のようなハードウェア実装が、現代のクリエイティブワークフローにどう統合されるか注目です。",
+    "sourceUrl": "https://dc.watch.impress.co.jp/docs/news/2139170.html",
+    "sourceName": "デジカメ Watch",
+    "originalImageUrl": "https://dc.watch.impress.co.jp/img/dcw/list/2139/170/01.jpg",
+    "originalImageArticleUrl": "https://dc.watch.impress.co.jp/docs/news/2139170.html",
+    "displayDate": "2026-09-09"
+  }
+}
