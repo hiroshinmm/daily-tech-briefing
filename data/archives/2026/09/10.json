@@ -1,0 +1,102 @@
+{
+  "AI": {
+    "title": "Mistral AIが提唱する「主権を持つオープンウェイトAI」",
+    "summary": "Mistral AIが、企業の主権とオープン性を両立させる新たなAI戦略を公開しました。クローズドなモデルが主流となる中、透明性と自律的なコントロールを確保しつつ、技術の最前線を維持するためのオープンウェイトモデルの重要性を強調しています。",
+    "insight": "AIのブラックボックス化が進む中、モデルの重みを公開して検証可能性を確保するアプローチは、セキュリティや法規制の観点からも重要度を増しています。エンジニアとしては、特定のプラットフォームに依存しない環境での推論最適化や、オープンモデルを活用したセキュアなパイプライン構築が今後より求められるでしょう。",
+    "sourceUrl": "https://mistral.ai/news/mistral-makes-sovereign-open-weight-ai-to-frontier/",
+    "sourceName": "mistral.ai",
+    "originalImageUrl": "https://mistral.ai/cms-media/api/media/file/fundraise.jpg",
+    "originalImageArticleUrl": "https://mistral.ai/news/mistral-makes-sovereign-open-weight-ai-to-frontier/",
+    "displayDate": "2026-09-10"
+  },
+  "SONY": {
+    "title": "ソニー、Cinema Line対応の業務用モニターを発表",
+    "summary": "ソニーがFXシリーズ（FX3, FX30など）に対応した、3,300ドルの業務用カメラコントロールモニターを発売しました。現場での映像制作ワークフローを最適化する高機能なソリューションです。",
+    "insight": "プロフェッショナル向けハードウェアとカメラ機材の連携は、レイテンシと信頼性が重要な技術的要件となります。周辺機器の制御プロトコルを統合することで、撮影現場のエンジニアリング環境をより効率的かつ統合的に構築できます。",
+    "sourceUrl": "https://ymcinema.com/2026/09/09/sony-cinema-line-control-monitor-dp7-dp5/",
+    "sourceName": "ymcinema.com",
+    "originalImageUrl": "https://ymcinema.com/wp-content/uploads/2026/09/Sony-Launches-3300-Cinema-Line-Control-Monitor-for-FX5-FX3-FX2-and-FX30.001.webp",
+    "originalImageArticleUrl": "https://ymcinema.com/2026/09/09/sony-cinema-line-control-monitor-dp7-dp5/",
+    "displayDate": "2026-09-10"
+  },
+  "TCL": {
+    "title": "TCLのテレビでXboxクラウドゲーミング対応",
+    "summary": "TCLは、一部のスマートTVモデルでXboxクラウドゲーミングのサポートを世界25カ国以上で開始しました。これにより、専用ハードウェアなしでストリーミングによるゲームプレイが可能になります。",
+    "insight": "テレビを単なるディスプレイではなく、クラウドサービスを統合したゲーミングプラットフォームへと変貌させています。ソフトウェアアップデートによる機能拡張で、高価なゲーム機を不要にするエッジコンピューティングの応用例として注目です。",
+    "sourceUrl": "https://tech-insider.org/xbox-cloud-gaming-tcl-smart-tvs-pay-as-you-go-2026/",
+    "sourceName": "tech-insider.org",
+    "originalImageUrl": null,
+    "originalImageArticleUrl": "https://tech-insider.org/xbox-cloud-gaming-tcl-smart-tvs-pay-as-you-go-2026/",
+    "displayDate": "2026-09-10"
+  },
+  "Projector": {
+    "title": "4K/120Hz対応：ゲーミングプロジェクターの進化",
+    "summary": "AWOL VisionやJMGOが、4K解像度かつ120Hzの高リフレッシュレートに対応した超短焦点プロジェクターを相次いで発表。大画面でのゲーム体験が新たなフェーズに突入しています。",
+    "insight": "高リフレッシュレートと超短焦点技術の組み合わせは、従来のゲーミングモニターの代替としてのポテンシャルを示しています。映像処理の低遅延化や光学シフト技術は、ハードウェアエンジニアリングにおいて今後さらに重要になるでしょう。",
+    "sourceUrl": "https://www.forbes.com/sites/johnarcher/2026/09/09/awol-vision-unveils-worlds-first-4k-120hz-ust-projector-with-optical-shift-and-a-fully-customizable-design/",
+    "sourceName": "Forbes",
+    "originalImageUrl": null,
+    "originalImageArticleUrl": "https://www.forbes.com/sites/johnarcher/2026/09/09/awol-vision-unveils-worlds-first-4k-120hz-ust-projector-with-optical-shift-and-a-fully-customizable-design/",
+    "displayDate": "2026-09-10"
+  },
+  "Camera Control": {
+    "title": "iPhone 18 Proに可変絞り搭載、スマホカメラの限界を突破",
+    "summary": "Appleが発表した「iPhone 18 Pro」に、スマートフォンとしては異例の物理的な「可変絞り」が搭載されました。F1.48からの開放値調整が可能となり、ソフトウェア処理に頼らない光学的な被写界深度の制御や、光量の緻密なコントロールが実現しています。",
+    "insight": "スマホカメラはセンサーサイズと固定絞りの制約が長年の課題でしたが、物理的な可変絞りの導入は画質向上の転換点となります。制御アルゴリズムと機械的なシャッター機構の高度な同期が求められ、ハードウェアとソフトウェアの融合における新たなエンジニアリングの試金石と言えます。",
+    "sourceUrl": "https://dc.watch.impress.co.jp/docs/news/2139701.html",
+    "sourceName": "デジカメ Watch",
+    "originalImageUrl": "https://dc.watch.impress.co.jp/img/dcw/list/2139/701/00.jpg",
+    "originalImageArticleUrl": "https://dc.watch.impress.co.jp/docs/news/2139701.html",
+    "displayDate": "2026-09-10"
+  },
+  "Gaming Monitor": {
+    "title": "32型6Kゲーミングモニター登場：高解像度の潮流",
+    "summary": "Samsungから、32インチかつ6K解像度を実現したゲーミングモニター「Odyssey G8 G80HS」が注目を集めています。従来の4Kを超え、より緻密な映像体験を求めるユーザーにとって、次世代のアップグレードの選択肢として評価されています。",
+    "insight": "高解像度化は単なる視覚的向上だけでなく、OSやアプリ側のレンダリング負荷やUIスケーリングの最適化という技術的課題を伴います。開発者は今後は4K以上の解像度を想定した柔軟なUI/UX設計と、高精細なアセット描画の効率化を意識する必要があります。",
+    "sourceUrl": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQRzVGRXc1bHl0eUVmRXBIVDdNX29HeGpNeWs1MGd1S0phT3VjNUdJb3hpajNxYnFPUVh3WFJIeHBraW1KeVp0V1hic3dXaDZpdWNUaHdibWlyZUFqZ0REa0w5amhuTnUyQm9DeFdGdmYxWjRjSlJSSmNDaHJ4TGlHeUdJN3dmV2ZFQ3hVbW12dEZkT3JIM216RV9NTzl1Qzg1Tl9wTjhReG82Vm5ReVV0RFBhZTFFR1N3NHhuM3Q4NDZPU3c?oc=5",
+    "sourceName": "shortlist.com",
+    "originalImageUrl": null,
+    "originalImageArticleUrl": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQRzVGRXc1bHl0eUVmRXBIVDdNX29HeGpNeWs1MGd1S0phT3VjNUdJb3hpajNxYnFPUVh3WFJIeHBraW1KeVp0V1hic3dXaDZpdWNUaHdibWlyZUFqZ0REa0w5amhuTnUyQm9DeFdGdmYxWjRjSlJSSmNDaHJ4TGlHeUdJN3dmV2ZFQ3hVbW12dEZkT3JIM216RV9NTzl1Qzg1Tl9wTjhReG82Vm5ReVV0RFBhZTFFR1N3NHhuM3Q4NDZPU3c?oc=5",
+    "displayDate": "2026-09-10"
+  },
+  "SRD / XR": {
+    "title": "NMSがPC VRで視線追跡Foveated Renderingに対応",
+    "summary": "『No Man's Sky』の最新アップデート「Cosmos」にて、PC VR向けに視線追跡を利用したフォービエイテッド・レンダリングが実装されました。これにより、Steam等の次世代ヘッドセットを見据えた描画負荷の大幅な軽減とパフォーマンス向上が期待されます。",
+    "insight": "視線追跡による描画最適化は、高解像度化が進むVR環境において必須の技術です。GPUリソースを注視点に集中させるこの手法は、今後のXRデバイス開発やハイエンドゲーム開発においてパフォーマンス最適化の標準となるでしょう。",
+    "sourceUrl": "https://www.uploadvr.com/no-mans-sky-adds-pc-vr-eye-tracked-foveated-rendering/",
+    "sourceName": "UploadVR",
+    "originalImageUrl": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/09/No-Man-s-Sky-foveated-rendering-PSVR2.png",
+    "originalImageArticleUrl": "https://www.uploadvr.com/no-mans-sky-adds-pc-vr-eye-tracked-foveated-rendering/",
+    "displayDate": "2026-09-10"
+  },
+  "TV": {
+    "title": "新ドラマ『アナログナース』の意外な視点",
+    "summary": "テレビ朝日より、松下奈緒と津田健次郎が共演する新ドラマ『アナログナース～デジタルってなんなんだよ!?～』の豪華キャストが発表されました。デジタル化が進む医療現場を舞台に、アナログ人間とデジタル人間が織りなす「凸凹コンビ」の奮闘を描くストーリーです。",
+    "insight": "DX（デジタルトランスフォーメーション）が推進される現代において、あえて「アナログ vs デジタル」を対比させる物語は、レガシーシステムと最新技術が混在する開発現場のリアリティに通じる示唆があるかもしれません。技術の導入だけでなく、現場の人間がどう適応し対立を乗り越えるかという「組織論・人間中心設計」の観点で見ると面白い題材です。",
+    "sourceUrl": "https://www.tv-asahi.co.jp/analog-nurse/news/0002/?fbclid=PAdGRleAUOxEtwZG9mAmZkaWQWUOFJjszNRGf7OQ86jVe3PMo24seZhmV4dG4DYWVtAjExAHNydGMGYXBwX2lkDzEyNDAyNDU3NDI4NzQxNAABp8o1i0Q46JUWnWsO46NWzRia6Jhb7_CgyW-9t19OAkQSHDx7HJZp1WmxsOWE_aem_6TgbqVCa-5g1ObfkiMaREA",
+    "sourceName": "テレビ朝日",
+    "originalImageUrl": "http://www.tv-asahi.co.jp/analog-nurse/OG.jpg",
+    "originalImageArticleUrl": "https://www.tv-asahi.co.jp/analog-nurse/news/0002/?fbclid=PAdGRleAUOxEtwZG9mAmZkaWQWUOFJjszNRGf7OQ86jVe3PMo24seZhmV4dG4DYWVtAjExAHNydGMGYXBwX2lkDzEyNDAyNDU3NDI4NzQxNAABp8o1i0Q46JUWnWsO46NWzRia6Jhb7_CgyW-9t19OAkQSHDx7HJZp1WmxsOWE_aem_6TgbqVCa-5g1ObfkiMaREA",
+    "displayDate": "2026-09-10"
+  },
+  "LED Wall Display": {
+    "title": "映像市場の急成長：ビデオウォール市場の現状と展望",
+    "summary": "デジタルサイネージ技術の進化に伴い、世界的なビデオウォール市場が堅調な拡大を続けています。高精細なLEDディスプレイやAIによる高度なコンテンツ管理が普及し、商業から公共施設まで用途が多様化しています。",
+    "insight": "ハードウェアの進化に加え、ディスプレイを駆動させるエッジコンピューティングやAIプロセッシングの重要性が増しています。解像度や輝度だけでなく、映像配信の遅延低減やシームレスな同期技術など、システムエンジニアリング視点での最適化が競争力を左右するでしょう。",
+    "sourceUrl": "https://www.digitalsignagetoday.com/news/global-video-wall-market-on-robust-growth-path/",
+    "sourceName": "Digital Signage Today",
+    "originalImageUrl": "https://nmgprod.s3.amazonaws.com/media/file/f5/d4/a7eb1103566de4dc5628252e98af/cover_image__hmAbvtFq__AdobeStock_552298383.jpeg.360x190_q85_crop_upscale.webp",
+    "originalImageArticleUrl": "https://www.digitalsignagetoday.com/news/global-video-wall-market-on-robust-growth-path/",
+    "displayDate": "2026-09-10"
+  },
+  "Production Monitor": {
+    "title": "映像制作の現場にAI革命、Eddie AI v4登場",
+    "summary": "映像編集AI「Eddie AI v4」が発表されました。単なるAI編集だけでなく、PremiereやResolveのネイティブプロジェクト出力、Avid拡張機能、C2PA準拠の署名機能などを搭載。ローカルハードウェアでの実行も可能となり、プロフェッショナルな制作現場での実用性が大幅に向上しました。",
+    "insight": "AI編集が個人の試作から、NLEとの高度な連携を伴うプロフェッショナルなワークフローへと進化しています。特にC2PAを用いたコンテンツ認証の実装は、フェイクコンテンツ対策が求められる現在のソフトウェア開発においても重要な示唆を与えています。",
+    "sourceUrl": "https://www.cined.com/eddie-ai-v4-unveiled-native-premiere-and-resolve-projects-avid-extension-and-c2pa-signing/",
+    "sourceName": "CineD",
+    "originalImageUrl": "https://www.cined.com/content/uploads/2026/09/Eddie-AI-2-300x169.jpeg",
+    "originalImageArticleUrl": "https://www.cined.com/eddie-ai-v4-unveiled-native-premiere-and-resolve-projects-avid-extension-and-c2pa-signing/",
+    "displayDate": "2026-09-10"
+  }
+}

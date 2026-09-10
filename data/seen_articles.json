@@ -1,10 +1,6 @@
 {
   "Production Monitor": [
     {
-      "url": "https://www.provideocoalition.com/avid-media-composer-2026-8-is-now-available/",
-      "date": "2026-09-03"
-    },
-    {
       "url": "https://www.cined.com/opinion-the-ai-ad-selling-storage-to-the-filmmakers-its-replacing-samsungs-portable-ssd-p9-campaign/",
       "date": "2026-09-04"
     },
@@ -27,13 +23,13 @@
     {
       "url": "https://www.provideocoalition.com/sonys-new-dp7-and-dp5-put-cinema-line-camera-control-into-the-monitor/",
       "date": "2026-09-09"
+    },
+    {
+      "url": "https://www.cined.com/eddie-ai-v4-unveiled-native-premiere-and-resolve-projects-avid-extension-and-c2pa-signing/",
+      "date": "2026-09-10"
     }
   ],
   "SRD / XR": [
-    {
-      "url": "https://www.moguravr.com/horizon-os-2-7-quest3-207hz/",
-      "date": "2026-09-03"
-    },
     {
       "url": "https://finance.yahoo.co.jp/news/detail/2c279b8be1c05a0424141b5f512e82113df3a949",
       "date": "2026-09-04"
@@ -57,13 +53,13 @@
     {
       "url": "https://finance.biggo.jp/news/c64ccc90-61b6-4761-86cd-5f000aada518",
       "date": "2026-09-09"
+    },
+    {
+      "url": "https://www.uploadvr.com/no-mans-sky-adds-pc-vr-eye-tracked-foveated-rendering/",
+      "date": "2026-09-10"
     }
   ],
   "AI": [
-    {
-      "url": "https://jp.reuters.com/economy/WGFCOPV5NRLPJNNK5ZX56JJHUQ-2026-09-03/",
-      "date": "2026-09-03"
-    },
     {
       "url": "https://jp.reuters.com/economy/GO2RY5V7EVO7TDA6K27C3B7IFQ-2026-09-03/",
       "date": "2026-09-04"
@@ -83,13 +79,13 @@
     {
       "url": "https://business.nikkei.com/atcl/gen/19/00636/090700117/",
       "date": "2026-09-09"
+    },
+    {
+      "url": "https://mistral.ai/news/mistral-makes-sovereign-open-weight-ai-to-frontier/",
+      "date": "2026-09-10"
     }
   ],
   "Gaming Monitor": [
-    {
-      "url": "https://www.ign.com/articles/alienware-aw3926qw-39-5k-oled-gaming-monitor-is-now-available",
-      "date": "2026-09-03"
-    },
     {
       "url": "https://www.ign.com/articles/alienware-aw3926qw-39-5k-oled-gaming-monitor-is-now-available",
       "date": "2026-09-04"
@@ -113,13 +109,13 @@
     {
       "url": "https://www.4gamer.net/games/991/G999104/20260904023/",
       "date": "2026-09-09"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQRzVGRXc1bHl0eUVmRXBIVDdNX29HeGpNeWs1MGd1S0phT3VjNUdJb3hpajNxYnFPUVh3WFJIeHBraW1KeVp0V1hic3dXaDZpdWNUaHdibWlyZUFqZ0REa0w5amhuTnUyQm9DeFdGdmYxWjRjSlJSSmNDaHJ4TGlHeUdJN3dmV2ZFQ3hVbW12dEZkT3JIM216RV9NTzl1Qzg1Tl9wTjhReG82Vm5ReVV0RFBhZTFFR1N3NHhuM3Q4NDZPU3c?oc=5",
+      "date": "2026-09-10"
     }
   ],
   "TCL": [
-    {
-      "url": "https://www.socialsamosa.com/industry-updates/tcl-sues-samsung-us-over-alleged-false-mini-led-tv-ads-12483620",
-      "date": "2026-09-03"
-    },
     {
       "url": "https://sumahodigest.com/?p=69448",
       "date": "2026-09-04"
@@ -139,13 +135,13 @@
     {
       "url": "https://www.jiji.com/jc/article?k=kIWUGTZ7&g=prn",
       "date": "2026-09-09"
+    },
+    {
+      "url": "https://tech-insider.org/xbox-cloud-gaming-tcl-smart-tvs-pay-as-you-go-2026/",
+      "date": "2026-09-10"
     }
   ],
   "Camera Control": [
-    {
-      "url": "https://petapixel.com/2026/09/02/this-new-open-source-camera-has-swappable-sensors-and-lens-mounts/",
-      "date": "2026-09-03"
-    },
     {
       "url": "https://petapixel.com/2026/09/03/you-can-now-use-gemini-spark-to-manage-your-google-photos/",
       "date": "2026-09-04"
@@ -169,13 +165,13 @@
     {
       "url": "https://dc.watch.impress.co.jp/docs/news/2139170.html",
       "date": "2026-09-09"
+    },
+    {
+      "url": "https://dc.watch.impress.co.jp/docs/news/2139701.html",
+      "date": "2026-09-10"
     }
   ],
   "LED Wall Display": [
-    {
-      "url": "//www.ledinside.com/news/2026/9/2026_09_02_01",
-      "date": "2026-09-03"
-    },
     {
       "url": "https://www.digitalsignagetoday.com/news/yodeck-launches-ai-agent-for-digital-signage-management/",
       "date": "2026-09-04"
@@ -199,13 +195,13 @@
     {
       "url": "//www.ledinside.com/news/2026/9/2026_09_08_01",
       "date": "2026-09-09"
+    },
+    {
+      "url": "https://www.digitalsignagetoday.com/news/global-video-wall-market-on-robust-growth-path/",
+      "date": "2026-09-10"
     }
   ],
   "SONY": [
-    {
-      "url": "https://www.mysmartprice.com/gear/others/others-news/sony-rx10-v-launched-in-india-with-25x-optical-zoom-30fps-burst-shooting-and-4k-120p-video/?amp",
-      "date": "2026-09-03"
-    },
     {
       "url": "https://diamond.jp/articles/amp/398016",
       "date": "2026-09-04"
@@ -225,13 +221,13 @@
     {
       "url": "https://kunkoku.jp/rm-dp7-rm-dp5.html",
       "date": "2026-09-09"
+    },
+    {
+      "url": "https://ymcinema.com/2026/09/09/sony-cinema-line-control-monitor-dp7-dp5/",
+      "date": "2026-09-10"
     }
   ],
   "TV": [
-    {
-      "url": "https://www.ign.com/articles/philips-4k-oled-roku-tv-deal-september-2026",
-      "date": "2026-09-03"
-    },
     {
       "url": "https://www.techtimes.com/articles/326268/20260903/labor-day-oled-tv-deals-hit-multi-year-lows-while-rgb-mini-led-costs-double.htm",
       "date": "2026-09-04"
@@ -251,13 +247,13 @@
     {
       "url": "https://gigazine.net/news/20260908-smart-tv-spying/",
       "date": "2026-09-09"
+    },
+    {
+      "url": "https://www.tv-asahi.co.jp/analog-nurse/news/0002/?fbclid=PAdGRleAUOxEtwZG9mAmZkaWQWUOFJjszNRGf7OQ86jVe3PMo24seZhmV4dG4DYWVtAjExAHNydGMGYXBwX2lkDzEyNDAyNDU3NDI4NzQxNAABp8o1i0Q46JUWnWsO46NWzRia6Jhb7_CgyW-9t19OAkQSHDx7HJZp1WmxsOWE_aem_6TgbqVCa-5g1ObfkiMaREA",
+      "date": "2026-09-10"
     }
   ],
   "Projector": [
-    {
-      "url": "https://ca.news.yahoo.com/jmgo-iris-ultra-max-world-000023657.html",
-      "date": "2026-09-03"
-    },
     {
       "url": "https://www.techlicious.com/blog/xgimi-aura-3-is-worlds-first-4k-120hz-ust-projector/",
       "date": "2026-09-04"
@@ -281,6 +277,10 @@
     {
       "url": "https://dime.jp/genre/2151932/",
       "date": "2026-09-09"
+    },
+    {
+      "url": "https://www.forbes.com/sites/johnarcher/2026/09/09/awol-vision-unveils-worlds-first-4k-120hz-ust-projector-with-optical-shift-and-a-fully-customizable-design/",
+      "date": "2026-09-10"
     }
   ]
 }
