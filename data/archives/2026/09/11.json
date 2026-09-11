@@ -1,0 +1,102 @@
+{
+  "AI": {
+    "title": "AIの安全性と開発姿勢：研究者らの相次ぐ退社が示すもの",
+    "summary": "AnthropicやOpenAIなどの主要AI企業において、安全性や開発加速に対する懸念から研究者が相次いで退社しています。AIが将来的に人類へ与えるリスクや、技術開発の倫理的なあり方について、業界内外で議論が激化しています。",
+    "insight": "AIガバナンスと技術的安全性は、エンジニアにとっても無視できない重要な設計要件になりつつあります。モデルの透明性やガードレールの構築、そしてAIが社会に与える影響に対するエンジニアの倫理的責任について改めて考える機会です。",
+    "sourceUrl": "https://www.nikkei.com/article/DGXZQOGN10BT70Q6A910C2000000/",
+    "sourceName": "nikkei.com",
+    "originalImageUrl": "https://article-image-ix.nikkei.com/https%3A%2F%2Fimgix-proxy.n8s.jp%2FDSXZQO3582285010092026000000-1.jpg?auto=compress&bg=FFFF&crop=focalpoint&fit=crop&fm=jpg&h=630&w=1200&s=d3cefafc95a87492f2910d7445742d73",
+    "originalImageArticleUrl": "https://www.nikkei.com/article/DGXZQOGN10BT70Q6A910C2000000/",
+    "displayDate": "2026-09-11"
+  },
+  "Gaming Monitor": {
+    "title": "34インチQD-OLEDモニターが$399.99に急落",
+    "summary": "34インチのAOC Agon Pro QD-OLEDウルトラワイドゲーミングモニターが、$399.99という破格の価格まで値下がりしました。さらに4年間の長期保証も付帯しており、高性能ディスプレイを求めるエンジニアにとって非常に魅力的な選択肢となっています。",
+    "insight": "QD-OLEDは高いコントラストと応答速度を実現しており、長時間のコーディングやデバッグ作業における目の疲労軽減や視認性向上に大きく寄与します。高精細なウルトラワイド環境を低コストで構築したい開発者にとって、この価格帯はアップグレードを検討する絶好の機会です。",
+    "sourceUrl": "https://www.ign.com/articles/aoc-agon-pro-qd-oled-gaming-monitor-deal",
+    "sourceName": "ign.com",
+    "originalImageUrl": "https://assets-prd.ignimgs.com/2026/09/10/aocagonpro-1789081737470.jpg?width=1280&format=jpg&auto=webp&quality=80",
+    "originalImageArticleUrl": "https://www.ign.com/articles/aoc-agon-pro-qd-oled-gaming-monitor-deal",
+    "displayDate": "2026-09-11"
+  },
+  "Projector": {
+    "title": "シネマサンシャイン三郷がDolby Vision導入！国内初の新体験",
+    "summary": "埼玉県にあるシネマサンシャイン三郷のプレミアムシアター「BESTIA」が、10月6日にリニューアルオープンします。同館の独自PLFとDolby VisionおよびDolby Atmosが融合した「BESTIA IN Dolby Vision+Atmos」となり、映像と音響の双方で没入感の高い映画体験が可能になります。",
+    "insight": "Dolby VisionによるHDR映像とAtmosの立体音響の組み合わせは、映像エンジニアにとっても色域管理やオーディオデータの空間表現における一つの到達点です。PLF（プレミアムラージフォーマット）との統合により、高輝度・広色域の表示環境が普及することで、今後のコンテンツ制作におけるHDRレンダリングの最適化基準がより高まるでしょう。",
+    "sourceUrl": "https://av.watch.impress.co.jp/docs/news/2139840.html",
+    "sourceName": "AV Watch",
+    "originalImageUrl": "https://av.watch.impress.co.jp/img/avw/list/2139/840/01.jpeg",
+    "originalImageArticleUrl": "https://av.watch.impress.co.jp/docs/news/2139840.html",
+    "displayDate": "2026-09-11"
+  },
+  "SONY": {
+    "title": "ソニー、「IBC 2026」で最新放送機器やRシリーズを発表",
+    "summary": "ソニーが国際放送機器展「IBC 2026」への出展内容を公開。ワイヤレスマイク「DWX」シリーズの第4世代モデルや、シネマティックな映像制作をターゲットにした新たな「Rシリーズ」カメラが展示される予定で、放送・制作現場の最先端テクノロジーが披露されます。",
+    "insight": "放送・映像制作ワークフローにおいて、ワイヤレス通信とイメージングの統合が進化しており、低遅延かつ高信頼なデータ伝送技術が重要性を増しています。エンジニアとしては、ハードウェアのスペックだけでなく、ソフトウェアによる制御やメタデータ連携の最適化が、次世代の映像制作体験をどう変えるかに注目すべきです。",
+    "sourceUrl": "https://news.nicovideo.jp/watch/nw19761002?news_ref=watch_60_nw18944539",
+    "sourceName": "news.nicovideo.jp",
+    "originalImageUrl": null,
+    "originalImageArticleUrl": "https://news.nicovideo.jp/watch/nw19761002?news_ref=watch_60_nw18944539",
+    "displayDate": "2026-09-11"
+  },
+  "TCL": {
+    "title": "TCLがデザイナーズTV「A300L/A400U」を発表",
+    "summary": "TCLがインテリア調の「Designer Series」を拡充し、QLED搭載のA300LとQD-Mini LED搭載のA400Uを発表しました。アートフレームのような薄型デザインで、家電とインテリアの融合を加速させる新製品です。",
+    "insight": "近年のディスプレイ技術はMini LEDによる高画質化だけでなく、空間デザインへの調和が求められています。ハードウェア設計において、薄型化技術と映像体験を両立させる統合的なアプローチは、今後のコンシューマーデバイス開発のトレンドとなるでしょう。",
+    "sourceUrl": "https://www.ecoustics.com/products/tcl-a300l-a400u-designer-series-art-tvs/",
+    "sourceName": "eCoustics",
+    "originalImageUrl": "https://www.ecoustics.com/wp-content/uploads/tcl-a300l-art-tv-iifestyle-front.jpg",
+    "originalImageArticleUrl": "https://www.ecoustics.com/products/tcl-a300l-a400u-designer-series-art-tvs/",
+    "displayDate": "2026-09-11"
+  },
+  "TV": {
+    "title": "Sony Bravia 6がOLED市場に激震、技術競争が加速か",
+    "summary": "最新のSony Bravia 6 OLED TVが、LGのC6シリーズの強力なライバルとして注目を集めています。高画質なOLEDテレビ市場における両社の激しいスペック競争が鮮明になっており、ディスプレイ技術の進化が再び注目されています。",
+    "insight": "OLEDパネルの微細な駆動制御や画像処理エンジンのアルゴリズムは、近年のTV技術におけるソフトウェアエンジニアリングの核心です。特にHDR階調表現やAIアップスケーリングの最適化は、低レイテンシで高負荷な並列処理が要求されるため、組み込み開発の知見がそのまま活かされる領域です。",
+    "sourceUrl": "https://tech.yahoo.com/home-entertainment/tvs/articles/sony-bravia-6-oled-tv-093000062.html",
+    "sourceName": "tech.yahoo.com",
+    "originalImageUrl": "https://s.yimg.com/lo/mysterio/api/6986291cf987c9f1d9c3d044b5374bb394c3305d4c3ce2c29bab1eea9b507585/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ftoms_guide_826%2F01b43887dc1efb6a14e687fea844ef5a.jpg",
+    "originalImageArticleUrl": "https://tech.yahoo.com/home-entertainment/tvs/articles/sony-bravia-6-oled-tv-093000062.html",
+    "displayDate": "2026-09-11"
+  },
+  "SRD / XR": {
+    "title": "Metaの新ヘッドセット「Project Phoenix」の姿が判明",
+    "summary": "Metaの次期ヘッドセットと噂される「Project Phoenix」のビジュアルが、Horizon OSのファームウェア内から発見されました。コンピューティングユニットを分離したスリムな形状が特徴です。",
+    "insight": "ヘッドセット本体を軽量化し、処理ユニットを別体にする設計は、装着感の向上と長時間のUXにおいて重要です。XRデバイスのハードウェア設計が『一体型』から『分散型アーキテクチャ』へ再評価されているトレンドとして注目すべき事例です。",
+    "sourceUrl": "https://www.uploadvr.com/meta-project-phoenix-headset-first-clear-visuals/",
+    "sourceName": "UploadVR",
+    "originalImageUrl": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/09/Meta-Phoenix-headset-clear-visuals-featured.png",
+    "originalImageArticleUrl": "https://www.uploadvr.com/meta-project-phoenix-headset-first-clear-visuals/",
+    "displayDate": "2026-09-11"
+  },
+  "LED Wall Display": {
+    "title": "次世代車載ディスプレイの標準化：ASA Motion Linkの重要性",
+    "summary": "MarelliとMicrochipが、車載ディスプレイ向けの新たな接続ソリューションを発表しました。車両のメインコンピュータからディスプレイへ、オープン標準である「ASA Motion Link」を用いて直接映像を伝送することで、システム構成の簡素化とコスト最適化を実現します。",
+    "insight": "ソフトウェア定義車両（SDV）において、ディスプレイアーキテクチャの簡素化は開発効率に直結します。特定のプロプライエタリな規格からオープン標準への移行は、将来的なディスプレイ更新やサプライヤーの柔軟性確保においてエンジニアが注視すべき重要なトレンドです。",
+    "sourceUrl": "https://www.budapestreporter.com/chinese-film-technology-delegation-origo-studios-budapest/",
+    "sourceName": "LEDinside",
+    "originalImageUrl": "https://www.budapestreporter.com/wp-content/uploads/2026/09/chinese-film-technology-delegation-origo-studios-budapest-budapestreporter-2026-09-10_236852.jpg",
+    "originalImageArticleUrl": "https://www.budapestreporter.com/chinese-film-technology-delegation-origo-studios-budapest/",
+    "displayDate": "2026-09-11"
+  },
+  "Production Monitor": {
+    "title": "USB4ハブの普及と高帯域伝送の進化",
+    "summary": "OWCが新型USB4ハブと最大40Gb/s対応のアクティブ光ケーブルを発表しました。このハブは6ポートを備え、HDMI 2.1によるディスプレイ出力や最大81Wの給電に対応しており、クリエイティブ環境のデスク周りの接続性を劇的に向上させます。",
+    "insight": "USB4の普及により、マルチディスプレイや大容量ストレージへの高速アクセスが単一ケーブルで完結する環境が整いつつあります。エンジニアにとって、モバイル環境とデスクトップ環境をシームレスに切り替えられる「ドック型」インターフェースの進化は、生産性を支える重要な要素です。",
+    "sourceUrl": "https://www.newsshooter.com/2026/09/10/owc-usb4-hub/?utm_source=rss&utm_medium=rss&utm_campaign=owc-usb4-hub",
+    "sourceName": "Newsshooter",
+    "originalImageUrl": "https://www.newsshooter.com/wp-content/uploads/2026/09/OWC-1-740x416.jpg",
+    "originalImageArticleUrl": "https://www.newsshooter.com/2026/09/10/owc-usb4-hub/?utm_source=rss&utm_medium=rss&utm_campaign=owc-usb4-hub",
+    "displayDate": "2026-09-11"
+  },
+  "Camera Control": {
+    "title": "Laowa初のAFレンズが登場！Fujifilm Xマウント対応",
+    "summary": "マニュアルフォーカスで定評のあるLaowaが、ついにFujifilm Xマウント向け初のオートフォーカスレンズを発表しました。マクロレンズとしての性能はもちろん、AF対応により実用性が飛躍的に向上した注目の新製品です。",
+    "insight": "ニッチな光学メーカーが既存のAFシステムに参入することは、サードパーティ製レンズの互換性と市場競争において重要なマイルストーンです。特にXマウントにおけるAFアルゴリズムの実装レベルは、今後の他レンズ展開の試金石となるでしょう。",
+    "sourceUrl": "https://www.dpreview.com/news/laowa-is-releasing-its-first-autofocus-lens-for-fujifilm-x-mount-a-macro-monster/",
+    "sourceName": "DPReview",
+    "originalImageUrl": "https://www.dpreview.com/wp-content/uploads/2026/09/M-PI-laowa-180mm-macro-lens-for-x-mount-01_94a158.jpg",
+    "originalImageArticleUrl": "https://www.dpreview.com/news/laowa-is-releasing-its-first-autofocus-lens-for-fujifilm-x-mount-a-macro-monster/",
+    "displayDate": "2026-09-11"
+  }
+}
