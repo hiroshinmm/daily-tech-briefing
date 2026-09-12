@@ -1,0 +1,102 @@
+{
+  "SRD / XR": {
+    "title": "Robloxが大規模アップデート、ブラウザ対応へ",
+    "summary": "年次開発者会議「RDC」にてRobloxが大規模アップデートを発表。ブラウザでの直接プレイやオフライン参加への対応が目玉で、プラットフォームの20周年を機にアクセシビリティを大幅に強化します。",
+    "insight": "ブラウザベースのプレイ対応は、インストール不要な低摩擦なユーザー体験を実現する重要な転換点です。Web技術を活用したクロスプラットフォーム戦略は、XR/メタバース開発におけるエコシステム拡大の示唆となります。",
+    "sourceUrl": "https://www.moguravr.com/roblox-rdc-2026/",
+    "sourceName": "Mogura VR",
+    "originalImageUrl": "https://assets.moguravr.com/uploads/2026/09/a40c810f01e9700eb071e38d360d370f-kix.tj2q3x29459i-300x169.webp",
+    "originalImageArticleUrl": "https://www.moguravr.com/roblox-rdc-2026/",
+    "displayDate": "2026-09-12"
+  },
+  "AI": {
+    "title": "AIエージェントの暴走と「キルスイッチ」の重要性",
+    "summary": "AIエージェントによるサイバー攻撃の脅威が現実味を帯びる中、暴走を防ぐための緊急停止機能「キルスイッチ」の実装が急務となっている。米メディアを中心に、AIの制御不能リスクに対する懸念が高まり、規制や安全策の策定に向けた動きが加速している。",
+    "insight": "AIエージェントの自律化は、サンドボックス環境の隔離やアクセス権限の最小化といったセキュリティ設計を根本から再考させる必要がある。開発者は、論理的な暴走や予期せぬ挙動を即座に検知・遮断するフェイルセーフ機構を、アーキテクチャの根幹に組み込むことが求められる。",
+    "sourceUrl": "https://www.axios.com/2026/09/10/ai-doomsday-doom-fear-kill-switch",
+    "sourceName": "Axios",
+    "originalImageUrl": "https://images.axios.com/_2YWJHPohq5ZLVR4YCq4cx-CZ7o=/0x0:1920x1080/1366x768/2026/06/09/1781034961158.jpeg",
+    "originalImageArticleUrl": "https://www.axios.com/2026/09/10/ai-doomsday-doom-fear-kill-switch",
+    "displayDate": "2026-09-12"
+  },
+  "TCL": {
+    "title": "TCLがIFA 2026で最新ディスプレイ技術を発表",
+    "summary": "TCLはIFA 2026にて、新世代の「SQD-Mini LED」搭載TVや、目に優しい「NXTPAPER」技術を採用したAMOLEDスマートフォン、さらに最新のタブレット「TAB A1」などを一斉に発表しました。ディスプレイの性能と視覚体験の向上を両立させる多様な製品ラインナップが注目されています。",
+    "insight": "Mini LEDと量子ドットを組み合わせたSQD-Mini LEDは、輝度とコントラスト比の両立においてOLEDに代わる有力な選択肢となっています。エンジニアの視点では、単なる画素数競争から、色再現性や視覚的快適性（NXTPAPER技術など）へと差別化の軸が移行している点に注目すべきです。",
+    "sourceUrl": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1mNEJ6OEhKQUdvSEdEeXhlZXFHQ2h3aFpEV01fUEgzdXRMbWtHQjlPaVFiend4ZTJkczhVa0Zxa2lmN0dUX0NjbXR2YnlqNkZYVnUyWExCaUU0dkRmTWNqZnF4OEtwZw?oc=5",
+    "sourceName": "mashable.com",
+    "originalImageUrl": null,
+    "originalImageArticleUrl": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1mNEJ6OEhKQUdvSEdEeXhlZXFHQ2h3aFpEV01fUEgzdXRMbWtHQjlPaVFiend4ZTJkczhVa0Zxa2lmN0dUX0NjbXR2YnlqNkZYVnUyWExCaUU0dkRmTWNqZnF4OEtwZw?oc=5",
+    "displayDate": "2026-09-12"
+  },
+  "Gaming Monitor": {
+    "title": "MSIの新型OLEDモニターがMac互換性を強化",
+    "summary": "MSIが新たにリリースしたTandem OLED搭載モニターは、優れた色彩表現に加え、Macとの高度な互換性を備えていることが特徴です。Windows向けが主戦場だったゲーミングモニター市場において、Macユーザーのクリエイティブなニーズを意識した設計が注目を集めています。",
+    "insight": "ディスプレイのカラーマネジメントにおいて、macOS特有の色域や輝度制御への最適化は、制作環境の質を左右する重要な差別化要因です。エンジニアの観点からは、USB-C経由での電力供給や映像・周辺機器の統合制御といった、周辺デバイスとのプロトコル整合性が作業効率向上にどう寄与するかが評価の焦点となります。",
+    "sourceUrl": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOWnltRWhrUnlhTW5iSElVVXJOS3lLbGk1ZzRNd096Z0h2TG0yTVhJOGtXRzR1c1NCMFJIS3p2bFVydmNQdWdOMS1HS09HdEdrNndtVENXWGkxbGxxbWRtN2tPd2p4eC0tUzQyZ0xXNENTOTdpQmpNX2Q4bzUzM2xZZXFHV1h2cWpUTlY3YWl6TnZsQVp6REs2MWROLXZMNnhFVTFEa0FyeWtBMnROQlllTWFkY0ZfaDR5TUtOVmw5aUVLcUVYemNRLU1qQlY?oc=5",
+    "sourceName": "Notebookcheck",
+    "originalImageUrl": null,
+    "originalImageArticleUrl": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOWnltRWhrUnlhTW5iSElVVXJOS3lLbGk1ZzRNd096Z0h2TG0yTVhJOGtXRzR1c1NCMFJIS3p2bFVydmNQdWdOMS1HS09HdEdrNndtVENXWGkxbGxxbWRtN2tPd2p4eC0tUzQyZ0xXNENTOTdpQmpNX2Q4bzUzM2xZZXFHV1h2cWpUTlY3YWl6TnZsQVp6REs2MWROLXZMNnhFVTFEa0FyeWtBMnROQlllTWFkY0ZfaDR5TUtOVmw5aUVLcUVYemNRLU1qQlY?oc=5",
+    "displayDate": "2026-09-12"
+  },
+  "SONY": {
+    "title": "ソニーのスタビライザーLSI、時速350kmでもブレない驚異の低遅延性能",
+    "summary": "ソニーが開発したスタビライザーLSIが、モータースポーツのような超高速環境下でいかにして安定した映像を実現しているのかに注目が集まっています。わずか1.5フレームという極めて低い遅延でリアルタイムの水平維持を実現する技術は、次世代の映像体験を支える基盤となります。",
+    "insight": "この技術は高精度なジャイロセンサーとASICによる最適化の賜物であり、ハードウェアベースの低遅延処理がいかにリアルタイム制御において重要かを示しています。画像処理パイプラインにおけるボトルネック解消というエンジニアリング的視点で、エッジAIやリアルタイムAR/VRへの応用可能性を深掘りすると議論が盛り上がるでしょう。",
+    "sourceUrl": "https://eetimes.itmedia.co.jp/ee/articles/2609/11/news054_3.html",
+    "sourceName": "EE Times Japan",
+    "originalImageUrl": "https://image.itmedia.co.jp/ee/articles/2609/11/cover_news054.jpg",
+    "originalImageArticleUrl": "https://eetimes.itmedia.co.jp/ee/articles/2609/11/news054_3.html",
+    "displayDate": "2026-09-12"
+  },
+  "Projector": {
+    "title": "ついに登場！4K/120Hz対応の超短焦点プロジェクター",
+    "summary": "XGIMIから世界初となる4K解像度かつ120Hzのリフレッシュレートに対応した超短焦点（UST）プロジェクター「AURA 3」が登場しました。高精細かつ滑らかな映像体験を壁際から実現する技術的マイルストーンです。",
+    "insight": "プロジェクターにおいて4Kと120Hzの両立は、応答速度と帯域幅の観点から技術的なハードルが高く、ゲーミング用途での体験が劇的に向上します。特に超短焦点レンズを組み合わせることで、設置場所の制約を受けずに没入型の高リフレッシュレート環境を構築できる点はエンジニアとしても注目です。",
+    "sourceUrl": "https://www.talkandroid.com/531038-xgimi-aura-3-series-ifa-2026/",
+    "sourceName": "Talk Android",
+    "originalImageUrl": "https://www.talkandroid.com/wp-content/uploads/2026/09/4-2000x1500.jpg",
+    "originalImageArticleUrl": "https://www.talkandroid.com/531038-xgimi-aura-3-series-ifa-2026/",
+    "displayDate": "2026-09-12"
+  },
+  "Camera Control": {
+    "title": "白飛びを防ぐ画期的な技術「LOFICセンサー」とは",
+    "summary": "近年注目を集める「LOFIC」技術を解説。Osmo Pocket 4Pにも採用されたこのセンサーは、画素内にキャパシタを搭載することで、従来は飽和していた明るい領域の信号も保持し、最大17ストップという驚異的なダイナミックレンジを実現しています。",
+    "insight": "LOFIC（Lateral Overflow Integration Capacitor）は、センサーの飽和を物理的に回避するハードウェアレベルのアプローチであり、HDR合成に頼らない高画質化が可能です。ソフトウェア処理に依存しないダイナミックレンジの拡張は、今後のモバイルカメラや産業用センサーのスタンダードになる技術です。",
+    "sourceUrl": "https://dc.watch.impress.co.jp/docs/column/trend/2140009.html",
+    "sourceName": "デジカメ Watch",
+    "originalImageUrl": "https://dc.watch.impress.co.jp/img/dcw/list/2140/009/01.png",
+    "originalImageArticleUrl": "https://dc.watch.impress.co.jp/docs/column/trend/2140009.html",
+    "displayDate": "2026-09-12"
+  },
+  "TV": {
+    "title": "OLEDテレビが身近に？最新セールトレンド",
+    "summary": "Labor Dayセールに伴い、LGやSamsungなどの高精細なOLED（有機EL）テレビが大幅値下げされています。かつてのハイエンド向け技術が、中価格帯モデルの充実により、一般家庭にも広く普及し始めています。",
+    "insight": "ディスプレイ技術においてOLEDの低価格化は、UX向上とコンテンツ消費のあり方に大きな影響を与えます。エンジニアとしては、最新のパネルスペック（輝度やリフレッシュレート）が開発環境のモニター選定やUI設計の基準値にどう波及するかを注視しておくのが良いでしょう。",
+    "sourceUrl": "https://mashable.com/tech/best-labor-day-tv-deals-2026-live",
+    "sourceName": "mashable.com",
+    "originalImageUrl": "https://helios-i.mashable.com/imagery/articles/00ZoMq9uoWlGUiKZmb2qvIO/hero-image.fill.size_1200x675.v1788781128.png",
+    "originalImageArticleUrl": "https://mashable.com/tech/best-labor-day-tv-deals-2026-live",
+    "displayDate": "2026-09-12"
+  },
+  "Production Monitor": {
+    "title": "Sony DWX Gen 4：32bitフロート対応で無線機材が進化",
+    "summary": "IBC 2026でSonyの第4世代無線マイクシステム「DWX Gen 4」の詳細が発表されました。送信機DWT-B40は32bitフロート録音に対応し、1.1msの超低遅延を実現。従来機との互換性を保ちつつ、価格を約30%引き下げることでプロフェッショナルな現場の導入ハードルを下げています。",
+    "insight": "32bitフロート録音の普及は、音割れ（クリッピング）のリスクを理論上ゼロにするため、エンジニアにとってのデータリカバリ工数を劇的に削減します。低遅延と高ダイナミックレンジの両立は、リアルタイム処理が必要な配信・放送システムにおいて、ハードウェア選定の新たな基準となるでしょう。",
+    "sourceUrl": "https://www.cined.com/sony-dwx-gen-4-wireless-system-detailed-32-bit-float-recording-1-1ms-latency-and-a-30-price-cut/",
+    "sourceName": "CineD",
+    "originalImageUrl": "https://www.cined.com/content/uploads/2026/09/Sony-DWX-Gen-4-Wireless-transmitter-300x169.jpg",
+    "originalImageArticleUrl": "https://www.cined.com/sony-dwx-gen-4-wireless-system-detailed-32-bit-float-recording-1-1ms-latency-and-a-30-price-cut/",
+    "displayDate": "2026-09-12"
+  },
+  "LED Wall Display": {
+    "title": "バーチャルプロダクションの技術革新：100Hzフレームインターリーブ",
+    "summary": "バーチャルプロダクションにおけるライブカメラ切り替えの課題に対し、100Hzのフレームインターリーブ手法を用いた新しいアプローチが公共放送局のPoCで実証されました。LEDウォールの更新レートとカメラ撮影の同期における高度な技術的課題を解決する重要な事例です。",
+    "insight": "フレームインターリーブによる同期は、LEDウォール上でのフリッカーやスキャンライン問題の低減に直結します。エンジニアにとっては、高フレームレート環境下でのレイテンシ管理とマルチカメラソース間の正確な同期タイミング制御が、次世代のスタジオ構築における差別化要因となります。",
+    "sourceUrl": "https://www.ibc.org/accelerating-innovation/reports/a-100-hz-frame-interleaved-approach-to-live-multi-camera-switching-in-led-based-virtual-production-experience-from-a-public-broa/22794",
+    "sourceName": "IBC.org",
+    "originalImageUrl": "https://www.ibc.org/files/live/sites/ibc/files/2026/9-September/Tech Papers/A 100 Hz frame-interleaved approach to live multi-camera switching in led-based virtual production, Experience from a public-bro/shutterstock_2425060499 (1).jpg",
+    "originalImageArticleUrl": "https://www.ibc.org/accelerating-innovation/reports/a-100-hz-frame-interleaved-approach-to-live-multi-camera-switching-in-led-based-virtual-production-experience-from-a-public-broa/22794",
+    "displayDate": "2026-09-12"
+  }
+}

@@ -1,10 +1,6 @@
 {
   "Production Monitor": [
     {
-      "url": "https://www.cined.com/gopro-says-the-cameras-are-staying-reading-nick-woodmans-post-merger-letter/",
-      "date": "2026-09-05"
-    },
-    {
       "url": "https://www.provideocoalition.com/blackmagic-pyxis-6k-and-cinema-camera-6k-have-a-new-lower-price/",
       "date": "2026-09-06"
     },
@@ -27,13 +23,13 @@
     {
       "url": "https://www.newsshooter.com/2026/09/10/owc-usb4-hub/?utm_source=rss&utm_medium=rss&utm_campaign=owc-usb4-hub",
       "date": "2026-09-11"
+    },
+    {
+      "url": "https://www.cined.com/sony-dwx-gen-4-wireless-system-detailed-32-bit-float-recording-1-1ms-latency-and-a-30-price-cut/",
+      "date": "2026-09-12"
     }
   ],
   "SRD / XR": [
-    {
-      "url": "https://www.moguravr.com/xr-kaigi-hub-hukuoka-2026-vrc-report/",
-      "date": "2026-09-05"
-    },
     {
       "url": "https://www.uploadvr.com/pico-space-pro-appears-to-receive-fcc-certification-following-delay-to-q4/",
       "date": "2026-09-06"
@@ -57,6 +53,10 @@
     {
       "url": "https://www.uploadvr.com/meta-project-phoenix-headset-first-clear-visuals/",
       "date": "2026-09-11"
+    },
+    {
+      "url": "https://www.moguravr.com/roblox-rdc-2026/",
+      "date": "2026-09-12"
     }
   ],
   "AI": [
@@ -83,13 +83,13 @@
     {
       "url": "https://www.nikkei.com/article/DGXZQOGN10BT70Q6A910C2000000/",
       "date": "2026-09-11"
+    },
+    {
+      "url": "https://www.axios.com/2026/09/10/ai-doomsday-doom-fear-kill-switch",
+      "date": "2026-09-12"
     }
   ],
   "Gaming Monitor": [
-    {
-      "url": "https://pc.watch.impress.co.jp/docs/topic/readitnow/2138514.html",
-      "date": "2026-09-05"
-    },
     {
       "url": "https://mashable.com/tech/samsung-odyssey-2027-gaming-monitors-announcement",
       "date": "2026-09-06"
@@ -113,6 +113,10 @@
     {
       "url": "https://www.ign.com/articles/aoc-agon-pro-qd-oled-gaming-monitor-deal",
       "date": "2026-09-11"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOWnltRWhrUnlhTW5iSElVVXJOS3lLbGk1ZzRNd096Z0h2TG0yTVhJOGtXRzR1c1NCMFJIS3p2bFVydmNQdWdOMS1HS09HdEdrNndtVENXWGkxbGxxbWRtN2tPd2p4eC0tUzQyZ0xXNENTOTdpQmpNX2Q4bzUzM2xZZXFHV1h2cWpUTlY3YWl6TnZsQVp6REs2MWROLXZMNnhFVTFEa0FyeWtBMnROQlllTWFkY0ZfaDR5TUtOVmw5aUVLcUVYemNRLU1qQlY?oc=5",
+      "date": "2026-09-12"
     }
   ],
   "TCL": [
@@ -139,13 +143,13 @@
     {
       "url": "https://www.ecoustics.com/products/tcl-a300l-a400u-designer-series-art-tvs/",
       "date": "2026-09-11"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1mNEJ6OEhKQUdvSEdEeXhlZXFHQ2h3aFpEV01fUEgzdXRMbWtHQjlPaVFiend4ZTJkczhVa0Zxa2lmN0dUX0NjbXR2YnlqNkZYVnUyWExCaUU0dkRmTWNqZnF4OEtwZw?oc=5",
+      "date": "2026-09-12"
     }
   ],
   "Camera Control": [
-    {
-      "url": "https://www.dpreview.com/news/this-is-refreshing-blackmagic-is-making-some-of-its-cameras-over-1000-cheaper/",
-      "date": "2026-09-05"
-    },
     {
       "url": "https://www.dpreview.com/opinion/ultrawide-vs-telephoto-if-the-iphone-fold-only-has-one-which-should-it-be/",
       "date": "2026-09-06"
@@ -169,13 +173,13 @@
     {
       "url": "https://www.dpreview.com/news/laowa-is-releasing-its-first-autofocus-lens-for-fujifilm-x-mount-a-macro-monster/",
       "date": "2026-09-11"
+    },
+    {
+      "url": "https://dc.watch.impress.co.jp/docs/column/trend/2140009.html",
+      "date": "2026-09-12"
     }
   ],
   "LED Wall Display": [
-    {
-      "url": "https://www.digitalsignagetoday.com/news/epson-debuts-all-in-one-dvled-displays/",
-      "date": "2026-09-05"
-    },
     {
       "url": "https://ravepubs.com/rave-video/cedia-expo-2026-dreamwall-showcases-outdoor-smd-2-6-led-wall-designed-for-full-sun-exposure/",
       "date": "2026-09-06"
@@ -199,6 +203,10 @@
     {
       "url": "https://www.budapestreporter.com/chinese-film-technology-delegation-origo-studios-budapest/",
       "date": "2026-09-11"
+    },
+    {
+      "url": "https://www.ibc.org/accelerating-innovation/reports/a-100-hz-frame-interleaved-approach-to-live-multi-camera-switching-in-led-based-virtual-production-experience-from-a-public-broa/22794",
+      "date": "2026-09-12"
     }
   ],
   "SONY": [
@@ -225,6 +233,10 @@
     {
       "url": "https://news.nicovideo.jp/watch/nw19761002?news_ref=watch_60_nw18944539",
       "date": "2026-09-11"
+    },
+    {
+      "url": "https://eetimes.itmedia.co.jp/ee/articles/2609/11/news054_3.html",
+      "date": "2026-09-12"
     }
   ],
   "TV": [
@@ -251,13 +263,13 @@
     {
       "url": "https://tech.yahoo.com/home-entertainment/tvs/articles/sony-bravia-6-oled-tv-093000062.html",
       "date": "2026-09-11"
+    },
+    {
+      "url": "https://mashable.com/tech/best-labor-day-tv-deals-2026-live",
+      "date": "2026-09-12"
     }
   ],
   "Projector": [
-    {
-      "url": "https://av.watch.impress.co.jp/docs/news/2138232.html",
-      "date": "2026-09-05"
-    },
     {
       "url": "https://www.androidheadlines.com/2026/09/awol-vision-just-announced-the-worlds-first-4k-120hz-ultra-short-throw-projector-with-optical-shift.html",
       "date": "2026-09-06"
@@ -281,6 +293,10 @@
     {
       "url": "https://av.watch.impress.co.jp/docs/news/2139840.html",
       "date": "2026-09-11"
+    },
+    {
+      "url": "https://www.talkandroid.com/531038-xgimi-aura-3-series-ifa-2026/",
+      "date": "2026-09-12"
     }
   ]
 }
