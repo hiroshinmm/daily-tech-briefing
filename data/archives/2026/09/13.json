@@ -1,0 +1,102 @@
+{
+  "SRD / XR": {
+    "title": "VizrtがTriCasterを刷新、AIとARを統合",
+    "summary": "Vizrtがライブ制作スイッチャー「TriCaster」ポートフォリオをアップデート。AIによる自動化機能やAR合成機能を強化し、放送・配信ワークフローを効率化・高度化させる次世代の制作環境を提案しています。",
+    "insight": "AI駆動のライブ制作は単なる自動化を超え、リアルタイムなAR合成をより低遅延かつ直感的なワークフローに統合しつつあります。放送業界におけるライブ制作の複雑さがエンジニアのツールでどう抽象化されているか注目すべきです。",
+    "sourceUrl": "https://jp.pronews.com/news/202609121432782354.html",
+    "sourceName": "jp.pronews.com",
+    "originalImageUrl": "https://jp.pronews.com/wp-content/uploads/2026/09/260912_TriCaster-Family_topRFdEcS5u.jpg",
+    "originalImageArticleUrl": "https://jp.pronews.com/news/202609121432782354.html",
+    "displayDate": "2026-09-13"
+  },
+  "AI": {
+    "title": "Anthropic CEOが警告：AI開発の減速と安全性の重要性",
+    "summary": "AnthropicのDario Amodei CEOが、AIが1年以内にサイバー攻撃等の重大な脅威を引き起こすリスクに言及し、開発の減速と安全対策の強化を提言。AI業界トップによるこの異例の警告は、技術の進歩速度と倫理的リスクのバランスについて大きな議論を呼んでいます。",
+    "insight": "AIモデルの能力向上に伴い、モデルの「安全性」や「制御可能性」をどう担保するかが、もはや研究者レベルを超えた経営・社会課題になっています。エンジニアとしては、単なるパフォーマンス追求だけでなく、脆弱性の評価や倫理的なガードレールの実装を開発ライフサイクルの初期から考慮する設計思想が不可欠です。",
+    "sourceUrl": "https://www.nikkei.com/article/DGXZQOGN122UY0S6A910C2000000/",
+    "sourceName": "日本経済新聞",
+    "originalImageUrl": "https://article-image-ix.nikkei.com/https%3A%2F%2Fimgix-proxy.n8s.jp%2FDSXZQO3589657012092026000000-1.jpg?auto=compress&bg=FFFF&crop=focalpoint&fit=crop&fm=jpg&fp-y=0.43&h=630&w=1200&s=635dffaea90c62891be3669c3182e195",
+    "originalImageArticleUrl": "https://www.nikkei.com/article/DGXZQOGN122UY0S6A910C2000000/",
+    "displayDate": "2026-09-13"
+  },
+  "TCL": {
+    "title": "TCLの次世代技術「SQD-Mini LED」が世界で高評価",
+    "summary": "TCLの革新的なディスプレイ技術「SQD-Mini LED」が、IFA 2026をはじめとする複数の国際的な賞を受賞しました。画質と明暗比の最適化を両立させた同技術は、次世代のディスプレイ基準として業界内外から高い注目を集めています。",
+    "insight": "量子ドットとMini LEDを統合したSQD技術は、バックライト制御と色再現性の高度なバランスを実現しており、ディスプレイ設計における新たな標準を示唆しています。エンジニアの視点では、PWM制御の最適化やローカルディミングアルゴリズムがどのように進化しているか注目すべきポイントです。",
+    "sourceUrl": "https://www.mid-day.com/buzz/article/tcl-s-pioneering-sqd-mini-led-earns-industry-recognition-reinforcing-its-leadership-in-display-innovation-10867",
+    "sourceName": "Mid-Day",
+    "originalImageUrl": "https://images.mid-day.com/images/images/2026/sep/sumbk_d.jpg",
+    "originalImageArticleUrl": "https://www.mid-day.com/buzz/article/tcl-s-pioneering-sqd-mini-led-earns-industry-recognition-reinforcing-its-leadership-in-display-innovation-10867",
+    "displayDate": "2026-09-13"
+  },
+  "TV": {
+    "title": "LG製TVの「盗聴疑惑」を公式が否定",
+    "summary": "LG Electronicsは、同社製のテレビがユーザーを監視・盗聴しているという懸念に対し、正式に否定の声明を出しました。ただし、ユーザーが同意した設定に基づき、利用状況のデータが収集される可能性については認められています。",
+    "insight": "コネクテッドTVにおけるプライバシー設定とオプトイン設計は、ユーザーへの透明性を確保する上で重要なエンジニアリングの課題です。利用規約の同意画面が単なる手続きではなく、データ収集の実態をどこまで直感的に伝えているかが、信頼性構築の鍵となります。",
+    "sourceUrl": "https://gizmodo.com/lg-denies-its-tvs-are-spying-on-you-unless-you-opted-in-2000810968",
+    "sourceName": "Gizmodo",
+    "originalImageUrl": null,
+    "originalImageArticleUrl": "https://gizmodo.com/lg-denies-its-tvs-are-spying-on-you-unless-you-opted-in-2000810968",
+    "displayDate": "2026-09-13"
+  },
+  "SONY": {
+    "title": "ソニー「RM-DP7」発表、Cinema Lineの操作性が進化",
+    "summary": "IBC 2026で発表されたソニーのCinema Line向け統合コントローラー「RM-DP7」と「RM-DP5」が注目を集めています。これらは単なるモニターとしての役割を超え、カメラの撮影設定を効率的に制御できるデバイスとして、プロの映像制作ワークフローに新たな選択肢を提供します。",
+    "insight": "デバイスとカメラを高度に統合するコントローラーの登場は、現場の操作インターフェースにおけるUXの最適化が重要な差別化要因になっていることを示唆しています。APIを通じた外部制御とハードウェア連携の強化は、自動化が進むプロ現場においてエンジニアが注力すべき重要な領域です。",
+    "sourceUrl": "https://jp.pronews.com/all/202609121531782452.html",
+    "sourceName": "jp.pronews.com",
+    "originalImageUrl": "https://jp.pronews.com/wp-content/uploads/2026/09/bac07a91eae5b79fa7cab52ea8725b0e.jpg",
+    "originalImageArticleUrl": "https://jp.pronews.com/all/202609121531782452.html",
+    "displayDate": "2026-09-13"
+  },
+  "Gaming Monitor": {
+    "title": "高コスパなウルトラワイドモニターの新潮流",
+    "summary": "200Hzの高リフレッシュレートと90Wの給電機能を備えた、手頃な価格帯のウルトラワイドゲーミングモニターが発表されました。高解像度かつ高速な描画性能を維持しつつ、USB PDによる周辺機器の集約が可能となり、デスク環境のミニマル化を求めるユーザーに注目されています。",
+    "insight": "USB PD 90W給電は、ラップトップをメイン機とする開発者にとって、ドック代わりとしてデスクをすっきりさせる非常に実用的な機能です。高リフレッシュレートと生産性向上のための作業領域を両立するトレンドは、エンジニアの作業環境構築において今後標準的な選択肢になるでしょう。",
+    "sourceUrl": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxObnE5U3B5bkRNY1FEQTNLemdXSDVzczFkY2xTSlR4NC1QTDFLVU52VEtGOEhxUV9WQXhUbUpkNFJWUV9OSXBYSVhtSi1zaW5NcVZNeExuaDJHMk9mNmk4dTduRVRHT3FhTGV1Wk5VVzRFa0pvenJzQlMtX2VjbFlOU1Y2X1ZxWmFHRk9QZ3dVRFVTbU9CMWM4NDNpSU10WW1pSG4zNURrRHV5LVhnUjZoc0tRa21iTDBNeUlpYmdnVDUwZjhJU2c4SlgycEY5ZUIzQTdZ?oc=5",
+    "sourceName": "Notebookcheck",
+    "originalImageUrl": null,
+    "originalImageArticleUrl": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxObnE5U3B5bkRNY1FEQTNLemdXSDVzczFkY2xTSlR4NC1QTDFLVU52VEtGOEhxUV9WQXhUbUpkNFJWUV9OSXBYSVhtSi1zaW5NcVZNeExuaDJHMk9mNmk4dTduRVRHT3FhTGV1Wk5VVzRFa0pvenJzQlMtX2VjbFlOU1Y2X1ZxWmFHRk9QZ3dVRFVTbU9CMWM4NDNpSU10WW1pSG4zNURrRHV5LVhnUjZoc0tRa21iTDBNeUlpYmdnVDUwZjhJU2c4SlgycEY5ZUIzQTdZ?oc=5",
+    "displayDate": "2026-09-13"
+  },
+  "Production Monitor": {
+    "title": "DJIジンバルを活かす！低コスト・モーコン登場",
+    "summary": "IBC 2026で発表されたRAUBAYの「KINETIX Model F」は、既存のDJI RSジンバルをマウントして5軸制御を実現する画期的なジブアームです。2,000〜3,000ドルという低価格で、モーコンの民主化を狙う注目のプロダクトです。",
+    "insight": "既存のエコシステム（DJI RS）を制御系に統合し、ハードウェアコストを抑えつつジブの可動域を活かす設計思想は、非常に効率的なエンジニアリングのアプローチです。APIや外部制御プロトコルの活用による、機材の再利用性と拡張性を考慮した設計は、ハードウェア開発において大いに参考になります。",
+    "sourceUrl": "https://www.cined.com/raubay-kinetix-model-f-detailed-five-axis-motion-control-with-dji-rs-integration/",
+    "sourceName": "CineD",
+    "originalImageUrl": "https://www.cined.com/content/uploads/2026/09/RAUBAY-KINETIX-feature-300x169.jpg",
+    "originalImageArticleUrl": "https://www.cined.com/raubay-kinetix-model-f-detailed-five-axis-motion-control-with-dji-rs-integration/",
+    "displayDate": "2026-09-13"
+  },
+  "Projector": {
+    "title": "進化する超短焦点4Kプロジェクターの今",
+    "summary": "壁紙DIYと最新の超短焦点4Kプロジェクターを組み合わせ、寝室をシアター化するトレンドが注目されています。省スペースで大画面を実現する技術により、住空間の映像体験が大きく変化しています。",
+    "insight": "超短焦点レンズ技術は、高輝度・高コントラストなレーザー光源と組み合わせることで、従来のスクリーンの概念を覆す没入感を提供します。光学系の設計だけでなく、壁面の反射率を考慮したDIY的な工夫が、エンジニアリングにおける「環境最適化」の好例といえます。",
+    "sourceUrl": "https://www.itmedia.co.jp/news/article/2609/12/2000001428/",
+    "sourceName": "ITmedia",
+    "originalImageUrl": "https://www.itmedia.co.jp/news/article/ogp/2609/12/2000001428/10006287/2048",
+    "originalImageArticleUrl": "https://www.itmedia.co.jp/news/article/2609/12/2000001428/",
+    "displayDate": "2026-09-13"
+  },
+  "Camera Control": {
+    "title": "Fujifilmのカスタムレシピを無線転送する新アプリ「Huginn」",
+    "summary": "Fujifilmカメラ向けに、カスタムフィルムレシピを無線で直接転送できるiOSアプリ「Huginn」が登場しました。これまで手動で行っていた複雑な設定作業を、スマホからワイヤレスで同期できる点は非常に画期的であり、ワークフローの効率化が期待されています。",
+    "insight": "カメラメーカーの独自プロトコルをリバースエンジニアリングしてUXを改善する事例は、開発者にとって非常に興味深い領域です。APIが公開されていないクローズドなエコシステムにおいて、ハードウェアとモバイルアプリを無線で連携させる技術的アプローチが、今後の周辺機器開発のトレンドになる可能性があります。",
+    "sourceUrl": "https://petapixel.com/2026/09/12/this-new-app-is-the-first-to-send-custom-recipes-to-fujifilm-cameras-wirelessly/",
+    "sourceName": "PetaPixel",
+    "originalImageUrl": "https://petapixel.com/assets/uploads/2026/09/huginn-app-featured.jpg",
+    "originalImageArticleUrl": "https://petapixel.com/2026/09/12/this-new-app-is-the-first-to-send-custom-recipes-to-fujifilm-cameras-wirelessly/",
+    "displayDate": "2026-09-13"
+  },
+  "LED Wall Display": {
+    "title": "LEDウォールの技術革新：100Hzフレームインターリーブによるライブ切替",
+    "summary": "公共放送のPoCにおいて、LEDウォールを使用したバーチャルプロダクションで、100Hzフレームインターリーブ方式によるライブ・マルチカメラ切り替え技術が検証されました。これにより、低遅延かつ高品質な映像演出が可能になります。",
+    "insight": "フレームインターリーブ技術は、カメラのシャッタータイミングとLEDのリフレッシュレートを同期させ、フリッカーや映像の破綻を防ぐための重要なエンジニアリング手法です。高フレームレート同期の実現は、今後ライブ放送でのLEDウォール活用を大きく加速させる鍵となるでしょう。",
+    "sourceUrl": "https://www.ibc.org/accelerating-innovation/reports/a-100-hz-frame-interleaved-approach-to-live-multi-camera-switching-in-led-based-virtual-production-experience-from-a-public-broa/22794",
+    "sourceName": "IBC.org",
+    "originalImageUrl": "https://www.ibc.org/files/live/sites/ibc/files/2026/9-September/Tech Papers/A 100 Hz frame-interleaved approach to live multi-camera switching in led-based virtual production, Experience from a public-bro/shutterstock_2425060499 (1).jpg",
+    "originalImageArticleUrl": "https://www.ibc.org/accelerating-innovation/reports/a-100-hz-frame-interleaved-approach-to-live-multi-camera-switching-in-led-based-virtual-production-experience-from-a-public-broa/22794",
+    "displayDate": "2026-09-13"
+  }
+}
