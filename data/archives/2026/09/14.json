@@ -1,0 +1,102 @@
+{
+  "SRD / XR": {
+    "title": "Robloxのクリエイター収益が15億ドル突破、経済圏が加速",
+    "summary": "Robloxは、2025年のクリエイター収益が15億ドルを超える見通しであることを発表しました。また、講談社とのライセンス提携によるIP展開の強化や、「Roblox Innovation Awards」の開催など、メタバースプラットフォームとしての経済圏拡大とコンテンツの質的向上が鮮明になっています。",
+    "insight": "Robloxの成長は、UGCプラットフォームが単なるゲームを超えて本格的な収益経済圏へと成熟していることを示しています。エンジニア視点では、IP活用を容易にするAPI基盤や、大規模な同時接続環境を支えるバックエンド技術の重要性が今後さらに高まるでしょう。",
+    "sourceUrl": "https://www.moguravr.com/vr-ar-mr-weekly-2026-9-14/",
+    "sourceName": "Mogura VR",
+    "originalImageUrl": "https://assets.moguravr.com/uploads/2026/09/c37478d85c78722634f74779b2971e1a-kix.1r270epgj2m-300x169.webp",
+    "originalImageArticleUrl": "https://www.moguravr.com/vr-ar-mr-weekly-2026-9-14/",
+    "displayDate": "2026-09-14"
+  },
+  "AI": {
+    "title": "AI開発競争のジレンマ：速度と制御の狭間で",
+    "summary": "AIの急速な発展に伴い、「人類滅亡のリスク」を懸念した開発の一時停止や規制の議論が活発化しています。一方で、国家間の競争優位性を重視する政治的見解も対立しており、開発を止めることが難しい「囚人のジレンマ」の状態が浮き彫りになっています。",
+    "insight": "AIエンジニアにとって、モデルの性能向上だけでなく、安全性や倫理的ガードレールの実装がビジネスの持続可能性を左右する重要なスキルとなっています。今後は、技術的な進化と同時に、規制当局や社会との調和をどう図るかという視点が、開発戦略のコアになるでしょう。",
+    "sourceUrl": "https://jbpress.ismedia.jp/articles/-/96989",
+    "sourceName": "JBpress",
+    "originalImageUrl": "https://jbpress.ismcdn.jp/mwimgs/5/a/1200mw/img_5a47ed7c5b6aa34b69932152d6226bec1231521.jpg",
+    "originalImageArticleUrl": "https://jbpress.ismedia.jp/articles/-/96989",
+    "displayDate": "2026-09-14"
+  },
+  "Projector": {
+    "title": "寝室が映画館に！超短焦点4Kプロジェクターの実力",
+    "summary": "最新の超短焦点4Kプロジェクターを寝室に導入する検証記事が話題です。壁紙DIYとの組み合わせで、場所を取らずに没入感のあるホームシアター環境を構築するプロセスと、その驚きのクオリティが紹介されています。",
+    "insight": "DLPやレーザー光源技術の進化により、設置距離の制約が劇的に解消されました。エンジニアリング視点では、短焦点光学系による歪み補正アルゴリズムと高輝度・高コントラスト化の両立が、UXを飛躍的に向上させています。",
+    "sourceUrl": "https://news.yahoo.co.jp/articles/7af34bf6f8a65138ea2120e1553d0922de6e5923?page=4",
+    "sourceName": "ITmedia NEWS",
+    "originalImageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260913-00000006-zdn_n-000-1-view.jpg?exp=10800",
+    "originalImageArticleUrl": "https://news.yahoo.co.jp/articles/7af34bf6f8a65138ea2120e1553d0922de6e5923?page=4",
+    "displayDate": "2026-09-14"
+  },
+  "Gaming Monitor": {
+    "title": "ゲーミングモニターでOLED普及期到来か？",
+    "summary": "Amazon等のセールで、LG UltragearやSamsung Odysseyといった高スペックなOLED（有機EL）ゲーミングモニターが大幅に割引され、過去最安値水準で販売されています。これまで高嶺の花だったハイリフレッシュレート対応の有機ELモデルが、急速に手に届きやすい価格帯へ移行しています。",
+    "insight": "高リフレッシュレートと応答速度を両立する有機ELディスプレイの価格低下は、開発環境のUX向上にも寄与します。特にUI設計や動的なデバッグを行うエンジニアにとって、視認性の向上は作業効率と疲労軽減の両面で検討価値が高いでしょう。",
+    "sourceUrl": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNNE5fQ2FmNWE1MHFja0h1YlUwYjZ6REExN1lLOWZ0WmRkaWRZYXE4MmRtUGlKaVZ6eHIxQUNmbC1QZ0w1UnRFdGtRRHVHcG5qUm1CNm85bERWR1pBalQ2UE1IelUyeXJpdXhobmZ2aXFYZE4zSUEweURhQzVnOTVLZHpfZ0hwcG5QdFhhODI3ZFUyd2xKOUNnXzY4c09NcXExcmpFQkVSVGdBY3JsdmNrSXZ5THBBcFZ6dzlWT3BNcjhzQ2EzMWc?oc=5",
+    "sourceName": "PC Guide",
+    "originalImageUrl": null,
+    "originalImageArticleUrl": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNNE5fQ2FmNWE1MHFja0h1YlUwYjZ6REExN1lLOWZ0WmRkaWRZYXE4MmRtUGlKaVZ6eHIxQUNmbC1QZ0w1UnRFdGtRRHVHcG5qUm1CNm85bERWR1pBalQ2UE1IelUyeXJpdXhobmZ2aXFYZE4zSUEweURhQzVnOTVLZHpfZ0hwcG5QdFhhODI3ZFUyd2xKOUNnXzY4c09NcXExcmpFQkVSVGdBY3JsdmNrSXZ5THBBcFZ6dzlWT3BNcjhzQ2EzMWc?oc=5",
+    "displayDate": "2026-09-14"
+  },
+  "SONY": {
+    "title": "ソニー、シネマライン向け新コントローラー「RM-DP7/DP5」を発表",
+    "summary": "ソニーは、シネマラインカメラの操作性を向上させる新たなリモートコントローラー「RM-DP7」および「RM-DP5」をIBC 2026で公開しました。撮影現場での効率的なワークフローを支援する機材として注目されています。",
+    "insight": "プロフェッショナルな映像制作において、物理インターフェースの信頼性はソフトウェア制御以上に重視されます。今回の新コントローラー投入は、シネマラインの運用効率化とハードウェア連携による安定した制作環境の提供を意図しており、ハードウェアAPIの最適化における良い事例となります。",
+    "sourceUrl": "https://www.newsshooter.com/2026/09/12/sony-rm-dp7-rm-dp5-first-look-at-ibc-2026/",
+    "sourceName": "Newsshooter",
+    "originalImageUrl": "https://www.newsshooter.com/wp-content/uploads/2026/09/FullSizeRender-2-3.jpeg",
+    "originalImageArticleUrl": "https://www.newsshooter.com/2026/09/12/sony-rm-dp7-rm-dp5-first-look-at-ibc-2026/",
+    "displayDate": "2026-09-14"
+  },
+  "TCL": {
+    "title": "TCLの新型ディスプレイ技術がAndroidの課題を解決？",
+    "summary": "Androidデバイスの表示品質や体験における既存の課題を、TCLの新しいディスプレイ技術が画期的な方法で解決する可能性が指摘されています。具体的な技術的詳細やUI/UXへの影響が注目されています。",
+    "insight": "Android OS特有の表示の遅延や色再現性の課題を、パネル側の制御技術（ハードウェアレベル）で補完するアプローチは非常に興味深いです。OS側のアップデートだけでなく、ディスプレイ側のインテリジェントな処理がUXを向上させる現代のトレンドを示唆しています。",
+    "sourceUrl": "https://www.androidpolice.com/this-bizarre-new-display-technology-is-exactly-what-every-new-smartphone-needs/",
+    "sourceName": "Android Police",
+    "originalImageUrl": "https://static0.anpoimages.com/wordpress/wp-content/uploads/2026/09/tcl-p80-ultra-showing-its-amoled-and-nxtpaper-display-modes.png?w=1600&h=900&fit=crop",
+    "originalImageArticleUrl": "https://www.androidpolice.com/this-bizarre-new-display-technology-is-exactly-what-every-new-smartphone-needs/",
+    "displayDate": "2026-09-14"
+  },
+  "Production Monitor": {
+    "title": "IBC 2026: NANLITEの超高出力1200W機に注目",
+    "summary": "IBC 2026で発表されたNANLITEの新作照明「FC-1200B/C」は、1200Wの高出力を実現しつつ、電源ユニットをヘッド一体型にした「ワンケーブル設計」を採用しました。従来の大型照明に必要だった外付けバラストが不要となり、現場のセッティング効率を劇的に向上させる製品として注目されています。",
+    "insight": "高出力機で電源部をヘッドに統合する設計は、ケーブルマネジメントと設置面積の削減においてエンジニアリング上の大きな挑戦です。分散型から集中型へのアーキテクチャ回帰が、現場の運用コストをどう変えるか検討する好例と言えます。",
+    "sourceUrl": "https://www.cined.com/nanlite-fc-1200b-and-fc-1200c-explained-1200w-output-nebula-c4-color-one-cable-design/",
+    "sourceName": "CineD",
+    "originalImageUrl": "https://www.cined.com/content/uploads/2026/09/NANLITE-FC-1200B-and-feature-300x169.jpg",
+    "originalImageArticleUrl": "https://www.cined.com/nanlite-fc-1200b-and-fc-1200c-explained-1200w-output-nebula-c4-color-one-cable-design/",
+    "displayDate": "2026-09-14"
+  },
+  "TV": {
+    "title": "2026年アジア大会：全競技の視聴方法まとめ",
+    "summary": "2026年に開催されるアジア大会に向け、全競技の地上波放送、ネット配信、およびテレビ中継の予定が公開されました。観戦を計画するファンにとって、プラットフォームごとの配信スケジュール確認が重要となります。",
+    "insight": "大規模スポーツイベントでは、地上波と複数のネット配信サービスを横断した視聴体験が一般的になっています。エンジニアとしては、イベント期間中のトラフィック負荷分散や、APIを通じたリアルタイムな放送・配信情報の更新といったバックエンド設計の観点から興味深い事例です。",
+    "sourceUrl": "https://www.goal.com/jp/%E3%83%AA%E3%82%B9%E3%83%88/asian-games-2026-all-broadcast-tv-guide/blt0bbb9364547918f2",
+    "sourceName": "Goal.com",
+    "originalImageUrl": "https://assets.goal.com/images/v3/blt0aaf3e44f4d7f995/U-NEXT-asian-games-2026.jpg",
+    "originalImageArticleUrl": "https://www.goal.com/jp/%E3%83%AA%E3%82%B9%E3%83%88/asian-games-2026-all-broadcast-tv-guide/blt0bbb9364547918f2",
+    "displayDate": "2026-09-14"
+  },
+  "Camera Control": {
+    "title": "リアルタイム超解像顕微鏡技術の進化",
+    "summary": "単一の露光から超解像画像を取得できる新しい蛍光顕微鏡技術が発表されました。この手法により、これまで捉えることが難しかった細胞内の動的なプロセスをリアルタイムで観察可能になり、生物学や医学研究における画像解析の精度と効率が大幅に向上すると期待されています。",
+    "insight": "センサー技術と画像処理アルゴリズムの融合により、単一フレームからの高精細化が物理的制約を超える手法として注目されます。エンジニアの視点では、低S/N比のデータから鮮明な情報を再構成するディープラーニングや信号処理技術の応用事例として非常に興味深いトピックです。",
+    "sourceUrl": "https://petapixel.com/2026/09/13/a-new-super-resolution-microscopy-technique-lets-scientists-study-cells-in-real-time/",
+    "sourceName": "PetaPixel",
+    "originalImageUrl": "https://petapixel.com/assets/uploads/2026/09/super-resolution-microscopy-featured.jpg",
+    "originalImageArticleUrl": "https://petapixel.com/2026/09/13/a-new-super-resolution-microscopy-technique-lets-scientists-study-cells-in-real-time/",
+    "displayDate": "2026-09-14"
+  },
+  "LED Wall Display": {
+    "title": "バーチャルプロダクションの技術革新：100Hzフレームインターリーブ",
+    "summary": "公共放送の検証プロジェクトを通じて、LEDウォールを用いたバーチャルプロダクション環境下での「100Hzフレームインターリーブ方式」によるマルチカメラ切り替え技術が発表されました。カメラの同期と解像度の両立を狙う興味深い試みです。",
+    "insight": "フレーム同期とシャッター角度の制御が重要なバーチャルプロダクションにおいて、カメラ切り替え時のフリッカーやアーティファクトを抑制する実用的な知見です。放送・映像技術に関わるエンジニアにとって、マルチカメラ環境の最適化手法として注目に値します。",
+    "sourceUrl": "https://www.ibc.org/accelerating-innovation/reports/a-100-hz-frame-interleaved-approach-to-live-multi-camera-switching-in-led-based-virtual-production-experience-from-a-public-broa/22794",
+    "sourceName": "IBC.org",
+    "originalImageUrl": "https://www.ibc.org/files/live/sites/ibc/files/2026/9-September/Tech Papers/A 100 Hz frame-interleaved approach to live multi-camera switching in led-based virtual production, Experience from a public-bro/shutterstock_2425060499 (1).jpg",
+    "originalImageArticleUrl": "https://www.ibc.org/accelerating-innovation/reports/a-100-hz-frame-interleaved-approach-to-live-multi-camera-switching-in-led-based-virtual-production-experience-from-a-public-broa/22794",
+    "displayDate": "2026-09-14"
+  }
+}
