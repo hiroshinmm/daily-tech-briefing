@@ -1,0 +1,102 @@
+{
+  "Gaming Monitor": {
+    "title": "UE5.8のMCP対応：LLMエージェントがゲーム開発を変える",
+    "summary": "Unreal Engine 5.8で導入されたMCP（Model Context Protocol）機能により、LLMエージェントがどのようにエンジンを制御できるようになったのかが注目されています。導入方法から実際の活用事例まで、開発ワークフローの自動化における最新の知見が解説されています。",
+    "insight": "MCPの導入は、LLMエージェントと開発環境の相互運用性を劇的に向上させます。単なるコード生成に留まらず、エンジンエディタを直接操作するエージェントの実装が可能になり、ゲーム開発の自動化プロセスが大きく前進しそうです。",
+    "sourceUrl": "https://www.4gamer.net/games/210/G021013/20260907003/",
+    "sourceName": "4Gamer.net − 最新記事",
+    "originalImageUrl": "https://www.4gamer.net/games/210/G021013/20260907003/TN/035.jpg",
+    "originalImageArticleUrl": "https://www.4gamer.net/games/210/G021013/20260907003/",
+    "displayDate": "2026-09-15"
+  },
+  "AI": {
+    "title": "加速するAI規制議論とトランプ氏の反応",
+    "summary": "AIの急速な進化に対し、安全性への懸念や規制を求める声が強まる一方、トランプ氏はこれを「陰謀」と一蹴するなど、AI開発のガバナンスを巡る議論が政治的な対立軸にもなっています。AIの経済的減速懸念と並び、技術開発のスピードと安全性のバランスが重要な分岐点にあります。",
+    "insight": "エンジニアとしては、単なる技術的な性能追求だけでなく、AI倫理やセーフティ（AI Safety）のトレンドが企業の開発ポリシーにどう影響するか注視が必要です。特に将来的な規制導入を見据えた、ガードレール技術やモデルの透明性確保の重要性が一段と高まっています。",
+    "sourceUrl": "https://www.nikkei.com/article/DGXZQOGN1500C0V10C26A9000000/",
+    "sourceName": "日本経済新聞",
+    "originalImageUrl": "https://article-image-ix.nikkei.com/https%3A%2F%2Fimgix-proxy.n8s.jp%2FDSXZQO3596997015092026000000-1.jpg?auto=compress&bg=FFFF&crop=focalpoint&fit=crop&fm=jpg&fp-x=0.49&fp-y=0.36&h=630&w=1200&s=c576c21ff67e90218d0e4e269377309d",
+    "originalImageArticleUrl": "https://www.nikkei.com/article/DGXZQOGN1500C0V10C26A9000000/",
+    "displayDate": "2026-09-15"
+  },
+  "Projector": {
+    "title": "XGIMIの新作4Kプロジェクター「TITAN Noir」がMakuakeに登場",
+    "summary": "XGIMIが画質を追求した4K DLPプロジェクター「TITAN Noir」シリーズを発表しました。9月24日よりクラウドファンディングサイト「Makuake」にて先行販売プロジェクトが開始されます。高精細な映像体験を実現するハイエンドモデルとして注目されています。",
+    "insight": "最新のDLPプロジェクターでは、4K解像度と高コントラスト比の実現に高度な画像処理アルゴリズムが不可欠になっています。ソフトウェアエンジニアの視点では、こうしたデバイスにおける色域の最適化や、動的な輝度制御といった組み込みエンジニアリングの進化が、ホームシアター体験の質を左右する重要な鍵となります。",
+    "sourceUrl": "https://online.stereosound.co.jp/_ct/17864446",
+    "sourceName": "online.stereosound.co.jp",
+    "originalImageUrl": "https://d1uzk9o9cg136f.cloudfront.net/f/16783364/rc/2026/09/14/427ae1d128137771b3dacb713f49644343255aad_xlarge.jpg",
+    "originalImageArticleUrl": "https://online.stereosound.co.jp/_ct/17864446",
+    "displayDate": "2026-09-15"
+  },
+  "SRD / XR": {
+    "title": "Valveの新VRヘッドセット「Steam Frame」販売開始",
+    "summary": "Valveが待望の新型VRヘッドセット「Steam Frame」を約20万円から発売開始しました。PC接続を主軸としつつスタンドアロン動作も可能で、ローンチ時には70本以上の検証済みタイトルに対応しています。同時に5K空間キャプチャ対応の専用カメラもリリースされました。",
+    "insight": "Steam VRプラットフォームの利便性がスタンドアロン環境でどこまで最適化されているかが技術的な焦点です。既存のPCVR資産をそのまま活用できるため、開発者にとっては新たな配布プラットフォームとして、またハードウェア選定の基準として注目すべきトピックです。",
+    "sourceUrl": "https://automaton-media.com/articles/newsjp/20260915-467421/",
+    "sourceName": "AUTOMATON",
+    "originalImageUrl": "https://automaton-media.com/wp-content/uploads/2026/09/20260915-467421-header.jpg",
+    "originalImageArticleUrl": "https://automaton-media.com/articles/newsjp/20260915-467421/",
+    "displayDate": "2026-09-15"
+  },
+  "SONY": {
+    "title": "ソニーが描くライブ制作の未来：MOXELAとAIの融合",
+    "summary": "ソニーがIBC 2026にて、ライブ制作の未来を切り拓く新コンセプト「MOXELA」を発表しました。IP、クラウド、AI技術をシームレスに連携させることで、映像制作のワークフローを根本から変革しようとしています。",
+    "insight": "IPベースのライブ制作とAI駆動の自動化は、今後のメディアエンジニアリングにおける主要なトレンドです。特にクラウド環境とエッジAIの連携は、低遅延かつ高効率な次世代コンテンツ供給基盤としての応用可能性が非常に高い領域です。",
+    "sourceUrl": "https://news.nicovideo.jp/watch/nw19770638",
+    "sourceName": "ニコニコニュース",
+    "originalImageUrl": null,
+    "originalImageArticleUrl": "https://news.nicovideo.jp/watch/nw19770638",
+    "displayDate": "2026-09-15"
+  },
+  "TCL": {
+    "title": "TCLの次世代「SQD-Mini LED」がIFA 2026で30冠達成",
+    "summary": "TCLはIFA 2026にて、最新のディスプレイ技術「SQD-Mini LED」を発表し、30以上の国際的な賞を受賞しました。次世代の映像体験を実現するこの技術は、世界市場での評価をさらに高めています。",
+    "insight": "Mini LEDのバックライト制御を高度化するSQD（Quantum Dot）技術の統合は、ピーク輝度とコントラスト比を物理的に限界まで引き上げるエンジニアリングの好例です。ディスプレイ制御アルゴリズムにおける「局所的な明るさ」の最適化は、電力効率と画質のトレードオフを解決する鍵となります。",
+    "sourceUrl": "https://ascii.jp/elem/000/004/434/4434662/",
+    "sourceName": "ascii.jp",
+    "originalImageUrl": "https://ascii.jp/img/2019/05/13/1510511/xl/5e76a3dd2752b473.jpg?20200122",
+    "originalImageArticleUrl": "https://ascii.jp/elem/000/004/434/4434662/",
+    "displayDate": "2026-09-15"
+  },
+  "LED Wall Display": {
+    "title": "LEDウォールでのライブマルチカメラ切り替え技術",
+    "summary": "公共放送の実証実験にて、LEDウォールを用いたバーチャルプロダクション環境下で100Hzのフレームインターリーブ方式によるライブマルチカメラ切り替えを実現する手法が紹介されました。",
+    "insight": "フレームインターリーブ技術は、カメラごとの同期ずれやフリッカーを抑えつつ、単一のLEDステージを複数のカメラ画角で共有するために不可欠な低レイテンシ処理です。同期信号と映像ストリームの精密な制御は、今後のリアルタイム・バーチャルプロダクションの標準的な構成になるでしょう。",
+    "sourceUrl": "https://www.ibc.org/accelerating-innovation/reports/a-100-hz-frame-interleaved-approach-to-live-multi-camera-switching-in-led-based-virtual-production-experience-from-a-public-broa/22794",
+    "sourceName": "IBC.org",
+    "originalImageUrl": "https://www.ibc.org/files/live/sites/ibc/files/2026/9-September/Tech Papers/A 100 Hz frame-interleaved approach to live multi-camera switching in led-based virtual production, Experience from a public-bro/shutterstock_2425060499 (1).jpg",
+    "originalImageArticleUrl": "https://www.ibc.org/accelerating-innovation/reports/a-100-hz-frame-interleaved-approach-to-live-multi-camera-switching-in-led-based-virtual-production-experience-from-a-public-broa/22794",
+    "displayDate": "2026-09-15"
+  },
+  "TV": {
+    "title": "OLED TVとモニターの境界線：エンジニアの視点",
+    "summary": "OLEDディスプレイの普及に伴い、TVとPCモニターの用途が曖昧になっています。ZDNETの記事では、クリエイティブワークやゲーミング用途において、どちらを選択すべきかの判断基準を詳細に比較・解説しています。",
+    "insight": "パネル性能の向上により、TVをPCモニターとして流用するケースが増えています。ただし、サブピクセル構造やVRR（可変リフレッシュレート）の互換性、画質処理エンジンの有無が作業効率にどう影響するかをエンジニアは正しく評価する必要があります。",
+    "sourceUrl": "https://www.zdnet.com/home-and-office/oled-tv-vs-oled-monitor-comparison/",
+    "sourceName": "zdnet.com",
+    "originalImageUrl": "https://www.zdnet.com/wp-content/uploads/sites/3/oled.jpg",
+    "originalImageArticleUrl": "https://www.zdnet.com/home-and-office/oled-tv-vs-oled-monitor-comparison/",
+    "displayDate": "2026-09-15"
+  },
+  "Production Monitor": {
+    "title": "BlackmagicがST 2110対応を発表",
+    "summary": "IBC 2026にて、Blackmagic DesignがURSA Cine 12K LF向けのアップデート「Blackmagic Camera 10.3」を公開しました。本アップデートにより、シネマティックカメラがSMPTE ST 2110に対応し、ライブプロダクション環境への直接統合が可能となりました。",
+    "insight": "SMPTE ST 2110はIPベースの放送技術の標準として重要ですが、ハイエンドなシネマカメラがこれにネイティブ対応することで、ライブ映像制作のワークフローが劇的に効率化されます。IP化が進む映像インフラにおいて、ソフトウェアアップデートでライブ対応を実現する柔軟性は、今後のプロダクション開発の標準モデルになるでしょう。",
+    "sourceUrl": "https://www.provideocoalition.com/blackmagic-design-released-blackmagic-camera-10-3-update/",
+    "sourceName": "ProVideo Coalition",
+    "originalImageUrl": "https://www.provideocoalition.com/wp-content/uploads/bmdcamera103update001.jpg",
+    "originalImageArticleUrl": "https://www.provideocoalition.com/blackmagic-design-released-blackmagic-camera-10-3-update/",
+    "displayDate": "2026-09-15"
+  },
+  "Camera Control": {
+    "title": "Sonyの新型GMレンズ発表：400mm/600mmが登場",
+    "summary": "9月15日に発表予定のSony「FE 400mm f/4.5 GM OSS」をはじめとする新型GMレンズの情報が解禁。特に400mmレンズは競合より14%軽量かつ低価格に抑えられており、光学性能と可搬性の両立が注目されています。",
+    "insight": "高性能レンズの軽量化は、長時間のフィールド撮影におけるUXを劇的に向上させます。競合とのスペック比較において、重量とコストの最適化をどう図るかというエンジニアリング的視点は、プロダクト開発において非常に参考になります。",
+    "sourceUrl": "https://www.sonyalpharumors.com/at-last-tomorrow-sept-15-we-will-get-the-new-400-and-60mm-gm-lenses/",
+    "sourceName": "sonyalpharumors",
+    "originalImageUrl": "https://www.sonyalpharumors.com/wp-content/uploads/2026/09/Sony-400mm-GM.jpg",
+    "originalImageArticleUrl": "https://www.sonyalpharumors.com/at-last-tomorrow-sept-15-we-will-get-the-new-400-and-60mm-gm-lenses/",
+    "displayDate": "2026-09-15"
+  }
+}
