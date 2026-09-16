@@ -1,10 +1,6 @@
 {
   "Production Monitor": [
     {
-      "url": "https://www.provideocoalition.com/sonys-new-dp7-and-dp5-put-cinema-line-camera-control-into-the-monitor/",
-      "date": "2026-09-09"
-    },
-    {
       "url": "https://www.cined.com/eddie-ai-v4-unveiled-native-premiere-and-resolve-projects-avid-extension-and-c2pa-signing/",
       "date": "2026-09-10"
     },
@@ -27,13 +23,13 @@
     {
       "url": "https://www.provideocoalition.com/blackmagic-design-released-blackmagic-camera-10-3-update/",
       "date": "2026-09-15"
+    },
+    {
+      "url": "https://www.newsshooter.com/2026/09/15/blackmagic-camera-10-3-update/?utm_source=rss&utm_medium=rss&utm_campaign=blackmagic-camera-10-3-update",
+      "date": "2026-09-16"
     }
   ],
   "SRD / XR": [
-    {
-      "url": "https://finance.biggo.jp/news/c64ccc90-61b6-4761-86cd-5f000aada518",
-      "date": "2026-09-09"
-    },
     {
       "url": "https://www.uploadvr.com/no-mans-sky-adds-pc-vr-eye-tracked-foveated-rendering/",
       "date": "2026-09-10"
@@ -57,13 +53,13 @@
     {
       "url": "https://automaton-media.com/articles/newsjp/20260915-467421/",
       "date": "2026-09-15"
+    },
+    {
+      "url": "https://news.yahoo.co.jp/articles/2949cf170c753223ea0d0f1664b103a294fbe7d7/images/000",
+      "date": "2026-09-16"
     }
   ],
   "AI": [
-    {
-      "url": "https://business.nikkei.com/atcl/gen/19/00636/090700117/",
-      "date": "2026-09-09"
-    },
     {
       "url": "https://mistral.ai/news/mistral-makes-sovereign-open-weight-ai-to-frontier/",
       "date": "2026-09-10"
@@ -87,13 +83,13 @@
     {
       "url": "https://www.nikkei.com/article/DGXZQOGN1500C0V10C26A9000000/",
       "date": "2026-09-15"
+    },
+    {
+      "url": "https://www.cnbc.com/2026/09/15/nvidia-and-anthropic-ceos-diverge-on-ai-safety-at-dreamforce.html",
+      "date": "2026-09-16"
     }
   ],
   "Gaming Monitor": [
-    {
-      "url": "https://www.4gamer.net/games/991/G999104/20260904023/",
-      "date": "2026-09-09"
-    },
     {
       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQRzVGRXc1bHl0eUVmRXBIVDdNX29HeGpNeWs1MGd1S0phT3VjNUdJb3hpajNxYnFPUVh3WFJIeHBraW1KeVp0V1hic3dXaDZpdWNUaHdibWlyZUFqZ0REa0w5amhuTnUyQm9DeFdGdmYxWjRjSlJSSmNDaHJ4TGlHeUdJN3dmV2ZFQ3hVbW12dEZkT3JIM216RV9NTzl1Qzg1Tl9wTjhReG82Vm5ReVV0RFBhZTFFR1N3NHhuM3Q4NDZPU3c?oc=5",
       "date": "2026-09-10"
@@ -117,13 +113,13 @@
     {
       "url": "https://www.4gamer.net/games/210/G021013/20260907003/",
       "date": "2026-09-15"
+    },
+    {
+      "url": "https://www.chosun.com/english/industry-en/2026/09/16/M5LIXSFFRJENHA4HW7VMXO77CA/",
+      "date": "2026-09-16"
     }
   ],
   "TCL": [
-    {
-      "url": "https://www.jiji.com/jc/article?k=kIWUGTZ7&g=prn",
-      "date": "2026-09-09"
-    },
     {
       "url": "https://tech-insider.org/xbox-cloud-gaming-tcl-smart-tvs-pay-as-you-go-2026/",
       "date": "2026-09-10"
@@ -147,13 +143,13 @@
     {
       "url": "https://ascii.jp/elem/000/004/434/4434662/",
       "date": "2026-09-15"
+    },
+    {
+      "url": "https://news.nicovideo.jp/watch/nw19775229?news_ref=search_search",
+      "date": "2026-09-16"
     }
   ],
   "Camera Control": [
-    {
-      "url": "https://dc.watch.impress.co.jp/docs/news/2139170.html",
-      "date": "2026-09-09"
-    },
     {
       "url": "https://dc.watch.impress.co.jp/docs/news/2139701.html",
       "date": "2026-09-10"
@@ -177,13 +173,13 @@
     {
       "url": "https://www.sonyalpharumors.com/at-last-tomorrow-sept-15-we-will-get-the-new-400-and-60mm-gm-lenses/",
       "date": "2026-09-15"
+    },
+    {
+      "url": "https://www.dpreview.com/news/affinitys-latest-update-is-its-biggest-ever-for-free-photo-editing/",
+      "date": "2026-09-16"
     }
   ],
   "LED Wall Display": [
-    {
-      "url": "//www.ledinside.com/news/2026/9/2026_09_08_01",
-      "date": "2026-09-09"
-    },
     {
       "url": "https://www.digitalsignagetoday.com/news/global-video-wall-market-on-robust-growth-path/",
       "date": "2026-09-10"
@@ -207,13 +203,13 @@
     {
       "url": "https://www.ibc.org/accelerating-innovation/reports/a-100-hz-frame-interleaved-approach-to-live-multi-camera-switching-in-led-based-virtual-production-experience-from-a-public-broa/22794",
       "date": "2026-09-15"
+    },
+    {
+      "url": "https://www.digitalsignagetoday.com/blogs/e-paper-lcd-or-led-how-retailers-should-match-screens-to-the-job-2/",
+      "date": "2026-09-16"
     }
   ],
   "SONY": [
-    {
-      "url": "https://kunkoku.jp/rm-dp7-rm-dp5.html",
-      "date": "2026-09-09"
-    },
     {
       "url": "https://ymcinema.com/2026/09/09/sony-cinema-line-control-monitor-dp7-dp5/",
       "date": "2026-09-10"
@@ -237,13 +233,13 @@
     {
       "url": "https://news.nicovideo.jp/watch/nw19770638",
       "date": "2026-09-15"
+    },
+    {
+      "url": "https://kunkoku.jp/sel400f45gm-sel600f63gm.html",
+      "date": "2026-09-16"
     }
   ],
   "TV": [
-    {
-      "url": "https://gigazine.net/news/20260908-smart-tv-spying/",
-      "date": "2026-09-09"
-    },
     {
       "url": "https://www.tv-asahi.co.jp/analog-nurse/news/0002/?fbclid=PAdGRleAUOxEtwZG9mAmZkaWQWUOFJjszNRGf7OQ86jVe3PMo24seZhmV4dG4DYWVtAjExAHNydGMGYXBwX2lkDzEyNDAyNDU3NDI4NzQxNAABp8o1i0Q46JUWnWsO46NWzRia6Jhb7_CgyW-9t19OAkQSHDx7HJZp1WmxsOWE_aem_6TgbqVCa-5g1ObfkiMaREA",
       "date": "2026-09-10"
@@ -267,13 +263,13 @@
     {
       "url": "https://www.zdnet.com/home-and-office/oled-tv-vs-oled-monitor-comparison/",
       "date": "2026-09-15"
+    },
+    {
+      "url": "https://www.dentsu.co.jp/news/release/2026/0915-011098.html",
+      "date": "2026-09-16"
     }
   ],
   "Projector": [
-    {
-      "url": "https://dime.jp/genre/2151932/",
-      "date": "2026-09-09"
-    },
     {
       "url": "https://www.forbes.com/sites/johnarcher/2026/09/09/awol-vision-unveils-worlds-first-4k-120hz-ust-projector-with-optical-shift-and-a-fully-customizable-design/",
       "date": "2026-09-10"
@@ -297,6 +293,10 @@
     {
       "url": "https://online.stereosound.co.jp/_ct/17864446",
       "date": "2026-09-15"
+    },
+    {
+      "url": "https://www.openpr.com/news/4631528/ultra-hd-laser-projector-market-forecast-to-grow-at-11-2-cagr",
+      "date": "2026-09-16"
     }
   ]
 }
