@@ -1,0 +1,102 @@
+{
+  "SRD / XR": {
+    "title": "「音」が鍵を握る？XRの新たな体験価値",
+    "summary": "未来館の「サウンドMRガイド」や宇宙兄弟展での音のXR体験など、視覚情報だけでなく聴覚の空間再現による没入感向上の取り組みが注目されています。単なる視覚的なAR/VRを超え、音響デザインを組み合わせた体験の質が新たなスタンダードになりつつあります。",
+    "insight": "XR開発において、Spatial Audio（空間音響）の設計は没入感を左右する重要なUI/UX要素です。単に映像を表示するだけでなく、聴覚情報を空間に同期させることで、ユーザーの体験深度を劇的に向上させることが可能になります。",
+    "sourceUrl": "https://www.miraikan.jst.go.jp/events/202609194745.html",
+    "sourceName": "miraikan.jst.go.jp",
+    "originalImageUrl": "https://www.miraikan.jst.go.jp/events/assets_c/2026/09/260919_soundMR_ogp-thumb-1200x900-22961.jpg",
+    "originalImageArticleUrl": "https://www.miraikan.jst.go.jp/events/202609194745.html",
+    "displayDate": "2026-09-17"
+  },
+  "AI": {
+    "title": "2026年、世界のAI支出は2.7兆ドルへ急拡大",
+    "summary": "ガートナーの最新予測によると、世界のAI関連支出は急速に増加し、2026年には2.7兆ドルに達する見込みです。前年比49.5%増という驚異的な成長率となっており、企業におけるAI実装への投資が本格化していることが示されています。",
+    "insight": "AIへの投資額が爆発的に増加する中、エンジニアとしてはPoCから本格的な運用環境への移行を支えるスケーラブルな基盤設計が重要になります。今後は単なるモデル精度だけでなく、コスト対効果（ROI）を最大化するMMLOps体制の構築が必須スキルとなるでしょう。",
+    "sourceUrl": "https://www.gartner.co.jp/ja/newsroom/press-releases/2026-09-17-gartner-forecasts-worldwide-ai-spending-to-grow-almost-50-percent-in-2026",
+    "sourceName": "gartner.co.jp",
+    "originalImageUrl": "https://emt.gartnerweb.com/ngw/globalassets/en/newsroom/images/covers/gartner-press-release.png",
+    "originalImageArticleUrl": "https://www.gartner.co.jp/ja/newsroom/press-releases/2026-09-17-gartner-forecasts-worldwide-ai-spending-to-grow-almost-50-percent-in-2026",
+    "displayDate": "2026-09-17"
+  },
+  "TCL": {
+    "title": "TCLのSQD-Mini LED、画質で業界トップ評価を獲得",
+    "summary": "TCLの次世代ディスプレイ技術「SQD-Mini LED」が、市場調査会社Omdiaの評価において画質性能で業界リーダーとしての地位を確立しました。従来のMini LEDを凌駕するコントラストと色再現性が高く評価されています。",
+    "insight": "バックライト制御と量子ドット技術の高度な統合により、Mini LEDはハイエンドOLEDの競合技術として完全に成熟しました。ハードウェアレベルでのローカルディミングアルゴリズム最適化が、今後のディスプレイエンジニアリングの差別化要因となるでしょう。",
+    "sourceUrl": "https://www.adgully.com/post/20666/omdia-assessment-ranks-tcl-sqd-mini-led-top-in-picture-quality-performance",
+    "sourceName": "Adgully.com",
+    "originalImageUrl": "https://erp.adgully.com/artical_image/fab76bc57dd5d6859d541d306d39e775.jpeg",
+    "originalImageArticleUrl": "https://www.adgully.com/post/20666/omdia-assessment-ranks-tcl-sqd-mini-led-top-in-picture-quality-performance",
+    "displayDate": "2026-09-17"
+  },
+  "SONY": {
+    "title": "ソニー、1kgを切る世界最軽量の超望遠レンズを発表",
+    "summary": "ソニーは、フルサイズミラーレス用「Gマスター」レンズの超望遠モデルとして、400mm（994g）と600mm（995g）の2機種を発表しました。どちらも1kgを下回る世界最軽量を実現し、機動力と高い描写性能を両立させています。価格は50万円〜70万円前後です。",
+    "insight": "物理的な質量制限を克服するために、光学設計と素材選定の極限的な最適化が行われています。重量バランスを考慮した設計は、手持ち撮影における疲労軽減だけでなく、ジンバル等の周辺機器への負荷削減という観点でもエンジニアリングの洗練を感じさせます。",
+    "sourceUrl": "https://cameota.com/sony/52217.html",
+    "sourceName": "CAMEOTA.com",
+    "originalImageUrl": "https://cameota.com/wp-content/uploads/2026/09/sony-4.jpg",
+    "originalImageArticleUrl": "https://cameota.com/sony/52217.html",
+    "displayDate": "2026-09-17"
+  },
+  "Gaming Monitor": {
+    "title": "ROG設立20周年記念機「ROG XBOX Ally X20」国内発売へ",
+    "summary": "ASUSはROGブランド20周年記念のポータブルゲーミングPC「ROG XBOX Ally X20」の国内予約を開始しました。ユーザーのフィードバックを基に操作系を刷新したモデルで、価格は25万8,800円。ARグラス同梱のバンドル版も用意され、10月中旬以降の発売を予定しています。",
+    "insight": "ポータブルPCの操作系UI/UXにおいて、コミュニティのフィードバックを製品設計に反映させるサイクルが加速しています。ハードウェアの高性能化だけでなく、物理インターフェースの最適化が製品競争力を左右する重要なエンジニアリング課題となっています。",
+    "sourceUrl": "https://pc.watch.impress.co.jp/docs/news/2141511.html",
+    "sourceName": "PC Watch",
+    "originalImageUrl": "https://pc.watch.impress.co.jp/img/pcw/list/2141/511/19.jpg",
+    "originalImageArticleUrl": "https://pc.watch.impress.co.jp/docs/news/2141511.html",
+    "displayDate": "2026-09-17"
+  },
+  "TV": {
+    "title": "大型TV購入の新たな選択肢：Mini-LED vs OLED",
+    "summary": "100インチクラスのテレビ市場において、従来のOLED（有機EL）に対し、TCLのQM8LなどのMini-LEDディスプレイが有力な選択肢として注目を集めています。低価格かつ高輝度な性能が評価されており、大型ディスプレイ市場における技術的な勢力図の変化が議論されています。",
+    "insight": "エンジニアとしては、単なる画面サイズだけでなく、パネル技術ごとのコントラスト比、消費電力、および焼き付きリスクといった特性の違いを理解しておくことが重要です。特にMini-LEDはバックライト制御技術の進化により、低コストでHDR体験を向上させる現実的な解法として注目に値します。",
+    "sourceUrl": "https://www.ign.com/articles/tcl-qm8l-sqd-mini-led-tv-deal",
+    "sourceName": "IGN",
+    "originalImageUrl": "https://assets-prd.ignimgs.com/2026/09/09/tclqm8l-1788994277538.jpg?width=1280&format=jpg&auto=webp&quality=80",
+    "originalImageArticleUrl": "https://www.ign.com/articles/tcl-qm8l-sqd-mini-led-tv-deal",
+    "displayDate": "2026-09-17"
+  },
+  "Production Monitor": {
+    "title": "Thunderbolt 5対応 eGPUボックスが登場",
+    "summary": "SonnetがThunderbolt 5、4、USB4をサポートした新しい外付けGPUボックス「Breakaway Box 850 T5」を発表しました。トリプルワイドのデスクトップ用GPUを搭載可能で、Windows 11環境においてワークステーション級のグラフィックス性能をノートPCなどで実現できる拡張ソリューションです。",
+    "insight": "Thunderbolt 5の広帯域化により、外部GPUのボトルネックが大幅に改善され、モバイル環境でのAI推論や高負荷なレンダリングが現実的になります。エンジニアにとって、物理的に制約のあるデバイスでデスクトップ並みのコンピュートリソースを動的確保できる点は大きなメリットです。",
+    "sourceUrl": "https://www.provideocoalition.com/sonnet-announces-breakaway-box-850-t5-thunderbolt-5/",
+    "sourceName": "ProVideo Coalition",
+    "originalImageUrl": "https://www.provideocoalition.com/wp-content/uploads/sonnett5_001.jpg",
+    "originalImageArticleUrl": "https://www.provideocoalition.com/sonnet-announces-breakaway-box-850-t5-thunderbolt-5/",
+    "displayDate": "2026-09-17"
+  },
+  "Projector": {
+    "title": "プロジェクションマッピングの新たな可能性：オペラとプロジェクターの融合",
+    "summary": "Epsonのプロジェクターを活用し、オペラの字幕を単なるテキスト表示ではなく、ステージ上のアニメーション風景として演出する新しい試みが注目されています。映像技術による舞台演出の進化を示唆する事例です。",
+    "insight": "プロジェクターを「情報を映すデバイス」から「空間演出の基盤」へ再定義する好例です。エンジニアの視点では、低遅延かつ高精度なトラッキング技術や、環境光適応型レンダリングなど、没入型体験を支えるインフラ開発の重要性が高まっています。",
+    "sourceUrl": "https://www.stocktitan.net/news/SEKEY/boston-lyric-opera-blo-and-masary-turn-translation-into-living-982svuue4e3d.html",
+    "sourceName": "Stock Titan",
+    "originalImageUrl": "https://static.stocktitan.net/company-logo/sekey-lg.png?v=3020847b68",
+    "originalImageArticleUrl": "https://www.stocktitan.net/news/SEKEY/boston-lyric-opera-blo-and-masary-turn-translation-into-living-982svuue4e3d.html",
+    "displayDate": "2026-09-17"
+  },
+  "Camera Control": {
+    "title": "カメラの深度情報を3Dモデルへ：Canonの新技術",
+    "summary": "Canonがリリースした「Dual Pixel 3D Converter」は、対応するEOS Rシリーズで撮影された写真の深度情報を活用し、特別な3Dカメラなしで3Dモデルやステレオスコピック画像を生成できるソフトウェアです。Windows環境で動作し、静止画から空間情報を抽出する新たな活用方法を提示しています。",
+    "insight": "イメージセンサーのデュアルピクセル情報を単なるAF制御ではなく、画像処理パイプラインのデータソースとして再定義した点が興味深いです。特定のハードウェア仕様と連動させた後処理の最適化という観点から、計算写真学におけるデータ活用の好例と言えます。",
+    "sourceUrl": "https://www.dpreview.com/news/canons-free-dual-pixel-3d-software-turns-supported-eos-r-photos-into-3d-models/",
+    "sourceName": "DPReview",
+    "originalImageUrl": "https://www.dpreview.com/wp-content/uploads/2026/09/M-GN-Canon-Dual-Pixel-3D-Shooting-Tips-16x9-Lead-1.jpg",
+    "originalImageArticleUrl": "https://www.dpreview.com/news/canons-free-dual-pixel-3d-software-turns-supported-eos-r-photos-into-3d-models/",
+    "displayDate": "2026-09-17"
+  },
+  "LED Wall Display": {
+    "title": "両面LEDディスプレイは導入すべき？効率的な活用法",
+    "summary": "LEDMANのXシリーズを例に、単なる背中合わせの設置ではない「両面LEDディスプレイ」の価値を考察。交通拠点や商業施設など人流の多い場所で、1つの設置ポイントから異なる方向のターゲットへ個別の情報を届ける効率的なソリューションとして注目されています。",
+    "insight": "ハードウェアレベルでの設置密度最適化は、運用コストとUX向上の両立において非常に重要です。エンジニア視点では、単一の設置点から複数ストリームのコンテンツを同期制御する際のフロントエンド設計や、熱排出設計の効率化が技術的な差別化要因となります。",
+    "sourceUrl": "//www.ledinside.com/news/2026/9/2026_09_16_06",
+    "sourceName": "LEDinside",
+    "originalImageUrl": null,
+    "originalImageArticleUrl": "//www.ledinside.com/news/2026/9/2026_09_16_06",
+    "displayDate": "2026-09-17"
+  }
+}

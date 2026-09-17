@@ -1,10 +1,6 @@
 {
   "Production Monitor": [
     {
-      "url": "https://www.cined.com/eddie-ai-v4-unveiled-native-premiere-and-resolve-projects-avid-extension-and-c2pa-signing/",
-      "date": "2026-09-10"
-    },
-    {
       "url": "https://www.newsshooter.com/2026/09/10/owc-usb4-hub/?utm_source=rss&utm_medium=rss&utm_campaign=owc-usb4-hub",
       "date": "2026-09-11"
     },
@@ -27,13 +23,13 @@
     {
       "url": "https://www.newsshooter.com/2026/09/15/blackmagic-camera-10-3-update/?utm_source=rss&utm_medium=rss&utm_campaign=blackmagic-camera-10-3-update",
       "date": "2026-09-16"
+    },
+    {
+      "url": "https://www.provideocoalition.com/sonnet-announces-breakaway-box-850-t5-thunderbolt-5/",
+      "date": "2026-09-17"
     }
   ],
   "SRD / XR": [
-    {
-      "url": "https://www.uploadvr.com/no-mans-sky-adds-pc-vr-eye-tracked-foveated-rendering/",
-      "date": "2026-09-10"
-    },
     {
       "url": "https://www.uploadvr.com/meta-project-phoenix-headset-first-clear-visuals/",
       "date": "2026-09-11"
@@ -57,13 +53,13 @@
     {
       "url": "https://news.yahoo.co.jp/articles/2949cf170c753223ea0d0f1664b103a294fbe7d7/images/000",
       "date": "2026-09-16"
+    },
+    {
+      "url": "https://www.miraikan.jst.go.jp/events/202609194745.html",
+      "date": "2026-09-17"
     }
   ],
   "AI": [
-    {
-      "url": "https://mistral.ai/news/mistral-makes-sovereign-open-weight-ai-to-frontier/",
-      "date": "2026-09-10"
-    },
     {
       "url": "https://www.nikkei.com/article/DGXZQOGN10BT70Q6A910C2000000/",
       "date": "2026-09-11"
@@ -87,13 +83,13 @@
     {
       "url": "https://www.cnbc.com/2026/09/15/nvidia-and-anthropic-ceos-diverge-on-ai-safety-at-dreamforce.html",
       "date": "2026-09-16"
+    },
+    {
+      "url": "https://www.gartner.co.jp/ja/newsroom/press-releases/2026-09-17-gartner-forecasts-worldwide-ai-spending-to-grow-almost-50-percent-in-2026",
+      "date": "2026-09-17"
     }
   ],
   "Gaming Monitor": [
-    {
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQRzVGRXc1bHl0eUVmRXBIVDdNX29HeGpNeWs1MGd1S0phT3VjNUdJb3hpajNxYnFPUVh3WFJIeHBraW1KeVp0V1hic3dXaDZpdWNUaHdibWlyZUFqZ0REa0w5amhuTnUyQm9DeFdGdmYxWjRjSlJSSmNDaHJ4TGlHeUdJN3dmV2ZFQ3hVbW12dEZkT3JIM216RV9NTzl1Qzg1Tl9wTjhReG82Vm5ReVV0RFBhZTFFR1N3NHhuM3Q4NDZPU3c?oc=5",
-      "date": "2026-09-10"
-    },
     {
       "url": "https://www.ign.com/articles/aoc-agon-pro-qd-oled-gaming-monitor-deal",
       "date": "2026-09-11"
@@ -117,13 +113,13 @@
     {
       "url": "https://www.chosun.com/english/industry-en/2026/09/16/M5LIXSFFRJENHA4HW7VMXO77CA/",
       "date": "2026-09-16"
+    },
+    {
+      "url": "https://pc.watch.impress.co.jp/docs/news/2141511.html",
+      "date": "2026-09-17"
     }
   ],
   "TCL": [
-    {
-      "url": "https://tech-insider.org/xbox-cloud-gaming-tcl-smart-tvs-pay-as-you-go-2026/",
-      "date": "2026-09-10"
-    },
     {
       "url": "https://www.ecoustics.com/products/tcl-a300l-a400u-designer-series-art-tvs/",
       "date": "2026-09-11"
@@ -147,13 +143,13 @@
     {
       "url": "https://news.nicovideo.jp/watch/nw19775229?news_ref=search_search",
       "date": "2026-09-16"
+    },
+    {
+      "url": "https://www.adgully.com/post/20666/omdia-assessment-ranks-tcl-sqd-mini-led-top-in-picture-quality-performance",
+      "date": "2026-09-17"
     }
   ],
   "Camera Control": [
-    {
-      "url": "https://dc.watch.impress.co.jp/docs/news/2139701.html",
-      "date": "2026-09-10"
-    },
     {
       "url": "https://www.dpreview.com/news/laowa-is-releasing-its-first-autofocus-lens-for-fujifilm-x-mount-a-macro-monster/",
       "date": "2026-09-11"
@@ -177,13 +173,13 @@
     {
       "url": "https://www.dpreview.com/news/affinitys-latest-update-is-its-biggest-ever-for-free-photo-editing/",
       "date": "2026-09-16"
+    },
+    {
+      "url": "https://www.dpreview.com/news/canons-free-dual-pixel-3d-software-turns-supported-eos-r-photos-into-3d-models/",
+      "date": "2026-09-17"
     }
   ],
   "LED Wall Display": [
-    {
-      "url": "https://www.digitalsignagetoday.com/news/global-video-wall-market-on-robust-growth-path/",
-      "date": "2026-09-10"
-    },
     {
       "url": "https://www.budapestreporter.com/chinese-film-technology-delegation-origo-studios-budapest/",
       "date": "2026-09-11"
@@ -207,13 +203,13 @@
     {
       "url": "https://www.digitalsignagetoday.com/blogs/e-paper-lcd-or-led-how-retailers-should-match-screens-to-the-job-2/",
       "date": "2026-09-16"
+    },
+    {
+      "url": "//www.ledinside.com/news/2026/9/2026_09_16_06",
+      "date": "2026-09-17"
     }
   ],
   "SONY": [
-    {
-      "url": "https://ymcinema.com/2026/09/09/sony-cinema-line-control-monitor-dp7-dp5/",
-      "date": "2026-09-10"
-    },
     {
       "url": "https://news.nicovideo.jp/watch/nw19761002?news_ref=watch_60_nw18944539",
       "date": "2026-09-11"
@@ -237,13 +233,13 @@
     {
       "url": "https://kunkoku.jp/sel400f45gm-sel600f63gm.html",
       "date": "2026-09-16"
+    },
+    {
+      "url": "https://cameota.com/sony/52217.html",
+      "date": "2026-09-17"
     }
   ],
   "TV": [
-    {
-      "url": "https://www.tv-asahi.co.jp/analog-nurse/news/0002/?fbclid=PAdGRleAUOxEtwZG9mAmZkaWQWUOFJjszNRGf7OQ86jVe3PMo24seZhmV4dG4DYWVtAjExAHNydGMGYXBwX2lkDzEyNDAyNDU3NDI4NzQxNAABp8o1i0Q46JUWnWsO46NWzRia6Jhb7_CgyW-9t19OAkQSHDx7HJZp1WmxsOWE_aem_6TgbqVCa-5g1ObfkiMaREA",
-      "date": "2026-09-10"
-    },
     {
       "url": "https://tech.yahoo.com/home-entertainment/tvs/articles/sony-bravia-6-oled-tv-093000062.html",
       "date": "2026-09-11"
@@ -267,13 +263,13 @@
     {
       "url": "https://www.dentsu.co.jp/news/release/2026/0915-011098.html",
       "date": "2026-09-16"
+    },
+    {
+      "url": "https://www.ign.com/articles/tcl-qm8l-sqd-mini-led-tv-deal",
+      "date": "2026-09-17"
     }
   ],
   "Projector": [
-    {
-      "url": "https://www.forbes.com/sites/johnarcher/2026/09/09/awol-vision-unveils-worlds-first-4k-120hz-ust-projector-with-optical-shift-and-a-fully-customizable-design/",
-      "date": "2026-09-10"
-    },
     {
       "url": "https://av.watch.impress.co.jp/docs/news/2139840.html",
       "date": "2026-09-11"
@@ -297,6 +293,10 @@
     {
       "url": "https://www.openpr.com/news/4631528/ultra-hd-laser-projector-market-forecast-to-grow-at-11-2-cagr",
       "date": "2026-09-16"
+    },
+    {
+      "url": "https://www.stocktitan.net/news/SEKEY/boston-lyric-opera-blo-and-masary-turn-translation-into-living-982svuue4e3d.html",
+      "date": "2026-09-17"
     }
   ]
 }
