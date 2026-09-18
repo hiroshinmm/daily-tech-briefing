@@ -1,0 +1,102 @@
+{
+  "SRD / XR": {
+    "title": "次世代ARグラスの鍵？メタサーフェス技術の進化",
+    "summary": "メタサーフェス技術を活用し、広視野角・フルカラー・超軽量を両立させる「究極のARグラス」開発に関するニュース。従来のレンズ構成を劇的に変える可能性があり、ARデバイスの小型化が加速するかもしれません。",
+    "insight": "メタサーフェスは光の制御を平面素子で行えるため、ARグラスの薄型軽量化においてゲームチェンジャーとなる技術です。エンジニアの視点では、単なるディスプレイ性能だけでなく、ハードウェアの物理設計がXR体験の普及にどう影響するか注目すべきでしょう。",
+    "sourceUrl": "https://xtech.nikkei.com/atcl/nxt/mag/ne/18/00156/00002/",
+    "sourceName": "日経クロステック",
+    "originalImageUrl": "https://xtech.nikkei.com/atcl/nxt/mag/ne/18/00156/00002/topm.jpg?20220512",
+    "originalImageArticleUrl": "https://xtech.nikkei.com/atcl/nxt/mag/ne/18/00156/00002/",
+    "displayDate": "2026-09-18"
+  },
+  "AI": {
+    "title": "AI for Science：研究開発の自動自律化がもたらす未来",
+    "summary": "日本の科学研究におけるAI活用（AI for Science）の動向をまとめた最新報告書が公開されました。特にマテリアル分野では、研究プロセスの自動自律化が進んでおり、AIが単なる補助ツールから、自ら仮説検証を行うパートナーへと進化する段階に達しています。",
+    "insight": "AI駆動型の研究開発は、実験回数の削減とイノベーションの加速に直結するため、エンジニアとしても自動化パイプラインの構築や自律システムの設計知見が重要になります。データ駆動型の研究手法は、製造業やバイオなどの実社会実装において高いROIを生むため、エンジニアにはモデルの精度だけでなく、科学的フィードバックループをいかにシステム化するかの設計力が求められます。",
+    "sourceUrl": "https://www.jst.go.jp/crds/column/kaisetsu/shortreport6.html",
+    "sourceName": "研究開発戦略センター（CRDS）",
+    "originalImageUrl": "https://www.jst.go.jp/crds/images/ogp.png",
+    "originalImageArticleUrl": "https://www.jst.go.jp/crds/column/kaisetsu/shortreport6.html",
+    "displayDate": "2026-09-18"
+  },
+  "TCL": {
+    "title": "TCLが2026年に向けた最新技術を発表",
+    "summary": "TCLがコンシューマーエレクトロニクスおよびスマートホーム分野における2026年を見据えた技術革新と製品ロードマップを発表しました。Mini LEDディスプレイ技術のさらなる深化と、AIを活用したコネクテッドホーム体験の拡充が期待されています。",
+    "insight": "家電メーカーのロードマップは、将来的なスマートホーム連携の標準化を読み解く重要な指標となります。特にディスプレイのAI最適化とエコシステム統合の動向は、IoT分野に従事するエンジニアにとって、クロスデバイス体験設計の先行事例として注目すべきです。",
+    "sourceUrl": "https://ghanaiantimes.com.gh/tcl-unveils-2026-consumer-electronics-smart-home-innovations/",
+    "sourceName": "Ghanaian Times",
+    "originalImageUrl": "https://ghanaiantimes.com.gh/wp-content/uploads/2026/09/PHOTO-TCL-event-Officials-of-TCL-displaying-one-of-the-TCL-brands.jpg",
+    "originalImageArticleUrl": "https://ghanaiantimes.com.gh/tcl-unveils-2026-consumer-electronics-smart-home-innovations/",
+    "displayDate": "2026-09-18"
+  },
+  "Gaming Monitor": {
+    "title": "デュアルモード対応ゲーミングモニターがセール中",
+    "summary": "解像度とリフレッシュレートを切り替えられる、32インチの「デュアルモード」ゲーミングモニターがAmazonで100ドルオフのセールを実施中。4K/120HzとフルHD/240Hzを状況に応じて使い分けられる利便性が注目されています。",
+    "insight": "高解像度と高リフレッシュレートのトレードオフを、ディスプレイ側のスケーラー機能で解決するトレンドが定着しつつあります。エンジニア視点では、単一のハードウェアで用途に応じたUXを動的に切り替える仕組みは、UI設計におけるリソース最適化のヒントになるかもしれません。",
+    "sourceUrl": "https://www.pcguide.com/deals/dual-mode-4k-fhd-120hz-240hz-32-inch-monitor-is-100-cheaper-in-limited-time-amazon-deal/",
+    "sourceName": "PC Guide",
+    "originalImageUrl": "https://www.pcguide.com/wp-content/uploads/2026/09/Dual-mode-4K_FHD-120Hz_240Hz-32-inch-monitor-is-100-cheaper-in-limited-time-Amazon-deal.jpg",
+    "originalImageArticleUrl": "https://www.pcguide.com/deals/dual-mode-4k-fhd-120hz-240hz-32-inch-monitor-is-100-cheaper-in-limited-time-amazon-deal/",
+    "displayDate": "2026-09-18"
+  },
+  "SONY": {
+    "title": "ソニーが世界最軽量の超望遠GMレンズ2種を発表",
+    "summary": "ソニーは、FE 400mm F4.5 GM OSSおよびFE 600mm F6.3 GM OSSという、世界最軽量を実現した超望遠単焦点レンズを発表しました。それぞれ約994g/995gという驚異的な軽さを達成しており、スポーツや野生動物の撮影における機動性を大幅に向上させています。",
+    "insight": "光学設計の最適化と軽量素材の採用により、従来困難だった超望遠域での手持ち撮影を現実的なものにしています。物理的な重量制限を打破することは、撮影現場のワークフローを変革するハードウェアエンジニアリングの好例と言えます。",
+    "sourceUrl": "https://cameota.com/sony/52217.html",
+    "sourceName": "CAMEOTA.com",
+    "originalImageUrl": "https://cameota.com/wp-content/uploads/2026/09/sony-4.jpg",
+    "originalImageArticleUrl": "https://cameota.com/sony/52217.html",
+    "displayDate": "2026-09-18"
+  },
+  "TV": {
+    "title": "OLEDとQLEDの違い、エンジニアが知るべき映像技術の最前線",
+    "summary": "Labor Dayセールに関連し、主要TV技術であるOLEDとQLEDの特性を比較する記事が話題です。スポーツ観戦などの動きの激しい映像において、どちらのディスプレイ技術が最適かという議論は、表示遅延や画質を重視する開発者にとっても興味深いトピックです。",
+    "insight": "ディスプレイ技術の進化は、UI/UX設計における色再現性やリフレッシュレートの理解を深める良い機会です。特にOLED（有機EL）の自発光によるコントラストと、QLED（量子ドット）の高輝度特性の違いを理解することは、ハードウェア制約下のパフォーマンス最適化を考えるヒントになります。",
+    "sourceUrl": "https://www.syracuse.com/shopping/2026/09/oled-vs-qled-which-tv-picture-tech-looks-best-for-nfl-games-this-season.html",
+    "sourceName": "Syracuse.com",
+    "originalImageUrl": "https://www.syracuse.com/resizer/v2/4UBQ3B6CCFEM5JOR3FZKDW4EPA.jpg?auth=b59a38717785e950e391acf754fdb6da3b02090f8de2d85fca3175201c3e9aaa&width=1280&smart=true&quality=90",
+    "originalImageArticleUrl": "https://www.syracuse.com/shopping/2026/09/oled-vs-qled-which-tv-picture-tech-looks-best-for-nfl-games-this-season.html",
+    "displayDate": "2026-09-18"
+  },
+  "LED Wall Display": {
+    "title": "LEDディスプレイ：スペック競争から「体験」の時代へ",
+    "summary": "2026年国際LEDディスプレイシンポジウムにて、業界が従来のスペック競争から脱却し、「真のユーザー体験」を重視するフェーズへ移行することが合意されました。数値上の性能だけでなく、実際の視覚的品質やカメラ撮影時の見え方など、実用的な価値が評価基準の中心となります。",
+    "insight": "エンジニアとしては、単なる輝度や解像度の向上を追うだけでなく、実際の利用シーンでの再現性やUX最適化が重要になります。今後は、スペックシート上の指標と、現場での実体験との乖離を埋めるためのキャリブレーション技術や統合制御が鍵となるでしょう。",
+    "sourceUrl": "https://www.ledinside.com/news/2026/9/2026_09_17_08",
+    "sourceName": "LEDinside",
+    "originalImageUrl": "https://nmgprod.s3.amazonaws.com/media/file/64/b3/3837998a5dc2286bc6e3b8ca6e27/cover_image__6icrVMbD__road_sign_gen_AI_adobe.jpeg.360x190_q85_crop_upscale.webp",
+    "originalImageArticleUrl": "https://www.digitalsignagetoday.com/news/mobile-digital-sign-hacked-in-toronto/",
+    "displayDate": "2026-09-18"
+  },
+  "Projector": {
+    "title": "プロジェクターの常識が変わる？6100ルーメン＆1msの衝撃",
+    "summary": "Dangbeiが新たに発表した4Kトリプルレーザープロジェクター「X9 Ultra」が注目を集めています。6100 ISOルーメンという驚異的な明るさと、プロジェクターとしては異例の1msの低遅延ゲーミング性能を両立しており、ホームシアター市場の限界を大きく押し広げるスペックとなっています。",
+    "insight": "高輝度化と低遅延化の両立は、光学系と制御回路の進化が不可欠であり、ホームプロジェクターが単なる映画鑑賞用からゲーミングディスプレイの代替品へシフトしていることを示唆しています。特に1msの応答速度を実現する処理パイプラインの設計は、高解像度映像のリアルタイム処理に関心があるエンジニアにとって興味深いトピックです。",
+    "sourceUrl": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPM2RDSkYzQTU3MTRvaUZxcHRWaFVmdnVyRWNmUDBfUzVmc0ZoVjJWTE50SEtCT1diSHNBSEdFTEVOTUtzTkcxeGdJZ1M1UFBTdnljcURvblJ3dU5BT1BWWGV1QkhfOUxzODNhWTdaYnctZklzSGh4OXRhSzdoVXZLTHdrMHZQWTBSbHBHTkpyMjdBZ0U?oc=5",
+    "sourceName": "Gizmochina",
+    "originalImageUrl": null,
+    "originalImageArticleUrl": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPM2RDSkYzQTU3MTRvaUZxcHRWaFVmdnVyRWNmUDBfUzVmc0ZoVjJWTE50SEtCT1diSHNBSEdFTEVOTUtzTkcxeGdJZ1M1UFBTdnljcURvblJ3dU5BT1BWWGV1QkhfOUxzODNhWTdaYnctZklzSGh4OXRhSzdoVXZLTHdrMHZQWTBSbHBHTkpyMjdBZ0U?oc=5",
+    "displayDate": "2026-09-18"
+  },
+  "Camera Control": {
+    "title": "OpenAIが画像処理ベンチャーGlass Imagingを買収",
+    "summary": "OpenAIが画像処理技術を持つGlass Imagingを約3億ドルで買収したと報じられました。同社はAIを用いた高度な画像処理アルゴリズムに強みを持っており、OpenAIのマルチモーダル能力や画像生成・編集機能のさらなる強化が期待されています。",
+    "insight": "計算写真学（Computational Photography）と生成AIの融合が加速しており、ハードウェア性能に依存しない画質向上技術が今後重要になります。エンジニアの視点では、単なるピクセル変換を超えた、AIモデルによる高度な再構成技術がカメラの制御ロジックをどう変えていくかに注目すべきです。",
+    "sourceUrl": "https://petapixel.com/2026/09/17/openai-reportedly-buys-photo-processing-company-glass-imaging-for-300-million/",
+    "sourceName": "PetaPixel",
+    "originalImageUrl": "https://petapixel.com/assets/uploads/2026/09/glass-imaging-featured.jpg",
+    "originalImageArticleUrl": "https://petapixel.com/2026/09/17/openai-reportedly-buys-photo-processing-company-glass-imaging-for-300-million/",
+    "displayDate": "2026-09-18"
+  },
+  "Production Monitor": {
+    "title": "iPhone 18 Proの撮影機能が進化：可変絞り搭載",
+    "summary": "IBC 2026にて発表されたiPhone 18 Proは、メインカメラにスマートフォンとしては初となる4段階の可変絞り（f/1.48〜f/4）を搭載しました。さらに純正カメラアプリで露出やホワイトバランスの詳細設定が可能になるなど、プロフェッショナルな制作環境への統合が一段と強化されています。",
+    "insight": "モバイルデバイスが物理的な絞り機構を搭載することで、ソフトウェア処理に頼らない光学的な被写界深度の制御が可能になりました。エッジコンピューティングや映像制作の現場において、モバイル機材が専用カメラの領域をどこまで代替できるか、今後のワークフローの柔軟性に注目です。",
+    "sourceUrl": "https://www.cined.com/ibc-2026-overview-best-of-show-winners-iphone-18-pro-gets-a-variable-aperture-teradek-bolt-7-focus-check-ep134/",
+    "sourceName": "CineD",
+    "originalImageUrl": "https://www.cined.com/content/uploads/2026/09/Focus-Check-ep134_1920x1080-300x169.jpg",
+    "originalImageArticleUrl": "https://www.cined.com/ibc-2026-overview-best-of-show-winners-iphone-18-pro-gets-a-variable-aperture-teradek-bolt-7-focus-check-ep134/",
+    "displayDate": "2026-09-18"
+  }
+}

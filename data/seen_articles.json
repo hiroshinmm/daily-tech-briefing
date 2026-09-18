@@ -1,10 +1,6 @@
 {
   "Production Monitor": [
     {
-      "url": "https://www.newsshooter.com/2026/09/10/owc-usb4-hub/?utm_source=rss&utm_medium=rss&utm_campaign=owc-usb4-hub",
-      "date": "2026-09-11"
-    },
-    {
       "url": "https://www.cined.com/sony-dwx-gen-4-wireless-system-detailed-32-bit-float-recording-1-1ms-latency-and-a-30-price-cut/",
       "date": "2026-09-12"
     },
@@ -27,13 +23,13 @@
     {
       "url": "https://www.provideocoalition.com/sonnet-announces-breakaway-box-850-t5-thunderbolt-5/",
       "date": "2026-09-17"
+    },
+    {
+      "url": "https://www.cined.com/ibc-2026-overview-best-of-show-winners-iphone-18-pro-gets-a-variable-aperture-teradek-bolt-7-focus-check-ep134/",
+      "date": "2026-09-18"
     }
   ],
   "SRD / XR": [
-    {
-      "url": "https://www.uploadvr.com/meta-project-phoenix-headset-first-clear-visuals/",
-      "date": "2026-09-11"
-    },
     {
       "url": "https://www.moguravr.com/roblox-rdc-2026/",
       "date": "2026-09-12"
@@ -57,13 +53,13 @@
     {
       "url": "https://www.miraikan.jst.go.jp/events/202609194745.html",
       "date": "2026-09-17"
+    },
+    {
+      "url": "https://xtech.nikkei.com/atcl/nxt/mag/ne/18/00156/00002/",
+      "date": "2026-09-18"
     }
   ],
   "AI": [
-    {
-      "url": "https://www.nikkei.com/article/DGXZQOGN10BT70Q6A910C2000000/",
-      "date": "2026-09-11"
-    },
     {
       "url": "https://www.axios.com/2026/09/10/ai-doomsday-doom-fear-kill-switch",
       "date": "2026-09-12"
@@ -87,13 +83,13 @@
     {
       "url": "https://www.gartner.co.jp/ja/newsroom/press-releases/2026-09-17-gartner-forecasts-worldwide-ai-spending-to-grow-almost-50-percent-in-2026",
       "date": "2026-09-17"
+    },
+    {
+      "url": "https://www.jst.go.jp/crds/column/kaisetsu/shortreport6.html",
+      "date": "2026-09-18"
     }
   ],
   "Gaming Monitor": [
-    {
-      "url": "https://www.ign.com/articles/aoc-agon-pro-qd-oled-gaming-monitor-deal",
-      "date": "2026-09-11"
-    },
     {
       "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOWnltRWhrUnlhTW5iSElVVXJOS3lLbGk1ZzRNd096Z0h2TG0yTVhJOGtXRzR1c1NCMFJIS3p2bFVydmNQdWdOMS1HS09HdEdrNndtVENXWGkxbGxxbWRtN2tPd2p4eC0tUzQyZ0xXNENTOTdpQmpNX2Q4bzUzM2xZZXFHV1h2cWpUTlY3YWl6TnZsQVp6REs2MWROLXZMNnhFVTFEa0FyeWtBMnROQlllTWFkY0ZfaDR5TUtOVmw5aUVLcUVYemNRLU1qQlY?oc=5",
       "date": "2026-09-12"
@@ -117,13 +113,13 @@
     {
       "url": "https://pc.watch.impress.co.jp/docs/news/2141511.html",
       "date": "2026-09-17"
+    },
+    {
+      "url": "https://www.pcguide.com/deals/dual-mode-4k-fhd-120hz-240hz-32-inch-monitor-is-100-cheaper-in-limited-time-amazon-deal/",
+      "date": "2026-09-18"
     }
   ],
   "TCL": [
-    {
-      "url": "https://www.ecoustics.com/products/tcl-a300l-a400u-designer-series-art-tvs/",
-      "date": "2026-09-11"
-    },
     {
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1mNEJ6OEhKQUdvSEdEeXhlZXFHQ2h3aFpEV01fUEgzdXRMbWtHQjlPaVFiend4ZTJkczhVa0Zxa2lmN0dUX0NjbXR2YnlqNkZYVnUyWExCaUU0dkRmTWNqZnF4OEtwZw?oc=5",
       "date": "2026-09-12"
@@ -147,13 +143,13 @@
     {
       "url": "https://www.adgully.com/post/20666/omdia-assessment-ranks-tcl-sqd-mini-led-top-in-picture-quality-performance",
       "date": "2026-09-17"
+    },
+    {
+      "url": "https://ghanaiantimes.com.gh/tcl-unveils-2026-consumer-electronics-smart-home-innovations/",
+      "date": "2026-09-18"
     }
   ],
   "Camera Control": [
-    {
-      "url": "https://www.dpreview.com/news/laowa-is-releasing-its-first-autofocus-lens-for-fujifilm-x-mount-a-macro-monster/",
-      "date": "2026-09-11"
-    },
     {
       "url": "https://dc.watch.impress.co.jp/docs/column/trend/2140009.html",
       "date": "2026-09-12"
@@ -177,13 +173,13 @@
     {
       "url": "https://www.dpreview.com/news/canons-free-dual-pixel-3d-software-turns-supported-eos-r-photos-into-3d-models/",
       "date": "2026-09-17"
+    },
+    {
+      "url": "https://petapixel.com/2026/09/17/openai-reportedly-buys-photo-processing-company-glass-imaging-for-300-million/",
+      "date": "2026-09-18"
     }
   ],
   "LED Wall Display": [
-    {
-      "url": "https://www.budapestreporter.com/chinese-film-technology-delegation-origo-studios-budapest/",
-      "date": "2026-09-11"
-    },
     {
       "url": "https://www.ibc.org/accelerating-innovation/reports/a-100-hz-frame-interleaved-approach-to-live-multi-camera-switching-in-led-based-virtual-production-experience-from-a-public-broa/22794",
       "date": "2026-09-12"
@@ -207,13 +203,13 @@
     {
       "url": "//www.ledinside.com/news/2026/9/2026_09_16_06",
       "date": "2026-09-17"
+    },
+    {
+      "url": "https://www.digitalsignagetoday.com/news/mobile-digital-sign-hacked-in-toronto/",
+      "date": "2026-09-18"
     }
   ],
   "SONY": [
-    {
-      "url": "https://news.nicovideo.jp/watch/nw19761002?news_ref=watch_60_nw18944539",
-      "date": "2026-09-11"
-    },
     {
       "url": "https://eetimes.itmedia.co.jp/ee/articles/2609/11/news054_3.html",
       "date": "2026-09-12"
@@ -237,13 +233,13 @@
     {
       "url": "https://cameota.com/sony/52217.html",
       "date": "2026-09-17"
+    },
+    {
+      "url": "https://cameota.com/sony/52217.html",
+      "date": "2026-09-18"
     }
   ],
   "TV": [
-    {
-      "url": "https://tech.yahoo.com/home-entertainment/tvs/articles/sony-bravia-6-oled-tv-093000062.html",
-      "date": "2026-09-11"
-    },
     {
       "url": "https://mashable.com/tech/best-labor-day-tv-deals-2026-live",
       "date": "2026-09-12"
@@ -267,13 +263,13 @@
     {
       "url": "https://www.ign.com/articles/tcl-qm8l-sqd-mini-led-tv-deal",
       "date": "2026-09-17"
+    },
+    {
+      "url": "https://www.syracuse.com/shopping/2026/09/oled-vs-qled-which-tv-picture-tech-looks-best-for-nfl-games-this-season.html",
+      "date": "2026-09-18"
     }
   ],
   "Projector": [
-    {
-      "url": "https://av.watch.impress.co.jp/docs/news/2139840.html",
-      "date": "2026-09-11"
-    },
     {
       "url": "https://www.talkandroid.com/531038-xgimi-aura-3-series-ifa-2026/",
       "date": "2026-09-12"
@@ -297,6 +293,10 @@
     {
       "url": "https://www.stocktitan.net/news/SEKEY/boston-lyric-opera-blo-and-masary-turn-translation-into-living-982svuue4e3d.html",
       "date": "2026-09-17"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPM2RDSkYzQTU3MTRvaUZxcHRWaFVmdnVyRWNmUDBfUzVmc0ZoVjJWTE50SEtCT1diSHNBSEdFTEVOTUtzTkcxeGdJZ1M1UFBTdnljcURvblJ3dU5BT1BWWGV1QkhfOUxzODNhWTdaYnctZklzSGh4OXRhSzdoVXZLTHdrMHZQWTBSbHBHTkpyMjdBZ0U?oc=5",
+      "date": "2026-09-18"
     }
   ]
 }
