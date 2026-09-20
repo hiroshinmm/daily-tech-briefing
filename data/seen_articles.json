@@ -1,10 +1,6 @@
 {
   "Production Monitor": [
     {
-      "url": "https://www.cined.com/raubay-kinetix-model-f-detailed-five-axis-motion-control-with-dji-rs-integration/",
-      "date": "2026-09-13"
-    },
-    {
       "url": "https://www.cined.com/nanlite-fc-1200b-and-fc-1200c-explained-1200w-output-nebula-c4-color-one-cable-design/",
       "date": "2026-09-14"
     },
@@ -27,13 +23,13 @@
     {
       "url": "https://www.cined.com/blackmagic-camera-for-ios-3-5-released-iphone-18-pro-support-variable-aperture-control-prores-to-pro-video-storage/",
       "date": "2026-09-19"
+    },
+    {
+      "url": "https://www.cined.com/dji-sdr-transmission-2-launched-dci-4k60-10-bit-hdr-switchable-tx-rx-transceivers-4km-range/",
+      "date": "2026-09-20"
     }
   ],
   "SRD / XR": [
-    {
-      "url": "https://jp.pronews.com/news/202609121432782354.html",
-      "date": "2026-09-13"
-    },
     {
       "url": "https://www.moguravr.com/vr-ar-mr-weekly-2026-9-14/",
       "date": "2026-09-14"
@@ -57,13 +53,13 @@
     {
       "url": "https://finance.biggo.jp/news/d6f649d6-81cf-4e53-880f-d8066611454b",
       "date": "2026-09-19"
+    },
+    {
+      "url": "https://thebridge.jp/2026/09/snap-specs-ar-glasses-2195-preorder",
+      "date": "2026-09-20"
     }
   ],
   "AI": [
-    {
-      "url": "https://www.nikkei.com/article/DGXZQOGN122UY0S6A910C2000000/",
-      "date": "2026-09-13"
-    },
     {
       "url": "https://jbpress.ismedia.jp/articles/-/96989",
       "date": "2026-09-14"
@@ -87,13 +83,13 @@
     {
       "url": "https://www.gov.ca.gov/2026/09/18/governor-newsom-issues-executive-order-to-accelerate-independent-oversight-and-advance-the-creation-of-an-ai-kill-switch/",
       "date": "2026-09-19"
+    },
+    {
+      "url": "https://news.yahoo.co.jp/articles/092a3d88bc5e4129c507288fc117159b8f236d45",
+      "date": "2026-09-20"
     }
   ],
   "Gaming Monitor": [
-    {
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxObnE5U3B5bkRNY1FEQTNLemdXSDVzczFkY2xTSlR4NC1QTDFLVU52VEtGOEhxUV9WQXhUbUpkNFJWUV9OSXBYSVhtSi1zaW5NcVZNeExuaDJHMk9mNmk4dTduRVRHT3FhTGV1Wk5VVzRFa0pvenJzQlMtX2VjbFlOU1Y2X1ZxWmFHRk9QZ3dVRFVTbU9CMWM4NDNpSU10WW1pSG4zNURrRHV5LVhnUjZoc0tRa21iTDBNeUlpYmdnVDUwZjhJU2c4SlgycEY5ZUIzQTdZ?oc=5",
-      "date": "2026-09-13"
-    },
     {
       "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNNE5fQ2FmNWE1MHFja0h1YlUwYjZ6REExN1lLOWZ0WmRkaWRZYXE4MmRtUGlKaVZ6eHIxQUNmbC1QZ0w1UnRFdGtRRHVHcG5qUm1CNm85bERWR1pBalQ2UE1IelUyeXJpdXhobmZ2aXFYZE4zSUEweURhQzVnOTVLZHpfZ0hwcG5QdFhhODI3ZFUyd2xKOUNnXzY4c09NcXExcmpFQkVSVGdBY3JsdmNrSXZ5THBBcFZ6dzlWT3BNcjhzQ2EzMWc?oc=5",
       "date": "2026-09-14"
@@ -117,13 +113,13 @@
     {
       "url": "https://www.pcworld.com/article/3128871/your-monitor-says-it-has-hdr-that-might-not-mean-much.html",
       "date": "2026-09-19"
+    },
+    {
+      "url": "https://www.bgr.com/2259362/reasons-regret-buying-oled-monitor/",
+      "date": "2026-09-20"
     }
   ],
   "TCL": [
-    {
-      "url": "https://www.mid-day.com/buzz/article/tcl-s-pioneering-sqd-mini-led-earns-industry-recognition-reinforcing-its-leadership-in-display-innovation-10867",
-      "date": "2026-09-13"
-    },
     {
       "url": "https://www.androidpolice.com/this-bizarre-new-display-technology-is-exactly-what-every-new-smartphone-needs/",
       "date": "2026-09-14"
@@ -147,13 +143,13 @@
     {
       "url": "https://www.gizmodo.jp/article/2609-tcl-nxtpaper-amoled-p80-pro-ultra/",
       "date": "2026-09-19"
+    },
+    {
+      "url": "https://www.sammyfans.com/2026/09/18/samsung-challenges-three-csot-oled-patents-in-the-us/",
+      "date": "2026-09-20"
     }
   ],
   "Camera Control": [
-    {
-      "url": "https://petapixel.com/2026/09/12/this-new-app-is-the-first-to-send-custom-recipes-to-fujifilm-cameras-wirelessly/",
-      "date": "2026-09-13"
-    },
     {
       "url": "https://petapixel.com/2026/09/13/a-new-super-resolution-microscopy-technique-lets-scientists-study-cells-in-real-time/",
       "date": "2026-09-14"
@@ -177,13 +173,13 @@
     {
       "url": "https://petapixel.com/2026/09/18/photographers-outraged-after-heavily-ai-edited-image-wins-state-fair-photo-competition/",
       "date": "2026-09-19"
+    },
+    {
+      "url": "https://petapixel.com/2026/09/19/apple-explains-why-the-iphone-18-pro-has-a-variable-aperture/",
+      "date": "2026-09-20"
     }
   ],
   "LED Wall Display": [
-    {
-      "url": "https://www.ibc.org/accelerating-innovation/reports/a-100-hz-frame-interleaved-approach-to-live-multi-camera-switching-in-led-based-virtual-production-experience-from-a-public-broa/22794",
-      "date": "2026-09-13"
-    },
     {
       "url": "https://www.ibc.org/accelerating-innovation/reports/a-100-hz-frame-interleaved-approach-to-live-multi-camera-switching-in-led-based-virtual-production-experience-from-a-public-broa/22794",
       "date": "2026-09-14"
@@ -207,13 +203,13 @@
     {
       "url": "//www.ledinside.com/news/2026/9/2026_09_17_08",
       "date": "2026-09-19"
+    },
+    {
+      "url": "//www.ledinside.com/news/2026/9/2026_09_17_02",
+      "date": "2026-09-20"
     }
   ],
   "SONY": [
-    {
-      "url": "https://jp.pronews.com/all/202609121531782452.html",
-      "date": "2026-09-13"
-    },
     {
       "url": "https://www.newsshooter.com/2026/09/12/sony-rm-dp7-rm-dp5-first-look-at-ibc-2026/",
       "date": "2026-09-14"
@@ -237,13 +233,13 @@
     {
       "url": "https://www.chiba-tv.com/plus/detail/2026092024182",
       "date": "2026-09-19"
+    },
+    {
+      "url": "https://www.gdm.or.jp/crew/2026/0919/653186",
+      "date": "2026-09-20"
     }
   ],
   "TV": [
-    {
-      "url": "https://gizmodo.com/lg-denies-its-tvs-are-spying-on-you-unless-you-opted-in-2000810968",
-      "date": "2026-09-13"
-    },
     {
       "url": "https://www.goal.com/jp/%E3%83%AA%E3%82%B9%E3%83%88/asian-games-2026-all-broadcast-tv-guide/blt0bbb9364547918f2",
       "date": "2026-09-14"
@@ -267,13 +263,13 @@
     {
       "url": "https://news.yahoo.co.jp/articles/c4de8388df17d28c4820e6d7495a21afdf4a348b",
       "date": "2026-09-19"
+    },
+    {
+      "url": "https://www.bgr.com/2259362/reasons-regret-buying-oled-monitor/",
+      "date": "2026-09-20"
     }
   ],
   "Projector": [
-    {
-      "url": "https://www.itmedia.co.jp/news/article/2609/12/2000001428/",
-      "date": "2026-09-13"
-    },
     {
       "url": "https://news.yahoo.co.jp/articles/7af34bf6f8a65138ea2120e1553d0922de6e5923?page=4",
       "date": "2026-09-14"
@@ -297,6 +293,10 @@
     {
       "url": "https://news.livedoor.com/pr_topics/detail/32360614/",
       "date": "2026-09-19"
+    },
+    {
+      "url": "https://mantan-web.jp/prtimes/article/20260919prt00m200000040a/photopage/001.html",
+      "date": "2026-09-20"
     }
   ]
 }
