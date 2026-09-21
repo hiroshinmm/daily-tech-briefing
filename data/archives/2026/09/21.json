@@ -1,0 +1,102 @@
+{
+  "SRD / XR": {
+    "title": "ARグラスの普及期へ：市場がようやく離陸",
+    "summary": "長らく期待されつつも停滞していたARグラス市場が、技術の成熟とユースケースの拡大により、ついに本格的な普及フェーズに入ったことを示唆する記事。ハードウェアの進化と市場ニーズの合致が注目されています。",
+    "insight": "デバイスの軽量化と高精細なディスプレイ技術の融合が、ようやく一般普及の閾値を超え始めています。エンジニアとしては、単なるハードウェア性能だけでなく、空間コンピューティングを活用したUI/UXの設計が、次の大きな差別化要因になるでしょう。",
+    "sourceUrl": "https://xtech.nikkei.com/atcl/nxt/mag/ne/18/00156/",
+    "sourceName": "日経クロステック",
+    "originalImageUrl": "https://xtech.nikkei.com/atcl/nxt/mag/ne/18/00156/topm.jpg?20220512",
+    "originalImageArticleUrl": "https://xtech.nikkei.com/atcl/nxt/mag/ne/18/00156/",
+    "displayDate": "2026-09-21"
+  },
+  "AI": {
+    "title": "「文章を書かないAI」Jev：スマートなif文の衝撃",
+    "summary": "元OpenAI研究者が開発した「Jev」が注目されています。LLMのように文章を生成するのではなく、論理処理や構造化データに特化しており、開発者からは「スマートなif文」と評されています。LLMの確率論的な回答ではなく、決定論的なロジックが必要なタスクへの適応が期待されています。",
+    "insight": "AI＝LLMという認識から脱却し、目的（決定論的な制御 vs 確率論的な推論）に応じてツールを使い分ける重要性が高まっています。特に複雑なバックエンド処理において、推論コストを抑えつつ高い信頼性を確保する選択肢として注目すべきアーキテクチャです。",
+    "sourceUrl": "https://www.itmedia.co.jp/aiplus/article/2609/20/2000001664/",
+    "sourceName": "ITmedia",
+    "originalImageUrl": "https://www.itmedia.co.jp/aiplus/article/ogp/2609/20/2000001664/10007169/2048",
+    "originalImageArticleUrl": "https://www.itmedia.co.jp/aiplus/article/2609/20/2000001664/",
+    "displayDate": "2026-09-21"
+  },
+  "Production Monitor": {
+    "title": "Insta360 X6で手軽な3D空間キャプチャを実現",
+    "summary": "Insta360 X6に「Spatial Capture」機能が追加されました。専用の機材や複雑なソフトウェアを使わずに、アプリのみで撮影した空間を没入感のある3Dシーンに変換可能です。3D再構築のハードルを大幅に下げた注目のアップデートです。",
+    "insight": "カメラ映像から3D空間を生成する技術は、従来の複雑なSfMパイプラインを不要にし、日常的なデバイスで完結する方向に進化しています。エンジニアとしては、この種のユーザー生成3Dコンテンツが、将来的にVR/ARアプリケーションやデジタルツイン構築のデータソースとしてどう活用されるかが興味深いポイントです。",
+    "sourceUrl": "https://www.newsshooter.com/2026/09/19/spatial-capture-for-insta360-x6/",
+    "sourceName": "Newsshooter",
+    "originalImageUrl": "https://www.provideocoalition.com/wp-content/uploads/Post-ATL.jpg",
+    "originalImageArticleUrl": "https://www.provideocoalition.com/are-you-heading-to-the-post-atlanta-conference/",
+    "displayDate": "2026-09-21"
+  },
+  "Camera Control": {
+    "title": "撮り直し不可のSNSアプリ「Flare」が登場",
+    "summary": "撮影時のプレビューや撮り直しができない写真共有SNS「Flare」がリリースされました。撮影した写真は翌日の12時に一斉公開される仕組みで、SNSにおける「映え」や即時性の追求に対するアンチテーゼとして注目されています。",
+    "insight": "プレビュー不可という制約は、デジタルカメラ特有の「確認して撮り直す」プロセスを排除し、偶然性を重視するUX設計として興味深いです。リアルタイム性とフィードバックループを逆手に取った仕様は、あえて制約を課すことでユーザーの創造性を引き出すアプリ開発の好例といえます。",
+    "sourceUrl": "https://dc.watch.impress.co.jp/docs/news/2142480.html",
+    "sourceName": "デジカメ Watch",
+    "originalImageUrl": "https://dc.watch.impress.co.jp/img/dcw/list/2142/480/01.png",
+    "originalImageArticleUrl": "https://dc.watch.impress.co.jp/docs/news/2142480.html",
+    "displayDate": "2026-09-21"
+  },
+  "Projector": {
+    "title": "Makuakeで4億円突破！AWOL Visionの躍進",
+    "summary": "超短焦点4Kプロジェクター「Aetherion」がMakuakeで4億円以上の応援購入を達成。9月19日からは渋谷で開催される「さわれるMakuake」にて、専用スクリーンボードなどの実機展示も開始され、体験型販売のモデルケースとして注目されています。",
+    "insight": "超短焦点プロジェクター市場は、単なるスペック競争から、専用スクリーンや設置環境を含めたトータルUXの提案フェーズへ移行しています。エンジニアとしては、ハードウェアの性能だけでなく、周辺デバイスとの連携や体験設計が普及の鍵を握る好例として注目すべきです。",
+    "sourceUrl": "https://www.tv-tokyo.co.jp/plus/external-pr/entry/250090.html",
+    "sourceName": "tv-tokyo.co.jp",
+    "originalImageUrl": "https://prtimes.jp/img/168708/25/resize/d168708-25-444924e3cf7ac4d7f0fc-15.png",
+    "originalImageArticleUrl": "https://www.tv-tokyo.co.jp/plus/external-pr/entry/250090.html",
+    "displayDate": "2026-09-21"
+  },
+  "TV": {
+    "title": "2026年アジア大会の放送・配信環境",
+    "summary": "2026年に開催されるアジア大会（愛知・名古屋）に向け、地上波テレビ放送およびネット配信の視聴計画が注目されています。全競技の網羅的な放送・配信予定が公開されており、今後の視聴環境の変化が話題です。",
+    "insight": "スポーツイベントのライブ配信プラットフォームが増える中、地上波とネット配信のハイブリッド放送はエンジニアリング的にも負荷分散やUI/UX最適化の知見が詰まっています。今後の大規模トラフィック制御技術の動向として注目しておくとよいでしょう。",
+    "sourceUrl": "https://www.goal.com/jp/%E3%83%AA%E3%82%B9%E3%83%88/asian-games-2026-all-broadcast-tv-guide/blt0bbb9364547918f2",
+    "sourceName": "Goal.com",
+    "originalImageUrl": "https://assets.goal.com/images/v3/blt0aaf3e44f4d7f995/U-NEXT-asian-games-2026.jpg",
+    "originalImageArticleUrl": "https://www.goal.com/jp/%E3%83%AA%E3%82%B9%E3%83%88/asian-games-2026-all-broadcast-tv-guide/blt0bbb9364547918f2",
+    "displayDate": "2026-09-21"
+  },
+  "Gaming Monitor": {
+    "title": "AOCが320Hz駆動の最新QD-OLEDモニターを発表",
+    "summary": "AOCが、最新のQD-OLEDパネルを採用した320Hz駆動のゲーミングモニターを発表しました。5層タンデム構造を採用することで、従来よりも高い耐久性と輝度、効率的なHDRキャリブレーションを実現しており、ハイエンドゲーマーやクリエイター向けの注目製品となっています。",
+    "insight": "OLEDパネルの多層化（タンデム構造）は輝度と寿命を劇的に改善する技術であり、モバイル向けから大型モニターへ展開が進んでいます。高リフレッシュレートとHDR性能の両立は、今後ゲーム開発やUI設計における色再現性と遅延評価の基準を大きく引き上げる可能性があります。",
+    "sourceUrl": "https://www.gizmochina.com/2026/09/20/aoc-agon-ag277qsd-gaming-monitor-launched-specs-price/",
+    "sourceName": "Gizmochina",
+    "originalImageUrl": "https://www.gizmochina.com/wp-content/uploads/2026/09/AOC-Agon-AG277QSD-gaming-monitor.png",
+    "originalImageArticleUrl": "https://www.gizmochina.com/2026/09/20/aoc-agon-ag277qsd-gaming-monitor-launched-specs-price/",
+    "displayDate": "2026-09-21"
+  },
+  "SONY": {
+    "title": "ソニーα×FeliCa：画像にID情報を直接埋め込む新技術",
+    "summary": "ソニーのカメラ「α」シリーズで撮影した写真に、FeliCa IDやバーコード情報を直接メタデータとして埋め込める特殊なリーダー機器が登場。撮影と同時に物流や在庫管理などのデータを紐付けることが可能になり、業務効率の向上が期待されます。",
+    "insight": "カメラの撮影データを単なる画像としてではなく、IoTデバイスとしてのID管理基盤と直結させる非常に興味深いユースケースです。画像処理パイプラインへのメタデータ注入や、エッジ側でのデータ整合性管理など、エンジニアリングの観点からも画像データ活用の新たな可能性を感じさせます。",
+    "sourceUrl": "https://www.gdm.or.jp/crew/2026/0919/653186",
+    "sourceName": "エルミタージュ秋葉原",
+    "originalImageUrl": "https://www.gdm.or.jp/wp-content/uploads/2026/09/19/FeliCa_barcode_reader_01.jpg",
+    "originalImageArticleUrl": "https://www.gdm.or.jp/crew/2026/0919/653186",
+    "displayDate": "2026-09-21"
+  },
+  "LED Wall Display": {
+    "title": "MicroLEDで進化するARグラス、0.15ccの超小型エンジン",
+    "summary": "CIOE 2026にて、Hongshi Intelligentが「Yunjin」プラットフォームベースのフルカラーMicroLEDライトエンジンを発表。わずか0.15ccという超小型サイズを実現し、ARグラスの設計自由度を大幅に向上させ、既にパイロット生産を開始しています。",
+    "insight": "ARグラスのフォームファクタを決定づける光学エンジンの小型化において、MicroLEDの集積技術が飛躍的な進化を遂げています。特に0.15ccというサイズは、従来のディスプレイ技術では困難だったプロダクトへの組み込みを現実的なものにし、ウェアラブル開発の制約を大きく変える可能性があります。",
+    "sourceUrl": "//www.ledinside.com/news/2026/9/2026_09_17_01",
+    "sourceName": "LEDinside",
+    "originalImageUrl": null,
+    "originalImageArticleUrl": "//www.ledinside.com/news/2026/9/2026_09_17_01",
+    "displayDate": "2026-09-21"
+  },
+  "TCL": {
+    "title": "TCLの次世代ディスプレイ「SQD-Mini LED」が描く未来",
+    "summary": "TCLが開発した「SQD-Mini LED」技術が、OLEDを超えるプレミアムな画質を実現し、テレビ業界の新たなスタンダードとして注目を集めています。高輝度と高いコントラスト比を両立するこの技術は、今後のディスプレイ開発における重要な転換点となる可能性を秘めています。",
+    "insight": "Mini LEDは従来の直下型LEDの欠点を補い、ローカルディミング制御の高度化によってOLEDに匹敵する黒表現を可能にします。エンジニア視点では、バックライトのアルゴリズム最適化や、高効率な量子ドット（QD）活用による色域拡大が、次世代UI/UXデザインの制約をどう変えるかに注目すべきです。",
+    "sourceUrl": "https://www.megabites.com.ph/the-future-beyond-oled-tcl-sqd-mini-led-raises-the-bar-for-premium-picture-quality/",
+    "sourceName": "megabites.com.ph",
+    "originalImageUrl": "https://www.megabites.com.ph/wp-content/uploads/2026/09/TCL-SQD-Mini-LED-Raises-the-Bar-for-Premium-Picture-Quality_1.webp",
+    "originalImageArticleUrl": "https://www.megabites.com.ph/the-future-beyond-oled-tcl-sqd-mini-led-raises-the-bar-for-premium-picture-quality/",
+    "displayDate": "2026-09-21"
+  }
+}
