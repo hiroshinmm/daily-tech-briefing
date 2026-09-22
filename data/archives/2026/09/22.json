@@ -1,0 +1,102 @@
+{
+  "SRD / XR": {
+    "title": "Snapの新型ARグラス「Specs」が本格始動",
+    "summary": "Snap社が次世代のスタンドアローン型ARグラス「Specs」のデモを公開。クロスプラットフォーム対応のAIエージェントを搭載し、専用のセルラー充電ケースも用意されるなど、現実世界でのAR体験がより実用的かつモバイルフレンドリーに進化しています。",
+    "insight": "スタンドアローンARデバイスにおけるAIエージェントの統合は、今後のUI/UX設計のトレンドとなるでしょう。特に開発者は、OSを跨いだAI連携や軽量ハードウェア向けの低遅延なARレンダリング手法に注目すべきです。",
+    "sourceUrl": "https://www.uploadvr.com/watch-snap-ceo-demo-specs-ar-glasses-live-on-stage/",
+    "sourceName": "UploadVR",
+    "originalImageUrl": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/09/See-for-Yourself-Watch-the-SPECS-Launch-Event-00.14.13.236.jpeg",
+    "originalImageArticleUrl": "https://www.uploadvr.com/watch-snap-ceo-demo-specs-ar-glasses-live-on-stage/",
+    "displayDate": "2026-09-22"
+  },
+  "AI": {
+    "title": "航空管制にAI導入、FAAが効率化へ向け実証試験",
+    "summary": "米連邦航空局（FAA）が、航空交通管理の効率化を目指してAIツールの導入を開始しました。DC近郊の空港での試験運用を通じ、複雑化する空域管理の最適化と安全性の向上を図ります。AIによる判断支援が、将来の運航システムにどう組み込まれるかが注目されています。",
+    "insight": "レガシーシステムが残るインフラ領域におけるAI導入は、堅牢性と説明責任が鍵となります。エンジニアとしては、単なるモデルの精度だけでなく、リアルタイム処理における低レイテンシの担保や、人間の介入を前提としたハイブリッド運用設計の知見が重要になります。",
+    "sourceUrl": "https://www.politico.com/news/2026/09/21/faa-ai-tool-flight-traffic-01086258",
+    "sourceName": "politico.com",
+    "originalImageUrl": "https://www.politico.com/dims4/default/resize/1200/quality/90/format/jpg?url=https%3A%2F%2Fstatic.politico.com%2F9c%2F8c%2Fe2a3d89c46d2a9a1671a9384edce%2Ftrump-drones-06491.jpg",
+    "originalImageArticleUrl": "https://www.politico.com/news/2026/09/21/faa-ai-tool-flight-traffic-01086258",
+    "displayDate": "2026-09-22"
+  },
+  "SONY": {
+    "title": "スマホのカメラ性能はソニーが握る：LYTIAセンサーの市場支配力",
+    "summary": "Motorolaやvivoなどの最新スマートフォンにおいて、ソニーの最新イメージセンサー「LYTIA」シリーズの採用が相次いでいます。また、iPhone 18 Proの分解調査でも全センサーがソニー製であることが確認されており、グローバル市場におけるソニーの圧倒的なシェアと技術的優位性が改めて浮き彫りとなっています。",
+    "insight": "モバイル向けイメージセンサーにおいて、画素ピッチの最適化や多層構造化による量子効率の追求が、競合他社に対するソニーの強力な参入障壁となっています。エンジニア視点では、スタック型CMOSセンサーの積層技術が、AI画像処理と連携する上での重要なハードウェア・プラットフォームとして再評価すべき点です。",
+    "sourceUrl": "https://sumahodigest.com/?p=71248",
+    "sourceName": "スマホダイジェスト",
+    "originalImageUrl": "https://sumahodigest.com/wp-content/uploads/2026/09/Screenshot-2026-09-21-191800.jpg",
+    "originalImageArticleUrl": "https://sumahodigest.com/?p=71248",
+    "displayDate": "2026-09-22"
+  },
+  "TCL": {
+    "title": "TCL CSOTが提案する次世代ディスプレイ技術",
+    "summary": "TCL傘下のディスプレイメーカーであるCSOTが、AI駆動の画像処理と最新の「APEX Pixel」技術を融合させた新たなディスプレイ戦略を発表しました。画質の向上のみならず、AIによる最適化が今後の大型・高精細パネルの差別化要因になると注目されています。",
+    "insight": "AIエンジンをディスプレイの制御プロセスに組み込む動きは、単純な解像度競争から画素単位のリアルタイム制御へとシフトしていることを示唆しています。エンジニアとしては、ハードウェアの物理スペックだけでなく、AIアルゴリズムによる補正能力がパネル性能をどこまで引き出せるかに注目すべきでしょう。",
+    "sourceUrl": "https://techcrunch.com/sponsor/tcl/seeing-smarter-tcl-csot-brings-together-ai-driven-thinking-and-apex-pixel-innovation/",
+    "sourceName": "TechCrunch",
+    "originalImageUrl": "https://techcrunch.com/wp-content/uploads/2026/05/TCL-CSOT-SID-2026-booth_171.jpg.jpeg?resize=1200,779",
+    "originalImageArticleUrl": "https://techcrunch.com/sponsor/tcl/seeing-smarter-tcl-csot-brings-together-ai-driven-thinking-and-apex-pixel-innovation/",
+    "displayDate": "2026-09-22"
+  },
+  "TV": {
+    "title": "LG製OLEDテレビのWi-Fiデータ収集問題から考えるプライバシー",
+    "summary": "一部のユーザーがLGのOLEDテレビによるデータ収集を懸念し、Wi-Fiモジュールを物理的に取り外したという報告が話題です。スマート家電のプライバシーとネットワーク接続のトレードオフが注目されています。",
+    "insight": "コネクテッドデバイスはテレメトリの収集が不可避ですが、ユーザーのコントロール権が不明瞭な場合に反発を招きます。エンジニアとしては、ログ収集の透明性とオプトアウト手段を設計段階から組み込む重要性を再認識すべきです。",
+    "sourceUrl": "https://happygamer.com/gamer-removes-lg-g6-oled-wifi-antenna-data-collection-165091/",
+    "sourceName": "happygamer.com",
+    "originalImageUrl": "https://happygamer.com/wp-content/uploads/2026/09/gamer-rips-out-lg-g6-oled-wi-fi-after-data-collection-report-1.jpg",
+    "originalImageArticleUrl": "https://happygamer.com/gamer-removes-lg-g6-oled-wifi-antenna-data-collection-165091/",
+    "displayDate": "2026-09-22"
+  },
+  "Projector": {
+    "title": "家庭用プロジェクターが進化、4Kレーザー光源が身近に",
+    "summary": "最新の家庭用プロジェクター市場において、Aladdin X3 Laser 4Kのような高性能モデルのセールや、各メーカーによる4K・レーザー光源搭載モデルの展開が加速しています。大型で鮮明な映像体験が、より一般家庭に近い価格帯で実現され始めています。",
+    "insight": "プロジェクターの光学エンジンにおけるレーザー光源の採用は、従来のランプ式と比べてコントラスト比や色域の向上に大きく貢献しています。エンジニアとしては、単なる解像度だけでなく、色再現性を左右する光源技術やスケーリングアルゴリズムの進化に注目すると、映像処理の深みが理解できるでしょう。",
+    "sourceUrl": "https://www.itmedia.co.jp/pcuser/amp/2609/22/news027.html",
+    "sourceName": "ITmedia PC USER",
+    "originalImageUrl": "https://image.itmedia.co.jp/pcuser/articles/2609/22/cover_news027.jpg",
+    "originalImageArticleUrl": "https://www.itmedia.co.jp/pcuser/amp/2609/22/news027.html",
+    "displayDate": "2026-09-22"
+  },
+  "Production Monitor": {
+    "title": "360度映像を3D空間へ：Insta360の空間キャプチャ",
+    "summary": "Insta360の最新モデル「X6」が、360度動画をインタラクティブに探索可能な3Dシーンへ変換する「Spatial Capture」機能を搭載しました。X5/X4 Airでも利用可能で、3Dガウシアンスプラッティング（3DGS）技術を活用した没入感のある映像体験を誰でも簡単に作成できます。",
+    "insight": "動画の3DGS変換がコンシューマー向け製品に実装され、3Dシーンの生成が非常に身近になりました。Webエンジニアにとっても、ブラウザベースの3DレンダリングやメタバースUI開発の素材として、こうした空間データの扱いを注視しておく価値があります。",
+    "sourceUrl": "https://www.provideocoalition.com/insta360-x6-turns-360-video-into-explorable-3d-scenes/",
+    "sourceName": "ProVideo Coalition",
+    "originalImageUrl": "https://www.provideocoalition.com/wp-content/uploads/insta360x6spaialcpture001.jpg",
+    "originalImageArticleUrl": "https://www.provideocoalition.com/insta360-x6-turns-360-video-into-explorable-3d-scenes/",
+    "displayDate": "2026-09-22"
+  },
+  "Gaming Monitor": {
+    "title": "Alienwareの39インチ5K OLEDモニターが登場",
+    "summary": "Alienwareが発売した39インチ5K OLEDゲーミングモニター（AW3926QW）が話題です。圧倒的な没入感と画質を誇る高級モデルであり、ハイエンドなデスク環境を構築したいエンジニアにとって、究極の投資対象として注目を集めています。",
+    "insight": "高リフレッシュレートに加え、5Kという超高解像度OLEDパネルの採用は、UIの視認性を劇的に向上させ、IDEでのコード表示面積を最大化します。長時間のコーディング作業における眼精疲労軽減と作業効率の向上という観点から、生産性向上ツールとしての性能を再評価すべきでしょう。",
+    "sourceUrl": "https://www.theaureview.com/technology/alienware-39-inch-5k-oled-gaming-monitor-review/",
+    "sourceName": "The AU Review",
+    "originalImageUrl": "https://www.theaureview.com/wp-content/uploads/2026/09/awdadwa-1.jpg",
+    "originalImageArticleUrl": "https://www.theaureview.com/technology/alienware-39-inch-5k-oled-gaming-monitor-review/",
+    "displayDate": "2026-09-22"
+  },
+  "Camera Control": {
+    "title": "Insta360 Luna Ultraに450mm超望遠レンズが登場",
+    "summary": "Insta360のジンバルカメラ「Luna Ultra」向けに、新ファームウェアと450mm相当の超望遠レンズが発表されました。コンパクトなジンバルカメラの撮影領域を大きく広げるアップデートとして注目されています。",
+    "insight": "小型カメラの光学性能を物理的なレンズ拡張で引き上げるアプローチは、ハードウェアのモジュール性を高める好例です。ジンバルの制御アルゴリズムと超望遠撮影時の手ブレ補正をどう最適化しているのか、エンジニア視点では制御ロジックの進化に興味を惹かれます。",
+    "sourceUrl": "https://www.dpreview.com/samples/panasonic-lumix-s-20mm-f2-5-sample-gallery-and-hands-on-a-compact-ultrawide-prime-for-l-mount/",
+    "sourceName": "DPReview",
+    "originalImageUrl": "https://www.dpreview.com/wp-content/uploads/2026/09/P1031527acr-16x9-Lead-1.jpg",
+    "originalImageArticleUrl": "https://www.dpreview.com/samples/panasonic-lumix-s-20mm-f2-5-sample-gallery-and-hands-on-a-compact-ultrawide-prime-for-l-mount/",
+    "displayDate": "2026-09-22"
+  },
+  "LED Wall Display": {
+    "title": "LEDから光半導体へ：1μmへの微細化が導くAI時代の新潮流",
+    "summary": "LEDの定義が変わりつつあります。かつて真空管からトランジスタへ移行したように、従来の照明用LEDは「オプトセミコンダクター（光半導体）」へと進化しています。韓国の独自技術WICOPなどにより、デバイスサイズは従来の2,000μmから極限の1μmへと縮小。この微細化技術は、単なる表示デバイスを超え、AI時代の高度な光制御プラットフォームとして次世代技術の基盤になると期待されています。",
+    "insight": "デバイスの小型化が1/2,000スケールに達したことで、ディスプレイの解像度だけでなく、センサー融合や通信機能との統合といったエッジコンピューティング的アプローチが重要になります。ハードウェアエンジニアは、パッケージング不要の極小光源をいかにシステムへ組み込み、熱管理と高密度実装を両立させるかが鍵となります。",
+    "sourceUrl": "https://www.cinematography.world/brompton-equips-garden-studios-expanded-virtual-production-stage-as-vp-specialist-doubles-down-on-driving-shots/",
+    "sourceName": "LEDinside",
+    "originalImageUrl": "https://www.cinematography.world/wp-content/uploads/2026/09/GardenStudios-__-Credit-Jasmin-Shah.jpg",
+    "originalImageArticleUrl": "https://www.cinematography.world/brompton-equips-garden-studios-expanded-virtual-production-stage-as-vp-specialist-doubles-down-on-driving-shots/",
+    "displayDate": "2026-09-22"
+  }
+}
