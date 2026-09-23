@@ -1,10 +1,6 @@
 {
   "Production Monitor": [
     {
-      "url": "https://www.newsshooter.com/2026/09/15/blackmagic-camera-10-3-update/?utm_source=rss&utm_medium=rss&utm_campaign=blackmagic-camera-10-3-update",
-      "date": "2026-09-16"
-    },
-    {
       "url": "https://www.provideocoalition.com/sonnet-announces-breakaway-box-850-t5-thunderbolt-5/",
       "date": "2026-09-17"
     },
@@ -27,13 +23,13 @@
     {
       "url": "https://www.provideocoalition.com/insta360-x6-turns-360-video-into-explorable-3d-scenes/",
       "date": "2026-09-22"
+    },
+    {
+      "url": "https://www.cined.com/eddie-ai-v4-explained-visual-b-roll-edits-reference-edits-an-agent-that-joins-your-nle-project/",
+      "date": "2026-09-23"
     }
   ],
   "SRD / XR": [
-    {
-      "url": "https://news.yahoo.co.jp/articles/2949cf170c753223ea0d0f1664b103a294fbe7d7/images/000",
-      "date": "2026-09-16"
-    },
     {
       "url": "https://www.miraikan.jst.go.jp/events/202609194745.html",
       "date": "2026-09-17"
@@ -57,13 +53,13 @@
     {
       "url": "https://www.uploadvr.com/watch-snap-ceo-demo-specs-ar-glasses-live-on-stage/",
       "date": "2026-09-22"
+    },
+    {
+      "url": "https://xtech.nikkei.com/atcl/nxt/mag/ne/18/00156/",
+      "date": "2026-09-23"
     }
   ],
   "AI": [
-    {
-      "url": "https://www.cnbc.com/2026/09/15/nvidia-and-anthropic-ceos-diverge-on-ai-safety-at-dreamforce.html",
-      "date": "2026-09-16"
-    },
     {
       "url": "https://www.gartner.co.jp/ja/newsroom/press-releases/2026-09-17-gartner-forecasts-worldwide-ai-spending-to-grow-almost-50-percent-in-2026",
       "date": "2026-09-17"
@@ -87,13 +83,13 @@
     {
       "url": "https://www.politico.com/news/2026/09/21/faa-ai-tool-flight-traffic-01086258",
       "date": "2026-09-22"
+    },
+    {
+      "url": "https://news.yahoo.co.jp/articles/8512839dfee0dcb9d6ccf1bf2405d15470412d8e",
+      "date": "2026-09-23"
     }
   ],
   "Gaming Monitor": [
-    {
-      "url": "https://www.chosun.com/english/industry-en/2026/09/16/M5LIXSFFRJENHA4HW7VMXO77CA/",
-      "date": "2026-09-16"
-    },
     {
       "url": "https://pc.watch.impress.co.jp/docs/news/2141511.html",
       "date": "2026-09-17"
@@ -117,13 +113,13 @@
     {
       "url": "https://www.theaureview.com/technology/alienware-39-inch-5k-oled-gaming-monitor-review/",
       "date": "2026-09-22"
+    },
+    {
+      "url": "https://www.howtogeek.com/your-new-high-refresh-monitor-isnt-running-at-full-speed-heres-why/",
+      "date": "2026-09-23"
     }
   ],
   "TCL": [
-    {
-      "url": "https://news.nicovideo.jp/watch/nw19775229?news_ref=search_search",
-      "date": "2026-09-16"
-    },
     {
       "url": "https://www.adgully.com/post/20666/omdia-assessment-ranks-tcl-sqd-mini-led-top-in-picture-quality-performance",
       "date": "2026-09-17"
@@ -147,13 +143,13 @@
     {
       "url": "https://techcrunch.com/sponsor/tcl/seeing-smarter-tcl-csot-brings-together-ai-driven-thinking-and-apex-pixel-innovation/",
       "date": "2026-09-22"
+    },
+    {
+      "url": "https://news.livedoor.com/article/detail/32383740/",
+      "date": "2026-09-23"
     }
   ],
   "Camera Control": [
-    {
-      "url": "https://www.dpreview.com/news/affinitys-latest-update-is-its-biggest-ever-for-free-photo-editing/",
-      "date": "2026-09-16"
-    },
     {
       "url": "https://www.dpreview.com/news/canons-free-dual-pixel-3d-software-turns-supported-eos-r-photos-into-3d-models/",
       "date": "2026-09-17"
@@ -177,13 +173,13 @@
     {
       "url": "https://www.dpreview.com/samples/panasonic-lumix-s-20mm-f2-5-sample-gallery-and-hands-on-a-compact-ultrawide-prime-for-l-mount/",
       "date": "2026-09-22"
+    },
+    {
+      "url": "https://petapixel.com/2026/09/22/snapdragon-8-elite-extreme-gen-6-finally-brings-8kp60-video-to-smartphones/",
+      "date": "2026-09-23"
     }
   ],
   "LED Wall Display": [
-    {
-      "url": "https://www.digitalsignagetoday.com/blogs/e-paper-lcd-or-led-how-retailers-should-match-screens-to-the-job-2/",
-      "date": "2026-09-16"
-    },
     {
       "url": "//www.ledinside.com/news/2026/9/2026_09_16_06",
       "date": "2026-09-17"
@@ -207,13 +203,13 @@
     {
       "url": "https://www.cinematography.world/brompton-equips-garden-studios-expanded-virtual-production-stage-as-vp-specialist-doubles-down-on-driving-shots/",
       "date": "2026-09-22"
+    },
+    {
+      "url": "https://samsungmagazine.eu/en/2026/09/22/garmin-fenix-9-pro-microled/",
+      "date": "2026-09-23"
     }
   ],
   "SONY": [
-    {
-      "url": "https://kunkoku.jp/sel400f45gm-sel600f63gm.html",
-      "date": "2026-09-16"
-    },
     {
       "url": "https://cameota.com/sony/52217.html",
       "date": "2026-09-17"
@@ -237,13 +233,13 @@
     {
       "url": "https://sumahodigest.com/?p=71248",
       "date": "2026-09-22"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQa1Rmdk5FbzRESzVWV0E5M3NfU2JUWXNxZWViMjNWLVJlbVJCTWZDVFVHU2NKU1oxTlo5N05HYU9UVGJpbldZOWJUamFXZEx1WHpWWTItSzQ0WHFMMmMyVGp5MENuRGRqeWpDMGI2bTczQVdQdThoTFZ6aDhLUmlMLXVR?oc=5",
+      "date": "2026-09-23"
     }
   ],
   "TV": [
-    {
-      "url": "https://www.dentsu.co.jp/news/release/2026/0915-011098.html",
-      "date": "2026-09-16"
-    },
     {
       "url": "https://www.ign.com/articles/tcl-qm8l-sqd-mini-led-tv-deal",
       "date": "2026-09-17"
@@ -267,13 +263,13 @@
     {
       "url": "https://happygamer.com/gamer-removes-lg-g6-oled-wifi-antenna-data-collection-165091/",
       "date": "2026-09-22"
+    },
+    {
+      "url": "https://techlomedia.in/2026/09/adobe-premiere-finally-comes-to-android-126657/amp/",
+      "date": "2026-09-23"
     }
   ],
   "Projector": [
-    {
-      "url": "https://www.openpr.com/news/4631528/ultra-hd-laser-projector-market-forecast-to-grow-at-11-2-cagr",
-      "date": "2026-09-16"
-    },
     {
       "url": "https://www.stocktitan.net/news/SEKEY/boston-lyric-opera-blo-and-masary-turn-translation-into-living-982svuue4e3d.html",
       "date": "2026-09-17"
@@ -297,6 +293,10 @@
     {
       "url": "https://www.itmedia.co.jp/pcuser/amp/2609/22/news027.html",
       "date": "2026-09-22"
+    },
+    {
+      "url": "https://www.tipranks.com/news/the-fly/epson-introduces-home-cinema-ls5000-ls6000-ls7500-laser-projectors-thefly-news",
+      "date": "2026-09-23"
     }
   ]
 }

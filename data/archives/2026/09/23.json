@@ -1,0 +1,102 @@
+{
+  "AI": {
+    "title": "トランプ次期大統領がAIを「SI」に改称と宣言",
+    "summary": "トランプ次期米大統領は、従来の「Artificial Intelligence（AI）」という呼称が「人工的でフェイクに聞こえる」として、今後は「Super Intelligence（SI：超知能）」と呼ぶと宣言しました。この名称変更は政策やガバナンスへの影響が注目されています。",
+    "insight": "技術的な定義よりも政治的・ブランド的な命名が優先される象徴的な事案です。エンジニアとしては、呼称の変化に惑わされず、LLMやエージェントといった具体的な技術スタックとガバナンス要件の本質を見極める必要があります。",
+    "sourceUrl": "https://news.yahoo.co.jp/articles/8512839dfee0dcb9d6ccf1bf2405d15470412d8e",
+    "sourceName": "朝日新聞 (Yahoo!ニュース)",
+    "originalImageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260923-00000002-asahi-000-5-view.jpg?exp=10800",
+    "originalImageArticleUrl": "https://news.yahoo.co.jp/articles/8512839dfee0dcb9d6ccf1bf2405d15470412d8e",
+    "displayDate": "2026-09-23"
+  },
+  "SRD / XR": {
+    "title": "ARグラス、いよいよ普及期へ突入",
+    "summary": "日経クロステックが「ARグラス、ようやく離陸」と題し、ARデバイスの市場動向を報じました。特定のユースケースでの実用化が進み、デバイスの小型化・軽量化とともに一般市場への浸透が期待されるフェーズに入っています。",
+    "insight": "コンシューマー向けのARグラスは、これまでハードウェアの制約から普及に時間がかかってきましたが、いよいよソフトウェアと体験の質が追いついてきました。エンジニアとしては、単なるディスプレイの代替ではなく、現実空間とデジタル情報が自然に融合するUX/UIデザインの知見が今後より重要になります。",
+    "sourceUrl": "https://xtech.nikkei.com/atcl/nxt/mag/ne/18/00156/",
+    "sourceName": "日経クロステック",
+    "originalImageUrl": "https://xtech.nikkei.com/atcl/nxt/mag/ne/18/00156/topm.jpg?20220512",
+    "originalImageArticleUrl": "https://xtech.nikkei.com/atcl/nxt/mag/ne/18/00156/",
+    "displayDate": "2026-09-23"
+  },
+  "TV": {
+    "title": "ついにAndroid版が登場！Adobe Premiereの実力",
+    "summary": "動画編集の業界標準ソフト「Adobe Premiere」が、ついにAndroid版としてリリースされました。これまでiOSやデスクトップが先行していたモバイルでの編集環境が大きく変わり、Androidユーザーにとってのクリエイティブ・ワークフローが飛躍的に効率化されることが期待されます。",
+    "insight": "モバイルデバイスの演算能力向上とクロスプラットフォーム対応の進展により、高負荷な動画編集が手元で完結する時代になりました。エンジニアとしては、AndroidのマルチメディアAPIの進化や、クラウド同期によるデバイス間シームレスな体験の裏側にある技術的実装に注目です。",
+    "sourceUrl": "https://techlomedia.in/2026/09/adobe-premiere-finally-comes-to-android-126657/amp/",
+    "sourceName": "TechloMedia",
+    "originalImageUrl": "https://techlomedia.in/wp-content/uploads/2026/09/Adobe-premier.jpg",
+    "originalImageArticleUrl": "https://techlomedia.in/2026/09/adobe-premiere-finally-comes-to-android-126657/amp/",
+    "displayDate": "2026-09-23"
+  },
+  "TCL": {
+    "title": "TCLの最新Mini LEDテレビ：エンジニアを唸らせる画質",
+    "summary": "TCLの最新Mini LEDテレビが高い評価を獲得しています。メディアレビューではその圧倒的な画質が絶賛され、「返したくない」と評されるほどの完成度を示しており、リビングの視聴体験を大きく変えるポテンシャルを秘めています。",
+    "insight": "バックライト制御とローカルディミング技術の進化により、Mini LEDはハイエンド液晶のスタンダードになりました。エンジニア視点では、ピクセルレベルの輝度制御と階調表現のアルゴリズムが、従来のLCDの限界をどう突破しているかに注目です。",
+    "sourceUrl": "https://news.livedoor.com/article/detail/32383740/",
+    "sourceName": "ライブドアニュース",
+    "originalImageUrl": "https://image.news.livedoor.com/newsimage/stf/3/d/3dd08_1845_262d4197_cad3e3ee.jpg",
+    "originalImageArticleUrl": "https://news.livedoor.com/article/detail/32383740/",
+    "displayDate": "2026-09-23"
+  },
+  "Production Monitor": {
+    "title": "NLEにAIエージェントが参画：Eddie AI v4",
+    "summary": "映像編集向けAIツール「Eddie AI v4」がアップデート。文字起こしベースのカット編集から、Bロール挿入やモンタージュ、音楽のビートに合わせた編集など、より視覚的な作業まで自動化可能に。NLEプロジェクトに直接参画する「AIエージェント」としての実用性が向上しました。",
+    "insight": "AIエージェントが既存のNLE（編集ソフト）プロジェクトに直接アクセスする形式は、ワークフローを劇的に変える可能性を秘めています。単なる補助ツールではなく、プロジェクトの共同編集者としてAPIを通じて直接タイムラインを操作するAIの設計思想は、今後のエンジニアリング開発においても非常に参考になるアプローチです。",
+    "sourceUrl": "https://www.cined.com/eddie-ai-v4-explained-visual-b-roll-edits-reference-edits-an-agent-that-joins-your-nle-project/",
+    "sourceName": "CineD",
+    "originalImageUrl": "https://www.cined.com/content/uploads/2026/09/eddie-ai-3-300x169.jpg",
+    "originalImageArticleUrl": "https://www.cined.com/eddie-ai-v4-explained-visual-b-roll-edits-reference-edits-an-agent-that-joins-your-nle-project/",
+    "displayDate": "2026-09-23"
+  },
+  "SONY": {
+    "title": "ソニーが「真の高リフレッシュレート」モニターを市場投入",
+    "summary": "PC Gamer誌が、ソニーの最新モニターを「1000Hz表示のスクリーンを凌駕する最高の超高リフレッシュレート体験」と高く評価しました。単なるスペック上の数値競争を超えた、ソニーのディスプレイ技術における画質と応答速度の両立が注目されています。",
+    "insight": "エンジニア視点では、単にリフレッシュレートの数値を競うのではなく、描画の遅延低減や色彩の正確性といった『実効的な体験の質』への回帰が興味深いです。特にディスプレイ制御技術や信号処理アルゴリズムにおけるソニーの知見は、今後XRや産業機器用モニターの開発においても重要なベンチマークとなるでしょう。",
+    "sourceUrl": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQa1Rmdk5FbzRESzVWV0E5M3NfU2JUWXNxZWViMjNWLVJlbVJCTWZDVFVHU2NKU1oxTlo5N05HYU9UVGJpbldZOWJUamFXZEx1WHpWWTItSzQ0WHFMMmMyVGp5MENuRGRqeWpDMGI2bTczQVdQdThoTFZ6aDhLUmlMLXVR?oc=5",
+    "sourceName": "PC Gamer",
+    "originalImageUrl": null,
+    "originalImageArticleUrl": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQa1Rmdk5FbzRESzVWV0E5M3NfU2JUWXNxZWViMjNWLVJlbVJCTWZDVFVHU2NKU1oxTlo5N05HYU9UVGJpbldZOWJUamFXZEx1WHpWWTItSzQ0WHFMMmMyVGp5MENuRGRqeWpDMGI2bTczQVdQdThoTFZ6aDhLUmlMLXVR?oc=5",
+    "displayDate": "2026-09-23"
+  },
+  "Gaming Monitor": {
+    "title": "高リフレッシュレートモニターの落とし穴",
+    "summary": "新しく購入した高性能なゲーミングモニターが、実は本来のスペックで動作していないケースが多い。How-To Geekの記事では、OSやGPUの設定、接続ケーブルの規格によってリフレッシュレートが制限されている可能性を指摘。正しい性能を引き出すための確認ポイントが解説されています。",
+    "insight": "ハードウェアの性能を最大限に活かすためには、OS側のディスプレイ設定や接続端子（HDMI/DisplayPort）の帯域制限といったソフトウェア・物理レイヤーの検証が不可欠です。スペック上の数値だけでなく、パイプライン全体でボトルネックが発生していないかを常に確認する姿勢は、システムパフォーマンスの最適化に通じる重要な視点です。",
+    "sourceUrl": "https://www.howtogeek.com/your-new-high-refresh-monitor-isnt-running-at-full-speed-heres-why/",
+    "sourceName": "How-To Geek",
+    "originalImageUrl": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/wm/2026/09/gaming-monitor-1.jpg?w=1600&h=900&fit=crop",
+    "originalImageArticleUrl": "https://www.howtogeek.com/your-new-high-refresh-monitor-isnt-running-at-full-speed-heres-why/",
+    "displayDate": "2026-09-23"
+  },
+  "Projector": {
+    "title": "Epsonがホームシアター用レーザープロジェクター新モデルを発表",
+    "summary": "Epsonがホームシアター向けレーザープロジェクターの新モデル「LS5000」「LS6000」「LS7500」を発表しました。超短焦点技術を活用し、壁からわずか数インチの距離で最大150インチの大画面投影が可能です。",
+    "insight": "超短焦点プロジェクターの進化は、設置スペースの制約を物理的に解消する優れたエンジニアリングの実装例です。高輝度なレーザー光源と広角レンズの最適化により、従来のホームシアター体験がリビングなどの身近な環境にまで拡張されています。",
+    "sourceUrl": "https://www.tipranks.com/news/the-fly/epson-introduces-home-cinema-ls5000-ls6000-ls7500-laser-projectors-thefly-news",
+    "sourceName": "TipRanks",
+    "originalImageUrl": "https://blog.tipranks.com/wp-content/uploads/2022/09/shutterstock_1938746143-750x406.jpg",
+    "originalImageArticleUrl": "https://www.tipranks.com/news/the-fly/epson-introduces-home-cinema-ls5000-ls6000-ls7500-laser-projectors-thefly-news",
+    "displayDate": "2026-09-23"
+  },
+  "Camera Control": {
+    "title": "スマホで8K/60fps撮影が現実へ：Snapdragon 8 Eliteの新機能",
+    "summary": "Qualcommが発表した新SoC「Snapdragon 8 Elite Extreme Gen 6」により、スマートフォンで8K解像度かつ60fpsでの動画撮影が可能になりました。エージェントAIの統合と合わせ、スマホカメラの計算写真学は新たなフェーズに突入しています。",
+    "insight": "8K/60fpsの処理は膨大なデータ帯域と熱管理を要求するため、モバイルSoCのISP（画像処理プロセッサ）の進化が極めて重要です。エッジAIによるリアルタイムのエンコード最適化が、スマホを単なる撮影デバイスから、専門的な映像制作ツールへと変革しています。",
+    "sourceUrl": "https://petapixel.com/2026/09/22/snapdragon-8-elite-extreme-gen-6-finally-brings-8kp60-video-to-smartphones/",
+    "sourceName": "PetaPixel",
+    "originalImageUrl": "https://petapixel.com/assets/uploads/2026/09/assets_2026_09_1789671614_Snapdragon-8-Elite-Extreme-Gen-6-and-Snapdragon-8-Elite-Gen-6-Image-2-Embargo-Sep-22-10am-HT-1pm-PT.jpg",
+    "originalImageArticleUrl": "https://petapixel.com/2026/09/22/snapdragon-8-elite-extreme-gen-6-finally-brings-8kp60-video-to-smartphones/",
+    "displayDate": "2026-09-23"
+  },
+  "LED Wall Display": {
+    "title": "なぜGarminはMicroLEDを採用しなかったのか？",
+    "summary": "Garminの次期モデル『Fenix 9 Pro』にMicroLEDディスプレイが搭載されなかった理由が話題です。高輝度で省電力な次世代ディスプレイとして期待されるMicroLEDですが、ウェアラブルデバイスへの実装にはコストや製造難易度など、まだ解決すべき技術的障壁があることが示唆されています。",
+    "insight": "MicroLEDは高コントラストと高輝度を実現する次世代の本命技術ですが、特に小型モバイルデバイス向けには依然としてコストと量産歩留まりがボトルネックとなっています。エンジニアとしては、ディスプレイ単体のスペックだけでなく、駆動回路の熱管理やバックプレーンの集積化におけるトレードオフを再認識させられるトピックです。",
+    "sourceUrl": "https://samsungmagazine.eu/en/2026/09/22/garmin-fenix-9-pro-microled/",
+    "sourceName": "samsungmagazine.eu",
+    "originalImageUrl": "https://samsungmagazine.eu/wp-content/uploads/2026/09/Garmin-Fenix-9-Pro-24.jpg",
+    "originalImageArticleUrl": "https://samsungmagazine.eu/en/2026/09/22/garmin-fenix-9-pro-microled/",
+    "displayDate": "2026-09-23"
+  }
+}
