@@ -1,0 +1,102 @@
+{
+  "Gaming Monitor": {
+    "title": "「Meta VR Glasses」発表！次世代VRの衝撃",
+    "summary": "Metaが発表した新型VR HMD「Meta VR Glasses」は、ゴーグルとコンピュータ部を分離することで約100gの超軽量化を実現。メガネ感覚で装着でき、長時間利用を想定した設計で2027年春の発売が予定されています。",
+    "insight": "ハードウェアの処理ユニットを分離するアーキテクチャは、モバイルデバイスの熱設計と重量制約を打破する有力なアプローチです。VR/AR分野でのGUI最適化や、低遅延な高速通信スタックの開発において重要な先行事例となるでしょう。",
+    "sourceUrl": "https://pc.watch.impress.co.jp/docs/news/2142661.html",
+    "sourceName": "PC Watch",
+    "originalImageUrl": "https://pc.watch.impress.co.jp/img/pcw/list/2142/661/PH01.jpg",
+    "originalImageArticleUrl": "https://pc.watch.impress.co.jp/docs/news/2142661.html",
+    "displayDate": "2026-09-24"
+  },
+  "AI": {
+    "title": "メタのAI「Muse」にゼロデイ脆弱性が判明",
+    "summary": "メタが提供するAIエージェント「Muse」に、音声データや認証トークンが流出する恐れのあるゼロデイ脆弱性が発見されました。AIサービスが急速に普及する中で、セキュリティ対策の重要性が改めて問われています。",
+    "insight": "AIエージェントの普及に伴い、プロンプトインジェクション以外にも従来型の脆弱性が攻撃対象となっています。エンジニアはLLM実装において、機密データへのアクセス権限管理やサンドボックス化といったセキュリティ設計の徹底が必須です。",
+    "sourceUrl": "https://news.yahoo.co.jp/articles/6a6462a9e3a6a7d701a0644e4434563b1abb1edf",
+    "sourceName": "Yahoo!ニュース",
+    "originalImageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260924-35252881-cnetj-000-1-view.jpg?exp=10800",
+    "originalImageArticleUrl": "https://news.yahoo.co.jp/articles/6a6462a9e3a6a7d701a0644e4434563b1abb1edf",
+    "displayDate": "2026-09-24"
+  },
+  "SRD / XR": {
+    "title": "Metaが約100gの軽量VRグラスを発表、2027年春発売へ",
+    "summary": "Metaが「Meta VR Glasses」を発表。重さ約100gの超軽量ボディながら5K OLED、アイトラッキングを搭載し、Questアプリとの互換性やPC連携にも対応。IMAX認証も取得しており、エンタメと作業の両面で高い没入感を提供します。",
+    "insight": "100gという軽量化は、これまでVR普及の障壁だった装着感の問題を大きく改善する転換点になりそうです。既存のQuestアプリ資産が流用可能である点も、開発者側にとっては新規プラットフォームへの移植コストを抑えつつ市場を開拓できる魅力的な材料と言えます。",
+    "sourceUrl": "https://www.moguravr.com/meta-vr-glasses-preview/",
+    "sourceName": "Mogura VR",
+    "originalImageUrl": "https://assets.moguravr.com/uploads/2026/09/8f6c3033cc5416188325828861cc0f42-kix.1r8dx63zv5dw-300x200.webp",
+    "originalImageArticleUrl": "https://www.moguravr.com/meta-vr-glasses-preview/",
+    "displayDate": "2026-09-24"
+  },
+  "Camera Control": {
+    "title": "iPhone 18 Proのカメラレビュー：進化する制御機能",
+    "summary": "iPhone 18 Proのレビューが公開され、可変絞りや新しいマニュアル制御機能、ビデオ撮影性能の向上が注目を集めています。写真家のワークフローにどのような影響を与えるかが議論されています。",
+    "insight": "可変絞りの採用は、モバイル写真における被写界深度の物理的制御を大きく変える可能性があり、計算写真学との統合による画質最適化が今後のトレンドです。エンジニアの視点では、ハードウェア制御とリアルタイム画像処理のソフトウェアパイプラインがどのように協調しているかが注目ポイントとなります。",
+    "sourceUrl": "https://www.dpreview.com/news/iphone-18-pro-camera-reviews-are-in-heres-what-photographers-need-to-know/",
+    "sourceName": "DPReview",
+    "originalImageUrl": "https://www.dpreview.com/wp-content/uploads/2026/09/PI-Apple-iphone-18-pro-1.jpg",
+    "originalImageArticleUrl": "https://www.dpreview.com/news/iphone-18-pro-camera-reviews-are-in-heres-what-photographers-need-to-know/",
+    "displayDate": "2026-09-24"
+  },
+  "LED Wall Display": {
+    "title": "仮想制作スタジオの進化：LEDウォールの大規模化",
+    "summary": "英国のGarden Studiosが、Brompton Technologyの技術を採用しバーチャルプロダクション（VP）ステージを拡張しました。高品質なLEDウォールと最新の制御技術により、映画制作や映像コンテンツの制作現場における没入感と効率性が一段と向上しています。",
+    "insight": "VP技術において、LEDウォールのサイズ拡大と連動するリアルタイムレンダリングの同期精度は重要です。色再現性とフレームレートの安定性を担保する制御アーキテクチャの進化は、放送や映画制作のエンジニアにとって注視すべき領域です。",
+    "sourceUrl": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQcFoxbk0zcU1BNzlYTHFkbHVsZ3pPb0xHb2g1MzctLUlNT0hrYkR3aDh3SVpNS2tYTW84Wnp4andTUEg2RUx0SVJhcW1MblBsNkh2Z0FaRlVYZUgtakpmYUJFOW5yU1Y1d1RKT2FUejktWGVNOEFSWVB1cjl5YUtXSFVLcGljdmhaOTk3MnpXUTFXM19peS02bENkTUg?oc=5",
+    "sourceName": "AVNetwork",
+    "originalImageUrl": null,
+    "originalImageArticleUrl": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQcFoxbk0zcU1BNzlYTHFkbHVsZ3pPb0xHb2g1MzctLUlNT0hrYkR3aDh3SVpNS2tYTW84Wnp4andTUEg2RUx0SVJhcW1MblBsNkh2Z0FaRlVYZUgtakpmYUJFOW5yU1Y1d1RKT2FUejktWGVNOEFSWVB1cjl5YUtXSFVLcGljdmhaOTk3MnpXUTFXM19peS02bENkTUg?oc=5",
+    "displayDate": "2026-09-24"
+  },
+  "Projector": {
+    "title": "EpsonがAI搭載の新型プロジェクターを発表",
+    "summary": "Epsonから、AI技術を活用して画質を最適化するプレミアム向けプロジェクターが登場。明るさと鮮明さを追求し、高パフォーマンスなエンターテインメント環境に最適化されています。",
+    "insight": "プロジェクターの画質調整にAIが導入されることで、設置環境に合わせたリアルタイムな自動キャリブレーションがより高度化しています。ハードウェアのスペックだけでなく、ソフトウェアによる最適化が今後のAV機器開発の重要な差別化要因になるでしょう。",
+    "sourceUrl": "https://www.whathifi.com/tv-home-cinema/projectors/epsons-new-ai-powered-projectors-offer-big-bright-pictures-that-are-ideal-for-premium-media-rooms-and-high-performance-entertainment-setups",
+    "sourceName": "What Hi-Fi?",
+    "originalImageUrl": "https://cdn.mos.cms.futurecdn.net/TRkzkjBWJWDd8ZNKaL9Gvi-1280-80.jpg",
+    "originalImageArticleUrl": "https://www.whathifi.com/tv-home-cinema/projectors/epsons-new-ai-powered-projectors-offer-big-bright-pictures-that-are-ideal-for-premium-media-rooms-and-high-performance-entertainment-setups",
+    "displayDate": "2026-09-24"
+  },
+  "SONY": {
+    "title": "DRAM不足が次期α発表に影響？供給リスクへの懸念",
+    "summary": "半導体の一種であるDRAMの供給不足が、11月に予定されているソニーの次期カメラ発表計画に影響を及ぼす可能性が指摘されています。世界的な電子部品の需給バランスの変化が、製品投入スケジュールにどのような制約を与えるのか注目が集まっています。",
+    "insight": "ハードウェア製品開発において、特定の主要部品のリードタイム変動はリリース戦略のボトルネックとなる典型的なリスク事例です。エンジニアとしては、サプライチェーンの柔軟性を高めるための部品共通化や、設計段階での代替部品を見越したモジュール設計の重要性を再認識させられます。",
+    "sourceUrl": "https://www.sonyalpharumors.com/is-the-dram-shortage-going-to-kill-the-next-sony-alpha-camera-announcement-planed-for-november/amp/",
+    "sourceName": "SonyAlphaRumors",
+    "originalImageUrl": "https://www.sonyalpharumors.com/wp-content/uploads/2020/10/a9III.jpg",
+    "originalImageArticleUrl": "https://www.sonyalpharumors.com/is-the-dram-shortage-going-to-kill-the-next-sony-alpha-camera-announcement-planed-for-november/amp/",
+    "displayDate": "2026-09-24"
+  },
+  "TCL": {
+    "title": "韓国若年層でTCL製テレビが急成長中",
+    "summary": "韓国の若年層の間で、中国TCL製のテレビの人気が高まっています。これまで韓国市場は国内ブランドが支配的でしたが、高いコストパフォーマンスと機能性が評価され、若者を中心に「意外だが良い選択肢」として選ばれるケースが増えています。",
+    "insight": "低価格帯からプレミアムMini-LED製品までを展開するTCLの戦略は、価格重視の若年層層を巧みに取り込んでいます。ハードウェアの品質差が縮まる中、ブランド力よりも純粋なスペック対価格の指標が消費行動を決定づけている点は注視すべきトレンドです。",
+    "sourceUrl": "https://topics.smt.docomo.ne.jp/article/recordchina/world/recordchina-RC_993245?page=2",
+    "sourceName": "ｄメニューニュース",
+    "originalImageUrl": "https://img.topics.smt.news.goo.ne.jp/picture/recordchina/m_recordchina-RC_993245.png",
+    "originalImageArticleUrl": "https://topics.smt.docomo.ne.jp/article/recordchina/world/recordchina-RC_993245?page=2",
+    "displayDate": "2026-09-24"
+  },
+  "TV": {
+    "title": "インド当局、SamsungとLGのOLED部品輸入を調査",
+    "summary": "インド政府が、SamsungとLGのテレビ製造に関し、関税回避の疑いで調査を開始しました。両社はOLEDパネルの完成品に対する関税を避けるため、部品として輸入し現地で組み立てていたと見られており、輸入関税の分類と価格設定が焦点となっています。",
+    "insight": "ハードウェアの国際展開におけるサプライチェーンの最適化が、国境を越えた税務上のリスクを伴う好例です。エンジニアとしては、グローバル市場での製品コスト構造にはコンプライアンス上の不確実性が常につきまとうことを意識し、アーキテクチャや製造拠点の柔軟性を考慮する必要があります。",
+    "sourceUrl": "https://wmbdradio.com/2026/09/23/exclusive-lg-samsung-face-india-tariff-evasion-investigation-over-oled-tv-parts/",
+    "sourceName": "1470 & 100.3 WMBD",
+    "originalImageUrl": "https://storage.googleapis.com/media.mwcradio.com/mimesis/2026-09/23/2026-09-23T093708Z_1_LYNXMPEM8M0NM_RTROPTP_3_INDIA-TARFFS-LG-SAMSUNG.JPG",
+    "originalImageArticleUrl": "https://wmbdradio.com/2026/09/23/exclusive-lg-samsung-face-india-tariff-evasion-investigation-over-oled-tv-parts/",
+    "displayDate": "2026-09-24"
+  },
+  "Production Monitor": {
+    "title": "OpenAIがGlass Imagingを買収：次なる一手はカメラ？",
+    "summary": "OpenAIが、小型カメラの画質をAIで劇的に向上させる技術を持つGlass Imagingを買収したと報じられました。同社は元Appleエンジニアらによるスタートアップで、AIによる超解像技術に強みを持ちます。OpenAI初の独自ハードウェア開発を見据えた戦略的な動きと見られています。",
+    "insight": "センサーからの生データをソフトウェアで補正する『Computational Photography』は、ハードウェアの制約をAIが突破する極めて興味深い領域です。OpenAIの参入により、画像処理パイプラインそのものが大規模モデルによって書き換えられる時代が来るかもしれません。",
+    "sourceUrl": "https://www.cined.com/openai-reportedly-buys-glass-imaging-for-the-camera-in-its-first-hardware-device-ai-image-processing-from-an-ex-apple-team/",
+    "sourceName": "CineD",
+    "originalImageUrl": "https://www.cined.com/content/uploads/2026/09/Glass-OpenAI-300x169.jpg",
+    "originalImageArticleUrl": "https://www.cined.com/openai-reportedly-buys-glass-imaging-for-the-camera-in-its-first-hardware-device-ai-image-processing-from-an-ex-apple-team/",
+    "displayDate": "2026-09-24"
+  }
+}
