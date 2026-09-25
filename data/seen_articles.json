@@ -1,10 +1,6 @@
 {
   "Production Monitor": [
     {
-      "url": "https://www.cined.com/ibc-2026-overview-best-of-show-winners-iphone-18-pro-gets-a-variable-aperture-teradek-bolt-7-focus-check-ep134/",
-      "date": "2026-09-18"
-    },
-    {
       "url": "https://www.cined.com/blackmagic-camera-for-ios-3-5-released-iphone-18-pro-support-variable-aperture-control-prores-to-pro-video-storage/",
       "date": "2026-09-19"
     },
@@ -27,13 +23,13 @@
     {
       "url": "https://www.cined.com/openai-reportedly-buys-glass-imaging-for-the-camera-in-its-first-hardware-device-ai-image-processing-from-an-ex-apple-team/",
       "date": "2026-09-24"
+    },
+    {
+      "url": "https://www.cined.com/wood-vs-silicon-valley-a-diy-digital-bolex-openai-buys-the-portrait-mode-team-focus-check-ep135/",
+      "date": "2026-09-25"
     }
   ],
   "SRD / XR": [
-    {
-      "url": "https://xtech.nikkei.com/atcl/nxt/mag/ne/18/00156/00002/",
-      "date": "2026-09-18"
-    },
     {
       "url": "https://finance.biggo.jp/news/d6f649d6-81cf-4e53-880f-d8066611454b",
       "date": "2026-09-19"
@@ -57,13 +53,13 @@
     {
       "url": "https://www.moguravr.com/meta-vr-glasses-preview/",
       "date": "2026-09-24"
+    },
+    {
+      "url": "https://metacul-frontier.com/?p=37866",
+      "date": "2026-09-25"
     }
   ],
   "AI": [
-    {
-      "url": "https://www.jst.go.jp/crds/column/kaisetsu/shortreport6.html",
-      "date": "2026-09-18"
-    },
     {
       "url": "https://www.gov.ca.gov/2026/09/18/governor-newsom-issues-executive-order-to-accelerate-independent-oversight-and-advance-the-creation-of-an-ai-kill-switch/",
       "date": "2026-09-19"
@@ -87,13 +83,13 @@
     {
       "url": "https://news.yahoo.co.jp/articles/6a6462a9e3a6a7d701a0644e4434563b1abb1edf",
       "date": "2026-09-24"
+    },
+    {
+      "url": "https://www.nytimes.com/2026/09/24/science/anthropic-biology-lab-enzyme.html",
+      "date": "2026-09-25"
     }
   ],
   "Gaming Monitor": [
-    {
-      "url": "https://www.pcguide.com/deals/dual-mode-4k-fhd-120hz-240hz-32-inch-monitor-is-100-cheaper-in-limited-time-amazon-deal/",
-      "date": "2026-09-18"
-    },
     {
       "url": "https://www.pcworld.com/article/3128871/your-monitor-says-it-has-hdr-that-might-not-mean-much.html",
       "date": "2026-09-19"
@@ -117,13 +113,13 @@
     {
       "url": "https://pc.watch.impress.co.jp/docs/news/2142661.html",
       "date": "2026-09-24"
+    },
+    {
+      "url": "https://www.techpowerup.com/353066/msi-mag-271kpd7-27-inch-5k-dual-mode-gaming-monitor-launches-in-japan?amp",
+      "date": "2026-09-25"
     }
   ],
   "TCL": [
-    {
-      "url": "https://ghanaiantimes.com.gh/tcl-unveils-2026-consumer-electronics-smart-home-innovations/",
-      "date": "2026-09-18"
-    },
     {
       "url": "https://www.gizmodo.jp/article/2609-tcl-nxtpaper-amoled-p80-pro-ultra/",
       "date": "2026-09-19"
@@ -147,13 +143,13 @@
     {
       "url": "https://topics.smt.docomo.ne.jp/article/recordchina/world/recordchina-RC_993245?page=2",
       "date": "2026-09-24"
+    },
+    {
+      "url": "https://www.androidpolice.com/tcls-85-inch-google-tv-a-massive-upgrade-more-affordable/",
+      "date": "2026-09-25"
     }
   ],
   "Camera Control": [
-    {
-      "url": "https://petapixel.com/2026/09/17/openai-reportedly-buys-photo-processing-company-glass-imaging-for-300-million/",
-      "date": "2026-09-18"
-    },
     {
       "url": "https://petapixel.com/2026/09/18/photographers-outraged-after-heavily-ai-edited-image-wins-state-fair-photo-competition/",
       "date": "2026-09-19"
@@ -177,13 +173,13 @@
     {
       "url": "https://www.dpreview.com/news/iphone-18-pro-camera-reviews-are-in-heres-what-photographers-need-to-know/",
       "date": "2026-09-24"
+    },
+    {
+      "url": "https://petapixel.com/2026/09/24/are-we-out-of-touch-the-petapixel-podcast/",
+      "date": "2026-09-25"
     }
   ],
   "LED Wall Display": [
-    {
-      "url": "https://www.digitalsignagetoday.com/news/mobile-digital-sign-hacked-in-toronto/",
-      "date": "2026-09-18"
-    },
     {
       "url": "//www.ledinside.com/news/2026/9/2026_09_17_08",
       "date": "2026-09-19"
@@ -207,13 +203,13 @@
     {
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQcFoxbk0zcU1BNzlYTHFkbHVsZ3pPb0xHb2g1MzctLUlNT0hrYkR3aDh3SVpNS2tYTW84Wnp4andTUEg2RUx0SVJhcW1MblBsNkh2Z0FaRlVYZUgtakpmYUJFOW5yU1Y1d1RKT2FUejktWGVNOEFSWVB1cjl5YUtXSFVLcGljdmhaOTk3MnpXUTFXM19peS02bENkTUg?oc=5",
       "date": "2026-09-24"
+    },
+    {
+      "url": "//www.ledinside.com/news/2026/9/2026_09_24_04",
+      "date": "2026-09-25"
     }
   ],
   "SONY": [
-    {
-      "url": "https://cameota.com/sony/52217.html",
-      "date": "2026-09-18"
-    },
     {
       "url": "https://www.chiba-tv.com/plus/detail/2026092024182",
       "date": "2026-09-19"
@@ -237,13 +233,13 @@
     {
       "url": "https://www.sonyalpharumors.com/is-the-dram-shortage-going-to-kill-the-next-sony-alpha-camera-announcement-planed-for-november/amp/",
       "date": "2026-09-24"
+    },
+    {
+      "url": "https://cameota.com/sony/52295.html",
+      "date": "2026-09-25"
     }
   ],
   "TV": [
-    {
-      "url": "https://www.syracuse.com/shopping/2026/09/oled-vs-qled-which-tv-picture-tech-looks-best-for-nfl-games-this-season.html",
-      "date": "2026-09-18"
-    },
     {
       "url": "https://news.yahoo.co.jp/articles/c4de8388df17d28c4820e6d7495a21afdf4a348b",
       "date": "2026-09-19"
@@ -267,13 +263,13 @@
     {
       "url": "https://wmbdradio.com/2026/09/23/exclusive-lg-samsung-face-india-tariff-evasion-investigation-over-oled-tv-parts/",
       "date": "2026-09-24"
+    },
+    {
+      "url": "https://www.famitsu.com/article/202609/89089",
+      "date": "2026-09-25"
     }
   ],
   "Projector": [
-    {
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPM2RDSkYzQTU3MTRvaUZxcHRWaFVmdnVyRWNmUDBfUzVmc0ZoVjJWTE50SEtCT1diSHNBSEdFTEVOTUtzTkcxeGdJZ1M1UFBTdnljcURvblJ3dU5BT1BWWGV1QkhfOUxzODNhWTdaYnctZklzSGh4OXRhSzdoVXZLTHdrMHZQWTBSbHBHTkpyMjdBZ0U?oc=5",
-      "date": "2026-09-18"
-    },
     {
       "url": "https://news.livedoor.com/pr_topics/detail/32360614/",
       "date": "2026-09-19"
@@ -297,6 +293,10 @@
     {
       "url": "https://www.whathifi.com/tv-home-cinema/projectors/epsons-new-ai-powered-projectors-offer-big-bright-pictures-that-are-ideal-for-premium-media-rooms-and-high-performance-entertainment-setups",
       "date": "2026-09-24"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNaUZwenA3S3h2b19jZzJVa3ZHaHlnR1pXLVBtU3Y0Ry1kTVlybGZFSDFjaFVLY2Y5dHRqcXBJYzFBVWNrejZOclQzRjNab2hqSFlKNFY2SlBOV0xDZHdnNmxFdnRTRHJGUDF3TlpTVTh3bWE3WHRxU2ptZmJTU24wU3JCdm1LbGNDaDNwSjVXcVZMVXJKdVNjRTdldEd4b1dpTlE?oc=5",
+      "date": "2026-09-25"
     }
   ]
 }

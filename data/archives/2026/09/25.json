@@ -1,0 +1,102 @@
+{
+  "SRD / XR": {
+    "title": "Metaが約100gの超軽量VRグラスを発表、Unity対応も決定",
+    "summary": "Metaが開発中の次世代VRグラスが公開されました。約100gという驚異的な軽量さとスタンドアローン動作を実現しており、2027年春の発売を予定しています。また、Unityによるサポートも表明され、開発者は既存のQuestタイトルや新規体験をこのデバイスへ展開可能となります。",
+    "insight": "100gという軽量化はVRの長時間利用における物理的制約を大きく改善する可能性があり、UI/UX設計の幅を広げます。Unityが初期段階からサポートすることで、開発者エコシステムがQuestからシームレスに移行できる点は、プラットフォームの普及において強力な追い風となるでしょう。",
+    "sourceUrl": "https://metacul-frontier.com/?p=37866",
+    "sourceName": "メタカル最前線",
+    "originalImageUrl": "https://metacul-frontier.com/wp-content/uploads/2026/09/Meta_VR_Glasses_ProductShot_16x9-1.png",
+    "originalImageArticleUrl": "https://metacul-frontier.com/?p=37866",
+    "displayDate": "2026-09-25"
+  },
+  "AI": {
+    "title": "AnthropicのAIが生物学で新たな科学的発見を達成",
+    "summary": "AnthropicのAIが生物学の複雑な問題を自律的に学習し、科学的な新発見に成功しました。AIが単なる言語処理ツールを超え、専門的な科学領域で未知の発見を導き出す新たなフェーズに突入していることが注目されています。",
+    "insight": "LLMが科学的発見の強力なエージェントとなり得ることを示しており、特にドメイン特化型推論能力の向上はエンジニアにとって重要な知見です。今後、AIを「生成ツール」としてだけでなく「実験的パートナー」としてどうパイプラインに組み込むかが鍵となります。",
+    "sourceUrl": "https://www.nytimes.com/2026/09/24/science/anthropic-biology-lab-enzyme.html",
+    "sourceName": "The New York Times",
+    "originalImageUrl": "https://static01.nyt.com/images/2026/09/23/science/23SCI-ANTHROPIC-ENZYME/23SCI-ANTHROPIC-ENZYME-facebookJumbo.jpg",
+    "originalImageArticleUrl": "https://www.nytimes.com/2026/09/24/science/anthropic-biology-lab-enzyme.html",
+    "displayDate": "2026-09-25"
+  },
+  "TCL": {
+    "title": "TCLの85インチQD-Mini LEDが大幅値下げ",
+    "summary": "TCLが85インチの大画面Google TV「QD-Mini LED」モデルの大幅な値下げを発表しました。高画質かつ高コントラストを実現するMini LED技術を搭載し、大型ディスプレイ市場におけるコストパフォーマンスをさらに押し上げています。",
+    "insight": "コンシューマー向けディスプレイにおけるMini LED技術の価格低下が加速しており、高輝度・高精細な表示が身近な存在になっています。エンジニアリングの観点からは、こうしたパネルのハードウェア進化が、UI/UXデザインや映像出力における開発環境の基準をどう変えていくか注目です。",
+    "sourceUrl": "https://www.androidpolice.com/tcls-85-inch-google-tv-a-massive-upgrade-more-affordable/",
+    "sourceName": "Android Police",
+    "originalImageUrl": "https://static0.anpoimages.com/wordpress/wp-content/uploads/2026/09/copy-of-169-1-10.jpg?w=1600&h=900&fit=crop",
+    "originalImageArticleUrl": "https://www.androidpolice.com/tcls-85-inch-google-tv-a-massive-upgrade-more-affordable/",
+    "displayDate": "2026-09-25"
+  },
+  "Gaming Monitor": {
+    "title": "MSIから27インチ5Kデュアルモードモニターが登場",
+    "summary": "MSIのゲーミングモニター「MAG 271KPD7」が日本市場で発売されました。本製品は5K解像度に対応し、用途に応じてリフレッシュレートや解像度を切り替えられる「デュアルモード」機能を備えた最新モデルです。",
+    "insight": "「デュアルモード」モニターは、高解像度による作業効率と高リフレッシュレートによるゲーミング体験を一台で両立させる現在のトレンドです。開発者の作業環境においても、クリエイティブワークと動作検証をシームレスに切り替えるための強力な選択肢になり得ます。",
+    "sourceUrl": "https://www.techpowerup.com/353066/msi-mag-271kpd7-27-inch-5k-dual-mode-gaming-monitor-launches-in-japan?amp",
+    "sourceName": "TechPowerUp",
+    "originalImageUrl": "https://www.techpowerup.com/img/0qz0Be8wCKygs5Ip.jpg",
+    "originalImageArticleUrl": "https://www.techpowerup.com/353066/msi-mag-271kpd7-27-inch-5k-dual-mode-gaming-monitor-launches-in-japan?amp",
+    "displayDate": "2026-09-25"
+  },
+  "SONY": {
+    "title": "ソニーα7S IV発表延期の噂、メモリ不足が影響か",
+    "summary": "2026年年末の新型α発表が期待されていた中、メモリ不足の影響により「α7S IV」の発表が延期される可能性があるとの報道がなされました。市場でのαシリーズの好調さと比較し、今後の供給体制が注目されています。",
+    "insight": "コンシューマー向け製品においても、半導体やメモリの供給制約が製品ライフサイクルに直結している事例です。ファームウェアやハードウェアの最適化設計だけでなく、サプライチェーンを考慮した製品開発スケジュールの重要性が改めて浮き彫りになっています。",
+    "sourceUrl": "https://cameota.com/sony/52295.html",
+    "sourceName": "CAMEOTA.com",
+    "originalImageUrl": "https://cameota.com/wp-content/uploads/2026/09/FX5-1.jpg",
+    "originalImageArticleUrl": "https://cameota.com/sony/52295.html",
+    "displayDate": "2026-09-25"
+  },
+  "TV": {
+    "title": "「SEKIRO」TVアニメ化決定！2027年1月放送",
+    "summary": "フロム・ソフトウェアの人気アクションゲーム『SEKIRO: SHADOWS DIE TWICE』のTVアニメ化が決定しました。劇場版のストーリーをベースにしつつ、新規エピソードやカットを追加して全8話で再構築されます。2027年1月の放送開始に向け、ファンからは大きな期待が寄せられています。",
+    "insight": "ゲームタイトルのアニメ化では、既存の映像素材や物語をいかにメディアミックスとして最適化するかが重要です。エンジニア視点で見ても、レンダリングやアセット再利用の効率化が、高クオリティな演出と開発コストのバランスを支える鍵となります。",
+    "sourceUrl": "https://www.famitsu.com/article/202609/89089",
+    "sourceName": "famitsu.com",
+    "originalImageUrl": "https://cimg.kgl-systems.io/camion/files/89089/thumbnail_jSKm.jpg?x=1280",
+    "originalImageArticleUrl": "https://www.famitsu.com/article/202609/89089",
+    "displayDate": "2026-09-25"
+  },
+  "LED Wall Display": {
+    "title": "次世代の極小ピクセル：28nm CMOS採用のフルカラーMicrodisplay",
+    "summary": "Fraunhofer IPMSが、28nm CMOSプロセスを用いた高効率で超高精細なフルカラーOLEDマイクロディスプレイを開発しました。720x540ピクセルの解像度を実現し、次世代のウェアラブルデバイスやAR/VR体験のさらなる高精細化を牽引する技術として注目されています。",
+    "insight": "28nmプロセスへの微細化は、高画質化だけでなく消費電力の低減と実装面積の削減を両立させるため、特にバッテリー制約のあるXRデバイス向けに非常に強力なソリューションとなります。今後、ディスプレイの駆動回路とロジック回路の統合が進むことで、より複雑なエッジAI処理がディスプレイ自体で行われる未来が期待されます。",
+    "sourceUrl": "//www.ledinside.com/news/2026/9/2026_09_24_04",
+    "sourceName": "LEDinside",
+    "originalImageUrl": null,
+    "originalImageArticleUrl": "//www.ledinside.com/news/2026/9/2026_09_24_04",
+    "displayDate": "2026-09-25"
+  },
+  "Projector": {
+    "title": "最大5000ルーメン！Dangbeiの新型4Kプロジェクター",
+    "summary": "Dangbeiより、5,000 ISOルーメンの高輝度と240Hzのリフレッシュレートに対応した4Kレーザープロジェクター「X9 Max」が登場しました。圧倒的な輝度とゲーミング性能を両立したハイエンドモデルです。",
+    "insight": "高輝度と高リフレッシュレートの両立は、プロジェクターのゲーミング利用における新たなマイルストーンです。高ルーメン出力の光学設計と低遅延処理の両立は、ハードウェアエンジニアリングの観点からも注目に値します。",
+    "sourceUrl": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNaUZwenA3S3h2b19jZzJVa3ZHaHlnR1pXLVBtU3Y0Ry1kTVlybGZFSDFjaFVLY2Y5dHRqcXBJYzFBVWNrejZOclQzRjNab2hqSFlKNFY2SlBOV0xDZHdnNmxFdnRTRHJGUDF3TlpTVTh3bWE3WHRxU2ptZmJTU24wU3JCdm1LbGNDaDNwSjVXcVZMVXJKdVNjRTdldEd4b1dpTlE?oc=5",
+    "sourceName": "Gizmochina",
+    "originalImageUrl": null,
+    "originalImageArticleUrl": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNaUZwenA3S3h2b19jZzJVa3ZHaHlnR1pXLVBtU3Y0Ry1kTVlybGZFSDFjaFVLY2Y5dHRqcXBJYzFBVWNrejZOclQzRjNab2hqSFlKNFY2SlBOV0xDZHdnNmxFdnRTRHJGUDF3TlpTVTh3bWE3WHRxU2ptZmJTU24wU3JCdm1LbGNDaDNwSjVXcVZMVXJKdVNjRTdldEd4b1dpTlE?oc=5",
+    "displayDate": "2026-09-25"
+  },
+  "Camera Control": {
+    "title": "カメラメーカーはスマホ世代を理解できているか？",
+    "summary": "PetaPixelのポッドキャストで、現代のカメラブランドが「スマートフォン世代」のニーズを正しく捉えられていないのではないかという議論が交わされました。既存のハードウェア重視の戦略が若年層に響いているか、という鋭い問いかけです。",
+    "insight": "カメラのハードウェア性能が飽和する中、UXやソフトウェア体験がブランド価値を左右する時代になっています。ソフトウェアエンジニアの視点では、単なるスペック競争ではなく、ワークフローや統合的な体験設計にこそ技術的差別化の余地があると言えます。",
+    "sourceUrl": "https://petapixel.com/2026/09/24/are-we-out-of-touch-the-petapixel-podcast/",
+    "sourceName": "PetaPixel",
+    "originalImageUrl": "https://petapixel.com/assets/uploads/2026/09/podcast-thumb-NEW-1600x840.jpg",
+    "originalImageArticleUrl": "https://petapixel.com/2026/09/24/are-we-out-of-touch-the-petapixel-podcast/",
+    "displayDate": "2026-09-25"
+  },
+  "Production Monitor": {
+    "title": "OpenAIが画像処理技術を買収、AIとハードウェアの融合が加速",
+    "summary": "OpenAIがiPhoneのポートレートモード開発チームを擁するGlass Imagingを買収しました。一方で、Raspberry Piを組み込んだDIYカメラを自作する動きもあり、テック巨人がカメラ機能のソフトウェア層を飲み込むトレンドと、個人のハードウェア構築の対比が注目されています。",
+    "insight": "AIモデルをエッジデバイスに最適化するための「画像処理アルゴリズムの買収」は、今後のハードウェア戦略において重要な意味を持ちます。エンジニアとしては、単なるモデル推論だけでなく、ハードウェアの制約下でのISP（画像信号処理）のAI化という境界領域に注目すべきです。",
+    "sourceUrl": "https://www.cined.com/wood-vs-silicon-valley-a-diy-digital-bolex-openai-buys-the-portrait-mode-team-focus-check-ep135/",
+    "sourceName": "CineD",
+    "originalImageUrl": "https://www.cined.com/content/uploads/2026/09/Focus-Check-ep135-featured_s-300x169.jpg",
+    "originalImageArticleUrl": "https://www.cined.com/wood-vs-silicon-valley-a-diy-digital-bolex-openai-buys-the-portrait-mode-team-focus-check-ep135/",
+    "displayDate": "2026-09-25"
+  }
+}
