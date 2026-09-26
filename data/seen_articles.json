@@ -1,10 +1,6 @@
 {
   "Production Monitor": [
     {
-      "url": "https://www.cined.com/blackmagic-camera-for-ios-3-5-released-iphone-18-pro-support-variable-aperture-control-prores-to-pro-video-storage/",
-      "date": "2026-09-19"
-    },
-    {
       "url": "https://www.cined.com/dji-sdr-transmission-2-launched-dci-4k60-10-bit-hdr-switchable-tx-rx-transceivers-4km-range/",
       "date": "2026-09-20"
     },
@@ -27,13 +23,13 @@
     {
       "url": "https://www.cined.com/wood-vs-silicon-valley-a-diy-digital-bolex-openai-buys-the-portrait-mode-team-focus-check-ep135/",
       "date": "2026-09-25"
+    },
+    {
+      "url": "https://www.cined.com/smallrig-x-cined-orbrella-crowdfunding-now-live-60w-bi-color-soft-light-foldable-15-second-setup/",
+      "date": "2026-09-26"
     }
   ],
   "SRD / XR": [
-    {
-      "url": "https://finance.biggo.jp/news/d6f649d6-81cf-4e53-880f-d8066611454b",
-      "date": "2026-09-19"
-    },
     {
       "url": "https://thebridge.jp/2026/09/snap-specs-ar-glasses-2195-preorder",
       "date": "2026-09-20"
@@ -57,13 +53,13 @@
     {
       "url": "https://metacul-frontier.com/?p=37866",
       "date": "2026-09-25"
+    },
+    {
+      "url": "https://news.yahoo.co.jp/articles/2bede61291ebaa973fa2386d6f58e49f8f0b3d21",
+      "date": "2026-09-26"
     }
   ],
   "AI": [
-    {
-      "url": "https://www.gov.ca.gov/2026/09/18/governor-newsom-issues-executive-order-to-accelerate-independent-oversight-and-advance-the-creation-of-an-ai-kill-switch/",
-      "date": "2026-09-19"
-    },
     {
       "url": "https://news.yahoo.co.jp/articles/092a3d88bc5e4129c507288fc117159b8f236d45",
       "date": "2026-09-20"
@@ -87,13 +83,13 @@
     {
       "url": "https://www.nytimes.com/2026/09/24/science/anthropic-biology-lab-enzyme.html",
       "date": "2026-09-25"
+    },
+    {
+      "url": "https://www.nytimes.com/2026/09/25/technology/openai-hugging-face-hack.html",
+      "date": "2026-09-26"
     }
   ],
   "Gaming Monitor": [
-    {
-      "url": "https://www.pcworld.com/article/3128871/your-monitor-says-it-has-hdr-that-might-not-mean-much.html",
-      "date": "2026-09-19"
-    },
     {
       "url": "https://www.bgr.com/2259362/reasons-regret-buying-oled-monitor/",
       "date": "2026-09-20"
@@ -117,13 +113,13 @@
     {
       "url": "https://www.techpowerup.com/353066/msi-mag-271kpd7-27-inch-5k-dual-mode-gaming-monitor-launches-in-japan?amp",
       "date": "2026-09-25"
+    },
+    {
+      "url": "https://www.kitguru.net/peripherals/monitors/joao-silva/lg-starts-mass-production-of-720hz-gaming-oled-panel/",
+      "date": "2026-09-26"
     }
   ],
   "TCL": [
-    {
-      "url": "https://www.gizmodo.jp/article/2609-tcl-nxtpaper-amoled-p80-pro-ultra/",
-      "date": "2026-09-19"
-    },
     {
       "url": "https://www.sammyfans.com/2026/09/18/samsung-challenges-three-csot-oled-patents-in-the-us/",
       "date": "2026-09-20"
@@ -147,13 +143,13 @@
     {
       "url": "https://www.androidpolice.com/tcls-85-inch-google-tv-a-massive-upgrade-more-affordable/",
       "date": "2026-09-25"
+    },
+    {
+      "url": "https://www.wftv.com/news/local/tcl-a400u-adds-mini-led-144hz-gaming-its-art-tv-lineup/FF5MVDCHPBBUTNOM5CSGN7GNHU/",
+      "date": "2026-09-26"
     }
   ],
   "Camera Control": [
-    {
-      "url": "https://petapixel.com/2026/09/18/photographers-outraged-after-heavily-ai-edited-image-wins-state-fair-photo-competition/",
-      "date": "2026-09-19"
-    },
     {
       "url": "https://petapixel.com/2026/09/19/apple-explains-why-the-iphone-18-pro-has-a-variable-aperture/",
       "date": "2026-09-20"
@@ -177,13 +173,13 @@
     {
       "url": "https://petapixel.com/2026/09/24/are-we-out-of-touch-the-petapixel-podcast/",
       "date": "2026-09-25"
+    },
+    {
+      "url": "https://petapixel.com/2026/09/25/you-can-edit-your-photos-with-lightroom-and-photoshop-inside-google-gemini/",
+      "date": "2026-09-26"
     }
   ],
   "LED Wall Display": [
-    {
-      "url": "//www.ledinside.com/news/2026/9/2026_09_17_08",
-      "date": "2026-09-19"
-    },
     {
       "url": "//www.ledinside.com/news/2026/9/2026_09_17_02",
       "date": "2026-09-20"
@@ -207,13 +203,13 @@
     {
       "url": "//www.ledinside.com/news/2026/9/2026_09_24_04",
       "date": "2026-09-25"
+    },
+    {
+      "url": "https://www.installation-international.com/case-studies/aja-colorbox-delivers-display-colour-matching-for-large-scale-live-event",
+      "date": "2026-09-26"
     }
   ],
   "SONY": [
-    {
-      "url": "https://www.chiba-tv.com/plus/detail/2026092024182",
-      "date": "2026-09-19"
-    },
     {
       "url": "https://www.gdm.or.jp/crew/2026/0919/653186",
       "date": "2026-09-20"
@@ -237,13 +233,13 @@
     {
       "url": "https://cameota.com/sony/52295.html",
       "date": "2026-09-25"
+    },
+    {
+      "url": "https://asobinet.com/sony-registers-unannounced-camera-ww261362-with-an-overseas-certification-body/",
+      "date": "2026-09-26"
     }
   ],
   "TV": [
-    {
-      "url": "https://news.yahoo.co.jp/articles/c4de8388df17d28c4820e6d7495a21afdf4a348b",
-      "date": "2026-09-19"
-    },
     {
       "url": "https://www.bgr.com/2259362/reasons-regret-buying-oled-monitor/",
       "date": "2026-09-20"
@@ -267,13 +263,13 @@
     {
       "url": "https://www.famitsu.com/article/202609/89089",
       "date": "2026-09-25"
+    },
+    {
+      "url": "https://www.ign.com/articles/roku-pro-series-4k-oled-tv-deal",
+      "date": "2026-09-26"
     }
   ],
   "Projector": [
-    {
-      "url": "https://news.livedoor.com/pr_topics/detail/32360614/",
-      "date": "2026-09-19"
-    },
     {
       "url": "https://mantan-web.jp/prtimes/article/20260919prt00m200000040a/photopage/001.html",
       "date": "2026-09-20"
@@ -297,6 +293,10 @@
     {
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNaUZwenA3S3h2b19jZzJVa3ZHaHlnR1pXLVBtU3Y0Ry1kTVlybGZFSDFjaFVLY2Y5dHRqcXBJYzFBVWNrejZOclQzRjNab2hqSFlKNFY2SlBOV0xDZHdnNmxFdnRTRHJGUDF3TlpTVTh3bWE3WHRxU2ptZmJTU24wU3JCdm1LbGNDaDNwSjVXcVZMVXJKdVNjRTdldEd4b1dpTlE?oc=5",
       "date": "2026-09-25"
+    },
+    {
+      "url": "https://av.watch.impress.co.jp/docs/news/2143343.html",
+      "date": "2026-09-26"
     }
   ]
 }
