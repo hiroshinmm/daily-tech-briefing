@@ -1,10 +1,6 @@
 {
   "Production Monitor": [
     {
-      "url": "https://www.cined.com/dji-sdr-transmission-2-launched-dci-4k60-10-bit-hdr-switchable-tx-rx-transceivers-4km-range/",
-      "date": "2026-09-20"
-    },
-    {
       "url": "https://www.provideocoalition.com/are-you-heading-to-the-post-atlanta-conference/",
       "date": "2026-09-21"
     },
@@ -27,13 +23,13 @@
     {
       "url": "https://www.cined.com/smallrig-x-cined-orbrella-crowdfunding-now-live-60w-bi-color-soft-light-foldable-15-second-setup/",
       "date": "2026-09-26"
+    },
+    {
+      "url": "https://www.newsshooter.com/2026/09/25/sonnet-solo10g-t5/?utm_source=rss&utm_medium=rss&utm_campaign=sonnet-solo10g-t5",
+      "date": "2026-09-27"
     }
   ],
   "SRD / XR": [
-    {
-      "url": "https://thebridge.jp/2026/09/snap-specs-ar-glasses-2195-preorder",
-      "date": "2026-09-20"
-    },
     {
       "url": "https://xtech.nikkei.com/atcl/nxt/mag/ne/18/00156/",
       "date": "2026-09-21"
@@ -57,13 +53,13 @@
     {
       "url": "https://news.yahoo.co.jp/articles/2bede61291ebaa973fa2386d6f58e49f8f0b3d21",
       "date": "2026-09-26"
+    },
+    {
+      "url": "https://news.yahoo.co.jp/articles/530f3d02954639f24626f08c7c5189005ef8fdb5",
+      "date": "2026-09-27"
     }
   ],
   "AI": [
-    {
-      "url": "https://news.yahoo.co.jp/articles/092a3d88bc5e4129c507288fc117159b8f236d45",
-      "date": "2026-09-20"
-    },
     {
       "url": "https://www.itmedia.co.jp/aiplus/article/2609/20/2000001664/",
       "date": "2026-09-21"
@@ -87,13 +83,13 @@
     {
       "url": "https://www.nytimes.com/2026/09/25/technology/openai-hugging-face-hack.html",
       "date": "2026-09-26"
+    },
+    {
+      "url": "https://www.nikkei.com/article/DGXZQOCB262EY0W6A920C2000000/",
+      "date": "2026-09-27"
     }
   ],
   "Gaming Monitor": [
-    {
-      "url": "https://www.bgr.com/2259362/reasons-regret-buying-oled-monitor/",
-      "date": "2026-09-20"
-    },
     {
       "url": "https://www.gizmochina.com/2026/09/20/aoc-agon-ag277qsd-gaming-monitor-launched-specs-price/",
       "date": "2026-09-21"
@@ -117,13 +113,13 @@
     {
       "url": "https://www.kitguru.net/peripherals/monitors/joao-silva/lg-starts-mass-production-of-720hz-gaming-oled-panel/",
       "date": "2026-09-26"
+    },
+    {
+      "url": "https://xiaomitoday.com/msi-launches-pro-max-271qpx14g-qd-oled-monitor-with-144hz-refresh-rate/",
+      "date": "2026-09-27"
     }
   ],
   "TCL": [
-    {
-      "url": "https://www.sammyfans.com/2026/09/18/samsung-challenges-three-csot-oled-patents-in-the-us/",
-      "date": "2026-09-20"
-    },
     {
       "url": "https://www.megabites.com.ph/the-future-beyond-oled-tcl-sqd-mini-led-raises-the-bar-for-premium-picture-quality/",
       "date": "2026-09-21"
@@ -147,13 +143,13 @@
     {
       "url": "https://www.wftv.com/news/local/tcl-a400u-adds-mini-led-144hz-gaming-its-art-tv-lineup/FF5MVDCHPBBUTNOM5CSGN7GNHU/",
       "date": "2026-09-26"
+    },
+    {
+      "url": "https://www.latestly.com/business/tcl-sues-samsung-over-alleged-false-mini-led-tv-advertising-in-us-court-7621959.html",
+      "date": "2026-09-27"
     }
   ],
   "Camera Control": [
-    {
-      "url": "https://petapixel.com/2026/09/19/apple-explains-why-the-iphone-18-pro-has-a-variable-aperture/",
-      "date": "2026-09-20"
-    },
     {
       "url": "https://dc.watch.impress.co.jp/docs/news/2142480.html",
       "date": "2026-09-21"
@@ -177,13 +173,13 @@
     {
       "url": "https://petapixel.com/2026/09/25/you-can-edit-your-photos-with-lightroom-and-photoshop-inside-google-gemini/",
       "date": "2026-09-26"
+    },
+    {
+      "url": "https://petapixel.com/2026/09/26/thanks-to-nikon-canons-closed-rf-mount-could-be-forced-open/",
+      "date": "2026-09-27"
     }
   ],
   "LED Wall Display": [
-    {
-      "url": "//www.ledinside.com/news/2026/9/2026_09_17_02",
-      "date": "2026-09-20"
-    },
     {
       "url": "//www.ledinside.com/news/2026/9/2026_09_17_01",
       "date": "2026-09-21"
@@ -207,13 +203,13 @@
     {
       "url": "https://www.installation-international.com/case-studies/aja-colorbox-delivers-display-colour-matching-for-large-scale-live-event",
       "date": "2026-09-26"
+    },
+    {
+      "url": "//www.ledinside.com/news/2026/9/2026_09_24_02",
+      "date": "2026-09-27"
     }
   ],
   "SONY": [
-    {
-      "url": "https://www.gdm.or.jp/crew/2026/0919/653186",
-      "date": "2026-09-20"
-    },
     {
       "url": "https://www.gdm.or.jp/crew/2026/0919/653186",
       "date": "2026-09-21"
@@ -237,13 +233,13 @@
     {
       "url": "https://asobinet.com/sony-registers-unannounced-camera-ww261362-with-an-overseas-certification-body/",
       "date": "2026-09-26"
+    },
+    {
+      "url": "https://www.nikkei.com/article/DGXZQOUC201W00Q6A920C2000000/",
+      "date": "2026-09-27"
     }
   ],
   "TV": [
-    {
-      "url": "https://www.bgr.com/2259362/reasons-regret-buying-oled-monitor/",
-      "date": "2026-09-20"
-    },
     {
       "url": "https://www.goal.com/jp/%E3%83%AA%E3%82%B9%E3%83%88/asian-games-2026-all-broadcast-tv-guide/blt0bbb9364547918f2",
       "date": "2026-09-21"
@@ -267,13 +263,13 @@
     {
       "url": "https://www.ign.com/articles/roku-pro-series-4k-oled-tv-deal",
       "date": "2026-09-26"
+    },
+    {
+      "url": "https://www.ntv.co.jp/topics/articles/19f7pyed1ftz8qb0ql.html",
+      "date": "2026-09-27"
     }
   ],
   "Projector": [
-    {
-      "url": "https://mantan-web.jp/prtimes/article/20260919prt00m200000040a/photopage/001.html",
-      "date": "2026-09-20"
-    },
     {
       "url": "https://www.tv-tokyo.co.jp/plus/external-pr/entry/250090.html",
       "date": "2026-09-21"
@@ -297,6 +293,10 @@
     {
       "url": "https://av.watch.impress.co.jp/docs/news/2143343.html",
       "date": "2026-09-26"
+    },
+    {
+      "url": "https://mantan-web.jp/prtimes/article/20260925prt00m200001150a/photopage/001.html",
+      "date": "2026-09-27"
     }
   ]
 }

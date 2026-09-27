@@ -1,0 +1,102 @@
+{
+  "SRD / XR": {
+    "title": "Metaの「100g軽量VRグラス」が示すポストPCの未来",
+    "summary": "Metaが開発中の100gのVRグラスを巡り、AppleやGoogleらテック巨人が目指す「次のPC」の条件を考察。長時間装着可能な軽さとAI統合が、XRデバイスを日常ツールへ変える鍵になると予測されています。",
+    "insight": "デバイスの軽量化は、単なるハードウェアの進化を超え、日常的なコンピューティング・プラットフォームへの転換を意味します。エンジニアとしては、このフォームファクタで動作するAI推論の最適化や、空間UI設計のUXパラダイムシフトに注目すべきです。",
+    "sourceUrl": "https://news.yahoo.co.jp/articles/530f3d02954639f24626f08c7c5189005ef8fdb5",
+    "sourceName": "Yahoo!ニュース",
+    "originalImageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260927-00187094-biz_plus-000-1-view.jpg?exp=10800",
+    "originalImageArticleUrl": "https://news.yahoo.co.jp/articles/530f3d02954639f24626f08c7c5189005ef8fdb5",
+    "displayDate": "2026-09-27"
+  },
+  "AI": {
+    "title": "米中がAIを「SI」と呼称へ、合意の背景とは",
+    "summary": "米中両国が、AI（人工知能）を「SI（Secure Intelligence：安全な知能）」と言い換えることで合意しました。安全性を優先した開発・運用の枠組みを確立し、技術競争の暴走を抑制する国際的な協調姿勢を示す狙いがあります。",
+    "insight": "AIの安全性（Safety/Security）が国家間の外交課題として最優先事項になったことを示しています。今後、開発・運用においてAIのガバナンスとコンプライアンス要件がより厳格化されることが予想されるため、設計段階からリスク管理を組み込むアプローチが必須になります。",
+    "sourceUrl": "https://www.nikkei.com/article/DGXZQOCB262EY0W6A920C2000000/",
+    "sourceName": "日本経済新聞",
+    "originalImageUrl": "https://article-image-ix.nikkei.com/https%3A%2F%2Fimgix-proxy.n8s.jp%2FDSXZQO3643011026092026000000-1.jpg?auto=compress&bg=FFFF&crop=focalpoint&fit=crop&fm=jpg&fp-x=0.91&fp-y=0.39&h=630&w=1200&s=bece48309a7cba42f484c3cf839424b0",
+    "originalImageArticleUrl": "https://www.nikkei.com/article/DGXZQOCB262EY0W6A920C2000000/",
+    "displayDate": "2026-09-27"
+  },
+  "TCL": {
+    "title": "TCLがサムスンを提訴：Mini LED表示を巡る法的争い",
+    "summary": "TCLが、サムスンの特定のテレビモデルにおける「Mini LED」という表現が不正確な広告にあたるとして、米国の裁判所に提訴しました。ディスプレイ技術の定義やマーケティング上の優位性を巡る大手メーカー同士の紛争として注目されています。",
+    "insight": "Mini LED技術の定義やブランディングが、メーカー間の競争において重要な論点になっています。エンジニアとしては、マーケティング上の「Mini LED」と、実際のバックライト制御やゾーン数等の物理的実装の乖離について、技術基準の観点から注視が必要です。",
+    "sourceUrl": "https://www.latestly.com/business/tcl-sues-samsung-over-alleged-false-mini-led-tv-advertising-in-us-court-7621959.html",
+    "sourceName": "LatestLY",
+    "originalImageUrl": "https://st1.latestly.com/wp-content/uploads/2020/07/Television-shops-in-India-784x436.jpg",
+    "originalImageArticleUrl": "https://www.latestly.com/business/tcl-sues-samsung-over-alleged-false-mini-led-tv-advertising-in-us-court-7621959.html",
+    "displayDate": "2026-09-27"
+  },
+  "Gaming Monitor": {
+    "title": "MSI、QD-OLED搭載の新モニター発売",
+    "summary": "MSIから27インチのQD-OLEDゲーミングモニター「PRO MAX 271QPX14G」が登場しました。144HzのリフレッシュレートとOLED特有の鮮やかな発色・高速応答性を両立しており、クリエイティブワークとゲームの両立を求めるユーザーの注目を集めています。",
+    "insight": "QD-OLEDは従来のOLEDに比べて量子ドット層により色再現性と輝度が大幅に向上しており、エンジニアの作業環境としても高い解像度と発色精度を提供します。作業効率化だけでなく、ディスプレイ技術の進化が開発者の目の負担軽減にどう寄与するか、最新のパネル仕様を把握しておくことは有益です。",
+    "sourceUrl": "https://xiaomitoday.com/msi-launches-pro-max-271qpx14g-qd-oled-monitor-with-144hz-refresh-rate/",
+    "sourceName": "xiaomitoday.com",
+    "originalImageUrl": "https://xiaomitoday.com/wp-content/uploads/2026/09/MSI-PRO-MAX-271QPX14G-QD-OLED-Monitor.webp",
+    "originalImageArticleUrl": "https://xiaomitoday.com/msi-launches-pro-max-271qpx14g-qd-oled-monitor-with-144hz-refresh-rate/",
+    "displayDate": "2026-09-27"
+  },
+  "LED Wall Display": {
+    "title": "Metaが軽量VRグラスを発表：ディスプレイ技術の転換点",
+    "summary": "Metaは、100グラムという軽量性を実現した新しいVRグラスを発表しました。IMAX Enhanced認証を取得しており、映画館レベルの映像体験をウェアラブルデバイスで提供します。従来のヘッドセット型から日常的な眼鏡型へ移行する動きが加速しており、ディスプレイ技術の小型・軽量化が新たなフェーズに入っています。",
+    "insight": "VRグラスの小型化は、マイクロLEDや導波路技術による光学系の進化が鍵となっています。エンジニアとしては、単なる解像度だけでなく、長時間の装着を可能にする低消費電力な画像処理エンジンの最適化や、空間コンピューティングにおける遅延の極小化が今後の製品開発の肝になると考えられます。",
+    "sourceUrl": "//www.ledinside.com/news/2026/9/2026_09_24_02",
+    "sourceName": "LEDinside",
+    "originalImageUrl": null,
+    "originalImageArticleUrl": "//www.ledinside.com/news/2026/9/2026_09_24_02",
+    "displayDate": "2026-09-27"
+  },
+  "Projector": {
+    "title": "XGIMIの新型4Kプロジェクターが爆速で1億円を突破",
+    "summary": "XGIMIの3色レーザー光源を採用した4Kホームプロジェクター「TITAN Noir」が、Makuakeでの先行販売開始からわずか1日で応援購入総額1億円を突破しました。「黒」の表現力と高コントラストを追求したハイエンド機として注目を集めています。",
+    "insight": "DLPやレーザー光源の進化により、ホームシアター市場では単なる高解像度化から、黒レベルの再現性など「画質の質」を競うフェーズへ移行しています。エンジニアとしては、光学設計の精度とソフトウェアによるリアルタイムの色補正アルゴリズムがいかに視覚体験を左右しているかという技術トレンドに注目すべきです。",
+    "sourceUrl": "https://mantan-web.jp/prtimes/article/20260925prt00m200001150a/photopage/001.html",
+    "sourceName": "MANTANWEB",
+    "originalImageUrl": "https://prtimes.jp/img/75566/103/resize/d75566-103-795b145009efae828848-17.jpg",
+    "originalImageArticleUrl": "https://mantan-web.jp/prtimes/article/20260925prt00m200001150a/photopage/001.html",
+    "displayDate": "2026-09-27"
+  },
+  "Camera Control": {
+    "title": "CanonのRFマウント開放なるか？Nikonの訴訟が呼ぶ影響",
+    "summary": "中国でNikonとViltroxの特許裁判があり、Nikonが敗訴したことで、カメラ業界の勢力図に変化の兆しが見えています。この判決は、現在唯一「閉鎖的」なマウントであるCanonのRFマウントに対しても、サードパーティ製レンズの参入を認めるよう圧力がかかる可能性を示唆しています。",
+    "insight": "カメラメーカーの独自マウント戦略が、特許法や独占禁止の観点から再評価される転換点です。エンジニアの視点では、ハードウェアのインターフェース仕様をどこまでオープンにするかという「エコシステムの囲い込み」と「技術標準化」のバランスが問われています。",
+    "sourceUrl": "https://petapixel.com/2026/09/26/thanks-to-nikon-canons-closed-rf-mount-could-be-forced-open/",
+    "sourceName": "PetaPixel",
+    "originalImageUrl": "https://petapixel.com/assets/uploads/2026/09/Thanks-to-Nikon-Canons-Closed-RF-Mount-Could-Be-Cracked-Open.jpg",
+    "originalImageArticleUrl": "https://petapixel.com/2026/09/26/thanks-to-nikon-canons-closed-rf-mount-could-be-forced-open/",
+    "displayDate": "2026-09-27"
+  },
+  "TV": {
+    "title": "AKB48、2027年春に新冠番組がスタート",
+    "summary": "日本テレビにて2027年春より、AKB48の新たな地上波冠番組が放送されることが決定しました。MCにはお笑いコンビ「エバース」が起用され、今後の番組内容や詳細に注目が集まっています。",
+    "insight": "地上波放送枠の確保とアイドルコンテンツの継続的な投入は、依然として視聴者層の維持に重要な戦略です。SNSトレンドとの連動や、放送後の二次利用（配信プラットフォーム連携）を見越した設計が、現代の番組制作におけるエンジニアリング的視点からも重要となります。",
+    "sourceUrl": "https://www.ntv.co.jp/topics/articles/19f7pyed1ftz8qb0ql.html",
+    "sourceName": "日本テレビ",
+    "originalImageUrl": "https://www.ntv.co.jp/topics/articles/images/8w5xms8m16ua8kr5tdq3dmng73n32t.jpg",
+    "originalImageArticleUrl": "https://www.ntv.co.jp/topics/articles/19f7pyed1ftz8qb0ql.html",
+    "displayDate": "2026-09-27"
+  },
+  "Production Monitor": {
+    "title": "Thunderbolt 5対応の小型10GbEアダプター",
+    "summary": "Sonnetから、Thunderbolt 5を採用したバスパワー駆動の10GbEアダプター「Solo10G T5」が発表されました。外部電源が不要で、わずか7.5Wの消費電力で安定した高速データ転送を実現します。",
+    "insight": "Thunderbolt 5の普及により、外付け周辺機器の電力効率とデータ転送速度が飛躍的に向上しています。モバイル環境での大容量データ転送のボトルネックを解消するハードウェアエンジニアリングの好例と言えます。",
+    "sourceUrl": "https://www.newsshooter.com/2026/09/25/sonnet-solo10g-t5/?utm_source=rss&utm_medium=rss&utm_campaign=sonnet-solo10g-t5",
+    "sourceName": "Newsshooter",
+    "originalImageUrl": "https://www.newsshooter.com/wp-content/uploads/2026/09/Screenshot-2026-09-26-at-10.02.43.png",
+    "originalImageArticleUrl": "https://www.newsshooter.com/2026/09/25/sonnet-solo10g-t5/?utm_source=rss&utm_medium=rss&utm_campaign=sonnet-solo10g-t5",
+    "displayDate": "2026-09-27"
+  },
+  "SONY": {
+    "title": "ソニー、AI時代の次世代エンタメとカメラ戦略",
+    "summary": "日本経済新聞は、AI技術の進化が加速する中で、ソニーがいかにして「売れるカメラ」と次世代エンターテインメント体験を再定義しようとしているかについて特集。センサー技術とAIの融合が、今後の映像体験にどう寄与するかが注目されています。",
+    "insight": "AI時代のカメラは単なる記録装置から、エッジAI処理によるリアルタイム補正や解析を行うインテリジェントデバイスへと進化しています。センサーメーカーとしての強みを持つソニーが、ハードウェアとソフトウェアをどう統合して新たな体験価値を提供できるかがエンジニアにとっての注目ポイントです。",
+    "sourceUrl": "https://www.nikkei.com/article/DGXZQOUC201W00Q6A920C2000000/",
+    "sourceName": "日本経済新聞",
+    "originalImageUrl": "https://article-image-ix.nikkei.com/https%3A%2F%2Fimgix-proxy.n8s.jp%2FDSXZQO3625176020092026000000-1.jpg?auto=compress&bg=FFFF&crop=focalpoint&fit=crop&fm=jpg&fp-x=0.6&fp-y=0.39&h=630&w=1200&s=12fbe3ee507adf8142a9d87036db4b34",
+    "originalImageArticleUrl": "https://www.nikkei.com/article/DGXZQOUC201W00Q6A920C2000000/",
+    "displayDate": "2026-09-27"
+  }
+}
