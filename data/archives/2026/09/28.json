@@ -1,0 +1,102 @@
+{
+  "SRD / XR": {
+    "title": "約100gの衝撃：Metaの次世代VRグラス",
+    "summary": "重さわずか約100gという超軽量な新型VRデバイス「Meta VR Glasses」の先行体験レビューが話題です。従来のVRヘッドセットとは一線を画す軽量化が、長時間利用のUXをどう変えるのか、その真価と技術的アプローチに注目が集まっています。",
+    "insight": "デバイスの軽量化は、没入型XRの社会実装における最大の障壁である「装着感」を劇的に改善する鍵です。エンジニアの視点では、この軽量化がどのような光学系や排熱設計によって実現されたのか、またコンテンツ側のインタラクション設計にどう影響するかを分析するのが非常に有益です。",
+    "sourceUrl": "https://www.moguravr.com/vr-ar-mr-weekly-2026-9-28/",
+    "sourceName": "Mogura VR",
+    "originalImageUrl": "https://assets.moguravr.com/uploads/2026/09/9280087786c72a785a5e316fc6cebb51-kix.yi6gw8bl9l19-300x169.webp",
+    "originalImageArticleUrl": "https://www.moguravr.com/vr-ar-mr-weekly-2026-9-28/",
+    "displayDate": "2026-09-28"
+  },
+  "AI": {
+    "title": "ビル・ゲイツ氏が警鐘：AI規制の難しさ",
+    "summary": "ビル・ゲイツ氏は、AIの進化に伴う壊滅的なリスク（10億人規模の死の可能性など）に言及し、AIの「停止ボタン」だけでは不十分だと指摘しました。また、各国間でAI規制の合意形成を行うことは、かつての核兵器交渉よりも困難であるとの見解を示しています。",
+    "insight": "エンジニアとしては、単なる機能開発だけでなく、モデルの制御可能性（Controllability）や安全性の担保が社会的に不可欠な課題となっていることを認識すべきです。グローバルな規制議論は、今後のAIインフラ設計やガバナンス要件に多大な影響を与える可能性があるため注視が必要です。",
+    "sourceUrl": "https://www.nbcnews.com/news/us-news/bill-gates-global-artificial-intelligence-regulations-nuclear-rcna599646",
+    "sourceName": "NBC News",
+    "originalImageUrl": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-09/260925-bill-gates-ch-1017-22a3cb.jpg",
+    "originalImageArticleUrl": "https://www.nbcnews.com/news/us-news/bill-gates-global-artificial-intelligence-regulations-nuclear-rcna599646",
+    "displayDate": "2026-09-28"
+  },
+  "TCL": {
+    "title": "TCL独自のSQD-Mini LED、その技術的優位性とは",
+    "summary": "TCLが採用する「SQD-Mini LED」技術についての解説。従来のRGB Mini LEDと比較して色の再現性がより正確であるとされており、同社がなぜこの独自技術を推進するのか、その背景にある高画質化へのこだわりが語られています。",
+    "insight": "量子ドット技術を最適化しディスプレイのカラーキャリブレーション精度を高めることは、パネル性能を底上げする重要なエンジニアリングです。輝度と色純度の両立において、画素制御技術だけでなく層構造の最適化がどのように製品寿命や消費電力に影響しているか注目すべきポイントです。",
+    "sourceUrl": "https://www.chiba-tv.com/plus/detail/amp/2026092048853",
+    "sourceName": "千葉テレビ放送株式会社",
+    "originalImageUrl": "https://img.jp.ekkowassets.com/c_limit,w_360,f_auto,q_auto:eco/ch/images/1476867115007198938/origin_1.jpg",
+    "originalImageArticleUrl": "https://www.chiba-tv.com/plus/detail/amp/2026092048853",
+    "displayDate": "2026-09-28"
+  },
+  "Gaming Monitor": {
+    "title": "Alienwareの34型QD-OLEDモニターが100ドル引き",
+    "summary": "Alienwareの34インチ・240Hz駆動の湾曲QD-OLEDゲーミングモニターが、100ドルオフで販売されています。没入感の高い曲面ディスプレイと有機ELならではの高速応答が魅力の製品です。",
+    "insight": "QD-OLEDパネルは従来の液晶と比較して圧倒的に低い応答速度と優れたコントラスト比を持ち、フレームレートの高さが重要視される競技タイトルに非常に適しています。240Hzのリフレッシュレートは高負荷な描画処理を伴うため、GPUとモニター間の同期性能を最大限に活かす環境構築がエンジニアの検証環境としても重要です。",
+    "sourceUrl": "https://mashable.com/tech/sept-19-alienware-curved-gaming-monitor-deal",
+    "sourceName": "Mashable",
+    "originalImageUrl": "https://helios-i.mashable.com/imagery/articles/02ID1Vhzpp7kGkmHdCeRduR/hero-image.fill.size_1200x675.v1789741508.jpg",
+    "originalImageArticleUrl": "https://mashable.com/tech/sept-19-alienware-curved-gaming-monitor-deal",
+    "displayDate": "2026-09-28"
+  },
+  "SONY": {
+    "title": "ソニーが新型カメラ「WW261362」を認証機関に登録",
+    "summary": "ソニーが海外の認証機関に「WW261362」という型番の新型カメラを登録したことが判明しました。詳細なスペックは不明ですが、型番から推測してαシリーズの新型である可能性が浮上しており、年末の動向として注目を集めています。",
+    "insight": "カメラの型番登録は、製品リリース前の重要な先行指標です。ハードウェアエンジニアの視点では、新センサーや画像処理エンジンの搭載状況に加え、認証通過から発売までのリードタイムを分析することで、ソニーの製造・物流サイクルを予測する材料となります。",
+    "sourceUrl": "https://cameota.com/sony/52344.html",
+    "sourceName": "CAMEOTA.com",
+    "originalImageUrl": "https://cameota.com/wp-content/uploads/2026/09/sony-5.jpg",
+    "originalImageArticleUrl": "https://cameota.com/sony/52344.html",
+    "displayDate": "2026-09-28"
+  },
+  "Projector": {
+    "title": "Android 17でLHDCが標準化、Bluetoothオーディオの転送効率に注目",
+    "summary": "Android 17で最新のBluetoothオーディオコーデック「LHDC V5」がOSレベルで標準サポートされました。これまで一部メーカー限定だった高音質・低遅延なLHDCが、今後は多くのAndroid端末で利用可能になり、Androidオーディオ環境の標準技術として定着しそうです。",
+    "insight": "Bluetoothの圧縮伝送におけるビットレートと遅延の改善は、OSレベルでのコーデック最適化が不可欠です。エンジニアの視点では、単なる音質向上だけでなく、高ビットレート転送時におけるAndroidのオーディオスタックとハードウェア間の同期処理や、通信帯域の輻輳制御がどのように設計・改善されたかに注目すべきです。",
+    "sourceUrl": "https://av.watch.impress.co.jp/docs/series/dal/2143562.html",
+    "sourceName": "AV Watch",
+    "originalImageUrl": "https://av.watch.impress.co.jp/img/avw/list/2143/562/00.jpg",
+    "originalImageArticleUrl": "https://av.watch.impress.co.jp/docs/series/dal/2143562.html",
+    "displayDate": "2026-09-28"
+  },
+  "LED Wall Display": {
+    "title": "ViewSonicの移動可能な136インチLEDウォール",
+    "summary": "ViewSonicは、固定設置が不要な136インチのポータブルLEDウォールを発表しました。従来の「壁への埋め込み」が主流だったLEDディスプレイにおいて、設置の柔軟性を高める新たな選択肢として注目されます。",
+    "insight": "大型ディスプレイは固定設置が前提のシステム設計が一般的ですが、移動可能なモジュール設計はイベントやショールームでの利便性を大きく向上させます。ハードウェア設計者は、物理的な堅牢性とセットアップの簡便性を両立させるための機構設計の重要性を再認識すべきです。",
+    "sourceUrl": "https://www.marketscale.com/industries/pro-av/viewsonic-now-ships-a-136-inch-led-wall-that-skips-the-permanent-install",
+    "sourceName": "MarketScale",
+    "originalImageUrl": "https://res.cloudinary.com/marketscalecms/image/upload/f_auto,q_auto/v1/payload/media/news-cover-viewsonic-now-ships-a-136-inch-led-wall-that-skips-the-permanent-install?_a=BAMAABhM0",
+    "originalImageArticleUrl": "https://www.marketscale.com/industries/pro-av/viewsonic-now-ships-a-136-inch-led-wall-that-skips-the-permanent-install",
+    "displayDate": "2026-09-28"
+  },
+  "TV": {
+    "title": "次期Apple TV 4K：A19チップ搭載とAI機能強化の噂",
+    "summary": "次期Apple TV 4K（第4世代）に関するリーク情報が浮上。チップはA19世代に刷新され、メモリ容量の増強によりSiriを通じたAI機能の強化が見込まれています。一方で、コスト増加による販売価格の値上げの可能性も指摘されています。",
+    "insight": "エッジデバイスでのAI推論実行（オンデバイスAI）に向けた、メモリ容量や処理能力の引き上げがトレンドです。コンシューマー向けハードウェアにおけるローカル推論の最適化は、今後さらなる標準となっていくでしょう。",
+    "sourceUrl": "https://gazlog.jp/entry/apple-tv-4k-gen4-spec-leak/",
+    "sourceName": "GAZLOG",
+    "originalImageUrl": "https://gazlog.jp/wp-content/uploads/2026/09/image-179.png",
+    "originalImageArticleUrl": "https://gazlog.jp/entry/apple-tv-4k-gen4-spec-leak/",
+    "displayDate": "2026-09-28"
+  },
+  "Production Monitor": {
+    "title": "Adobe、GeminiとClaudeに生成AI機能を統合",
+    "summary": "Adobeは「Adobe Connected App」を通じ、GoogleのGeminiやAnthropicのClaude内でPhotoshop、Lightroom、Firefly等のツールを直接利用可能にしました。対話型インターフェースから直接クリエイティブな編集や生成処理が実行可能になります。",
+    "insight": "AIチャットボットが単なるテキスト生成ツールから、APIを介したワークフローの実行エンジンへと進化しています。エンジニアとしては、既存アプリケーションをLLMのインターフェースに統合するプラグイン設計やエコシステム構築の重要性が今後さらに高まるでしょう。",
+    "sourceUrl": "https://www.newsshooter.com/2026/09/24/adobe-expands-what-you-can-do-in-gemini-claude/?utm_source=rss&utm_medium=rss&utm_campaign=adobe-expands-what-you-can-do-in-gemini-claude",
+    "sourceName": "Newsshooter",
+    "originalImageUrl": "https://www.newsshooter.com/wp-content/uploads/2026/09/Screenshot-2026-09-25-at-10.07.00-740x405.jpg",
+    "originalImageArticleUrl": "https://www.newsshooter.com/2026/09/24/adobe-expands-what-you-can-do-in-gemini-claude/?utm_source=rss&utm_medium=rss&utm_campaign=adobe-expands-what-you-can-do-in-gemini-claude",
+    "displayDate": "2026-09-28"
+  },
+  "Camera Control": {
+    "title": "Sony FX5を2ヶ月使用：プロが感じる「改善の余地」",
+    "summary": "発売から2ヶ月、プロカメラマンがSony FX5を実用した際のインプレッションを公開。チルト・フリップ両対応の液晶構造は高く評価する一方、現場で感じた操作性の不満点やUIの改善点などが詳細に語られています。",
+    "insight": "ハードウェアのUI設計において、スペック以上に「現場でのワークフローの快適さ」が顧客体験を左右することが浮き彫りになっています。エンジニアとしては、単なる機能追加だけでなく、実際の利用シーンにおける物理的な操作ストレスの低減こそが、製品評価の分かれ道になると再認識すべきでしょう。",
+    "sourceUrl": "https://www.sonyalpharumors.com/jason-morris-sony-fx5-after-2-months-what-still-annoys-me/",
+    "sourceName": "sonyalpharumors",
+    "originalImageUrl": null,
+    "originalImageArticleUrl": "https://www.sonyalpharumors.com/jason-morris-sony-fx5-after-2-months-what-still-annoys-me/",
+    "displayDate": "2026-09-28"
+  }
+}
