@@ -1,0 +1,102 @@
+{
+  "Gaming Monitor": {
+    "title": "BenQ、映像制作向け4Kモニター発表",
+    "summary": "BenQがプロデザイナー・映像クリエイター向けの新モニター「PV3250U（31.5型）」と「PV2750U（27型）」を発表。白飛びを防ぎつつ暗部を適切に明るく補正する高度な階調表現技術を搭載し、高精細な映像制作環境を提供します。10月16日より順次発売予定です。",
+    "insight": "映像制作において重要な『明暗のダイナミックレンジ管理』をハードウェアレベルで最適化する製品です。開発者やエンジニアにとっても、高ビット深度のカラーマネジメントが可能なモニターは、UIのコントラスト検証や正確なデザインレビューを行う上で非常に重要です。",
+    "sourceUrl": "https://pc.watch.impress.co.jp/docs/news/2144273.html",
+    "sourceName": "PC Watch",
+    "originalImageUrl": "https://pc.watch.impress.co.jp/img/pcw/list/2144/273/01.jpg",
+    "originalImageArticleUrl": "https://pc.watch.impress.co.jp/docs/news/2144273.html",
+    "displayDate": "2026-09-30"
+  },
+  "AI": {
+    "title": "OpenAIの常時稼働エージェント「dots」発表",
+    "summary": "OpenAIは、TeamsやSlackと連携し、専用環境下で24時間稼働するAIエージェント「dots」を発表しました。人間の介在なしに業務を遂行する常時接続型エージェントの登場により、AI活用が自動化・効率化の新たなフェーズへ移行する可能性があります。",
+    "insight": "AIエージェントが既存のコラボレーションツールと常時統合されることで、従来の対話型チャットから「自律型ワークフロー」への転換が加速します。エンジニアは、API連携の設計だけでなく、エージェントの予期せぬ挙動を制御するガードレール構築や、セキュアな権限管理設計がこれまで以上に重要になります。",
+    "sourceUrl": "https://www.sbbit.jp/article/cont1/187161",
+    "sourceName": "ビジネス+IT",
+    "originalImageUrl": "https://img.sbbit.jp/article/image/187161/OGP_bit202609300422523725.jpg",
+    "originalImageArticleUrl": "https://www.sbbit.jp/article/cont1/187161",
+    "displayDate": "2026-09-30"
+  },
+  "SRD / XR": {
+    "title": "Meta新型VR/ARデバイス：メガネ型への進化と限界",
+    "summary": "Metaの最新デバイスにおける「ゴーグルからメガネへ」のフォームファクタ移行について検証。軽量化を実現した構造的工夫と、現状の技術的な限界が分析されており、今後のウェアラブルXRの方向性を示唆する記事です。",
+    "insight": "デバイスの小型化はUX向上に不可欠ですが、熱設計や光学系の制約がエンジニアリング上の大きな壁となります。フォームファクタの進化が性能とどうトレードオフの関係にあるかを追うことは、次世代UI/UX開発のヒントになります。",
+    "sourceUrl": "https://news.yahoo.co.jp/articles/c9508ceaf3700460414a58c4a954fd263411f35f",
+    "sourceName": "Yahoo!ニュース",
+    "originalImageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260930-00958909-toyo-000-1-view.jpg?exp=10800",
+    "originalImageArticleUrl": "https://news.yahoo.co.jp/articles/c9508ceaf3700460414a58c4a954fd263411f35f",
+    "displayDate": "2026-09-30"
+  },
+  "Projector": {
+    "title": "世界最小クラスの4Kプロジェクターが登場",
+    "summary": "エプソン販売が、世界最小をうたう省スペース設計の高輝度4Kプロジェクターを発表しました。設置場所の制約を受けにくいコンパクトな筐体で、本格的なホームシアター環境を構築できるモデルです。",
+    "insight": "光学設計の進化により、高輝度と小型化の両立が進んでいます。熱設計や排熱処理といったハードウェアエンジニアリングの観点から、筐体サイズと性能のトレードオフをどう解決しているかに注目です。",
+    "sourceUrl": "https://topics.smt.docomo.ne.jp/amp/article/itmedia_pcuser/trend/itmedia_pcuser-20260929_075",
+    "sourceName": "ｄメニューニュース",
+    "originalImageUrl": "https://img.topics.smt.news.goo.ne.jp/picture/itmedia_pcuser/m_itmedia_pcuser-20260929_075.jpg",
+    "originalImageArticleUrl": "https://topics.smt.docomo.ne.jp/amp/article/itmedia_pcuser/trend/itmedia_pcuser-20260929_075",
+    "displayDate": "2026-09-30"
+  },
+  "TCL": {
+    "title": "ミニLED市場でTCLとHisenseがSamsungをリード",
+    "summary": "ディスプレイ市場の最新動向において、TCLとHisenseがミニLED技術の採用と展開により、長年業界を牽引してきたSamsungに対してシェアや存在感で優位に立っているという分析が報じられました。",
+    "insight": "ミニLEDはバックライト制御による高コントラストと低コスト化の両立が鍵であり、TCLの垂直統合による供給網が競争力を支えています。ハードウェアエンジニアの視点では、単なるパネル性能だけでなく、ローカルディミング制御アルゴリズムが製品の付加価値をどう左右しているかに注目すべきです。",
+    "sourceUrl": "https://www.flatpanelshd.com/news.php?subaction=showfull&id=1790677665",
+    "sourceName": "FlatpanelsHD",
+    "originalImageUrl": "https://www.flatpanelshd.com/pictures/tclminiled.jpg",
+    "originalImageArticleUrl": "https://www.flatpanelshd.com/news.php?subaction=showfull&id=1790677665",
+    "displayDate": "2026-09-30"
+  },
+  "TV": {
+    "title": "MLBワイルドカード開幕：視聴環境の多様化",
+    "summary": "9月30日にMLBワイルドカード第1戦が開幕。DAZN等のネット配信サービスが充実する一方、伝統的なテレビ放送との棲み分けが進んでいます。スポーツ観戦におけるデジタルシフトが加速している状況です。",
+    "insight": "スポーツ中継のストリーミング移行は、低遅延技術やスケーラブルなインフラエンジニアリングの最前線です。大量の同時接続を支えるCDNやマルチデバイス最適化は、大規模Webサービス開発にとっても非常に示唆に富む領域です。",
+    "sourceUrl": "https://www.dazn.com/ja-JP/news/%E9%87%8E%E7%90%83/padres-cubs-mlb2026-wild-card-20260930/5wmj3xxd06s11if90b4reqsph",
+    "sourceName": "DAZN",
+    "originalImageUrl": null,
+    "originalImageArticleUrl": "https://www.dazn.com/ja-JP/news/%E9%87%8E%E7%90%83/padres-cubs-mlb2026-wild-card-20260930/5wmj3xxd06s11if90b4reqsph",
+    "displayDate": "2026-09-30"
+  },
+  "LED Wall Display": {
+    "title": "AIエージェントによる次世代サイネージ管理",
+    "summary": "Claude、ChatGPT、GeminiなどのAIが、MCP（Model Context Protocol）を通じてデジタルサイネージプラットフォームと直接連携可能になりました。これにより、従来の複雑なダッシュボード操作が不要になり、自然言語による指示だけでコンテンツ配信や管理タスクが実行可能となります。",
+    "insight": "AIエージェントとサイネージ基盤の統合は、運用効率を劇的に改善する転換点です。エンジニアは、外部ツールを統合するためのインターフェースとしてMCPの仕様を理解し、API連携を抽象化することで、より柔軟な運用ワークフローを設計する必要があります。",
+    "sourceUrl": "https://www.digitalsignagetoday.com/resources/how-claude-chatgpt-and-gemini-change-the-way-teams-manage-digital-signage/",
+    "sourceName": "Digital Signage Today",
+    "originalImageUrl": "https://nmgprod.s3.amazonaws.com/media/file/46/60/876cb164aed8dd10c7ccbc52c896/cover_image__XpJWLI1y__whitepaper-cover.jpg.360x190_q85_crop_upscale.webp",
+    "originalImageArticleUrl": "https://www.digitalsignagetoday.com/resources/how-claude-chatgpt-and-gemini-change-the-way-teams-manage-digital-signage/",
+    "displayDate": "2026-09-30"
+  },
+  "SONY": {
+    "title": "iPhone 18 Proのカメラは今回もソニー製",
+    "summary": "最新のiPhone 18 Proの分解調査により、搭載されているカメラモジュールの主要部品が引き続きソニー製であることが判明しました。前モデルからの変更点は限定的であり、ソニーのイメージセンサーがAppleのフラッグシップモデルにおいて不動の信頼を得ていることが改めて浮き彫りとなりました。",
+    "insight": "スマートフォン向け積層型CMOSセンサーにおけるソニーの市場支配力と高い技術力が示されています。エンジニアの視点では、単なるハードウェアのスペック競争を超え、画像処理パイプラインやソフトウェア統合を含めたサプライチェーンの強靭さが競争優位性の源泉となっている点に注目すべきです。",
+    "sourceUrl": "https://hashout.jp/gadget/11629/",
+    "sourceName": "shiritomo",
+    "originalImageUrl": "https://hashout.jp/wp-content/uploads/2026/09/2104535643296764053-img-1200x675.png",
+    "originalImageArticleUrl": "https://hashout.jp/gadget/11629/",
+    "displayDate": "2026-09-30"
+  },
+  "Production Monitor": {
+    "title": "オフラインストレージの管理術：DriveShelf for Mac",
+    "summary": "Mac向けの新しいカタログ管理アプリ「DriveShelf」がリリースされました。接続解除された外付けHDDやSSDの中身をカタログ化し、iPhoneアプリと同期して検索可能にするツールです。増え続けるストレージの整理や、過去の素材探しに苦労しているエンジニアやクリエイターにとって強力な解決策となります。",
+    "insight": "メタデータのみをインデックス化してオフライン検索を可能にするアプローチは、大規模なアセットを扱う現場のデータ管理に非常に有効です。競合の「Offline Files for macOS」とあわせて、ディレクトリ構造の正規化や検索アルゴリズムをどう実装すべきかという観点は、エンジニアにとって興味深いトピックです。",
+    "sourceUrl": "https://www.cined.com/driveshelf-for-mac-released-search-unplugged-drives-cross-drive-duplicate-finder-free-iphone-companion/",
+    "sourceName": "CineD",
+    "originalImageUrl": "https://www.cined.com/content/uploads/2026/09/DriveShelf-feature-300x169.jpg",
+    "originalImageArticleUrl": "https://www.cined.com/driveshelf-for-mac-released-search-unplugged-drives-cross-drive-duplicate-finder-free-iphone-companion/",
+    "displayDate": "2026-09-30"
+  },
+  "Camera Control": {
+    "title": "ジェームズ・ウェッブ宇宙望遠鏡が捉えた「重力レンズ」の絶景",
+    "summary": "NASAのジェームズ・ウェッブ宇宙望遠鏡（JWST）が、過去最大級に美しい重力レンズ現象を観測しました。遠方の銀河の光が手前の銀河の重力で歪められ、アインシュタインリングのように観測される様子は、宇宙の構造を解明する上で極めて重要なデータとなります。",
+    "insight": "重力レンズ現象は、物理的な光学系と同様に「重力」という巨大な質量が空間を歪ませ、光の進路を変えることで生じる天然の望遠鏡です。ソフトウェアエンジニアの視点では、この観測データの補正プロセス（画像合成とデコンボリューション）は、高度な信号処理アルゴリズムの極致と言えるでしょう。",
+    "sourceUrl": "https://petapixel.com/2026/09/29/webb-photographs-one-of-the-most-beautiful-gravitational-lenses/",
+    "sourceName": "PetaPixel",
+    "originalImageUrl": "https://petapixel.com/assets/uploads/2026/09/potm2609a1600x840.jpg",
+    "originalImageArticleUrl": "https://petapixel.com/2026/09/29/webb-photographs-one-of-the-most-beautiful-gravitational-lenses/",
+    "displayDate": "2026-09-30"
+  }
+}

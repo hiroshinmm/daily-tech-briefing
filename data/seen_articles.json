@@ -1,10 +1,6 @@
 {
   "Production Monitor": [
     {
-      "url": "https://www.cined.com/eddie-ai-v4-explained-visual-b-roll-edits-reference-edits-an-agent-that-joins-your-nle-project/",
-      "date": "2026-09-23"
-    },
-    {
       "url": "https://www.cined.com/openai-reportedly-buys-glass-imaging-for-the-camera-in-its-first-hardware-device-ai-image-processing-from-an-ex-apple-team/",
       "date": "2026-09-24"
     },
@@ -27,13 +23,13 @@
     {
       "url": "https://www.cined.com/honor-magic9-pro-max-launches-arri-co-branding-native-logc3-recording-dual-200mp-cameras/",
       "date": "2026-09-29"
+    },
+    {
+      "url": "https://www.cined.com/driveshelf-for-mac-released-search-unplugged-drives-cross-drive-duplicate-finder-free-iphone-companion/",
+      "date": "2026-09-30"
     }
   ],
   "SRD / XR": [
-    {
-      "url": "https://xtech.nikkei.com/atcl/nxt/mag/ne/18/00156/",
-      "date": "2026-09-23"
-    },
     {
       "url": "https://www.moguravr.com/meta-vr-glasses-preview/",
       "date": "2026-09-24"
@@ -57,13 +53,13 @@
     {
       "url": "https://www.uploadvr.com/meta-smart-glasses-getting-muse-ai-agent/",
       "date": "2026-09-29"
+    },
+    {
+      "url": "https://news.yahoo.co.jp/articles/c9508ceaf3700460414a58c4a954fd263411f35f",
+      "date": "2026-09-30"
     }
   ],
   "AI": [
-    {
-      "url": "https://news.yahoo.co.jp/articles/8512839dfee0dcb9d6ccf1bf2405d15470412d8e",
-      "date": "2026-09-23"
-    },
     {
       "url": "https://news.yahoo.co.jp/articles/6a6462a9e3a6a7d701a0644e4434563b1abb1edf",
       "date": "2026-09-24"
@@ -87,13 +83,13 @@
     {
       "url": "https://www.wsj.com/tech/ai/openai-chatgpt-model-release-cancel-safety-5a2f9f42",
       "date": "2026-09-29"
+    },
+    {
+      "url": "https://www.sbbit.jp/article/cont1/187161",
+      "date": "2026-09-30"
     }
   ],
   "Gaming Monitor": [
-    {
-      "url": "https://www.howtogeek.com/your-new-high-refresh-monitor-isnt-running-at-full-speed-heres-why/",
-      "date": "2026-09-23"
-    },
     {
       "url": "https://pc.watch.impress.co.jp/docs/news/2142661.html",
       "date": "2026-09-24"
@@ -117,13 +113,13 @@
     {
       "url": "https://mashable.com/tech/sept-24-lg-ultragear-oled-gaming-monitor-deal",
       "date": "2026-09-29"
+    },
+    {
+      "url": "https://pc.watch.impress.co.jp/docs/news/2144273.html",
+      "date": "2026-09-30"
     }
   ],
   "TCL": [
-    {
-      "url": "https://news.livedoor.com/article/detail/32383740/",
-      "date": "2026-09-23"
-    },
     {
       "url": "https://topics.smt.docomo.ne.jp/article/recordchina/world/recordchina-RC_993245?page=2",
       "date": "2026-09-24"
@@ -147,13 +143,13 @@
     {
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOaUhDWEJQanJNWGRSYjZoOXR3Ry12VHU3aF9lTWdPWkd4WXpHZ0Rja19OZkdiM2ltQUJ5SnlrZk8zLXRIcXg0NU81SWNNUWktdDhlb1QxRE92b3RVaFBMdHRkNlg1NFAyS0RVTlpfdmg1X3ktTEc0Z25BVGcwR3JNQnV3NHZPLVZlOTRJZTRabld3UGtxNTk3elYtMjkxVHQyZG9WN0l3?oc=5",
       "date": "2026-09-29"
+    },
+    {
+      "url": "https://www.flatpanelshd.com/news.php?subaction=showfull&id=1790677665",
+      "date": "2026-09-30"
     }
   ],
   "Camera Control": [
-    {
-      "url": "https://petapixel.com/2026/09/22/snapdragon-8-elite-extreme-gen-6-finally-brings-8kp60-video-to-smartphones/",
-      "date": "2026-09-23"
-    },
     {
       "url": "https://www.dpreview.com/news/iphone-18-pro-camera-reviews-are-in-heres-what-photographers-need-to-know/",
       "date": "2026-09-24"
@@ -177,13 +173,13 @@
     {
       "url": "https://www.dpreview.com/opinion/breaking-down-apples-reference-image-tech-that-it-says-sets-a-new-standard-for-verifiable-photos/",
       "date": "2026-09-29"
+    },
+    {
+      "url": "https://petapixel.com/2026/09/29/webb-photographs-one-of-the-most-beautiful-gravitational-lenses/",
+      "date": "2026-09-30"
     }
   ],
   "LED Wall Display": [
-    {
-      "url": "https://samsungmagazine.eu/en/2026/09/22/garmin-fenix-9-pro-microled/",
-      "date": "2026-09-23"
-    },
     {
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQcFoxbk0zcU1BNzlYTHFkbHVsZ3pPb0xHb2g1MzctLUlNT0hrYkR3aDh3SVpNS2tYTW84Wnp4andTUEg2RUx0SVJhcW1MblBsNkh2Z0FaRlVYZUgtakpmYUJFOW5yU1Y1d1RKT2FUejktWGVNOEFSWVB1cjl5YUtXSFVLcGljdmhaOTk3MnpXUTFXM19peS02bENkTUg?oc=5",
       "date": "2026-09-24"
@@ -207,13 +203,13 @@
     {
       "url": "https://invidis.com/news/2026/09/for-miami-sales-gallery-sna-displays-builds-floor-to-ceiling-led-experience/",
       "date": "2026-09-29"
+    },
+    {
+      "url": "https://www.digitalsignagetoday.com/resources/how-claude-chatgpt-and-gemini-change-the-way-teams-manage-digital-signage/",
+      "date": "2026-09-30"
     }
   ],
   "SONY": [
-    {
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQa1Rmdk5FbzRESzVWV0E5M3NfU2JUWXNxZWViMjNWLVJlbVJCTWZDVFVHU2NKU1oxTlo5N05HYU9UVGJpbldZOWJUamFXZEx1WHpWWTItSzQ0WHFMMmMyVGp5MENuRGRqeWpDMGI2bTczQVdQdThoTFZ6aDhLUmlMLXVR?oc=5",
-      "date": "2026-09-23"
-    },
     {
       "url": "https://www.sonyalpharumors.com/is-the-dram-shortage-going-to-kill-the-next-sony-alpha-camera-announcement-planed-for-november/amp/",
       "date": "2026-09-24"
@@ -237,13 +233,13 @@
     {
       "url": "https://www.sonyalpharumors.com/finally-sony-registered-the-new-a7siv-in-china/",
       "date": "2026-09-29"
+    },
+    {
+      "url": "https://hashout.jp/gadget/11629/",
+      "date": "2026-09-30"
     }
   ],
   "TV": [
-    {
-      "url": "https://techlomedia.in/2026/09/adobe-premiere-finally-comes-to-android-126657/amp/",
-      "date": "2026-09-23"
-    },
     {
       "url": "https://wmbdradio.com/2026/09/23/exclusive-lg-samsung-face-india-tariff-evasion-investigation-over-oled-tv-parts/",
       "date": "2026-09-24"
@@ -267,13 +263,13 @@
     {
       "url": "https://www.tomsguide.com/tvs/oled-tvs/we-called-the-samsung-s90h-a-great-glare-free-oled-tv-in-our-review-and-its-usd200-off-ahead-of-october-prime-day",
       "date": "2026-09-29"
+    },
+    {
+      "url": "https://www.dazn.com/ja-JP/news/%E9%87%8E%E7%90%83/padres-cubs-mlb2026-wild-card-20260930/5wmj3xxd06s11if90b4reqsph",
+      "date": "2026-09-30"
     }
   ],
   "Projector": [
-    {
-      "url": "https://www.tipranks.com/news/the-fly/epson-introduces-home-cinema-ls5000-ls6000-ls7500-laser-projectors-thefly-news",
-      "date": "2026-09-23"
-    },
     {
       "url": "https://www.whathifi.com/tv-home-cinema/projectors/epsons-new-ai-powered-projectors-offer-big-bright-pictures-that-are-ideal-for-premium-media-rooms-and-high-performance-entertainment-setups",
       "date": "2026-09-24"
@@ -297,6 +293,10 @@
     {
       "url": "https://www.epson.jp/osirase/2026/260929.htm",
       "date": "2026-09-29"
+    },
+    {
+      "url": "https://topics.smt.docomo.ne.jp/amp/article/itmedia_pcuser/trend/itmedia_pcuser-20260929_075",
+      "date": "2026-09-30"
     }
   ]
 }
