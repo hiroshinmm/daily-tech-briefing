@@ -1,0 +1,102 @@
+{
+  "AI": {
+    "title": "Googleの次世代AI「Gemini 4」発表",
+    "summary": "Googleが数ヶ月の延期を経て、フラッグシップAIモデル「Gemini 4」を発表しました。競争が激化するAI市場において、既存のモデルを凌駕するパフォーマンスが期待されており、開発者や企業のAI戦略に大きな影響を与える可能性があります。",
+    "insight": "最新のLLMモデルは推論能力だけでなく、マルチモーダル性能の向上が期待されます。エンジニアは新モデルのAPIの可用性と、従来のGeminiモデルからの移行コストを早期に検証しておくことが重要です。",
+    "sourceUrl": "https://www.reuters.com/legal/litigation/google-announces-gemini-4-flagship-ai-model-after-months-delays-2026-09-30/",
+    "sourceName": "Reuters",
+    "originalImageUrl": null,
+    "originalImageArticleUrl": "https://www.reuters.com/legal/litigation/google-announces-gemini-4-flagship-ai-model-after-months-delays-2026-09-30/",
+    "displayDate": "2026-10-01"
+  },
+  "SRD / XR": {
+    "title": "Metaが目指す軽量VRグラスとAIグラスの未来",
+    "summary": "Metaが開発中の100gという超軽量なVRグラスについての体験記が話題です。AppleのVision Proとは異なるアプローチで、AIとの融合や生産性向上ツールとしての活用可能性が議論されており、今後のウェアラブルデバイスの方向性を占う重要なトピックとなっています。",
+    "insight": "軽量化はウェアラブルデバイスの普及において最も重要な技術的障壁であり、光学系や熱設計の進化が今後のUXを左右します。単なる没入型コンテンツを超え、バイブコーディングのような実務領域でいかに日常的なワークフローに溶け込めるかが、デバイスの価値を決定づけるでしょう。",
+    "sourceUrl": "https://wired.jp/article/meta-vr-glasses-apple-vision-pro-different-approach/",
+    "sourceName": "WIRED.jp",
+    "originalImageUrl": "https://media.wired.jp/photos/6abb8953cc98a8e7e26e4173/16:9/w_1280,c_limit/Meta_VR_Glasses_ProductShot_DarkBackground_16x9.jpeg",
+    "originalImageArticleUrl": "https://wired.jp/article/meta-vr-glasses-apple-vision-pro-different-approach/",
+    "displayDate": "2026-10-01"
+  },
+  "Camera Control": {
+    "title": "DJI、デジカメ市場で日本メーカー合計を上回る出荷台数を記録",
+    "summary": "IDCの調査によると、DJIのカメラ（アクションカメラやジンバルカメラ）の年間出荷台数が、日本のカメラメーカー全社の合計を上回りました。従来のカメラ市場とは異なる「スマートカメラ」市場の急成長が、このパラダイムシフトを象徴しています。",
+    "insight": "ハードウェア性能だけでなく、AIによる自律撮影やトラッキング機能が市場の支配的要因へとシフトしていることを示唆しています。エンジニアとしては、光学機器の「写り」だけでなく、映像解析アルゴリズムによる自動制御やユーザー体験の設計が、今後の製品開発の主戦場になるでしょう。",
+    "sourceUrl": "https://petapixel.com/2026/09/30/dji-sells-more-digital-cameras-than-all-japanese-makers-combined/",
+    "sourceName": "PetaPixel",
+    "originalImageUrl": "https://petapixel.com/assets/uploads/2026/09/dji-cameras-infront-red-bg.jpg",
+    "originalImageArticleUrl": "https://petapixel.com/2026/09/30/dji-sells-more-digital-cameras-than-all-japanese-makers-combined/",
+    "displayDate": "2026-10-01"
+  },
+  "Gaming Monitor": {
+    "title": "Thunderbolt 5搭載ドックが8千円引きに",
+    "summary": "Amazonにて、Ankerのハイエンドドッキングステーション「Prime ドッキングステーション(14-in-1, 8K, Thunderbolt 5)」が、8,000円引きのクーポン適用で4万1,990円にて販売中です。帯域幅が大幅に向上したThunderbolt 5対応製品が割引される貴重な機会です。",
+    "insight": "Thunderbolt 5は帯域幅が最大120Gbpsに達し、マルチモニター環境や高速データ転送が求められる開発者のデスク周りにおいて非常に有用です。特に高解像度モニターや外部GPUを運用する際のボトルネック解消に期待できる規格です。",
+    "sourceUrl": "https://pc.watch.impress.co.jp/docs/news/todays_sales/2144708.html",
+    "sourceName": "PC Watch",
+    "originalImageUrl": "https://pc.watch.impress.co.jp/img/pcw/list/2144/708/01.jpg",
+    "originalImageArticleUrl": "https://pc.watch.impress.co.jp/docs/news/todays_sales/2144708.html",
+    "displayDate": "2026-10-01"
+  },
+  "TV": {
+    "title": "ハイセンスのMiniLED TVレビューから学ぶ最新TVトレンド",
+    "summary": "HisenseのMiniLEDテレビ「M7SR 65インチ」のレビューが公開され、低価格ながら高画質なMiniLEDモデルとして注目を集めています。高コントラストと明るさを両立させるMiniLED技術は、現在のテレビ市場で主流となりつつあります。",
+    "insight": "バックライト制御技術であるMiniLEDの普及により、エンジニア視点では映像処理アルゴリズムやローカルディミングの最適化といった、ハードとソフトの統合制御の重要性が増しています。家電選びの際は、スペック上の輝度だけでなく、コントラスト比を左右するゾーン分割数や制御アルゴリズムの性能にも注目すると良いでしょう。",
+    "sourceUrl": "https://www.audioholics.com/hdtv-reviews/hisense-m7sr-65-tv",
+    "sourceName": "audioholics.com",
+    "originalImageUrl": "https://www.audioholics.com/hdtv-reviews/hisense-m7sr-65-tv/image",
+    "originalImageArticleUrl": "https://www.audioholics.com/hdtv-reviews/hisense-m7sr-65-tv",
+    "displayDate": "2026-10-01"
+  },
+  "Projector": {
+    "title": "Barcoの高性能プロジェクターが日本初上陸",
+    "summary": "オーラス株式会社が、DESIGNART TOKYO 2026にてBarco Residentialの最新LEDウォールおよび高性能プロジェクターを国内で初めて披露しました。プロフェッショナル向け映像技術のホームシアター市場への展開が注目されています。",
+    "insight": "Barcoのような映画館品質のプロ用ブランドが民生機市場に本格参入することは、高輝度・広色域表現の基準を大きく引き上げる可能性があります。今後、高精細な映像表示を求めるエンジニアにとって、業務用技術が家庭用環境でどう最適化されるかの動向は非常に興味深いテーマです。",
+    "sourceUrl": "https://prtimes.jp/main/html/rd/p/000000022.000180701.html",
+    "sourceName": "PR TIMES",
+    "originalImageUrl": "https://prcdn.freetls.fastly.net/release_image/180701/22/180701-22-db3a5a69d67a6a725aa986aaba2f1913-3900x2600.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+    "originalImageArticleUrl": "https://prtimes.jp/main/html/rd/p/000000022.000180701.html",
+    "displayDate": "2026-10-01"
+  },
+  "Production Monitor": {
+    "title": "Zen 5搭載の超小型AIワークステーション登場",
+    "summary": "ACEMAGICがAMD Ryzen AI Max+ PRO 495を搭載したミニPC「F9A PRO 495」を発表しました。Zen 5アーキテクチャの16コアCPUに加え、最大192GBのLPDDR5Xメモリをサポートするなど、コンパクトながら強力なAI処理能力を備えたワークステーションです。",
+    "insight": "最新のZen 5アーキテクチャをデスクトップサイズの筐体に凝縮した点は、エッジコンピューティングやローカルLLMの開発環境として非常に興味深いです。メモリ帯域を活かしたAI推論性能がどれほど発揮されるか、エンジニア目線での実機レビューが待たれるところです。",
+    "sourceUrl": "https://www.newsshooter.com/2026/09/30/acemagic-f9a-pro-495-ai-workstation/?utm_source=rss&utm_medium=rss&utm_campaign=acemagic-f9a-pro-495-ai-workstation",
+    "sourceName": "Newsshooter",
+    "originalImageUrl": "https://www.newsshooter.com/wp-content/uploads/2026/09/ACEMAGIC-F9A-Mini-AI-Workstation-for-Up-to-300B-MoE-LLMs-Ryzen-AI-MAX-PRO-495.jpeg",
+    "originalImageArticleUrl": "https://www.newsshooter.com/2026/09/30/acemagic-f9a-pro-495-ai-workstation/?utm_source=rss&utm_medium=rss&utm_campaign=acemagic-f9a-pro-495-ai-workstation",
+    "displayDate": "2026-10-01"
+  },
+  "TCL": {
+    "title": "TCLのミッドレンジTV「QM7L」が示すコスパの境界線",
+    "summary": "TCLの中位モデル「QM7L」が、その価格帯を超えた優れた画質とパフォーマンスで注目を集めています。高価なプレミアムモデルに肉薄する性能を低価格で提供しており、ディスプレイ技術の民主化とコストパフォーマンスの向上が改めて評価されています。",
+    "insight": "Mini-LEDのような高輝度・高コントラストなバックライト技術が、ミッドレンジ市場まで完全に普及し、開発コストが最適化されていることを示しています。エンジニアの視点では、ハードウェアのスペック競争が飽和する中で、如何に低コストでプレミアム級の体験を再現するかが製品競争力の鍵となっている点が興味深いです。",
+    "sourceUrl": "https://www.businessinsider.com/guides/tech/tcl-qm7l-sqd-tv-review",
+    "sourceName": "Business Insider",
+    "originalImageUrl": "https://i.insider.com/6a5e87b9ce52cb26b83918cb?width=1200&format=jpeg",
+    "originalImageArticleUrl": "https://www.businessinsider.com/guides/tech/tcl-qm7l-sqd-tv-review",
+    "displayDate": "2026-10-01"
+  },
+  "LED Wall Display": {
+    "title": "IntelのMicroLED×ガラス基板技術特許が示唆する次世代実装",
+    "summary": "Intelが公開した特許により、半導体ダイをガラス基板に直接埋め込み、TGV（貫通ガラスビア）でMicroLEDを駆動する新しいICパッケージング技術が判明しました。ナノワイヤ構造のRGB発光を統合するこの手法は、ディスプレイの超高密度化や次世代の実装技術として注目されています。",
+    "insight": "従来の樹脂基板からガラス基板への移行は、熱膨張係数の最適化や配線密度の向上において重要であり、MicroLEDの量産性を左右する鍵となります。エンジニアとしては、TGV技術を用いたチップ間通信の低遅延化や、光学的・電気的特性が融合したパッケージングの進化を注視すべきです。",
+    "sourceUrl": "//www.ledinside.com/news/2026/9/2026_09_30_02",
+    "sourceName": "LEDinside",
+    "originalImageUrl": null,
+    "originalImageArticleUrl": "//www.ledinside.com/news/2026/9/2026_09_30_02",
+    "displayDate": "2026-10-01"
+  },
+  "SONY": {
+    "title": "Huaweiの新作はソニーの過去作？レンズスタイルカメラの再評価",
+    "summary": "ファーウェイが発表した新作スマホの「外付けカメラ」機能が、2013年にソニーが発売したレンズスタイルカメラ（QXシリーズ）のコンセプトに酷似していると話題です。当時は早すぎた技術として評価が分かれましたが、現代のスマホ連携技術で再評価されるきっかけとなっています。",
+    "insight": "技術の製品化において「タイミング」はプロダクトの成否を分ける極めて重要な要素です。当時のハードウェアは優れていても、エコシステムやUXが追いつかなかった事例として、新規事業や技術ロードマップを検討する際に良い教訓となります。",
+    "sourceUrl": "https://hashout.jp/gadget/11601/",
+    "sourceName": "hashout.jp",
+    "originalImageUrl": "https://hashout.jp/wp-content/uploads/2026/09/2104784782504943943-img-1200x675.png",
+    "originalImageArticleUrl": "https://hashout.jp/gadget/11601/",
+    "displayDate": "2026-10-01"
+  }
+}
