@@ -1,0 +1,102 @@
+{
+  "SRD / XR": {
+    "title": "「タイタンフォール2」がVR化！有志によるMODが公開",
+    "summary": "人気FPSゲーム「タイタンフォール2」のVR化MODが有志によって制作され、無料公開されました。OpenXR対応ヘッドセットで動作し、ファン待望のVR体験をPCVR環境で実現しています。",
+    "insight": "レガシータイトルのOpenXR対応は、既存のゲームエンジン資産を現代のXRデバイスへ適応させる技術的な好例です。VR酔いを抑えるための視点追従や入力処理の最適化という、高負荷FPSタイトルの移植におけるエンジニアリングの工夫が参考になります。",
+    "sourceUrl": "https://www.moguravr.com/titanfall2-vr-mod/",
+    "sourceName": "moguravr.com",
+    "originalImageUrl": "https://assets.moguravr.com/uploads/2026/10/f1c8a39f9d1e1ba7af2e10ad3e7082b4-kix.jj92qh452s75.webp",
+    "originalImageArticleUrl": "https://www.moguravr.com/titanfall2-vr-mod/",
+    "displayDate": "2026-10-02"
+  },
+  "AI": {
+    "title": "OpenAIが警告：悪意あるAIエージェントの活動",
+    "summary": "OpenAIは、100以上のグループがAIエージェントを悪用してサイバー攻撃やフィッシング等の不正行為を行っていることを確認し、警戒を呼びかけました。AI技術の悪用が現実の脅威となりつつあります。",
+    "insight": "エンジニアにとって、開発したAIエージェントが悪用される「AIレッドチーミング」や堅牢な認証メカニズムの設計は喫緊の課題です。AIの自律性が高まる中、出力の検証だけでなく、エージェントが外部環境とどうインタラクションすべきかというセキュリティ境界の再定義が求められています。",
+    "sourceUrl": "https://www.reuters.com/legal/litigation/openai-alerts-more-than-100-groups-about-rogue-ai-agent-activity-2026-10-01/",
+    "sourceName": "Reuters",
+    "originalImageUrl": null,
+    "originalImageArticleUrl": "https://www.reuters.com/legal/litigation/openai-alerts-more-than-100-groups-about-rogue-ai-agent-activity-2026-10-01/",
+    "displayDate": "2026-10-02"
+  },
+  "SONY": {
+    "title": "伝説のスマホ「Xperia 1」が持つ不朽の4Kディスプレイ",
+    "summary": "かつてスマートフォンとして世界で初めて4Kディスプレイを搭載し、業界に衝撃を与えた「Xperia 1」。その画期的な技術とデザインが、現在どのように評価され、デバイスの歴史に刻まれているかを振り返る。",
+    "insight": "高精細なディスプレイ技術はハードウェアの制約を超え、コンテンツ視聴体験を根本から変える力があります。エンジニアの視点では、モバイルデバイスにおける解像度の最適解と、ユーザーの視覚的満足度のトレードオフを考える良いケーススタディとなります。",
+    "sourceUrl": "https://www.vietnam.vn/ja/sony-xperia-1-huyen-thoai-man-hinh-4k-bat-tu",
+    "sourceName": "Vietnam.vn",
+    "originalImageUrl": "https://vstatic.vietnam.vn/vietnam/resource/IMAGE/2026/02/10/1770718077257_man-5-png.webp",
+    "originalImageArticleUrl": "https://www.vietnam.vn/ja/sony-xperia-1-huyen-thoai-man-hinh-4k-bat-tu",
+    "displayDate": "2026-10-02"
+  },
+  "TCL": {
+    "title": "TCLの歴史を辿る：恵州に産業ミュージアムが開館",
+    "summary": "TCLが創業45周年を記念し、中国・恵州に産業ミュージアムを開館しました。同社のハードウェア製造における進化と歴史を展示しており、長年にわたるグローバルな技術変遷を垣間見ることができる施設となっています。",
+    "insight": "家電メーカーの歴史を展示する産業ミュージアムは、企業の技術的な成熟とブランドの信頼性向上を可視化する良い事例です。エンジニアの視点では、単なる製品開発の歴史だけでなく、過去45年間の部品供給網や製造プロセスの進化を分析する好材料と言えます。",
+    "sourceUrl": "https://retailnews.asia/tcl-opens-industrial-museum-in-huizhou-to-mark-45-years-in-hardware",
+    "sourceName": "Retail News Asia",
+    "originalImageUrl": "https://i0.wp.com/crm.retailnews.asia/wp-content/uploads/2017/01/TCL-Electronics-1280x853.jpeg?w=1600&quality=72&strip=all&ssl=1",
+    "originalImageArticleUrl": "https://retailnews.asia/tcl-opens-industrial-museum-in-huizhou-to-mark-45-years-in-hardware",
+    "displayDate": "2026-10-02"
+  },
+  "Gaming Monitor": {
+    "title": "PS5向けAI技術「QSSR」が発表",
+    "summary": "PlayStationが通常のPS5向けAIアップスケーリング技術「QSSR（Quick Spectral Super Resolution）」を発表しました。PS5 ProのPSSRの進化系として開発され、対応タイトルとして『Marvel's Wolverine』などが名指しされています。",
+    "insight": "AIアップスケーリングは、ネイティブ解像度を抑えつつ描画品質を向上させる現代のゲームエンジンの要となる技術です。ハードウェア固有のPSSRだけでなく、通常のPS5世代まで展開を広げる手法は、レンダリングパイプラインの互換性と最適化戦略の重要なケーススタディと言えます。",
+    "sourceUrl": "https://www.4gamer.net/games/990/G999027/20261002001/",
+    "sourceName": "4Gamer.net − 最新記事",
+    "originalImageUrl": "https://www.4gamer.net/games/990/G999027/20261002001/SS/002.jpg",
+    "originalImageArticleUrl": "https://www.4gamer.net/games/990/G999027/20261002001/",
+    "displayDate": "2026-10-02"
+  },
+  "TV": {
+    "title": "テレビ利用時間の減少と「信頼性」の逆説",
+    "summary": "総務省の最新調査で、テレビとネットの平均利用時間の差がさらに拡大していることが分かりました。一方で、「情報源としての重要度」ではテレビが依然として最高値を維持しており、デジタルネイティブ世代の台頭下でも、テレビメディアが持つ情報の信頼性への期待が浮き彫りとなっています。",
+    "insight": "利用時間の減少と信頼度の維持というギャップは、UI/UX設計における「情報の見せ方」や「一次情報の重要性」を再考させる事例です。エンジニアリングにおいても、単なるアクセス数（利用時間）だけでなく、ユーザーがサービスに何を求めているかという「定性的な価値」を再定義する良いきっかけになります。",
+    "sourceUrl": "https://minpo.online/article/7-3.html",
+    "sourceName": "民放online",
+    "originalImageUrl": "https://minpo.online/assets_img/01main.jpg",
+    "originalImageArticleUrl": "https://minpo.online/article/7-3.html",
+    "displayDate": "2026-10-02"
+  },
+  "LED Wall Display": {
+    "title": "デジタルサイネージ運用の最適化：ePaper管理の自動化",
+    "summary": "CAYIN TechnologyとIEI Integrationが開発したePaper管理ソフトウェアは、スマホ経由のデバイスペアリングと集中管理ダッシュボードを提供します。これにより、エンジニアの現地作業が不要となり、会議室スケジュール等の表示更新を大規模かつリアルタイムに自動化可能になりました。",
+    "insight": "ハードウェアの性能だけでなく、デバイスのオンボーディング（ペアリング）からコンテンツ配信までの「スケーラブルな管理レイヤー」こそが製品の価値を左右します。特にIoT化が進む分野では、ITエンジニアを介さない直感的なセットアッププロセスの設計が、ビジネス展開の鍵となります。",
+    "sourceUrl": "https://www.digitalsignagetoday.com/resources/epaper-display-management-software-for-iei-built-by-cayin/",
+    "sourceName": "Digital Signage Today",
+    "originalImageUrl": "https://nmgprod.s3.amazonaws.com/static/_new/sites/dst/og.jpg",
+    "originalImageArticleUrl": "https://www.digitalsignagetoday.com/resources/epaper-display-management-software-for-iei-built-by-cayin/",
+    "displayDate": "2026-10-02"
+  },
+  "Projector": {
+    "title": "最新4Kプロジェクターに見る『黒』の再現技術",
+    "summary": "ホームシアター環境における画質追求が加速しています。XGIMIの最新プロジェクター「TITAN Noir Max」は、家庭環境で映画館のような高コントラストな『黒』の表現を実現。4K高精細かつ没入感のある映像体験が、搬入や設置のハードルを下げて身近なものになりつつあります。",
+    "insight": "映像機器の進化において、単なる解像度だけでなく『黒の沈み込み』という階調表現がエンジニアリングの差別化要因になっています。光学的制約がある中でコントラスト比を最適化するアルゴリズムやハードウェア設計は、低レイテンシ処理と併せて映像伝送システムの重要な最適化ポイントです。",
+    "sourceUrl": "https://av.watch.impress.co.jp/docs/topic/special/2143519.html",
+    "sourceName": "AV Watch",
+    "originalImageUrl": "https://av.watch.impress.co.jp/img/avw/list/2143/519/DSC07187.jpg",
+    "originalImageArticleUrl": "https://av.watch.impress.co.jp/docs/topic/special/2143519.html",
+    "displayDate": "2026-10-02"
+  },
+  "Camera Control": {
+    "title": "脱着式カメラ搭載スマホ「Xsnap 7 Pro」が登場",
+    "summary": "タフネススマホブランドのRugOneから、アクションカメラを本体から物理的に取り外せるユニークなスマホ「Xsnap 7 Pro」が発売されました。IFA 2026で発表された製品で、スマホとアクションカメラの機能を融合させる新しいアプローチとして注目されています。",
+    "insight": "スマホの多機能化において、モジュールによる物理的な拡張性はハードウェア設計の新たなトレンドになり得る技術です。特にカメラモジュールの分離とワイヤレス伝送技術は、通信帯域と低遅延設計の最適化が求められるエンジニアリングの面白い挑戦といえます。",
+    "sourceUrl": "https://petapixel.com/2026/10/01/the-rugone-xsnap-7-pro-is-both-a-smartphone-and-an-action-camera/",
+    "sourceName": "PetaPixel",
+    "originalImageUrl": "https://petapixel.com/assets/uploads/2026/10/RugOne-Xsnap-7-Pro-hero.jpg",
+    "originalImageArticleUrl": "https://petapixel.com/2026/10/01/the-rugone-xsnap-7-pro-is-both-a-smartphone-and-an-action-camera/",
+    "displayDate": "2026-10-02"
+  },
+  "Production Monitor": {
+    "title": "DJIとInsta360がカメラ市場の主役に急浮上",
+    "summary": "2025年のデータで、DJIとInsta360の合計出荷台数がミラーレスカメラ市場全体を大きく上回ることが判明。伝統的なカメラメーカーが苦戦する一方、革新的な小型デバイスが映像制作の潮流を塗り替えつつある。",
+    "insight": "ハードウェアのコモディティ化とソフトウェアによる体験の最適化が、カメラ市場の勢力図を急速に書き換えています。エンジニアの視点では、単なるスペック競争から、エコシステムや連携アプリによるUX重視の製品開発へシフトしている点に注目すべきです。",
+    "sourceUrl": "https://www.cined.com/sony-fx5-lab-test-new-full-frame-benchmark-dji-insta360-outship-mirrorless-cameras-focus-check-ep136/",
+    "sourceName": "CineD",
+    "originalImageUrl": "https://www.cined.com/content/uploads/2026/10/Focus-Check-ep136-featured_s-300x169.jpeg",
+    "originalImageArticleUrl": "https://www.cined.com/sony-fx5-lab-test-new-full-frame-benchmark-dji-insta360-outship-mirrorless-cameras-focus-check-ep136/",
+    "displayDate": "2026-10-02"
+  }
+}

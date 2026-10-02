@@ -1,10 +1,6 @@
 {
   "Production Monitor": [
     {
-      "url": "https://www.cined.com/wood-vs-silicon-valley-a-diy-digital-bolex-openai-buys-the-portrait-mode-team-focus-check-ep135/",
-      "date": "2026-09-25"
-    },
-    {
       "url": "https://www.cined.com/smallrig-x-cined-orbrella-crowdfunding-now-live-60w-bi-color-soft-light-foldable-15-second-setup/",
       "date": "2026-09-26"
     },
@@ -27,13 +23,13 @@
     {
       "url": "https://www.newsshooter.com/2026/09/30/acemagic-f9a-pro-495-ai-workstation/?utm_source=rss&utm_medium=rss&utm_campaign=acemagic-f9a-pro-495-ai-workstation",
       "date": "2026-10-01"
+    },
+    {
+      "url": "https://www.cined.com/sony-fx5-lab-test-new-full-frame-benchmark-dji-insta360-outship-mirrorless-cameras-focus-check-ep136/",
+      "date": "2026-10-02"
     }
   ],
   "SRD / XR": [
-    {
-      "url": "https://metacul-frontier.com/?p=37866",
-      "date": "2026-09-25"
-    },
     {
       "url": "https://news.yahoo.co.jp/articles/2bede61291ebaa973fa2386d6f58e49f8f0b3d21",
       "date": "2026-09-26"
@@ -57,13 +53,13 @@
     {
       "url": "https://wired.jp/article/meta-vr-glasses-apple-vision-pro-different-approach/",
       "date": "2026-10-01"
+    },
+    {
+      "url": "https://www.moguravr.com/titanfall2-vr-mod/",
+      "date": "2026-10-02"
     }
   ],
   "AI": [
-    {
-      "url": "https://www.nytimes.com/2026/09/24/science/anthropic-biology-lab-enzyme.html",
-      "date": "2026-09-25"
-    },
     {
       "url": "https://www.nytimes.com/2026/09/25/technology/openai-hugging-face-hack.html",
       "date": "2026-09-26"
@@ -87,13 +83,13 @@
     {
       "url": "https://www.reuters.com/legal/litigation/google-announces-gemini-4-flagship-ai-model-after-months-delays-2026-09-30/",
       "date": "2026-10-01"
+    },
+    {
+      "url": "https://www.reuters.com/legal/litigation/openai-alerts-more-than-100-groups-about-rogue-ai-agent-activity-2026-10-01/",
+      "date": "2026-10-02"
     }
   ],
   "Gaming Monitor": [
-    {
-      "url": "https://www.techpowerup.com/353066/msi-mag-271kpd7-27-inch-5k-dual-mode-gaming-monitor-launches-in-japan?amp",
-      "date": "2026-09-25"
-    },
     {
       "url": "https://www.kitguru.net/peripherals/monitors/joao-silva/lg-starts-mass-production-of-720hz-gaming-oled-panel/",
       "date": "2026-09-26"
@@ -117,13 +113,13 @@
     {
       "url": "https://pc.watch.impress.co.jp/docs/news/todays_sales/2144708.html",
       "date": "2026-10-01"
+    },
+    {
+      "url": "https://www.4gamer.net/games/990/G999027/20261002001/",
+      "date": "2026-10-02"
     }
   ],
   "TCL": [
-    {
-      "url": "https://www.androidpolice.com/tcls-85-inch-google-tv-a-massive-upgrade-more-affordable/",
-      "date": "2026-09-25"
-    },
     {
       "url": "https://www.wftv.com/news/local/tcl-a400u-adds-mini-led-144hz-gaming-its-art-tv-lineup/FF5MVDCHPBBUTNOM5CSGN7GNHU/",
       "date": "2026-09-26"
@@ -147,13 +143,13 @@
     {
       "url": "https://www.businessinsider.com/guides/tech/tcl-qm7l-sqd-tv-review",
       "date": "2026-10-01"
+    },
+    {
+      "url": "https://retailnews.asia/tcl-opens-industrial-museum-in-huizhou-to-mark-45-years-in-hardware",
+      "date": "2026-10-02"
     }
   ],
   "Camera Control": [
-    {
-      "url": "https://petapixel.com/2026/09/24/are-we-out-of-touch-the-petapixel-podcast/",
-      "date": "2026-09-25"
-    },
     {
       "url": "https://petapixel.com/2026/09/25/you-can-edit-your-photos-with-lightroom-and-photoshop-inside-google-gemini/",
       "date": "2026-09-26"
@@ -177,13 +173,13 @@
     {
       "url": "https://petapixel.com/2026/09/30/dji-sells-more-digital-cameras-than-all-japanese-makers-combined/",
       "date": "2026-10-01"
+    },
+    {
+      "url": "https://petapixel.com/2026/10/01/the-rugone-xsnap-7-pro-is-both-a-smartphone-and-an-action-camera/",
+      "date": "2026-10-02"
     }
   ],
   "LED Wall Display": [
-    {
-      "url": "//www.ledinside.com/news/2026/9/2026_09_24_04",
-      "date": "2026-09-25"
-    },
     {
       "url": "https://www.installation-international.com/case-studies/aja-colorbox-delivers-display-colour-matching-for-large-scale-live-event",
       "date": "2026-09-26"
@@ -207,13 +203,13 @@
     {
       "url": "//www.ledinside.com/news/2026/9/2026_09_30_02",
       "date": "2026-10-01"
+    },
+    {
+      "url": "https://www.digitalsignagetoday.com/resources/epaper-display-management-software-for-iei-built-by-cayin/",
+      "date": "2026-10-02"
     }
   ],
   "SONY": [
-    {
-      "url": "https://cameota.com/sony/52295.html",
-      "date": "2026-09-25"
-    },
     {
       "url": "https://asobinet.com/sony-registers-unannounced-camera-ww261362-with-an-overseas-certification-body/",
       "date": "2026-09-26"
@@ -237,13 +233,13 @@
     {
       "url": "https://hashout.jp/gadget/11601/",
       "date": "2026-10-01"
+    },
+    {
+      "url": "https://www.vietnam.vn/ja/sony-xperia-1-huyen-thoai-man-hinh-4k-bat-tu",
+      "date": "2026-10-02"
     }
   ],
   "TV": [
-    {
-      "url": "https://www.famitsu.com/article/202609/89089",
-      "date": "2026-09-25"
-    },
     {
       "url": "https://www.ign.com/articles/roku-pro-series-4k-oled-tv-deal",
       "date": "2026-09-26"
@@ -267,13 +263,13 @@
     {
       "url": "https://www.audioholics.com/hdtv-reviews/hisense-m7sr-65-tv",
       "date": "2026-10-01"
+    },
+    {
+      "url": "https://minpo.online/article/7-3.html",
+      "date": "2026-10-02"
     }
   ],
   "Projector": [
-    {
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNaUZwenA3S3h2b19jZzJVa3ZHaHlnR1pXLVBtU3Y0Ry1kTVlybGZFSDFjaFVLY2Y5dHRqcXBJYzFBVWNrejZOclQzRjNab2hqSFlKNFY2SlBOV0xDZHdnNmxFdnRTRHJGUDF3TlpTVTh3bWE3WHRxU2ptZmJTU24wU3JCdm1LbGNDaDNwSjVXcVZMVXJKdVNjRTdldEd4b1dpTlE?oc=5",
-      "date": "2026-09-25"
-    },
     {
       "url": "https://av.watch.impress.co.jp/docs/news/2143343.html",
       "date": "2026-09-26"
@@ -297,6 +293,10 @@
     {
       "url": "https://prtimes.jp/main/html/rd/p/000000022.000180701.html",
       "date": "2026-10-01"
+    },
+    {
+      "url": "https://av.watch.impress.co.jp/docs/topic/special/2143519.html",
+      "date": "2026-10-02"
     }
   ]
 }
