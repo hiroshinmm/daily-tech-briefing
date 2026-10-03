@@ -1,0 +1,102 @@
+{
+  "SRD / XR": {
+    "title": "物流現場の人手不足解消へ！VRによる安全教育の導入加速",
+    "summary": "SBS東芝ロジやWacWacなど、物流現場でのフォークリフト教育等にVRを活用する事例が増加しています。人手不足が深刻な物流業界において、場所を選ばず安全に実機に近い訓練が可能なVR教育は、研修効率化と事故防止の切り札として期待されています。",
+    "insight": "VRによる教育は、シミュレーションを通じたリスク体験を可能にし、熟練技術の伝承や新人教育のコスト削減に寄与します。エンジニア視点では、単なる映像提示だけでなく、物理演算を組み合わせたリアリティのある教育ツールの開発と、ログ分析による習熟度評価の自動化が今後の重要課題になるでしょう。",
+    "sourceUrl": "https://www.logi-today.com/1006678",
+    "sourceName": "LOGISTICS TODAY",
+    "originalImageUrl": null,
+    "originalImageArticleUrl": "https://www.logi-today.com/1006678",
+    "displayDate": "2026-10-03"
+  },
+  "AI": {
+    "title": "AnthropicがAI人材育成に1億ドル投資",
+    "summary": "Anthropic社がAIエンジニアの育成に向け、1億ドル（約150億円）規模の投資を行うと発表しました。AIモデルの開発能力が向上する一方で、それを設計・運用できる高度な人材の不足が課題となっており、次世代のAIエンジニア育成を加速させる狙いがあります。",
+    "insight": "AI分野の技術革新はモデル開発から「AIエンジニアリング（実装・統合）」のフェーズへ移行しつつあります。今後エンジニアには、単なるコーディング能力だけでなく、AI特有の設計思想や安全性を考慮したアーキテクチャ設計がますます重要になるでしょう。",
+    "sourceUrl": "https://www.cnbc.com/2026/10/02/anthropic-to-invest-100-million-to-train-ai-engineer-talent.html",
+    "sourceName": "cnbc.com",
+    "originalImageUrl": "https://image.cnbcfm.com/api/v1/image/108314565-1780322976363-gettyimages-2276989325-AFS_ClaudeAILogoPhotoIlustrations_6JPG.jpeg?v=1780336837&w=1920&h=1080",
+    "originalImageArticleUrl": "https://www.cnbc.com/2026/10/02/anthropic-to-invest-100-million-to-train-ai-engineer-talent.html",
+    "displayDate": "2026-10-03"
+  },
+  "Production Monitor": {
+    "title": "Disguise X Seriesの低価格化：ライブ演出の民主化",
+    "summary": "ライブイベント向け映像プラットフォーム「Disguise」がXシリーズを拡充し、小規模なツアーやフェスでも導入しやすい価格帯を実現しました。Bad Bunnyなどの大規模ライブを支えてきた技術が、より広範な制作現場へ開放されます。",
+    "insight": "ハイエンドの映像制作基盤が小規模環境へ降りてくることは、開発者にとって「ツール選定の幅」が広がる好機です。高負荷なイベント制御システムがコストダウンされる背景には、ハードウェアとソフトウェアの最適化による効率化のトレンドが見て取れます。",
+    "sourceUrl": "https://www.provideocoalition.com/disguise-makes-x-series-more-accessible-to-small-sized-productions/",
+    "sourceName": "ProVideo Coalition",
+    "originalImageUrl": "https://www.provideocoalition.com/wp-content/uploads/disguisexseries003-1024x600.jpg",
+    "originalImageArticleUrl": "https://www.provideocoalition.com/disguise-makes-x-series-more-accessible-to-small-sized-productions/",
+    "displayDate": "2026-10-03"
+  },
+  "TCL": {
+    "title": "TCLの「NXTPAPER」技術に注目",
+    "summary": "TCLの新型スマートフォンに採用されたディスプレイ技術「NXTPAPER」が話題です。紙のような質感で目に優しく、カラーとモノクロを自在に切り替えられるのが特徴で、電子ペーパーの視認性とタブレットの利便性を両立させています。",
+    "insight": "反射型に近い視認性と高リフレッシュレートを両立させる制御技術は、モバイルデバイスの長時間使用における新しいUXとして参考になります。バックライト制御とパネル透過率の高度な統合制御は、UI開発者にとってもデバイスの省電力化と可読性のバランスを考える際の重要な事例です。",
+    "sourceUrl": "https://news.yahoo.co.jp/articles/19ac5b4cb1d9b8486d369acecf0b73fdf42f6aaa",
+    "sourceName": "リアルサウンド",
+    "originalImageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261003-00010004-realsound-000-1-view.jpg?exp=10800",
+    "originalImageArticleUrl": "https://news.yahoo.co.jp/articles/19ac5b4cb1d9b8486d369acecf0b73fdf42f6aaa",
+    "displayDate": "2026-10-03"
+  },
+  "Gaming Monitor": {
+    "title": "LG OLEDゲーミングモニターが400ドルOFFの大幅値下げ",
+    "summary": "米Amazonのセールにて、LGのOLEDゲーミングモニターが400ドルの大幅値引きで販売されています。ハイエンドなOLEDディスプレイを手に入れる絶好の機会として、多くのテック系メディアで注目を集めています。",
+    "insight": "OLEDモニターは応答速度が非常に高く、競技系エンジニアの検証環境や高リフレッシュレート環境の構築に最適です。特にパネルの焼き付き防止技術やHDRのピーク輝度性能が向上しているため、長時間のコーディングや開発作業における疲労軽減にも寄与します。",
+    "sourceUrl": "https://mashable.com/tech/sept-24-lg-ultragear-oled-gaming-monitor-deal",
+    "sourceName": "Mashable",
+    "originalImageUrl": "https://helios-i.mashable.com/imagery/articles/05Mdza19DcJvkPzGFbe8gHh/hero-image.fill.size_1200x675.v1790245918.jpg",
+    "originalImageArticleUrl": "https://mashable.com/tech/sept-24-lg-ultragear-oled-gaming-monitor-deal",
+    "displayDate": "2026-10-03"
+  },
+  "SONY": {
+    "title": "ソニー新製品「FX5」の発売延期、液晶不具合が原因か",
+    "summary": "ソニーのビデオカメラ新製品「FX5」の発売が再び延期され、新たな出荷開始日が11月16日に決定しました。噂によれば、この遅延は背面の液晶ディスプレイに関連する技術的な問題が影響している可能性があると報じられています。",
+    "insight": "ハードウェア製品における液晶周辺の不具合は、ドライバやファームウェアの制御だけでなく、筐体の設計や排熱、あるいはパネル供給の品質管理など、複雑なレイヤーが絡み合う典型的な品質リスクです。製品の初期不良を避けるための徹底したサプライチェーン検証と、リリース直前の仕様変更が与える影響について考える良い事例と言えます。",
+    "sourceUrl": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNRkZxLTM3eXJNWkNvQl9ydGFVeEhTdVZlaWVUTi0tdFl3dmJzdkYtRUFYZFZpckNTWG1PYm1laDFncHNCcnFfTV82LS0xSGlMeVlNSlBBUHJWMEpSTmk1Q1RGamhRbjBGNlZMcy1zVTRtOXZDcE1iaHF2Y3JZc2lxbjBQM2NUeEVsbkg1d1l0MlNCWWFrdjJrVnp3?oc=5",
+    "sourceName": "PetaPixel",
+    "originalImageUrl": null,
+    "originalImageArticleUrl": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNRkZxLTM3eXJNWkNvQl9ydGFVeEhTdVZlaWVUTi0tdFl3dmJzdkYtRUFYZFZpckNTWG1PYm1laDFncHNCcnFfTV82LS0xSGlMeVlNSlBBUHJWMEpSTmk1Q1RGamhRbjBGNlZMcy1zVTRtOXZDcE1iaHF2Y3JZc2lxbjBQM2NUeEVsbkg1d1l0MlNCWWFrdjJrVnp3?oc=5",
+    "displayDate": "2026-10-03"
+  },
+  "Projector": {
+    "title": "ゴルフシミュレーター用4Kプロジェクター、BenQが発表",
+    "summary": "BenQがゴルフシミュレーション向けに特化した新型4Kプロジェクター「AK900ST」および「AK800ST」を発表しました。高解像度かつ短焦点性能を活かし、シミュレーター環境での没入感と精細なショット確認を両立するモデルです。",
+    "insight": "プロジェクターの用途がホームシアターだけでなく、特定業界向け（今回はゴルフシミュレーション）へ特化し、高精細化が進んでいる点は興味深いです。映像遅延や色再現性が求められる特定の垂直統合型ユースケースは、エンジニアにとってもハードウェア選定や最適化の観点で注目すべき領域です。",
+    "sourceUrl": "https://www.techpowerup.com/forums/threads/benq-introduces-ak900st-and-ak800st-4k-projectors-aimed-at-golf-simulation.353324/",
+    "sourceName": "TechPowerUp",
+    "originalImageUrl": "https://tpucdn.com/forums/data/assets/logo/logo-og-v25.png",
+    "originalImageArticleUrl": "https://www.techpowerup.com/forums/threads/benq-introduces-ak900st-and-ak800st-4k-projectors-aimed-at-golf-simulation.353324/",
+    "displayDate": "2026-10-03"
+  },
+  "TV": {
+    "title": "アジア大会・男子バレー決勝：日本vsイランの見どころ",
+    "summary": "10月3日に行われるアジア大会男子バレーボール決勝、日本代表対イラン代表の試合情報が注目されています。地上波放送やライブ配信の有無など、日本代表の金メダル獲得を目指す一戦の視聴方法に関心が集まっています。",
+    "insight": "スポーツ中継における「地上波vs配信プラットフォーム」の選択肢拡大は、現代のトラフィック負荷テストの事例としても興味深いです。特に突発的な同時接続者数の増大をさばくバックエンドのアーキテクチャやCDN構成は、エンジニア視点でも非常に重要なインフラ設計の論点です。",
+    "sourceUrl": "https://volleyballking.jp/article/92719/",
+    "sourceName": "バレーボールキング",
+    "originalImageUrl": "https://volleyballking.jp/wp-content/uploads/2026/09/GettyImages-2282999596.jpg",
+    "originalImageArticleUrl": "https://volleyballking.jp/article/92719/",
+    "displayDate": "2026-10-03"
+  },
+  "Camera Control": {
+    "title": "iPhoneのカメラ機能を拡張する「ProRig」が登場",
+    "summary": "ShiftCamがAppleとパートナーシップを結び、iPhone向けの新しいカメラリグシステム「ProRig」を発表しました。iPhoneのカメラ性能を最大限に引き出すためのハードウェア製品で、今月後半にKickstarterでローンチ予定です。",
+    "insight": "スマートフォンがプロレベルの映像制作ツールに進化する中で、こうしたサードパーティによるハードウェアエコシステムの構築は注目に値します。特にAppleと密接に連携した周辺機器は、今後API活用やハード・ソフト一体のワークフローにおいてエンジニアにとっても重要な検討対象となるでしょう。",
+    "sourceUrl": "https://petapixel.com/2026/10/02/shiftcam-and-apple-partner-on-new-prorig-for-iphone/",
+    "sourceName": "PetaPixel",
+    "originalImageUrl": "https://petapixel.com/assets/uploads/2026/10/shiftcam-prorig-hero-vid.mp4",
+    "originalImageArticleUrl": "https://petapixel.com/2026/10/02/shiftcam-and-apple-partner-on-new-prorig-for-iphone/",
+    "displayDate": "2026-10-03"
+  },
+  "LED Wall Display": {
+    "title": "AR/VRの進化を加速：MicroLED光エンジンの最新動向",
+    "summary": "Hongshi Intelligentが開発した0.15ccの超小型フルカラーMicroLED光エンジン「Yunjin XC7」が、深圳のCIOEでアワードを受賞後、オランダの国際会議で公開されました。この製品は、次世代ARグラスのさらなる軽量化と高輝度化を実現する鍵として注目されています。",
+    "insight": "MicroLEDは従来のディスプレイ用途を超え、ウェアラブルAR向けの超小型ディスプレイの主流となりつつあります。ピクセルピッチの微細化だけでなく、光学系（光エンジン）の小型化・効率化がハードウェアエンジニアリングにおける今後の主要な最適化指標となります。",
+    "sourceUrl": "//www.ledinside.com/news/2026/10/2026_10_02_02",
+    "sourceName": "LEDinside",
+    "originalImageUrl": null,
+    "originalImageArticleUrl": "//www.ledinside.com/news/2026/10/2026_10_02_02",
+    "displayDate": "2026-10-03"
+  }
+}
