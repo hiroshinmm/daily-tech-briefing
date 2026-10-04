@@ -1,0 +1,102 @@
+{
+  "SRD / XR": {
+    "title": "VRドキュメンタリーがもたらす「没入型体験」の可能性",
+    "summary": "Metaが配信するドキュメンタリーシリーズが、2D映像以上のインパクトを視聴者に与えていると評価されています。VR特有の没入感が、複雑なテーマをより深く理解させるツールとして機能する好例です。",
+    "insight": "従来の2D映像とは異なり、VRドキュメンタリーは視聴者を「観察者」から「体験者」に変えることで、共感や理解の深度を劇的に向上させます。エンジニアの視点では、単なる視覚的エンタメを超えた、教育や心理的アプローチへのVR活用事例として注目すべきです。",
+    "sourceUrl": "https://www.uploadvr.com/open-season-on-draymond-green-shows-how-well-vr-docuseries-can-work/",
+    "sourceName": "UploadVR",
+    "originalImageUrl": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/10/open-season.png",
+    "originalImageArticleUrl": "https://www.uploadvr.com/open-season-on-draymond-green-shows-how-well-vr-docuseries-can-work/",
+    "displayDate": "2026-10-04"
+  },
+  "AI": {
+    "title": "OpenAIを去る元社員の告発：AI開発と組織文化の課題",
+    "summary": "OpenAIの元社員が、組織の文化が崩壊しているとして退職したことを告白しました。急速に進化するAI技術の裏で、安全性や倫理、組織運営のあり方がエンジニアにとって重大なテーマとなっています。このニュースは、AI企業における透明性とガバナンスの重要性を浮き彫りにしています。",
+    "insight": "AI開発の現場において、技術的な優位性だけでなく、組織内の意思決定プロセスや倫理的なチェック機能がプロジェクトの成否を分ける要因になります。エンジニアは技術選定だけでなく、開発組織のガバナンスや企業文化に対しても批判的な視点を持つことが今後ますます重要になります。",
+    "sourceUrl": "https://www.theatlantic.com/technology/2026/10/openai-safety-team-resignation/688881/",
+    "sourceName": "The Atlantic",
+    "originalImageUrl": "https://cdn.theatlantic.com/thumbor/XRcDfEUMuAcwYSWnXS3dxsMld7A=/0x43:2000x1085/1200x625/media/img/mt/2026/10/2026_10_02_Robinsons_open_ai_safety_final/original.jpg",
+    "originalImageArticleUrl": "https://www.theatlantic.com/technology/2026/10/openai-safety-team-resignation/688881/",
+    "displayDate": "2026-10-04"
+  },
+  "Production Monitor": {
+    "title": "AIエージェントの権限管理：Appleの新たな警告",
+    "summary": "Appleは、自律的に動作するAIエージェントの普及に伴い、macOSの「フルディスクアクセス」権限が深刻なセキュリティリスクになると警告しました。今後はより明示的なユーザーの同意が必要となる見込みです。",
+    "insight": "AIエージェントがシステム全体にアクセスする設計は、開発者にとって利便性とセキュリティのトレードオフとなります。最小権限の原則（PoLP）を再考し、ユーザーの明示的な許可を動的に取得する堅牢なアーキテクチャの構築が求められています。",
+    "sourceUrl": "https://www.newsshooter.com/2026/10/02/apple-has-notified-developers-that-as-ai-agents-become-more-advanced-autonomous-full-disk-access-to-all-data-on-a-mac-poses-an-increasing-risk/?utm_source=rss&utm_medium=rss&utm_campaign=apple-has-notified-developers-that-as-ai-agents-become-more-advanced-autonomous-full-disk-access-to-all-data-on-a-mac-poses-an-increasing-risk",
+    "sourceName": "Newsshooter",
+    "originalImageUrl": "https://www.newsshooter.com/wp-content/uploads/2026/10/AI-740x416.jpg",
+    "originalImageArticleUrl": "https://www.newsshooter.com/2026/10/02/apple-has-notified-developers-that-as-ai-agents-become-more-advanced-autonomous-full-disk-access-to-all-data-on-a-mac-poses-an-increasing-risk/?utm_source=rss&utm_medium=rss&utm_campaign=apple-has-notified-developers-that-as-ai-agents-become-more-advanced-autonomous-full-disk-access-to-all-data-on-a-mac-poses-an-increasing-risk",
+    "displayDate": "2026-10-04"
+  },
+  "TCL": {
+    "title": "TCLの技術「NXTPAPER」が注目される理由",
+    "summary": "TCLの新型スマートフォンに採用されたディスプレイ技術「NXTPAPER」が話題です。紙のような質感で目に優しく、カラーとモノクロを自在に切り替えられる点が特徴。長時間の画面利用における視覚疲労を軽減する新しいアプローチとして注目を集めています。",
+    "insight": "ハードウェアレベルでの低反射・低ブルーライト化は、UX向上における重要な差別化要素です。単なる高精細化を超えて、紙の視認性とデジタルの利便性を融合させるディスプレイ技術の進化は、モバイルデバイスのあり方を変える可能性があります。",
+    "sourceUrl": "https://news.yahoo.co.jp/articles/19ac5b4cb1d9b8486d369acecf0b73fdf42f6aaa",
+    "sourceName": "Real Sound｜リアルサウンド",
+    "originalImageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261003-00010004-realsound-000-1-view.jpg?exp=10800",
+    "originalImageArticleUrl": "https://news.yahoo.co.jp/articles/19ac5b4cb1d9b8486d369acecf0b73fdf42f6aaa",
+    "displayDate": "2026-10-04"
+  },
+  "TV": {
+    "title": "スマートTVのアップデート期限、どうなってる？",
+    "summary": "LGなどのスマートTVにおいて、ソフトウェアアップデートがどの程度の期間提供されるのかという疑問が注目されています。高機能化するテレビの長期的なセキュリティとサポート体制が改めて問われています。",
+    "insight": "家電がIoT化しOSを搭載する現代において、ハードウェアの寿命とOSのアップデート期間の乖離は、エンジニア視点でも避けて通れない課題です。セキュリティ維持のためのパッチ適用ポリシーを、消費者の期待値（購入後のサポート年数）といかに整合させるかが重要です。",
+    "sourceUrl": "https://www.bgr.com/2271401/how-long-will-lg-smart-tv-get-software-updates/",
+    "sourceName": "bgr.com",
+    "originalImageUrl": "https://www.bgr.com/img/gallery/how-long-will-your-lg-smart-tv-get-software-updates/l-intro-1790592758.jpg",
+    "originalImageArticleUrl": "https://www.bgr.com/2271401/how-long-will-lg-smart-tv-get-software-updates/",
+    "displayDate": "2026-10-04"
+  },
+  "SONY": {
+    "title": "ソニー「FX5」の発売延期、LCD欠陥が原因か",
+    "summary": "ソニーの次世代カメラ「FX5」の発売延期について、LCDパネルの欠陥が理由である可能性を示す証拠動画が公開され、話題となっています。公式発表前の品質管理プロセスにおける不具合の露呈として注目されています。",
+    "insight": "ハードウェアエンジニアリングにおいて、量産直前の不具合発覚はサプライチェーンに多大な影響を与えますが、製品リリース後のリコールを防ぐための重要なプロセスでもあります。今回の件は、高精細なディスプレイ技術を搭載するカメラにおける歩留まり管理の難しさを改めて浮き彫りにしています。",
+    "sourceUrl": "https://www.sonyalpharumors.com/here-is-the-sony-fx5-lcd-defect-and-why-this-might-be-good-news/",
+    "sourceName": "SonyAlphaRumors",
+    "originalImageUrl": "https://www.sonyalpharumors.com/wp-content/uploads/2026/10/Screenshot-2026-10-03-at-08.32.33.png",
+    "originalImageArticleUrl": "https://www.sonyalpharumors.com/here-is-the-sony-fx5-lcd-defect-and-why-this-might-be-good-news/",
+    "displayDate": "2026-10-04"
+  },
+  "Gaming Monitor": {
+    "title": "音声認識を自作した3Dアクション「ミナと言霊の物語」に注目",
+    "summary": "OSAKA INDIE GAMES SUMMIT 2026に出展された「ミナと言霊の物語」は、コントローラ操作と「声で岩を呼び出す」などの音声認識を組み合わせた3Dアクションゲーム。開発者のyoshi氏は、外部ライブラリに頼らず音声認識エンジンを自作しており、その技術的挑戦が注目を集めている。",
+    "insight": "音声認識をゲームメカニクスとして実装する際、環境音とのフィルタリングやレイテンシの管理が課題となりますが、自作エンジンを採用することで最適化と柔軟な制御を実現しています。コンシューマーゲーム開発においても、特定の入力デバイスに依存しない直感的なUI/UX設計の先行事例として参考になります。",
+    "sourceUrl": "https://www.4gamer.net/games/047/G104752/20261004002/",
+    "sourceName": "4Gamer.net − 最新記事",
+    "originalImageUrl": "https://www.4gamer.net/games/047/G104752/20261004002/SS/002.jpg",
+    "originalImageArticleUrl": "https://www.4gamer.net/games/047/G104752/20261004002/",
+    "displayDate": "2026-10-04"
+  },
+  "Camera Control": {
+    "title": "Sony FX5のLCD不具合：実は朗報？",
+    "summary": "Sony FX5でLCDアセンブリが意図した位置からずれ、隙間が生じるという不具合が報告されています。しかし、この報告がなぜ「良いニュース」と捉えられているのか、製品品質とコミュニティの反応から読み解きます。",
+    "insight": "ハードウェアの初期不具合はエンジニアにとってUXの懸念材料ですが、修正プロセスが公開されることで将来的な製品安定性の向上やメーカーの対応能力を測る指標になります。構造的な欠陥か製造公差かを見極めることは、ハードウェア設計の知見として非常に興味深いです。",
+    "sourceUrl": "https://www.sonyalpharumors.com/here-is-the-sony-fx5-lcd-defect-and-why-this-might-be-good-news/",
+    "sourceName": "sonyalpharumors",
+    "originalImageUrl": "https://www.sonyalpharumors.com/wp-content/uploads/2026/10/Screenshot-2026-10-03-at-08.32.33.png",
+    "originalImageArticleUrl": "https://www.sonyalpharumors.com/here-is-the-sony-fx5-lcd-defect-and-why-this-might-be-good-news/",
+    "displayDate": "2026-10-04"
+  },
+  "Projector": {
+    "title": "ゴルフシミュレーター特化型BenQ 4Kプロジェクターが登場",
+    "summary": "BenQがゴルフシミュレーション用途に最適化した4K短焦点プロジェクター「AK900ST」および「AK800ST」を発表しました。高精細な映像体験により、屋内練習場や家庭での臨場感を向上させます。",
+    "insight": "プロジェクターの用途がホームシアターから、特定の専門領域（ゴルフ練習場などのシミュレーター）へ最適化・細分化されている点が注目です。特定の垂直統合的なユースケースに対するハードウェアの最適化は、製品付加価値を高める開発の好例といえます。",
+    "sourceUrl": "https://www.techpowerup.com/forums/threads/benq-introduces-ak900st-and-ak800st-4k-projectors-aimed-at-golf-simulation.353324/",
+    "sourceName": "techpowerup.com",
+    "originalImageUrl": "https://tpucdn.com/forums/data/assets/logo/logo-og-v25.png",
+    "originalImageArticleUrl": "https://www.techpowerup.com/forums/threads/benq-introduces-ak900st-and-ak800st-4k-projectors-aimed-at-golf-simulation.353324/",
+    "displayDate": "2026-10-04"
+  },
+  "LED Wall Display": {
+    "title": "Telefónicaの巨大LEDウォール導入に見る監視環境の進化",
+    "summary": "Telefónicaがマドリードの監視センターに23平方メートルの大型LEDウォールを導入しました。これにより、膨大な放送データやネットワーク状況を直感的に俯瞰・監視することが可能となり、オペレーションの効率化が期待されています。",
+    "insight": "高密度なLEDウォールは、単なる映像表示を超え、複雑なシステムデータのリアルタイム可視化（ダッシュボード）としての重要性が増しています。エンジニアとしては、ピクセルピッチの最適化による視認性だけでなく、高解像度入力をマルチソースで統合する際のレイテンシや同期技術に着目すべきです。",
+    "sourceUrl": "https://invidis.com/news/2026/10/control-rooms-telefonica-adds-23-square-meter-alfalite-led-wall-to-madrid-monitoring-hub/",
+    "sourceName": "Sixteen:Nine",
+    "originalImageUrl": "https://invidis.com/wp-content/uploads/2026/10/Telefonica-1.jpg",
+    "originalImageArticleUrl": "https://invidis.com/news/2026/10/control-rooms-telefonica-adds-23-square-meter-alfalite-led-wall-to-madrid-monitoring-hub/",
+    "displayDate": "2026-10-04"
+  }
+}
