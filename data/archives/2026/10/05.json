@@ -1,0 +1,102 @@
+{
+  "AI": {
+    "title": "米政府がAI政策司令塔「SIフォース」を創設",
+    "summary": "米国政府がAI戦略を統括する新たな組織「SIフォース」を設立し、情報機関トップを「AIツァー（責任者）」に任命しました。AIの急速な進化に対し、国家レベルでのガバナンスと競争力強化を目指す動きが加速しています。",
+    "insight": "AIの軍事・産業への影響力が急速に高まる中、国家主導の統制組織が設置されることは、今後のAI開発のガイドラインや調達基準に大きな影響を与えます。エンジニアとしては、単なる技術トレンドだけでなく、国策レベルで策定される規制や標準化の動向が、プロダクト開発の制約やビジネス機会にどう直結するかを注視する必要があります。",
+    "sourceUrl": "https://news.yahoo.co.jp/pickup/6597563",
+    "sourceName": "news.yahoo.co.jp",
+    "originalImageUrl": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/10/5/88bb6f606f113433960d95d812bc41cfb8b9d252472f3ed4de03792f84a19aa7.jpg",
+    "originalImageArticleUrl": "https://news.yahoo.co.jp/pickup/6597563",
+    "displayDate": "2026-10-05"
+  },
+  "SRD / XR": {
+    "title": "Metaが加速するAIスマートグラス開発とXR市場",
+    "summary": "MetaがAI統合型スマートグラスの開発環境を大幅に拡充。単なるVR/ARデバイスを超え、AIエージェントとして日常的に利用されることを目指したプラットフォーム構築に注力しており、開発者向けの機能強化も進められています。",
+    "insight": "AIとウェアラブルデバイスの融合は、エンジニアにとって新たなUI/UX設計の主戦場となりつつあります。LLMをデバイス側でどう低レイテンシで処理し、コンテキスト認識を実装するかが今後の開発における差別化ポイントになるでしょう。",
+    "sourceUrl": "https://www.moguravr.com/vr-ar-mr-weekly-2026-10-5/",
+    "sourceName": "Mogura VR",
+    "originalImageUrl": "https://assets.moguravr.com/uploads/2026/10/d19829815d22402e5f4776da6ed8be3a-kix.qcrlfkjj8yms-300x158.webp",
+    "originalImageArticleUrl": "https://www.moguravr.com/vr-ar-mr-weekly-2026-10-5/",
+    "displayDate": "2026-10-05"
+  },
+  "Camera Control": {
+    "title": "Sonyの広告でAI生成画像に不自然なミスが多発",
+    "summary": "Sony IndiaがFXシリーズのプロモーションでAI生成画像を使用したが、細部に明らかな不自然さやエラーが多発し、注目を集めている。コスト削減のためのAI活用が裏目に出た事例として、クリエイティブにおける生成AIの品質管理が議論されている。",
+    "insight": "プロフェッショナルな機材広告においてAI生成画像を無検証で使用することは、ブランド毀損のリスクを伴います。エンジニアリングの現場でも、AIによるアウトプットを「そのまま信用せず」最終的な品質検証（Human-in-the-loop）がいかに不可欠かを再認識させる好例です。",
+    "sourceUrl": "https://www.sonyalpharumors.com/sony-india-promoting-the-fx-series-with-ai-generated-image-full-of-errors/",
+    "sourceName": "sonyalpharumors",
+    "originalImageUrl": "https://www.sonyalpharumors.com/wp-content/uploads/2026/09/Sony-india.jpg",
+    "originalImageArticleUrl": "https://www.sonyalpharumors.com/sony-india-promoting-the-fx-series-with-ai-generated-image-full-of-errors/",
+    "displayDate": "2026-10-05"
+  },
+  "Gaming Monitor": {
+    "title": "34型ウルトラワイド240Hzが6千円OFF",
+    "summary": "Amazonにて、デルの34型ゲーミングモニター「Alienware 34 AW3426DWM」が6,000円引きの5万3,980円で販売中。高リフレッシュレートと超広視野角を両立したハイエンドモデルがセール対象となっています。",
+    "insight": "高リフレッシュレート環境での開発作業は、スクロールの視認性が向上し、目の疲労軽減にも繋がります。特にウルトラワイド画面は、コード、ターミナル、ドキュメントを並行表示する生産性向上ツールとしても非常に強力です。",
+    "sourceUrl": "https://pc.watch.impress.co.jp/docs/news/todays_sales/2145513.html",
+    "sourceName": "PC Watch",
+    "originalImageUrl": "https://pc.watch.impress.co.jp/img/pcw/list/2145/513/01.jpg",
+    "originalImageArticleUrl": "https://pc.watch.impress.co.jp/docs/news/todays_sales/2145513.html",
+    "displayDate": "2026-10-05"
+  },
+  "TCL": {
+    "title": "Dolby Vision 2対応、全TVでソフト更新が必要に",
+    "summary": "最新規格「Dolby Vision 2」への対応に向け、対象となる全TVモデルでファームウェアのアップデートが必須となることが報じられました。TCLを含む主要メーカーの製品が影響を受ける可能性があります。",
+    "insight": "ファームウェアアップデートによる機能強化は顧客体験を向上させますが、配布時のトラフィック負荷や、古いビルドでの互換性検証といった運用上の課題をエンジニアに突きつけます。OTA更新におけるロールバック戦略や、不具合発生時のリカバリプロセスの堅牢性が問われる事例と言えます。",
+    "sourceUrl": "https://www.flatpanelshd.com/news.php?subaction=showfull&id=1779952806",
+    "sourceName": "FlatpanelsHD",
+    "originalImageUrl": "https://www.flatpanelshd.com/pictures/dolbyvision2logo_1.jpg",
+    "originalImageArticleUrl": "https://www.flatpanelshd.com/news.php?subaction=showfull&id=1779952806",
+    "displayDate": "2026-10-05"
+  },
+  "Projector": {
+    "title": "Ankerの新型プロジェクター「Nebula P1」が海外で高評価",
+    "summary": "Ankerの「Soundcore Nebula P1」は、高い投影性能と強力な低音再生能力を両立したポータブルプロジェクターとして海外メディアPCMagでレビューされました。ホームシアター体験を重視するユーザーに向けた新たな選択肢となります。",
+    "insight": "コンパクトな筐体で低音を強化するオーディオ設計は、ハードウェアエンジニアリングの観点からも興味深いアプローチです。ポータブル機器において音響と映像の品質を両立させる統合設計のトレンドが今後さらに加速するでしょう。",
+    "sourceUrl": "https://www.pcmag.com/reviews/anker-soundcore-nebula-p1",
+    "sourceName": "PCMag",
+    "originalImageUrl": "https://i.pcmag.com/imagery/reviews/05Kc43JIgGisLB7eqSlLLws-8-hero-image-gallery.fit_lim.size_1200x630.v1789756224.jpg",
+    "originalImageArticleUrl": "https://www.pcmag.com/reviews/anker-soundcore-nebula-p1",
+    "displayDate": "2026-10-05"
+  },
+  "SONY": {
+    "title": "ソニー「FX5」発売延期の背景にハードウェア不具合の噂",
+    "summary": "ソニーのシネマカメラ「FX5」の発売が遅れている背景として、液晶モニター周辺の構造的な不具合（隙間ができる問題）が原因である可能性がユーザー調査により指摘されています。品質管理と設計上の課題が注目されています。",
+    "insight": "デバイス開発において、部品の公差や熱膨張を考慮した筐体設計は極めて重要です。特にシネマカメラのような高信頼性が求められる製品では、CAD設計後のプロトタイプ検証におけるハードウェア構造の堅牢性がUXに直結することを再認識させられます。",
+    "sourceUrl": "https://www.imaging-resource.com/news/sony-fx5-user-reveals-possible-cause-of-cinema-camera-delay/",
+    "sourceName": "Imaging Resource",
+    "originalImageUrl": null,
+    "originalImageArticleUrl": "https://www.imaging-resource.com/news/sony-fx5-user-reveals-possible-cause-of-cinema-camera-delay/",
+    "displayDate": "2026-10-05"
+  },
+  "TV": {
+    "title": "スマートTVの寿命とソフトウェア更新：エンジニアの視点",
+    "summary": "LGなどのスマートTVにおけるソフトウェアアップデートのサポート期間が注目されています。高機能化するテレビのOS寿命は、将来的なセキュリティやアプリ互換性に直結するため、購入判断における重要な技術的指標となっています。",
+    "insight": "家電が「OSを搭載したコンピュータ」化したことで、ハードウェアの耐久性だけでなく、メーカーの保守ポリシーが製品寿命を決定づけています。エンジニアとしては、ファームウェア更新のサイクルやサポート終了後のセキュリティリスクを考慮したエコシステム選びが重要です。",
+    "sourceUrl": "https://www.bgr.com/2271401/how-long-will-lg-smart-tv-get-software-updates/",
+    "sourceName": "bgr.com",
+    "originalImageUrl": "https://www.bgr.com/img/gallery/how-long-will-your-lg-smart-tv-get-software-updates/l-intro-1790592758.jpg",
+    "originalImageArticleUrl": "https://www.bgr.com/2271401/how-long-will-lg-smart-tv-get-software-updates/",
+    "displayDate": "2026-10-05"
+  },
+  "LED Wall Display": {
+    "title": "Telefónicaが監視ルームに大型LEDウォールを導入",
+    "summary": "通信大手Telefónicaが、マドリードの放送監視センターに23平方メートルの最新LEDウォールを導入しました。このシステムは、複雑な放送データやネットワーク状況をリアルタイムで視覚化し、監視業務の効率化と情報の即時把握を支援することを目的としています。",
+    "insight": "監視ルームにおけるLEDウォールは、従来のプロジェクターや個別ディスプレイに代わり、継ぎ目のない高精細な情報表示を実現します。エンジニアにとっては、高密度データや複数のダッシュボードを単一のキャンバス上にオーバーレイ表示するUX設計や、信号処理の低遅延化が技術的な注目点です。",
+    "sourceUrl": "https://invidis.com/news/2026/10/control-rooms-telefonica-adds-23-square-meter-alfalite-led-wall-to-madrid-monitoring-hub/",
+    "sourceName": "Sixteen:Nine",
+    "originalImageUrl": "https://invidis.com/wp-content/uploads/2026/10/Telefonica-1.jpg",
+    "originalImageArticleUrl": "https://invidis.com/news/2026/10/control-rooms-telefonica-adds-23-square-meter-alfalite-led-wall-to-madrid-monitoring-hub/",
+    "displayDate": "2026-10-05"
+  },
+  "Production Monitor": {
+    "title": "次世代通信：WiFi 8デバイスが登場",
+    "summary": "TP-LinkがWiFi 8対応の新製品「Archer 8 Ultra」および「Deco 8 Ultra」を発表しました。19Gbpsの高速スループットと10Gポートを備え、18個のスマートアンテナを搭載することで、より安定した大容量通信を実現しています。",
+    "insight": "WiFi 8の登場により、従来のWiFi 7以上に低遅延かつ高密度な環境下での通信効率が向上し、業務用AV機器のIP化をさらに加速させます。エンジニア視点では、ネットワークスタックの最適化だけでなく、こうした広帯域デバイスを前提とした分散型制作環境の設計が重要になります。",
+    "sourceUrl": "https://www.newsshooter.com/2026/10/04/tp-link-wifi-8-devices/?utm_source=rss&utm_medium=rss&utm_campaign=tp-link-wifi-8-devices",
+    "sourceName": "Newsshooter",
+    "originalImageUrl": "https://www.newsshooter.com/wp-content/uploads/2026/10/Introducing-Archer-8-Ultra-The-Most-Reliable-WiFi-Ever-Built-TP-Link.jpeg",
+    "originalImageArticleUrl": "https://www.newsshooter.com/2026/10/04/tp-link-wifi-8-devices/?utm_source=rss&utm_medium=rss&utm_campaign=tp-link-wifi-8-devices",
+    "displayDate": "2026-10-05"
+  }
+}
