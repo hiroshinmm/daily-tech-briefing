@@ -1,0 +1,102 @@
+{
+  "SRD / XR": {
+    "title": "Meta Horizon OS 2.9：ウィンドウ管理が大幅刷新",
+    "summary": "MetaのQuest向け最新アップデート「Horizon OS 2.9 PTC」が公開されました。2Dウィンドウの管理機能が大幅に改善され、マルチタスクの操作性が向上したほか、かつてのクラシックなホーム環境が復活しています。",
+    "insight": "MRにおけるウィンドウ管理は、デスクトップUXをどうVR空間に再定義するかの重要な課題です。空間コンピューティング時代の生産性向上において、ウィンドウの配置やマルチタスク制御の最適化はエンジニアにとっても注目すべきUI/UXの進化といえます。",
+    "sourceUrl": "https://www.uploadvr.com/quests-latest-ptc-overhauls-window-management-brings-back-classic-home-environments/",
+    "sourceName": "UploadVR",
+    "originalImageUrl": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/10/Quest-Horizon-OS-2.9-PTC.png",
+    "originalImageArticleUrl": "https://www.uploadvr.com/quests-latest-ptc-overhauls-window-management-brings-back-classic-home-environments/",
+    "displayDate": "2026-10-06"
+  },
+  "AI": {
+    "title": "米トランプ氏、AI政策の「超知能タスクフォース」創設を発表",
+    "summary": "ドナルド・トランプ氏は、AI政策の統括を担う「超知能タスクフォース」の創設を明らかにしました。技術開発の加速と国際的な競争力維持を目的としており、今後の国家レベルでのAI戦略が大きく転換する可能性があります。AI開発のガバナンス体制に新たな影響を与える注目の動きです。",
+    "insight": "AI戦略の国家主導・組織化が進むことで、将来的にエンジニアにはAI安全性の担保や新たな規制遵守への対応が強く求められることになります。技術スタックの選定においても、これらの政策動向やガイドラインを考慮したアーキテクチャの設計がより重要視されるでしょう。",
+    "sourceUrl": "https://www.bbc.com/japanese/articles/c34g157vz2j7o",
+    "sourceName": "BBC",
+    "originalImageUrl": "https://ichef.bbci.co.uk/news/1200/branded_japanese/9a97/live/e8568220-c056-11f1-ba75-170165fdb734.jpg",
+    "originalImageArticleUrl": "https://www.bbc.com/japanese/articles/c34g157vz2j7o",
+    "displayDate": "2026-10-06"
+  },
+  "TCL": {
+    "title": "TCLの大型テレビが大幅値下げ、Prime Day商戦が激化",
+    "summary": "Amazon Prime Dayの先行セールに伴い、TCLの85インチ等の大型4K QLEDテレビが過去最安値水準まで値下げされています。ハイエンド級のサイズが1,000ドル以下で購入可能となり、家庭用エンターテインメント環境の構築コストが劇的に低下しています。",
+    "insight": "大型Mini-LED/QLEDディスプレイの価格破壊は、高精細な検証環境を低コストで構築したいエンジニアにとっても注目です。パネル単価の下落は、エッジAIや大画面UI設計のプロトタイピングにおけるハードルを大幅に下げています。",
+    "sourceUrl": "https://www.androidheadlines.com/2026/10/its-prime-time-for-savings-and-this-85-inch-tcl-tv-is-down-to-900.html",
+    "sourceName": "Android Headlines",
+    "originalImageUrl": "https://www.androidheadlines.com/wp-content/uploads/2026/10/TCL-85-Inch-QM64L-Deal-1.jpg",
+    "originalImageArticleUrl": "https://www.androidheadlines.com/2026/10/its-prime-time-for-savings-and-this-85-inch-tcl-tv-is-down-to-900.html",
+    "displayDate": "2026-10-06"
+  },
+  "SONY": {
+    "title": "ソニー新型カメラ「FX5」に液晶モニター不具合の報告",
+    "summary": "ソニーのシネマラインカメラ「FX5」において、液晶モニターに不具合があるとの報告が複数寄せられています。以前より噂されていた発売延期との関連性が懸念されており、ユーザーや市場から今後の公式対応に注目が集まっています。",
+    "insight": "映像機器におけるハードウェアの不具合報告は、初期ロットの品質管理やファームウェアの安定性に直結する重要なトピックです。特にプロ向けシネマラインでは信頼性が最優先されるため、エンジニアリング視点では熱設計やディスプレイ駆動系の信号処理に起因するものか、再現性の検証データが議論の焦点となります。",
+    "sourceUrl": "https://cameota.com/sony/52466.html",
+    "sourceName": "CAMEOTA.com",
+    "originalImageUrl": "https://cameota.com/wp-content/uploads/2026/10/FX5_s.jpg",
+    "originalImageArticleUrl": "https://cameota.com/sony/52466.html",
+    "displayDate": "2026-10-06"
+  },
+  "Gaming Monitor": {
+    "title": "接続状況が丸わかり！Ankerのディスプレイ搭載ドックが便利そう",
+    "summary": "Ankerが発売したUSB Type-Cドッキングステーション「Anker Nano USB-C ハブ」は、本体にディスプレイを搭載。USBの認識状況などが一目で確認でき、トラブルシューティングを効率化します。10-in-1の多機能性も魅力です。",
+    "insight": "ハードウェアのステータスを物理ディスプレイで可視化するアプローチは、デバッグ工数の削減に直結するため非常に実用的です。USBプロトコルや認識トラブルに悩まされるエンジニアにとって、ブラックボックス化しやすい周辺機器の可視化は注目すべきトレンドと言えます。",
+    "sourceUrl": "https://pc.watch.impress.co.jp/docs/news/2145862.html",
+    "sourceName": "PC Watch",
+    "originalImageUrl": "https://pc.watch.impress.co.jp/img/pcw/list/2145/862/1.jpg",
+    "originalImageArticleUrl": "https://pc.watch.impress.co.jp/docs/news/2145862.html",
+    "displayDate": "2026-10-06"
+  },
+  "Production Monitor": {
+    "title": "Thunderbolt 5対応：10GbEアダプターが登場",
+    "summary": "SonnetからThunderbolt 5を活用した10 Gigabit Ethernetアダプター「Solo10G T5」が発売されました。Mac、Windows、Linux、さらにMシリーズ搭載iPad Proにも対応し、高速ネットワーク環境を外付けで手軽に構築可能です。",
+    "insight": "Thunderbolt 5の帯域幅を活かすことで、既存のEthernetインフラをボトルネックにしない高速なデータ転送が可能になります。特に大容量の動画素材を扱うワークフローにおいて、物理接続のアップグレードはエンジニアが注目すべきインフラ強化策です。",
+    "sourceUrl": "https://www.provideocoalition.com/sonnet-solo10g-t5-a-10-gigabit-ethernet-thunderbolt-5-adapter/",
+    "sourceName": "ProVideo Coalition",
+    "originalImageUrl": "https://www.provideocoalition.com/wp-content/uploads/sonnetadapter004.jpg",
+    "originalImageArticleUrl": "https://www.provideocoalition.com/sonnet-solo10g-t5-a-10-gigabit-ethernet-thunderbolt-5-adapter/",
+    "displayDate": "2026-10-06"
+  },
+  "TV": {
+    "title": "Prime Day目前のTVセールトレンドとMiniLEDの普及",
+    "summary": "Amazon Prime Dayを前に、Sony、Samsung、Hisenseなどの主要メーカーでMiniLEDやOLED TVが最大25%オフとなる大規模なセールが始まっています。特に安価なMiniLEDモデルが普及し、旧来のテレビ体験を一新させるほどの性能向上を見せています。",
+    "insight": "デバイスの進化に伴い、画質処理やUIの表示最適化などソフトウェアエンジニアが考慮すべきハードウェアの性能閾値が底上げされています。コンシューマー向け機器の普及は、クロスプラットフォームなメディア配信アプリの開発において、最新のディスプレイ技術への対応と最適化を改めて検討する良い機会です。",
+    "sourceUrl": "https://www.pcmag.com/deals/tv-deals-early-prime-day-2026-oct-5",
+    "sourceName": "pcmag.com",
+    "originalImageUrl": "https://i.pcmag.com/imagery/articles/00jSvu6OArNU36EdrCFpSoc-1.fit_lim.size_1200x630.v1790864485.png",
+    "originalImageArticleUrl": "https://www.pcmag.com/deals/tv-deals-early-prime-day-2026-oct-5",
+    "displayDate": "2026-10-06"
+  },
+  "Projector": {
+    "title": "Hisenseの新型4Kレーザープロジェクターが240Hz対応",
+    "summary": "Hisenseが発表した最新の4Kトリプルレーザープロジェクターは、1800 CVIAルーメンの輝度に加え、リフレッシュレート240Hzでのゲームプレイに対応しました。360度回転するジンバル機構を搭載しており、ホームシアターの柔軟性を高めています。",
+    "insight": "プロジェクターにおいて高リフレッシュレート対応が進むことは、ゲーミングモニターに近い体験を大画面で実現する重要なトレンドです。単なる映像鑑賞用デバイスから、低遅延技術を組み込んだ高機能ディスプレイへと進化しており、製品選定の評価軸が変化しています。",
+    "sourceUrl": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQbkhqbkpjOUYyTDJ1aGpfTVlidlY1TnhyZjBuQjVBdlJGRTd6TzNYNmIzdVFBTDhoenZDTU43LURsTVlSTjBhaHp3RjlaWHdwRV9DMmt2dEpCQzlhLU5IUXpSc0dIZnQ2cVpJYU5saGxzcTZCRkM5aUNKOHB6MmVhVkFrSjFMS2xSdVdBTE5mTVhrYm40X1JVbkUyR0ZDemM?oc=5",
+    "sourceName": "Gizmochina",
+    "originalImageUrl": null,
+    "originalImageArticleUrl": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQbkhqbkpjOUYyTDJ1aGpfTVlidlY1TnhyZjBuQjVBdlJGRTd6TzNYNmIzdVFBTDhoenZDTU43LURsTVlSTjBhaHp3RjlaWHdwRV9DMmt2dEpCQzlhLU5IUXpSc0dIZnQ2cVpJYU5saGxzcTZCRkM5aUNKOHB6MmVhVkFrSjFMS2xSdVdBTE5mTVhrYm40X1JVbkUyR0ZDemM?oc=5",
+    "displayDate": "2026-10-06"
+  },
+  "LED Wall Display": {
+    "title": "MicroLEDの進化：AIグラスに搭載される超小型ライトエンジン",
+    "summary": "Hongshi Intelligentが開発したフルカラーMicroLEDライトエンジン「XC6」が、Skyneaの新型AIグラスに採用されました。重量50g以下という軽量性を実現しながら、バイノーラル・フルカラー導波路ディスプレイを備え、リアルタイム翻訳や画像認識、音声対話といった高度なAI機能をウェアラブルな形で提供します。",
+    "insight": "MicroLEDは高輝度かつ高効率であるため、ARグラスのような省電力性が求められる極小デバイスに最適です。ハードウェアエンジニアとしては、ディスプレイの小型化とAI処理の低レイテンシ化が、今後のウェアラブル市場での技術優位性を左右する重要な鍵となるでしょう。",
+    "sourceUrl": "//www.ledinside.com/news/2026/10/2026_10_05_01",
+    "sourceName": "LEDinside",
+    "originalImageUrl": null,
+    "originalImageArticleUrl": "//www.ledinside.com/news/2026/10/2026_10_05_01",
+    "displayDate": "2026-10-06"
+  },
+  "Camera Control": {
+    "title": "カメラ大手4社の戦略、それぞれの未来像",
+    "summary": "キヤノン、ニコン、ソニー、富士フイルムの経営陣へのインタビューから、各社が今後のカメラ業界をどのように見据えているかを比較考察した記事。写真の未来に対する各社の異なるアプローチが議論されています。",
+    "insight": "ハードウェア性能の競争から、ソフトウェア統合やAI活用といった差別化戦略へシフトする様子が見て取れます。エンジニア視点では、単なるハード開発だけでなく、エコシステムやUXでいかに価値を最大化するかの視点が重要です。",
+    "sourceUrl": "https://petapixel.com/2026/10/05/canon-nikon-sony-and-fujifilm-all-see-photographys-future-differently/",
+    "sourceName": "PetaPixel",
+    "originalImageUrl": "https://petapixel.com/assets/uploads/2026/10/Sony-Canon-Nikon-and-Fujifilm-All-See-Photographys-Future-Differently.jpg",
+    "originalImageArticleUrl": "https://petapixel.com/2026/10/05/canon-nikon-sony-and-fujifilm-all-see-photographys-future-differently/",
+    "displayDate": "2026-10-06"
+  }
+}
