@@ -1,0 +1,102 @@
+{
+  "SRD / XR": {
+    "title": "Titanfall 2のVRModが秀逸、インストーラーも革新的",
+    "summary": "人気FPS『Titanfall 2』のVRModがリリースされ、その完成度の高さが話題です。特筆すべきは、複雑なMod導入プロセスを自動化し、ユーザー体験を劇的に向上させたCircuitLord氏による専用インストーラーの存在です。",
+    "insight": "Mod文化において、いかにユーザーの導入障壁（摩擦）を減らすかがコミュニティ拡大の鍵であることを示しています。複雑なセットアップを抽象化する優れたUX設計は、どのアプリケーション開発においても不可欠な視点です。",
+    "sourceUrl": "https://www.uploadvr.com/titanfall-2s-vr-mod-is-stellar-and-its-installer-is-the-best-thing-about-it/",
+    "sourceName": "UploadVR",
+    "originalImageUrl": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/10/titanfall-2-ark-1-2560x1440-a4cd922cfdc6.png",
+    "originalImageArticleUrl": "https://www.uploadvr.com/titanfall-2s-vr-mod-is-stellar-and-its-installer-is-the-best-thing-about-it/",
+    "displayDate": "2026-10-07"
+  },
+  "AI": {
+    "title": "GartnerがAI時代のサイバーセキュリティ新指針を発表",
+    "summary": "Gartner Japanが、AIの普及に伴い複雑化する脅威に対応するための「AI時代のサイバーセキュリティ」に関するハイプ・サイクルを発表しました。AIが悪用された攻撃の高度化・効率化が懸念される中、セキュリティ対策の新たな指針が示されています。",
+    "insight": "AIを利用した攻撃手法の進化により、従来の境界防御だけでは防衛が困難になっています。エンジニアはAIを活用した検知・防御システムの導入だけでなく、AIモデル自体への攻撃（プロンプトインジェクションやデータポイズニング等）に対するガードレールの設計が重要です。",
+    "sourceUrl": "https://www.gartner.co.jp/ja/newsroom/press-releases/2026-10-07-gartner-identifies-the-hype-cycle-for-cybersecurity-in-the-age-of-ai-in-japan",
+    "sourceName": "Gartner Japan",
+    "originalImageUrl": null,
+    "originalImageArticleUrl": "https://www.gartner.co.jp/ja/newsroom/press-releases/2026-10-07-gartner-identifies-the-hype-cycle-for-cybersecurity-in-the-age-of-ai-in-japan",
+    "displayDate": "2026-10-07"
+  },
+  "Gaming Monitor": {
+    "title": "ついに1000Hz超え！ゲーミングモニターの限界突破",
+    "summary": "AGONがOC1050Hzという驚異的なリフレッシュレートを実現した新型ゲーミングモニターを発表しました。ミリ秒単位の極限の流動性を実現しており、ディスプレイ技術の進化が加速しています。",
+    "insight": "リフレッシュレートが1000Hzを超えることで、フレームタイムのさらなる短縮や入力遅延の極小化が期待できます。ソフトウェア開発においても、この高フレームレート環境を前提とした描画パイプラインの最適化や同期処理の設計が今後の課題になるでしょう。",
+    "sourceUrl": "https://www.prnewswire.com/news-releases/agon-unveils-oc1050hz-gaming-monitor-delivering-millisecond-fluidity-302900496.html",
+    "sourceName": "PR Newswire",
+    "originalImageUrl": "https://mmx.prnewswire.com/media/MS2003916/AGP257FT.jpg?id=OA2991429&p=facebook",
+    "originalImageArticleUrl": "https://www.prnewswire.com/news-releases/agon-unveils-oc1050hz-gaming-monitor-delivering-millisecond-fluidity-302900496.html",
+    "displayDate": "2026-10-07"
+  },
+  "Projector": {
+    "title": "Hisenseの新型4Kプロジェクターに見る物理UIの進化",
+    "summary": "Hisenseの「Vidda C3」など、最新の4Kレーザープロジェクターが米国市場に投入されました。最大300インチの投影能力に加え、ローズゴールドのジンバル一体型デザインなど、インテリアと調和する物理ギミックが注目されています。",
+    "insight": "AV機器におけるUXはソフトウェア性能だけでなく、設置環境に馴染むハードウェア設計へシフトしています。ジンバル構造の採用は、自動台形補正やピント合わせといった内部アルゴリズムと、物理的な可動範囲の協調制御が求められる興味深いエンジニアリング領域です。",
+    "sourceUrl": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPeE5lTTdmLXdxM3JXYzZFY3ZnckFwcmlFM0hsbFVsQThhSENRcnU4V29wZllmbGRXRHRjRUNYMjFuNHlodXB1VGRNSHltUEk2cndPNG9RbFkxUHNsNGxaVXJ0bDZjUHlrdFFyX1VnUm9Fb3lzbjFnU3hmY0xSbnJMcXUtNnhoTjQ3ZjM5SXJIWi1HcndmZG1IU01hWm81RkljY3F0eUxuRml3aTVWMVJxVVJFZWFtaUh4VDhPbGhEVnJPUTI5TEx1SmJCbzFHTVhWWm4xYl9kVGo?oc=5",
+    "sourceName": "Notebookcheck",
+    "originalImageUrl": null,
+    "originalImageArticleUrl": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPeE5lTTdmLXdxM3JXYzZFY3ZnckFwcmlFM0hsbFVsQThhSENRcnU4V29wZllmbGRXRHRjRUNYMjFuNHlodXB1VGRNSHltUEk2cndPNG9RbFkxUHNsNGxaVXJ0bDZjUHlrdFFyX1VnUm9Fb3lzbjFnU3hmY0xSbnJMcXUtNnhoTjQ3ZjM5SXJIWi1HcndmZG1IU01hWm81RkljY3F0eUxuRml3aTVWMVJxVVJFZWFtaUh4VDhPbGhEVnJPUTI5TEx1SmJCbzFHTVhWWm4xYl9kVGo?oc=5",
+    "displayDate": "2026-10-07"
+  },
+  "Camera Control": {
+    "title": "xAIがAI画像生成規制を阻止：法的論争の行方",
+    "summary": "米ミネソタ州が制定した、同意のないAIわいせつ画像生成を禁じる法律に対し、イーロン・マスク氏率いるxAIが異議を申し立て、差し止めに成功しました。この判決は、AI規制と表現の自由の境界線を巡る重要な法的先例となる可能性があります。",
+    "insight": "AI倫理と規制の観点から、アルゴリズムの制御と法的責任の所在が問われています。技術開発の自由と社会的被害の防止という相反する要求の中で、テック企業がいかにしてプラットフォームの安全性を担保するかがエンジニアにとっても重要な課題です。",
+    "sourceUrl": "https://petapixel.com/2026/10/06/elon-musks-xai-blocks-minnesotas-landmark-ban-on-ai-nudification-apps/",
+    "sourceName": "PetaPixel",
+    "originalImageUrl": "https://petapixel.com/assets/uploads/2026/10/elon-musk-minnesota-lawsuit-ban.jpg",
+    "originalImageArticleUrl": "https://petapixel.com/2026/10/06/elon-musks-xai-blocks-minnesotas-landmark-ban-on-ai-nudification-apps/",
+    "displayDate": "2026-10-07"
+  },
+  "TCL": {
+    "title": "TCLとSamsung、Mini-LEDの定義を巡り法廷闘争へ",
+    "summary": "TCLが、Mini-LEDテレビの定義とマーケティングを巡り、Samsungを提訴しました。市場でのシェア争いが激化する中、技術的なラベリングが消費者の認識に与える影響と企業間の競争が法廷の場に持ち込まれています。",
+    "insight": "ディスプレイ業界では、Mini-LEDやQLEDといった用語の定義がマーケティング上の差別化戦略に直結しています。エンジニアリング視点では、単なるスペックの数値競争だけでなく、規格の厳密な定義と透明性の確保がブランド信頼性に大きく関与することを示す事例です。",
+    "sourceUrl": "https://www.channelnews.com.au/tcl-takes-samsung-to-court-over-what-really-counts-as-a-mini-led-tv/",
+    "sourceName": "ChannelNews.com.au",
+    "originalImageUrl": "https://www.channelnews.com.au/wp-content/uploads/2025/08/Mini-LED-7-1200x800-1.jpg",
+    "originalImageArticleUrl": "https://www.channelnews.com.au/tcl-takes-samsung-to-court-over-what-really-counts-as-a-mini-led-tv/",
+    "displayDate": "2026-10-07"
+  },
+  "Production Monitor": {
+    "title": "映像業界の聖地「フォトキナ」の魂がケルンに帰還",
+    "summary": "2027年から「Imaging World」がケルンで開催されることが決定しました。かつて映像業界の祭典として知られた「フォトキナ（photokina）」の名称が復活し、ケルンメッセが運営を引き継ぐ形となります。業界の歴史的背景と展示会運営の再編として注目されています。",
+    "insight": "歴史的な展示会ブランドの名称復活は、衰退したイベントの再定義やコミュニティの再集結を狙うマーケティング戦略として非常に興味深いです。ソフトウェア開発においても、過去の信頼ある名称や資産を現代のコンテキストに合わせて再利用するブランディング戦略は、レガシーを価値に変える重要な視点となります。",
+    "sourceUrl": "https://www.cined.com/imaging-world-moves-to-cologne-for-2027-koelnmesse-takes-over-photokina-name-returns/",
+    "sourceName": "CineD",
+    "originalImageUrl": "https://www.cined.com/content/uploads/2026/10/Imaging-World-moves-to-Cologne-300x169.jpeg",
+    "originalImageArticleUrl": "https://www.cined.com/imaging-world-moves-to-cologne-for-2027-koelnmesse-takes-over-photokina-name-returns/",
+    "displayDate": "2026-10-07"
+  },
+  "SONY": {
+    "title": "ソニーのゲーミングギア「INZONE」シリーズが新色追加と大規模セールを実施",
+    "summary": "ソニーはゲーミングヘッドセット「INZONE H9 II/E9」の新色モデルを発表しました。また、ゲーミングモニター「INZONE M10S/M9II」などを対象とした最大2.5万円の期間限定タイムセールをソニーストアで開催中です。",
+    "insight": "ハードウェア性能だけでなく、ブランドの刷新やセール戦略によるゲーミング市場への本格的な浸透が見て取れます。エンジニア視点では、こうした製品サイクルやゲーミング周辺機器の市場拡大が、今後のXR体験のベースとなるディスプレイ技術の進化をどう加速させるかに注目です。",
+    "sourceUrl": "https://kunkoku.jp/inzonesale202610.html",
+    "sourceName": "ソニーが基本的に好き。",
+    "originalImageUrl": "https://kunkoku.jp/wp-content/uploads/2026/10/261007a04.jpg",
+    "originalImageArticleUrl": "https://kunkoku.jp/inzonesale202610.html",
+    "displayDate": "2026-10-07"
+  },
+  "LED Wall Display": {
+    "title": "デジタルサイネージの「CMS単一化」は本当に正解か？",
+    "summary": "大規模なサイネージネットワーク構築において「単一のCMS」を選択することが必ずしも最適とは限らないという議論です。コンテンツの目的や性質、表示場所に応じて最適なプラットフォームを使い分ける「ベスト・オブ・ブリード」の考え方が、運用効率やシステムコストの観点から推奨されています。",
+    "insight": "エンジニア視点では、単一CMSによる縛りは将来的な機能拡張や特定要件（高度なHTMLレンダリング等）への対応を困難にする技術的負債になり得ます。ハードウェア（プレイヤー）の共通化を担保しつつ、アプリケーション層を柔軟に選択できるアーキテクチャ設計こそが、長期的な運用コスト最適化の鍵となります。",
+    "sourceUrl": "https://www.digitalsignagetoday.com/blogs/the-single-cms-myth-why-the-right-platform-beats-one-platform/",
+    "sourceName": "Digital Signage Today",
+    "originalImageUrl": "https://nmgprod.s3.amazonaws.com/media/file/72/c2/fc124caf1c0d76ff8864bf645ac2/cover_image__OaSI9jeq__AdobeStock_1923129430.jpeg.360x190_q85_crop_upscale.webp",
+    "originalImageArticleUrl": "https://www.digitalsignagetoday.com/blogs/the-single-cms-myth-why-the-right-platform-beats-one-platform/",
+    "displayDate": "2026-10-07"
+  },
+  "TV": {
+    "title": "Amazon Prime DayでOLEDテレビが大幅割引に",
+    "summary": "Amazon Prime Dayに合わせて、SonyやRoku、LGなどの主要ブランドのOLED（有機EL）テレビが過去最安値水準で販売されています。120Hzのゲーミング対応モデルや高性能モデルが大幅に値下げされており、テレビの買い替えを検討しているユーザーにとって非常に魅力的なセールとなっています。",
+    "insight": "OLEDパネルのコスト低下とPrime Dayの在庫処分が重なり、家庭用ディスプレイのハイエンド化が加速しています。エンジニアとしては、最新テレビの低遅延ゲーミング性能や、OSによるUIのUX改善度合いをチェックする好機と言えます。",
+    "sourceUrl": "https://www.zdnet.com/home-and-office/home-entertainment/lg-c6-oled-tv-amazon-prime-day-deal-2026/",
+    "sourceName": "ZDNET",
+    "originalImageUrl": "https://www.zdnet.com/wp-content/uploads/sites/3/mg-8987_2e0202.jpg",
+    "originalImageArticleUrl": "https://www.zdnet.com/home-and-office/home-entertainment/lg-c6-oled-tv-amazon-prime-day-deal-2026/",
+    "displayDate": "2026-10-07"
+  }
+}
