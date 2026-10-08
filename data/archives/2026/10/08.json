@@ -1,0 +1,102 @@
+{
+  "SRD / XR": {
+    "title": "UnityとNVIDIAが協業、OpenUSDで産業用XR開発を強化",
+    "summary": "UnityがNVIDIAとの協業を発表し、製造やロボティクス向けの「Unity USD Toolkit」を公開。OpenUSDを活用し、Isaac Simなどのシミュレーション環境とシームレスに連携することで、産業向けXR開発の効率化を目指します。",
+    "insight": "OpenUSDの採用により、異なるツール間でのデータ互換性が向上し、デジタルツイン構築のパイプラインが大幅に短縮されます。エンジニアにとっては、独自ツールから業界標準フォーマットへの移行を検討すべき重要な転換点となるでしょう。",
+    "sourceUrl": "https://www.moguravr.com/unity-usd-toolkit/",
+    "sourceName": "Mogura VR",
+    "originalImageUrl": "https://assets.moguravr.com/uploads/2026/10/45f9d4f1d240a74473d7781459d9c7e3-kix.jg6iqauqz27k-300x169.webp",
+    "originalImageArticleUrl": "https://www.moguravr.com/unity-usd-toolkit/",
+    "displayDate": "2026-10-08"
+  },
+  "AI": {
+    "title": "MicrosoftがPCへのAI搭載を加速、NVIDIAと提携",
+    "summary": "MicrosoftはPCへのAI搭載を大幅に強化し、Appleに対抗する姿勢を鮮明にしました。NVIDIAの高性能半導体を採用し、AIを常時稼働させても無料で利用できる環境を提供することで、WindowsエコシステムにおけるAI活用の普及とユーザー体験の向上を目指します。",
+    "insight": "ローカルLLMの推論性能が向上し、クラウド依存からの脱却が現実的になっています。エンジニアにとっては、OSレベルで統合されたAI機能を活用したアプリ開発や、エッジAIのユースケースを再定義する良い機会となります。",
+    "sourceUrl": "https://www.nikkei.com/article/DGXZQOGN07CJJ0X01C26A0000000/",
+    "sourceName": "日本経済新聞",
+    "originalImageUrl": "https://article-image-ix.nikkei.com/https%3A%2F%2Fimgix-proxy.n8s.jp%2FDSXZQO3698676008102026000000-1.jpg?auto=compress&bg=FFFF&crop=focalpoint&fit=crop&fm=jpg&fp-x=0.82&fp-y=0.51&h=630&w=1200&s=6cc486f5a7843d97877d83500e4e89ad",
+    "originalImageArticleUrl": "https://www.nikkei.com/article/DGXZQOGN07CJJ0X01C26A0000000/",
+    "displayDate": "2026-10-08"
+  },
+  "Gaming Monitor": {
+    "title": "200HzのWQHDモニターが2万円台に！",
+    "summary": "Amazonにて、LGの27型ゲーミングモニター「UltraGear 27G610A-B」がセール対象となり、約2万6,400円で販売中。200HzのリフレッシュレートとWQHD解像度を兼ね備えた高コスパモデルです。",
+    "insight": "高リフレッシュレートかつWQHD解像度のモニターがこの価格帯まで落ちてきたのは、開発環境の快適性を求めるエンジニアにとって好機です。マルチディスプレイ構築のコストダウンや、より精細なエディタ表示環境の整備として検討に値します。",
+    "sourceUrl": "https://pc.watch.impress.co.jp/docs/news/todays_sales/2146605.html",
+    "sourceName": "PC Watch",
+    "originalImageUrl": "https://pc.watch.impress.co.jp/img/pcw/list/2146/605/01.jpg",
+    "originalImageArticleUrl": "https://pc.watch.impress.co.jp/docs/news/todays_sales/2146605.html",
+    "displayDate": "2026-10-08"
+  },
+  "SONY": {
+    "title": "ソニーがメタへXR特許419件を譲渡、ハード戦略転換の兆しか",
+    "summary": "ソニーグループがメタ（Meta）に対し、顔認識光学系や360度カメラ技術などを含む419件のXR関連特許を譲渡したことが報じられました。市場ではソニーによるXRハードウェア事業の縮小や、特許収益化への戦略転換を示唆するものとして注目されています。",
+    "insight": "特許ポートフォリオの譲渡は、特定のR&D領域からの撤退や資産の再配分を示す重要なシグナルです。エンジニア視点では、単なる技術開発だけでなく、保有する知財をどのように価値化（マネタイズや提携）するかが、企業の技術戦略において極めて重要であることを示しています。",
+    "sourceUrl": "https://www.afpbb.com/articles/-/3656566",
+    "sourceName": "AFPBB News",
+    "originalImageUrl": "https://afpbb.ismcdn.jp/mwimgs/8/e/1000x/img_8eba9199d36e8375ff2fe7f898dec723256351.jpg",
+    "originalImageArticleUrl": "https://www.afpbb.com/articles/-/3656566",
+    "displayDate": "2026-10-08"
+  },
+  "Camera Control": {
+    "title": "Adobe製品のOSS代替「ArtCraft」が登場",
+    "summary": "ソフトウェアエンジニアのBrandon Thomas氏が、PhotoshopやPremiereなどのAdobe CC主要ツールをAIを用いて再構築し、OSSとして公開しました。macOS、Windows、Linuxで動作し、無料で使用可能です。",
+    "insight": "AIモデルを基盤とした画像・動画処理ツールが、プロ用スイートと同等の操作感を提供できるようになった点は非常に興味深い技術的転換点です。レガシーな商用ツールからOSSへの置き換えが加速するのか、今後のパフォーマンス検証やコミュニティによる貢献に注目が集まります。",
+    "sourceUrl": "https://petapixel.com/2026/10/07/someone-rebuilt-free-open-source-versions-of-photoshop-premiere-and-lightroom-using-ai/",
+    "sourceName": "PetaPixel",
+    "originalImageUrl": "https://petapixel.com/assets/uploads/2026/10/artcraft-featured.jpg",
+    "originalImageArticleUrl": "https://petapixel.com/2026/10/07/someone-rebuilt-free-open-source-versions-of-photoshop-premiere-and-lightroom-using-ai/",
+    "displayDate": "2026-10-08"
+  },
+  "TV": {
+    "title": "セールで注目！Mini LED・OLEDテレビの動向",
+    "summary": "Amazonプライムデー等のセールに合わせ、Roku、LG、Sonyなどの高性能なMini LEDおよびOLEDテレビで大幅な値引きやサウンドバー等のバンドル特典が展開されています。高画質テレビがかつてないほど手の届きやすい価格帯へ推移しています。",
+    "insight": "大型ディスプレイの低価格化は、開発環境やマルチメディア体験の向上においてハードウェアの選択肢を広げます。特にOLED（有機EL）の普及価格帯への浸透は、UI設計における輝度やコントラスト表現の検証環境としての活用も期待されます。",
+    "sourceUrl": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPSHJNVU5nRVpaMlUtX1NuVlMzT2pqV25weHVXLXE5d01NcFhzemJNVUF6Q2E0SldNZjdWTFNtOHQtNHY1UmlnUHhVZUVWRC02X1pLYnB1TW81ZWl1eE16U3dNcjJfcDVrYVNzMmUzMlYwNERkUk5JaFNDeWZxV3VVTW1MV1puckdxckwxUVNxZjRhYXJfNHUyblpReXQycmgwb2RkbnU4UWp1V2hZSUE?oc=5",
+    "sourceName": "HotHardware",
+    "originalImageUrl": null,
+    "originalImageArticleUrl": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPSHJNVU5nRVpaMlUtX1NuVlMzT2pqV25weHVXLXE5d01NcFhzemJNVUF6Q2E0SldNZjdWTFNtOHQtNHY1UmlnUHhVZUVWRC02X1pLYnB1TW81ZWl1eE16U3dNcjJfcDVrYVNzMmUzMlYwNERkUk5JaFNDeWZxV3VVTW1MV1puckdxckwxUVNxZjRhYXJfNHUyblpReXQycmgwb2RkbnU4UWp1V2hZSUE?oc=5",
+    "displayDate": "2026-10-08"
+  },
+  "Projector": {
+    "title": "エプソン7年ぶりの新作4Kプロジェクターが登場",
+    "summary": "エプソンが10月29日に発売する「EH-LS7000」は、7年ぶりとなる待望のミドルレンジ4Kプロジェクター。青色レーザー光源により、高輝度と静音性を両立。上位機同様の2軸4Kシフト技術を採用し、映像品質を大幅に向上させています。",
+    "insight": "光学系での4Kシフト技術は、ネイティブ解像度以上の視覚的密度を実現する重要なエンジニアリング手法です。7年という長い期間を経ての刷新は、映像処理プロセッサやレーザー制御アルゴリズムの進化を実感させるものであり、ホームシアター市場における技術成熟度の高さを示しています。",
+    "sourceUrl": "https://av.watch.impress.co.jp/docs/news/2146175.html",
+    "sourceName": "AV Watch",
+    "originalImageUrl": "https://av.watch.impress.co.jp/img/avw/list/2146/175/578A4079.jpg",
+    "originalImageArticleUrl": "https://av.watch.impress.co.jp/docs/news/2146175.html",
+    "displayDate": "2026-10-08"
+  },
+  "TCL": {
+    "title": "TCLの大型QD-MiniLED TVがセールで大幅値引き",
+    "summary": "Amazon Prime Dayなどのセールイベントにおいて、TCLのフラッグシップモデルであるQM8L（98インチモデルなど）が大幅な価格改定を記録。量子ドット技術を用いた高輝度・高コントラストなMiniLEDディスプレイが、ゲーマーや映画愛好家にとって手の届きやすい価格帯になっています。",
+    "insight": "TCLのQM8Lシリーズは、バックライト制御技術であるMiniLEDとQuantum Dotを高度に統合しており、コストパフォーマンスの面でディスプレイエンジニアリングのベンチマークとなっています。大型化が進む高画質ディスプレイ市場において、同社の価格戦略はハードウェアの普及スピードを左右する重要な動向です。",
+    "sourceUrl": "https://www.ign.com/articles/tcl-qm8l-sqd-mini-led-tv-deal-amazon-october-prime-day-sale-2026",
+    "sourceName": "IGN",
+    "originalImageUrl": "https://assets-prd.ignimgs.com/2026/10/06/tclqm8l-1791308768323.jpg?width=1280&format=jpg&auto=webp&quality=80",
+    "originalImageArticleUrl": "https://www.ign.com/articles/tcl-qm8l-sqd-mini-led-tv-deal-amazon-october-prime-day-sale-2026",
+    "displayDate": "2026-10-08"
+  },
+  "Production Monitor": {
+    "title": "カメラメーカー大手4社が語る「AI時代の進化」",
+    "summary": "キヤノン、ニコン、ソニー、富士フイルムの主要4社がAI時代のカメラ開発について語りました。各社で戦略は異なり、キヤノンは「感性」、ニコンは「センサー・プロセッサ」、ソニーは「デジタルツイン」、富士フイルムは「フィルム色再現」を重視しており、ハードウェア性能競争から、いかに独自の体験価値を生むかへとシフトしています。",
+    "insight": "ハードウェアのスペック競争が飽和する中、各社がソフトウェアやアルゴリズムによる「体験価値」へ注力している点は、ソフトウェア開発のトレンドと強く共鳴します。特に「デジタルツイン」や「色再現エンジン」といったアプローチは、画像処理やシミュレーション技術の高度化がUXをどう変えるかを考える良い題材です。",
+    "sourceUrl": "https://www.cined.com/canon-nikon-sony-and-fujifilm-on-the-future-of-cameras-video-shared-platforms-and-ai/",
+    "sourceName": "CineD",
+    "originalImageUrl": "https://www.cined.com/content/uploads/2026/10/Industry-talk-300x169.jpeg",
+    "originalImageArticleUrl": "https://www.cined.com/canon-nikon-sony-and-fujifilm-on-the-future-of-cameras-video-shared-platforms-and-ai/",
+    "displayDate": "2026-10-08"
+  },
+  "LED Wall Display": {
+    "title": "NanolumensのLEDディスプレイが進化、90度コーナー対応へ",
+    "summary": "Nanolumens社が主力LEDディスプレイ製品のアップデートを発表しました。Engage Proシリーズに90度コーナー構成を可能にする新オプションが追加され、柱や壁面を跨いだシームレスな映像表示が可能になります。また、Performanceシリーズでは屋外向けとして初のサブ3mmピクセルピッチモデルを投入し、高精細かつ高輝度な屋外映像体験を実現しました。",
+    "insight": "建築とデジタルサイネージの統合において、コーナーのつなぎ目は常に課題でしたが、ハードウェアレベルでこの制約を排除する動きが加速しています。近接視点での屋外利用が可能な高ピクセル密度化は、建築デザインとの調和性を高める重要な技術トレンドです。",
+    "sourceUrl": "https://www.digitalsignagetoday.com/news/nanolumens-expands-engage-pro-performance-series-displays/",
+    "sourceName": "Digital Signage Today",
+    "originalImageUrl": "https://nmgprod.s3.amazonaws.com/media/file/6a/0d/543cb1b18c58ebd3b3b752c74782/cover_image__YfAv4ovp__nanolumens_video_wall.jpg.360x190_q85_crop_upscale.webp",
+    "originalImageArticleUrl": "https://www.digitalsignagetoday.com/news/nanolumens-expands-engage-pro-performance-series-displays/",
+    "displayDate": "2026-10-08"
+  }
+}
