@@ -1,10 +1,6 @@
 {
   "Production Monitor": [
     {
-      "url": "https://www.cined.com/sony-fx5-lab-test-new-full-frame-benchmark-dji-insta360-outship-mirrorless-cameras-focus-check-ep136/",
-      "date": "2026-10-02"
-    },
-    {
       "url": "https://www.provideocoalition.com/disguise-makes-x-series-more-accessible-to-small-sized-productions/",
       "date": "2026-10-03"
     },
@@ -27,13 +23,13 @@
     {
       "url": "https://www.cined.com/canon-nikon-sony-and-fujifilm-on-the-future-of-cameras-video-shared-platforms-and-ai/",
       "date": "2026-10-08"
+    },
+    {
+      "url": "https://www.cined.com/paramount-and-warner-bros-merger-closes-as-skydance-layoffs-signaled-30-theatrical-releases-a-year-promised/",
+      "date": "2026-10-09"
     }
   ],
   "SRD / XR": [
-    {
-      "url": "https://www.moguravr.com/titanfall2-vr-mod/",
-      "date": "2026-10-02"
-    },
     {
       "url": "https://www.logi-today.com/1006678",
       "date": "2026-10-03"
@@ -57,13 +53,13 @@
     {
       "url": "https://www.moguravr.com/unity-usd-toolkit/",
       "date": "2026-10-08"
+    },
+    {
+      "url": "https://businessnetwork.jp/article/36989/",
+      "date": "2026-10-09"
     }
   ],
   "AI": [
-    {
-      "url": "https://www.reuters.com/legal/litigation/openai-alerts-more-than-100-groups-about-rogue-ai-agent-activity-2026-10-01/",
-      "date": "2026-10-02"
-    },
     {
       "url": "https://www.cnbc.com/2026/10/02/anthropic-to-invest-100-million-to-train-ai-engineer-talent.html",
       "date": "2026-10-03"
@@ -87,13 +83,13 @@
     {
       "url": "https://www.nikkei.com/article/DGXZQOGN07CJJ0X01C26A0000000/",
       "date": "2026-10-08"
+    },
+    {
+      "url": "https://www.wsj.com/tech/ai/ai-agents-assistants-shopping-chat-errors-a316d3f9",
+      "date": "2026-10-09"
     }
   ],
   "Gaming Monitor": [
-    {
-      "url": "https://www.4gamer.net/games/990/G999027/20261002001/",
-      "date": "2026-10-02"
-    },
     {
       "url": "https://mashable.com/tech/sept-24-lg-ultragear-oled-gaming-monitor-deal",
       "date": "2026-10-03"
@@ -117,13 +113,13 @@
     {
       "url": "https://pc.watch.impress.co.jp/docs/news/todays_sales/2146605.html",
       "date": "2026-10-08"
+    },
+    {
+      "url": "https://www.channelnews.com.au/tcl-takes-aim-at-samsung-and-lg-as-oled-monitor-prices-continue-to-fall/",
+      "date": "2026-10-09"
     }
   ],
   "TCL": [
-    {
-      "url": "https://retailnews.asia/tcl-opens-industrial-museum-in-huizhou-to-mark-45-years-in-hardware",
-      "date": "2026-10-02"
-    },
     {
       "url": "https://news.yahoo.co.jp/articles/19ac5b4cb1d9b8486d369acecf0b73fdf42f6aaa",
       "date": "2026-10-03"
@@ -147,13 +143,13 @@
     {
       "url": "https://www.ign.com/articles/tcl-qm8l-sqd-mini-led-tv-deal-amazon-october-prime-day-sale-2026",
       "date": "2026-10-08"
+    },
+    {
+      "url": "https://www.channelnews.com.au/tcl-takes-aim-at-samsung-and-lg-as-oled-monitor-prices-continue-to-fall/",
+      "date": "2026-10-09"
     }
   ],
   "Camera Control": [
-    {
-      "url": "https://petapixel.com/2026/10/01/the-rugone-xsnap-7-pro-is-both-a-smartphone-and-an-action-camera/",
-      "date": "2026-10-02"
-    },
     {
       "url": "https://petapixel.com/2026/10/02/shiftcam-and-apple-partner-on-new-prorig-for-iphone/",
       "date": "2026-10-03"
@@ -177,13 +173,13 @@
     {
       "url": "https://petapixel.com/2026/10/07/someone-rebuilt-free-open-source-versions-of-photoshop-premiere-and-lightroom-using-ai/",
       "date": "2026-10-08"
+    },
+    {
+      "url": "https://petapixel.com/2026/10/08/godox-picks-up-where-profoto-left-off-with-magnetic-xenon-flash-for-iphone/",
+      "date": "2026-10-09"
     }
   ],
   "LED Wall Display": [
-    {
-      "url": "https://www.digitalsignagetoday.com/resources/epaper-display-management-software-for-iei-built-by-cayin/",
-      "date": "2026-10-02"
-    },
     {
       "url": "//www.ledinside.com/news/2026/10/2026_10_02_02",
       "date": "2026-10-03"
@@ -207,13 +203,13 @@
     {
       "url": "https://www.digitalsignagetoday.com/news/nanolumens-expands-engage-pro-performance-series-displays/",
       "date": "2026-10-08"
+    },
+    {
+      "url": "https://www.digitalsignagetoday.com/news/schulman-theatres-debuts-acoustically-transparent-led-screen/",
+      "date": "2026-10-09"
     }
   ],
   "SONY": [
-    {
-      "url": "https://www.vietnam.vn/ja/sony-xperia-1-huyen-thoai-man-hinh-4k-bat-tu",
-      "date": "2026-10-02"
-    },
     {
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNRkZxLTM3eXJNWkNvQl9ydGFVeEhTdVZlaWVUTi0tdFl3dmJzdkYtRUFYZFZpckNTWG1PYm1laDFncHNCcnFfTV82LS0xSGlMeVlNSlBBUHJWMEpSTmk1Q1RGamhRbjBGNlZMcy1zVTRtOXZDcE1iaHF2Y3JZc2lxbjBQM2NUeEVsbkg1d1l0MlNCWWFrdjJrVnp3?oc=5",
       "date": "2026-10-03"
@@ -237,13 +233,13 @@
     {
       "url": "https://www.afpbb.com/articles/-/3656566",
       "date": "2026-10-08"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNTGY0VnJPaFJIVUtQekg3VE1Yb09sbFI3QnVpc24zRGJLSnBkZVFPOEx0M09ueXI0SEtZeUlhRXRGZHoySEhKbERob2ttdGNvekRRNUhYVlpCN1pabVpVeHRmREhqOUJLOHlCZkVreHFVUjlMbzNMTXhmVkRMNXo2Q0hkcVY1OE1qNXhYNmJIdG5PNmRY?oc=5",
+      "date": "2026-10-09"
     }
   ],
   "TV": [
-    {
-      "url": "https://minpo.online/article/7-3.html",
-      "date": "2026-10-02"
-    },
     {
       "url": "https://volleyballking.jp/article/92719/",
       "date": "2026-10-03"
@@ -267,13 +263,13 @@
     {
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPSHJNVU5nRVpaMlUtX1NuVlMzT2pqV25weHVXLXE5d01NcFhzemJNVUF6Q2E0SldNZjdWTFNtOHQtNHY1UmlnUHhVZUVWRC02X1pLYnB1TW81ZWl1eE16U3dNcjJfcDVrYVNzMmUzMlYwNERkUk5JaFNDeWZxV3VVTW1MV1puckdxckwxUVNxZjRhYXJfNHUyblpReXQycmgwb2RkbnU4UWp1V2hZSUE?oc=5",
       "date": "2026-10-08"
+    },
+    {
+      "url": "https://www.businessinsider.jp/article/2610walmart-connect-linear-tv-warner-bros-ad-deal/",
+      "date": "2026-10-09"
     }
   ],
   "Projector": [
-    {
-      "url": "https://av.watch.impress.co.jp/docs/topic/special/2143519.html",
-      "date": "2026-10-02"
-    },
     {
       "url": "https://www.techpowerup.com/forums/threads/benq-introduces-ak900st-and-ak800st-4k-projectors-aimed-at-golf-simulation.353324/",
       "date": "2026-10-03"
@@ -297,6 +293,10 @@
     {
       "url": "https://av.watch.impress.co.jp/docs/news/2146175.html",
       "date": "2026-10-08"
+    },
+    {
+      "url": "https://av.watch.impress.co.jp/docs/news/2146853.html",
+      "date": "2026-10-09"
     }
   ]
 }
