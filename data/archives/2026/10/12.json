@@ -1,0 +1,102 @@
+{
+  "SRD / XR": {
+    "title": "Picoの新型ヘッドセット「Space Pro」がリーク",
+    "summary": "日本の技術適合証明などの規制当局への提出資料から、ByteDance傘下のPicoが開発中とされる新型VRヘッドセット「Pico Space Pro」の画像や分解図が明らかになりました。流出したSDK情報とも一致しており、正式発表が近いと見られています。",
+    "insight": "ハードウェアエンジニアの視点で見ると、製品化前の段階での規制当局への申請資料や分解図の流出は、生産準備が最終フェーズにあることを示唆しています。コンシューマー向けVR市場において、SDKとの整合性が確認されたことは、OSの最適化やエコシステムの準備が整いつつあるという重要なシグナルです。",
+    "sourceUrl": "https://www.uploadvr.com/pico-space-pro-headset-spotted-in-japanese-regulatory-filings/",
+    "sourceName": "UploadVR",
+    "originalImageUrl": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/10/Thumb.png",
+    "originalImageArticleUrl": "https://www.uploadvr.com/pico-space-pro-headset-spotted-in-japanese-regulatory-filings/",
+    "displayDate": "2026-10-12"
+  },
+  "AI": {
+    "title": "AIがサイバー攻撃を自律化、脆弱性検知の脅威",
+    "summary": "世界で不正アクセスが急増しており、AIがシステムの隙間や未知の脆弱性を特定・攻撃するケースが報告されています。攻撃の自動化が進む中、防御側には従来のパターン検知を超えた迅速な対応が求められています。",
+    "insight": "AIを活用した攻撃は、人間が気づかない細かな脆弱性を突く自律的な偵察が可能なため、セキュリティ対策の自動化と堅牢化が急務です。エンジニアは、攻撃手法の高度化を前提とした防御アーキテクチャの構築や、AIを用いた脅威検知モデルの導入を検討すべき時期に来ています。",
+    "sourceUrl": "https://news.yahoo.co.jp/articles/e337f0c260bb14f46f5cc563c8a6f4d8ecdb4ddd",
+    "sourceName": "Yahoo!ニュース",
+    "originalImageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261011-01230815-fnn-000-1-view.jpg?exp=10800",
+    "originalImageArticleUrl": "https://news.yahoo.co.jp/articles/e337f0c260bb14f46f5cc563c8a6f4d8ecdb4ddd",
+    "displayDate": "2026-10-12"
+  },
+  "TCL": {
+    "title": "TCLの巨大98インチQLED TVが大幅値下げ",
+    "summary": "Amazonにおいて、TCLの98インチ大型QLEDテレビが初めて大幅な値下げを実施しました。家庭用としては異例のサイズながら、セールによってより手の届きやすい価格帯となっており、リビングの視聴環境を刷新したい層から注目を集めています。",
+    "insight": "液晶ディスプレイの大型化・低価格化は、Mini LED技術の普及と生産効率の向上が背景にあります。エンジニア視点では、このクラスの大画面ディスプレイをUI/UXデザインや検証環境として活用できる可能性が高まっています。",
+    "sourceUrl": "https://www.pcguide.com/deals/massive-98-inch-tcl-qled-tv-gets-its-first-price-cut-in-tempting-amazon-deal/",
+    "sourceName": "PC Guide",
+    "originalImageUrl": "https://www.pcguide.com/wp-content/uploads/2026/10/Massive-98-inch-TCL-QLED-TV-gets-its-first-price-cut-in-tempting-Amazon-deal.jpg",
+    "originalImageArticleUrl": "https://www.pcguide.com/deals/massive-98-inch-tcl-qled-tv-gets-its-first-price-cut-in-tempting-amazon-deal/",
+    "displayDate": "2026-10-12"
+  },
+  "SONY": {
+    "title": "ソニーがMetaへXR特許を供与、PS VR事業の転換点か",
+    "summary": "ソニーが保有するXR関連の特許をMeta社へ供与したとの報道が話題です。これがPlayStation VR事業からの事実上の撤退や戦略転換の兆候ではないかと推測されており、今後のXR市場における両社の立ち位置に注目が集まっています。",
+    "insight": "プラットフォームホルダーが自社の特許ポートフォリオを競合他社に開放する背景には、ハードウェア単体での勝負からソフトウェアやエコシステム重視への戦略転換が見え隠れします。エンジニアの視点では、XR業界における標準化や相互運用性が今後どのように進展するか、知財戦略の変化を追うことで業界のトレンドを予測する鍵になります。",
+    "sourceUrl": "https://hothardware.com/news/sony-dump-patents-meta-end-psvr",
+    "sourceName": "HotHardware",
+    "originalImageUrl": "https://images.hothardware.com/contentimages/newsitem/71830/content/16x9_2133x1200_highres-sony-psvr2-headset.jpg",
+    "originalImageArticleUrl": "https://hothardware.com/news/sony-dump-patents-meta-end-psvr",
+    "displayDate": "2026-10-12"
+  },
+  "TV": {
+    "title": "米司法省、大手テレビ5社を調査へ",
+    "summary": "米司法省が大手テレビ局5社に対し、代表取材のボイコットに関連した調査を開始しました。トランプ政権によるメディアへの圧力の一環ではないかとの懸念が広がっており、報道の自由や政府とメディアの緊張関係に注目が集まっています。",
+    "insight": "報道機関の調整や取材体制が国家権力から監視対象となる事態は、分散型・非中央集権的な情報発信の重要性を再認識させます。エンジニアの観点では、レガシーメディアのインフラ依存性や、検閲・圧力に対する耐性を持つ情報配信プラットフォームのアーキテクチャ設計について再考する契機となります。",
+    "sourceUrl": "https://news.tv-asahi.co.jp/news_international/articles/000539535.html",
+    "sourceName": "テレ朝NEWS",
+    "originalImageUrl": "https://news.tv-asahi.co.jp/articles_img/000539535_1200.jpg",
+    "originalImageArticleUrl": "https://news.tv-asahi.co.jp/news_international/articles/000539535.html",
+    "displayDate": "2026-10-12"
+  },
+  "Gaming Monitor": {
+    "title": "リフレッシュレート540Hzの衝撃：ROG Strix OLED登場",
+    "summary": "ASUSのゲーミングブランドROGから、フルHDで540Hzという驚異的なリフレッシュレートを実現したOLEDモニター「ROG Strix OLED XG259QWPG Ace」が発売されました。競技性の高いFPSタイトルにおいて、極限の滑らかさと有機EL特有の高速応答性を両立したハイエンドモデルです。",
+    "insight": "540Hzというリフレッシュレートは、描画フレームの更新間隔が約1.85msとなり、液晶の応答速度だけでなくGPUの描画負荷やインターフェースの伝送帯域も極限まで求められます。ハードウェア性能を最大限引き出すためのボトルネック解析や、高フレームレート環境における描画遅延の最適化は、エンジニアリング的にも非常に興味深いテーマです。",
+    "sourceUrl": "https://www.expreview.com/108602.html",
+    "sourceName": "m.expreview.com",
+    "originalImageUrl": null,
+    "originalImageArticleUrl": "https://www.expreview.com/108602.html",
+    "displayDate": "2026-10-12"
+  },
+  "LED Wall Display": {
+    "title": "米軍が1860万ドルを投資：MicroLED技術の最前線",
+    "summary": "Kopin Corpが米国陸軍から1860万ドルの契約を獲得しました。次世代の軍事用途に向けたMicroLEDディスプレイ技術の高度化と開発を推進するもので、高輝度・高解像度を実現する極小ピクセル技術が注目されています。",
+    "insight": "MicroLEDは従来のLEDに比べ消費電力効率とコントラスト比が格段に優れており、特にウェアラブルやヘッドアップディスプレイ（HUD）などの要求が厳しい環境で極めて重要です。軍事レベルの堅牢性と視認性を両立させるための微細加工プロセスや歩留まり向上は、商用メタバースデバイスの量産においても重要な技術的先行指標となります。",
+    "sourceUrl": "https://www.gurufocus.com/news/9116244/kopin-corp-kopn-secures-186m-us-army-contract-to-advance-microled-display-tech",
+    "sourceName": "GuruFocus",
+    "originalImageUrl": null,
+    "originalImageArticleUrl": "https://www.gurufocus.com/news/9116244/kopin-corp-kopn-secures-186m-us-army-contract-to-advance-microled-display-tech",
+    "displayDate": "2026-10-12"
+  },
+  "Projector": {
+    "title": "IMAXレーザーが身近に！最新技術で変わる体験",
+    "summary": "109シネマズ川崎に最新の4K上映システム「IMAXレーザー」が導入されました。高解像度かつ高コントラストな映像美により、ホームシアター環境におけるプロジェクターの選定基準や、スクリーンの重要性が改めて注目されています。",
+    "insight": "映画館での最高級体験とホームシアターの境界線が技術的に縮まっています。映像の輝度（レーザー光源）やコントラスト比だけでなく、反射率を最適化したスクリーン等の周辺技術との組み合わせが、エンジニアリング視点でも重要です。",
+    "sourceUrl": "https://www.walkerplus.com/article/169199/image991543.html",
+    "sourceName": "ウォーカープラス",
+    "originalImageUrl": "https://news.walkerplus.com/article/169199/991542_615.jpg",
+    "originalImageArticleUrl": "https://www.walkerplus.com/article/169199/image991543.html",
+    "displayDate": "2026-10-12"
+  },
+  "Camera Control": {
+    "title": "スマホ撮影を劇的に変えるGODOXのキセノンフラッシュ",
+    "summary": "GODOXから、スマートフォンにマグネットで装着可能な小型キセノンフラッシュ「A2」が発表されました。LEDライトとは一線を画す本格的な光量とTTL調光に対応しており、スマホ撮影の表現力を大きく広げるデバイスとして注目されています。",
+    "insight": "LED定常光が主流のスマホ周辺機器において、あえてキセノン管を採用しTTL制御を実現したのは技術的な差別化要因として興味深いです。光量と発光タイミングの正確な制御が、スマホ写真のクオリティをどこまでプロレベルに引き上げられるか、API周りの連携にも注目したいところです。",
+    "sourceUrl": "https://dc.watch.impress.co.jp/docs/news/2147357.html",
+    "sourceName": "デジカメ Watch",
+    "originalImageUrl": "https://dc.watch.impress.co.jp/img/dcw/list/2147/357/01.jpg",
+    "originalImageArticleUrl": "https://dc.watch.impress.co.jp/docs/news/2147357.html",
+    "displayDate": "2026-10-12"
+  },
+  "Production Monitor": {
+    "title": "物語の緊張感を生む「クロス・カッティング」技法",
+    "summary": "映画制作における重要な編集技法「クロス・カッティング（並行モンタージュ）」について解説。二つの異なるタイムラインを交互に描き、カウントダウンなどを活用して視聴者の緊張感を高める手法です。脚本段階から構成に組み込むことの重要性と、具体的な活用例が学べます。",
+    "insight": "エンジニアリングにおける「並行処理」の概念と似ており、複数のイベントを同時に進行させることでシステム（または物語）の負荷と緊張を制御する設計思想に通じます。ストーリーテリングだけでなく、ユーザー体験を最適化するUI/UXの構成案としても応用可能な視点です。",
+    "sourceUrl": "https://www.cined.com/two-timelines-one-countdown-how-cross-cutting-builds-tension-in-film/",
+    "sourceName": "CineD",
+    "originalImageUrl": "https://www.cined.com/content/uploads/2026/10/cross_cutting-feature_image-300x169.jpg",
+    "originalImageArticleUrl": "https://www.cined.com/two-timelines-one-countdown-how-cross-cutting-builds-tension-in-film/",
+    "displayDate": "2026-10-12"
+  }
+}
