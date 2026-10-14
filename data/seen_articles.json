@@ -1,10 +1,6 @@
 {
   "Production Monitor": [
     {
-      "url": "https://www.cined.com/imaging-world-moves-to-cologne-for-2027-koelnmesse-takes-over-photokina-name-returns/",
-      "date": "2026-10-07"
-    },
-    {
       "url": "https://www.cined.com/canon-nikon-sony-and-fujifilm-on-the-future-of-cameras-video-shared-platforms-and-ai/",
       "date": "2026-10-08"
     },
@@ -27,13 +23,13 @@
     {
       "url": "https://www.cined.com/arri-film-lab-1-5-released-8mm-to-65mm-film-formats-anamorphic-grain-and-halation-aces-2-0-support/",
       "date": "2026-10-13"
+    },
+    {
+      "url": "https://www.cined.com/macos-27-golden-gate-for-video-editors-is-it-safe-to-update-yet/",
+      "date": "2026-10-14"
     }
   ],
   "SRD / XR": [
-    {
-      "url": "https://www.uploadvr.com/titanfall-2s-vr-mod-is-stellar-and-its-installer-is-the-best-thing-about-it/",
-      "date": "2026-10-07"
-    },
     {
       "url": "https://www.moguravr.com/unity-usd-toolkit/",
       "date": "2026-10-08"
@@ -57,13 +53,13 @@
     {
       "url": "https://www.moguravr.com/vr-ar-mr-weekly-2026-10-13/",
       "date": "2026-10-13"
+    },
+    {
+      "url": "https://dempa-digital.com/article/727623",
+      "date": "2026-10-14"
     }
   ],
   "AI": [
-    {
-      "url": "https://www.gartner.co.jp/ja/newsroom/press-releases/2026-10-07-gartner-identifies-the-hype-cycle-for-cybersecurity-in-the-age-of-ai-in-japan",
-      "date": "2026-10-07"
-    },
     {
       "url": "https://www.nikkei.com/article/DGXZQOGN07CJJ0X01C26A0000000/",
       "date": "2026-10-08"
@@ -87,13 +83,13 @@
     {
       "url": "https://www.wsj.com/tech/ai/meta-says-new-ai-model-is-state-of-the-art-will-make-muse-agent-smarter-1304cdf4",
       "date": "2026-10-13"
+    },
+    {
+      "url": "https://www.nikkei.com/article/DGXZQOGN140170U6A011C2000000/",
+      "date": "2026-10-14"
     }
   ],
   "Gaming Monitor": [
-    {
-      "url": "https://www.prnewswire.com/news-releases/agon-unveils-oc1050hz-gaming-monitor-delivering-millisecond-fluidity-302900496.html",
-      "date": "2026-10-07"
-    },
     {
       "url": "https://pc.watch.impress.co.jp/docs/news/todays_sales/2146605.html",
       "date": "2026-10-08"
@@ -117,13 +113,13 @@
     {
       "url": "https://pc.watch.impress.co.jp/docs/news/2147538.html",
       "date": "2026-10-13"
+    },
+    {
+      "url": "https://mashable.com/tech/oct-8-lg-45-inch-ultragear-gaming-monitor-deal",
+      "date": "2026-10-14"
     }
   ],
   "TCL": [
-    {
-      "url": "https://www.channelnews.com.au/tcl-takes-samsung-to-court-over-what-really-counts-as-a-mini-led-tv/",
-      "date": "2026-10-07"
-    },
     {
       "url": "https://www.ign.com/articles/tcl-qm8l-sqd-mini-led-tv-deal-amazon-october-prime-day-sale-2026",
       "date": "2026-10-08"
@@ -147,13 +143,13 @@
     {
       "url": "https://www.gizguide.com/2026/10/tcl-opens-industrial-museum.html",
       "date": "2026-10-13"
+    },
+    {
+      "url": "https://theinventory.com/tcl-85-inch-t7-series-4k-144hz-qled-smart-google-tv-85t7-latest-model-25c1ed1b",
+      "date": "2026-10-14"
     }
   ],
   "Camera Control": [
-    {
-      "url": "https://petapixel.com/2026/10/06/elon-musks-xai-blocks-minnesotas-landmark-ban-on-ai-nudification-apps/",
-      "date": "2026-10-07"
-    },
     {
       "url": "https://petapixel.com/2026/10/07/someone-rebuilt-free-open-source-versions-of-photoshop-premiere-and-lightroom-using-ai/",
       "date": "2026-10-08"
@@ -177,13 +173,13 @@
     {
       "url": "https://www.dpreview.com/articles/iphone-18-pro-manual-shutter-speed-noisier-photos/",
       "date": "2026-10-13"
+    },
+    {
+      "url": "https://petapixel.com/2026/10/13/arri-film-lab-1-5-aims-to-emulate-even-more-analog-cinema-formats/",
+      "date": "2026-10-14"
     }
   ],
   "LED Wall Display": [
-    {
-      "url": "https://www.digitalsignagetoday.com/blogs/the-single-cms-myth-why-the-right-platform-beats-one-platform/",
-      "date": "2026-10-07"
-    },
     {
       "url": "https://www.digitalsignagetoday.com/news/nanolumens-expands-engage-pro-performance-series-displays/",
       "date": "2026-10-08"
@@ -207,13 +203,13 @@
     {
       "url": "https://www.digitalsignagetoday.com/news/nfl-las-vegas-raiders-draft-room-sports-lots-of-dvled/",
       "date": "2026-10-13"
+    },
+    {
+      "url": "https://www.digitalsignagetoday.com/blogs/bigger-isnt-always-better-when-to-say-no-to-a-bigger-screen/",
+      "date": "2026-10-14"
     }
   ],
   "SONY": [
-    {
-      "url": "https://kunkoku.jp/inzonesale202610.html",
-      "date": "2026-10-07"
-    },
     {
       "url": "https://www.afpbb.com/articles/-/3656566",
       "date": "2026-10-08"
@@ -237,13 +233,13 @@
     {
       "url": "https://www.bcnretail.com/ranking/research/detail/20261012_668197.html",
       "date": "2026-10-13"
+    },
+    {
+      "url": "https://www.vietnam.vn/ja/sony-tu-bo-xr-ban-hang-tram-bang-sang-che-cho-meta",
+      "date": "2026-10-14"
     }
   ],
   "TV": [
-    {
-      "url": "https://www.zdnet.com/home-and-office/home-entertainment/lg-c6-oled-tv-amazon-prime-day-deal-2026/",
-      "date": "2026-10-07"
-    },
     {
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPSHJNVU5nRVpaMlUtX1NuVlMzT2pqV25weHVXLXE5d01NcFhzemJNVUF6Q2E0SldNZjdWTFNtOHQtNHY1UmlnUHhVZUVWRC02X1pLYnB1TW81ZWl1eE16U3dNcjJfcDVrYVNzMmUzMlYwNERkUk5JaFNDeWZxV3VVTW1MV1puckdxckwxUVNxZjRhYXJfNHUyblpReXQycmgwb2RkbnU4UWp1V2hZSUE?oc=5",
       "date": "2026-10-08"
@@ -267,13 +263,13 @@
     {
       "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE83SnlWVGFONEplbVhjVU1TSHc4T0w2R2dLMUdEbnhMRjRrR0RkSTE3ckZ0YmhwMjhHRl9IX2NJWl84Wk1ZcEdEc1ZJZE5LMzY5bEpBRDFXbjBCYjRWQVY4V2ZOaw?oc=5",
       "date": "2026-10-13"
+    },
+    {
+      "url": "https://japan.cnet.com/article/35253512/",
+      "date": "2026-10-14"
     }
   ],
   "Projector": [
-    {
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPeE5lTTdmLXdxM3JXYzZFY3ZnckFwcmlFM0hsbFVsQThhSENRcnU4V29wZllmbGRXRHRjRUNYMjFuNHlodXB1VGRNSHltUEk2cndPNG9RbFkxUHNsNGxaVXJ0bDZjUHlrdFFyX1VnUm9Fb3lzbjFnU3hmY0xSbnJMcXUtNnhoTjQ3ZjM5SXJIWi1HcndmZG1IU01hWm81RkljY3F0eUxuRml3aTVWMVJxVVJFZWFtaUh4VDhPbGhEVnJPUTI5TEx1SmJCbzFHTVhWWm4xYl9kVGo?oc=5",
-      "date": "2026-10-07"
-    },
     {
       "url": "https://av.watch.impress.co.jp/docs/news/2146175.html",
       "date": "2026-10-08"
@@ -297,6 +293,10 @@
     {
       "url": "https://basic-tutorials.com/news/xgimi-horizon-30-series-unveiled-4k-projector-with-120-hz-and-rgb-triple-laser/",
       "date": "2026-10-13"
+    },
+    {
+      "url": "https://news.lavx.hu/article/xgimi-horizon-30-projectors-push-4k-laser-brightness-to-6-000-lumens-with-120hz-gaming-support",
+      "date": "2026-10-14"
     }
   ]
 }

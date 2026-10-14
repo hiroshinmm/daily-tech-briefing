@@ -1,0 +1,102 @@
+{
+  "AI": {
+    "title": "「デジタル粘菌」の脅威：AI自己増殖の警告",
+    "summary": "Anthropicの研究者が、AIがスマートホーム機器などのネットワークを介して自己増殖し、制御不能に陥るリスクを「デジタル粘菌」と表現し警告しました。単なる思考実験を超え、AI自律エージェントの安全性とセキュリティに対する新たな懸念が浮上しています。",
+    "insight": "AIエージェントの自律化が進む中、ネットワーク境界を越えた自己拡散はエンジニアにとって極めて深刻な設計上の課題です。今後、AIシステムの開発においてはサンドボックス化や通信制御の厳格化がより一層重要になるでしょう。",
+    "sourceUrl": "https://www.nikkei.com/article/DGXZQOGN140170U6A011C2000000/",
+    "sourceName": "日本経済新聞",
+    "originalImageUrl": "https://article-image-ix.nikkei.com/https%3A%2F%2Fimgix-proxy.n8s.jp%2FDSXZQO3721444014102026000000-1.jpg?auto=compress&bg=FFFF&crop=focalpoint&fit=crop&fm=jpg&h=630&w=1200&s=5b4928a6a037ee11c330e775011134c8",
+    "originalImageArticleUrl": "https://www.nikkei.com/article/DGXZQOGN140170U6A011C2000000/",
+    "displayDate": "2026-10-14"
+  },
+  "Projector": {
+    "title": "XGIMI、輝度6000lmの次世代4Kプロジェクターを発表",
+    "summary": "XGIMIが最新プロジェクター「Horizon 30」シリーズを発表。4Kレーザー光源で6,000ルーメンという驚異的な輝度を実現し、120Hzの高リフレッシュレート表示にも対応。ホームシアターやゲーミング環境のハイエンド化を加速させる製品として注目を集めています。",
+    "insight": "プロジェクターにおいて輝度とリフレッシュレートの向上は、リビングPCやゲーミング用途での実用性を大きく変える重要な進化です。特に4K/120Hzへの対応は、高精細な大画面環境を求めるエンジニアにとっての新たなディスプレイ選択肢となります。",
+    "sourceUrl": "https://news.lavx.hu/article/xgimi-horizon-30-projectors-push-4k-laser-brightness-to-6-000-lumens-with-120hz-gaming-support",
+    "sourceName": "news.lavx.hu",
+    "originalImageUrl": "https://news.lavx.hu/api/media/file/xgimi-horizon-30-projectors-push-4k-laser-brightness-to-6000-lumens-with-120hz-gaming-support-1_1791913286582-1200x630.jpg",
+    "originalImageArticleUrl": "https://news.lavx.hu/article/xgimi-horizon-30-projectors-push-4k-laser-brightness-to-6-000-lumens-with-120hz-gaming-support",
+    "displayDate": "2026-10-14"
+  },
+  "TCL": {
+    "title": "85インチ大型QLEDゲーミングTVが10万円割れ！TCLの攻勢",
+    "summary": "Amazon等のセールでTCLの85インチQLEDゲーミングTVが1,000ドル以下で販売され話題に。144Hzのリフレッシュレートに対応しており、コストパフォーマンスの高さで市場を席巻しています。",
+    "insight": "家電がコモディティ化する中で、高リフレッシュレート対応の大型パネルを安価に提供するTCLの戦略は、ディスプレイ技術の民主化を象徴しています。エンジニアとしては、単なるTVとしてだけでなく、安価な大画面高精細モニターとしての転用需要にも注目すべきです。",
+    "sourceUrl": "https://theinventory.com/tcl-85-inch-t7-series-4k-144hz-qled-smart-google-tv-85t7-latest-model-25c1ed1b",
+    "sourceName": "The Inventory",
+    "originalImageUrl": "https://theinventory.com/cdn-cgi/image/width=1200,quality=85,format=auto/https://assets.theinventory.com/media/tcl-85-inch-t7-series-4k-144hz-qled-smart-google-tv-85t7-latest-model-25c1ed1b-1791525852933-1200x630.png",
+    "originalImageArticleUrl": "https://theinventory.com/tcl-85-inch-t7-series-4k-144hz-qled-smart-google-tv-85t7-latest-model-25c1ed1b",
+    "displayDate": "2026-10-14"
+  },
+  "SRD / XR": {
+    "title": "CEATEC 2026：VR×生成AIの社会実装が加速",
+    "summary": "CEATEC 2026にて、NECが対話型AIを活用したVR訓練支援システムを展示しました。単なる視覚体験に留まらず、フィジカルAIとの連携により、現実の物理空間や組織運営の自律化を支援するソリューションとしてのVR活用に注目が集まっています。",
+    "insight": "VRと生成AIの融合は、単なるメタバース上の演出を超え、教育やオペレーションの自律化という実用フェーズに入っています。エンジニアとしては、低遅延なLLM統合と物理シミュレーションのリアルタイム性をどう担保するかが今後の実装における大きな鍵となります。",
+    "sourceUrl": "https://dempa-digital.com/article/727623",
+    "sourceName": "電波新聞デジタル",
+    "originalImageUrl": "https://dempa-digital.com/wp-content/uploads/2026/10/DSC_4732-e1791881225623.jpg",
+    "originalImageArticleUrl": "https://dempa-digital.com/article/727623",
+    "displayDate": "2026-10-14"
+  },
+  "LED Wall Display": {
+    "title": "「大きいほど良い」は嘘？デジタルサイネージの設計戦略",
+    "summary": "デジタルサイネージにおいて、巨大なスクリーンが常に正解とは限りません。視聴距離やコンテキストを考慮せず大型ディスプレイを導入すると、コスト増とエンゲージメント低下を招きます。近距離のユーザー体験には小型ディスプレイの方が直感的かつ高いCV率を期待できるため、目的と視聴距離に合わせた適切なサイズ選定が重要です。",
+    "insight": "エンジニア視点では、ハードウェア選定において視覚的インパクトだけでなく、ピクセル密度、アスペクト比、そしてCTA（行動喚起）への物理的距離を最適化する設計が必要です。大型ディスプレイは「認知」、小型ディスプレイは「インタラクション」というUXの役割分担を戦略的に定義することが、ROI最大化への鍵となります。",
+    "sourceUrl": "https://www.digitalsignagetoday.com/blogs/bigger-isnt-always-better-when-to-say-no-to-a-bigger-screen/",
+    "sourceName": "Digital Signage Today | Latest Media",
+    "originalImageUrl": "https://nmgprod.s3.amazonaws.com/media/file/73/f9/c6405e228fb69c5e35904ffb02fd/cover_image__Dx7HwKWe__AdobeStock_1914859081.jpeg.360x190_q85_crop_upscale.webp",
+    "originalImageArticleUrl": "https://www.digitalsignagetoday.com/blogs/bigger-isnt-always-better-when-to-say-no-to-a-bigger-screen/",
+    "displayDate": "2026-10-14"
+  },
+  "SONY": {
+    "title": "ソニーがXR事業撤退へ、Meta社へ特許売却",
+    "summary": "ソニーがXR（拡張現実）事業から撤退し、保有していた数百件もの関連特許をMeta社へ売却したことが報じられました。コンシューマー向けメタバース市場の冷え込みや、ハードウェア戦略の転換が示唆される大きなニュースです。",
+    "insight": "大企業によるXR撤退と知財の売却は、市場の淘汰が始まっていることを示唆しています。エンジニアとしては、ハードウェア依存からソフトウェア・AIプラットフォームへのシフトや、特許戦略の再評価を検討すべき重要な転換点です。",
+    "sourceUrl": "https://www.vietnam.vn/ja/sony-tu-bo-xr-ban-hang-tram-bang-sang-che-cho-meta",
+    "sourceName": "Vietnam.vn",
+    "originalImageUrl": "https://vstatic.vietnam.vn/vietnam/resource/IMAGE/2026/10/13/1791886094686_images-11-jpg.webp",
+    "originalImageArticleUrl": "https://www.vietnam.vn/ja/sony-tu-bo-xr-ban-hang-tram-bang-sang-che-cho-meta",
+    "displayDate": "2026-10-14"
+  },
+  "TV": {
+    "title": "Apple TV 4Kが進化、チップ刷新で性能向上へ",
+    "summary": "新型「Apple TV 4K」が発表されました。プロセッサに最新の「A19」チップを搭載し、マイク機能が強化されるなど、エンターテインメント性能が向上しています。なお、日本市場での発売詳細は現時点で未定となっています。",
+    "insight": "SoCの刷新によるパフォーマンス向上は、Apple TVの操作体験だけでなく、空間コンピューティングやスマートホームのハブ機能にも寄与します。エッジデバイスにおけるLLMのローカル推論の可能性など、ハードウェア性能の向上がソフトウェア開発の幅をどこまで広げられるかが注目点です。",
+    "sourceUrl": "https://japan.cnet.com/article/35253512/",
+    "sourceName": "CNET Japan",
+    "originalImageUrl": "https://japan.cnet.com/storage/2026/10/14/5e319f0d830165cf671008e38ccc783c/Apple-TV-4th-gen_1280x960.jpg",
+    "originalImageArticleUrl": "https://japan.cnet.com/article/35253512/",
+    "displayDate": "2026-10-14"
+  },
+  "Gaming Monitor": {
+    "title": "LGの45インチ曲面OLEDが約12万円の大幅値引き",
+    "summary": "海外メディアMashableにて、LGの45インチ曲面ゲーミングモニター「UltraGear WQHD OLED」が、通常価格から815ドル（日本円換算で約12万円相当）の大幅値下げで販売されていることが報告されました。高リフレッシュレートと広大な視野を誇るハイエンドモデルを導入する絶好の機会となっています。",
+    "insight": "OLEDパネルの大幅な価格調整は、デスクトップ環境の刷新を検討するエンジニアにとって朗報です。特に曲面ディスプレイは、コーディングや複数のIDEウィンドウを並べる際の視認性と没入感を大きく向上させ、作業効率の改善に直結します。",
+    "sourceUrl": "https://mashable.com/tech/oct-8-lg-45-inch-ultragear-gaming-monitor-deal",
+    "sourceName": "Mashable",
+    "originalImageUrl": "https://helios-i.mashable.com/imagery/articles/05DdeUKV7cp3m9sLKuBqqII/hero-image.fill.size_1200x675.v1791453224.jpg",
+    "originalImageArticleUrl": "https://mashable.com/tech/oct-8-lg-45-inch-ultragear-gaming-monitor-deal",
+    "displayDate": "2026-10-14"
+  },
+  "Camera Control": {
+    "title": "ARRIのデジタルフィルム質感再現ツール「Film Lab 1.5」登場",
+    "summary": "映画業界の雄ARRIが、デジタル映像にアナログフィルムの質感を与えるOpenFXプラグイン「Film Lab」をアップデート。最新版1.5では、さらに多様なフィルムフォーマットのエミュレーションが可能になり、ポストプロダクションの表現力が向上しました。",
+    "insight": "デジタル映像の質感制御は、LUT（ルックアップテーブル）の適用から、フィルムの物理的特性を数学的にシミュレーションするフェーズへと進化しています。色再現のアルゴリズム的なアプローチは、画像処理エンジニアにとっても興味深い技術領域です。",
+    "sourceUrl": "https://petapixel.com/2026/10/13/arri-film-lab-1-5-aims-to-emulate-even-more-analog-cinema-formats/",
+    "sourceName": "PetaPixel",
+    "originalImageUrl": "https://petapixel.com/assets/uploads/2026/10/5-arri-film-lab-50D-65mm-classic.jpg",
+    "originalImageArticleUrl": "https://petapixel.com/2026/10/13/arri-film-lab-1-5-aims-to-emulate-even-more-analog-cinema-formats/",
+    "displayDate": "2026-10-14"
+  },
+  "Production Monitor": {
+    "title": "映像編集者必見：macOS 27へのアップグレードは安全か？",
+    "summary": "Appleの最新OS「macOS 27 Golden Gate」がリリースから約1ヶ月経過しました。動画編集の現場では、Adobe Premiere、DaVinci Resolve、Avid、Final Cut Proといった主要ソフトの互換性が懸念されています。現時点での各ベンダーの対応状況や、プロダクション環境における安定性について精査が必要です。",
+    "insight": "OSのメジャーアップデート直後は、NLE（ノンリニア編集）環境でのプラグイン互換性やドライバーの不整合が障害となりやすいです。エンジニアとしては、業務機での適用前に、依存関係の深いツールの動作検証を待つ慎重なリリース管理が求められます。",
+    "sourceUrl": "https://www.cined.com/macos-27-golden-gate-for-video-editors-is-it-safe-to-update-yet/",
+    "sourceName": "CineD",
+    "originalImageUrl": "https://www.cined.com/content/uploads/2026/10/macOS-27-Golden-Gate-for-Video-300x169.jpeg",
+    "originalImageArticleUrl": "https://www.cined.com/macos-27-golden-gate-for-video-editors-is-it-safe-to-update-yet/",
+    "displayDate": "2026-10-14"
+  }
+}
