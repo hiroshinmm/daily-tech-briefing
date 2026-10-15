@@ -1,0 +1,102 @@
+{
+  "SRD / XR": {
+    "title": "医療・介護現場でのVR活用：体験を通じた共感の醸成",
+    "summary": "ジョリーグッドによる人工股関節全置換術のVR体験や、新潟での認知症疑似体験研修など、VRを活用して医療・介護の現場や当事者の視点を「自分事」として理解する動きが活発化しています。",
+    "insight": "VRは単なる娯楽から、専門的スキルの習得や複雑な状況への心理的な共感を促す高度な学習ツールへと進化しています。エンジニアとしては、物理的な制約を排除しつつ「没入感による当事者意識」をいかに高めるかというUX設計が、今後ますます重要になるでしょう。",
+    "sourceUrl": "https://prtimes.jp/main/html/rd/p/000000202.000020924.html",
+    "sourceName": "PR TIMES",
+    "originalImageUrl": "https://prcdn.freetls.fastly.net/release_image/20924/202/20924-202-b4807b19b17c5b1354c90a33cd9d2661-2752x1536.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+    "originalImageArticleUrl": "https://prtimes.jp/main/html/rd/p/000000202.000020924.html",
+    "displayDate": "2026-10-15"
+  },
+  "AI": {
+    "title": "AIが科学全般へ進出：数学から他分野への波及",
+    "summary": "AIの応用範囲が数学のみならず、物理学や生物学などの広範な科学分野へと急速に拡大しています。論文の自動生成や複雑な計算の解決を超え、科学的発見そのものを加速させる存在として、AIが研究のあり方を変革しつつあるというニュースです。",
+    "insight": "AIモデルの推論能力向上により、自然言語処理だけでなく、科学的仮説の立証やシミュレーションでの活用が現実的になっています。エンジニアとしては、特定のドメイン知識とLLMを組み合わせた専門特化型エージェントの開発手法に注目しておくべきです。",
+    "sourceUrl": "https://www.wired.com/story/ai-is-coming-for-science-next-watch-out/",
+    "sourceName": "WIRED",
+    "originalImageUrl": "https://media.wired.com/photos/6ace87bed95d506835d511b4/191:100/w_1280,c_limit/AI-Lab-AI-Coming-for-Other-Areas-of-Science-Businesspsd.jpg",
+    "originalImageArticleUrl": "https://www.wired.com/story/ai-is-coming-for-science-next-watch-out/",
+    "displayDate": "2026-10-15"
+  },
+  "Projector": {
+    "title": "プロジェクター市場に革新：4K 120Hz対応モデルが続々登場",
+    "summary": "AWOL Visionの「LuxVision」やXGIMIの「HORIZON 30」シリーズなど、家庭用プロジェクター市場で4K解像度と120Hzのリフレッシュレートを両立するハイエンドモデルの発表が相次いでいます。ホームシアターのみならずゲーミング用途での利用も加速しそうです。",
+    "insight": "高リフレッシュレート化は、これまでTVが先行していましたが、ついにプロジェクターでも標準化の兆しが見えてきました。映像処理エンジンの高速化により、ホームシアター体験が低遅延・高フレームレートのゲーミングPC環境と融合していく流れは注目に値します。",
+    "sourceUrl": "https://www.pocnetwork.net/.well-known/sgcaptcha/?r=%2Ftechnology-news%2Fxgimis-horizon-30-series-brings-4k-120hz-to-three-new-projectors%2F&y=ipr:52.173.124.196:1792026843.153",
+    "sourceName": "Poc Network // Tech",
+    "originalImageUrl": null,
+    "originalImageArticleUrl": "https://www.pocnetwork.net/.well-known/sgcaptcha/?r=%2Ftechnology-news%2Fxgimis-horizon-30-series-brings-4k-120hz-to-three-new-projectors%2F&y=ipr:52.173.124.196:1792026843.153",
+    "displayDate": "2026-10-15"
+  },
+  "Camera Control": {
+    "title": "Webcam撮影強要で提訴、従業員監視の限界",
+    "summary": "米国の従業員が、3分ごとにWebカメラで自身の写真を送るよう強制され、拒否したために解雇されたとして雇用主を提訴しました。1日160枚もの撮影を義務付ける過度な監視体制が、法的な議論を呼んでいます。",
+    "insight": "AIを活用した行動追跡や監視ソリューションが増える中、労働者のプライバシーと生産性管理の境界線が問われています。エンジニアとしては、過剰なデータ収集の実装が法的なリスクや労働者への倫理的悪影響に直結することを意識したシステム設計が求められます。",
+    "sourceUrl": "https://petapixel.com/2026/10/14/us-worker-sues-after-employer-fires-her-for-refusing-to-send-160-webcam-photos-per-day/",
+    "sourceName": "PetaPixel",
+    "originalImageUrl": "https://petapixel.com/assets/uploads/2026/10/webcam-feature.jpg",
+    "originalImageArticleUrl": "https://petapixel.com/2026/10/14/us-worker-sues-after-employer-fires-her-for-refusing-to-send-160-webcam-photos-per-day/",
+    "displayDate": "2026-10-15"
+  },
+  "Gaming Monitor": {
+    "title": "ASUSの新型有機ELモニタ、4K/240HzとFHD/480Hzの切り替えが可能に",
+    "summary": "ASUSが10月16日に国内発売する32インチ有機ELゲーミングモニターが注目されています。最大の特徴は、高解像度の「4K/240Hz」と、高速描画を優先する「FHD/480Hz」モードを必要に応じて切り替えられるデュアルモード機能の搭載です。",
+    "insight": "1枚のパネルで用途に応じて解像度とリフレッシュレートを可変させる仕組みは、ゲーミングデバイスの新たな最適解となる可能性があります。ハードウェアの固定要件がソフトウェア的なモード切り替えで柔軟に解決されることで、開発環境やUXの設計思想にも変化をもたらすかもしれません。",
+    "sourceUrl": "https://finance.biggo.com/news/5cb79423-8cd6-4c9c-99e4-91693e09aa91",
+    "sourceName": "BigGo Finance",
+    "originalImageUrl": "https://img.biggo.com/yR76XHChUYPTCvWwgX8Kq8rbAgsFPdmIhmTz0bPtvZk/fit/1200/0/sm/0/aHR0cHM6Ly9pbWcuYmdvLm9uZS9uZXdzLWltYWdlL2FpX2dlbmVyYXRlZC8yMDI2LTEwLzVjYjc5NDIzLThjZDYtNGM5Yy05OWU0LTkxNjkzZTA5YWE5MV8xNzkyMDIyOTQxX2RlZmF1bHQud2VicA.jpg",
+    "originalImageArticleUrl": "https://finance.biggo.com/news/5cb79423-8cd6-4c9c-99e4-91693e09aa91",
+    "displayDate": "2026-10-15"
+  },
+  "SONY": {
+    "title": "ソニーが新型マイク「ECM-W5」を発表、32bit float対応で収録革命",
+    "summary": "ソニーは、32bit float録音に対応した新型ワイヤレスマイクロホン「ECM-W5」を発表しました。最大500mの長距離伝送や内部バックアップ録音機能を備え、タイムコード同期にも対応。プロの現場での信頼性と使い勝手を大幅に向上させた製品です。",
+    "insight": "映像制作において32bit float録音の標準化が進んでおり、ハードウェアレベルで歪みを防ぐ仕組みが普及しています。エンジニアとしては、単なるデータ転送だけでなく、音響データのダイナミックレンジ管理や信号処理における品質保証が、コンテンツ制作のワークフローにおいて非常に重要な要件となっている点に注目です。",
+    "sourceUrl": "https://news.nicovideo.jp/watch/nw19880202?news_ref=60_60",
+    "sourceName": "ニコニコニュース",
+    "originalImageUrl": null,
+    "originalImageArticleUrl": "https://news.nicovideo.jp/watch/nw19880202?news_ref=60_60",
+    "displayDate": "2026-10-15"
+  },
+  "LED Wall Display": {
+    "title": "大規模LED導入の新潮流：設計・運用の最適化",
+    "summary": "IUFとPattison IDの提携により、スタジアムや競技場における大型LEDディスプレイ導入から保守までのワンストップサービスが加速しています。単なる機器購入ではなく、戦略的な設計と長期運用を見据えた統合管理の重要性が高まっています。",
+    "insight": "ハードウェアのスペックだけでなく、CMSによるタグ付けや動的な配信制御といったソフトウェア層の設計が、デジタルサイネージのROIに直結します。大規模導入では単一ベンダーによるエンドツーエンドの管理体制を構築することで、システム全体の運用コストと保守リスクを最適化できます。",
+    "sourceUrl": "https://www.digitalsignagetoday.com/news/iuf-pattison-id-team-on-enhancing-experiences/",
+    "sourceName": "Digital Signage Today",
+    "originalImageUrl": "https://nmgprod.s3.amazonaws.com/media/file/5a/4a/4defc23d197b6288c972484898e5/cover_image__Hx5xXIeU__AdobeStock_1360303672.jpeg.360x190_q85_crop_upscale.webp",
+    "originalImageArticleUrl": "https://www.digitalsignagetoday.com/news/iuf-pattison-id-team-on-enhancing-experiences/",
+    "displayDate": "2026-10-15"
+  },
+  "TCL": {
+    "title": "TCL、2028年に700Hz対応のOLEDパネルを投入へ",
+    "summary": "TCLのディスプレイ部門であるCSOTが、2028年までにリフレッシュレート700Hzを実現するOLEDパネルの開発を進めていることが報じられました。次世代ゲーミングモニター市場に向けた技術革新として注目されています。",
+    "insight": "リフレッシュレートの高速化は、表示遅延を物理的に極限まで抑えるためのフロントエンドの課題です。ハードウェアが700Hzに到達することで、GPUレンダリングや入力応答の最適化といったソフトウェア側のボトルネック解消がより一層重要になります。",
+    "sourceUrl": "https://www.techpowerup.com/353738/tcl-readies-700-hz-oled-panels-for-2028",
+    "sourceName": "TechPowerUp",
+    "originalImageUrl": "https://www.techpowerup.com/img/bQ7LC4osy1TOfAD6.jpg",
+    "originalImageArticleUrl": "https://www.techpowerup.com/353738/tcl-readies-700-hz-oled-panels-for-2028",
+    "displayDate": "2026-10-15"
+  },
+  "Production Monitor": {
+    "title": "Raspberry Pi×Sonyカメラの音声制御システム",
+    "summary": "Sony FX3/FX6カメラに対し、Raspberry Pi Zero、カメラSDK、オープンソースの音声認識API「Vosk」を組み合わせた自作の音声制御システムが登場。開発者がClaude Codeを活用してプロトタイプを構築した点も注目されています。",
+    "insight": "ハードウェア制御において、公式SDKと軽量なOSSの音声認識エンジンを組み合わせることで、低コストで実用的なカスタム制御を実装できる好例です。LLMによるコード生成支援が、こうしたニッチな組み込みエンジニアリングの試作スピードを飛躍的に高めています。",
+    "sourceUrl": "https://www.newsshooter.com/2026/10/14/voice-control-system-for-the-sony-fx3-fx6/?utm_source=rss&utm_medium=rss&utm_campaign=voice-control-system-for-the-sony-fx3-fx6",
+    "sourceName": "Newsshooter",
+    "originalImageUrl": "https://www.newsshooter.com/wp-content/uploads/2026/10/Sony-Voice-740x416.jpeg",
+    "originalImageArticleUrl": "https://www.newsshooter.com/2026/10/14/voice-control-system-for-the-sony-fx3-fx6/?utm_source=rss&utm_medium=rss&utm_campaign=voice-control-system-for-the-sony-fx3-fx6",
+    "displayDate": "2026-10-15"
+  },
+  "TV": {
+    "title": "OLED TVの大型セールが話題：エンジニアの作業環境を考える",
+    "summary": "現在、SonyやSamsungなどの主要なOLED（有機EL）テレビが、Amazon等で過去最安値水準の大型セールを実施中です。PCモニターの代替や作業環境のアップグレードを検討する絶好の機会となっています。",
+    "insight": "高コントラストで応答速度に優れたOLEDは、近年の大画面化と低価格化により、高解像度の大型PCモニター代わりとして開発現場でも注目されています。ただし、長時間固定表示を行う際の焼き付きリスクがあるため、静的なIDEの表示運用には注意が必要です。",
+    "sourceUrl": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOT05STkN5M1RxUkZZNXNVMVhpN01uVWM5N3ZnU1NDbnAzYlA5WDVlRGJzWm5SaU9RYmNOUURBeFFqZFJ2dC0tWTBROXJUbmR2alhudU9tN2p5bDcyWHhpMmtHU2E2M0R2RmM5LWE2UmNZM3ozUTlObEQ1U1VuMllXb2lNdldwOHFodEdoNDFHczhaYkMzNjQtY1prZS11REdjTVZR?oc=5",
+    "sourceName": "PC Guide",
+    "originalImageUrl": null,
+    "originalImageArticleUrl": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOT05STkN5M1RxUkZZNXNVMVhpN01uVWM5N3ZnU1NDbnAzYlA5WDVlRGJzWm5SaU9RYmNOUURBeFFqZFJ2dC0tWTBROXJUbmR2alhudU9tN2p5bDcyWHhpMmtHU2E2M0R2RmM5LWE2UmNZM3ozUTlObEQ1U1VuMllXb2lNdldwOHFodEdoNDFHczhaYkMzNjQtY1prZS11REdjTVZR?oc=5",
+    "displayDate": "2026-10-15"
+  }
+}
