@@ -1,0 +1,66 @@
+{
+  "Camera Control": {
+    "title": "Adobe、NVIDIA「RTX Spark」に最適化",
+    "summary": "Adobeは、NVIDIAの新しいAI向けArmチップセット「RTX Spark」に向けて主要ソフトウェアの最適化を発表しました。ノートPCや小型端末でのAI処理性能向上を目指し、PCプラットフォームへの注力をさらに加速させます。",
+    "insight": "AI推論処理がArmアーキテクチャのNPU/GPUで統合されるトレンドを象徴する動きです。ソフトウェアエンジニアの視点では、デスクトップアプリの高速化において、x86からArmへの移行に伴うハードウェア抽象化層の最適化が今後の差別化要因になるでしょう。",
+    "sourceUrl": "https://petapixel.com/2026/10/15/adobe-is-optimizing-its-tools-for-rtx-spark-furthering-commitment-to-pc/",
+    "sourceName": "PetaPixel",
+    "originalImageUrl": "https://petapixel.com/assets/uploads/2026/10/Adobe-Is-Optimizing-Its-Tools-for-RTX-Spark-Furthering-Commitment-to-PC.jpg",
+    "originalImageArticleUrl": "https://petapixel.com/2026/10/15/adobe-is-optimizing-its-tools-for-rtx-spark-furthering-commitment-to-pc/",
+    "displayDate": "2026-10-16"
+  },
+  "Production Monitor": {
+    "title": "ドメイン防衛：タイポスクワッティング対策の重要性",
+    "summary": "自社サイトのドメインに加え、綴り間違いを狙ったドメインを取得・リダイレクトさせる「タイポスクワッティング対策」についての解説記事。非営利組織やブランド保護の観点から、なぜ追加ドメインが必要か、そのベストプラクティスをエンジニアの視点で紹介しています。",
+    "insight": "DNSの設定やドメイン管理はインフラエンジニアにとっての基本ですが、セキュリティ戦略としてタイポスクワッティング対策を考慮することはブランド維持に不可欠です。リダイレクトのループやSSL証明書管理など、運用面の自動化・最適化を検討する良いきっかけになります。",
+    "sourceUrl": "https://www.provideocoalition.com/domain-redirection-forwarding-typosquatting-protection-why-you-may-want-it-best-practices-extra-credit-fun/",
+    "sourceName": "ProVideo Coalition",
+    "originalImageUrl": "https://www.provideocoalition.com/wp-content/uploads/Dominios-tildados-hero.jpg",
+    "originalImageArticleUrl": "https://www.provideocoalition.com/domain-redirection-forwarding-typosquatting-protection-why-you-may-want-it-best-practices-extra-credit-fun/",
+    "displayDate": "2026-10-16"
+  },
+  "LED Wall Display": {
+    "title": "OAAA、デジタルサイネージの自動化と統合を推進する技術諮問委員会を設立",
+    "summary": "米国の屋外広告業界団体OAAAは、デジタルサイネージの技術インフラ、データ標準、およびワークフローの自動化を推進する「技術諮問委員会」を設立しました。AIなどの新技術を活用し、メディアの計画、購入、計測、統合を簡素化することを目指します。",
+    "insight": "デジタルサイネージの運用において、個別企業による最適化から業界標準（エコシステム）の統合へとパラダイムがシフトしています。エンジニアとしては、単なるハード選定だけでなく、API連携やデータ標準化（タクソノミー）、エージェントAIを活用した運用自動化の設計が求められる時代になっています。",
+    "sourceUrl": "https://www.digitalsignagetoday.com/news/oaaa-debuts-technical-advisory-council-to-drive-automation-integration/",
+    "sourceName": "Digital Signage Today",
+    "originalImageUrl": "https://nmgprod.s3.amazonaws.com/media/file/b1/94/4953646b8c0584e4cb3bd614b436/cover_image__go81jf3m__AdobeStock_680966296.jpeg.360x190_q85_crop_upscale.webp",
+    "originalImageArticleUrl": "https://www.digitalsignagetoday.com/news/oaaa-debuts-technical-advisory-council-to-drive-automation-integration/",
+    "displayDate": "2026-10-16"
+  },
+  "Gaming Monitor": {
+    "title": "スマホで爆速推論！3値化LLM「Ternary Bonsai 2」登場",
+    "summary": "PrismMLが公開した「Ternary Bonsai 2」は、パラメータ数2B/4B/9Bの重みを3値化することで、フル精度の1/9以下のサイズを実現しつつ高性能を維持した軽量LLMです。iPhoneで最大120tok/sという高速推論が可能で、Hugging FaceにてApache 2.0ライセンスで公開されています。",
+    "insight": "モデルの重みを極限まで量子化する「3値化」技術は、オンデバイスAIの実装において非常に興味深いアプローチです。推論速度と精度のバランスが実用レベルに達しており、軽量LLMをエッジ環境へ展開する際の有力な最適化手法として注目されます。",
+    "sourceUrl": "https://pc.watch.impress.co.jp/docs/news/2148621.html",
+    "sourceName": "PC Watch",
+    "originalImageUrl": null,
+    "originalImageArticleUrl": "https://pc.watch.impress.co.jp/docs/news/2148621.html",
+    "displayDate": "2026-10-16"
+  },
+  "AI": null,
+  "SONY": null,
+  "TCL": null,
+  "SRD / XR": {
+    "title": "SanDiskがMeta認定VR専用ストレージを発表",
+    "summary": "SanDiskが「Made for Meta」認証のmicroSD ExpressカードおよびUSB-Cフラッシュドライブを発表しました。Meta Questや将来のVRグラス向けに最適化された外部ストレージの選択肢となります。",
+    "insight": "VRデバイスのストレージ制限に対し、公式認定を受けた高性能ストレージが提供されることは、高画質コンテンツのローカル保存やデータ運用の利便性を大きく向上させます。将来的なポータブルVRデバイスのハードウェアエコシステムにおける拡張性の標準化として注目すべき動きです。",
+    "sourceUrl": "https://www.uploadvr.com/sandisk-announces-made-for-meta-storage-products-for-quest-vr-glasses/",
+    "sourceName": "UploadVR",
+    "originalImageUrl": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/10/Thumb-2.png",
+    "originalImageArticleUrl": "https://www.uploadvr.com/sandisk-announces-made-for-meta-storage-products-for-quest-vr-glasses/",
+    "displayDate": "2026-10-16"
+  },
+  "TV": null,
+  "Projector": {
+    "title": "2027年にBluetoothハイレゾ標準化へ",
+    "summary": "Bluetooth SIGは、次世代高データスループット技術「Bluetooth LE HDT」の提供開始と、それを基盤としたハイレゾ・ロスレスオーディオの標準規格を2027年に策定する計画を発表しました。ワイヤレス環境での高音質体験が標準化に向けて大きく前進します。",
+    "insight": "通信プロトコルレベルでのハイレゾ対応は、オーディオエンジニアにとって低レイテンシかつ高帯域なデータ転送の実装要件が変わる重要な転換点となります。今後、DSP処理の最適化や無線通信の効率化といったハードウェア側の設計パラダイムが大きく進化するでしょう。",
+    "sourceUrl": "https://av.watch.impress.co.jp/docs/news/2148454.html",
+    "sourceName": "AV Watch",
+    "originalImageUrl": "https://av.watch.impress.co.jp/img/avw/list/2148/454/aaaaDSC00233.jpg",
+    "originalImageArticleUrl": "https://av.watch.impress.co.jp/docs/news/2148454.html",
+    "displayDate": "2026-10-16"
+  }
+}
