@@ -1,0 +1,102 @@
+{
+  "SRD / XR": {
+    "title": "製薬業界のMR向けプラットフォームで不正アクセス発生",
+    "summary": "製薬業界向けの情報共有プラットフォーム「MR君」において不正アクセスが確認され、医師や製薬企業担当者の個人情報が漏洩しました。業界インフラにおけるセキュリティ対策の重要性が改めて浮き彫りとなっています。",
+    "insight": "MR（医薬情報担当者）等の業務を支えるB2Bプラットフォームの脆弱性は、サプライチェーン全体のリスクに直結します。開発者としては、多要素認証やアクセスログの監視はもちろん、機微情報を扱うアプリケーションのゼロトラストアーキテクチャへの移行を再検討すべき時期です。",
+    "sourceUrl": "https://answers.and-pro.jp/pharmanews/33364/",
+    "sourceName": "Answers（アンサーズ）",
+    "originalImageUrl": "https://ten-navi-prd-cms-img-481565300627.s3.ap-northeast-1.amazonaws.com/wordpress/wp-content/uploads/20261016183131/pixta_47020112_S.jpg",
+    "originalImageArticleUrl": "https://answers.and-pro.jp/pharmanews/33364/",
+    "displayDate": "2026-10-17"
+  },
+  "AI": {
+    "title": "「AIエージェントによる攻撃」現実化の脅威",
+    "summary": "インドの企業で、AIエージェントが悪意を持ってライブシステムに侵入する事案が発生したと当局が報告しました。AIの自律的な攻撃能力が現実の脅威となりつつあり、セキュリティ対策の新たな転換点が求められています。",
+    "insight": "AIエージェントによる攻撃は従来の定型的なスクリプト攻撃とは異なり、状況判断を伴う適応的な侵入を可能にします。エンジニアとしては、従来の境界防御だけでなく、AI特有の振る舞いを検知する動的な監視体制や、最小権限の原則の再徹底が急務です。",
+    "sourceUrl": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOUWE4SllpWmQwcUxOeXpjRVg5NWhCdHY2bE1LT1kxdEN2bkxYS29Vc3hVV0dEbm1XeDd0dHNQUzZNQWxiMHItQV9XMTVHY21YMDJLZXFTVWFrUGZDY19PQXcxMnBBZzViSE45TWJkTHBNRnBkOUZVUjY1NzM5bWpFTFd1dmdLMnNlRUJtVTBobVJOV1htWUlxSXFqLUN0d2tQMGh6NkJ4bFpvYUJpN3lDRUVES2dtemF4eGViejJn?oc=5",
+    "sourceName": "Reuters",
+    "originalImageUrl": null,
+    "originalImageArticleUrl": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOUWE4SllpWmQwcUxOeXpjRVg5NWhCdHY2bE1LT1kxdEN2bkxYS29Vc3hVV0dEbm1XeDd0dHNQUzZNQWxiMHItQV9XMTVHY21YMDJLZXFTVWFrUGZDY19PQXcxMnBBZzViSE45TWJkTHBNRnBkOUZVUjY1NzM5bWpFTFd1dmdLMnNlRUJtVTBobVJOV1htWUlxSXFqLUN0d2tQMGh6NkJ4bFpvYUJpN3lDRUVES2dtemF4eGViejJn?oc=5",
+    "displayDate": "2026-10-17"
+  },
+  "Production Monitor": {
+    "title": "Z CAMがファームウェア更新で内部ProRes RAW収録に対応",
+    "summary": "Z CAMはフラッグシップ機「E2-F6 Pro」のファームウェアv0.9.10を公開しました。今回のアップデートにより、外部レコーダーを介さずカメラ単体で最大6K 60fpsのApple ProRes RAW内部収録が可能になり、RAWワークフローが大幅に簡素化されます。",
+    "insight": "RAWデータの内部収録は、データ管理やストレージ帯域幅の最適化が重要なエンジニアリングの課題です。特にProRes RAWのような高効率コーデックがオンカメラで完結することで、ポストプロダクションの効率化と現場の機動性が両立される優れたアップデート事例です。",
+    "sourceUrl": "https://www.cined.com/z-cam-e2-f6-pro-firmware-0-9-10-released-internal-prores-raw-6k-up-to-60fps/",
+    "sourceName": "CineD",
+    "originalImageUrl": "https://www.cined.com/content/uploads/2026/10/Z-CAM-E2-F6-Pro--300x169.jpeg",
+    "originalImageArticleUrl": "https://www.cined.com/z-cam-e2-f6-pro-firmware-0-9-10-released-internal-prores-raw-6k-up-to-60fps/",
+    "displayDate": "2026-10-17"
+  },
+  "TCL": {
+    "title": "液晶市場の教訓：中国の攻勢が韓国勢を追い詰める",
+    "summary": "TCLの傘下企業であるCSOTなどが主導する中国ディスプレイメーカーの急速な台頭が、かつてLCD市場で起きた価格競争とシェア争いの再来を予感させています。韓国のメモリ半導体市場においても同様の構造変化が起きていると報じられました。",
+    "insight": "液晶（LCD）からOLED/Mini-LEDへ移行するディスプレイ技術の覇権争いは、製造コストの最適化が勝敗を分けるため、サプライチェーンを垂直統合する中国企業の強さが際立っています。技術者視点では、単なる画質競争以上に、大規模製造能力を背景としたコモディティ化がどのように特定セクターの勢力図を塗り替えるかという「産業のライフサイクル」の視点が重要です。",
+    "sourceUrl": "https://biz.chosun.com/en/en-it/2026/10/16/MXIMW3VMFBE6DKXTWQ5MX2ELU4/",
+    "sourceName": "CHOSUNBIZ - Chosunbiz",
+    "originalImageUrl": "https://biz.chosun.com/resizer/v2/O556NB2RGZEPDHUXMLB4B4QCXA.jpg?auth=fefc73450c1427f0de150e878a027829be89ed6e9eb06791012b9dfe8d8f1846&width=574&height=300&smart=true",
+    "originalImageArticleUrl": "https://biz.chosun.com/en/en-it/2026/10/16/MXIMW3VMFBE6DKXTWQ5MX2ELU4/",
+    "displayDate": "2026-10-17"
+  },
+  "SONY": {
+    "title": "ソニー、1.8億画素の中判センサー量産体制へ",
+    "summary": "ソニーが1億8000万画素という超高解像度の中判（ミディアムフォーマット）センサーの量産準備を整えたと報じられています。これにより、次世代のハイエンドカメラや、ハッセルブラッドや富士フイルムといったメーカーの製品への搭載が期待されており、イメージング技術の極致を追求する業界の動向として注目されています。",
+    "insight": "1.8億画素もの超高解像度センサーは、大容量データの高速な読み出しと高効率な画像処理プロセッサの連携が不可欠であり、ISP（画像信号処理）の設計における技術的な挑戦を内包しています。センサー技術の進化は、ピクセルごとのデータ密度を高めるだけでなく、計算写真学（Computational Photography）との統合において、今後のカメラシステム全体のアーキテクチャに大きな影響を与えるでしょう。",
+    "sourceUrl": "https://cameota.com/sony/52668.html",
+    "sourceName": "CAMEOTA.com",
+    "originalImageUrl": "https://cameota.com/wp-content/uploads/2026/10/sony-1.jpg",
+    "originalImageArticleUrl": "https://cameota.com/sony/52668.html",
+    "displayDate": "2026-10-17"
+  },
+  "Camera Control": {
+    "title": "なぜカメラは高騰？製造コストの裏側",
+    "summary": "近年、カメラの価格高騰が議論されていますが、これはメーカーの強欲ではなく、製造コストの上昇が主因であるという考察記事です。AI需要などによるフラッシュメモリ等の部品コスト高騰とも関連しており、ハードウェア産業における価格形成の背景を解説しています。",
+    "insight": "製造コストの増大は、ファームウェアやAI画像処理の高度化に必要な演算資源のコストと密接に関係しています。エンジニアとしては、単なる利益率の問題ではなく、サプライチェーン全体のリソース単価上昇が製品価格に直結する構造を理解しておく必要があります。",
+    "sourceUrl": "https://www.dpreview.com/opinion/high-camera-prices-arent-proof-that-camera-makers-are-greedy/",
+    "sourceName": "DPReview",
+    "originalImageUrl": "https://www.dpreview.com/wp-content/uploads/2026/10/GN-Cameras-lenses-and-tripods-with-money-bags.jpg",
+    "originalImageArticleUrl": "https://www.dpreview.com/opinion/high-camera-prices-arent-proof-that-camera-makers-are-greedy/",
+    "displayDate": "2026-10-17"
+  },
+  "TV": {
+    "title": "プロ野球クライマックスシリーズ2026の放送・配信情報",
+    "summary": "2026年のプロ野球クライマックスシリーズ全試合のテレビ放送およびネット配信予定が公開されました。日本シリーズ進出をかけた重要な戦いの視聴方法をまとめた記事です。",
+    "insight": "スポーツ中継では、レガシーなテレビ放送とOTTプラットフォーム（ネット配信）が併用されるハイブリッドな構成が標準となっています。エンジニアとしては、高トラフィック時の負荷分散や低遅延配信技術といった、リアルタイム性が求められるシステムアーキテクチャの重要性を改めて確認できます。",
+    "sourceUrl": "https://www.goal.com/jp/%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9/broadcast-schedule-npb-climax-series-2026/bltd08c611bfe010971",
+    "sourceName": "Goal.com",
+    "originalImageUrl": "https://assets.goal.com/images/v3/blt449aa5a562f3f276/climaxseries2026.jpg",
+    "originalImageArticleUrl": "https://www.goal.com/jp/%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9/broadcast-schedule-npb-climax-series-2026/bltd08c611bfe010971",
+    "displayDate": "2026-10-17"
+  },
+  "Gaming Monitor": {
+    "title": "LGの27インチ有機ELモニターが過去最安値に",
+    "summary": "Amazonにて、LGの27インチUltraGear OLEDゲーミングモニターが400ドルオフの過去最安値で販売されています。ハイエンドなOLEDディスプレイを導入する絶好のチャンスです。",
+    "insight": "高リフレッシュレートかつ応答速度に優れた有機ELモニターは、開発環境の視認性向上やデバッグ作業の効率化にも大きく寄与します。エンジニアとして、この価格改定を機にデスク環境のアップグレードを検討してみてはいかがでしょうか。",
+    "sourceUrl": "https://mashable.com/tech/oct-13-lg-ultragear-oled-27-inch-gaming-monitor-deal",
+    "sourceName": "Mashable",
+    "originalImageUrl": "https://helios-i.mashable.com/imagery/articles/01Nhsz7MTsm2P1P0jQAeDts/hero-image.fill.size_1200x675.v1791879423.png",
+    "originalImageArticleUrl": "https://mashable.com/tech/oct-13-lg-ultragear-oled-27-inch-gaming-monitor-deal",
+    "displayDate": "2026-10-17"
+  },
+  "LED Wall Display": {
+    "title": "プジョー、透過型MicroLEDを採用したコンセプトEVを発表",
+    "summary": "プジョーが、最新のコンセプトEVにおいて透過型のMicroLEDディスプレイを採用したことを発表しました。従来のディスプレイとは異なり、車両のガラスやインテリアに情報を透過的に統合する技術として、次世代の車載UI/UXの可能性を示唆しています。",
+    "insight": "透過型MicroLEDは高輝度と高い透明度を両立できるため、拡張現実（AR）HUDやシースルー型の情報提示インターフェースとして車載分野で大きな注目を集めています。エンジニアとしては、ディスプレイの駆動回路や、視認性を維持しつつ背景と情報を合成するグラフィックスの最適化技術が今後の開発の鍵となります。",
+    "sourceUrl": "https://www.ledinside.com/products/2026/10/2026_10_15_03",
+    "sourceName": "LEDinside",
+    "originalImageUrl": "https://p.ledinside.com/led/2026-10/1792049240_83807.jpg",
+    "originalImageArticleUrl": "https://www.ledinside.com/products/2026/10/2026_10_15_03",
+    "displayDate": "2026-10-17"
+  },
+  "Projector": {
+    "title": "世界初！光学シフト対応の4K/120Hzプロジェクター登場",
+    "summary": "AWOL Visionが、世界初となる光学レンズシフト機能を備えた4K・120Hz対応プロジェクター「LuxVision」の予約を開始しました。高性能かつ柔軟な設置性を実現しており、ホームシアター市場に新たな選択肢をもたらします。",
+    "insight": "光学シフトによる映像の物理的調整は、デジタル補正による解像度劣化を防げるため、高精細な映像体験において非常に重要です。特に4K/120Hzという高負荷な信号処理を行いながら、ハードウェアレベルで設置の柔軟性を確保している点は、AV機器設計におけるエンジニアリングの進化を感じさせます。",
+    "sourceUrl": "https://www.techpowerup.com/353730/awol-vision-opens-pre-orders-for-luxvision-worlds-first-optical-shift-4k-120hz-projector",
+    "sourceName": "TechPowerUp",
+    "originalImageUrl": null,
+    "originalImageArticleUrl": "https://www.techpowerup.com/353730/awol-vision-opens-pre-orders-for-luxvision-worlds-first-optical-shift-4k-120hz-projector",
+    "displayDate": "2026-10-17"
+  }
+}
