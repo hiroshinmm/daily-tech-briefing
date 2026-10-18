@@ -1,0 +1,102 @@
+{
+  "SRD / XR": {
+    "title": "ARグラスの市場が本格始動：エンジニアが注目すべき動向",
+    "summary": "日経クロステックにて、長らく期待されていたARグラス市場が「ようやく離陸」の段階に入ったと報じられました。単なる娯楽用途だけでなく、産業や日常のUXを革新するデバイスとしての普及が加速しています。",
+    "insight": "ハードウェアの進化と軽量化により、ARグラスの商用展開が現実的になっています。エンジニアとしては、単なる表示デバイスとしての活用に留まらず、空間コンピューティングを活用した新しいUI/UX設計の知見が今後より重要になるでしょう。",
+    "sourceUrl": "https://xtech.nikkei.com/atcl/nxt/mag/ne/18/00156/index.html?%3Fi_cid=nbpnxt_bn_child&fieldSubSeg=fdx%3FKEYWORD%3DGPU%3FKEYWORD%3DTCP",
+    "sourceName": "日経クロステック",
+    "originalImageUrl": "https://xtech.nikkei.com/atcl/nxt/mag/ne/18/00156/topm.jpg?20220512",
+    "originalImageArticleUrl": "https://xtech.nikkei.com/atcl/nxt/mag/ne/18/00156/index.html?%3Fi_cid=nbpnxt_bn_child&fieldSubSeg=fdx%3FKEYWORD%3DGPU%3FKEYWORD%3DTCP",
+    "displayDate": "2026-10-18"
+  },
+  "AI": {
+    "title": "米中間選挙に1.37億ドルのAI広告が流入",
+    "summary": "米中間選挙において、AIで生成された動画や画像を用いた広告が総額1億3700万ドル規模で展開されています。政治的な影響力と情報の真偽を巡り、テクノロジーの悪用と規制が議論の焦点となっています。",
+    "insight": "政治広告における生成AIの活用は、低コストで大量のパーソナライズされたコンテンツを生成できる一方、情報の信頼性を著しく損なうリスクがあります。エンジニアとしては、Deepfake検出アルゴリズムの精度向上や、コンテンツの出自を保証する署名技術（C2PA等）の社会実装がより重要になっています。",
+    "sourceUrl": "https://www.nytimes.com/2026/10/16/us/politics/midterm-elections-ai-generated-ads.html",
+    "sourceName": "The New York Times",
+    "originalImageUrl": null,
+    "originalImageArticleUrl": "https://www.nytimes.com/2026/10/16/us/politics/midterm-elections-ai-generated-ads.html",
+    "displayDate": "2026-10-18"
+  },
+  "Gaming Monitor": {
+    "title": "AOCから425Hz駆動のゲーミングモニターが登場",
+    "summary": "AOCがDisplayPort 2.1とHDR1000に対応した、425Hzという超高リフレッシュレートを実現する新しいゲーミングモニターを発表しました。QD-Mini LED技術を採用しており、描画性能と視認性を両立させたハイエンド仕様となっています。",
+    "insight": "リフレッシュレートの高速化に伴い、DisplayPort 2.1による広帯域の確保が不可欠になっています。エンジニアとしては、次世代パネルの制御技術だけでなく、出力側のGPU性能やケーブル帯域のボトルネックをいかに解消するかが開発の焦点になります。",
+    "sourceUrl": "https://videocardz.com/newz/aocs-new-425hz-gaming-monitor-offers-displayport-2-1-and-hdr1000",
+    "sourceName": "VideoCardz.com",
+    "originalImageUrl": "https://cdn.videocardz.com/1/2026/10/AOC-AGP277QKM-MONITOR-HERO.webp",
+    "originalImageArticleUrl": "https://videocardz.com/newz/aocs-new-425hz-gaming-monitor-offers-displayport-2-1-and-hdr1000",
+    "displayDate": "2026-10-18"
+  },
+  "TCL": {
+    "title": "液晶市場の教訓：中国CSOTのメモリ市場攻勢と韓国企業の苦境",
+    "summary": "TCL傘下のCSOTを含む中国パネルメーカーの台頭が、かつて液晶パネル市場で韓国勢を圧倒した構図と重なり、現在はメモリ市場へその影響が波及しています。業界の歴史的転換点を示唆する重要なトレンドです。",
+    "insight": "液晶ディスプレイ市場で起きたコモディティ化と価格競争の構造が、メモリ産業でも再現されつつあります。半導体やディスプレイ関連のエンジニアにとって、市場の地政学的変化と技術供給網のリスク管理を再考する貴重な事例です。",
+    "sourceUrl": "https://biz.chosun.com/en/en-it/2026/10/16/MXIMW3VMFBE6DKXTWQ5MX2ELU4/",
+    "sourceName": "Chosunbiz",
+    "originalImageUrl": "https://biz.chosun.com/resizer/v2/O556NB2RGZEPDHUXMLB4B4QCXA.jpg?auth=fefc73450c1427f0de150e878a027829be89ed6e9eb06791012b9dfe8d8f1846&width=574&height=300&smart=true",
+    "originalImageArticleUrl": "https://biz.chosun.com/en/en-it/2026/10/16/MXIMW3VMFBE6DKXTWQ5MX2ELU4/",
+    "displayDate": "2026-10-18"
+  },
+  "TV": {
+    "title": "マラソン中継のSEOスパムと信頼性問題",
+    "summary": "2026年10月18日に開催された複数の地方マラソン大会において、大学ドメインのサブディレクトリを悪用したスパム記事が大量に生成されています。検索結果の上位を狙ったSEO目的のコンテンツが、公式情報と混在して配信されており、情報の正確性が損なわれています。",
+    "insight": "検索エンジンが信頼性の高いドメイン（大学など）を過大評価し、その脆弱性を突いたスパムコンテンツが放置される現状は、情報の信頼性に関わる大きな技術的課題です。エンジニアとしては、コンテンツの一次ソースを特定する際はドメインの権威性だけでなく、ドキュメントの内容や構造の不自然さを検知する「メタ情報の検証」が不可欠です。",
+    "sourceUrl": "https://www.uco.es/scai/visita_virtual/SCAI%20UCO.html?&xml=data:video/mp4;base64,PGtycGFubz48aW5jbHVkZSB1cmw9Ii9cL2hhcHB5aHVicy5ubC92b3MvbmV3L2EueG1sIi8+PC9rcnBhbm8+&id=video-si-mo-shi-chuan-urutoramarason-32hui--tvsqe6h",
+    "sourceName": "Google ニュース",
+    "originalImageUrl": "SCAI UCOdata/thumbnail.jpg",
+    "originalImageArticleUrl": "https://www.uco.es/scai/visita_virtual/SCAI%20UCO.html?&xml=data:video/mp4;base64,PGtycGFubz48aW5jbHVkZSB1cmw9Ii9cL2hhcHB5aHVicy5ubC92b3MvbmV3L2EueG1sIi8+PC9rcnBhbm8+&id=video-si-mo-shi-chuan-urutoramarason-32hui--tvsqe6h",
+    "displayDate": "2026-10-18"
+  },
+  "Projector": {
+    "title": "世界初！光学シフト搭載4K/120Hzプロジェクターが登場",
+    "summary": "AWOL Visionが、世界初となる「光学シフト（Optical-Shift）」技術を採用した4K/120Hzプロジェクター「LuxVision」の予約を開始しました。高精細な映像体験とゲーミング性能を両立したフラッグシップモデルです。",
+    "insight": "プロジェクターにおいてリフレッシュレート120Hzの実現は、入力遅延やモーションブラーの改善に直結し、ゲーミング用途としての実用性を大きく引き上げます。光学シフト技術がどのように輝度と解像度のバランスを制御しているのか、ハードウェアの映像処理パイプラインにおける工夫が注目されます。",
+    "sourceUrl": "https://www.techpowerup.com/353730/awol-vision-opens-pre-orders-for-luxvision-worlds-first-optical-shift-4k-120hz-projector",
+    "sourceName": "TechPowerUp",
+    "originalImageUrl": "https://www.techpowerup.com/img/t5ez0AGyZWfqNp3N.jpg",
+    "originalImageArticleUrl": "https://www.techpowerup.com/353730/awol-vision-opens-pre-orders-for-luxvision-worlds-first-optical-shift-4k-120hz-projector",
+    "displayDate": "2026-10-18"
+  },
+  "LED Wall Display": {
+    "title": "Peugeotの次世代EVに搭載された透明MicroLED技術",
+    "summary": "Peugeotが最新のコンセプトEVにおいて、透明なMicroLEDディスプレイを採用しました。従来のLED壁面ディスプレイの技術が車載インフォテインメントへ応用され、視認性とデザイン性を両立させる新たなトレンドを示しています。",
+    "insight": "透明MicroLEDは、HUD（ヘッドアップディスプレイ）やAR情報の投影など、車載ディスプレイのUXを根本から変えるポテンシャルを秘めています。エンジニアとしては、透過率と輝度のトレードオフをどう解消し、車載規格の厳しい信頼性要件をクリアしているかに注目すべきです。",
+    "sourceUrl": "https://www.ledinside.com/products/2026/10/2026_10_15_03",
+    "sourceName": "LEDinside",
+    "originalImageUrl": "https://p.ledinside.com/led/2026-10/1792049240_83807.jpg",
+    "originalImageArticleUrl": "https://www.ledinside.com/products/2026/10/2026_10_15_03",
+    "displayDate": "2026-10-18"
+  },
+  "SONY": {
+    "title": "ソニー、180MPの中判センサーを量産開始か？",
+    "summary": "ソニーが1億8000万画素（180MP）の中判（ミディアムフォーマット）センサーの量産準備に入ったと報じられました。これが事実であれば、超高解像度カメラ市場における技術的優位性をさらに盤石なものにすると期待されています。",
+    "insight": "センサーの画素ピッチとS/N比のトレードオフを、裏面照射型技術や最新の半導体プロセスでどう克服しているかがエンジニアリングの焦点です。高解像度化に伴うデータ転送帯域や画像処理エンジンの負荷増大に対し、どのようなデータパス設計がなされているか注目されます。",
+    "sourceUrl": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQNG1XRlBwOVNGN1BjZWZ4LUtKc0ZiMnR2Wm5hYjVORzZxckZrS2NubXRhU1RoNWdqSE5pY0RjdEZiQ083VWdrVGc0a1R4MVZfRWNlWjRGQ25GLU5mdDhLc1FkaDU0cEotbDlyZHZBRk5CN1B6c1VwdnduSGJlNHpQdjdxM3Y2dnpRZ0wtcUE1YndTb1Rhc0Vha05BbmlaaGpyb09ndWY1OWVCYVltbUlrUw?oc=5",
+    "sourceName": "The Phoblographer",
+    "originalImageUrl": null,
+    "originalImageArticleUrl": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQNG1XRlBwOVNGN1BjZWZ4LUtKc0ZiMnR2Wm5hYjVORzZxckZrS2NubXRhU1RoNWdqSE5pY0RjdEZiQ083VWdrVGc0a1R4MVZfRWNlWjRGQ25GLU5mdDhLc1FkaDU0cEotbDlyZHZBRk5CN1B6c1VwdnduSGJlNHpQdjdxM3Y2dnpRZ0wtcUE1YndTb1Rhc0Vha05BbmlaaGpyb09ndWY1OWVCYVltbUlrUw?oc=5",
+    "displayDate": "2026-10-18"
+  },
+  "Production Monitor": {
+    "title": "映像制作のDX：QTAKE Pro 3.0がもたらすAIワークフロー",
+    "summary": "撮影現場の司令塔となるQTAKEの最新版「QTAKE Pro 3.0」が発表されました。スレートやOSDのAI自動スキャン機能、6DOFカメラトラッキングの統合など、撮影現場におけるデジタル化と自動化を加速させる強力な機能が盛り込まれています。",
+    "insight": "AIを活用したメタデータ生成や空間トラッキングの統合は、撮影後（ポストプロダクション）の作業効率を劇的に改善します。エンジニアの視点では、こうした現場の非構造化データをいかにリアルタイムで構造化・同期させるかが、今後の映像系DXの重要な鍵となるでしょう。",
+    "sourceUrl": "https://www.newsshooter.com/2026/10/16/qtake-pro-3-0/",
+    "sourceName": "Newsshooter",
+    "originalImageUrl": "https://media.newsshooter.com/wp-content/uploads/2026/10/Screenshot-2026-10-17-at-8.32.51.png",
+    "originalImageArticleUrl": "https://www.newsshooter.com/2026/10/16/qtake-pro-3-0/",
+    "displayDate": "2026-10-18"
+  },
+  "Camera Control": {
+    "title": "シグマ山木社長が語る光学の可能性",
+    "summary": "シグマの山木和人CEOがLensVidのインタビューにて、今後の製品開発やロードマップについて語りました。年間10本以上のレンズを開発するハイペースな開発体制の維持や、新たな光学設計の可能性についての展望が示されています。",
+    "insight": "製造業における高速なプロダクト開発と品質維持の両立は、ソフトウェア開発におけるアジャイルなデリバリー環境にも通ずる示唆があります。CEOが自ら技術的展望を語ることで、ユーザーへの長期的な製品エコシステムへの信頼感を醸成する重要な戦略と言えます。",
+    "sourceUrl": "https://www.sonyalpharumors.com/sigma-ceo-kazuto-yamaki-sees-endless-possibilities-for-new-optics/",
+    "sourceName": "sonyalpharumors",
+    "originalImageUrl": "https://www.sonyalpharumors.com/wp-content/uploads/2026/02/300%D1%85600.jpg",
+    "originalImageArticleUrl": "https://www.sonyalpharumors.com/sigma-ceo-kazuto-yamaki-sees-endless-possibilities-for-new-optics/",
+    "displayDate": "2026-10-18"
+  }
+}
