@@ -1,10 +1,6 @@
 {
   "Production Monitor": [
     {
-      "url": "https://www.cined.com/two-timelines-one-countdown-how-cross-cutting-builds-tension-in-film/",
-      "date": "2026-10-12"
-    },
-    {
       "url": "https://www.cined.com/arri-film-lab-1-5-released-8mm-to-65mm-film-formats-anamorphic-grain-and-halation-aces-2-0-support/",
       "date": "2026-10-13"
     },
@@ -27,13 +23,13 @@
     {
       "url": "https://www.newsshooter.com/2026/10/16/qtake-pro-3-0/",
       "date": "2026-10-18"
+    },
+    {
+      "url": "https://www.newsshooter.com/2026/10/16/z-cam-e2-f6-pro-firmware-update-adds-prores-raw-internally-at-up-to-6k-60fps/",
+      "date": "2026-10-19"
     }
   ],
   "SRD / XR": [
-    {
-      "url": "https://www.uploadvr.com/pico-space-pro-headset-spotted-in-japanese-regulatory-filings/",
-      "date": "2026-10-12"
-    },
     {
       "url": "https://www.moguravr.com/vr-ar-mr-weekly-2026-10-13/",
       "date": "2026-10-13"
@@ -57,13 +53,13 @@
     {
       "url": "https://xtech.nikkei.com/atcl/nxt/mag/ne/18/00156/index.html?%3Fi_cid=nbpnxt_bn_child&fieldSubSeg=fdx%3FKEYWORD%3DGPU%3FKEYWORD%3DTCP",
       "date": "2026-10-18"
+    },
+    {
+      "url": "https://www.moguravr.com/vr-ar-mr-weekly-2026-10-19/",
+      "date": "2026-10-19"
     }
   ],
   "AI": [
-    {
-      "url": "https://news.yahoo.co.jp/articles/e337f0c260bb14f46f5cc563c8a6f4d8ecdb4ddd",
-      "date": "2026-10-12"
-    },
     {
       "url": "https://www.wsj.com/tech/ai/meta-says-new-ai-model-is-state-of-the-art-will-make-muse-agent-smarter-1304cdf4",
       "date": "2026-10-13"
@@ -83,13 +79,13 @@
     {
       "url": "https://www.nytimes.com/2026/10/16/us/politics/midterm-elections-ai-generated-ads.html",
       "date": "2026-10-18"
+    },
+    {
+      "url": "https://news.yahoo.co.jp/articles/2c807564e567a7a66e8718bce6ebd38538c605e8",
+      "date": "2026-10-19"
     }
   ],
   "Gaming Monitor": [
-    {
-      "url": "https://www.expreview.com/108602.html",
-      "date": "2026-10-12"
-    },
     {
       "url": "https://pc.watch.impress.co.jp/docs/news/2147538.html",
       "date": "2026-10-13"
@@ -113,13 +109,13 @@
     {
       "url": "https://videocardz.com/newz/aocs-new-425hz-gaming-monitor-offers-displayport-2-1-and-hdr1000",
       "date": "2026-10-18"
+    },
+    {
+      "url": "https://www.pcguide.com/deals/amazon-deal-has-knocked-400-off-this-popular-lg-ultrgear-oled-gaming-monitor/",
+      "date": "2026-10-19"
     }
   ],
   "TCL": [
-    {
-      "url": "https://www.pcguide.com/deals/massive-98-inch-tcl-qled-tv-gets-its-first-price-cut-in-tempting-amazon-deal/",
-      "date": "2026-10-12"
-    },
     {
       "url": "https://www.gizguide.com/2026/10/tcl-opens-industrial-museum.html",
       "date": "2026-10-13"
@@ -139,13 +135,13 @@
     {
       "url": "https://biz.chosun.com/en/en-it/2026/10/16/MXIMW3VMFBE6DKXTWQ5MX2ELU4/",
       "date": "2026-10-18"
+    },
+    {
+      "url": "https://theinventory.com/tcl-65-inch-qm7l-series-sqd-mini-led-qled-4k-smart-google-tv-65qm7l-2026-bf2c8bf9",
+      "date": "2026-10-19"
     }
   ],
   "Camera Control": [
-    {
-      "url": "https://dc.watch.impress.co.jp/docs/news/2147357.html",
-      "date": "2026-10-12"
-    },
     {
       "url": "https://www.dpreview.com/articles/iphone-18-pro-manual-shutter-speed-noisier-photos/",
       "date": "2026-10-13"
@@ -169,13 +165,13 @@
     {
       "url": "https://www.sonyalpharumors.com/sigma-ceo-kazuto-yamaki-sees-endless-possibilities-for-new-optics/",
       "date": "2026-10-18"
+    },
+    {
+      "url": "https://www.dpreview.com/news/time-best-inventions-of-2026/",
+      "date": "2026-10-19"
     }
   ],
   "LED Wall Display": [
-    {
-      "url": "https://www.gurufocus.com/news/9116244/kopin-corp-kopn-secures-186m-us-army-contract-to-advance-microled-display-tech",
-      "date": "2026-10-12"
-    },
     {
       "url": "https://www.digitalsignagetoday.com/news/nfl-las-vegas-raiders-draft-room-sports-lots-of-dvled/",
       "date": "2026-10-13"
@@ -199,13 +195,13 @@
     {
       "url": "https://www.ledinside.com/products/2026/10/2026_10_15_03",
       "date": "2026-10-18"
+    },
+    {
+      "url": "https://www.digitalsignagetoday.com/news/global-digital-signage-market-to-surpass-36b-in-value-by-2030/",
+      "date": "2026-10-19"
     }
   ],
   "SONY": [
-    {
-      "url": "https://hothardware.com/news/sony-dump-patents-meta-end-psvr",
-      "date": "2026-10-12"
-    },
     {
       "url": "https://www.bcnretail.com/ranking/research/detail/20261012_668197.html",
       "date": "2026-10-13"
@@ -225,13 +221,13 @@
     {
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQNG1XRlBwOVNGN1BjZWZ4LUtKc0ZiMnR2Wm5hYjVORzZxckZrS2NubXRhU1RoNWdqSE5pY0RjdEZiQ083VWdrVGc0a1R4MVZfRWNlWjRGQ25GLU5mdDhLc1FkaDU0cEotbDlyZHZBRk5CN1B6c1VwdnduSGJlNHpQdjdxM3Y2dnpRZ0wtcUE1YndTb1Rhc0Vha05BbmlaaGpyb09ndWY1OWVCYVltbUlrUw?oc=5",
       "date": "2026-10-18"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1mb2k4cTJMNk41ZTZZRHgtbEc5N3A3ODFiUUZWc1FrOXdjSlRNdXVZazNRUDNTOVFETXJ3NmNOTF9GUVdubUlScGJnUUxxcm5vZGYtbXkxWWdnWU1KUjZScDhkQmVuSVo5dTdj?oc=5",
+      "date": "2026-10-19"
     }
   ],
   "TV": [
-    {
-      "url": "https://news.tv-asahi.co.jp/news_international/articles/000539535.html",
-      "date": "2026-10-12"
-    },
     {
       "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE83SnlWVGFONEplbVhjVU1TSHc4T0w2R2dLMUdEbnhMRjRrR0RkSTE3ckZ0YmhwMjhHRl9IX2NJWl84Wk1ZcEdEc1ZJZE5LMzY5bEpBRDFXbjBCYjRWQVY4V2ZOaw?oc=5",
       "date": "2026-10-13"
@@ -251,13 +247,13 @@
     {
       "url": "https://www.uco.es/scai/visita_virtual/SCAI%20UCO.html?&xml=data:video/mp4;base64,PGtycGFubz48aW5jbHVkZSB1cmw9Ii9cL2hhcHB5aHVicy5ubC92b3MvbmV3L2EueG1sIi8+PC9rcnBhbm8+&id=video-si-mo-shi-chuan-urutoramarason-32hui--tvsqe6h",
       "date": "2026-10-18"
+    },
+    {
+      "url": "https://www.as-web.jp/sports-car/1362326",
+      "date": "2026-10-19"
     }
   ],
   "Projector": [
-    {
-      "url": "https://www.walkerplus.com/article/169199/image991543.html",
-      "date": "2026-10-12"
-    },
     {
       "url": "https://basic-tutorials.com/news/xgimi-horizon-30-series-unveiled-4k-projector-with-120-hz-and-rgb-triple-laser/",
       "date": "2026-10-13"
@@ -281,6 +277,10 @@
     {
       "url": "https://www.techpowerup.com/353730/awol-vision-opens-pre-orders-for-luxvision-worlds-first-optical-shift-4k-120hz-projector",
       "date": "2026-10-18"
+    },
+    {
+      "url": "https://www.techpowerup.com/353730/awol-vision-opens-pre-orders-for-luxvision-worlds-first-optical-shift-4k-120hz-projector",
+      "date": "2026-10-19"
     }
   ]
 }

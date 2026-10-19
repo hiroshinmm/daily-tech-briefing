@@ -1,0 +1,102 @@
+{
+  "AI": {
+    "title": "中国製LLMを悪用したサイバー攻撃の脅威",
+    "summary": "中国製LLMの台頭により、AIを用いた自動偵察やシステムへの侵入、情報奪取が急増している。専門家は個人情報の漏洩リスクに警鐘を鳴らしており、スマート家電を含めたネットワーク環境のセキュリティ対策が急務となっている。",
+    "insight": "AIを活用した攻撃の自動化・高度化は、従来の防御手法を無効化する可能性があります。エンジニアとしては、単なるパスワード管理だけでなく、ゼロトラストモデルの導入や、AIベースの脅威検知・対応システム（XDR/SIEM）の検討が不可欠です。",
+    "sourceUrl": "https://news.yahoo.co.jp/articles/2c807564e567a7a66e8718bce6ebd38538c605e8",
+    "sourceName": "Yahoo!ニュース",
+    "originalImageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261018-23020110-kutvv-000-3-view.jpg?exp=10800",
+    "originalImageArticleUrl": "https://news.yahoo.co.jp/articles/2c807564e567a7a66e8718bce6ebd38538c605e8",
+    "displayDate": "2026-10-19"
+  },
+  "Gaming Monitor": {
+    "title": "LG UltraGear OLEDが大幅値下げ！",
+    "summary": "Amazonにおいて、人気のLG UltraGear OLEDゲーミングモニターが400ドルオフという大幅な値下げ販売が行われています。高リフレッシュレートと有機ELパネルの恩恵を低価格で手に入れるチャンスとして、ゲーマーや開発者の間で注目が集まっています。",
+    "insight": "OLEDモニターは応答速度が極めて速く、高速な描画を要求するアプリケーションやFPSゲームの検証環境として非常に優秀です。最近の価格下落は、開発用モニターとしてハイエンドな有機EL環境を導入する絶好の検討材料になるでしょう。",
+    "sourceUrl": "https://www.pcguide.com/deals/amazon-deal-has-knocked-400-off-this-popular-lg-ultrgear-oled-gaming-monitor/",
+    "sourceName": "PC Guide",
+    "originalImageUrl": "https://www.pcguide.com/wp-content/uploads/2026/10/LG-39GX950B-deal.jpg",
+    "originalImageArticleUrl": "https://www.pcguide.com/deals/amazon-deal-has-knocked-400-off-this-popular-lg-ultrgear-oled-gaming-monitor/",
+    "displayDate": "2026-10-19"
+  },
+  "TCL": {
+    "title": "TCLのMini-LEDテレビが「1,000ドル以下」で144Hzゲーミングに対応",
+    "summary": "TCLの65インチMini-LED QLEDテレビが1,000ドル以下という高コストパフォーマンスで販売され、144Hzの高リフレッシュレート対応によりゲーミング用途での注目を集めています。大型ディスプレイの普及と低価格化が進んでいます。",
+    "insight": "Mini-LED技術の低価格化は、高リフレッシュレートを求めるゲーマーにとって、高価なゲーミングモニターの強力な代替選択肢となります。エンジニアとしては、リビングの大型画面を開発環境やデバッグ用コンソールとして活用する際のコスト・パフォーマンス指標として注目すべきです。",
+    "sourceUrl": "https://theinventory.com/tcl-65-inch-qm7l-series-sqd-mini-led-qled-4k-smart-google-tv-65qm7l-2026-bf2c8bf9",
+    "sourceName": "The Inventory",
+    "originalImageUrl": "https://theinventory.com/cdn-cgi/image/width=1200,quality=85,format=auto/https://assets.theinventory.com/media/tcl-65-inch-qm7l-series-sqd-mini-led-qled-4k-smart-google-tv-65qm7l-2026-bf2c8bf9-1792088951779-1200x630.png",
+    "originalImageArticleUrl": "https://theinventory.com/tcl-65-inch-qm7l-series-sqd-mini-led-qled-4k-smart-google-tv-65qm7l-2026-bf2c8bf9",
+    "displayDate": "2026-10-19"
+  },
+  "Projector": {
+    "title": "世界初！光学シフト搭載の4K/120Hzプロジェクター登場",
+    "summary": "AWOL Visionが、世界初となる光学シフト機能を備えた4K/120Hz対応のプロジェクター「LuxVision」の予約を開始しました。高精細かつ滑らかな映像美で、次世代のホームシアター体験を実現する注目デバイスです。",
+    "insight": "光学シフト（オプティカル・シフト）の採用は、レンズシフトの物理的な制限を超えて画質を維持しつつ設置柔軟性を高めるエンジニアリング上の重要な進化です。また4K/120Hzというスペックは、PCゲーミングや最新コンソールでの利用を前提としており、プロジェクターが単なる映画鑑賞用から高性能ゲーミングディスプレイへ用途を拡張していることが読み取れます。",
+    "sourceUrl": "https://www.techpowerup.com/353730/awol-vision-opens-pre-orders-for-luxvision-worlds-first-optical-shift-4k-120hz-projector",
+    "sourceName": "TechPowerUp",
+    "originalImageUrl": "https://www.techpowerup.com/img/t5ez0AGyZWfqNp3N.jpg",
+    "originalImageArticleUrl": "https://www.techpowerup.com/353730/awol-vision-opens-pre-orders-for-luxvision-worlds-first-optical-shift-4k-120hz-projector",
+    "displayDate": "2026-10-19"
+  },
+  "Camera Control": {
+    "title": "Nikon・GoPro等がTIME誌の「2026年ベスト発明」に選出",
+    "summary": "米TIME誌が選ぶ「2026年のベスト発明」リストに、Nikon ZR、GoPro Mission 1 Pro ILS、Instax Mini Evo Cinemaの3機種がランクインしました。革新的なカメラ技術のトレンドが注目されています。",
+    "insight": "AIやシネマティックな処理技術が、伝統的なカメラのUXをどう進化させるかが焦点です。ハードウェア性能だけでなく、ユーザー体験を再定義するソフトウェアの役割が重要視されています。",
+    "sourceUrl": "https://www.dpreview.com/news/time-best-inventions-of-2026/",
+    "sourceName": "DPReview",
+    "originalImageUrl": "https://www.dpreview.com/wp-content/uploads/2026/10/GoPro-ILS-Instax-Cinema-Nikon-ZR-copy.jpg",
+    "originalImageArticleUrl": "https://www.dpreview.com/news/time-best-inventions-of-2026/",
+    "displayDate": "2026-10-19"
+  },
+  "Production Monitor": {
+    "title": "Z CAMがファームウェア更新で内部収録6K ProRes RAWに対応",
+    "summary": "Z CAM E2-F6 Proの最新ファームウェアがリリースされ、内部収録でのProRes RAW（最大6K 60fps）記録が可能になりました。フラッグシップモデルの性能をソフトウェアアップデートで拡張する動きが注目されています。",
+    "insight": "ファームウェアによる機能拡張は、ハードウェアの製品寿命を延ばしつつユーザーに高付加価値を提供できる優れた戦略です。エンジニアリング視点では、既存の処理リソース（I/Oやエンコーダー性能）を限界まで引き出す最適化の実装事例として非常に興味深いです。",
+    "sourceUrl": "https://www.newsshooter.com/2026/10/16/z-cam-e2-f6-pro-firmware-update-adds-prores-raw-internally-at-up-to-6k-60fps/",
+    "sourceName": "Newsshooter",
+    "originalImageUrl": "https://media.newsshooter.com/wp-content/uploads/2026/10/Screenshot-2026-10-17-at-8.26.12.png",
+    "originalImageArticleUrl": "https://www.newsshooter.com/2026/10/16/z-cam-e2-f6-pro-firmware-update-adds-prores-raw-internally-at-up-to-6k-60fps/",
+    "displayDate": "2026-10-19"
+  },
+  "SONY": {
+    "title": "ソニー新型スマホ用センサーで4800万画素へ",
+    "summary": "ソニーがスマートフォン向けの新カメラセンサーを発表。高精細な4800万画素の撮影が可能となり、モバイルデバイスにおける静止画および動画の画質がさらに向上します。センサー技術の進化は、今後のモバイルデバイス開発の重要な鍵となります。",
+    "insight": "スマートフォン向けイメージセンサーの進化は、積層型技術による画質向上と省電力化のバランスがエンジニアリングの核心です。モバイル端末の限られた筐体サイズでいかに高い受光効率を実現するかが、今後のアプリケーションプロセッサの処理能力とセットで技術的評価の焦点となります。",
+    "sourceUrl": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1mb2k4cTJMNk41ZTZZRHgtbEc5N3A3ODFiUUZWc1FrOXdjSlRNdXVZazNRUDNTOVFETXJ3NmNOTF9GUVdubUlScGJnUUxxcm5vZGYtbXkxWWdnWU1KUjZScDhkQmVuSVo5dTdj?oc=5",
+    "sourceName": "Mashable",
+    "originalImageUrl": null,
+    "originalImageArticleUrl": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1mb2k4cTJMNk41ZTZZRHgtbEc5N3A3ODFiUUZWc1FrOXdjSlRNdXVZazNRUDNTOVFETXJ3NmNOTF9GUVdubUlScGJnUUxxcm5vZGYtbXkxWWdnWU1KUjZScDhkQmVuSVo5dTdj?oc=5",
+    "displayDate": "2026-10-19"
+  },
+  "TV": {
+    "title": "2026年WEC第7戦バルセロナ：TV放送スケジュール",
+    "summary": "2026年WEC（世界耐久選手権）第7戦バルセロナ大会における、TV放送、タイムスケジュール、および最新エントリーリストの情報が公開されました。モータースポーツファン注目のレース展開を追いかけるための重要なガイドとなります。",
+    "insight": "レース配信やリアルタイムなタイムスケジュールの提供は、高トラフィックを捌くための低遅延ストリーミング技術や効率的なデータ同期が不可欠です。エンジニアの視点では、大規模イベント時のトラフィック負荷分散やAPIの可用性向上といったシステムアーキテクチャの観点から注目する価値があります。",
+    "sourceUrl": "https://www.as-web.jp/sports-car/1362326",
+    "sourceName": "autosport web",
+    "originalImageUrl": "https://cdn-image.as-web.jp/2026/10/18160728/000-1.jpg",
+    "originalImageArticleUrl": "https://www.as-web.jp/sports-car/1362326",
+    "displayDate": "2026-10-19"
+  },
+  "LED Wall Display": {
+    "title": "デジタルサイネージ市場、2030年に360億ドル規模へ",
+    "summary": "最新のレポートによると、世界のデジタルサイネージ市場は2030年までに360億ドル以上の規模に達し、今後4年間で年率10%の成長が見込まれています。市場は依然として断片化されており、トップ10社でもシェアは1割に留まる成長市場です。",
+    "insight": "市場の断片化は、ハードウェアの差別化だけでなく、コンテンツ管理や統合ソリューションを提供するSIerにとって大きな商機を意味します。エンジニアとしては、単なるディスプレイ性能の向上だけでなく、IoTやAIを組み合わせたインタラクティブな配信基盤の構築スキルが重要になるでしょう。",
+    "sourceUrl": "https://www.digitalsignagetoday.com/news/global-digital-signage-market-to-surpass-36b-in-value-by-2030/",
+    "sourceName": "Digital Signage Today",
+    "originalImageUrl": "https://nmgprod.s3.amazonaws.com/media/file/4e/60/042d504569de9aa5b9c9ac08363c/cover_image__6rsseASJ__AdobeStock_1737135096.jpeg.360x190_q85_crop_upscale.webp",
+    "originalImageArticleUrl": "https://www.digitalsignagetoday.com/news/global-digital-signage-market-to-surpass-36b-in-value-by-2030/",
+    "displayDate": "2026-10-19"
+  },
+  "SRD / XR": {
+    "title": "国内AR開発が加速、CellidがSnapdragonパートナーに",
+    "summary": "日本のARグラス開発企業Cellidが、Qualcommの「Snapdragon Spaces Pathfinder Program」に参画しました。国内技術のグローバル展開が加速し、ARデバイス開発のエコシステムがより強固になりつつあります。",
+    "insight": "Qualcommのようなチップセットベンダーのエコシステムに参画することは、デバイス開発における最適化や互換性確保の鍵となります。ARグラスのハードウェア開発では、いかに電力効率と処理速度を両立させるかが技術的課題であり、業界標準への適合は商用化への近道です。",
+    "sourceUrl": "https://www.moguravr.com/vr-ar-mr-weekly-2026-10-19/",
+    "sourceName": "Mogura VR",
+    "originalImageUrl": "https://assets.moguravr.com/uploads/2026/10/c3b7c088f3de848440f4b2d45c68e050-kix.n8g0nuuqxce-300x166.webp",
+    "originalImageArticleUrl": "https://www.moguravr.com/vr-ar-mr-weekly-2026-10-19/",
+    "displayDate": "2026-10-19"
+  }
+}
