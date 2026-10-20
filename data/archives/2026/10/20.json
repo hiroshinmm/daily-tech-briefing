@@ -1,0 +1,102 @@
+{
+  "AI": {
+    "title": "国内企業を標的としたAI攻撃ツール「ARTEX」の脅威",
+    "summary": "国内の複数の企業に対し、中国系AIツール「ARTEX」を悪用した不正アクセスが発生していることが明らかになりました。攻撃者はAIエージェントを活用し、効率的かつ組織的に攻撃を仕掛けていると見られ、セキュリティ対策の新たな脅威として懸念が広がっています。",
+    "insight": "AIエージェントの悪用は、従来の攻撃と比較して自動化・高度化が進んでおり、ログの検知やシグネチャベースの防御が困難になる可能性があります。開発者や運用担当者は、AIを用いた脅威インテリジェンスへの対応や、ゼロトラストなアクセス制御の再徹底が急務です。",
+    "sourceUrl": "https://www.sbbit.jp/article/cont1/187590",
+    "sourceName": "ビジネス+IT",
+    "originalImageUrl": "https://img.sbbit.jp/article/image/187590/OGP_bit202610200319042453.jpg",
+    "originalImageArticleUrl": "https://www.sbbit.jp/article/cont1/187590",
+    "displayDate": "2026-10-20"
+  },
+  "SRD / XR": {
+    "title": "建設DX：xR施工管理システムで照合誤差を50%低減",
+    "summary": "西松建設が、ドローン映像とCIM（建設情報モデリング）モデルを重ね合わせるxR施工管理システムを改良。従来比で照合誤差を約50％削減することに成功しました。現場での施工管理におけるデジタル技術活用の先駆的事例です。",
+    "insight": "現実空間の映像と設計データの高精度な重ね合わせ（重畳）は、カメラ位置の推定と環境認識の精度が鍵となります。AR/MR領域における空間演算能力の向上は、製造や建設現場での「デジタルツイン」の実効性を大きく高める重要な要素です。",
+    "sourceUrl": "https://built.itmedia.co.jp/bt/articles/2610/19/news102.html",
+    "sourceName": "ITmedia",
+    "originalImageUrl": "https://image.itmedia.co.jp/bt/articles/2610/19/cover_news102.jpg",
+    "originalImageArticleUrl": "https://built.itmedia.co.jp/bt/articles/2610/19/news102.html",
+    "displayDate": "2026-10-20"
+  },
+  "Production Monitor": {
+    "title": "Netflixの1,000人規模人員削減とテック部門への影響",
+    "summary": "Netflixが全従業員の約6%にあたる1,000人を削減する大規模なリストラを発表しました。特にプロダクトおよびテック部門が影響を受けており、同社の今後の開発体制や戦略に注目が集まっています。",
+    "insight": "大手テック企業の戦略的転換は、社内の技術スタックや優先プロジェクトの再編を伴うことが多く、エンジニアとしては注視が必要です。組織がスリム化される中で、いかに効率的な開発プロセスや技術的負債の解消を両立させるかが今後の大きな鍵となるでしょう。",
+    "sourceUrl": "https://www.cined.com/netflix-lays-off-about-1000-employees-6-of-staff-product-and-tech-teams-hit-months-after-losing-warner-bros/",
+    "sourceName": "CineD",
+    "originalImageUrl": "https://www.cined.com/content/uploads/2026/10/netflix-layoffs-featured-16x9-1-300x169.png",
+    "originalImageArticleUrl": "https://www.cined.com/netflix-lays-off-about-1000-employees-6-of-staff-product-and-tech-teams-hit-months-after-losing-warner-bros/",
+    "displayDate": "2026-10-20"
+  },
+  "TCL": {
+    "title": "TCLのMini LED TV出荷台数が77%増、市場シェア拡大へ",
+    "summary": "TCLの最新の業績発表によると、Mini LED TVの出荷台数が前年比で77.1%という大幅な成長を記録しました。価格競争力と高画質を両立させた製品ラインナップが、ハイエンドTV市場における同社のプレゼンスを急速に高めています。",
+    "insight": "Mini LEDは従来の液晶とOLEDの隙間を埋める技術として、エンジニア目線でもバックライト制御の進化やローカルディミングの最適化が重要な差別化要因となっています。低価格帯での普及は、今後のディスプレイ・レンダリングや映像処理アルゴリズムの市場標準を押し上げる可能性が高いです。",
+    "sourceUrl": "https://en.dailypakistan.com.pk/19-Oct-2026/tcl-reports-77-1pc-growth-in-mini-led-tv-shipments",
+    "sourceName": "Daily Pakistan",
+    "originalImageUrl": "https://en.dailypakistan.com.pk/wp-content/uploads/2026/10/tcl-reports-77-1pc-growth-in-mini-led-tv-shipments-news-345863.jpg",
+    "originalImageArticleUrl": "https://en.dailypakistan.com.pk/19-Oct-2026/tcl-reports-77-1pc-growth-in-mini-led-tv-shipments",
+    "displayDate": "2026-10-20"
+  },
+  "TV": {
+    "title": "ブラックフライデーに注目、最新OLED TVが史上最安値に",
+    "summary": "ブラックフライデーを控え、LGやSamsungといった大手メーカーの最新OLEDテレビが、記録的な低価格で販売されています。中には1,000ドルを超える大幅な割引が見られるモデルもあり、ハイエンドな視聴環境を整える好機となっています。",
+    "insight": "高リフレッシュレート対応の最新OLEDディスプレイは、ゲーム開発やUI/UXデザインにおける検証環境として非常に優秀です。特に開発効率向上を目的としたマルチモニター環境や、色再現性の高いデバッグ用モニターを検討しているエンジニアにとって、現在の価格下落は投資対効果が高いタイミングと言えます。",
+    "sourceUrl": "https://www.ign.com/articles/lg-evo-c6-4k-oled-tv-deal-october-2026",
+    "sourceName": "IGN",
+    "originalImageUrl": "https://assets-prd.ignimgs.com/2026/10/19/lgc6-1792426327101.jpg?width=1280&format=jpg&auto=webp&quality=80",
+    "originalImageArticleUrl": "https://www.ign.com/articles/lg-evo-c6-4k-oled-tv-deal-october-2026",
+    "displayDate": "2026-10-20"
+  },
+  "SONY": {
+    "title": "Sony A7 IVの脆弱性を突いてハックした事例が登場",
+    "summary": "開発者がSonyのミラーレスカメラ「A7 IV」のファームウェアを解析し、パス・トラバーサル（ディレクトリトラバーサル）の脆弱性を発見しました。これを利用して本来備わっていない新機能の追加やカスタマイズの可能性が示唆されており、カメラのハッキング技術として注目されています。",
+    "insight": "カメラのような組み込みシステムにおけるファイルシステム操作の不備が、任意のコード実行や設定変更を許す大きなセキュリティリスクとなり得る好例です。エンジニアの視点では、閉じた環境と思われがちなコンシューマー機器でも、ファームウェアの脆弱性調査が高度な機能拡張を可能にするハッキングの手法として活用されている点が興味深いです。",
+    "sourceUrl": "https://news.google.com/rss/articles/CBMilwJBVV95cUxPRDBOemF0NTU2VnJRVHdaQ2xTUDNSVHYwbTl4U211eHRFeGZZVjVUXzc0VmIzNTRnS2FjX0RyUExaZGpFSEJWSnBROW5jVjV6VGVWTjRqLWRoTmc1N2pEUUkwV0EtUDN1b3dGUlRaZldqN0RNNWo1R08ybHRoaERBVkxnWkJ5YTNFMDI4ZFhzM2Y1MWV6RjJSZVRWdXNNZENRYy1KNk9OdWVfRDh6YkpVejBzc0F3YV93NUZla3ZUSVZHaEtXNkQ3Z1I0RHRlWGxCbmhhaHRaUWxPaE13OHAwSE1Ca1Y1c0ExTHNyVWVOUGJlUWVvc1Zub3FscV9hcFh0RV9Od1ljQW90ajloR2ZRWEx3LUN3QzQ?oc=5",
+    "sourceName": "Digital Camera World",
+    "originalImageUrl": null,
+    "originalImageArticleUrl": "https://news.google.com/rss/articles/CBMilwJBVV95cUxPRDBOemF0NTU2VnJRVHdaQ2xTUDNSVHYwbTl4U211eHRFeGZZVjVUXzc0VmIzNTRnS2FjX0RyUExaZGpFSEJWSnBROW5jVjV6VGVWTjRqLWRoTmc1N2pEUUkwV0EtUDN1b3dGUlRaZldqN0RNNWo1R08ybHRoaERBVkxnWkJ5YTNFMDI4ZFhzM2Y1MWV6RjJSZVRWdXNNZENRYy1KNk9OdWVfRDh6YkpVejBzc0F3YV93NUZla3ZUSVZHaEtXNkQ3Z1I0RHRlWGxCbmhhaHRaUWxPaE13OHAwSE1Ca1Y1c0ExTHNyVWVOUGJlUWVvc1Zub3FscV9hcFh0RV9Od1ljQW90ajloR2ZRWEx3LUN3QzQ?oc=5",
+    "displayDate": "2026-10-20"
+  },
+  "Projector": {
+    "title": "XGIMI、日本初の4K/120Hzプロジェクターを発表",
+    "summary": "XGIMIから、4K/120Hz対応の最新スマートプロジェクター「HORIZON 30」シリーズが登場しました。最新の3色レーザー光源とデュアルアイリス技術を搭載し、高コントラストで滑らかな映像体験を実現。10月20日より予約販売が開始されており、ホームシアター市場のハイエンド層をターゲットにしています。",
+    "insight": "プロジェクターにおいて4K解像度と120Hzの高リフレッシュレートの両立は、応答速度の課題があり技術的難易度が高い領域です。ゲーミング用途の需要拡大に伴い、光学設計と信号処理の最適化が急速に進んでいることが伺えます。",
+    "sourceUrl": "https://av.watch.impress.co.jp/docs/news/2149486.html",
+    "sourceName": "AV Watch",
+    "originalImageUrl": "https://av.watch.impress.co.jp/img/avw/list/2149/486/sub7.png",
+    "originalImageArticleUrl": "https://av.watch.impress.co.jp/docs/news/2149486.html",
+    "displayDate": "2026-10-20"
+  },
+  "Gaming Monitor": {
+    "title": "Samsung Odyssey G9が約500ドルオフに",
+    "summary": "49インチのウルトラワイドゲーミングモニター「Samsung Odyssey G9」が、週末セールで500ドル以上値下げされ、797.99ドルで販売されています。ハイエンド環境を構築する絶好のチャンスです。",
+    "insight": "超高解像度かつ高リフレッシュレートを誇るOdyssey G9のような大型パネルは、マルチウィンドウ開発やログ監視の効率を劇的に向上させます。マルチモニター構成のデスク環境をスマートに集約したいエンジニアにとって、価格と性能のバランスが非常に魅力的な選択肢です。",
+    "sourceUrl": "https://mashable.com/tech/oct-10-samsung-odyssey-g9-curved-gaming-monitor-deal",
+    "sourceName": "Mashable",
+    "originalImageUrl": "https://helios-i.mashable.com/imagery/articles/03Y9sA4iUf25vO6iuCuQSsy/hero-image.fill.size_1200x675.v1791546677.jpg",
+    "originalImageArticleUrl": "https://mashable.com/tech/oct-10-samsung-odyssey-g9-curved-gaming-monitor-deal",
+    "displayDate": "2026-10-20"
+  },
+  "Camera Control": {
+    "title": "Lightroom MobileがAIによる「目生成」機能を導入",
+    "summary": "AdobeのLightroom Mobileに、被写体が目を閉じている写真をAIが検知し、自然に開いた状態へ補正する機能が追加されました。高度なレタッチ作業をモバイル端末だけで完結できる新機能です。",
+    "insight": "画像修復における生成AIの活用が進んでおり、コンテキストを理解したインペインティング技術がコンシューマー向けアプリの標準機能になりつつあります。エンジニア視点では、推論モデルの軽量化と、違和感のないモーフィングをリアルタイムで提供するエンジニアリングの最適化が注目されます。",
+    "sourceUrl": "https://www.dpreview.com/news/adobe-adds-easy-ai-eye-generation-to-lightroom-mobile/",
+    "sourceName": "DPReview",
+    "originalImageUrl": "https://www.dpreview.com/wp-content/uploads/2026/10/m-gi-adobe-lightroom-open-eyes-illustration-16x9-Lead-1.jpg",
+    "originalImageArticleUrl": "https://www.dpreview.com/news/adobe-adds-easy-ai-eye-generation-to-lightroom-mobile/",
+    "displayDate": "2026-10-20"
+  },
+  "LED Wall Display": {
+    "title": "2032年までに1378億ドルへ：ディスプレイ市場の成長",
+    "summary": "最新の市場調査レポートによると、世界のディスプレイ市場は2032年までに1378億ドル規模に達する見込みです。LCDからOLED、mini-LED、micro-LEDといった先進技術への移行が成長を牽引しており、特に高解像度かつエネルギー効率の高いソリューションへの需要が高まっています。",
+    "insight": "エンジニア視点では、単なる高精細化だけでなく、フレキシブルや透過型ディスプレイなど、フォームファクタの進化に注目すべきです。デバイスのユースケースが産業機器からAR/VRまで広がる中で、これらの次世代技術を最適に制御するドライバ回路や実装技術の重要性が一段と増しています。",
+    "sourceUrl": "https://www.digitalsignagetoday.com/news/global-display-market-will-hit-1378b-by-2032/",
+    "sourceName": "Digital Signage Today",
+    "originalImageUrl": "https://nmgprod.s3.amazonaws.com/media/file/69/e1/f93feb9c355db277b952b9ac2c6b/cover_image__vqvZUyZp__AdobeStock_873439883.jpeg.360x190_q85_crop_upscale.webp",
+    "originalImageArticleUrl": "https://www.digitalsignagetoday.com/news/global-display-market-will-hit-1378b-by-2032/",
+    "displayDate": "2026-10-20"
+  }
+}
