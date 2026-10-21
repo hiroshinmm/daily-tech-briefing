@@ -1,0 +1,102 @@
+{
+  "SRD / XR": {
+    "title": "Metaが空間コンピューティング開発用SDKを拡充",
+    "summary": "MetaがQuestやMRグラス向けに新たなSDKをリリース。NBAやDisney+などの主要アプリにおける空間体験の強化を図り、空間コンピューティングのエコシステム構築を加速させています。",
+    "insight": "MetaはSDKの拡充を通じて、既存のコンテンツを空間UIへ適応させる標準化を狙っています。エンジニアとしては、単なるVRアプリ開発から、OSレベルで統合された空間コンピューティング環境へのUX設計の転換が今後重要になるでしょう。",
+    "sourceUrl": "https://www.uploadvr.com/meta-expands-sdks-to-boost-spatial-apps-on-quest-vr-glasses-including-nba-disney/",
+    "sourceName": "UploadVR",
+    "originalImageUrl": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/10/Thumb22.png",
+    "originalImageArticleUrl": "https://www.uploadvr.com/meta-expands-sdks-to-boost-spatial-apps-on-quest-vr-glasses-including-nba-disney/",
+    "displayDate": "2026-10-21"
+  },
+  "AI": {
+    "title": "AI活用によるゲーム開発人員30分の1への衝撃",
+    "summary": "日本経済新聞の報道によると、ある企業がAIを活用してゲーム開発の効率化を極限まで進めた結果、開発人員を30分の1に削減し、週休3日制を実現したという事例が注目されています。AIによる生産性向上が、働き方や組織のあり方を根本から変える可能性を示唆しています。",
+    "insight": "ソフトウェアエンジニアにとって、開発速度の向上だけでなく「開発プロセスそのものをAI前提で再設計する」視点が不可欠になっています。単なるツール導入ではなく、コード生成からテスト、アセット制作までを自動化することで、チームの規模や専門性の定義が今後大きく変わるでしょう。",
+    "sourceUrl": "https://www.nikkei.com/article/DGXZQOUC154FP0V10C26A9000000/",
+    "sourceName": "日本経済新聞",
+    "originalImageUrl": "https://article-image-ix.nikkei.com/https%3A%2F%2Fimgix-proxy.n8s.jp%2FDSXZQO3732637015102026000000-1.jpg?auto=compress&bg=FFFF&crop=focalpoint&fit=crop&fm=jpg&fp-x=0.76&fp-y=0.31&h=630&w=1200&s=10557cc1660f991db80f3e4d5f9e4f1a",
+    "originalImageArticleUrl": "https://www.nikkei.com/article/DGXZQOUC154FP0V10C26A9000000/",
+    "displayDate": "2026-10-21"
+  },
+  "TCL": {
+    "title": "TCL Google TVの広告をClaude Codeで削除？",
+    "summary": "TCLのGoogle TVユーザーが「Claude Code」を使用して、スマートテレビのUI上に表示される広告をシステムレベルで排除する試みが話題です。従来の広告ブロックとは異なり、LLMを駆使した自動化ツールでインターフェースを動的にクリーンアップする先進的な事例として注目されています。",
+    "insight": "AIエージェントが既存の商用UIの制約を技術的にバイパスし、ユーザー体験を再定義する興味深い実例です。Webスクレイピングだけでなく、UIオートメーションとLLMを組み合わせることで、不要な広告レイヤーを動的に削除する手法は、今後のデスクトップ・テレビUIハッキングの新たな潮流になる可能性があります。",
+    "sourceUrl": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPM2xZOU9FSF9DLWJHeE9hU1NST01TWUNqZVZ2aVNpc1pQVVVPcHZ6VVZFNUZaT2ZCYmthZFRtWjFpYjRwYmVuMEg0Rnh5dmVLdnlQMGgxdGVZVXo2Vkk4dy1SbHhGNUVHTTJNeUdtZ3Y0eTZWdXE3ZUdTWUplWHhQNTJnQU5UNUtwVmJpdUd1dUlLYlF2dDFVUzNNWlJBeThFSHJGaWUwZjhwd1lRNDhGUV9nVXBXQjBlRWJ3ZWwzMnRFdk0?oc=5",
+    "sourceName": "TweakTown",
+    "originalImageUrl": null,
+    "originalImageArticleUrl": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPM2xZOU9FSF9DLWJHeE9hU1NST01TWUNqZVZ2aVNpc1pQVVVPcHZ6VVZFNUZaT2ZCYmthZFRtWjFpYjRwYmVuMEg0Rnh5dmVLdnlQMGgxdGVZVXo2Vkk4dy1SbHhGNUVHTTJNeUdtZ3Y0eTZWdXE3ZUdTWUplWHhQNTJnQU5UNUtwVmJpdUd1dUlLYlF2dDFVUzNNWlJBeThFSHJGaWUwZjhwd1lRNDhGUV9nVXBXQjBlRWJ3ZWwzMnRFdk0?oc=5",
+    "displayDate": "2026-10-21"
+  },
+  "SONY": {
+    "title": "ソニーがXR特許をMetaへ売却、業界の力関係に変化か",
+    "summary": "ソニーが保有するXR関連の特許をMeta社へ売却したことが報じられました。この動きは、今後のXR市場におけるMetaの優位性を高め、競合するApple Vision Proのゲーミング戦略等に影響を与える可能性があるとして注目されています。",
+    "insight": "特許ポートフォリオの売却は、ハードウェア製造から技術知財による収益化への戦略転換を示唆しており、XR市場の勢力図が変化する兆候です。エンジニアの視点では、競合企業間での技術ライセンスの移動が、将来的なプラットフォーム開発やSDKの相互運用性にどう影響するか注視すべきです。",
+    "sourceUrl": "https://virtual.reality.news/news/sony-sells-xr-patents-to-meta-what-the-filings-show/",
+    "sourceName": "virtual.reality.news",
+    "originalImageUrl": "https://assets.content.technologyadvice.com/VR_Headset_in_a_Moody_Hallway_2e1f47d0e1.webp",
+    "originalImageArticleUrl": "https://virtual.reality.news/news/sony-sells-xr-patents-to-meta-what-the-filings-show/",
+    "displayDate": "2026-10-21"
+  },
+  "Gaming Monitor": {
+    "title": "OLEDゲーミングモニターの価格下落が加速中",
+    "summary": "海外のテック系ニュースによると、現在OLED（有機EL）ゲーミングモニターの価格競争が激化しており、今後さらなる価格低下が見込まれています。高性能なASUS製モニターの割引販売も報じられており、導入の敷居が下がっています。",
+    "insight": "OLEDモニターは応答速度やコントラスト比でLCDを圧倒しますが、価格がボトルネックとなってきました。今後低価格化が進めば、開発環境の標準モニターが刷新される可能性があり、高リフレッシュレート環境の普及が加速しそうです。",
+    "sourceUrl": "https://www.flatpanelshd.com/news.php?subaction=showfull&id=1792475782",
+    "sourceName": "FlatpanelsHD",
+    "originalImageUrl": "https://www.flatpanelshd.com/pictures/oledmonitorstars_small.jpg",
+    "originalImageArticleUrl": "https://www.flatpanelshd.com/news.php?subaction=showfull&id=1792475782",
+    "displayDate": "2026-10-21"
+  },
+  "Production Monitor": {
+    "title": "Blackmagic Camera 10.3.2でNMOS対応が強化",
+    "summary": "Blackmagic DesignがCamera 10.3.2アップデートを公開。10Gイーサネットポート経由でのNMOSを利用したREST制御の改善や、SMPTE-2110とBlackmagic RAW間の切り替え処理が強化され、放送制作現場でのIPワークフローの互換性と安定性が向上しました。",
+    "insight": "AV over IP環境において、NMOSを介した制御の実装は放送機器間の相互運用性を高めるための重要なトレンドです。特にBlackmagicのようなハードウェアでREST APIのサポートが強化されることは、自動化されたスタジオ構築やカスタム制御アプリケーションの開発においてエンジニアにとって大きなメリットとなります。",
+    "sourceUrl": "https://www.newsshooter.com/2026/10/20/blackmagic-camera-10-3-2-update/",
+    "sourceName": "Newsshooter",
+    "originalImageUrl": "https://media.newsshooter.com/wp-content/uploads/2026/10/Screenshot-2026-10-21-at-9.04.10.jpeg",
+    "originalImageArticleUrl": "https://www.newsshooter.com/2026/10/20/blackmagic-camera-10-3-2-update/",
+    "displayDate": "2026-10-21"
+  },
+  "TV": {
+    "title": "フジテレビが不正アクセス被害、最大730件の個人情報漏えいか",
+    "summary": "フジテレビは、同社のサーバーが第三者による不正アクセスを受けたことを発表しました。関係者の個人情報が最大で約730件漏えいした可能性があるとしており、現在は被害の拡大防止や原因究明が進められています。",
+    "insight": "メディア業界におけるサイバー攻撃リスクが高まっており、認証情報の管理や脆弱性対策の徹底が急務です。エンジニアとしては、ログ監視による早期検知や、インシデント発生を前提とした権限管理・隔離対策の重要性を再認識すべき事例です。",
+    "sourceUrl": "https://news.yahoo.co.jp/articles/1329fed12faeb2723987259a50ff7da0a7a704fd",
+    "sourceName": "Yahoo!ニュース",
+    "originalImageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261020-40201400-nksports-000-2-view.jpg?exp=10800",
+    "originalImageArticleUrl": "https://news.yahoo.co.jp/articles/1329fed12faeb2723987259a50ff7da0a7a704fd",
+    "displayDate": "2026-10-21"
+  },
+  "Projector": {
+    "title": "XGIMI、日本初の4K/120Hzプロジェクター発表",
+    "summary": "XGIMIがスマートプロジェクターの「HORIZON 30」シリーズを発表した。日本初となる4K解像度と120Hzの高リフレッシュレートの両立を実現し、ホームシアター体験を劇的に進化させる2モデルを10月20日より予約開始している。",
+    "insight": "プロジェクターにおいて4Kと高リフレッシュレート（120Hz）の両立は、応答速度や信号処理の観点で大きなハードルとなるため、技術的進歩が注目されます。ゲーミング環境における大画面表示の選択肢として、エンジニアとしても要注目のハードウェアです。",
+    "sourceUrl": "https://news.livedoor.com/pr_topics/detail/32610059/",
+    "sourceName": "ライブドアニュース",
+    "originalImageUrl": "https://image.news.livedoor.com/newsimage/stf/a/f/af3a7_1863_9c9c1ee2_2761edb2.jpg",
+    "originalImageArticleUrl": "https://news.livedoor.com/pr_topics/detail/32610059/",
+    "displayDate": "2026-10-21"
+  },
+  "LED Wall Display": {
+    "title": "LED技術の進化：PFS/KSF蛍光体特許のライセンス契約",
+    "summary": "Edison Innovations社が、スマートフォン用LED部品メーカーのShenzhen Jiakun社に対し、PFS/KSF蛍光体技術に関する特許のライセンス供与を発表しました。この技術はLEDの演色性や効率向上に不可欠な素材に関するものです。",
+    "insight": "PFS/KSF蛍光体は、広色域かつ高効率なディスプレイ実現に寄与する重要な光変換技術です。今回のライセンス契約は、モバイル機器のディスプレイ品質競争が、いかに材料科学レベルの知的財産戦略によって支えられているかを示しています。",
+    "sourceUrl": "//www.ledinside.com/news/2026/10/2026_10_19_01",
+    "sourceName": "LEDinside",
+    "originalImageUrl": null,
+    "originalImageArticleUrl": "//www.ledinside.com/news/2026/10/2026_10_19_01",
+    "displayDate": "2026-10-21"
+  },
+  "Camera Control": {
+    "title": "フェイク画像対策の技術「C2PA」が動画・ライブ配信へ拡大",
+    "summary": "コンテンツの来歴をメタデータとして付与し、改ざんや偽情報に対抗する技術「C2PA」が注目されています。当初は静止画が中心でしたが、現在は動画やPDF、さらにはライブ配信映像への適用が進んでおり、メディアの信頼性を担保するインフラとしての役割が期待されています。",
+    "insight": "エンジニア視点では、単なるデータ付与にとどまらず、エンコード・デコード工程でメタデータを保持し続けるストリーミングパイプラインの構築が鍵となります。また、分散型署名技術とどう統合するか、セキュリティとパフォーマンスのトレードオフをどう解決するかが今後の実装の焦点となるでしょう。",
+    "sourceUrl": "https://dc.watch.impress.co.jp/docs/column/2149298.html",
+    "sourceName": "デジカメ Watch",
+    "originalImageUrl": "https://dc.watch.impress.co.jp/img/dcw/list/2149/298/08.jpg",
+    "originalImageArticleUrl": "https://dc.watch.impress.co.jp/docs/column/2149298.html",
+    "displayDate": "2026-10-21"
+  }
+}
