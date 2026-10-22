@@ -1,0 +1,102 @@
+{
+  "AI": {
+    "title": "AIツール「ARTEX/Cairn」による攻撃が判明",
+    "summary": "日本企業を標的とした不正アクセスや大規模な侵入活動において、AIツール「ARTEX」および「Cairn」が攻撃に悪用されていることが判明しました。AI技術がセキュリティの脅威として具体的に活用され始めている事例として注意が必要です。",
+    "insight": "AIを活用した攻撃の具体化は、EDRや監視ログの重要性を再認識させるものです。エンジニアとしては、従来のシグネチャベースの検知だけでなく、不審な挙動（AIによる自動化された侵入プロセスなど）を早期に検知・封じ込めるゼロトラストの徹底が急務です。",
+    "sourceUrl": "https://ledge.ai/articles/artex_cairn_ai_cyberattacks",
+    "sourceName": "Ledge.ai",
+    "originalImageUrl": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/cover_27bfd1a27d/cover_27bfd1a27d.webp",
+    "originalImageArticleUrl": "https://ledge.ai/articles/artex_cairn_ai_cyberattacks",
+    "displayDate": "2026-10-22"
+  },
+  "SRD / XR": {
+    "title": "ARグラス活用でスポーツ観戦の体験価値を拡張",
+    "summary": "広島東洋カープの試合でARグラスを用いた実証実験が実施されました。試合映像を見ながらリアルタイムで選手データや詳細情報を重ねて表示することで、9割以上の体験者がその利便性と魅力に高い評価を示しました。受動的な「見る」観戦から、情報とつながり参加する能動的な観戦スタイルへの転換が期待されています。",
+    "insight": "ARによるオーバーレイ表示は、複雑なコンテキストを直感的に補完するUXとして非常に強力です。エンジニア視点では、レイテンシを極限まで抑えたリアルタイムデータ配信と、スタジアム環境での空間トラッキング精度の安定化が、UXの成否を分ける鍵となります。",
+    "sourceUrl": "https://prtimes.jp/main/html/rd/p/000000090.000034037.html",
+    "sourceName": "PR TIMES",
+    "originalImageUrl": "https://prcdn.freetls.fastly.net/release_image/34037/90/34037-90-dc2d07c30b4e1add9ecea17ca1c3deac-658x352.png?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+    "originalImageArticleUrl": "https://prtimes.jp/main/html/rd/p/000000090.000034037.html",
+    "displayDate": "2026-10-22"
+  },
+  "Gaming Monitor": {
+    "title": "世界初！36インチ・260Hzの超高性能ゲーミングモニターが登場",
+    "summary": "Philipsの「Evnia」ブランドより、ゲーミングモニターとしては世界初となる36インチ・260Hz駆動のディスプレイが発表されました。没入感と高速な描画性能を両立した設計で、ハイエンドゲーマーの注目を集めています。",
+    "insight": "リフレッシュレート260Hzという数値は、パネルの応答速度とインターフェースの帯域幅において高い技術要求をクリアしていることを示唆します。エンジニア視点では、この高解像度・高リフレッシュレート環境におけるスケーリング処理や、DisplayPort/HDMIの帯域設計の限界点が興味深いポイントです。",
+    "sourceUrl": "https://www.prnewswire.com/apac/news-releases/philips-evnia-unveils-latest-gaming-monitors-featuring-the-worlds-first-36-inch-260hz-display-built-for-gamers-302915106.html",
+    "sourceName": "PR Newswire",
+    "originalImageUrl": "https://mmx.prnewswire.com/media/MS2017790/20261021015827EDT_image_1.jpg?id=OA3031375&p=facebook",
+    "originalImageArticleUrl": "https://www.prnewswire.com/apac/news-releases/philips-evnia-unveils-latest-gaming-monitors-featuring-the-worlds-first-36-inch-260hz-display-built-for-gamers-302915106.html",
+    "displayDate": "2026-10-22"
+  },
+  "Projector": {
+    "title": "XGIMIの新型プロジェクター「HORIZON 30」が登場",
+    "summary": "XGIMIが11月に発売する「HORIZON 30」シリーズは、4K解像度と120Hzの高リフレッシュレートに対応。滑らかな映像表現を実現しており、ホームシアター市場で注目を集めています。",
+    "insight": "プロジェクターで4K/120Hz対応が普及し、家庭環境でもPCゲームや高フレームレートコンテンツが快適に楽しめる時代になりました。高解像度かつ高リフレッシュレートの需要は、ディスプレイ機器の設計において今後さらなる標準となっていくでしょう。",
+    "sourceUrl": "https://online.stereosound.co.jp/_ct/17871358",
+    "sourceName": "Stereo Sound ONLINE",
+    "originalImageUrl": "https://d1uzk9o9cg136f.cloudfront.net/f/16783364/rc/2026/10/21/a87a4f767c8a6b092a79883d529762af3beb939c_xlarge.jpg",
+    "originalImageArticleUrl": "https://online.stereosound.co.jp/_ct/17871358",
+    "displayDate": "2026-10-22"
+  },
+  "TCL": {
+    "title": "2026年、有機ELモニター市場が急拡大へ",
+    "summary": "調査会社Omdiaの予測によると、2026年の有機ELモニター用パネル出荷量は前年比79%増の急成長が見込まれています。TCL傘下のCSOTが印刷方式（IJP）有機EL技術で新規参入し、コスト低減を牽引することで、市場採用が加速し2027年には750万台規模に達する見通しです。",
+    "insight": "印刷方式（IJP）の導入は、従来の蒸着方式と比較して材料効率が高く、大型パネルの低コスト化に大きく寄与します。製造プロセスや歩留まりの最適化が今後のディスプレイ競争における技術的焦点となるでしょう。",
+    "sourceUrl": "https://www.bunsekik.com/%E3%83%87%E3%82%A3%E3%82%B9%E3%83%97%E3%83%AC%E3%82%A4%E9%96%A2%E9%80%A3%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9/omdia%E4%BA%88%E6%B8%AC-2026%E5%B9%B4%E3%81%AE%E6%9C%89%E6%A9%9Fel%E3%83%A2%E3%83%8B%E3%82%BF%E3%83%BC%E3%83%91%E3%83%8D%E3%83%AB%E5%87%BA%E8%8D%B7%E9%87%8F%E3%81%AF%E9%80%9A%E5%B9%B4%E3%81%A779-%E5%A2%97-asus%E3%81%8C%E6%9C%80%E5%A4%A7%E3%81%AE%E8%AA%BF%E9%81%94%E8%80%85%E3%81%AB-tcl-csot%E3%81%8Cijp%E6%9C%89%E6%A9%9Fel%E3%81%A7%E6%96%B0%E8%A6%8F%E5%8F%82%E5%85%A5-%E4%BE%A1%E6%A0%BC%E4%BD%8E%E4%B8%8B%E3%81%8C%E5%B8%82%E5%A0%B4%E6%8E%A1%E7%94%A8%E3%82%92%E5%BE%8C%E6%8A%BC%E3%81%97%E3%81%972027%E5%B9%B4%E3%81%AB%E3%81%AF750%E4%B8%87%E5%8F%B0%E3%81%B8/",
+    "sourceName": "分析工房",
+    "originalImageUrl": "https://image.jimcdn.com/app/cms/image/transf/none/path/s7c093c6ff6cff6e7/backgroundarea/i80c7d119d77dda7b/version/1683179367/image.jpg",
+    "originalImageArticleUrl": "https://www.bunsekik.com/%E3%83%87%E3%82%A3%E3%82%B9%E3%83%97%E3%83%AC%E3%82%A4%E9%96%A2%E9%80%A3%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9/omdia%E4%BA%88%E6%B8%AC-2026%E5%B9%B4%E3%81%AE%E6%9C%89%E6%A9%9Fel%E3%83%A2%E3%83%8B%E3%82%BF%E3%83%BC%E3%83%91%E3%83%8D%E3%83%AB%E5%87%BA%E8%8D%B7%E9%87%8F%E3%81%AF%E9%80%9A%E5%B9%B4%E3%81%A779-%E5%A2%97-asus%E3%81%8C%E6%9C%80%E5%A4%A7%E3%81%AE%E8%AA%BF%E9%81%94%E8%80%85%E3%81%AB-tcl-csot%E3%81%8Cijp%E6%9C%89%E6%A9%9Fel%E3%81%A7%E6%96%B0%E8%A6%8F%E5%8F%82%E5%85%A5-%E4%BE%A1%E6%A0%BC%E4%BD%8E%E4%B8%8B%E3%81%8C%E5%B8%82%E5%A0%B4%E6%8E%A1%E7%94%A8%E3%82%92%E5%BE%8C%E6%8A%BC%E3%81%97%E3%81%972027%E5%B9%B4%E3%81%AB%E3%81%AF750%E4%B8%87%E5%8F%B0%E3%81%B8/",
+    "displayDate": "2026-10-22"
+  },
+  "TV": {
+    "title": "G7テレビ会議で露呈した回線トラブルと危機管理",
+    "summary": "G7の緊急テレビ会議において、首相が通信回線の不具合により欠席する事態が発生。技術的な信頼性が国家の外交や危機管理に直結するとして、野党からも厳しく追及されるなど波紋を広げています。",
+    "insight": "エンジニアの視点では、重要なオンライン会議における冗長化とバックアップ回線の確保は、もはや単なる技術課題ではなくビジネス・政治の継続性に関わる必須要件です。本件は、極めて高い可用性が求められる環境下でのインフラ構築がいかに重要であるかを社会的に示唆しています。",
+    "sourceUrl": "https://news.yahoo.co.jp/articles/c6ca3bde812e1fa8d164a32c13667d341cb726ee",
+    "sourceName": "Yahoo!ニュース",
+    "originalImageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261022-00010000-doshin-000-1-view.jpg?exp=10800",
+    "originalImageArticleUrl": "https://news.yahoo.co.jp/articles/c6ca3bde812e1fa8d164a32c13667d341cb726ee",
+    "displayDate": "2026-10-22"
+  },
+  "LED Wall Display": {
+    "title": "Micro LEDの光インターコネクト技術が37Gbpsを達成",
+    "summary": "復旦大学発のスタートアップNexilumenが、Micro LEDを用いた光インターコネクトで37Gbpsの高速通信を実証しました。空間分割多重（SDM）と波長分割多重（WDM）技術を組み合わせ、次世代の高速データ転送におけるMicro LEDの可能性を示しています。",
+    "insight": "ディスプレイ用途だけでなく、高速通信インターフェースとしてのMicro LEDの可能性に注目が必要です。特に高密度な画素駆動技術は、将来的なチップ間光通信（CPO）のアーキテクチャに大きな変革をもたらす可能性があります。",
+    "sourceUrl": "//www.ledinside.com/news/2026/10/2026_10_21_01",
+    "sourceName": "LEDinside",
+    "originalImageUrl": null,
+    "originalImageArticleUrl": "//www.ledinside.com/news/2026/10/2026_10_21_01",
+    "displayDate": "2026-10-22"
+  },
+  "SONY": {
+    "title": "SonyがMetaへXR関連特許を売却：業界への影響",
+    "summary": "Sonyが保有する複数のXR（拡張現実）関連特許をMetaに売却したことが、特許公開書類から明らかになりました。コンシューマー向けヘッドセット市場での戦略見直しや、プラットフォーム競争の力学に変化が起きる可能性が注目されています。",
+    "insight": "特許ポートフォリオの売却は、Sonyが自社ハードウェア開発から知財収益化へリソースを最適化している可能性を示唆しています。エンジニアとしては、クロスプラットフォームにおける標準化技術や、特許ライセンスを通じた競合とのエコシステム連携が今後のXR開発の鍵を握ると考えられます。",
+    "sourceUrl": "https://virtual.reality.news/news/sony-sells-xr-patents-to-meta-what-the-filings-show/",
+    "sourceName": "virtual.reality.news",
+    "originalImageUrl": "https://assets.content.technologyadvice.com/Immersed_in_Game_Night_f047bfe4ae.webp",
+    "originalImageArticleUrl": "https://virtual.reality.news/news/sony-sells-xr-patents-to-meta-what-the-filings-show/",
+    "displayDate": "2026-10-22"
+  },
+  "Camera Control": {
+    "title": "「あえて待つ」体験を設計するカメラアプリの逆転の発想",
+    "summary": "メキシコのフォトグラファーが開発したiPhoneアプリ「WorthWait」が話題です。デジタルカメラで撮影した写真をすぐに見られず、現像までの「待ち時間」を強制することで、使い捨てカメラのような撮影体験をあえて再現する試みです。",
+    "insight": "即時性が求められる現代のUI/UXにおいて、意図的に体験を制限することで価値を生むという「制約によるUX設計」の好例です。技術的なリアルタイム性だけでなく、ユーザーの心理的な期待値をどうコントロールするかという観点は非常に示唆に富んでいます。",
+    "sourceUrl": "https://petapixel.com/2026/10/21/new-iphone-camera-app-makes-you-wait-to-see-your-photos/",
+    "sourceName": "PetaPixel",
+    "originalImageUrl": "https://petapixel.com/assets/uploads/2026/10/worthwait-app1.jpg",
+    "originalImageArticleUrl": "https://petapixel.com/2026/10/21/new-iphone-camera-app-makes-you-wait-to-see-your-photos/",
+    "displayDate": "2026-10-22"
+  },
+  "Production Monitor": {
+    "title": "動画編集におけるAI活用の現在地：3つのアプローチ",
+    "summary": "動画編集ツールが進化し、オンデバイス処理のcinemaOS、オープンソースのCUTROOM、ブラウザベースのAIエージェントinvideoなど、用途や実行環境に応じた多様な選択肢が登場しています。AIによる自動化がワークフローをどう変えるか、比較検討が進んでいます。",
+    "insight": "AI編集ツールを「エッジ(ローカル)かクラウドか」という視点で評価することは、セキュリティとパフォーマンスのトレードオフを考える上で非常に示唆に富みます。エンジニアの視点では、API依存型とローカル推論型のどちらのアーキテクチャが将来的な保守性と拡張性に優れるか、という議論が今後の開発の鍵になります。",
+    "sourceUrl": "https://www.cined.com/cinemaos-cutroom-and-invideo-compared-mac-studio-app-free-open-source-editor-cloud-ai-agent/",
+    "sourceName": "CineD",
+    "originalImageUrl": "https://www.cined.com/content/uploads/2026/10/Free-Open-Source-Editor-2-7-300x169.jpeg",
+    "originalImageArticleUrl": "https://www.cined.com/cinemaos-cutroom-and-invideo-compared-mac-studio-app-free-open-source-editor-cloud-ai-agent/",
+    "displayDate": "2026-10-22"
+  }
+}
