@@ -1,0 +1,102 @@
+{
+  "Gaming Monitor": {
+    "title": "MSIの新作モニターに見る「240Hz/400Hz切替」のトレンド",
+    "summary": "MSIがWQHD/240HzとフルHD/400Hzを切り替え可能な27型湾曲ゲーミングモニター「MAG 275CQDF X24」を発表。高精細と高速リフレッシュレートの需要を1台で満たす新提案。",
+    "insight": "パネルの解像度とリフレッシュレートの切替技術は、ハードウェアレベルでの動的な出力調整が進んでいることを示唆しています。エンジニア視点では、GPUのレンダリング負荷に応じた適応的スケーリングや、ドライバレベルでのモード切替ロジックが進化しており、今後のUI/UX設計の参考になります。",
+    "sourceUrl": "https://pc.watch.impress.co.jp/docs/news/2150544.html",
+    "sourceName": "PC Watch",
+    "originalImageUrl": "https://pc.watch.impress.co.jp/img/pcw/list/2150/544/001.jpg",
+    "originalImageArticleUrl": "https://pc.watch.impress.co.jp/docs/news/2150544.html",
+    "displayDate": "2026-10-23"
+  },
+  "AI": {
+    "title": "OpenAIのモデルに脆弱性、AI悪用リスクが現実味に",
+    "summary": "AIの安全性評価機関が、OpenAIのシステムにおいて、監視を回避し悪用される恐れのある脆弱性を特定しました。AIがサイバー攻撃の高速化や自動化に利用される懸念が高まっています。",
+    "insight": "AIモデル自体が攻撃対象となる「モデル注入」や「プロンプトインジェクション」のリスクが深刻化しています。開発者は従来のWebセキュリティに加え、AIの出力制御や監視メカニズムを防御レイヤーに組み込む設計が不可欠です。",
+    "sourceUrl": "https://www.reuters.com/jp/economy/ERHNNAXQYNPXXNVLILDOJOVTGY-2026-10-22/",
+    "sourceName": "Reuters",
+    "originalImageUrl": null,
+    "originalImageArticleUrl": "https://www.reuters.com/jp/economy/ERHNNAXQYNPXXNVLILDOJOVTGY-2026-10-22/",
+    "displayDate": "2026-10-23"
+  },
+  "Camera Control": {
+    "title": "全カメラに2億画素センサー搭載！Oppoの挑戦",
+    "summary": "Oppoの新型スマホ「Find X10 Pro Max」は、背面の3つすべてのカメラに2億画素センサーを搭載し、8K動画やオープンゲート記録に対応しました。高解像度化とビデオ撮影性能を徹底的に追求した、次世代のモバイル撮影環境を示唆する製品です。",
+    "insight": "モバイルデバイスにおいて、全焦点域で超高解像度センサーを採用する設計は、ISP（画像処理プロセッサ）の帯域幅や熱設計にとって大きな挑戦です。静止画だけでなく8Kビデオ対応まで含めたこのスペックは、現在のモバイルSoCの処理能力がいかに極限に達しているかを示す好例です。",
+    "sourceUrl": "https://www.dpreview.com/news/oppos-find-x10-pro-max-puts-200mp-sensors-behind-all-three-rear-cameras/",
+    "sourceName": "DPReview",
+    "originalImageUrl": "https://www.dpreview.com/wp-content/uploads/2026/10/Find-X10-Pro-Max-16x9-Lead-1.jpg",
+    "originalImageArticleUrl": "https://www.dpreview.com/news/oppos-find-x10-pro-max-puts-200mp-sensors-behind-all-three-rear-cameras/",
+    "displayDate": "2026-10-23"
+  },
+  "SRD / XR": {
+    "title": "近大病院が「ARどうぶつえん」導入へ",
+    "summary": "近畿大学病院が、入院中の子どもたちが仮想の動物と触れ合える「ARどうぶつえん」を西日本で初めて導入します。XR技術が医療現場におけるQOL（生活の質）向上やメンタルケアへ貢献する好例として注目されています。",
+    "insight": "医療・福祉領域におけるARの社会実装は、単なるエンタメを超えてエモーショナルな体験価値を提供できる好例です。技術的には、空間認識の精度や、小児患者の心理状態に配慮したUI/UXの設計がいかに重要かを学ぶことができます。",
+    "sourceUrl": "https://news.yahoo.co.jp/articles/ce287cc5152dd218dca8ed3aea98ab30fc3c1213",
+    "sourceName": "Yahoo!ニュース",
+    "originalImageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261022-00083202-asahibcv-000-1-thumb.jpg?exp=10800",
+    "originalImageArticleUrl": "https://news.yahoo.co.jp/articles/ce287cc5152dd218dca8ed3aea98ab30fc3c1213",
+    "displayDate": "2026-10-23"
+  },
+  "Projector": {
+    "title": "AV機器とネットワークの「ハブ」選び、その意外な深掘り",
+    "summary": "音楽配信や動画配信が日常化した今、AV環境におけるスイッチングハブの重要性が再注目されています。単なる接続機器としてだけでなく、ネットワーク品質がオーディオビジュアル体験に与える影響について、AV Watchの連載が解説しています。",
+    "insight": "エンジニア視点では「ただのスイッチングハブ」でも、ノイズ対策やパケットロスがAVストリーミングの品質に与える影響は興味深いトピックです。物理層の安定性がコンテンツ体験のUXを直結して左右する好例として議論のネタになります。",
+    "sourceUrl": "https://av.watch.impress.co.jp/docs/series/yoshida/2147681.html",
+    "sourceName": "AV Watch",
+    "originalImageUrl": "https://av.watch.impress.co.jp/img/avw/list/2147/681/title.jpg",
+    "originalImageArticleUrl": "https://av.watch.impress.co.jp/docs/series/yoshida/2147681.html",
+    "displayDate": "2026-10-23"
+  },
+  "SONY": {
+    "title": "ソニー、1mm角の超小型内視鏡用イメージセンサを商品化",
+    "summary": "ソニーセミコンダクタソリューションズは、わずか1mm角という極小サイズの医療用内視鏡向けイメージセンサを商品化しました。デジタル出力に対応し、最長5mの伝送を実現。高画質と小型化を両立することで、より低侵襲な手術や精密な診断をサポートする技術として注目されています。",
+    "insight": "このセンサは高精細な映像を低ノイズで5m離れた場所へデジタル伝送する設計が肝であり、高速インターフェースと高集積化技術が活かされています。AI解析との組み合わせで、将来的な自動診断支援やロボット手術における視覚インターフェースの進化にも寄与する重要なハードウェアです。",
+    "sourceUrl": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5jZjJucndUbGVoejlNTklOcTBrWVVaM19tWnNYUHlkSmhraG5taTIybXdZdEhLVkdOQ2lCd1hObDFIamVITXEzYnA3d2M5Yl9aejlqcXJreTBFRFRmT1NNRDZUV3lNS2gz?oc=5",
+    "sourceName": "TECH+（テックプラス） - マイナビニュース",
+    "originalImageUrl": null,
+    "originalImageArticleUrl": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5jZjJucndUbGVoejlNTklOcTBrWVVaM19tWnNYUHlkSmhraG5taTIybXdZdEhLVkdOQ2lCd1hObDFIamVITXEzYnA3d2M5Yl9aejlqcXJreTBFRFRmT1NNRDZUV3lNS2gz?oc=5",
+    "displayDate": "2026-10-23"
+  },
+  "TV": {
+    "title": "Rokuが初のOLEDテレビを発売、市場競争が激化",
+    "summary": "Rokuがブランド初となる高輝度有機ELテレビ「Pro Series LX」を発売しました。144Hzのリフレッシュレートに対応しており、ストリーミングプラットフォームがハードウェア市場でさらに存在感を強めています。",
+    "insight": "ストリーミングOSを手がけるRokuが自社ハードのハイエンド化を推進する動きは、エコシステムを囲い込む戦略の一環です。エンジニアの観点では、高リフレッシュレート対応や高輝度化が進むディスプレイ技術とOS側の最適化（低遅延化やレンダリング負荷の管理）の相乗効果に注目です。",
+    "sourceUrl": "https://www.flatpanelshd.com/news.php?subaction=showfull&id=1792674000",
+    "sourceName": "FlatpanelsHD",
+    "originalImageUrl": "https://www.flatpanelshd.com/pictures/rokuprolxoled_1_small.jpg",
+    "originalImageArticleUrl": "https://www.flatpanelshd.com/news.php?subaction=showfull&id=1792674000",
+    "displayDate": "2026-10-23"
+  },
+  "TCL": {
+    "title": "TCLの次世代ディスプレイ技術「SQD-Mini LED」の裏側",
+    "summary": "TCLが開発した「SQD-Mini LED」技術のエンジニアリング背景が公開されました。従来のMini LEDに加え、Super Quantum Dot技術を統合することで、より高精度な色再現と輝度制御を実現し、ディスプレイの画質を劇的に向上させています。",
+    "insight": "ディスプレイの多層構造における量子ドットの配置最適化や、AIによる画質補正アルゴリズムの統合が重要な鍵となっています。ハードウェアレベルの物理的な高輝度化と、ソフトウェア側のAI処理の融合は、今後の高画質ディスプレイ開発における重要なトレンドです。",
+    "sourceUrl": "https://www.dailyindependent.com.pk/2026/10/22/beyond-mini-led-the-engineering-behind-tcls-sqd-mini-led/",
+    "sourceName": "Daily Independent",
+    "originalImageUrl": "https://www.dailyindependent.com.pk/wp-content/uploads/2026/10/IMG-20261022-WA0015.jpg",
+    "originalImageArticleUrl": "https://www.dailyindependent.com.pk/2026/10/22/beyond-mini-led-the-engineering-behind-tcls-sqd-mini-led/",
+    "displayDate": "2026-10-23"
+  },
+  "LED Wall Display": {
+    "title": "デジタルサイネージの鍵は「データ連携」にあり",
+    "summary": "デジタルサイネージの専門家によると、成功する戦略とは単なるコンテンツ表示ではなく、リアルタイムのビジネスデータと連携させて「アクション」を引き出すことにある。画面の多機能化よりも、目的に応じた関連性の高い情報をいかに配信するかが重要である。",
+    "insight": "エンジニア視点では、単なるディスプレイ制御から、バックエンドシステムと統合された動的なデータパイプライン構築へと役割が進化しています。特にリアルタイム性を高めるためのビジネスルール自動化と、ダークデータ（未活用データ）を可視化するAPIエコシステムの構築が鍵となります。",
+    "sourceUrl": "https://www.digitalsignagetoday.com/blogs/omnivex-leader-talks-data-in-digital-signage-strategies/",
+    "sourceName": "Digital Signage Today",
+    "originalImageUrl": "https://nmgprod.s3.amazonaws.com/media/file/58/48/bdb5d79d03760e3fa5c19b79bc22/cover_image__431VS56m__AdobeStock_2152586055.jpeg.360x190_q85_crop_upscale.webp",
+    "originalImageArticleUrl": "https://www.digitalsignagetoday.com/blogs/omnivex-leader-talks-data-in-digital-signage-strategies/",
+    "displayDate": "2026-10-23"
+  },
+  "Production Monitor": {
+    "title": "Blackmagic Designが大幅な価格改定を発表",
+    "summary": "Blackmagic Designが36製品で一斉値上げを実施。主力製品「ATEM 4 M/E Constellation IP Plus」は大幅な価格上昇となりました。一方で、DaVinci Resolve Studio等のソフトウェア製品は期間限定で20%値下げされます。",
+    "insight": "ハードウェア価格の上昇は、昨今のメモリコスト高騰が主因とされています。ハードウェアとソフトウェアで価格戦略を分ける同社の動きは、開発予算や機材選定を行うエンジニアにとって、ROI再評価の好機と言えます。",
+    "sourceUrl": "https://www.cined.com/blackmagic-design-raises-prices-cuts-resolve-artcrafts-ai-built-adobe-clones-camera-form-factor-poll-focus-check-ep139/",
+    "sourceName": "CineD",
+    "originalImageUrl": "https://www.cined.com/content/uploads/2026/10/CineD_Focus-Check_ep139-300x169.jpeg",
+    "originalImageArticleUrl": "https://www.cined.com/blackmagic-design-raises-prices-cuts-resolve-artcrafts-ai-built-adobe-clones-camera-form-factor-poll-focus-check-ep139/",
+    "displayDate": "2026-10-23"
+  }
+}
