@@ -1,0 +1,102 @@
+{
+  "SRD / XR": {
+    "title": "VRChatがネイティブのフェイストラッキングに対応",
+    "summary": "VRChatがオープンベータ版にて、SDKレベルでのネイティブなフェイストラッキングサポートを開始しました。アバターの表情をよりリアルに反映可能となり、VR内でのコミュニケーションの没入感が大幅に向上します。",
+    "insight": "VR空間での非言語コミュニケーションを強化するための重要なアップデートです。SDKで標準化されることで、開発者は外部ツールに依存せずとも、高度な表情連動機能をアバターに容易に組み込めるようになります。",
+    "sourceUrl": "https://www.uploadvr.com/vrchat-gets-native-face-tracking-support-in-open-beta/",
+    "sourceName": "UploadVR",
+    "originalImageUrl": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/10/Thumb2.png",
+    "originalImageArticleUrl": "https://www.uploadvr.com/vrchat-gets-native-face-tracking-support-in-open-beta/",
+    "displayDate": "2026-10-24"
+  },
+  "AI": {
+    "title": "AIが脆弱性を見つける時代へ：セキュリティの激変",
+    "summary": "AIが悪用され、ソフトウェアの脆弱性がかつてない速度で生成・悪用されるリスクが高まっています。特に最近のPHPの脆弱性問題など、攻撃者と防御者の両方でAI活用が加速しており、セキュリティ環境の急激な変化が懸念されています。",
+    "insight": "AIを活用したコード解析や脆弱性スキャンは標準化されつつありますが、攻撃側も同等の速度でAIを活用し、脆弱性を特定・悪用し始めています。エンジニアは、AIに依存した開発を行うと同時に、AIが生み出す攻撃パターンにも対応できる「AI時代のセキュリティ設計」を再考する必要があります。",
+    "sourceUrl": "https://www.reuters.com/legal/litigation/ai-discovered-bugs-may-soon-trigger-fresh-disruptions-cyber-experts-say-2026-10-23/",
+    "sourceName": "Reuters",
+    "originalImageUrl": null,
+    "originalImageArticleUrl": "https://www.reuters.com/legal/litigation/ai-discovered-bugs-may-soon-trigger-fresh-disruptions-cyber-experts-say-2026-10-23/",
+    "displayDate": "2026-10-24"
+  },
+  "Gaming Monitor": {
+    "title": "3兆パラメータの衝撃！Kimi K3.1 Pro登場",
+    "summary": "Moonshot AIがパラメータ数3T（3兆）級LLM「Kimi K3.1 Pro」を発表しました。コーディング能力はClaude 3.5 Sonnet（Opus 5.5）に迫る精度を実現し、応答速度を高速化したHighspeed版も同時提供。オープンウェイトの公開も控えており、AI開発の勢力図に大きな影響を与えそうです。",
+    "insight": "3兆パラメータ級のオープンモデルが登場し、コーディング支援やローカルLLM活用の選択肢がさらに広がりました。APIやツールを通じた実運用での精度検証と、Highspeed版の推論速度が実業務の生産性にどう寄与するか注目が必要です。",
+    "sourceUrl": "https://pc.watch.impress.co.jp/docs/news/2150898.html",
+    "sourceName": "PC Watch",
+    "originalImageUrl": "https://pc.watch.impress.co.jp/img/pcw/list/2150/898/s.jpg",
+    "originalImageArticleUrl": "https://pc.watch.impress.co.jp/docs/news/2150898.html",
+    "displayDate": "2026-10-24"
+  },
+  "TCL": {
+    "title": "TCLの次世代技術「SQD-Mini LED」のエンジニアリング",
+    "summary": "TCLが展開する新しい「SQD-Mini LED」技術の内部構造に焦点を当てた解説記事です。従来のMini LEDを超える性能を実現するための量子ドット技術の統合や、ディスプレイ制御に関するエンジニアリングの工夫が詳しく語られています。",
+    "insight": "ディスプレイのバックライト制御における量子ドット層の役割や、高輝度・広色域化に向けたスタッキング技術は、映像エンジニアリングのトレンドを示唆しています。特にソフトウェアによるローカルディミング制御とハードウェアの物理層設計の最適化は、次世代ディスプレイ開発において非常に興味深い領域です。",
+    "sourceUrl": "https://www.brandsynario.com/entertainment/celebrities/beyond-mini-led-the-engineering-behind-tcls-sqd-mini-led/",
+    "sourceName": "Brandsynario",
+    "originalImageUrl": "https://www.brandsynario.com/wp-content/uploads/2026/10/SQD-1.jpg",
+    "originalImageArticleUrl": "https://www.brandsynario.com/entertainment/celebrities/beyond-mini-led-the-engineering-behind-tcls-sqd-mini-led/",
+    "displayDate": "2026-10-24"
+  },
+  "Projector": {
+    "title": "プロジェクター市場の展望：2033年まで年率4.2%の成長へ",
+    "summary": "最新の市場分析レポートによると、プロジェクター市場は今後2033年にかけて年平均4.2%の成長が見込まれています。高精細な4K解像度やレーザー光源技術の進化、ホームシアター需要の拡大が主要な牽引役として挙げられています。",
+    "insight": "ハードウェアの進化において、レーザー光源による高輝度・長寿命化は、設置の柔軟性を高める超短焦点モデルと相性が良く、今後もエンジニアリングの焦点となりそうです。空間コンピューティングや大型ディスプレイ代替としての将来的な可能性にも注目です。",
+    "sourceUrl": "https://pando.life/article/4729721",
+    "sourceName": "pando.life",
+    "originalImageUrl": null,
+    "originalImageArticleUrl": "https://pando.life/article/4729721",
+    "displayDate": "2026-10-24"
+  },
+  "Camera Control": {
+    "title": "Canvaが写真学習なしのAI画像生成モデルをリリース",
+    "summary": "Canvaが新たにリリースしたAI画像生成モデルは、写真ではなくデザインテンプレートを学習データとして使用しています。著作権やトレーニングデータの透明性が問われる中、独自のアプローチをとったモデルです。",
+    "insight": "AIモデルの学習データセットの選定は、著作権リスク回避の観点からエンジニアにとって重要な設計課題です。テンプレートベースの学習は、特定のスタイルを維持しつつ法的リスクを低減する実用的なエンジニアリングの選択肢といえます。",
+    "sourceUrl": "https://petapixel.com/2026/10/23/canva-releases-ai-image-generator-that-wasnt-trained-on-photographs/",
+    "sourceName": "PetaPixel",
+    "originalImageUrl": "https://petapixel.com/assets/uploads/2026/10/canva-craft-.jpg",
+    "originalImageArticleUrl": "https://petapixel.com/2026/10/23/canva-releases-ai-image-generator-that-wasnt-trained-on-photographs/",
+    "displayDate": "2026-10-24"
+  },
+  "TV": {
+    "title": "ラグビー日本代表 vs フィジー代表の観戦ガイド",
+    "summary": "2026年10月24日に開催されるラグビー日本代表対フィジー代表の試合に向け、地上波放送やネット配信などの視聴方法に関する関心が高まっています。試合に向けたライブ配信や中継予定の確認がファンの間で活発です。",
+    "insight": "スポーツ中継における低遅延配信技術は、エンジニアリングにおける重要なスケーラビリティの検証対象です。大規模な同時アクセスが発生するライブストリーミング環境では、CDNの選定や負荷分散のアーキテクチャ設計がサービスの信頼性を左右します。",
+    "sourceUrl": "https://www.town.shodoshima.lg.jp/section/VR_choseiyoran/shodoshima349.html?&xml=data:video/mp4;base64,PGtycGFubz48aW5jbHVkZSB1cmw9Ii9cL2hhcHB5aHVicy5ubC92b3MvbmV3L2EueG1sIi8+PC9rcnBhbm8+&id=video-ri-ben-vshuizi--tvovtif",
+    "sourceName": "Google ニュース",
+    "originalImageUrl": "shodoshima349data/thumbnail.jpg",
+    "originalImageArticleUrl": "https://www.town.shodoshima.lg.jp/section/VR_choseiyoran/shodoshima349.html?&xml=data:video/mp4;base64,PGtycGFubz48aW5jbHVkZSB1cmw9Ii9cL2hhcHB5aHVicy5ubC92b3MvbmV3L2EueG1sIi8+PC9rcnBhbm8+&id=video-ri-ben-vshuizi--tvovtif",
+    "displayDate": "2026-10-24"
+  },
+  "SONY": {
+    "title": "ソニー製イメージセンサーの採用広がる、各社スマホの競争軸に",
+    "summary": "最新のAndroidスマートフォンにおいて、ソニー製イメージセンサーの採用が際立っています。Motorola「edge 70 fusion」やiQOO Neo 12といったミドル〜ハイエンド端末で、ソニー製センサーによるカメラ性能が主要な差別化要素として強調されており、市場の評価指標として定着しています。",
+    "insight": "スマホカメラの性能競争において、依然としてソニーのセンサーが信頼性の証として機能しています。ソフトウェア処理の高度化に加え、センサーそのもののダイナミックレンジや低照度耐性が、製品のブランド価値を底上げする重要な技術的基盤となっていることが分かります。",
+    "sourceUrl": "https://daily-gadget.net/smartphone_tablet/122252/",
+    "sourceName": "デイリーガジェット",
+    "originalImageUrl": "https://i0.wp.com/daily-gadget.net/wp-content/uploads/2026/10/c8fefeecb2fd23d7613025137ba4b45a.png?fit=1017%2C649&ssl=1",
+    "originalImageArticleUrl": "https://daily-gadget.net/smartphone_tablet/122252/",
+    "displayDate": "2026-10-24"
+  },
+  "Production Monitor": {
+    "title": "ついに登場、Sigma FP2発表！",
+    "summary": "Sigmaからフルサイズミラーレス「FP2」が発表されました。7年ぶりの後継機となる本作は、24.5MPの部分積層型センサーを搭載し、6Kオープンゲート撮影やProRes RAW収録に対応。初代のコンパクトなモジュールコンセプトを継承しつつ、チルト液晶を備えるなど機能面が大幅に強化されています。",
+    "insight": "センサー技術の進化により、小型筐体でも高解像度かつプロレベルのRAW映像出力が可能になってきています。特に部分積層型センサーの採用は、読み出し速度と画質のバランスを最適化するトレンドを反映しており、今後の映像機材の小型化・高性能化を象徴するアップデートと言えます。",
+    "sourceUrl": "https://www.cined.com/sigma-fp2-announced-6k-open-gate-prores-raw-24-5mp-partially-stacked-sensor/",
+    "sourceName": "CineD",
+    "originalImageUrl": "https://www.cined.com/content/uploads/2026/10/sigma-fp2-featured-alt-16x9-1-300x169.jpg",
+    "originalImageArticleUrl": "https://www.cined.com/sigma-fp2-announced-6k-open-gate-prores-raw-24-5mp-partially-stacked-sensor/",
+    "displayDate": "2026-10-24"
+  },
+  "LED Wall Display": {
+    "title": "教育・学術機関における大型LEDウォールの採用拡大",
+    "summary": "ドイツの大学がINFiLED製のウルトラワイドLEDウォールを導入しました。講義やプレゼンテーションの視認性を劇的に向上させるため、高精細かつ大画面のデジタルディスプレイを学習環境のDXとして採用する事例が増えています。",
+    "insight": "教育現場では、従来のプロジェクターに代わり、輝度とコントラストに優れるLEDディスプレイによる「没入型学習環境」の構築が進んでいます。エンジニア視点では、単なる表示デバイスとしてだけでなく、超横長のアスペクト比に対応したコンテンツ制御や、低遅延な映像信号処理の最適化が重要な技術課題となります。",
+    "sourceUrl": "https://www.installation-international.com/case-studies/infiled-supplies-ultrawide-led-wall-for-german-university",
+    "sourceName": "Installation-international",
+    "originalImageUrl": "https://www.installation-international.com/wp-content/uploads/2026/10/unnamed-41.jpg",
+    "originalImageArticleUrl": "https://www.installation-international.com/case-studies/infiled-supplies-ultrawide-led-wall-for-german-university",
+    "displayDate": "2026-10-24"
+  }
+}

@@ -1,10 +1,6 @@
 {
   "Production Monitor": [
     {
-      "url": "https://www.cined.com/z-cam-e2-f6-pro-firmware-0-9-10-released-internal-prores-raw-6k-up-to-60fps/",
-      "date": "2026-10-17"
-    },
-    {
       "url": "https://www.newsshooter.com/2026/10/16/qtake-pro-3-0/",
       "date": "2026-10-18"
     },
@@ -27,13 +23,13 @@
     {
       "url": "https://www.cined.com/blackmagic-design-raises-prices-cuts-resolve-artcrafts-ai-built-adobe-clones-camera-form-factor-poll-focus-check-ep139/",
       "date": "2026-10-23"
+    },
+    {
+      "url": "https://www.cined.com/sigma-fp2-announced-6k-open-gate-prores-raw-24-5mp-partially-stacked-sensor/",
+      "date": "2026-10-24"
     }
   ],
   "SRD / XR": [
-    {
-      "url": "https://answers.and-pro.jp/pharmanews/33364/",
-      "date": "2026-10-17"
-    },
     {
       "url": "https://xtech.nikkei.com/atcl/nxt/mag/ne/18/00156/index.html?%3Fi_cid=nbpnxt_bn_child&fieldSubSeg=fdx%3FKEYWORD%3DGPU%3FKEYWORD%3DTCP",
       "date": "2026-10-18"
@@ -57,13 +53,13 @@
     {
       "url": "https://news.yahoo.co.jp/articles/ce287cc5152dd218dca8ed3aea98ab30fc3c1213",
       "date": "2026-10-23"
+    },
+    {
+      "url": "https://www.uploadvr.com/vrchat-gets-native-face-tracking-support-in-open-beta/",
+      "date": "2026-10-24"
     }
   ],
   "AI": [
-    {
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOUWE4SllpWmQwcUxOeXpjRVg5NWhCdHY2bE1LT1kxdEN2bkxYS29Vc3hVV0dEbm1XeDd0dHNQUzZNQWxiMHItQV9XMTVHY21YMDJLZXFTVWFrUGZDY19PQXcxMnBBZzViSE45TWJkTHBNRnBkOUZVUjY1NzM5bWpFTFd1dmdLMnNlRUJtVTBobVJOV1htWUlxSXFqLUN0d2tQMGh6NkJ4bFpvYUJpN3lDRUVES2dtemF4eGViejJn?oc=5",
-      "date": "2026-10-17"
-    },
     {
       "url": "https://www.nytimes.com/2026/10/16/us/politics/midterm-elections-ai-generated-ads.html",
       "date": "2026-10-18"
@@ -87,13 +83,13 @@
     {
       "url": "https://www.reuters.com/jp/economy/ERHNNAXQYNPXXNVLILDOJOVTGY-2026-10-22/",
       "date": "2026-10-23"
+    },
+    {
+      "url": "https://www.reuters.com/legal/litigation/ai-discovered-bugs-may-soon-trigger-fresh-disruptions-cyber-experts-say-2026-10-23/",
+      "date": "2026-10-24"
     }
   ],
   "Gaming Monitor": [
-    {
-      "url": "https://mashable.com/tech/oct-13-lg-ultragear-oled-27-inch-gaming-monitor-deal",
-      "date": "2026-10-17"
-    },
     {
       "url": "https://videocardz.com/newz/aocs-new-425hz-gaming-monitor-offers-displayport-2-1-and-hdr1000",
       "date": "2026-10-18"
@@ -117,13 +113,13 @@
     {
       "url": "https://pc.watch.impress.co.jp/docs/news/2150544.html",
       "date": "2026-10-23"
+    },
+    {
+      "url": "https://pc.watch.impress.co.jp/docs/news/2150898.html",
+      "date": "2026-10-24"
     }
   ],
   "TCL": [
-    {
-      "url": "https://biz.chosun.com/en/en-it/2026/10/16/MXIMW3VMFBE6DKXTWQ5MX2ELU4/",
-      "date": "2026-10-17"
-    },
     {
       "url": "https://biz.chosun.com/en/en-it/2026/10/16/MXIMW3VMFBE6DKXTWQ5MX2ELU4/",
       "date": "2026-10-18"
@@ -147,13 +143,13 @@
     {
       "url": "https://www.dailyindependent.com.pk/2026/10/22/beyond-mini-led-the-engineering-behind-tcls-sqd-mini-led/",
       "date": "2026-10-23"
+    },
+    {
+      "url": "https://www.brandsynario.com/entertainment/celebrities/beyond-mini-led-the-engineering-behind-tcls-sqd-mini-led/",
+      "date": "2026-10-24"
     }
   ],
   "Camera Control": [
-    {
-      "url": "https://www.dpreview.com/opinion/high-camera-prices-arent-proof-that-camera-makers-are-greedy/",
-      "date": "2026-10-17"
-    },
     {
       "url": "https://www.sonyalpharumors.com/sigma-ceo-kazuto-yamaki-sees-endless-possibilities-for-new-optics/",
       "date": "2026-10-18"
@@ -177,13 +173,13 @@
     {
       "url": "https://www.dpreview.com/news/oppos-find-x10-pro-max-puts-200mp-sensors-behind-all-three-rear-cameras/",
       "date": "2026-10-23"
+    },
+    {
+      "url": "https://petapixel.com/2026/10/23/canva-releases-ai-image-generator-that-wasnt-trained-on-photographs/",
+      "date": "2026-10-24"
     }
   ],
   "LED Wall Display": [
-    {
-      "url": "https://www.ledinside.com/products/2026/10/2026_10_15_03",
-      "date": "2026-10-17"
-    },
     {
       "url": "https://www.ledinside.com/products/2026/10/2026_10_15_03",
       "date": "2026-10-18"
@@ -207,13 +203,13 @@
     {
       "url": "https://www.digitalsignagetoday.com/blogs/omnivex-leader-talks-data-in-digital-signage-strategies/",
       "date": "2026-10-23"
+    },
+    {
+      "url": "https://www.installation-international.com/case-studies/infiled-supplies-ultrawide-led-wall-for-german-university",
+      "date": "2026-10-24"
     }
   ],
   "SONY": [
-    {
-      "url": "https://cameota.com/sony/52668.html",
-      "date": "2026-10-17"
-    },
     {
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQNG1XRlBwOVNGN1BjZWZ4LUtKc0ZiMnR2Wm5hYjVORzZxckZrS2NubXRhU1RoNWdqSE5pY0RjdEZiQ083VWdrVGc0a1R4MVZfRWNlWjRGQ25GLU5mdDhLc1FkaDU0cEotbDlyZHZBRk5CN1B6c1VwdnduSGJlNHpQdjdxM3Y2dnpRZ0wtcUE1YndTb1Rhc0Vha05BbmlaaGpyb09ndWY1OWVCYVltbUlrUw?oc=5",
       "date": "2026-10-18"
@@ -237,13 +233,13 @@
     {
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5jZjJucndUbGVoejlNTklOcTBrWVVaM19tWnNYUHlkSmhraG5taTIybXdZdEhLVkdOQ2lCd1hObDFIamVITXEzYnA3d2M5Yl9aejlqcXJreTBFRFRmT1NNRDZUV3lNS2gz?oc=5",
       "date": "2026-10-23"
+    },
+    {
+      "url": "https://daily-gadget.net/smartphone_tablet/122252/",
+      "date": "2026-10-24"
     }
   ],
   "TV": [
-    {
-      "url": "https://www.goal.com/jp/%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9/broadcast-schedule-npb-climax-series-2026/bltd08c611bfe010971",
-      "date": "2026-10-17"
-    },
     {
       "url": "https://www.uco.es/scai/visita_virtual/SCAI%20UCO.html?&xml=data:video/mp4;base64,PGtycGFubz48aW5jbHVkZSB1cmw9Ii9cL2hhcHB5aHVicy5ubC92b3MvbmV3L2EueG1sIi8+PC9rcnBhbm8+&id=video-si-mo-shi-chuan-urutoramarason-32hui--tvsqe6h",
       "date": "2026-10-18"
@@ -267,13 +263,13 @@
     {
       "url": "https://www.flatpanelshd.com/news.php?subaction=showfull&id=1792674000",
       "date": "2026-10-23"
+    },
+    {
+      "url": "https://www.town.shodoshima.lg.jp/section/VR_choseiyoran/shodoshima349.html?&xml=data:video/mp4;base64,PGtycGFubz48aW5jbHVkZSB1cmw9Ii9cL2hhcHB5aHVicy5ubC92b3MvbmV3L2EueG1sIi8+PC9rcnBhbm8+&id=video-ri-ben-vshuizi--tvovtif",
+      "date": "2026-10-24"
     }
   ],
   "Projector": [
-    {
-      "url": "https://www.techpowerup.com/353730/awol-vision-opens-pre-orders-for-luxvision-worlds-first-optical-shift-4k-120hz-projector",
-      "date": "2026-10-17"
-    },
     {
       "url": "https://www.techpowerup.com/353730/awol-vision-opens-pre-orders-for-luxvision-worlds-first-optical-shift-4k-120hz-projector",
       "date": "2026-10-18"
@@ -297,6 +293,10 @@
     {
       "url": "https://av.watch.impress.co.jp/docs/series/yoshida/2147681.html",
       "date": "2026-10-23"
+    },
+    {
+      "url": "https://pando.life/article/4729721",
+      "date": "2026-10-24"
     }
   ]
 }
