@@ -1,0 +1,102 @@
+{
+  "AI": {
+    "title": "MUFGのAI導入を成功させたナレッジグラフ活用",
+    "summary": "MUFGはAI導入のPoCを成功させるため、オントロジーとナレッジグラフを組み合わせた手法を採用しました。非IT部門が2万件以上の知見をデータ化し、複雑な業務知識を機械可読な形式に変換することで、実用的なAI活用を実現しています。",
+    "insight": "AIモデルの精度向上にはRAGの活用が一般的ですが、ドメイン知識の定義が重要です。ナレッジグラフを用いた構造化データは、LLMが陥りやすいハルシネーションを防ぎ、専門領域での推論精度を劇的に向上させる技術として注目すべきです。",
+    "sourceUrl": "https://enterprisezine.jp/article/detail/25150",
+    "sourceName": "EnterpriseZine",
+    "originalImageUrl": null,
+    "originalImageArticleUrl": "https://enterprisezine.jp/article/detail/25150",
+    "displayDate": "2026-10-25"
+  },
+  "SRD / XR": {
+    "title": "エムスリー「MR君」で情報漏えいが発生",
+    "summary": "医療情報プラットフォーム「MR君」に対する不正アクセスが発生し、会員約2.5万人および製薬担当者約2,200名の個人情報が流出しました。データベース管理やセキュリティ対策の重要性が改めて問われる事案です。",
+    "insight": "医療ドメインのような機密性の高いデータを扱うプラットフォームにおいて、認証・認可の脆弱性は致命的なレピュテーションリスクとなります。開発者としては、アプリケーション層のセキュリティ対策だけでなく、ログ監視やデータベースのアクセス制御を多層的に実装することが不可欠です。",
+    "sourceUrl": "https://news.yahoo.co.jp/articles/73dc731ec92903f1b4e72b972150d24c13e2698b",
+    "sourceName": "Yahoo!ニュース",
+    "originalImageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261024-00187742-biz_plus-000-1-view.jpg?exp=10800",
+    "originalImageArticleUrl": "https://news.yahoo.co.jp/articles/73dc731ec92903f1b4e72b972150d24c13e2698b",
+    "displayDate": "2026-10-25"
+  },
+  "TCL": {
+    "title": "TCLの次世代ディスプレイ技術：SQD-Mini LEDの工学",
+    "summary": "TCLが採用する「SQD-Mini LED」技術の深層を探る記事。従来のMini LEDを超え、量子ドット技術を最適化することで、ディスプレイの輝度、コントラスト、および色再現性をどのように物理レベルで向上させているか、その技術的背景とエンジニアリングの動向を解説します。",
+    "insight": "ディスプレイ技術がOLEDからMini LEDへと進化する中で、量子ドット技術（SQD）の統合は、現在のハードウェア性能を最大化するための重要なトレンドです。単なるバックライトの制御だけでなく、材料科学と精密光学の組み合わせが製品競争力を左右する鍵であることを理解する良いケーススタディです。",
+    "sourceUrl": "https://www.brandsynario.com/entertainment/celebrities/beyond-mini-led-the-engineering-behind-tcls-sqd-mini-led/",
+    "sourceName": "Brandsynario",
+    "originalImageUrl": "https://www.brandsynario.com/wp-content/uploads/2026/10/SQD-1.jpg",
+    "originalImageArticleUrl": "https://www.brandsynario.com/entertainment/celebrities/beyond-mini-led-the-engineering-behind-tcls-sqd-mini-led/",
+    "displayDate": "2026-10-25"
+  },
+  "TV": {
+    "title": "「第44回全日本大学女子駅伝」10/25開催",
+    "summary": "2026年10月25日に開催される「第44回全日本大学女子駅伝対校選手権大会」の模様が、フジテレビ系列にて全国生放送されます。女子駅伝の日本一を競う学生たちの熱戦が期待されます。",
+    "insight": "リアルタイム配信におけるストリーミングの負荷分散や高精細なスポーツ中継における映像圧縮技術は、エンジニアにとっても興味深い領域です。大規模な同時アクセスを支えるインフラ構成は、スケーラブルなシステム設計の参考になります。",
+    "sourceUrl": "https://sportsmax.pro/jp-ekiden/",
+    "sourceName": "FC東京オフィシャルホームページ",
+    "originalImageUrl": null,
+    "originalImageArticleUrl": "https://sportsmax.pro/jp-ekiden/",
+    "displayDate": "2026-10-25"
+  },
+  "Production Monitor": {
+    "title": "Apple M4 Pro搭載Mac miniが大幅値下げ",
+    "summary": "Appleの最新「Mac mini（M4 Proチップ搭載モデル）」が、最大1,400ドルの大幅な割引価格で販売されています。14コアCPU、64GBのユニファイドメモリ、8TB SSDを備えたハイエンド構成が、開発者の作業環境を刷新する絶好のチャンスとなっています。",
+    "insight": "M4 Proのシングル/マルチスレッド性能はビルド時間の短縮に直結し、ソフトウェアエンジニアにとって非常に効率的な選択肢です。省スペース設計ながらデスクトップ級のパワーを持つため、作業環境の最適化を検討しているなら今が買い時と言えます。",
+    "sourceUrl": "https://www.newsshooter.com/2026/10/23/save-1400-usd-on-the-apple-mac-mini-with-m4-pro-chip/",
+    "sourceName": "Newsshooter",
+    "originalImageUrl": "https://media.newsshooter.com/wp-content/uploads/2026/10/Screenshot-2026-10-24-at-10.39.07.png",
+    "originalImageArticleUrl": "https://www.newsshooter.com/2026/10/23/save-1400-usd-on-the-apple-mac-mini-with-m4-pro-chip/",
+    "displayDate": "2026-10-25"
+  },
+  "SONY": {
+    "title": "次世代スマホに採用か：ソニー新センサーLYT910の技術的注目点",
+    "summary": "次期ハイエンドスマホ「Vivo X500 Ultra」に、ソニーの最新イメージセンサー「LYT910」が採用される可能性が浮上しました。画素数を追うだけでなく、画質とバランスを重視した50MPセンサーへの回帰は、近年のモバイルカメラトレンドの転換点を示唆しています。",
+    "insight": "LYTシリーズは積層型CMOSセンサー技術の進化系であり、高ダイナミックレンジと低消費電力を両立するソニーの車載・モバイル向け戦略の要です。エンジニアの視点では、画素ピッチの最適化がどのように画像処理パイプラインの信号対雑音比（SNR）向上に寄与しているか、その演算処理能力との相性が注目ポイントです。",
+    "sourceUrl": "https://news.lavx.hu/article/vivo-x500-ultra-may-drop-200mp-main-camera-for-50mp-sony-lyt910",
+    "sourceName": "news.lavx.hu",
+    "originalImageUrl": "https://news.lavx.hu/api/media/file/vivo-x500-ultra-may-drop-200mp-main-camera-for-50mp-sony-lyt910-1_1792816404240-1200x630.jpg",
+    "originalImageArticleUrl": "https://news.lavx.hu/article/vivo-x500-ultra-may-drop-200mp-main-camera-for-50mp-sony-lyt910",
+    "displayDate": "2026-10-25"
+  },
+  "Gaming Monitor": {
+    "title": "Lenovoの新型32インチモニタは「1080p」を選択",
+    "summary": "Lenovoが新たに発表した32インチのゲーミングモニターが、その大型サイズに対して解像度を1080pに据え置いていることが話題となっています。近年の高精細化トレンドと逆行する仕様に、エンジニアの間でも画面密度（PPI）の重要性と用途の最適化について議論を呼んでいます。",
+    "insight": "大型ディスプレイで低解像度を採用することは、画素ピッチの粗さが目立つ一方で、GPU負荷を下げ高フレームレートを維持しやすいというエンジニアリング上のトレードオフがあります。ディスプレイ性能を選定する際は、解像度だけでなく作業用途に応じた画面密度とGPUレンダリング能力のバランスを再考する必要があります。",
+    "sourceUrl": "https://the-gadgeteer.com/2026/10/24/lenovos-new-32-inch-gaming-monitor-goes-big-but-sticks-with-1080p/",
+    "sourceName": "The Gadgeteer",
+    "originalImageUrl": "https://the-gadgeteer.com/wp-content/uploads/2026/10/Lenovo-L32-4e-Monitor-Cover-Image.png",
+    "originalImageArticleUrl": "https://the-gadgeteer.com/2026/10/24/lenovos-new-32-inch-gaming-monitor-goes-big-but-sticks-with-1080p/",
+    "displayDate": "2026-10-25"
+  },
+  "Camera Control": {
+    "title": "Sony A7R IVで土星を撮影！天体撮影の光学系最適化が熱い",
+    "summary": "Sony A7R IVに天体望遠鏡、レデューサー、テレコンバーターを組み合わせて土星を捉えた事例が話題です。光軸調整とバックフォーカスの追い込みに2時間を費やすという、エンジニアリング的な執念が結実した一枚です。",
+    "insight": "センサーまでの光路に複数の光学系を介在させる際、周辺画質を維持するためのバックフォーカス調整は非常にシビアなエンジニアリング領域です。ソフトウェア的な補正だけでなく、物理的な光軸精度の追求が画質に直結する点は、ハードウェアエンジニアにとって非常に興味深いケーススタディと言えます。",
+    "sourceUrl": "https://www.sonyalpharumors.com/sony-a7r-iv-owner-combines-telescope-reducer-and-teleconverter-for-saturn/",
+    "sourceName": "sonyalpharumors",
+    "originalImageUrl": null,
+    "originalImageArticleUrl": "https://www.sonyalpharumors.com/sony-a7r-iv-owner-combines-telescope-reducer-and-teleconverter-for-saturn/",
+    "displayDate": "2026-10-25"
+  },
+  "Projector": {
+    "title": "古いスマホが音楽専用機に？「reTONE」ベータ版公開",
+    "summary": "使わなくなったAndroidスマホを音楽専用の再生端末に変えるアプリ「reTONE」のベータ版が公開されました。Android 4.0以降に対応しており、APKファイルから導入可能です。眠っているデバイスを有効活用する興味深い試みです。",
+    "insight": "古いOS環境でも動作するように設計されており、リソース制約のあるデバイスを再利用する技術的アプローチとして興味深いです。OSのサポートが切れたデバイスを単一機能に絞って運用するセキュアな利活用ケーススタディにもなります。",
+    "sourceUrl": "https://av.watch.impress.co.jp/docs/news/2150873.html",
+    "sourceName": "AV Watch",
+    "originalImageUrl": "https://av.watch.impress.co.jp/img/avw/list/2150/873/r1.png",
+    "originalImageArticleUrl": "https://av.watch.impress.co.jp/docs/news/2150873.html",
+    "displayDate": "2026-10-25"
+  },
+  "LED Wall Display": {
+    "title": "教育・研究現場への超ワイドLEDウォール導入が進展",
+    "summary": "ドイツの大学において、INFiLED社製の超ワイドLEDウォールが導入されました。学術機関における高度な視覚体験や没入型学習環境の構築に向け、大型LEDディスプレイの活用が加速しています。",
+    "insight": "大学等での大型LEDウォール採用は、高精細かつシームレスな表示による遠隔講義やデータ可視化の需要増を示唆しています。エンジニアとしては、単なる表示デバイスとしてではなく、超ワイド解像度におけるレンダリング負荷の最適化や、空間演出と同期した制御システムの設計が重要になります。",
+    "sourceUrl": "https://www.installation-international.com/case-studies/infiled-supplies-ultrawide-led-wall-for-german-university",
+    "sourceName": "Installation-international",
+    "originalImageUrl": "https://www.installation-international.com/wp-content/uploads/2026/10/unnamed-41.jpg",
+    "originalImageArticleUrl": "https://www.installation-international.com/case-studies/infiled-supplies-ultrawide-led-wall-for-german-university",
+    "displayDate": "2026-10-25"
+  }
+}
