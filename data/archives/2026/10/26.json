@@ -1,0 +1,102 @@
+{
+  "SRD / XR": {
+    "title": "スポーツ観戦がARで進化！「見る」から「体験する」へ",
+    "summary": "ARグラスの普及を見据え、スポーツ観戦を単なる「視聴」から、データ共有やインタラクティブな参加が可能な体験型へとアップデートする動きが報じられました。",
+    "insight": "空間コンピューティングの普及により、UI/UXはデバイスの画面から現実空間の拡張へとシフトしています。エンジニアとしては、単なる情報表示にとどまらず、リアルタイムなコンテキストデータと視聴体験をどう融合させるかが、次世代アプリケーションの重要な差別化要因になるでしょう。",
+    "sourceUrl": "https://www.sanyonews.jp/article/2008706?rct=prtimes_hiro",
+    "sourceName": "山陽新聞",
+    "originalImageUrl": "https://static.sanyonews.jp/image/article/size1https://prtimes.jp/img/12766/47/resize/d12766-47-ec20cdc194444e59579a-0.png",
+    "originalImageArticleUrl": "https://www.sanyonews.jp/article/2008706?rct=prtimes_hiro",
+    "displayDate": "2026-10-26"
+  },
+  "AI": {
+    "title": "AIの導入効果に疑問符？収益化の壁と経営層とのギャップ",
+    "summary": "Apolloの経済学者が、多くの企業にとってAI投資は『財務上の見返りがゼロ』であると指摘。一方でCEOは導入が順調だと評価しており、経営層と現場の認識に乖離があることも浮き彫りになりました。AI導入の真の価値が問われています。",
+    "insight": "エンジニアとしては、単なるAI導入ではなく、具体的なビジネス指標に貢献するユースケースの選定と検証が求められます。PoC疲れを防ぐため、ROIを意識したエンジニアリング設計と、現場の実務改善に直結する開発が今後ますます重要になります。",
+    "sourceUrl": "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/",
+    "sourceName": "TechCrunch",
+    "originalImageUrl": "https://techcrunch.com/wp-content/uploads/2023/08/GettyImages-1308803174.jpg?resize=1200,800",
+    "originalImageArticleUrl": "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/",
+    "displayDate": "2026-10-26"
+  },
+  "Gaming Monitor": {
+    "title": "高コスパMini LEDモニターが台頭！ディスプレイ技術の民主化",
+    "summary": "TCLがフィリピンで27インチMini LEDゲーミングモニターを約4万円強という驚異的な低価格で発売しました。これまでハイエンド層向けだったMini LED技術が、いよいよ一般的なゲーミングデバイスの価格帯に降りてきています。",
+    "insight": "Mini LEDの低価格化は、ローカルディミングによるコントラスト比の向上とピーク輝度の改善が普及帯のパネルでも実現可能になったことを示しています。エンジニアとしては、HDRコンテンツ開発におけるターゲット輝度設定や、低価格な量子ドット/Mini LEDパネル特有のバックライト制御アルゴリズムの癖を考慮した開発・検証が必要になるでしょう。",
+    "sourceUrl": "https://www.gizguide.com/2026/10/tcl-27p2a-mini-led-monitor-philippines.html",
+    "sourceName": "GIZGUIDE",
+    "originalImageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjny4jEc-s1hwl8WZDkrtgavRM53jRr-EJKFSl3saBJQNEyp3nWYtyGPPePyYDNEuzFjYOVAPs-8tbX0O778k-0UfDaJWTvJ7fuXpabngyJqp5nMldY24w3C1FfuZmak04AfQMxM3Y5uhs3IS57ZTKU_OPLjEpoi-O0iI5qBDp69bhfEygUB9xqC1TqYIjs/w1200-h630-p-k-no-nu/tcl-27P2a-ph-6.png",
+    "originalImageArticleUrl": "https://www.gizguide.com/2026/10/tcl-27p2a-mini-led-monitor-philippines.html",
+    "displayDate": "2026-10-26"
+  },
+  "TCL": {
+    "title": "スマートTVのUIがAIで進化：広告だらけの画面を整理",
+    "summary": "近年のスマートTVは、ホーム画面が広告や推奨コンテンツで溢れかえり、ユーザーの不満が高まっています。これに対し、最新のスマートTV環境ではAIを活用して不要な広告やホーム画面の混乱を整理し、ユーザー体験を最適化する動きが出ています。",
+    "insight": "UI/UXデザインにおいて、データ駆動のパーソナライゼーションが過剰になるとUXを損なうという教訓です。エンジニアとしては、過度な推薦アルゴリズムに頼るのではなく、ユーザーにコントロール権を戻すための「AIによる情報のフィルタリング技術」の需要が増すと予測されます。",
+    "sourceUrl": "https://mashable.com/tech/smart-tv-ads-claude-code-ai-cleanup",
+    "sourceName": "Mashable",
+    "originalImageUrl": "https://helios-i.mashable.com/imagery/articles/025cv7tAoEhRR4j8vCxOaLH/hero-image.fill.size_1200x675.v1792435214.jpg",
+    "originalImageArticleUrl": "https://mashable.com/tech/smart-tv-ads-claude-code-ai-cleanup",
+    "displayDate": "2026-10-26"
+  },
+  "Projector": {
+    "title": "遅延と戦うVTuberが開発した低遅延セッションアプリ",
+    "summary": "個人VTuberが開発したWindows向けオンライン歌唱・セッションアプリ「SyncueSong」が公開されました。モニター音と配信音声を個別に処理することで、オンライン特有のラグ問題を克服しようとする意欲的な個人開発プロジェクトです。",
+    "insight": "ネットワーク遅延をソフトウェア側でどう吸収・処理するかという課題に対して、独自のアプローチをとる興味深い事例です。開発者のエンジニアリングの工夫や、個人開発でどこまで低遅延を実現できるかという点から、通信処理やメディア制御を学ぶエンジニアにとって刺激になるでしょう。",
+    "sourceUrl": "https://av.watch.impress.co.jp/docs/series/dal/2150863.html",
+    "sourceName": "AV Watch",
+    "originalImageUrl": "https://av.watch.impress.co.jp/img/avw/list/2150/863/main.jpg",
+    "originalImageArticleUrl": "https://av.watch.impress.co.jp/docs/series/dal/2150863.html",
+    "displayDate": "2026-10-26"
+  },
+  "SONY": {
+    "title": "iPhone Duoにも搭載、ソニー製カメラセンサーの圧倒的シェア",
+    "summary": "最新のiPhoneシリーズにおいて、すべてのカメラモジュールにソニー製のIMXシリーズセンサーが採用されていることが判明しました。スマートフォン市場におけるソニーのイメージセンサーの技術的優位性と、サプライチェーンでの不可欠な地位が改めて浮き彫りになっています。",
+    "insight": "スマートフォンカメラの性能向上において、ソニーの積層型CMOSセンサー技術がデファクトスタンダードであり続けている点は注目に値します。エンジニアの視点からは、ハードウェアの微細化と並行して進むISP（画像信号処理）の最適化が、製品体験を左右する重要なキーコンポーネントであると再認識させられます。",
+    "sourceUrl": "https://sumahodigest.com/?p=74740",
+    "sourceName": "スマホダイジェスト",
+    "originalImageUrl": "https://sumahodigest.com/wp-content/uploads/2026/10/Screenshot-2026-10-25-132302.jpg",
+    "originalImageArticleUrl": "https://sumahodigest.com/?p=74740",
+    "displayDate": "2026-10-26"
+  },
+  "Production Monitor": {
+    "title": "Adobeの対抗馬？話題の動画編集ツール「FilmCraft」を検証",
+    "summary": "Adobe Creative Cloudの代替としてネットで話題の動画編集ソフト「FilmCraft」の実態に迫る記事。Premiereを模倣したとされるこのツールが、既存の業界標準を脅かす存在なのか、あるいは単なる宣伝文句なのかを実体験に基づいて深掘りしています。",
+    "insight": "既存の巨大プラットフォームに対する「vibe-coded（直感的な）」代替ツールの台頭は、プロ用ソフトウェアにおけるUXと生産性のあり方を再考させます。技術スタックを乗り換える際の学習コストと、単なるクローンではない独自の付加価値をどう見極めるかがエンジニアとしての判断材料になります。",
+    "sourceUrl": "https://www.provideocoalition.com/i-tried-the-artcraft-video-editor-filmcraft/",
+    "sourceName": "ProVideo Coalition",
+    "originalImageUrl": "https://www.provideocoalition.com/wp-content/uploads/FilmCraft-0IiXRlFR-000349-Canon-XF.jpg",
+    "originalImageArticleUrl": "https://www.provideocoalition.com/i-tried-the-artcraft-video-editor-filmcraft/",
+    "displayDate": "2026-10-26"
+  },
+  "TV": {
+    "title": "InstagramがApple TVに対応、大画面視聴へ",
+    "summary": "InstagramがApple TVアプリをリリースしました。これにより、スマホの縦型コンテンツであるリールやライブ配信を、テレビの大画面で視聴可能になります。リビングで友人や家族と一緒にSNS動画を楽しむ新しい体験が提供されます。",
+    "insight": "スマホ特化のUIをテレビ最適化する際、既存のTV OSフレームワークをどう活用するかが鍵となります。大画面での高解像度レンダリングと、リモコン操作（入力デバイスの制約）を考慮したUX設計の参考になります。",
+    "sourceUrl": "https://japan.cnet.com/article/35253948/",
+    "sourceName": "CNET Japan",
+    "originalImageUrl": "https://japan.cnet.com/storage/2026/10/26/07602abe26a057e58d870868775f3acc/%E8%A6%8B%E5%87%BA%E3%81%97%E7%94%BB%E5%83%8F.jpg",
+    "originalImageArticleUrl": "https://japan.cnet.com/article/35253948/",
+    "displayDate": "2026-10-26"
+  },
+  "LED Wall Display": {
+    "title": "DOOH広告の普及が3倍に：成功の鍵は戦略的活用",
+    "summary": "デジタル屋外広告（DOOH）の普及率が過去1年で3倍に急増しました。調査によると、89%の投資ブランドが利益を上げており、特に大規模ブランドの採用が進んでいます。ただし、成功には単なるインプレッション購入ではなく、適切なオーディエンス設計と効果測定が不可欠です。",
+    "insight": "エンジニアとしては、DOOHを単なるディスプレイ投射としてではなく、リアルタイムの視聴者データと統合したプログラマティック配信基盤として捉える必要があります。今後、DSP/SSP間のデータ連携や、配信戦略を左右する高精度なコンバージョン計測システムの構築が技術的焦点となります。",
+    "sourceUrl": "https://www.digitalsignagetoday.com/news/dooh-adoption-triples-due-to-high-profitability-rates/",
+    "sourceName": "Digital Signage Today",
+    "originalImageUrl": "https://nmgprod.s3.amazonaws.com/media/file/1a/f3/ce775593c6c86601c3284d219750/cover_image__9ccA2aO6__AdobeStock_9385048711.jpeg.360x190_q85_crop_upscale.webp",
+    "originalImageArticleUrl": "https://www.digitalsignagetoday.com/news/dooh-adoption-triples-due-to-high-profitability-rates/",
+    "displayDate": "2026-10-26"
+  },
+  "Camera Control": {
+    "title": "ハードウェア品質管理の難しさ：Sony FX5とiPhoneの事例",
+    "summary": "SonyのFX5における液晶割れ問題に加え、iPhone Duoでもヒンジ付近の破損が報告されています。徹底した品質管理を掲げる企業であっても、最新ハードウェアにおける耐久性担保がいかに困難であるかを示す事例として注目されています。",
+    "insight": "精密機器の設計において、筐体の小型化や複雑な可動部と耐久性の両立はエンジニアにとって永遠の課題です。単なる製造上の欠陥か、設計上のマージン不足か、再現性の低いハードウェア故障の根本原因分析（RCA）の難しさを再認識させられます。",
+    "sourceUrl": "https://www.sonyalpharumors.com/from-sony-fx5-screens-to-iphone-duo-hinges-cracks-in-quality-control/",
+    "sourceName": "sonyalpharumors",
+    "originalImageUrl": "https://www.sonyalpharumors.com/wp-content/uploads/2026/10/Screenshot-2026-10-25-at-22.33.36.png",
+    "originalImageArticleUrl": "https://www.sonyalpharumors.com/from-sony-fx5-screens-to-iphone-duo-hinges-cracks-in-quality-control/",
+    "displayDate": "2026-10-26"
+  }
+}
