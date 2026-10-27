@@ -1,10 +1,6 @@
 {
   "Production Monitor": [
     {
-      "url": "https://www.cined.com/netflix-lays-off-about-1000-employees-6-of-staff-product-and-tech-teams-hit-months-after-losing-warner-bros/",
-      "date": "2026-10-20"
-    },
-    {
       "url": "https://www.newsshooter.com/2026/10/20/blackmagic-camera-10-3-2-update/",
       "date": "2026-10-21"
     },
@@ -27,13 +23,13 @@
     {
       "url": "https://www.provideocoalition.com/i-tried-the-artcraft-video-editor-filmcraft/",
       "date": "2026-10-26"
+    },
+    {
+      "url": "https://www.newsshooter.com/2026/10/26/davinci-resolve-21-1-2/",
+      "date": "2026-10-27"
     }
   ],
   "SRD / XR": [
-    {
-      "url": "https://built.itmedia.co.jp/bt/articles/2610/19/news102.html",
-      "date": "2026-10-20"
-    },
     {
       "url": "https://www.uploadvr.com/meta-expands-sdks-to-boost-spatial-apps-on-quest-vr-glasses-including-nba-disney/",
       "date": "2026-10-21"
@@ -57,13 +53,13 @@
     {
       "url": "https://www.sanyonews.jp/article/2008706?rct=prtimes_hiro",
       "date": "2026-10-26"
+    },
+    {
+      "url": "https://www.uploadvr.com/openxr-spatial-container-extensions-standardize-volumetric-app-multitasking/",
+      "date": "2026-10-27"
     }
   ],
   "AI": [
-    {
-      "url": "https://www.sbbit.jp/article/cont1/187590",
-      "date": "2026-10-20"
-    },
     {
       "url": "https://www.nikkei.com/article/DGXZQOUC154FP0V10C26A9000000/",
       "date": "2026-10-21"
@@ -87,13 +83,13 @@
     {
       "url": "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/",
       "date": "2026-10-26"
+    },
+    {
+      "url": "https://www.gartner.co.jp/ja/newsroom/press-releases/2026-10-27-gartner-identifies-the-top-ai-trends-in-infrastructure-and-it-operations-for-2027",
+      "date": "2026-10-27"
     }
   ],
   "Gaming Monitor": [
-    {
-      "url": "https://mashable.com/tech/oct-10-samsung-odyssey-g9-curved-gaming-monitor-deal",
-      "date": "2026-10-20"
-    },
     {
       "url": "https://www.flatpanelshd.com/news.php?subaction=showfull&id=1792475782",
       "date": "2026-10-21"
@@ -117,13 +113,13 @@
     {
       "url": "https://www.gizguide.com/2026/10/tcl-27p2a-mini-led-monitor-philippines.html",
       "date": "2026-10-26"
+    },
+    {
+      "url": "https://pc.watch.impress.co.jp/docs/news/2151321.html",
+      "date": "2026-10-27"
     }
   ],
   "TCL": [
-    {
-      "url": "https://en.dailypakistan.com.pk/19-Oct-2026/tcl-reports-77-1pc-growth-in-mini-led-tv-shipments",
-      "date": "2026-10-20"
-    },
     {
       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPM2xZOU9FSF9DLWJHeE9hU1NST01TWUNqZVZ2aVNpc1pQVVVPcHZ6VVZFNUZaT2ZCYmthZFRtWjFpYjRwYmVuMEg0Rnh5dmVLdnlQMGgxdGVZVXo2Vkk4dy1SbHhGNUVHTTJNeUdtZ3Y0eTZWdXE3ZUdTWUplWHhQNTJnQU5UNUtwVmJpdUd1dUlLYlF2dDFVUzNNWlJBeThFSHJGaWUwZjhwd1lRNDhGUV9nVXBXQjBlRWJ3ZWwzMnRFdk0?oc=5",
       "date": "2026-10-21"
@@ -147,13 +143,13 @@
     {
       "url": "https://mashable.com/tech/smart-tv-ads-claude-code-ai-cleanup",
       "date": "2026-10-26"
+    },
+    {
+      "url": "https://article.auone.jp/7a0260ce-e6de-4557-95c0-771598644782",
+      "date": "2026-10-27"
     }
   ],
   "Camera Control": [
-    {
-      "url": "https://www.dpreview.com/news/adobe-adds-easy-ai-eye-generation-to-lightroom-mobile/",
-      "date": "2026-10-20"
-    },
     {
       "url": "https://dc.watch.impress.co.jp/docs/column/2149298.html",
       "date": "2026-10-21"
@@ -177,13 +173,13 @@
     {
       "url": "https://www.sonyalpharumors.com/from-sony-fx5-screens-to-iphone-duo-hinges-cracks-in-quality-control/",
       "date": "2026-10-26"
+    },
+    {
+      "url": "https://petapixel.com/2026/10/26/oppo-find-x10-pro-max-review-the-incredible-triple-200mp-cameras-are-only-half-the-story/",
+      "date": "2026-10-27"
     }
   ],
   "LED Wall Display": [
-    {
-      "url": "https://www.digitalsignagetoday.com/news/global-display-market-will-hit-1378b-by-2032/",
-      "date": "2026-10-20"
-    },
     {
       "url": "//www.ledinside.com/news/2026/10/2026_10_19_01",
       "date": "2026-10-21"
@@ -207,13 +203,13 @@
     {
       "url": "https://www.digitalsignagetoday.com/news/dooh-adoption-triples-due-to-high-profitability-rates/",
       "date": "2026-10-26"
+    },
+    {
+      "url": "https://www.installation-international.com/case-studies/infiled-supplies-ultrawide-led-wall-for-german-university",
+      "date": "2026-10-27"
     }
   ],
   "SONY": [
-    {
-      "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxPRDBOemF0NTU2VnJRVHdaQ2xTUDNSVHYwbTl4U211eHRFeGZZVjVUXzc0VmIzNTRnS2FjX0RyUExaZGpFSEJWSnBROW5jVjV6VGVWTjRqLWRoTmc1N2pEUUkwV0EtUDN1b3dGUlRaZldqN0RNNWo1R08ybHRoaERBVkxnWkJ5YTNFMDI4ZFhzM2Y1MWV6RjJSZVRWdXNNZENRYy1KNk9OdWVfRDh6YkpVejBzc0F3YV93NUZla3ZUSVZHaEtXNkQ3Z1I0RHRlWGxCbmhhaHRaUWxPaE13OHAwSE1Ca1Y1c0ExTHNyVWVOUGJlUWVvc1Zub3FscV9hcFh0RV9Od1ljQW90ajloR2ZRWEx3LUN3QzQ?oc=5",
-      "date": "2026-10-20"
-    },
     {
       "url": "https://virtual.reality.news/news/sony-sells-xr-patents-to-meta-what-the-filings-show/",
       "date": "2026-10-21"
@@ -237,13 +233,13 @@
     {
       "url": "https://sumahodigest.com/?p=74740",
       "date": "2026-10-26"
+    },
+    {
+      "url": "https://article.auone.jp/0557cf04-8cde-4150-9a6d-93b0df595348",
+      "date": "2026-10-27"
     }
   ],
   "TV": [
-    {
-      "url": "https://www.ign.com/articles/lg-evo-c6-4k-oled-tv-deal-october-2026",
-      "date": "2026-10-20"
-    },
     {
       "url": "https://news.yahoo.co.jp/articles/1329fed12faeb2723987259a50ff7da0a7a704fd",
       "date": "2026-10-21"
@@ -267,13 +263,13 @@
     {
       "url": "https://japan.cnet.com/article/35253948/",
       "date": "2026-10-26"
+    },
+    {
+      "url": "https://finance.yahoo.co.jp/news/detail/2d894b7e0baa6c586c7fe83026be6585944a02e8",
+      "date": "2026-10-27"
     }
   ],
   "Projector": [
-    {
-      "url": "https://av.watch.impress.co.jp/docs/news/2149486.html",
-      "date": "2026-10-20"
-    },
     {
       "url": "https://news.livedoor.com/pr_topics/detail/32610059/",
       "date": "2026-10-21"
@@ -297,6 +293,10 @@
     {
       "url": "https://av.watch.impress.co.jp/docs/series/dal/2150863.html",
       "date": "2026-10-26"
+    },
+    {
+      "url": "https://av.watch.impress.co.jp/docs/news/2151318.html",
+      "date": "2026-10-27"
     }
   ]
 }

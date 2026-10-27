@@ -1,0 +1,102 @@
+{
+  "SRD / XR": {
+    "title": "OpenXRのSpatial Containerが空間UIの標準へ",
+    "summary": "OpenXRに「Spatial Container」拡張機能が追加されました。これにより、複数の3D・ボリュメトリックアプリをOSレベルで管理・配置する仕組みが標準化され、従来のデスクトップ環境におけるウィンドウ管理のような一貫したユーザー体験が提供されます。",
+    "insight": "空間コンピューティングにおいて、アプリの配置と並列実行の管理はユーザー体験の要となる重要な技術課題です。この標準化は、プラットフォーム横断的なマルチタスクUIの開発を加速させ、XRアプリの操作性向上に大きく貢献するでしょう。",
+    "sourceUrl": "https://www.uploadvr.com/openxr-spatial-container-extensions-standardize-volumetric-app-multitasking/",
+    "sourceName": "UploadVR",
+    "originalImageUrl": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/10/Thumb1-1.png",
+    "originalImageArticleUrl": "https://www.uploadvr.com/openxr-spatial-container-extensions-standardize-volumetric-app-multitasking/",
+    "displayDate": "2026-10-27"
+  },
+  "AI": {
+    "title": "Gartnerが予測：2027年のAIインフラトレンド",
+    "summary": "ガートナーが2027年に向けたインフラおよびIT運用におけるAIの主要トレンドを発表しました。AI導入が進む中で、単なるツール導入から、スケーラビリティ、運用効率化、そして戦略的なインフラ構築へとフェーズが移行していることが強調されています。",
+    "insight": "エンジニアとしては、AIを個別のアプリケーションとして捉えるのではなく、インフラ基盤の一部としてどう統合し運用するかが鍵となります。特に運用効率化を主軸とした自動化レイヤーの設計と、増大する計算リソースに対するコスト最適化戦略を今から準備しておくべきです。",
+    "sourceUrl": "https://www.gartner.co.jp/ja/newsroom/press-releases/2026-10-27-gartner-identifies-the-top-ai-trends-in-infrastructure-and-it-operations-for-2027",
+    "sourceName": "ガートナージャパン",
+    "originalImageUrl": null,
+    "originalImageArticleUrl": "https://www.gartner.co.jp/ja/newsroom/press-releases/2026-10-27-gartner-identifies-the-top-ai-trends-in-infrastructure-and-it-operations-for-2027",
+    "displayDate": "2026-10-27"
+  },
+  "TCL": {
+    "title": "Google TVの広告を排除？OSSツールでUIを改善",
+    "summary": "Android/Google TVの煩雑な広告やおすすめ枠を非表示にし、Apple TVのようなシンプルUIを実現するOSSツール「CleanYourTV」が話題です。スマートテレビのUX向上に関心があるエンジニアにとって注目のプロジェクトです。",
+    "insight": "UIカスタマイズが難しいAndroid TVのランチャーを、OSSでOSレベルの制約を回避してクリーン化する手法は興味深いです。こうしたツールは、開発環境や展示用ディスプレイのUIを最適化する際のハックとしても参考になります。",
+    "sourceUrl": "https://article.auone.jp/7a0260ce-e6de-4557-95c0-771598644782",
+    "sourceName": "au Webポータル",
+    "originalImageUrl": "https://newportal.portal.auone.jp/media/thumbnails/2026/10/26/https___news_jp_i_1487561809389781603_w640.webp",
+    "originalImageArticleUrl": "https://article.auone.jp/7a0260ce-e6de-4557-95c0-771598644782",
+    "displayDate": "2026-10-27"
+  },
+  "TV": {
+    "title": "ハウテレビジョン、中期経営計画を発表",
+    "summary": "人材紹介プラットフォーム運営のハウテレビジョンが中期経営計画を策定。2030年1月期に売上高100億円、営業利益28億円という高い目標を掲げたことを受け、市場から好感され株価が上昇しています。",
+    "insight": "エンジニア採用市場の動向はIT業界の成長性に直結するため、HRテック企業の経営指標は注視すべきです。特にプラットフォーム型ビジネスにおけるスケーラビリティと営業利益率の成長曲線は、開発リソースをどこに投下すべきかの示唆にもなります。",
+    "sourceUrl": "https://finance.yahoo.co.jp/news/detail/2d894b7e0baa6c586c7fe83026be6585944a02e8",
+    "sourceName": "Yahoo!ファイナンス",
+    "originalImageUrl": "https://s.yimg.jp/images/finance/common/image/ogp.png",
+    "originalImageArticleUrl": "https://finance.yahoo.co.jp/news/detail/2d894b7e0baa6c586c7fe83026be6585944a02e8",
+    "displayDate": "2026-10-27"
+  },
+  "Gaming Monitor": {
+    "title": "NPUの活用法：DOOMを動かして性能を可視化",
+    "summary": "本来AI処理用であるNPUを活用し、名作ゲーム「DOOM」を動作させるという試みが話題です。普段は使用率0%で眠りがちなNPUの潜在能力を、遊び心とエンジニアリングで無理やり引き出す試みは、ハードウェアの可能性を探る興味深い事例となっています。",
+    "insight": "NPUをAI推論以外で活用するアプローチは、リソースの有効活用という点でエンジニアにとって非常に示唆に富んでいます。既存のアーキテクチャを異なる目的で再利用するハック的な視点は、最適化や新機能実装のヒントになり得ます。",
+    "sourceUrl": "https://pc.watch.impress.co.jp/docs/news/2151321.html",
+    "sourceName": "PC Watch",
+    "originalImageUrl": "https://pc.watch.impress.co.jp/img/pcw/list/2151/321/20261020_DOOM.png",
+    "originalImageArticleUrl": "https://pc.watch.impress.co.jp/docs/news/2151321.html",
+    "displayDate": "2026-10-27"
+  },
+  "SONY": {
+    "title": "スマホで空間オーディオ：マイクECM-AX10",
+    "summary": "ソニーが発売した超小型マイク「ECM-AX10」は、スマホに直挿しするだけで高品質な立体音響（空間オーディオ）を記録できる。わずか24gという携帯性を実現し、手軽なコンテンツ制作を加速させる注目の製品。",
+    "insight": "ハードウェアレベルでの空間オーディオキャプチャの簡便化は、モバイル動画クリエイターのUXを大きく向上させます。メタデータ処理とストリーミング技術の進化により、こうした小型デバイスでも高精度な音場再現が可能な点は、音声解析や次世代XRコンテンツ開発の観点でも興味深い動向です。",
+    "sourceUrl": "https://article.auone.jp/0557cf04-8cde-4150-9a6d-93b0df595348",
+    "sourceName": "au Webポータル",
+    "originalImageUrl": "https://newportal.portal.auone.jp/media/thumbnails/2026/10/26/https___gigazine_net_news_20261026-sony-microphone-ecm-ax10-appearance__w560.webp",
+    "originalImageArticleUrl": "https://article.auone.jp/0557cf04-8cde-4150-9a6d-93b0df595348",
+    "displayDate": "2026-10-27"
+  },
+  "Projector": {
+    "title": "ついにiPad miniが有機ELディスプレイに！",
+    "summary": "Appleが新型「iPad mini」を発表しました。シリーズで初めて有機EL（OLED）ディスプレイを採用。128GBのWi-Fiモデルで119,800円からとなり、11月6日に発売されます。カラーはミッドナイトとスターライトの2色展開です。",
+    "insight": "モバイルデバイスにおいて有機EL採用は、黒の表現力向上や消費電力の最適化など、UI表示やコンテンツ消費体験に直結する重要なアップデートです。高解像度での色再現性が向上したことで、モバイル開発におけるデザインの緻密な検証の重要性が再認識されます。",
+    "sourceUrl": "https://av.watch.impress.co.jp/docs/news/2151318.html",
+    "sourceName": "AV Watch",
+    "originalImageUrl": "https://av.watch.impress.co.jp/img/avw/list/2151/318/Apple-iPad-mini-hero-261026.jpg",
+    "originalImageArticleUrl": "https://av.watch.impress.co.jp/docs/news/2151318.html",
+    "displayDate": "2026-10-27"
+  },
+  "LED Wall Display": {
+    "title": "独の大学に超ワイドLEDウォール導入",
+    "summary": "ドイツの大学において、INFiLED製の超ワイドLEDウォールが導入されました。教育現場での視覚的な没入感や情報提示能力を向上させるため、高精細な大型ディスプレイの活用が進んでいます。",
+    "insight": "大学等のアカデミック用途で、従来のプロジェクターに代わりLEDウォールが普及しています。エンジニア視点では、アスペクト比の特殊な解像度を制御するスケーラー技術や、輝度・色域の空間一貫性が教育DXの鍵となります。",
+    "sourceUrl": "https://www.installation-international.com/case-studies/infiled-supplies-ultrawide-led-wall-for-german-university",
+    "sourceName": "Installation-international",
+    "originalImageUrl": "https://www.installation-international.com/wp-content/uploads/2026/10/unnamed-41.jpg",
+    "originalImageArticleUrl": "https://www.installation-international.com/case-studies/infiled-supplies-ultrawide-led-wall-for-german-university",
+    "displayDate": "2026-10-27"
+  },
+  "Production Monitor": {
+    "title": "DaVinci Resolve 21.1.2でAI性能が飛躍的に向上",
+    "summary": "Blackmagic DesignがリリースしたDaVinci Resolve 21.1.2では、Apple M6搭載機におけるIntelliSearchの解析速度が最大14倍に向上。AIツール全般のパフォーマンスが強化され、Intelグラフィックス環境での最適化やスクリプトAPIの拡張も行われました。",
+    "insight": "AIワークロードの最適化において、専用ハードウェア（NPUやGPUアクセラレーション）への依存度がさらに高まっています。エンジニアとしては、スクリプトAPIの拡張を活用した自動化パイプラインの構築や、AI推論性能のベンチマーク最適化が今後の開発の鍵となるでしょう。",
+    "sourceUrl": "https://www.newsshooter.com/2026/10/26/davinci-resolve-21-1-2/",
+    "sourceName": "Newsshooter",
+    "originalImageUrl": "https://media.newsshooter.com/wp-content/uploads/2026/10/Screenshot-2026-10-27-at-9.19.45.png",
+    "originalImageArticleUrl": "https://www.newsshooter.com/2026/10/26/davinci-resolve-21-1-2/",
+    "displayDate": "2026-10-27"
+  },
+  "Camera Control": {
+    "title": "スマホカメラの新境地：3つの200MPセンサーがもたらす課題",
+    "summary": "Oppo Find X10 Pro Maxが、スマートフォンとして世界初となる3つの200メガピクセルカメラを搭載。高解像度化が進むハードウェア競争の一方で、同社はソフトウェアによる独自性の追求に注力しており、画素数至上主義からの転換点となる可能性が注目されています。",
+    "insight": "モバイルデバイスにおいて、単なるセンサーの高画素化は飽和しており、今後はISPやAI処理による計算写真学的な「独自性」が競争軸となります。エンジニアとしては、ハードウェア制約の中でいかに処理パイプラインを最適化し、メーカーごとの絵作りの個性を実装するかが重要な技術課題です。",
+    "sourceUrl": "https://petapixel.com/2026/10/26/oppo-find-x10-pro-max-review-the-incredible-triple-200mp-cameras-are-only-half-the-story/",
+    "sourceName": "PetaPixel",
+    "originalImageUrl": "https://petapixel.com/assets/uploads/2026/10/oppo-find-x10-pro-max-review-featured.jpg",
+    "originalImageArticleUrl": "https://petapixel.com/2026/10/26/oppo-find-x10-pro-max-review-the-incredible-triple-200mp-cameras-are-only-half-the-story/",
+    "displayDate": "2026-10-27"
+  }
+}
