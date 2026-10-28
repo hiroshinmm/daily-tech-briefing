@@ -1,0 +1,102 @@
+{
+  "SRD / XR": {
+    "title": "ゴーグル不要のVR技術、九州大学が開発",
+    "summary": "九州大学の研究チームが、専用のヘッドセット（VRゴーグル）を装着することなくVR体験が可能な技術を開発した。2027年にもスタートアップを設立し、実用化を目指す方針。視覚的な没入感を高めつつ、デバイスの物理的負担を解消する新たな手法として注目される。",
+    "insight": "HMDの装着はユーザー体験の最大の障壁であり、光学技術によるデバイスレス化はXRの普及を加速させる重要な鍵です。エンジニアとしては、従来の空間コンピューティングにおけるUI/UXの設計思想が、物理的制約の変化によってどう再定義されるか注目すべきでしょう。",
+    "sourceUrl": "https://www.nikkei.com/article/DGXZQOSG015RX0R01C26A0000000/",
+    "sourceName": "日本経済新聞",
+    "originalImageUrl": "https://article-image-ix.nikkei.com/https%3A%2F%2Fimgix-proxy.n8s.jp%2FDSXZQO3782783026102026000000-1.jpg?auto=compress&bg=FFFF&crop=focalpoint&fit=crop&fm=jpg&h=630&upscale=false&w=1200&s=e0399095402d4cbeae00a2c5c340d615",
+    "originalImageArticleUrl": "https://www.nikkei.com/article/DGXZQOSG015RX0R01C26A0000000/",
+    "displayDate": "2026-10-28"
+  },
+  "AI": {
+    "title": "急増するAI活用型サイバー攻撃の脅威",
+    "summary": "セキュリティ大手各社は、Webサイトの脆弱性探索にAIが利用されるケースが急増していると報告しました。攻撃者はAIによる自動化で効率的に弱点を見つけ出し、攻撃の規模と精度を高めており、企業のセキュリティ対策にはこれまで以上の迅速さが求められています。",
+    "insight": "AIを利用した自動脆弱性スキャンや攻撃コード生成の敷居が下がっており、防御側もAIを用いたリアルタイム監視や自動パッチ適用へのシフトが必須です。エンジニアは、攻撃側が「AIによる探索の自動化」を前提としていることを理解し、従来のシグネチャベースを超えた挙動ベースの検知を強化する必要があります。",
+    "sourceUrl": "https://news.yahoo.co.jp/articles/670394ece5aad3f9bc8d68afdbe80fd46a6b7db7",
+    "sourceName": "Yahoo!ニュース",
+    "originalImageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261028-00000012-jij-000-19-view.jpg?exp=10800",
+    "originalImageArticleUrl": "https://news.yahoo.co.jp/articles/670394ece5aad3f9bc8d68afdbe80fd46a6b7db7",
+    "displayDate": "2026-10-28"
+  },
+  "TV": {
+    "title": "LG DisplayのOLED累計販売5,000万台突破",
+    "summary": "LG Displayは、同社のOLEDパネルの累計販売台数が5,000万台を突破したと発表しました。2013年の量産開始以来、プレミアムTV市場におけるOLEDの存在感は着実に拡大しており、技術的な成熟と市場シェアの定着を示しています。",
+    "insight": "OLED技術の普及は、製造プロセスの安定化とコスト効率の改善を示唆しています。エンジニアとしては、ディスプレイの省電力化や高精細化といったハードウェア側の進化が、エッジコンピューティングや高負荷なグラフィック処理を扱う開発環境に与える影響に注目すべきです。",
+    "sourceUrl": "https://www.businesskorea.co.kr/news/articleView.html?idxno=279823",
+    "sourceName": "Businesskorea",
+    "originalImageUrl": "https://www.businesskorea.co.kr/news/thumbnail/202610/279823_287572_642_v150.jpg",
+    "originalImageArticleUrl": "https://www.businesskorea.co.kr/news/articleView.html?idxno=279823",
+    "displayDate": "2026-10-28"
+  },
+  "Camera Control": {
+    "title": "液晶搭載マウス「Super Mouse」が登場",
+    "summary": "Arctic Fox Technologiesが発表した「Super Mouse」は、マウス本体にタッチスクリーンを内蔵したユニークなデバイス。アプリごとのショートカットや設定を直接操作できるため、クリエイティブツール使用時のワークフロー効率化が期待されます。",
+    "insight": "入力デバイスのハードウェアに直接UIを統合するアプローチは、キーボードのカスタマイズ文化の延長として興味深いです。OSやドライバ側でいかに柔軟なAPIを提供できるかが、生産性を左右する重要な鍵となるでしょう。",
+    "sourceUrl": "https://petapixel.com/2026/10/27/this-mouse-has-a-built-in-touchscreen-and-customizable-app-controls/",
+    "sourceName": "PetaPixel",
+    "originalImageUrl": "https://petapixel.com/assets/uploads/2026/10/Artboard-1.jpg",
+    "originalImageArticleUrl": "https://petapixel.com/2026/10/27/this-mouse-has-a-built-in-touchscreen-and-customizable-app-controls/",
+    "displayDate": "2026-10-28"
+  },
+  "Gaming Monitor": {
+    "title": "国内PC市場、出荷台数は3分の2に縮小するも単価は1.6倍へ",
+    "summary": "2026年度上期の国内PC市場は、出荷台数が前年同期比で約33%減少した一方、平均単価は1.6倍に急騰しました。需要低迷の長期化が懸念される中、高機能モデルへのシフトや付加価値化が市場の主要トレンドとなっています。",
+    "insight": "ハードウェアエンジニアリングの観点では、単価上昇は高単価部品（高性能GPUや高精細パネル等）の採用率向上を示唆しています。製品のコモディティ化が進む中で、いかに付加価値を差別化して高単価を維持するかが、今後の製品設計戦略の鍵となるでしょう。",
+    "sourceUrl": "https://pc.watch.impress.co.jp/docs/news/2151743.html",
+    "sourceName": "PC Watch",
+    "originalImageUrl": "https://pc.watch.impress.co.jp/img/pcw/list/2151/743/1.png",
+    "originalImageArticleUrl": "https://pc.watch.impress.co.jp/docs/news/2151743.html",
+    "displayDate": "2026-10-28"
+  },
+  "TCL": {
+    "title": "TCLの新型量子ドットTV「C8L」が輝度5400nitsを突破",
+    "summary": "TCLの最新モデル「C8L」が、スーパー量子ドット技術とミニLEDを組み合わせ、驚異の最大輝度5400nits超えを記録。画質評価でも高い性能が証明され、ハイエンドディスプレイ市場での存在感を強めています。",
+    "insight": "ミニLEDバックライトと量子ドットの組み合わせによる高輝度化は、HDRコンテンツの表現力を飛躍的に向上させています。エンジニアの視点では、PWM調光制御や局所調光アルゴリズムの進化が、いかにしてこの圧倒的なピーク輝度とコントラスト比を両立させているのかという実装面が非常に興味深いトピックです。",
+    "sourceUrl": "https://news.livedoor.com/topics/detail/32673660/",
+    "sourceName": "AV Watch",
+    "originalImageUrl": "https://image.news.livedoor.com/newsimage/stf/d/3/d3660_1841_dfdb3e0ebdc7312331cb5554a489d1cb.jpg",
+    "originalImageArticleUrl": "https://news.livedoor.com/topics/detail/32673660/",
+    "displayDate": "2026-10-28"
+  },
+  "Projector": {
+    "title": "LGの超短焦点4Kプロジェクターがもたらす空間変革",
+    "summary": "LGから発売された4K超短焦点レーザープロジェクター「HU925V」は、わずか5.6cmの壁際から90インチの投写を実現。AI技術を搭載し、省スペースかつ大画面のホームシアター環境を構築可能です。",
+    "insight": "設置距離の物理的制約を極限まで排除する超短焦点技術は、UI/UXを物理空間へ拡張する際の重要なアーキテクチャといえます。ハードウェア性能の向上だけでなく、AIによる自動台形補正や画質調整が、複雑な設定を不要にするエンドユーザー体験の向上に直結しています。",
+    "sourceUrl": "https://dime.jp/genre/2166100/",
+    "sourceName": "@DIME アットダイム",
+    "originalImageUrl": "https://dime.jp/wp-content/uploads/2026/10/1557-1200x675.jpg",
+    "originalImageArticleUrl": "https://dime.jp/genre/2166100/",
+    "displayDate": "2026-10-28"
+  },
+  "SONY": {
+    "title": "ソニー、6型裸眼3Dディスプレイ「ELF-MN1」発売",
+    "summary": "ソニーは、専用メガネ不要で3Dコンテンツを立体視できる6インチの小型空間再現ディスプレイ「ELF-MN1」を12月に発売します。USB-C接続によりスマホ等から手軽に3D映像を出力でき、デジタルフィギュアサービス「ホロモデル」などとの連携も発表されました。実売5万円台と個人ユーザーの手が届く価格帯で、今後のデスクトップ向け3D表現の普及が期待されます。",
+    "insight": "ライトフィールドディスプレイ技術の小型化は、AR/VRデバイスを使わない新しい没入型UIの構築において重要なマイルストーンです。特にUSB-Cによるプラグ＆プレイ対応は、WebXR開発におけるテスト環境や、アバター表示用の外付けコンポーネントとしての可能性を広げるでしょう。",
+    "sourceUrl": "https://news.kakaku.com/prdnews/cd=pc/ctcd=0085/id=159881/",
+    "sourceName": "kakaku.com",
+    "originalImageUrl": "https://img1.kakaku.k-img.com/Images/news_icv/1200x630/2026102/20261028104639_810_.jpg",
+    "originalImageArticleUrl": "https://news.kakaku.com/prdnews/cd=pc/ctcd=0085/id=159881/",
+    "displayDate": "2026-10-28"
+  },
+  "LED Wall Display": {
+    "title": "空港のデジタルサイネージ、実は狙われている？",
+    "summary": "空港の出発案内板などのディスプレイは、単なる映像機器ではなくOSやネットワークを備えた「コンピュータ」です。管理の不備を突くとハッキングのリスクがあり、空港運営者は機密性の高いシステムから物理的な分離（エアギャップ等）を行うなど、セキュリティ強化が急務となっています。",
+    "insight": "大型LEDウォールやディスプレイはSoC化が進んでおり、ソフトウェア脆弱性がそのまま物理的な影響に直結します。エンジニアとしては、デバイス管理を単なる「映像送出」ではなく、エッジコンピューティングのセキュリティ境界として再定義し、マルチレイヤーでの防御を設計する必要があります。",
+    "sourceUrl": "https://www.digitalsignagetoday.com/blogs/every-departure-board-runs-on-a-computer-is-anyone-guarding-it/",
+    "sourceName": "Digital Signage Today",
+    "originalImageUrl": "https://nmgprod.s3.amazonaws.com/media/file/1b/3e/9862938ef9a46d95fcf8b9de24b1/cover_image__jL7dZ3jY__AdobeStock_2008194340.jpeg.360x190_q85_crop_upscale.webp",
+    "originalImageArticleUrl": "https://www.digitalsignagetoday.com/blogs/every-departure-board-runs-on-a-computer-is-anyone-guarding-it/",
+    "displayDate": "2026-10-28"
+  },
+  "Production Monitor": {
+    "title": "Apple、M6チップ搭載MacとFinal Cut Pro刷新",
+    "summary": "Appleは2nmプロセスを採用したM6チップ搭載のMacBook ProおよびiMacを発表しました。同時にCreator Studioのアップデートも発表され、買収したMotionVFXのプラグインがFinal Cut Proにネイティブ統合されるなど、クリエイティブ環境の連携が大幅に強化されます。",
+    "insight": "2nmプロセスのM6チップ採用は、電力効率と処理能力の向上においてハードウェアエンジニアリングの注目点です。また、買収したツールを標準機能として統合するAppleのプラットフォーム戦略は、ソフトウェアの垂直統合によるUX改善の好例と言えます。",
+    "sourceUrl": "https://www.cined.com/apple-creator-studio-update-announced-motionvfx-in-final-cut-pro-generate-fill-cinematic-mode-encoding/",
+    "sourceName": "CineD",
+    "originalImageUrl": "https://www.cined.com/content/uploads/2026/10/Apple-Creator-Studio-Final-Cut-Pro-MotionVFX-261027-300x169.jpg",
+    "originalImageArticleUrl": "https://www.cined.com/apple-creator-studio-update-announced-motionvfx-in-final-cut-pro-generate-fill-cinematic-mode-encoding/",
+    "displayDate": "2026-10-28"
+  }
+}
