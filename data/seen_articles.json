@@ -1,10 +1,6 @@
 {
   "Production Monitor": [
     {
-      "url": "https://www.cined.com/cinemaos-cutroom-and-invideo-compared-mac-studio-app-free-open-source-editor-cloud-ai-agent/",
-      "date": "2026-10-22"
-    },
-    {
       "url": "https://www.cined.com/blackmagic-design-raises-prices-cuts-resolve-artcrafts-ai-built-adobe-clones-camera-form-factor-poll-focus-check-ep139/",
       "date": "2026-10-23"
     },
@@ -27,13 +23,13 @@
     {
       "url": "https://www.cined.com/apple-creator-studio-update-announced-motionvfx-in-final-cut-pro-generate-fill-cinematic-mode-encoding/",
       "date": "2026-10-28"
+    },
+    {
+      "url": "https://www.cined.com/apple-touch-screen-macbook-pro-announced-proled-xdr-tandem-oled-display-m5-pro-and-m5-max-genlock/",
+      "date": "2026-10-29"
     }
   ],
   "SRD / XR": [
-    {
-      "url": "https://prtimes.jp/main/html/rd/p/000000090.000034037.html",
-      "date": "2026-10-22"
-    },
     {
       "url": "https://news.yahoo.co.jp/articles/ce287cc5152dd218dca8ed3aea98ab30fc3c1213",
       "date": "2026-10-23"
@@ -57,13 +53,13 @@
     {
       "url": "https://www.nikkei.com/article/DGXZQOSG015RX0R01C26A0000000/",
       "date": "2026-10-28"
+    },
+    {
+      "url": "https://japan.cnet.com/article/35254124/",
+      "date": "2026-10-29"
     }
   ],
   "AI": [
-    {
-      "url": "https://ledge.ai/articles/artex_cairn_ai_cyberattacks",
-      "date": "2026-10-22"
-    },
     {
       "url": "https://www.reuters.com/jp/economy/ERHNNAXQYNPXXNVLILDOJOVTGY-2026-10-22/",
       "date": "2026-10-23"
@@ -87,13 +83,13 @@
     {
       "url": "https://news.yahoo.co.jp/articles/670394ece5aad3f9bc8d68afdbe80fd46a6b7db7",
       "date": "2026-10-28"
+    },
+    {
+      "url": "https://news.yahoo.co.jp/articles/898612fb12ec9b79f4dca51028a5bf5a4f1ca0eb",
+      "date": "2026-10-29"
     }
   ],
   "Gaming Monitor": [
-    {
-      "url": "https://www.prnewswire.com/apac/news-releases/philips-evnia-unveils-latest-gaming-monitors-featuring-the-worlds-first-36-inch-260hz-display-built-for-gamers-302915106.html",
-      "date": "2026-10-22"
-    },
     {
       "url": "https://pc.watch.impress.co.jp/docs/news/2150544.html",
       "date": "2026-10-23"
@@ -117,13 +113,13 @@
     {
       "url": "https://pc.watch.impress.co.jp/docs/news/2151743.html",
       "date": "2026-10-28"
+    },
+    {
+      "url": "https://pc.watch.impress.co.jp/docs/news/2152094.html",
+      "date": "2026-10-29"
     }
   ],
   "TCL": [
-    {
-      "url": "https://www.bunsekik.com/%E3%83%87%E3%82%A3%E3%82%B9%E3%83%97%E3%83%AC%E3%82%A4%E9%96%A2%E9%80%A3%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9/omdia%E4%BA%88%E6%B8%AC-2026%E5%B9%B4%E3%81%AE%E6%9C%89%E6%A9%9Fel%E3%83%A2%E3%83%8B%E3%82%BF%E3%83%BC%E3%83%91%E3%83%8D%E3%83%AB%E5%87%BA%E8%8D%B7%E9%87%8F%E3%81%AF%E9%80%9A%E5%B9%B4%E3%81%A779-%E5%A2%97-asus%E3%81%8C%E6%9C%80%E5%A4%A7%E3%81%AE%E8%AA%BF%E9%81%94%E8%80%85%E3%81%AB-tcl-csot%E3%81%8Cijp%E6%9C%89%E6%A9%9Fel%E3%81%A7%E6%96%B0%E8%A6%8F%E5%8F%82%E5%85%A5-%E4%BE%A1%E6%A0%BC%E4%BD%8E%E4%B8%8B%E3%81%8C%E5%B8%82%E5%A0%B4%E6%8E%A1%E7%94%A8%E3%82%92%E5%BE%8C%E6%8A%BC%E3%81%97%E3%81%972027%E5%B9%B4%E3%81%AB%E3%81%AF750%E4%B8%87%E5%8F%B0%E3%81%B8/",
-      "date": "2026-10-22"
-    },
     {
       "url": "https://www.dailyindependent.com.pk/2026/10/22/beyond-mini-led-the-engineering-behind-tcls-sqd-mini-led/",
       "date": "2026-10-23"
@@ -147,13 +143,13 @@
     {
       "url": "https://news.livedoor.com/topics/detail/32673660/",
       "date": "2026-10-28"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBzbjJKN2lMNVhPRUduV2ZtdV9OaHM5bHdTWTl6WDFrMkdDZ0dCZlBLbEREZHk4TjRiTmFuQkozYlkzcnFOaEpjNXhIMXF4V0k5NkViNGN2aGpNNWVCdWc?oc=5",
+      "date": "2026-10-29"
     }
   ],
   "Camera Control": [
-    {
-      "url": "https://petapixel.com/2026/10/21/new-iphone-camera-app-makes-you-wait-to-see-your-photos/",
-      "date": "2026-10-22"
-    },
     {
       "url": "https://www.dpreview.com/news/oppos-find-x10-pro-max-puts-200mp-sensors-behind-all-three-rear-cameras/",
       "date": "2026-10-23"
@@ -177,13 +173,13 @@
     {
       "url": "https://petapixel.com/2026/10/27/this-mouse-has-a-built-in-touchscreen-and-customizable-app-controls/",
       "date": "2026-10-28"
+    },
+    {
+      "url": "https://petapixel.com/2026/10/28/apple-unveils-its-first-ever-macbook-pro-with-a-touchscreen-oled/",
+      "date": "2026-10-29"
     }
   ],
   "LED Wall Display": [
-    {
-      "url": "//www.ledinside.com/news/2026/10/2026_10_21_01",
-      "date": "2026-10-22"
-    },
     {
       "url": "https://www.digitalsignagetoday.com/blogs/omnivex-leader-talks-data-in-digital-signage-strategies/",
       "date": "2026-10-23"
@@ -207,13 +203,13 @@
     {
       "url": "https://www.digitalsignagetoday.com/blogs/every-departure-board-runs-on-a-computer-is-anyone-guarding-it/",
       "date": "2026-10-28"
+    },
+    {
+      "url": "//www.ledinside.com/news/2026/10/2026_10_28_05",
+      "date": "2026-10-29"
     }
   ],
   "SONY": [
-    {
-      "url": "https://virtual.reality.news/news/sony-sells-xr-patents-to-meta-what-the-filings-show/",
-      "date": "2026-10-22"
-    },
     {
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5jZjJucndUbGVoejlNTklOcTBrWVVaM19tWnNYUHlkSmhraG5taTIybXdZdEhLVkdOQ2lCd1hObDFIamVITXEzYnA3d2M5Yl9aejlqcXJreTBFRFRmT1NNRDZUV3lNS2gz?oc=5",
       "date": "2026-10-23"
@@ -237,13 +233,13 @@
     {
       "url": "https://news.kakaku.com/prdnews/cd=pc/ctcd=0085/id=159881/",
       "date": "2026-10-28"
+    },
+    {
+      "url": "https://news.nicovideo.jp/watch/nw19931402?news_ref=watch_50_nw19840280",
+      "date": "2026-10-29"
     }
   ],
   "TV": [
-    {
-      "url": "https://news.yahoo.co.jp/articles/c6ca3bde812e1fa8d164a32c13667d341cb726ee",
-      "date": "2026-10-22"
-    },
     {
       "url": "https://www.flatpanelshd.com/news.php?subaction=showfull&id=1792674000",
       "date": "2026-10-23"
@@ -267,13 +263,13 @@
     {
       "url": "https://www.businesskorea.co.kr/news/articleView.html?idxno=279823",
       "date": "2026-10-28"
+    },
+    {
+      "url": "https://forbesjapan.com/articles/detail/106130",
+      "date": "2026-10-29"
     }
   ],
   "Projector": [
-    {
-      "url": "https://online.stereosound.co.jp/_ct/17871358",
-      "date": "2026-10-22"
-    },
     {
       "url": "https://av.watch.impress.co.jp/docs/series/yoshida/2147681.html",
       "date": "2026-10-23"
@@ -297,6 +293,10 @@
     {
       "url": "https://dime.jp/genre/2166100/",
       "date": "2026-10-28"
+    },
+    {
+      "url": "https://news.kakaku.com/prdnews/cd=pc/ctcd=0088/id=159896/",
+      "date": "2026-10-29"
     }
   ]
 }

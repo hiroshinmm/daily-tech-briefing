@@ -1,0 +1,102 @@
+{
+  "SRD / XR": {
+    "title": "Googleと協業する新型XRグラス「XREAL AURA」が11月発売",
+    "summary": "GoogleのAndroid XRを搭載した新型スマートグラス「XREAL AURA」が発表され、日本国内では11月2日より注文受付が開始されます。これに合わせ、人気VRゲーム『東京クロノス』の対応も決定しており、スタンドアロンXRデバイスとしての市場拡大が注目されています。",
+    "insight": "Android XRプラットフォームの採用は、開発者にとってエコシステム統合の大きな転換点となります。今後、既存のVR/ARアプリがどのようにプラットフォームを跨いで最適化されるか、SDKの仕様変更を注視する必要があります。",
+    "sourceUrl": "https://japan.cnet.com/article/35254124/",
+    "sourceName": "CNET Japan",
+    "originalImageUrl": "https://japan.cnet.com/storage/2026/10/29/53718b5407581a3a10c85fb7749ce7b5/05_XREALAURA_20261029_large.jpg",
+    "originalImageArticleUrl": "https://japan.cnet.com/article/35254124/",
+    "displayDate": "2026-10-29"
+  },
+  "AI": {
+    "title": "サムスンの営業益が9倍に。AI半導体需要が牽引",
+    "summary": "サムスンの2024年第3四半期営業利益が前年同期比で約9倍に急増しました。AI需要の拡大に伴うHBM（広帯域メモリ）などのAI向け半導体事業の好調さが業績を押し上げており、AIハードウェア市場の勢いを示しています。",
+    "insight": "AIモデルの進化だけでなく、それを支えるGPU/メモリ供給網がビジネスの勝敗を決定づけています。エンジニアとしては、アルゴリズムの効率化に加え、インフラ負荷を考慮したスケーラブルなシステム設計の重要性がさらに増しています。",
+    "sourceUrl": "https://news.yahoo.co.jp/articles/898612fb12ec9b79f4dca51028a5bf5a4f1ca0eb",
+    "sourceName": "Yahoo!ニュース",
+    "originalImageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261029-00000048-reut-000-1-view.jpg?exp=10800",
+    "originalImageArticleUrl": "https://news.yahoo.co.jp/articles/898612fb12ec9b79f4dca51028a5bf5a4f1ca0eb",
+    "displayDate": "2026-10-29"
+  },
+  "Gaming Monitor": {
+    "title": "ついにMacがタッチ対応へ！新型MacBook Pro発表",
+    "summary": "Appleがタッチ操作対応の「PROLED XDRディスプレイ搭載MacBook Pro」を発表。タンデムOLEDを採用し、ディスプレイ性能と操作性を大幅に向上させた。11月6日発売で価格は49万9,800円から。",
+    "insight": "長年の「Macでタッチ操作」というUI/UXの議論に終止符を打つハードウェア刷新です。タンデムOLEDによる高輝度・高コントラスト化とタッチ入力の統合により、クリエイティブワークフローにおけるエンジニアの生産性向上にどう寄与するかが注目されます。",
+    "sourceUrl": "https://pc.watch.impress.co.jp/docs/news/2152094.html",
+    "sourceName": "PC Watch",
+    "originalImageUrl": "https://pc.watch.impress.co.jp/img/pcw/list/2152/094/1.jpg",
+    "originalImageArticleUrl": "https://pc.watch.impress.co.jp/docs/news/2152094.html",
+    "displayDate": "2026-10-29"
+  },
+  "TCL": {
+    "title": "2026年最新テレビ市場：RGB・Mini LEDの技術比較",
+    "summary": "2026年上半期のテレビ市場トレンドとして、最新のRGB方式テレビと、TCLが強みを持つMini LEDモデル、およびOLEDとの比較分析が注目されています。特に画質指標であるBT.2020カバー率など、ディスプレイの進化が加速しています。",
+    "insight": "最新のディスプレイ技術において、従来のMini LEDに加え、RGB方式による広色域化が差別化の焦点となっています。エンジニア視点では、単なる画素数向上よりも色域の再現性やコントラスト制御アルゴリズムが製品評価の主戦場となっている点に注目すべきです。",
+    "sourceUrl": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBzbjJKN2lMNVhPRUduV2ZtdV9OaHM5bHdTWTl6WDFrMkdDZ0dCZlBLbEREZHk4TjRiTmFuQkozYlkzcnFOaEpjNXhIMXF4V0k5NkViNGN2aGpNNWVCdWc?oc=5",
+    "sourceName": "Mashable",
+    "originalImageUrl": null,
+    "originalImageArticleUrl": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBzbjJKN2lMNVhPRUduV2ZtdV9OaHM5bHdTWTl6WDFrMkdDZ0dCZlBLbEREZHk4TjRiTmFuQkozYlkzcnFOaEpjNXhIMXF4V0k5NkViNGN2aGpNNWVCdWc?oc=5",
+    "displayDate": "2026-10-29"
+  },
+  "TV": {
+    "title": "テレビ広告のDX：Amazon Prime Videoが選ばれる理由",
+    "summary": "Prime Video広告が、従来のテレビ視聴体験に新たなリーチをもたらしている。サテライトオフィスが選定した背景には、従来のテレビCMでは計測困難だった詳細なターゲット分析と、ストリーミングプラットフォーム特有の視聴者エンゲージメントの高さがある。",
+    "insight": "エンジニア視点では、テレビという既存メディアとOTT（ストリーミング）広告の統合が加速している点に注目すべきです。広告配信の裏側では、精緻なユーザーデータとリアルタイムのインプレッション計測が組み合わされており、システム設計におけるデータパイプラインの柔軟性と広告SDKの統合技術が今後さらに重要になります。",
+    "sourceUrl": "https://forbesjapan.com/articles/detail/106130",
+    "sourceName": "Forbes JAPAN",
+    "originalImageUrl": "https://images.forbesjapan.com/media/article/106130/images/main_image_9b41cdba14e4a82f92b4319544979bcfd84e9d21.jpg",
+    "originalImageArticleUrl": "https://forbesjapan.com/articles/detail/106130",
+    "displayDate": "2026-10-29"
+  },
+  "Projector": {
+    "title": "BenQ、最新AI搭載のゴルフプロジェクターを発表",
+    "summary": "BenQからゴルフシミュレーション環境に特化した最新プロジェクター「AK800ST」「AK900ST」が登場。AI技術を駆使し、ゴルフ練習やシミュレーター用途で高精度な映像体験を提供する。",
+    "insight": "プロジェクターの用途が従来の映画鑑賞から、AIを用いた特定スポーツ環境の再現へ拡大しています。映像の投影だけでなく、センシングや解析データと連携するスマート空間の構築は、今後のハードウェア開発において重要なトレンドです。",
+    "sourceUrl": "https://news.kakaku.com/prdnews/cd=pc/ctcd=0088/id=159896/",
+    "sourceName": "kakaku.com",
+    "originalImageUrl": "https://img1.kakaku.k-img.com/Images/news_icv/1200x630/2026102/20261028175055_596_.jpg",
+    "originalImageArticleUrl": "https://news.kakaku.com/prdnews/cd=pc/ctcd=0088/id=159896/",
+    "displayDate": "2026-10-29"
+  },
+  "Camera Control": {
+    "title": "ついにMacBook Proがタッチパネル化！Appleの大きな転換点",
+    "summary": "Appleがタッチスクリーンを搭載した初のMacBook Proを発表しました。OLEDディスプレイを採用し、伝統的なインターフェースの常識を覆す設計変更となります。かつてのスティーブ・ジョブズの思想を塗り替える、PC市場における歴史的な転換点です。",
+    "insight": "デスクトップOSとモバイルOSのUI境界がさらに曖昧になり、クリエイターのワークフローやアプリ開発のUX設計に大きな影響を与えるでしょう。特に画像編集や映像制作などのクリエイティブツールにおいて、タッチ操作前提の新しいGUI実装が求められます。",
+    "sourceUrl": "https://petapixel.com/2026/10/28/apple-unveils-its-first-ever-macbook-pro-with-a-touchscreen-oled/",
+    "sourceName": "PetaPixel",
+    "originalImageUrl": "https://petapixel.com/assets/uploads/2026/10/Apple-MacBook-Pro-with-PROLED-XDR-Display-OLED-technology-261028.mp4",
+    "originalImageArticleUrl": "https://petapixel.com/2026/10/28/apple-unveils-its-first-ever-macbook-pro-with-a-touchscreen-oled/",
+    "displayDate": "2026-10-29"
+  },
+  "SONY": {
+    "title": "ソニー、裸眼で立体視できる6型空間再現ディスプレイ『ELF-MN1』を発表",
+    "summary": "ソニーが、専用メガネ不要で立体映像を表示できる空間再現ディスプレイの小型モデル「ELF-MN1」を発表しました。6インチの画面サイズで、デスク上のPCと接続して手軽に3Dコンテンツやデジタルフィギュアを楽しめるのが特徴です。従来機よりも導入しやすい価格帯となり、パーソナルユースでの活用が期待されています。",
+    "insight": "裸眼立体視技術の小型化・低価格化は、3DモデリングやUI/UXデザインのレビューフローを大きく変える可能性があります。エンジニアとしては、SDKを活用した独自の空間UI開発や、Web 3Dコンテンツの空間表現最適化における新たな検証ターゲットとして注目すべきデバイスです。",
+    "sourceUrl": "https://news.nicovideo.jp/watch/nw19931402?news_ref=watch_50_nw19840280",
+    "sourceName": "ニコニコニュース",
+    "originalImageUrl": null,
+    "originalImageArticleUrl": "https://news.nicovideo.jp/watch/nw19931402?news_ref=watch_50_nw19840280",
+    "displayDate": "2026-10-29"
+  },
+  "LED Wall Display": {
+    "title": "次世代通信を支えるGaN Micro-LEDの技術的ブレイクスルー",
+    "summary": "イリノイ大学（UIUC）の研究チームが、GaN（窒化ガリウム）ベースの青色マイクロLEDで2.75GHzという記録的な変調帯域幅を達成しました。この技術は、データセンター内の銅線インターコネクトを置き換え、AIコンピューティングにおけるエネルギーと帯域幅のボトルネックを解消する鍵として期待されています。",
+    "insight": "通信インフラやデータセンターにおけるボトルネック解消に対し、光無線通信（Li-Fi）やオンチップ光通信の文脈でMicro-LEDが注目されています。単なるディスプレイ用途を超え、高速スイッチング性能を持つ半導体素子としての応用範囲が広がっており、インフラエンジニアは注目すべき技術トレンドです。",
+    "sourceUrl": "//www.ledinside.com/news/2026/10/2026_10_28_05",
+    "sourceName": "LEDinside",
+    "originalImageUrl": null,
+    "originalImageArticleUrl": "//www.ledinside.com/news/2026/10/2026_10_28_05",
+    "displayDate": "2026-10-29"
+  },
+  "Production Monitor": {
+    "title": "ついに実現！タッチパネル搭載の新型MacBook Proが登場",
+    "summary": "Appleが待望のタッチスクリーンを搭載した新型MacBook Proを発表しました。PROLED XDR（Tandem OLED）ディスプレイを採用し、ピーク輝度2000nit、高いコントラスト比を実現。M5 Pro/Maxチップを搭載し、Genlockサポートなど映像制作の現場に特化したプロ仕様のノートPCとして刷新されました。",
+    "insight": "Macでのタッチ操作解禁は、UI/UX設計における新たなパラダイムシフトを意味します。特に映像編集においてハードウェアとOSがどこまでタッチ入力を最適化し、既存のキーボード/トラックパッドワークフローと共存できるのか注目です。",
+    "sourceUrl": "https://www.cined.com/apple-touch-screen-macbook-pro-announced-proled-xdr-tandem-oled-display-m5-pro-and-m5-max-genlock/",
+    "sourceName": "CineD",
+    "originalImageUrl": "https://www.cined.com/content/uploads/2026/10/MacBook-Pro-Touch-featured-300x169.jpg",
+    "originalImageArticleUrl": "https://www.cined.com/apple-touch-screen-macbook-pro-announced-proled-xdr-tandem-oled-display-m5-pro-and-m5-max-genlock/",
+    "displayDate": "2026-10-29"
+  }
+}
