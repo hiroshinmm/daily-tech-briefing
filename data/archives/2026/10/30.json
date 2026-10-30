@@ -1,0 +1,102 @@
+{
+  "Gaming Monitor": {
+    "title": "Baiduが長文OCRモデルをオープン公開",
+    "summary": "Baiduが数百ページのドキュメントを高速解析可能な「Unlimited OCR 2」を公開しました。コードや重みはMITライセンスでGitHub等から入手可能であり、開発者が自身のシステムに高度なOCR機能を組み込む際の強力な選択肢となります。",
+    "insight": "長文処理能力に特化したモデルがMITライセンスで公開されたことは、ドキュメント解析パイプラインの構築において非常に有用です。既存のOCRツールと比較して、どのような推論コストや精度差があるか評価する価値があります。",
+    "sourceUrl": "https://pc.watch.impress.co.jp/docs/news/2152310.html",
+    "sourceName": "PC Watch",
+    "originalImageUrl": "https://pc.watch.impress.co.jp/img/pcw/list/2152/310/001.jpg",
+    "originalImageArticleUrl": "https://pc.watch.impress.co.jp/docs/news/2152310.html",
+    "displayDate": "2026-10-30"
+  },
+  "AI": {
+    "title": "米大手銀行がAIエージェントのアクセスを警戒",
+    "summary": "米大手銀行が、AIエージェントによる自動アクセスをセキュリティ上の脅威として警戒を強めている。パスワードの共有や不適切なアクセスに対して警告や遮断を実施しており、API利用や認証プロセスの見直しが求められている。",
+    "insight": "AIエージェントが自律的にタスクを遂行する時代において、従来のユーザー認証やセキュリティ境界は崩壊しつつあります。エンジニアは、意図しないアクセスを防ぐための厳格なAPI制限やレートリミットの設定、そしてエージェント特有のアクセス権限管理を再設計する必要があります。",
+    "sourceUrl": "https://japan.zdnet.com/article/35254200/",
+    "sourceName": "ZDNET Japan",
+    "originalImageUrl": "https://japan.zdnet.com/storage/2026/10/30/e5d5b62e6663b0e679758bd310a3c420/boapowerGettyImages-1554399408_667584_1280.jpg",
+    "originalImageArticleUrl": "https://japan.zdnet.com/article/35254200/",
+    "displayDate": "2026-10-30"
+  },
+  "SRD / XR": {
+    "title": "VR体験施設ブームは本物か？市場の動向を考察",
+    "summary": "TKPやGENDAなど大手企業の相次ぐ参入により、VR体験施設が活況を呈している。35万人超えの集客を記録する施設も現れる中、現在のブームが持続可能なのか、バブルなのかを分析する動きが強まっている。",
+    "insight": "体験型エンターテインメントへの投資が加速する一方で、ハードウェアの普及とコンテンツの継続的なアップデートがビジネスモデルの鍵を握ります。エンジニアの視点では、単なる一過性の演出にとどまらない、スケーラブルな運用基盤やユーザーリテンションを高めるUX設計が重要になるでしょう。",
+    "sourceUrl": "https://xtrend.nikkei.com/atcl/contents/18/01413/00005/?i_cid=nbpnxr_new_top_all_03",
+    "sourceName": "日経クロストレンド",
+    "originalImageUrl": "https://xtrend.nikkei.com/atcl/contents/18/01413/00005/nxr_m.jpg",
+    "originalImageArticleUrl": "https://xtrend.nikkei.com/atcl/contents/18/01413/00005/?i_cid=nbpnxr_new_top_all_03",
+    "displayDate": "2026-10-30"
+  },
+  "TCL": {
+    "title": "TCLがSamsungを提訴？Mini LED商標巡る争い",
+    "summary": "TCLが、自社の「Mini LED」技術のマーケティングに関してSamsungを提訴しました。業界標準となりつつあるMini LED技術の呼称やブランディングを巡り、テレビ市場の競争が法廷闘争へと発展しています。",
+    "insight": "パネル技術の商標やマーケティング用語の定義は、競争優位性を左右する重要な知財戦略です。エンジニアの視点では、ディスプレイのスペック表記が技術的な差別化とどう結びついているのか、各社のマーケティング主張を比較することで技術トレンドの裏側が見えてきます。",
+    "sourceUrl": "https://www.slashgear.com/2295197/why-tcl-suing-samsung-over-mini-led-marketing/",
+    "sourceName": "SlashGear",
+    "originalImageUrl": "https://www.slashgear.com/img/gallery/why-tcl-is-suing-samsung-for-using-mini-led-to-market-its-tvs/l-intro-1792762731.jpg",
+    "originalImageArticleUrl": "https://www.slashgear.com/2295197/why-tcl-suing-samsung-over-mini-led-marketing/",
+    "displayDate": "2026-10-30"
+  },
+  "SONY": {
+    "title": "ソニー、VENICE 2対応の新型「RIALTO 65」発表",
+    "summary": "ソニーは、ハイエンドシネマカメラ「VENICE 2」の性能を拡張するシステム「RIALTO 65」の発売情報を公開しました。65mmフォーマットに対応し、9.6K解像度を実現。価格は約8万ドルで、プロフェッショナルな映像制作現場における撮影の自由度を劇的に向上させる新機材として注目されています。",
+    "insight": "9.6Kという超高解像度と65mm大判センサーの組み合わせは、データパイプラインとセンサー読み出し速度の両面で非常に高度なエンジニアリング技術を要します。特にカメラ本体とセンサー部を分離するRIALTOシステムにおいて、この帯域幅を維持する伝送技術はハードウェア設計の重要な指標となります。",
+    "sourceUrl": "https://ymcinema.com/2026/10/29/sony-rialto-65-9-6k-cinema-camera-price/",
+    "sourceName": "Y.M.Cinema Magazine",
+    "originalImageUrl": "https://ymcinema.com/wp-content/uploads/2026/10/Sony-Reveals-the-Price-of-Its-9.6K-65mm-Cinema-Camera-System-80000.001.webp",
+    "originalImageArticleUrl": "https://ymcinema.com/2026/10/29/sony-rialto-65-9-6k-cinema-camera-price/",
+    "displayDate": "2026-10-30"
+  },
+  "Projector": {
+    "title": "XGIMI、4K/120Hz対応の最新プロジェクター「HORIZON 30」シリーズ",
+    "summary": "XGIMIから、高輝度・高コントラストに加え、4K/120Hzという高いリフレッシュレートを実現したスマートプロジェクター「HORIZON 30」シリーズが登場。滑らかな映像体験を追求したモデルとして注目されています。",
+    "insight": "プロジェクターにおいて4K/120Hz対応は、高精細な映像だけでなく、低遅延が求められるゲーミング用途やスポーツ観戦でのUXを劇的に向上させます。リフレッシュレートの向上は、プロジェクターが単なる映画鑑賞用から、低遅延モニターとしての役割を兼ね備える転換点を示しています。",
+    "sourceUrl": "https://dime.jp/genre/2165546/",
+    "sourceName": "@DIME アットダイム",
+    "originalImageUrl": "https://dime.jp/wp-content/uploads/2026/10/01-179-1200x675.jpg",
+    "originalImageArticleUrl": "https://dime.jp/genre/2165546/",
+    "displayDate": "2026-10-30"
+  },
+  "TV": {
+    "title": "TV×デジタルの最適化がマーケティングの鍵に",
+    "summary": "テレビCMとデジタル広告を横断し、購買の前段階にある「兆し」をデータで可視化する手法が注目されている。アッパーからミドルファネルまでを統合的に最適化し、精度の高い分析を行う動きが加速している。",
+    "insight": "エンジニアとしては、断片化された広告データをいかに統合し、リアルタイムで可視化パイプラインを構築するかが課題となる。データレイクにおけるアトリビューション分析の高度化は、今後のマーケティング基盤開発において重要な技術テーマである。",
+    "sourceUrl": "https://www.advertimes.com/20261030/article561595/",
+    "sourceName": "AdverTimes.（アドタイ） by 宣伝会議",
+    "originalImageUrl": "https://cdn.advertimes.com/wp-content/uploads/2026/10/senden12_062_063_hakuhodo_ogp.jpg",
+    "originalImageArticleUrl": "https://www.advertimes.com/20261030/article561595/",
+    "displayDate": "2026-10-30"
+  },
+  "LED Wall Display": {
+    "title": "BMWのMicroLEDドアハンドル特許：車体への統合技術",
+    "summary": "BMWが、MicroLEDディスプレイと指紋認証センサーを内蔵した車用ドアハンドルの特許を出願しました。ガラスやプラスチックの裏側に極薄のMicroLEDフィルムを配置することで、突起物を作らずに車両の状態表示やロゴ表示を可能にする革新的なデザインです。",
+    "insight": "MicroLEDの薄さと高輝度・高効率という特性を活かし、情報デバイスとしてのUIを物理的な操作部位（ハンドル）に統合する好例です。車載HMI（ヒューマン・マシン・インターフェース）における「隠されたディスプレイ」のトレンドとして、埋め込み型回路設計の新たな可能性を示唆しています。",
+    "sourceUrl": "https://www.ledinside.com/news/2026/10/2026_10_29_05",
+    "sourceName": "LEDinside",
+    "originalImageUrl": "https://p.ledinside.com/led/2026-10/1793254993_84504.jpg",
+    "originalImageArticleUrl": "https://www.ledinside.com/news/2026/10/2026_10_29_05",
+    "displayDate": "2026-10-30"
+  },
+  "Camera Control": {
+    "title": "Canon、AI需要でメモリ価格高騰とカメラ値上げの可能性を示唆",
+    "summary": "Canonは、生成AIブームに伴うメモリ需要の逼迫により、2027年にカメラの価格が上昇する可能性を指摘しました。同社は供給コストの上昇が価格転嫁を避けられない要因になると予測しており、業界全体への影響も懸念されています。",
+    "insight": "AI分野の爆発的な成長が、ハードウェア製造におけるサプライチェーンにまで波及している点が興味深いです。エンジニアとしては、特定の技術トレンドが異分野の資材調達コストや製品ロードマップにどう影響するかを常に観察しておく必要があります。",
+    "sourceUrl": "https://www.dpreview.com/news/canon-says-camera-prices-could-rise-in-2027/",
+    "sourceName": "DPReview",
+    "originalImageUrl": "https://www.dpreview.com/wp-content/uploads/2026/10/Canon-price-increases-16x9-Lead-1.jpg",
+    "originalImageArticleUrl": "https://www.dpreview.com/news/canon-says-camera-prices-could-rise-in-2027/",
+    "displayDate": "2026-10-30"
+  },
+  "Production Monitor": {
+    "title": "32-bit float録音の真実：ハードの限界と誤解",
+    "summary": "Sonyのオーディオ専門家Markus Warlich氏が、32-bit float録音の仕組みを解説。現在、真の32-bit A/Dコンバータは存在せず、24-bitコンバータ2基のスタックで実現されていると指摘。ソフト上の見せかけのスペックに警鐘を鳴らしました。",
+    "insight": "データのビット深度を上げる際、単なる演算上の拡張（スケーリング）と、物理的なA/Dコンバータのダイナミックレンジ拡張を混同してはいけないという教訓です。システム設計において、ブラックボックス化された「規格」がいかに実装されているかを精査することの重要性を再確認できます。",
+    "sourceUrl": "https://www.cined.com/wireless-audio-demystified-sonys-markus-warlich-on-2-4-ghz-vs-uhf-real-32-bit-float-and-the-shrinking-spectrum-focus-check-ep140/",
+    "sourceName": "CineD",
+    "originalImageUrl": "https://www.cined.com/content/uploads/2026/10/CineD_Focus-Check_ep140-300x169.jpeg",
+    "originalImageArticleUrl": "https://www.cined.com/wireless-audio-demystified-sonys-markus-warlich-on-2-4-ghz-vs-uhf-real-32-bit-float-and-the-shrinking-spectrum-focus-check-ep140/",
+    "displayDate": "2026-10-30"
+  }
+}
