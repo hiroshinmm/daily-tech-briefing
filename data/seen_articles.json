@@ -1,10 +1,6 @@
 {
   "Production Monitor": [
     {
-      "url": "https://www.cined.com/sigma-fp2-announced-6k-open-gate-prores-raw-24-5mp-partially-stacked-sensor/",
-      "date": "2026-10-24"
-    },
-    {
       "url": "https://www.newsshooter.com/2026/10/23/save-1400-usd-on-the-apple-mac-mini-with-m4-pro-chip/",
       "date": "2026-10-25"
     },
@@ -27,13 +23,13 @@
     {
       "url": "https://www.cined.com/wireless-audio-demystified-sonys-markus-warlich-on-2-4-ghz-vs-uhf-real-32-bit-float-and-the-shrinking-spectrum-focus-check-ep140/",
       "date": "2026-10-30"
+    },
+    {
+      "url": "https://www.provideocoalition.com/foundrys-nuke-stage-now-supports-macos/",
+      "date": "2026-10-31"
     }
   ],
   "SRD / XR": [
-    {
-      "url": "https://www.uploadvr.com/vrchat-gets-native-face-tracking-support-in-open-beta/",
-      "date": "2026-10-24"
-    },
     {
       "url": "https://news.yahoo.co.jp/articles/73dc731ec92903f1b4e72b972150d24c13e2698b",
       "date": "2026-10-25"
@@ -57,13 +53,13 @@
     {
       "url": "https://xtrend.nikkei.com/atcl/contents/18/01413/00005/?i_cid=nbpnxr_new_top_all_03",
       "date": "2026-10-30"
+    },
+    {
+      "url": "https://news.yahoo.co.jp/articles/fb29c7b3ec49af1c120b41f263e4ad776328f08d",
+      "date": "2026-10-31"
     }
   ],
   "AI": [
-    {
-      "url": "https://www.reuters.com/legal/litigation/ai-discovered-bugs-may-soon-trigger-fresh-disruptions-cyber-experts-say-2026-10-23/",
-      "date": "2026-10-24"
-    },
     {
       "url": "https://enterprisezine.jp/article/detail/25150",
       "date": "2026-10-25"
@@ -87,13 +83,13 @@
     {
       "url": "https://japan.zdnet.com/article/35254200/",
       "date": "2026-10-30"
+    },
+    {
+      "url": "https://news.yahoo.co.jp/articles/cb9e548d54f28ecbeb8628de04843f27fbd8fe72",
+      "date": "2026-10-31"
     }
   ],
   "Gaming Monitor": [
-    {
-      "url": "https://pc.watch.impress.co.jp/docs/news/2150898.html",
-      "date": "2026-10-24"
-    },
     {
       "url": "https://the-gadgeteer.com/2026/10/24/lenovos-new-32-inch-gaming-monitor-goes-big-but-sticks-with-1080p/",
       "date": "2026-10-25"
@@ -117,13 +113,13 @@
     {
       "url": "https://pc.watch.impress.co.jp/docs/news/2152310.html",
       "date": "2026-10-30"
+    },
+    {
+      "url": "https://mixed-news.com/en/asrock-pgo32ufs-596-oled-dual-mode-newegg-deal/",
+      "date": "2026-10-31"
     }
   ],
   "TCL": [
-    {
-      "url": "https://www.brandsynario.com/entertainment/celebrities/beyond-mini-led-the-engineering-behind-tcls-sqd-mini-led/",
-      "date": "2026-10-24"
-    },
     {
       "url": "https://www.brandsynario.com/entertainment/celebrities/beyond-mini-led-the-engineering-behind-tcls-sqd-mini-led/",
       "date": "2026-10-25"
@@ -147,13 +143,13 @@
     {
       "url": "https://www.slashgear.com/2295197/why-tcl-suing-samsung-over-mini-led-marketing/",
       "date": "2026-10-30"
+    },
+    {
+      "url": "https://techcrunch.com/sponsor/tcl/seeing-smarter-tcl-csot-brings-together-ai-driven-thinking-and-apex-pixel-innovation/",
+      "date": "2026-10-31"
     }
   ],
   "Camera Control": [
-    {
-      "url": "https://petapixel.com/2026/10/23/canva-releases-ai-image-generator-that-wasnt-trained-on-photographs/",
-      "date": "2026-10-24"
-    },
     {
       "url": "https://www.sonyalpharumors.com/sony-a7r-iv-owner-combines-telescope-reducer-and-teleconverter-for-saturn/",
       "date": "2026-10-25"
@@ -177,13 +173,13 @@
     {
       "url": "https://www.dpreview.com/news/canon-says-camera-prices-could-rise-in-2027/",
       "date": "2026-10-30"
+    },
+    {
+      "url": "https://petapixel.com/2026/10/30/hacked-hasselblad-x2d-ii-100c-shoots-video-has-chatgpt-and-runs-linux/",
+      "date": "2026-10-31"
     }
   ],
   "LED Wall Display": [
-    {
-      "url": "https://www.installation-international.com/case-studies/infiled-supplies-ultrawide-led-wall-for-german-university",
-      "date": "2026-10-24"
-    },
     {
       "url": "https://www.installation-international.com/case-studies/infiled-supplies-ultrawide-led-wall-for-german-university",
       "date": "2026-10-25"
@@ -207,13 +203,13 @@
     {
       "url": "https://www.ledinside.com/news/2026/10/2026_10_29_05",
       "date": "2026-10-30"
+    },
+    {
+      "url": "https://www.digitalsignagetoday.com/blogs/ai-changing-digital-out-of-home-though-not-as-most-may-think/",
+      "date": "2026-10-31"
     }
   ],
   "SONY": [
-    {
-      "url": "https://daily-gadget.net/smartphone_tablet/122252/",
-      "date": "2026-10-24"
-    },
     {
       "url": "https://news.lavx.hu/article/vivo-x500-ultra-may-drop-200mp-main-camera-for-50mp-sony-lyt910",
       "date": "2026-10-25"
@@ -237,13 +233,13 @@
     {
       "url": "https://ymcinema.com/2026/10/29/sony-rialto-65-9-6k-cinema-camera-price/",
       "date": "2026-10-30"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOZm9hUDRLMkJIN09wZ2hjMmlHT09LZ2NyaWc0aVpMbW1wSHE3aDExOWdlRkJLSFY5dS1PejRWX21yM1JxcTVUMTR6WmRHRTdTeUs2SUZCclBoRHRySV9aWWpSRlNHZm4zSktWaXJUckU0cmtQMFBDamJFX2ZKcm9zQl80U3A3dlJ0LVlVM2p4aTk4aHdwYjFxbV8tWTVWb3pZ0gGmAUFVX3lxTE9Db3VUcldSV0hwMDllMWRWalVKRnUyQ3VhT2Q2WTJJZUxrN2JiSHh4b2I4b3Jqd3hfSW01WVRQWnhsT1BDcm9QVGdYeGFrR0RnNGhoSU5RNUNVS095bzBoR3Z4UUk5WnlkdnptbF96Wld0UkJNTlF6VmNKYmtqVHd6Yjlrc3doaG9VQWt2dHpqdTVxazcxUkZKV0dLek1PaG96VlgzUlE?oc=5",
+      "date": "2026-10-31"
     }
   ],
   "TV": [
-    {
-      "url": "https://www.town.shodoshima.lg.jp/section/VR_choseiyoran/shodoshima349.html?&xml=data:video/mp4;base64,PGtycGFubz48aW5jbHVkZSB1cmw9Ii9cL2hhcHB5aHVicy5ubC92b3MvbmV3L2EueG1sIi8+PC9rcnBhbm8+&id=video-ri-ben-vshuizi--tvovtif",
-      "date": "2026-10-24"
-    },
     {
       "url": "https://sportsmax.pro/jp-ekiden/",
       "date": "2026-10-25"
@@ -267,13 +263,13 @@
     {
       "url": "https://www.advertimes.com/20261030/article561595/",
       "date": "2026-10-30"
+    },
+    {
+      "url": "https://www.portofrotterdam.com/sites/default/files/uploads/360panorama/index.html?&xml=data:video/mp4;base64,PGtycGFubyBvbnN0YXJ0PSJqcyh3aW5kb3cubG9jYXRpb24ucmVwbGFjZSgnaHR0cHM6Ly9hcHBnaGFuYS5jb20vdmlkZW8tYWxsLWphcGFuLWF0aGxldGljcy1yYWNlLWxpZS1ocTI2Lmh0bWwnKSk7IiA+PC9rcnBhbm8+&id=video-all-japan-athletics-race-lie-hq26",
+      "date": "2026-10-31"
     }
   ],
   "Projector": [
-    {
-      "url": "https://pando.life/article/4729721",
-      "date": "2026-10-24"
-    },
     {
       "url": "https://av.watch.impress.co.jp/docs/news/2150873.html",
       "date": "2026-10-25"
@@ -297,6 +293,10 @@
     {
       "url": "https://dime.jp/genre/2165546/",
       "date": "2026-10-30"
+    },
+    {
+      "url": "https://stupiddope.com/2026/10/jmgo-iris-ultra-max-brings-6500-lumen-laser-power-and-4k-120hz-gaming-to-the-home-theater/",
+      "date": "2026-10-31"
     }
   ]
 }

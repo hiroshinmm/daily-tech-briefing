@@ -1,0 +1,102 @@
+{
+  "AI": {
+    "title": "GMOのAI人材評価軸に「トークン管理」が登場",
+    "summary": "Claudeを積極的に活用するGMOインターネットグループにおいて、AI人材を評価する指標が変化している。従来のスキルに加え、APIコストや効率性を左右する「トークン管理」が、実務上の重要なコンピテンシーとして重視され始めている。",
+    "insight": "LLMのAPI利用が普及する中、トークン効率の最適化はエンジニアにとって単なるコスト削減以上の技術課題となっています。単にLLMを叩くコードを書く段階から、プロンプトエンジニアリングやコンテキスト設計を含めた「トークンあたりの成果最大化」を設計できるスキルが重要視される時代になっています。",
+    "sourceUrl": "https://news.yahoo.co.jp/articles/cb9e548d54f28ecbeb8628de04843f27fbd8fe72",
+    "sourceName": "TechTargetジャパン",
+    "originalImageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261031-00000009-zdn_tt-000-1-view.jpg?exp=10800",
+    "originalImageArticleUrl": "https://news.yahoo.co.jp/articles/cb9e548d54f28ecbeb8628de04843f27fbd8fe72",
+    "displayDate": "2026-10-31"
+  },
+  "SRD / XR": {
+    "title": "世界ARグラス出荷台数、倍増へ。メタと中国勢が牽引",
+    "summary": "世界的なARグラス市場が急拡大しており、出荷台数が倍増する見通しです。Metaなどの大手米企業に加え、中国勢の台頭が市場を牽引しており、ウェアラブルデバイスとしてのARグラスが本格的な普及期に差し掛かっています。",
+    "insight": "ARグラスの普及はコンシューマー向けUI/UXの転換点であり、エンジニアはモバイルアプリから空間コンピューティングへの移行を意識する必要があります。特に軽量化とバッテリー駆動時間の最適化が、次のプラットフォーム覇権を握る鍵となるでしょう。",
+    "sourceUrl": "https://news.yahoo.co.jp/articles/fb29c7b3ec49af1c120b41f263e4ad776328f08d",
+    "sourceName": "Yahoo!ニュース",
+    "originalImageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261031-00010001-krjapan-000-1-view.jpg?exp=10800",
+    "originalImageArticleUrl": "https://news.yahoo.co.jp/articles/fb29c7b3ec49af1c120b41f263e4ad776328f08d",
+    "displayDate": "2026-10-31"
+  },
+  "Gaming Monitor": {
+    "title": "ゲーミングモニター価格破壊！4K/240Hzが600ドル以下に",
+    "summary": "ASRockから32インチ4K/240Hz（480Hzモード搭載）の有機ELゲーミングモニターが約596ドルで登場するなど、高性能ディスプレイの価格競争が激化しています。高リフレッシュレートかつ高解像度の環境が急速に一般層へ普及しつつあります。",
+    "insight": "最新のOLEDパネルで4K 240Hz以上の駆動が可能になり、ハードウェア側の出力帯域やDisplayPort規格の限界をどう最適化するかが開発の焦点となっています。PC環境においてGPUの性能を余すことなく体験できる「描画の高速化と低遅延化」へのハードルが劇的に下がっており、今後はデスクトップ開発におけるディスプレイ性能の底上げが重要になります。",
+    "sourceUrl": "https://mixed-news.com/en/asrock-pgo32ufs-596-oled-dual-mode-newegg-deal/",
+    "sourceName": "MIXED News",
+    "originalImageUrl": "https://mixed-news.com/en/wp-content/uploads/2026/10/asrock-pgo32ufs-hero.jpg",
+    "originalImageArticleUrl": "https://mixed-news.com/en/asrock-pgo32ufs-596-oled-dual-mode-newegg-deal/",
+    "displayDate": "2026-10-31"
+  },
+  "TCL": {
+    "title": "TCL CSOTがAI×ディスプレイ技術で新たな画質革命へ",
+    "summary": "TCLのディスプレイ部門であるCSOTが、AIを活用した画質向上技術「APEX Pixel」を発表しました。ハードウェアの限界を超えるAI駆動の信号処理により、次世代の視覚体験を提供することを目指しています。",
+    "insight": "AIモデルをディスプレイの信号処理パイプラインに直接統合する手法は、今後のパネル開発における重要な差別化要素となります。高リフレッシュレートや高輝度化といった物理スペックの競争から、AIによる適応的な画質最適化へと開発トレンドがシフトしています。",
+    "sourceUrl": "https://techcrunch.com/sponsor/tcl/seeing-smarter-tcl-csot-brings-together-ai-driven-thinking-and-apex-pixel-innovation/",
+    "sourceName": "TechCrunch",
+    "originalImageUrl": "https://techcrunch.com/wp-content/uploads/2026/05/TCL-CSOT-SID-2026-booth_171.jpg.jpeg?resize=1200,779",
+    "originalImageArticleUrl": "https://techcrunch.com/sponsor/tcl/seeing-smarter-tcl-csot-brings-together-ai-driven-thinking-and-apex-pixel-innovation/",
+    "displayDate": "2026-10-31"
+  },
+  "Camera Control": {
+    "title": "Hasselblad X2D II 100CでLinuxとChatGPTが動作",
+    "summary": "高級中判カメラ「Hasselblad X2D II 100C」をハッキングし、Linuxの実行やChatGPTの統合、動画撮影を実現するプロジェクトが話題です。本来は静止画専用の機体で汎用OSを動かす技術的な試みが注目されています。",
+    "insight": "ファームウェアの制限を回避し、専用機に汎用的な演算環境を持ち込む試みは、組み込みエンジニアとして非常に興味深いです。カメラのハードウェアリソースをオープンソースで再定義するこのアプローチは、将来的なデバイスカスタマイズの可能性を広げます。",
+    "sourceUrl": "https://petapixel.com/2026/10/30/hacked-hasselblad-x2d-ii-100c-shoots-video-has-chatgpt-and-runs-linux/",
+    "sourceName": "PetaPixel",
+    "originalImageUrl": "https://petapixel.com/assets/uploads/2026/10/hassel-hack.jpg",
+    "originalImageArticleUrl": "https://petapixel.com/2026/10/30/hacked-hasselblad-x2d-ii-100c-shoots-video-has-chatgpt-and-runs-linux/",
+    "displayDate": "2026-10-31"
+  },
+  "Projector": {
+    "title": "ホームシアターの進化：4K/120Hzゲーミング対応プロジェクター登場",
+    "summary": "JMGOから、6,500ルーメンの高輝度レーザー光源と4K/120Hzの高リフレッシュレート表示に対応したホームシアター用プロジェクター「IRIS Ultra Max」が登場しました。映画鑑賞だけでなく、次世代コンソールゲーム機での高画質ゲーミング性能にも焦点を当てた製品です。",
+    "insight": "プロジェクターの低遅延・高リフレッシュレート対応が進み、リビングが本格的なゲーミング環境として再定義されています。高輝度化と高速描画の両立は、AV機器とゲーミングデバイスの境界を曖昧にする重要なトレンドと言えるでしょう。",
+    "sourceUrl": "https://stupiddope.com/2026/10/jmgo-iris-ultra-max-brings-6500-lumen-laser-power-and-4k-120hz-gaming-to-the-home-theater/",
+    "sourceName": "stupidDOPE",
+    "originalImageUrl": "https://stupiddope.com/wp-content/uploads/2026/10/JMGO-IRIS-Ultra-Max-Brings-6500-Lumen-Laser-Power-and-4K-120Hz-Gaming-to-the-Home-Theater.jpg",
+    "originalImageArticleUrl": "https://stupiddope.com/2026/10/jmgo-iris-ultra-max-brings-6500-lumen-laser-power-and-4k-120hz-gaming-to-the-home-theater/",
+    "displayDate": "2026-10-31"
+  },
+  "TV": {
+    "title": "2026秋の陸上競技大会ライブ配信の増加",
+    "summary": "2026年10月末、全国各地で大学や高校、マスターズなど多岐にわたる陸上競技大会が開催され、その様子がライブ配信されています。地域ごとの記録会や駅伝大会が網羅的に中継されており、スポーツイベントのオンライン配信環境がますます整備されています。",
+    "insight": "地方大会レベルでも高画質なリアルタイム配信が標準化しており、分散型のエッジコンピューティングや低遅延ストリーミング技術の需要が高まっています。エンジニア視点では、こうした多拠点同時配信におけるCDNの最適化やトラフィック管理の重要性が再認識されます。",
+    "sourceUrl": "https://www.portofrotterdam.com/sites/default/files/uploads/360panorama/index.html?&xml=data:video/mp4;base64,PGtycGFubyBvbnN0YXJ0PSJqcyh3aW5kb3cubG9jYXRpb24ucmVwbGFjZSgnaHR0cHM6Ly9hcHBnaGFuYS5jb20vdmlkZW8tYWxsLWphcGFuLWF0aGxldGljcy1yYWNlLWxpZS1ocTI2Lmh0bWwnKSk7IiA+PC9rcnBhbm8+&id=video-all-japan-athletics-race-lie-hq26",
+    "sourceName": "Google ニュース",
+    "originalImageUrl": "https://www.portofrotterdam.com/sites/default/files/styles/large/public/Port360-Maasvlakte-2.PNG",
+    "originalImageArticleUrl": "https://www.portofrotterdam.com/sites/default/files/uploads/360panorama/index.html?&xml=data:video/mp4;base64,PGtycGFubyBvbnN0YXJ0PSJqcyh3aW5kb3cubG9jYXRpb24ucmVwbGFjZSgnaHR0cHM6Ly9hcHBnaGFuYS5jb20vdmlkZW8tYWxsLWphcGFuLWF0aGxldGljcy1yYWNlLWxpZS1ocTI2Lmh0bWwnKSk7IiA+PC9rcnBhbm8+&id=video-all-japan-athletics-race-lie-hq26",
+    "displayDate": "2026-10-31"
+  },
+  "SONY": {
+    "title": "ソニー、8万ドルの大型65mmセンサーカメラ「RIALTO 65」を発表",
+    "summary": "ソニーが、65mmの大型センサーを搭載したシネマカメラシステム「RIALTO 65」を正式発表しました。価格は約8万ドルで、2027年の登場が予定されています。圧倒的な画質とシネマ制作のワークフロー革新を目指すハイエンド製品です。",
+    "insight": "65mmフォーマットの採用は、デジタルシネマにおけるセンサー大型化の極致といえます。ハードウェアエンジニアとしては、放熱設計や超高解像度データの高速伝送処理など、この規模のシステムをどう安定稼働させるかの技術的要件に注目すべきです。",
+    "sourceUrl": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOZm9hUDRLMkJIN09wZ2hjMmlHT09LZ2NyaWc0aVpMbW1wSHE3aDExOWdlRkJLSFY5dS1PejRWX21yM1JxcTVUMTR6WmRHRTdTeUs2SUZCclBoRHRySV9aWWpSRlNHZm4zSktWaXJUckU0cmtQMFBDamJFX2ZKcm9zQl80U3A3dlJ0LVlVM2p4aTk4aHdwYjFxbV8tWTVWb3pZ0gGmAUFVX3lxTE9Db3VUcldSV0hwMDllMWRWalVKRnUyQ3VhT2Q2WTJJZUxrN2JiSHh4b2I4b3Jqd3hfSW01WVRQWnhsT1BDcm9QVGdYeGFrR0RnNGhoSU5RNUNVS095bzBoR3Z4UUk5WnlkdnptbF96Wld0UkJNTlF6VmNKYmtqVHd6Yjlrc3doaG9VQWt2dHpqdTVxazcxUkZKV0dLek1PaG96VlgzUlE?oc=5",
+    "sourceName": "SonyAlphaRumors",
+    "originalImageUrl": null,
+    "originalImageArticleUrl": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOZm9hUDRLMkJIN09wZ2hjMmlHT09LZ2NyaWc0aVpMbW1wSHE3aDExOWdlRkJLSFY5dS1PejRWX21yM1JxcTVUMTR6WmRHRTdTeUs2SUZCclBoRHRySV9aWWpSRlNHZm4zSktWaXJUckU0cmtQMFBDamJFX2ZKcm9zQl80U3A3dlJ0LVlVM2p4aTk4aHdwYjFxbV8tWTVWb3pZ0gGmAUFVX3lxTE9Db3VUcldSV0hwMDllMWRWalVKRnUyQ3VhT2Q2WTJJZUxrN2JiSHh4b2I4b3Jqd3hfSW01WVRQWnhsT1BDcm9QVGdYeGFrR0RnNGhoSU5RNUNVS095bzBoR3Z4UUk5WnlkdnptbF96Wld0UkJNTlF6VmNKYmtqVHd6Yjlrc3doaG9VQWt2dHpqdTVxazcxUkZKV0dLek1PaG96VlgzUlE?oc=5",
+    "displayDate": "2026-10-31"
+  },
+  "Production Monitor": {
+    "title": "VFXの定番「Nuke Stage」がmacOSに対応",
+    "summary": "Foundry社のバーチャルプロダクション向けツール「Nuke Stage」がmacOSを正式サポートしました。Apple ProResやGenlock、複数Macでの同期レンダリングが可能になり、制作パイプラインの柔軟性が大幅に向上します。",
+    "insight": "クリエイティブツールがOSの制約を越えてハードウェアの選択肢を広げることは、ワークフローの民主化を加速させます。特にmacOSでのネイティブサポートは、エッジコンピューティングや可搬性の高い撮影現場での活用を大きく前進させるでしょう。",
+    "sourceUrl": "https://www.provideocoalition.com/foundrys-nuke-stage-now-supports-macos/",
+    "sourceName": "ProVideo Coalition",
+    "originalImageUrl": "https://www.provideocoalition.com/wp-content/uploads/fusionnews001.jpg",
+    "originalImageArticleUrl": "https://www.provideocoalition.com/foundrys-nuke-stage-now-supports-macos/",
+    "displayDate": "2026-10-31"
+  },
+  "LED Wall Display": {
+    "title": "DOOH広告の未来：AIによる運用最適化とデータ活用",
+    "summary": "デジタル屋外広告（DOOH）におけるAI活用が、単なるコンテンツ生成から、広告枠の在庫管理・価格設定・需要予測といったバックエンドのインテリジェンスへとシフトしています。AIにより、膨大なデータをリアルタイムで分析し、広告主と媒体社双方にとって最適なマッチングが可能になることで、ディスプレイ運用の効率化が進んでいます。",
+    "insight": "AIを単なる演出ツールではなく、バックエンドのメタデータ管理やダイナミック・プライシングのエンジンとして捉える視点が重要です。技術的には、在庫の正規化やAPI連携によるシームレスな広告配信基盤の構築が、今後のディスプレイ・エンジニアリングの差別化要因になるでしょう。",
+    "sourceUrl": "https://www.digitalsignagetoday.com/blogs/ai-changing-digital-out-of-home-though-not-as-most-may-think/",
+    "sourceName": "Digital Signage Today",
+    "originalImageUrl": "https://nmgprod.s3.amazonaws.com/media/file/ae/00/e489f2abc607c5fa59045f8daf6f/cover_image__wC5jxsf7__AdobeStock_1580822921.jpeg.360x190_q85_crop_upscale.webp",
+    "originalImageArticleUrl": "https://www.digitalsignagetoday.com/blogs/ai-changing-digital-out-of-home-though-not-as-most-may-think/",
+    "displayDate": "2026-10-31"
+  }
+}
