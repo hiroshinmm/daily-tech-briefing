@@ -1,0 +1,102 @@
+{
+  "AI": {
+    "title": "AIエージェントによる業務変革と雇用への影響",
+    "summary": "Fortune誌によると、ある企業がAIエージェントを活用することで、従来のマーケティング職を削減し、より少人数の高度なスキルを持つ人材への置き換えを実施した事例が報じられました。AIによる業務効率化が、組織構造と採用戦略を根本から変えつつある現状を示しています。",
+    "insight": "AIエージェントの導入は単なる自動化ツールを超え、特定の職務を代替する戦略的転換点にあります。エンジニアとしては、エージェントを使いこなす側へのシフトや、人間とAIが共存する新しいワークフローの設計が求められるでしょう。",
+    "sourceUrl": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPSWZKdFhOWThXOVZoZm95VVpscmhQNnJBUmdCMGs5bFRHNk5POGptZ0tuTFZUVVRfdEZtUnY4LTVwNlkxbGNMbFdxMEJIR1VLRm9hMUUtd2hhdkVhSnRRajIwSjFBVlNWZVFHOHpmY1RrTnY2S2Q5X2wzMGxsVWNzSjc0bHc4WTZ1MEJz?oc=5",
+    "sourceName": "Fortune",
+    "originalImageUrl": null,
+    "originalImageArticleUrl": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPSWZKdFhOWThXOVZoZm95VVpscmhQNnJBUmdCMGs5bFRHNk5POGptZ0tuTFZUVVRfdEZtUnY4LTVwNlkxbGNMbFdxMEJIR1VLRm9hMUUtd2hhdkVhSnRRajIwSjFBVlNWZVFHOHpmY1RrTnY2S2Q5X2wzMGxsVWNzSjc0bHc4WTZ1MEJz?oc=5",
+    "displayDate": "2026-11-01"
+  },
+  "SRD / XR": {
+    "title": "『プロジェクト・ヘイル・メアリー』がVR/MRゲーム化",
+    "summary": "ベストセラーSF小説『プロジェクト・ヘイル・メアリー』の公式VR/MRゲーム開発映像が初公開されました。映画のような没入感のある宇宙船内を再現し、原作者自らがストーリーを担当。2026年内の発売が予定されており、原作ファン期待のタイトルとなっています。",
+    "insight": "IP（知的財産）を活用したVR/MR体験は、原作の空間を追体験する「ロケーション探索型」から、物語の当事者になる「ナラティブ重視型」へと進化しています。特にゲームエンジンによる空間計算処理やUI配置の最適化が、原作ファンを納得させる没入感を生む鍵となっています。",
+    "sourceUrl": "https://news.yahoo.co.jp/articles/003a0d3ca70500f2814057529957b42953186b23/images/000",
+    "sourceName": "Game Spark",
+    "originalImageUrl": "https://news-pctr.c.yimg.jp/uUzvQ3lML_bkIqyakc1vFhNrRI0RUQxg5aFkrX0xDg1_T0wXrbEJjtNGtrf1o9y3xudcUclfbXjZqAvGT8NJnekaBNfxtRwKRZ4ZcudOhKOM8yBW8yF2R2R7GfahwbAUudfDpBwC5i9Bj9OjZDUfAsR1UotQDUcSjQ-Aqk-eru5fH7daXBvr--maW6ZUJ_z8",
+    "originalImageArticleUrl": "https://news.yahoo.co.jp/articles/003a0d3ca70500f2814057529957b42953186b23/images/000",
+    "displayDate": "2026-11-01"
+  },
+  "Production Monitor": {
+    "title": "生成AI時代のインフラ：磁気テープ需要が5倍に急増",
+    "summary": "富士フイルムが生成AIの普及に伴うデータアーカイブ需要の増加に対応するため、データ保存用磁気テープの生産能力を5倍に引き上げると発表しました。100億円を投じ、神奈川工場で2026年度から順次生産を拡大します。",
+    "insight": "AI学習データの爆発的な増加により、安価で長寿命なコールドストレージとしての磁気テープが再評価されています。SREやインフラエンジニアにとっても、クラウドのストレージコスト最適化や長期保存戦略における物理メディアの重要性が改めて注目されるニュースです。",
+    "sourceUrl": "https://www.newsshooter.com/2026/10/31/fujifilm-to-increase-production-capacity-by-5x-for-magnetic-data-storage-tape/",
+    "sourceName": "Newsshooter",
+    "originalImageUrl": "https://media.newsshooter.com/wp-content/uploads/2026/10/FUJIFILM-1.jpg",
+    "originalImageArticleUrl": "https://www.newsshooter.com/2026/10/31/fujifilm-to-increase-production-capacity-by-5x-for-magnetic-data-storage-tape/",
+    "displayDate": "2026-11-01"
+  },
+  "SONY": {
+    "title": "ソニー、裸眼3Dディスプレイの新モデル「ELF-MN1」を発表",
+    "summary": "ソニーは、専用メガネやVRヘッドセットなしで立体視を実現する空間再現ディスプレイ（SRディスプレイ）の新モデル「ELF-MN1」を発表しました。6インチのコンパクトな筐体で、キャラクターや製品の3Dモデルをデスク上で手軽に表示可能です。",
+    "insight": "リアルタイムレンダリングにおける視差制御の技術として非常に興味深いです。特にデスクサイドでの小規模な3D表示用途は、クリエイターの作業効率向上や、UI/UXデザインの立体的な検証フローに新しい可能性をもたらすでしょう。",
+    "sourceUrl": "https://www.androidheadlines.com/2026/10/sony-elf-mn1-6-inch-3d-display-no-glasses.html",
+    "sourceName": "Android Headlines",
+    "originalImageUrl": "https://www.androidheadlines.com/wp-content/uploads/2026/10/Sony-ELF-MN1-glasses-free-3D-display-featured.jpg",
+    "originalImageArticleUrl": "https://www.androidheadlines.com/2026/10/sony-elf-mn1-6-inch-3d-display-no-glasses.html",
+    "displayDate": "2026-11-01"
+  },
+  "TCL": {
+    "title": "TCLの画質設定を最適化せよ：エンジニア向け調整ガイド",
+    "summary": "TCL製テレビの画質を劇的に改善する「すぐに変更すべき8つの設定」が公開されました。プリセット設定に頼らず、輝度やシャープネスなどのパラメータを適切にチューニングすることで、コンテンツ本来のポテンシャルを引き出す手法が解説されています。",
+    "insight": "ディスプレイのデフォルト設定はデモ用に調整されていることが多く、正確な階調や色再現を目指すエンジニアは必ず最適化が必要です。特にMini-LED搭載機では、ローカルディミング設定の挙動を理解し制御することが、視聴体験を向上させる鍵となります。",
+    "sourceUrl": "https://www.pocket-lint.com/8-tcl-smart-tv-picture-settings-you-should-change-immediately/",
+    "sourceName": "Pocket-lint",
+    "originalImageUrl": "https://static0.pocketlintimages.com/wordpress/wp-content/uploads/wm/2026/10/tcl-qm7l-picture-settings-hero-cc.jpg?w=1600&h=900&fit=crop",
+    "originalImageArticleUrl": "https://www.pocket-lint.com/8-tcl-smart-tv-picture-settings-you-should-change-immediately/",
+    "displayDate": "2026-11-01"
+  },
+  "TV": {
+    "title": "最新OLEDテレビの激戦：LG vs Samsung比較",
+    "summary": "ブラックフライデーを控え、LGやSamsungの最新OLEDテレビが大幅割引セールを実施中。技術系メディアでは、LG C6とSamsung S90Hの画質や性能を徹底比較するレビューが話題となっています。",
+    "insight": "家電の評価指標はパネル性能（輝度や応答速度）だけでなく、UIのUXやAIによるアップスケーリング処理の進化にシフトしています。エンジニア視点では、ディスプレイの駆動制御アルゴリズムや、家庭用OSとして最適化されたスマートTVプラットフォームの進化が注目ポイントです。",
+    "sourceUrl": "https://news.google.com/rss/articles/CBMihAJBVV95cUxNUU52SVpEVjdPcFVGTUZ0ckhOUEVWamtNRjhFb09mWXhDOEhCX0dWcWRMcElLRlVkOHNvNzd6bnZ5YnYwck0xc05iLTNkSGNib0ZOYncwTXZMcDdOMVl1VlFNRmV0c2I5M2pwZVlNc0Y3dk16aG50SUdleVc2b19ZdEJwYjZOSXlnU1JOQkxSWlhKdDFjRVhwd0tQOHFqeDh6dWpTelRXWFpGY1ROTmpJZTVXNkhNckh4RWJlSmctalNuMlVFVDZyekhwTGcyYnpRaW85VXYxZG1uREt3T3Y1WDZHS2VrRTRHN3ZNbVNJdjM3a2VKSXZyT3dsUUxKNjRfVnF1Tg?oc=5",
+    "sourceName": "TechRadar",
+    "originalImageUrl": null,
+    "originalImageArticleUrl": "https://news.google.com/rss/articles/CBMihAJBVV95cUxNUU52SVpEVjdPcFVGTUZ0ckhOUEVWamtNRjhFb09mWXhDOEhCX0dWcWRMcElLRlVkOHNvNzd6bnZ5YnYwck0xc05iLTNkSGNib0ZOYncwTXZMcDdOMVl1VlFNRmV0c2I5M2pwZVlNc0Y3dk16aG50SUdleVc2b19ZdEJwYjZOSXlnU1JOQkxSWlhKdDFjRVhwd0tQOHFqeDh6dWpTelRXWFpGY1ROTmpJZTVXNkhNckh4RWJlSmctalNuMlVFVDZyekhwTGcyYnpRaW85VXYxZG1uREt3T3Y1WDZHS2VrRTRHN3ZNbVNJdjM3a2VKSXZyT3dsUUxKNjRfVnF1Tg?oc=5",
+    "displayDate": "2026-11-01"
+  },
+  "Gaming Monitor": {
+    "title": "AOCが新型QD-OLEDゲーミングモニターを発表",
+    "summary": "AOCは、31.5インチの4K解像度で180Hz駆動に対応したゲーミングモニター「U32G5D」を発表しました。このモデルには、最新の5層構造QD-OLEDパネルが採用されており、高い色再現性と応答速度が期待されます。",
+    "insight": "QD-OLEDパネルの採用は、従来の液晶ディスプレイと比較してコントラスト比と応答速度の両面で劇的な改善をもたらします。ハードウェアエンジニアの視点からは、パネルの階層化による放熱設計や焼付き防止アルゴリズムの進化に注目すべきです。",
+    "sourceUrl": "https://videocardz.com/newz/aoc-launches-u32g5d-31-5-inch-4k-180hz-monitor-with-five-layer-qd-oled-panel",
+    "sourceName": "VideoCardz.com",
+    "originalImageUrl": "https://cdn.videocardz.com/1/2026/10/AOC-32-OLED-HERO.webp",
+    "originalImageArticleUrl": "https://videocardz.com/newz/aoc-launches-u32g5d-31-5-inch-4k-180hz-monitor-with-five-layer-qd-oled-panel",
+    "displayDate": "2026-11-01"
+  },
+  "Camera Control": {
+    "title": "Sony「Monitor & Control」アプリが機能拡充",
+    "summary": "Sonyのカメラ制御アプリ「Monitor & Control」がバージョン3.1.0にアップデートされ、α6700やZV-E10 IIに対応しました。ホワイトバランスの微調整やマルチカメラモニタリング時のフレームレート設定などが追加され、より高度な撮影ワークフローを実現します。",
+    "insight": "カメラのファームウェアと連携する制御アプリの重要性が増しており、APIやプロトコルによる外部制御の柔軟性が撮影体験の質を左右します。特に自動再接続機能などは、ライブ配信やプロフェッショナルな現場での安定稼働に直結する重要なエンジニアリングの改善です。",
+    "sourceUrl": "https://www.sonyalpharumors.com/version-3-1-0-of-the-sony-monitor-control-app-adds-support-for-the-a6700-and-zv-e10-ii/",
+    "sourceName": "sonyalpharumors",
+    "originalImageUrl": "https://www.sonyalpharumors.com/wp-content/uploads/2026/10/Screenshot-2026-10-30-at-07.34.48.png",
+    "originalImageArticleUrl": "https://www.sonyalpharumors.com/version-3-1-0-of-the-sony-monitor-control-app-adds-support-for-the-a6700-and-zv-e10-ii/",
+    "displayDate": "2026-11-01"
+  },
+  "LED Wall Display": {
+    "title": "AI×LEDウォールが切り拓く次世代の対話型空間",
+    "summary": "Imex Americaにて、LEDウォール、リアルタイムアニメーション、そしてAIを融合させた新しいAIホストシステムが公開されました。単なる表示デバイスを超え、インタラクティブな対話型インターフェースとしてLEDウォールを活用する試みが注目を集めています。",
+    "insight": "LEDの低遅延描画とリアルタイムレンダリング技術の高度化により、AIの応答をその場で可視化するエッジコンピューティングの重要性が増しています。エンジニアは、高解像度コンテンツとAI推論の同期をとるためのパイプライン最適化が、今後の没入型UI開発の鍵になることを認識しておくべきです。",
+    "sourceUrl": "https://invidis.com/news/2026/10/imex-america-ai-host-combines-led-real-time-animation-and-ai/",
+    "sourceName": "Sixteen:Nine",
+    "originalImageUrl": "https://invidis.com/wp-content/uploads/2026/10/AI-powered-LED-wall-1.jpg",
+    "originalImageArticleUrl": "https://invidis.com/news/2026/10/imex-america-ai-host-combines-led-real-time-animation-and-ai/",
+    "displayDate": "2026-11-01"
+  },
+  "Projector": {
+    "title": "Xgimiが日本市場へ「Elfin Flip Pro」を投入",
+    "summary": "Xgimiより新製品「Elfin Flip Pro」が日本国内で発売されました。1,000ルーメンの明るさを誇るレーザー光源を採用し、Google TVを搭載したフルHDプロジェクターです。スリムなフリップ開閉式デザインが特徴で、ポータブル性と利便性を両立させています。",
+    "insight": "プロジェクター市場では、レーザー光源による高輝度化とOS（Google TV等）の統合が標準化しています。エンジニア視点では、小型デバイスにおける排熱処理と光学エンジンの高密度実装技術が、製品寿命や画質にどう影響しているか注目したい点です。",
+    "sourceUrl": "https://news.lavx.hu/article/xgimi-elfin-flip-pro-new-launches-in-japan-with-1-000-lumen-laser-projector-and-google-tv",
+    "sourceName": "news.lavx.hu",
+    "originalImageUrl": "https://news.lavx.hu/api/media/file/xgimi-elfin-flip-pro-new-launches-in-japan-with-1000-lumen-laser-projector-and-google-tv-1_1793423642724-1200x630.jpg",
+    "originalImageArticleUrl": "https://news.lavx.hu/article/xgimi-elfin-flip-pro-new-launches-in-japan-with-1-000-lumen-laser-projector-and-google-tv",
+    "displayDate": "2026-11-01"
+  }
+}
