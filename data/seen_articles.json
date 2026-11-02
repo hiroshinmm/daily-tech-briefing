@@ -1,10 +1,6 @@
 {
   "Production Monitor": [
     {
-      "url": "https://www.provideocoalition.com/i-tried-the-artcraft-video-editor-filmcraft/",
-      "date": "2026-10-26"
-    },
-    {
       "url": "https://www.newsshooter.com/2026/10/26/davinci-resolve-21-1-2/",
       "date": "2026-10-27"
     },
@@ -27,13 +23,13 @@
     {
       "url": "https://www.newsshooter.com/2026/10/31/fujifilm-to-increase-production-capacity-by-5x-for-magnetic-data-storage-tape/",
       "date": "2026-11-01"
+    },
+    {
+      "url": "https://www.provideocoalition.com/blackmagic-design-announces-new-ultrastudio-express-hd/",
+      "date": "2026-11-02"
     }
   ],
   "SRD / XR": [
-    {
-      "url": "https://www.sanyonews.jp/article/2008706?rct=prtimes_hiro",
-      "date": "2026-10-26"
-    },
     {
       "url": "https://www.uploadvr.com/openxr-spatial-container-extensions-standardize-volumetric-app-multitasking/",
       "date": "2026-10-27"
@@ -57,13 +53,13 @@
     {
       "url": "https://news.yahoo.co.jp/articles/003a0d3ca70500f2814057529957b42953186b23/images/000",
       "date": "2026-11-01"
+    },
+    {
+      "url": "https://www.moguravr.com/vr-ar-mr-weekly-2026-11-2/",
+      "date": "2026-11-02"
     }
   ],
   "AI": [
-    {
-      "url": "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/",
-      "date": "2026-10-26"
-    },
     {
       "url": "https://www.gartner.co.jp/ja/newsroom/press-releases/2026-10-27-gartner-identifies-the-top-ai-trends-in-infrastructure-and-it-operations-for-2027",
       "date": "2026-10-27"
@@ -87,13 +83,13 @@
     {
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPSWZKdFhOWThXOVZoZm95VVpscmhQNnJBUmdCMGs5bFRHNk5POGptZ0tuTFZUVVRfdEZtUnY4LTVwNlkxbGNMbFdxMEJIR1VLRm9hMUUtd2hhdkVhSnRRajIwSjFBVlNWZVFHOHpmY1RrTnY2S2Q5X2wzMGxsVWNzSjc0bHc4WTZ1MEJz?oc=5",
       "date": "2026-11-01"
+    },
+    {
+      "url": "https://xtech.nikkei.com/atcl/nxt/keyword/18/00002/102100330/",
+      "date": "2026-11-02"
     }
   ],
   "Gaming Monitor": [
-    {
-      "url": "https://www.gizguide.com/2026/10/tcl-27p2a-mini-led-monitor-philippines.html",
-      "date": "2026-10-26"
-    },
     {
       "url": "https://pc.watch.impress.co.jp/docs/news/2151321.html",
       "date": "2026-10-27"
@@ -117,13 +113,13 @@
     {
       "url": "https://videocardz.com/newz/aoc-launches-u32g5d-31-5-inch-4k-180hz-monitor-with-five-layer-qd-oled-panel",
       "date": "2026-11-01"
+    },
+    {
+      "url": "https://pc.watch.impress.co.jp/docs/news/2152950.html",
+      "date": "2026-11-02"
     }
   ],
   "TCL": [
-    {
-      "url": "https://mashable.com/tech/smart-tv-ads-claude-code-ai-cleanup",
-      "date": "2026-10-26"
-    },
     {
       "url": "https://article.auone.jp/7a0260ce-e6de-4557-95c0-771598644782",
       "date": "2026-10-27"
@@ -147,13 +143,13 @@
     {
       "url": "https://www.pocket-lint.com/8-tcl-smart-tv-picture-settings-you-should-change-immediately/",
       "date": "2026-11-01"
+    },
+    {
+      "url": "https://www.oled-info.com/tcl-csot-starts-moving-equipment-its-t8-86-gen-inkjet-printed-oled-line-aims",
+      "date": "2026-11-02"
     }
   ],
   "Camera Control": [
-    {
-      "url": "https://www.sonyalpharumors.com/from-sony-fx5-screens-to-iphone-duo-hinges-cracks-in-quality-control/",
-      "date": "2026-10-26"
-    },
     {
       "url": "https://petapixel.com/2026/10/26/oppo-find-x10-pro-max-review-the-incredible-triple-200mp-cameras-are-only-half-the-story/",
       "date": "2026-10-27"
@@ -177,13 +173,13 @@
     {
       "url": "https://www.sonyalpharumors.com/version-3-1-0-of-the-sony-monitor-control-app-adds-support-for-the-a6700-and-zv-e10-ii/",
       "date": "2026-11-01"
+    },
+    {
+      "url": "https://www.dpreview.com/opinion/pulling-focus-a-few-new-video-features-dont-mean-camera-makers-gave-up-on-photography/",
+      "date": "2026-11-02"
     }
   ],
   "LED Wall Display": [
-    {
-      "url": "https://www.digitalsignagetoday.com/news/dooh-adoption-triples-due-to-high-profitability-rates/",
-      "date": "2026-10-26"
-    },
     {
       "url": "https://www.installation-international.com/case-studies/infiled-supplies-ultrawide-led-wall-for-german-university",
       "date": "2026-10-27"
@@ -207,13 +203,13 @@
     {
       "url": "https://invidis.com/news/2026/10/imex-america-ai-host-combines-led-real-time-animation-and-ai/",
       "date": "2026-11-01"
+    },
+    {
+      "url": "https://invidis.com/news/2026/10/imex-america-ai-host-combines-led-real-time-animation-and-ai/",
+      "date": "2026-11-02"
     }
   ],
   "SONY": [
-    {
-      "url": "https://sumahodigest.com/?p=74740",
-      "date": "2026-10-26"
-    },
     {
       "url": "https://article.auone.jp/0557cf04-8cde-4150-9a6d-93b0df595348",
       "date": "2026-10-27"
@@ -237,13 +233,13 @@
     {
       "url": "https://www.androidheadlines.com/2026/10/sony-elf-mn1-6-inch-3d-display-no-glasses.html",
       "date": "2026-11-01"
+    },
+    {
+      "url": "https://kunkoku.jp/sonystore-ranking-20261031.html",
+      "date": "2026-11-02"
     }
   ],
   "TV": [
-    {
-      "url": "https://japan.cnet.com/article/35253948/",
-      "date": "2026-10-26"
-    },
     {
       "url": "https://finance.yahoo.co.jp/news/detail/2d894b7e0baa6c586c7fe83026be6585944a02e8",
       "date": "2026-10-27"
@@ -267,13 +263,13 @@
     {
       "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxNUU52SVpEVjdPcFVGTUZ0ckhOUEVWamtNRjhFb09mWXhDOEhCX0dWcWRMcElLRlVkOHNvNzd6bnZ5YnYwck0xc05iLTNkSGNib0ZOYncwTXZMcDdOMVl1VlFNRmV0c2I5M2pwZVlNc0Y3dk16aG50SUdleVc2b19ZdEJwYjZOSXlnU1JOQkxSWlhKdDFjRVhwd0tQOHFqeDh6dWpTelRXWFpGY1ROTmpJZTVXNkhNckh4RWJlSmctalNuMlVFVDZyekhwTGcyYnpRaW85VXYxZG1uREt3T3Y1WDZHS2VrRTRHN3ZNbVNJdjM3a2VKSXZyT3dsUUxKNjRfVnF1Tg?oc=5",
       "date": "2026-11-01"
+    },
+    {
+      "url": "https://www.ktv.jp/info/ktvinfo/2026/20261102/",
+      "date": "2026-11-02"
     }
   ],
   "Projector": [
-    {
-      "url": "https://av.watch.impress.co.jp/docs/series/dal/2150863.html",
-      "date": "2026-10-26"
-    },
     {
       "url": "https://av.watch.impress.co.jp/docs/news/2151318.html",
       "date": "2026-10-27"
@@ -297,6 +293,10 @@
     {
       "url": "https://news.lavx.hu/article/xgimi-elfin-flip-pro-new-launches-in-japan-with-1-000-lumen-laser-projector-and-google-tv",
       "date": "2026-11-01"
+    },
+    {
+      "url": "https://www.hindustantimes.com/technology/4k-smart-projector-vs-big-screen-tv-which-one-gives-you-a-better-home-cinema-for-the-money-101793546928363-amp.html",
+      "date": "2026-11-02"
     }
   ]
 }

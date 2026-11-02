@@ -1,0 +1,102 @@
+{
+  "SRD / XR": {
+    "title": "NVIDIAがMetaに30億ドル出資、AI×XRの加速へ",
+    "summary": "NVIDIAがMetaに対して30億ドルの大規模出資を行うことが明らかになりました。今回の提携は、生成AIモデル「Muse」の拡大とXR技術の高度化を目的としており、メタバース構築やAI技術の融合において非常に重要なトピックです。",
+    "insight": "AIモデルと空間コンピューティングの融合が加速しており、ハードウェア側からのエコシステム構築が進行しています。エンジニアとしては、単なる描画技術としてだけでなく、AI駆動のインタラクションがXRのUXをどう変えるかに注視すべきです。",
+    "sourceUrl": "https://www.moguravr.com/vr-ar-mr-weekly-2026-11-2/",
+    "sourceName": "Mogura VR",
+    "originalImageUrl": "https://assets.moguravr.com/uploads/2026/10/029482baf236db66b2346a644ece93a0-kix.pexty3dzgpns-300x159.webp",
+    "originalImageArticleUrl": "https://www.moguravr.com/vr-ar-mr-weekly-2026-11-2/",
+    "displayDate": "2026-11-02"
+  },
+  "AI": {
+    "title": "あえて文章生成しない「判断特化型AI」の可能性",
+    "summary": "LLMによる文章生成ではなく、選択肢や確率の提示に特化したAIが注目されています。不確実な生成を避け、再利用性や論理的判断を重視するアプローチは、業務自動化において新たな選択肢となるかもしれません。",
+    "insight": "生成AIの「ハルシネーション（幻覚）」問題に対する、一つの実用的なエンジニアリング回答と言えます。LLMを単なる対話ツールとしてではなく、特定の制約条件下で決定論的な出力を得るための「推論エンジン」として活用する設計思想への転換が示唆されます。",
+    "sourceUrl": "https://xtech.nikkei.com/atcl/nxt/keyword/18/00002/102100330/",
+    "sourceName": "日経クロステック",
+    "originalImageUrl": "https://xtech.nikkei.com/atcl/nxt/keyword/18/00002/102100330/topm.jpg?20220512",
+    "originalImageArticleUrl": "https://xtech.nikkei.com/atcl/nxt/keyword/18/00002/102100330/",
+    "displayDate": "2026-11-02"
+  },
+  "Gaming Monitor": {
+    "title": "遊休NPUで描画処理？実験的ドライバ「npu-render」が登場",
+    "summary": "AI処理用として搭載されながら、ローカルLLM実行以外では稼働率が低いNPUに、Windowsのデスクトップ描画を委譲させる実験的なドライバ「npu-render」が公開されました。現在は描画性能としては実用的ではありませんが、ハードウェアリソースの効率的な再利用という観点で注目を集めています。",
+    "insight": "NPUを汎用的な演算資源として活用しようとする試みは、将来的なクライアントサイドAI・コンピューティングの構成において重要なアプローチです。現状の性能限界を理解しつつ、低レイテンシでI/Oを制御するカーネルレベルの最適化手法として注視する価値があります。",
+    "sourceUrl": "https://pc.watch.impress.co.jp/docs/news/2152950.html",
+    "sourceName": "PC Watch",
+    "originalImageUrl": "https://pc.watch.impress.co.jp/img/pcw/list/2152/950/1.png",
+    "originalImageArticleUrl": "https://pc.watch.impress.co.jp/docs/news/2152950.html",
+    "displayDate": "2026-11-02"
+  },
+  "TV": {
+    "title": "ABU賞受賞：ドキュメンタリーに見る「継続」の技術",
+    "summary": "関西テレビのドキュメンタリー番組『氷の上で、生きていく -ミラノへの11年-』が、アジア・太平洋放送連合（ABU）賞のテレビドキュメンタリー部門で審査員賞を受賞しました。11年という長期取材を通じて、競技人生に挑む姿を記録した作品です。",
+    "insight": "11年という長期的な観測とデータ収集は、システムの開発ライフサイクルやアーキテクチャの進化を追跡する長期間のプロジェクトに通じるものがあります。継続的な記録がどのように物語（価値）を生むのか、エンジニアにとってもドキュメントの価値を再考する良いきっかけになるでしょう。",
+    "sourceUrl": "https://www.ktv.jp/info/ktvinfo/2026/20261102/",
+    "sourceName": "関西テレビ放送",
+    "originalImageUrl": "https://www.ktv.jp/common/img/global/ogp/ico_sns.jpg",
+    "originalImageArticleUrl": "https://www.ktv.jp/info/ktvinfo/2026/20261102/",
+    "displayDate": "2026-11-02"
+  },
+  "SONY": {
+    "title": "ソニーの空間再現ディスプレイ「ELF-MN1」が爆発的人気",
+    "summary": "ソニーの小型裸眼3Dディスプレイ「ELF-MN1」が、受注開始からわずか3日でソニーストアの人気ランキング総合1位を獲得しました。専用のメガネやヘッドセットを必要とせずに、自然な立体視を実現する技術が市場で高く評価されています。",
+    "insight": "この製品は、独自開発の高速ビジョンセンサーとリアルタイムレンダリング技術を組み合わせたUI/UXの先進性が強みです。エンジニア視点では、奥行き情報を効率的にレンダリングする最適化アルゴリズムや、インタラクティブな3D空間を構築するためのSDKの進化に注目すべきです。",
+    "sourceUrl": "https://kunkoku.jp/sonystore-ranking-20261031.html",
+    "sourceName": "ソニーが基本的に好き。",
+    "originalImageUrl": "https://kunkoku.jp/wp-content/uploads/2026/10/261031r01.jpg",
+    "originalImageArticleUrl": "https://kunkoku.jp/sonystore-ranking-20261031.html",
+    "displayDate": "2026-11-02"
+  },
+  "TCL": {
+    "title": "TCLの次世代技術：インクジェット印刷OLED量産へ",
+    "summary": "TCL傘下のCSOTが、第8.6世代インクジェット印刷OLEDライン「T8」への装置搬入を開始したと発表しました。2027年第4四半期の量産開始を目指しており、コスト競争力の高い次世代ディスプレイ技術として注目されています。",
+    "insight": "インクジェット印刷方式のOLEDは、従来の蒸着法に比べて大型パネルの製造効率とコスト面で大きな優位性があります。製造プロセスの進化はディスプレイ駆動回路や表示制御アルゴリズムの最適化にも直結するため、将来的な技術トレンドとして注視すべきです。",
+    "sourceUrl": "https://www.oled-info.com/tcl-csot-starts-moving-equipment-its-t8-86-gen-inkjet-printed-oled-line-aims",
+    "sourceName": "OLED-Info",
+    "originalImageUrl": null,
+    "originalImageArticleUrl": "https://www.oled-info.com/tcl-csot-starts-moving-equipment-its-t8-86-gen-inkjet-printed-oled-line-aims",
+    "displayDate": "2026-11-02"
+  },
+  "Production Monitor": {
+    "title": "Blackmagic Designが新キャプチャデバイスを発表",
+    "summary": "Blackmagic Designは、USB4/Thunderbolt 4対応の新たなキャプチャ・再生デバイス「UltraStudio Express HD」を発表しました。Windows/Mac/Linux環境で利用可能で、アナログ・デジタル双方のコネクタを備え、レガシーメディアのアーカイブからDaVinci Resolveを用いた編集まで幅広く対応します。",
+    "insight": "ハードウェアレベルでのストリーム処理において、マルチOS対応と最新ポートへの準拠はエンジニアにとって信頼性の高いワークフロー構築の鍵となります。レガシーデバイスとの統合性能は、特にメディアシステムの再構築やデータ移行において重要な評価指標です。",
+    "sourceUrl": "https://www.provideocoalition.com/blackmagic-design-announces-new-ultrastudio-express-hd/",
+    "sourceName": "ProVideo Coalition",
+    "originalImageUrl": "https://www.provideocoalition.com/wp-content/uploads/3-ultrastudio-express-hd@2x.jpg",
+    "originalImageArticleUrl": "https://www.provideocoalition.com/blackmagic-design-announces-new-ultrastudio-express-hd/",
+    "displayDate": "2026-11-02"
+  },
+  "Projector": {
+    "title": "4Kレーザープロジェクターの進化と選び方",
+    "summary": "最新の4Kトリプルレーザープロジェクター（Hisense XR10/PX4 Pro等）が市場を席巻しています。これらは200インチ級のスクリーン体験を自宅で実現し、大型テレビとどちらを選ぶべきかという議論が活発化しています。",
+    "insight": "最新のレーザー光源技術により、輝度と色再現性が劇的に向上し、没入型のホームシアター環境構築が身近になっています。エンジニアリングの観点では、投影面の反射特性や冷却システムの静音設計が、デバイスの性能を引き出す上で鍵となります。",
+    "sourceUrl": "https://www.hindustantimes.com/technology/4k-smart-projector-vs-big-screen-tv-which-one-gives-you-a-better-home-cinema-for-the-money-101793546928363-amp.html",
+    "sourceName": "Hindustan Times",
+    "originalImageUrl": "https://www.hindustantimes.com/ht-img/img/2026/11/01/1600x900/logo/4k_smart_tvss_1793547036200_yaRl_1793547047440_1OtJ_c30121e6-7e17-4be5-ad4c-ab934dbb9306_WfVT.jpg",
+    "originalImageArticleUrl": "https://www.hindustantimes.com/technology/4k-smart-projector-vs-big-screen-tv-which-one-gives-you-a-better-home-cinema-for-the-money-101793546928363-amp.html",
+    "displayDate": "2026-11-02"
+  },
+  "Camera Control": {
+    "title": "「カメラは動画重視？」論争に終止符？",
+    "summary": "近年のカメラメーカーが動画機能の強化に注力していることで、一部のユーザーから「写真への関心が薄れているのでは」という声が上がっています。しかし、DPReviewの論考によれば、動画機能の拡充はあくまで製品の多様化であり、依然として写真機としての進化も止まっていないと指摘しています。",
+    "insight": "ハードウェアのマルチモーダル化は、コンシューマー向けカメラにおいても避けられないトレンドです。機能の拡張が既存のメイン機能（写真）の軽視と誤認されやすい点は、UI/UX設計における技術的負債やブランドメッセージの難しさを示唆しています。",
+    "sourceUrl": "https://www.dpreview.com/opinion/pulling-focus-a-few-new-video-features-dont-mean-camera-makers-gave-up-on-photography/",
+    "sourceName": "DPReview",
+    "originalImageUrl": "https://www.dpreview.com/wp-content/uploads/2026/10/GN_Video_focus.jpg",
+    "originalImageArticleUrl": "https://www.dpreview.com/opinion/pulling-focus-a-few-new-video-features-dont-mean-camera-makers-gave-up-on-photography/",
+    "displayDate": "2026-11-02"
+  },
+  "LED Wall Display": {
+    "title": "Imex AmericaでAI搭載LEDウォールが注目",
+    "summary": "米国の展示会「Imex America」において、LEDウォール、リアルタイムアニメーション、そしてAIホストを組み合わせた没入型ディスプレイソリューションが発表されました。単なる映像表示にとどまらず、AIが対話的に来場者とコミュニケーションをとる新しい体験を提供しています。",
+    "insight": "LEDウォールの高精細化に加え、生成AIによるリアルタイムレンダリングを組み合わせたインタラクティブなUI/UXがトレンドとなっています。エンジニアとしては、レイテンシを極限まで抑えたAI応答と高リフレッシュレート表示の同期など、ハードウェアとソフトウェアの高度な統合技術が今後の鍵となります。",
+    "sourceUrl": "https://invidis.com/news/2026/10/imex-america-ai-host-combines-led-real-time-animation-and-ai/",
+    "sourceName": "Sixteen:Nine",
+    "originalImageUrl": "https://invidis.com/wp-content/uploads/2026/10/AI-powered-LED-wall-1.jpg",
+    "originalImageArticleUrl": "https://invidis.com/news/2026/10/imex-america-ai-host-combines-led-real-time-animation-and-ai/",
+    "displayDate": "2026-11-02"
+  }
+}
