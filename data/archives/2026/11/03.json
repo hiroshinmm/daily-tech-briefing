@@ -1,0 +1,102 @@
+{
+  "AI": {
+    "title": "「身体を持つAI」が次の主戦場に",
+    "summary": "AIの進化がデジタル領域から物理世界へと拡大しています。中国のロボット業界が人間のように動くAI搭載ロボットに巨額の投資を行い、米国企業との競争が激化。単なるチャットボットを超えた「物理的な自律性」を持つAIの社会実装が、技術開発の新たな最前線となっています。",
+    "insight": "LLMによる推論能力が現実の物理タスク（操作・移動）へ転換する「エンボディドAI（身体性AI）」への投資加速は、エンジニアにとって注目すべきトレンドです。ROS（Robot Operating System）やシミュレーション環境とLLMを統合する技術スタックの理解が、今後のキャリアに直結する可能性があります。",
+    "sourceUrl": "https://www.reuters.com/jp/markets/japan/64CRNDEBQNKSHJ354RUEEN3I4I-2026-11-02/",
+    "sourceName": "Reuters",
+    "originalImageUrl": null,
+    "originalImageArticleUrl": "https://www.reuters.com/jp/markets/japan/64CRNDEBQNKSHJ354RUEEN3I4I-2026-11-02/",
+    "displayDate": "2026-11-03"
+  },
+  "SRD / XR": {
+    "title": "XREALとGoogle共同開発「XREAL AURA」日本上陸",
+    "summary": "XREALがGoogleと共同開発した次世代ARグラス「XREAL AURA」が日本で発売開始されました。軽量かつ高精度な空間認識技術を搭載しており、日常的なAR体験の普及が期待されます。",
+    "insight": "Googleとの共同開発により、Androidエコシステムとの親和性が非常に高いデバイスとして注目されます。今後、モバイルARのUX標準がどう変化するか、開発者としてはSpatial ComputingのAPI動向を注視すべきタイミングです。",
+    "sourceUrl": "https://ascii.jp/elem/000/004/447/4447994/",
+    "sourceName": "ASCII.jp",
+    "originalImageUrl": "https://ascii.jp/img/2026/11/02/4547135/xl/bd5074e320625a37.jpg?20200122",
+    "originalImageArticleUrl": "https://ascii.jp/elem/000/004/447/4447994/",
+    "displayDate": "2026-11-03"
+  },
+  "TCL": {
+    "title": "Samsung、TCL傘下CSOTの株式を取得し提携強化",
+    "summary": "Samsung Electronicsは、グループ内のSamsung Displayが保有するTCLのディスプレイ子会社CSOTの株式（約10.16%）を約1.27兆ウォンで取得すると発表しました。これにより、Samsungのパネル調達戦略とCSOTの生産能力のシナジーが強化されます。",
+    "insight": "大型ディスプレイ市場におけるサプライチェーンの再編が進んでいます。パネル製造メーカーとセットメーカー間の資本関係強化は、Mini-LED等の次世代ディスプレイ技術の安定供給とコスト競争力に直結するため、業界動向として注視すべきです。",
+    "sourceUrl": "https://www.thelec.net/news/articleView.html?idxno=15137",
+    "sourceName": "THE ELEC, Korea Electronics Industry Media",
+    "originalImageUrl": "https://cdn.thelec.net/news/photo/202610/15137_15419_5828.jpg",
+    "originalImageArticleUrl": "https://www.thelec.net/news/articleView.html?idxno=15137",
+    "displayDate": "2026-11-03"
+  },
+  "SONY": {
+    "title": "Sony、新型シネマカメラ「FX5」発表",
+    "summary": "ソニーは、Cinema Lineシリーズの最新モデル「FX5」を発表しました。5K 60fps撮影やオープンゲート記録に対応し、プロフェッショナルな映像制作現場で求められる高い柔軟性と画質を実現。コンパクトな筐体で高効率なワークフローを提供します。",
+    "insight": "Open Gate記録の実装は、編集時のクロップ耐性と画角選択の自由度を劇的に向上させます。センサー読み出し速度や熱排気設計を含めた、高負荷な動画処理におけるソニーのハードウェアエンジニアリングの進化が注目されます。",
+    "sourceUrl": "https://www.gadgetbridge.com/sony-fx5-cinema-line-camera-with-open-gate-shooting-launched-it-can-shoot-5k-at-60fps/",
+    "sourceName": "Gadget Bridge",
+    "originalImageUrl": null,
+    "originalImageArticleUrl": "https://www.gadgetbridge.com/sony-fx5-cinema-line-camera-with-open-gate-shooting-launched-it-can-shoot-5k-at-60fps/",
+    "displayDate": "2026-11-03"
+  },
+  "Production Monitor": {
+    "title": "Adobe PremiereのAIツールで編集効率化",
+    "summary": "Adobe Premiereに実装されたAIツールを活用し、長尺の会議映像や膨大な素材から迅速にラフカットを作成する方法を解説。限られた納期の中で、フリーランスの編集者がいかに生産性を維持し利益を最大化するかという課題に焦点を当てています。",
+    "insight": "AIを活用した自動編集は、単なる時短ツールではなく、クリエイティブな意思決定に割く時間を増やすための重要な戦略です。エンジニアにとっても、AIによる自動化をワークフローに組み込む際のリスクとリターンのバランスを再考する良い視点になります。",
+    "sourceUrl": "https://www.provideocoalition.com/rough-cuts-on-a-freelancers-clock-understanding-adobe-premieres-ai-tools/",
+    "sourceName": "ProVideo Coalition",
+    "originalImageUrl": "https://www.provideocoalition.com/wp-content/uploads/adoberoughcut1104.png",
+    "originalImageArticleUrl": "https://www.provideocoalition.com/rough-cuts-on-a-freelancers-clock-understanding-adobe-premieres-ai-tools/",
+    "displayDate": "2026-11-03"
+  },
+  "TV": {
+    "title": "Amazon等でOLED TVのセールが活発化",
+    "summary": "AmazonやMacy'sにて、LGやSamsung製の55インチから83インチまでのOLED（有機EL）テレビが大幅な割引価格で販売されています。ハイエンドモデルやサウンドバーとのセット販売も含まれており、ホームエンターテインメント環境のアップグレードに好機となっています。",
+    "insight": "OLED技術は自己発光ピクセルによる圧倒的なコントラスト比が特徴ですが、パネルの焼き付き対策や駆動アルゴリズムの進化はエンジニアリング的にも興味深い領域です。低価格化により大画面OLEDが普及することで、UI設計においても高輝度・広色域を前提としたデザインの重要性が増していきます。",
+    "sourceUrl": "https://mashable.com/tech/oct-28-lg-55-inch-qled-evo-ai-tv-deal",
+    "sourceName": "Mashable",
+    "originalImageUrl": "https://helios-i.mashable.com/imagery/articles/00kkAHFikZzFOemj5abvdPx/hero-image.fill.size_1200x675.v1793179421.png",
+    "originalImageArticleUrl": "https://mashable.com/tech/oct-28-lg-55-inch-qled-evo-ai-tv-deal",
+    "displayDate": "2026-11-03"
+  },
+  "Gaming Monitor": {
+    "title": "ゲーミングモニターが命を救う？衝撃のニュース",
+    "summary": "海外のゲーマーが、自宅の窓から飛んできた流れ弾が偶然モニターに当たり、命拾いをしたという驚きの報告が話題です。使用していたAsus製モニターの頑丈さがSNSで注目を集めています。",
+    "insight": "液晶パネルや筐体の物理的な強度（防弾性能）は本来の設計目的外ですが、堅牢なハードウェア設計が予期せぬ物理的損傷を防ぐ好例です。デスクトップ環境におけるモニターの配置や強度が、エンジニアの作業環境の安全性に与える影響について再考する面白いトピックです。",
+    "sourceUrl": "https://www.dexerto.com/call-of-duty/call-of-duty-player-says-280-asus-monitor-saved-them-from-stray-bullet-fired-outside-house-3424108/",
+    "sourceName": "Dexerto",
+    "originalImageUrl": "https://www.dexerto.com/cdn-image/wp-content/uploads/2026/11/02/call-of-duty-monitor-gunshot-bullet.jpg",
+    "originalImageArticleUrl": "https://www.dexerto.com/call-of-duty/call-of-duty-player-says-280-asus-monitor-saved-them-from-stray-bullet-fired-outside-house-3424108/",
+    "displayDate": "2026-11-03"
+  },
+  "Projector": {
+    "title": "EpsonがPython対応の協働ロボットを日本で展開",
+    "summary": "Epsonが日本国内で同社初となる協働ロボットの提供を開始しました。最大の特徴はPythonによる制御に対応している点で、900mmの動作範囲を持ち、製造現場だけでなく自動化ソリューションとしての活用が期待されています。",
+    "insight": "Pythonがロボット制御の標準言語として浸透している点は、エンジニアにとって注目すべきトレンドです。SDKが整備されることで、ROS等と組み合わせた高度な自律制御の開発がより身近になるでしょう。",
+    "sourceUrl": "https://www.notebookcheck.net/Epson-s-first-collaborative-robot-arrives-in-Japan-with-Python-support-and-a-900-mm-reach.1440420.0.html",
+    "sourceName": "Notebookcheck",
+    "originalImageUrl": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Epson_AX6-A901S_collaborative_robot.jpg",
+    "originalImageArticleUrl": "https://www.notebookcheck.net/Epson-s-first-collaborative-robot-arrives-in-Japan-with-Python-support-and-a-900-mm-reach.1440420.0.html",
+    "displayDate": "2026-11-03"
+  },
+  "LED Wall Display": {
+    "title": "統合管理で進化するリテールLEDサイネージ",
+    "summary": "オーストラリアの小売ブランドLSKDは、Fusion Signageを活用し、プロジェクション、店内LED、店頭LEDの3種類のディスプレイを単一システムで集中管理しています。コンテンツ更新のリードタイムを大幅に短縮し、オンラインと実店舗で一貫したブランド体験を提供しています。",
+    "insight": "複数の異なる表示デバイス（投影、LED）を単一のCMSで抽象化して管理するアーキテクチャが、運用負荷を劇的に削減しています。ハードウェアの種別を問わずAPIや統合ソフトウェアでデータパイプラインを統合するアプローチは、大規模なサイネージ展開においてエンジニアが注力すべきスケーラブルな実装例です。",
+    "sourceUrl": "https://www.digitalsignagetoday.com/news/australian-retailer-taps-fusion-signage-to-reimagine-store-environment/",
+    "sourceName": "Digital Signage Today | Latest Media",
+    "originalImageUrl": "https://nmgprod.s3.amazonaws.com/media/file/82/36/b4775a5fe03664053b2a08aabc19/cover_image__IqwOcKFD__Fusion_Signage_Armadale.png.360x190_q85_crop_upscale.webp",
+    "originalImageArticleUrl": "https://www.digitalsignagetoday.com/news/australian-retailer-taps-fusion-signage-to-reimagine-store-environment/",
+    "displayDate": "2026-11-03"
+  },
+  "Camera Control": {
+    "title": "Ricoh GR、米国初の拠点「GR Space」をNYに開設",
+    "summary": "Ricoh Imagingが、ファンコミュニティの拠点となる「GR Space」を米国ニューヨークにオープンすることを発表しました。日本国内での成功を受け、ストリートスナップの象徴的なカメラであるGRの世界観を海外でも本格的に展開します。",
+    "insight": "特定のプロダクトに特化したコミュニティスペースを実店舗として展開する戦略は、ハードウェアのファンエンゲージメント向上において非常に有効です。単なる販売店ではなく、ユーザーコミュニティの醸成を重視する姿勢は、開発者が製品の利用シーンを深く理解するためのヒントになるでしょう。",
+    "sourceUrl": "https://petapixel.com/2026/11/02/ricoh-is-opening-its-first-gr-space-in-the-us/",
+    "sourceName": "PetaPixel",
+    "originalImageUrl": "https://petapixel.com/assets/uploads/2026/11/ricoh-gr-space-nyc-featured.jpg",
+    "originalImageArticleUrl": "https://petapixel.com/2026/11/02/ricoh-is-opening-its-first-gr-space-in-the-us/",
+    "displayDate": "2026-11-03"
+  }
+}

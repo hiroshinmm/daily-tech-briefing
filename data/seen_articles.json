@@ -1,10 +1,6 @@
 {
   "Production Monitor": [
     {
-      "url": "https://www.newsshooter.com/2026/10/26/davinci-resolve-21-1-2/",
-      "date": "2026-10-27"
-    },
-    {
       "url": "https://www.cined.com/apple-creator-studio-update-announced-motionvfx-in-final-cut-pro-generate-fill-cinematic-mode-encoding/",
       "date": "2026-10-28"
     },
@@ -27,13 +23,13 @@
     {
       "url": "https://www.provideocoalition.com/blackmagic-design-announces-new-ultrastudio-express-hd/",
       "date": "2026-11-02"
+    },
+    {
+      "url": "https://www.provideocoalition.com/rough-cuts-on-a-freelancers-clock-understanding-adobe-premieres-ai-tools/",
+      "date": "2026-11-03"
     }
   ],
   "SRD / XR": [
-    {
-      "url": "https://www.uploadvr.com/openxr-spatial-container-extensions-standardize-volumetric-app-multitasking/",
-      "date": "2026-10-27"
-    },
     {
       "url": "https://www.nikkei.com/article/DGXZQOSG015RX0R01C26A0000000/",
       "date": "2026-10-28"
@@ -57,13 +53,13 @@
     {
       "url": "https://www.moguravr.com/vr-ar-mr-weekly-2026-11-2/",
       "date": "2026-11-02"
+    },
+    {
+      "url": "https://ascii.jp/elem/000/004/447/4447994/",
+      "date": "2026-11-03"
     }
   ],
   "AI": [
-    {
-      "url": "https://www.gartner.co.jp/ja/newsroom/press-releases/2026-10-27-gartner-identifies-the-top-ai-trends-in-infrastructure-and-it-operations-for-2027",
-      "date": "2026-10-27"
-    },
     {
       "url": "https://news.yahoo.co.jp/articles/670394ece5aad3f9bc8d68afdbe80fd46a6b7db7",
       "date": "2026-10-28"
@@ -87,13 +83,13 @@
     {
       "url": "https://xtech.nikkei.com/atcl/nxt/keyword/18/00002/102100330/",
       "date": "2026-11-02"
+    },
+    {
+      "url": "https://www.reuters.com/jp/markets/japan/64CRNDEBQNKSHJ354RUEEN3I4I-2026-11-02/",
+      "date": "2026-11-03"
     }
   ],
   "Gaming Monitor": [
-    {
-      "url": "https://pc.watch.impress.co.jp/docs/news/2151321.html",
-      "date": "2026-10-27"
-    },
     {
       "url": "https://pc.watch.impress.co.jp/docs/news/2151743.html",
       "date": "2026-10-28"
@@ -117,13 +113,13 @@
     {
       "url": "https://pc.watch.impress.co.jp/docs/news/2152950.html",
       "date": "2026-11-02"
+    },
+    {
+      "url": "https://www.dexerto.com/call-of-duty/call-of-duty-player-says-280-asus-monitor-saved-them-from-stray-bullet-fired-outside-house-3424108/",
+      "date": "2026-11-03"
     }
   ],
   "TCL": [
-    {
-      "url": "https://article.auone.jp/7a0260ce-e6de-4557-95c0-771598644782",
-      "date": "2026-10-27"
-    },
     {
       "url": "https://news.livedoor.com/topics/detail/32673660/",
       "date": "2026-10-28"
@@ -147,13 +143,13 @@
     {
       "url": "https://www.oled-info.com/tcl-csot-starts-moving-equipment-its-t8-86-gen-inkjet-printed-oled-line-aims",
       "date": "2026-11-02"
+    },
+    {
+      "url": "https://www.thelec.net/news/articleView.html?idxno=15137",
+      "date": "2026-11-03"
     }
   ],
   "Camera Control": [
-    {
-      "url": "https://petapixel.com/2026/10/26/oppo-find-x10-pro-max-review-the-incredible-triple-200mp-cameras-are-only-half-the-story/",
-      "date": "2026-10-27"
-    },
     {
       "url": "https://petapixel.com/2026/10/27/this-mouse-has-a-built-in-touchscreen-and-customizable-app-controls/",
       "date": "2026-10-28"
@@ -177,13 +173,13 @@
     {
       "url": "https://www.dpreview.com/opinion/pulling-focus-a-few-new-video-features-dont-mean-camera-makers-gave-up-on-photography/",
       "date": "2026-11-02"
+    },
+    {
+      "url": "https://petapixel.com/2026/11/02/ricoh-is-opening-its-first-gr-space-in-the-us/",
+      "date": "2026-11-03"
     }
   ],
   "LED Wall Display": [
-    {
-      "url": "https://www.installation-international.com/case-studies/infiled-supplies-ultrawide-led-wall-for-german-university",
-      "date": "2026-10-27"
-    },
     {
       "url": "https://www.digitalsignagetoday.com/blogs/every-departure-board-runs-on-a-computer-is-anyone-guarding-it/",
       "date": "2026-10-28"
@@ -207,13 +203,13 @@
     {
       "url": "https://invidis.com/news/2026/10/imex-america-ai-host-combines-led-real-time-animation-and-ai/",
       "date": "2026-11-02"
+    },
+    {
+      "url": "https://www.digitalsignagetoday.com/news/australian-retailer-taps-fusion-signage-to-reimagine-store-environment/",
+      "date": "2026-11-03"
     }
   ],
   "SONY": [
-    {
-      "url": "https://article.auone.jp/0557cf04-8cde-4150-9a6d-93b0df595348",
-      "date": "2026-10-27"
-    },
     {
       "url": "https://news.kakaku.com/prdnews/cd=pc/ctcd=0085/id=159881/",
       "date": "2026-10-28"
@@ -237,13 +233,13 @@
     {
       "url": "https://kunkoku.jp/sonystore-ranking-20261031.html",
       "date": "2026-11-02"
+    },
+    {
+      "url": "https://www.gadgetbridge.com/sony-fx5-cinema-line-camera-with-open-gate-shooting-launched-it-can-shoot-5k-at-60fps/",
+      "date": "2026-11-03"
     }
   ],
   "TV": [
-    {
-      "url": "https://finance.yahoo.co.jp/news/detail/2d894b7e0baa6c586c7fe83026be6585944a02e8",
-      "date": "2026-10-27"
-    },
     {
       "url": "https://www.businesskorea.co.kr/news/articleView.html?idxno=279823",
       "date": "2026-10-28"
@@ -267,13 +263,13 @@
     {
       "url": "https://www.ktv.jp/info/ktvinfo/2026/20261102/",
       "date": "2026-11-02"
+    },
+    {
+      "url": "https://mashable.com/tech/oct-28-lg-55-inch-qled-evo-ai-tv-deal",
+      "date": "2026-11-03"
     }
   ],
   "Projector": [
-    {
-      "url": "https://av.watch.impress.co.jp/docs/news/2151318.html",
-      "date": "2026-10-27"
-    },
     {
       "url": "https://dime.jp/genre/2166100/",
       "date": "2026-10-28"
@@ -297,6 +293,10 @@
     {
       "url": "https://www.hindustantimes.com/technology/4k-smart-projector-vs-big-screen-tv-which-one-gives-you-a-better-home-cinema-for-the-money-101793546928363-amp.html",
       "date": "2026-11-02"
+    },
+    {
+      "url": "https://www.notebookcheck.net/Epson-s-first-collaborative-robot-arrives-in-Japan-with-Python-support-and-a-900-mm-reach.1440420.0.html",
+      "date": "2026-11-03"
     }
   ]
 }
