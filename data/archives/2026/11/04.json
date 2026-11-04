@@ -1,0 +1,48 @@
+{
+  "SRD / XR": null,
+  "AI": null,
+  "TV": null,
+  "SONY": null,
+  "TCL": null,
+  "Camera Control": null,
+  "Projector": {
+    "title": "プロジェクターの進化がすごい！4K/120Hz対応の最新モデル「IRIS Ultra Max」",
+    "summary": "JMGOから先行販売が開始された「IRIS Ultra Max」は、RGB三色レーザー光源と4K/120Hz出力に対応し、自動ジンバル機能を備えたスマートプロジェクターです。かつてのような大規模な設備を要さず、家庭で手軽にハイエンドな映像体験を実現できることから、ホームシアター市場の常識を覆す製品として注目されています。",
+    "insight": "RGB三色レーザーによる広色域と120Hzのリフレッシュレートは、映像コンテンツのみならず、高フレームレートでのゲーム体験にも最適化されており、ハードウェアの進化がAV体験の敷居を大きく下げています。自動ジンバルによる設置性の向上は、UXデザインの観点からもデバイスの物理的な制約をどうソフトウェアで解決するかという好例といえます。",
+    "sourceUrl": "https://www.phileweb.com/review/article/202611/04/6708.html",
+    "sourceName": "PHILE WEB",
+    "originalImageUrl": "https://www.phileweb.com/news/ogp/review/67/240ead1e2060de2d53641bbbc95b8ce7.jpg",
+    "originalImageArticleUrl": "https://www.phileweb.com/review/article/202611/04/6708.html",
+    "displayDate": "2026-11-04"
+  },
+  "Gaming Monitor": {
+    "title": "ついに登場！弾丸を防ぐ最強ゲーミングモニター",
+    "summary": "ASUSのTUFゲーミングモニターが、なんと実際に銃弾を受け止めたというニュースが話題です。本来は過酷な環境での耐久性テストの一環ですが、その堅牢な物理設計が証明されました。日常使いでそこまでの耐久性は不要ですが、デバイスの品質を再考する面白いトピックです。",
+    "insight": "モニターの筐体素材や内部構造の強靭さは、長期間の使用においてデバイスの安定性と放熱効率に直結します。ソフトウェア開発者としては、コードの堅牢性だけでなく、それを支えるハードウェアの物理的な冗長性についても興味深い視点が得られます。",
+    "sourceUrl": "https://www.bgr.com/2305958/asus-pc-monitor-stops-bullet/",
+    "sourceName": "BGR",
+    "originalImageUrl": "https://www.bgr.com/img/gallery/this-asus-tuf-monitor-was-tough-enough-to-stop-a-bullet-no-really/l-intro-1793739786.jpg",
+    "originalImageArticleUrl": "https://www.bgr.com/2305958/asus-pc-monitor-stops-bullet/",
+    "displayDate": "2026-11-04"
+  },
+  "LED Wall Display": {
+    "title": "マイクロLEDの次なるフロンティア：AI光インターコネクト",
+    "summary": "米Palomino Laboratories社が、AIデータセンター向けのMicro LED光学インターコネクトチップの初の商用受注を獲得しました。ディスプレイ技術として発展したMicro LEDが、AI時代の高速通信基盤として再定義されています。",
+    "insight": "Micro LEDの極小かつ高効率な発光特性が、銅配線の限界を超える次世代のチップ間光通信に応用されています。ディスプレイ用途を超え、シリコンフォトニクスにおける光源としてのポテンシャルをエンジニアは注視すべきです。",
+    "sourceUrl": "//www.ledinside.com/news/2026/11/2026_11_03_01",
+    "sourceName": "LEDinside",
+    "originalImageUrl": null,
+    "originalImageArticleUrl": "//www.ledinside.com/news/2026/11/2026_11_03_01",
+    "displayDate": "2026-11-04"
+  },
+  "Production Monitor": {
+    "title": "PHPの脆弱性に注意！最新版へのアップデート確認",
+    "summary": "10月末、米CISAがPHPにおける重大な脆弱性を警告しました。PHPは依然として多くのWebサーバーで稼働しているため、自身の環境が影響を受ける可能性があるか、現在利用しているバージョンを確認し、必要に応じてパッチの適用を行うことが推奨されています。",
+    "insight": "Webエンジニアにとって、言語ランタイムのセキュリティアップデートは定常的ですが、バックエンドの基盤となるPHPの脆弱性は特に影響範囲が広いため、早急な確認が必要です。これを機にプロジェクトの依存関係やサーバーのマイナーバージョンを再点検し、自動アップデート設定やCI/CDでのセキュリティスキャンフローを見直す良い機会です。",
+    "sourceUrl": "https://www.provideocoalition.com/php-vulnerability-have-you-updated-yours-on-your-web-server-after-the-warning/",
+    "sourceName": "ProVideo Coalition",
+    "originalImageUrl": "https://www.provideocoalition.com/wp-content/uploads/PHP-hero.jpg",
+    "originalImageArticleUrl": "https://www.provideocoalition.com/php-vulnerability-have-you-updated-yours-on-your-web-server-after-the-warning/",
+    "displayDate": "2026-11-04"
+  }
+}

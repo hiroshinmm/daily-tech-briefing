@@ -1,10 +1,6 @@
 {
   "Production Monitor": [
     {
-      "url": "https://www.cined.com/apple-creator-studio-update-announced-motionvfx-in-final-cut-pro-generate-fill-cinematic-mode-encoding/",
-      "date": "2026-10-28"
-    },
-    {
       "url": "https://www.cined.com/apple-touch-screen-macbook-pro-announced-proled-xdr-tandem-oled-display-m5-pro-and-m5-max-genlock/",
       "date": "2026-10-29"
     },
@@ -27,13 +23,13 @@
     {
       "url": "https://www.provideocoalition.com/rough-cuts-on-a-freelancers-clock-understanding-adobe-premieres-ai-tools/",
       "date": "2026-11-03"
+    },
+    {
+      "url": "https://www.provideocoalition.com/php-vulnerability-have-you-updated-yours-on-your-web-server-after-the-warning/",
+      "date": "2026-11-04"
     }
   ],
   "SRD / XR": [
-    {
-      "url": "https://www.nikkei.com/article/DGXZQOSG015RX0R01C26A0000000/",
-      "date": "2026-10-28"
-    },
     {
       "url": "https://japan.cnet.com/article/35254124/",
       "date": "2026-10-29"
@@ -61,10 +57,6 @@
   ],
   "AI": [
     {
-      "url": "https://news.yahoo.co.jp/articles/670394ece5aad3f9bc8d68afdbe80fd46a6b7db7",
-      "date": "2026-10-28"
-    },
-    {
       "url": "https://news.yahoo.co.jp/articles/898612fb12ec9b79f4dca51028a5bf5a4f1ca0eb",
       "date": "2026-10-29"
     },
@@ -91,10 +83,6 @@
   ],
   "Gaming Monitor": [
     {
-      "url": "https://pc.watch.impress.co.jp/docs/news/2151743.html",
-      "date": "2026-10-28"
-    },
-    {
       "url": "https://pc.watch.impress.co.jp/docs/news/2152094.html",
       "date": "2026-10-29"
     },
@@ -117,13 +105,13 @@
     {
       "url": "https://www.dexerto.com/call-of-duty/call-of-duty-player-says-280-asus-monitor-saved-them-from-stray-bullet-fired-outside-house-3424108/",
       "date": "2026-11-03"
+    },
+    {
+      "url": "https://www.bgr.com/2305958/asus-pc-monitor-stops-bullet/",
+      "date": "2026-11-04"
     }
   ],
   "TCL": [
-    {
-      "url": "https://news.livedoor.com/topics/detail/32673660/",
-      "date": "2026-10-28"
-    },
     {
       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBzbjJKN2lMNVhPRUduV2ZtdV9OaHM5bHdTWTl6WDFrMkdDZ0dCZlBLbEREZHk4TjRiTmFuQkozYlkzcnFOaEpjNXhIMXF4V0k5NkViNGN2aGpNNWVCdWc?oc=5",
       "date": "2026-10-29"
@@ -151,10 +139,6 @@
   ],
   "Camera Control": [
     {
-      "url": "https://petapixel.com/2026/10/27/this-mouse-has-a-built-in-touchscreen-and-customizable-app-controls/",
-      "date": "2026-10-28"
-    },
-    {
       "url": "https://petapixel.com/2026/10/28/apple-unveils-its-first-ever-macbook-pro-with-a-touchscreen-oled/",
       "date": "2026-10-29"
     },
@@ -181,10 +165,6 @@
   ],
   "LED Wall Display": [
     {
-      "url": "https://www.digitalsignagetoday.com/blogs/every-departure-board-runs-on-a-computer-is-anyone-guarding-it/",
-      "date": "2026-10-28"
-    },
-    {
       "url": "//www.ledinside.com/news/2026/10/2026_10_28_05",
       "date": "2026-10-29"
     },
@@ -207,13 +187,13 @@
     {
       "url": "https://www.digitalsignagetoday.com/news/australian-retailer-taps-fusion-signage-to-reimagine-store-environment/",
       "date": "2026-11-03"
+    },
+    {
+      "url": "//www.ledinside.com/news/2026/11/2026_11_03_01",
+      "date": "2026-11-04"
     }
   ],
   "SONY": [
-    {
-      "url": "https://news.kakaku.com/prdnews/cd=pc/ctcd=0085/id=159881/",
-      "date": "2026-10-28"
-    },
     {
       "url": "https://news.nicovideo.jp/watch/nw19931402?news_ref=watch_50_nw19840280",
       "date": "2026-10-29"
@@ -241,10 +221,6 @@
   ],
   "TV": [
     {
-      "url": "https://www.businesskorea.co.kr/news/articleView.html?idxno=279823",
-      "date": "2026-10-28"
-    },
-    {
       "url": "https://forbesjapan.com/articles/detail/106130",
       "date": "2026-10-29"
     },
@@ -271,10 +247,6 @@
   ],
   "Projector": [
     {
-      "url": "https://dime.jp/genre/2166100/",
-      "date": "2026-10-28"
-    },
-    {
       "url": "https://news.kakaku.com/prdnews/cd=pc/ctcd=0088/id=159896/",
       "date": "2026-10-29"
     },
@@ -297,6 +269,10 @@
     {
       "url": "https://www.notebookcheck.net/Epson-s-first-collaborative-robot-arrives-in-Japan-with-Python-support-and-a-900-mm-reach.1440420.0.html",
       "date": "2026-11-03"
+    },
+    {
+      "url": "https://www.phileweb.com/review/article/202611/04/6708.html",
+      "date": "2026-11-04"
     }
   ]
 }
