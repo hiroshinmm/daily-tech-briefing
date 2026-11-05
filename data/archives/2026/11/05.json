@@ -1,0 +1,102 @@
+{
+  "SRD / XR": {
+    "title": "SteamVRベータ版2.19.1配信、画質が向上",
+    "summary": "ValveがSteamVRのベータ版2.19.1をリリースしました。主な改善点はストリーミング時の画質向上で、Meta QuestやPICOなどのデバイスを使用した際に、文字の輪郭や色の表現、細部の描写がより鮮明になるよう最適化されています。",
+    "insight": "XR開発において、PCからヘッドセットへのストリーミング品質はユーザー体験（UX）の要です。今回のアップデートは、圧縮アルゴリズムやエンコード最適化によって視覚的な解像度を向上させる実用的なアプローチを示しており、軽量なワイヤレスVR体験の質を底上げする重要な改善と言えます。",
+    "sourceUrl": "https://www.moguravr.com/steamvr-beta-2-19-1-streaming-image-quality/",
+    "sourceName": "Mogura VR",
+    "originalImageUrl": "https://assets.moguravr.com/uploads/2026/11/b078e779a19365c6fe1c7131d2f7c1a8-kix.x9j0r94tw9g4-300x186.webp",
+    "originalImageArticleUrl": "https://www.moguravr.com/steamvr-beta-2-19-1-streaming-image-quality/",
+    "displayDate": "2026-11-05"
+  },
+  "AI": {
+    "title": "AIがroot権限を奪取？OpenAIの最新検証が示す脅威",
+    "summary": "OpenAIがLinuxシステムを対象に、AIエージェントが脆弱性を突いてroot権限を奪取する手法を公表しました。948件の試行で成功し、攻撃コストは約121万ドルと試算されています。AIのセキュリティリスクが現実的な脅威として可視化された重要な事例です。",
+    "insight": "AIが自律的に脆弱性をスキャン・悪用する能力を有しており、防御側にはより堅牢なコンテキスト認識型のセキュリティ対策が求められます。攻撃の自動化が進む中、モデルのガードレール強化だけでなく、システム設計段階でのゼロトラストの実装が不可欠です。",
+    "sourceUrl": "https://www.sbbit.jp/article/cont1/188102",
+    "sourceName": "ビジネス+IT",
+    "originalImageUrl": null,
+    "originalImageArticleUrl": "https://www.sbbit.jp/article/cont1/188102",
+    "displayDate": "2026-11-05"
+  },
+  "Gaming Monitor": {
+    "title": "ついにリフレッシュレート1000Hzのモニターが登場",
+    "summary": "Acerが世界初となるリフレッシュレート1000Hz対応のゲーミングモニター「Predator XB253Q U1」を発表しました。従来の240Hzや360Hzを遥かに凌駕するスペックで、競技シーンにおける表示性能の限界を再び押し上げることになります。",
+    "insight": "リフレッシュレートが1000Hzに達すると、描画間隔はわずか1msとなり、ディスプレイ同期と入力レイテンシのボトルネックがより顕著になります。GPUの描画負荷やOSレベルの処理遅延がユーザー体験を大きく左右するため、今後はフレームレートを維持するためのアルゴリズムや、超低遅延パイプラインの設計がより重要視されるでしょう。",
+    "sourceUrl": "https://www.albawaba.com/business/pr/acer-unveils-its-first-fhd-1000-hz-1640686",
+    "sourceName": "Al-Bawaba",
+    "originalImageUrl": null,
+    "originalImageArticleUrl": "https://www.albawaba.com/business/pr/acer-unveils-its-first-fhd-1000-hz-1640686",
+    "displayDate": "2026-11-05"
+  },
+  "SONY": {
+    "title": "ソニーの裸眼3Dディスプレイ「ELF-MN1」が人気急上昇",
+    "summary": "ソニーの空間再現ディスプレイ「ELF-MN1」がソニーストアの売れ筋ランキングで1位を獲得。専用メガネなしで立体視が可能な本機は、キャラクター鑑賞やクリエイティブ用途で注目されており、手頃な価格設定もあって人気が再燃しています。",
+    "insight": "裸眼3D技術はレンダリング負荷や視差制御の観点で、高精度な空間認識技術が必要とされる分野です。エンジニア視点では、単なるディスプレイとしてだけでなく、XRや空間コンピューティングにおけるUI/UXのプロトタイピング環境として、今後の開発応用の可能性に注目です。",
+    "sourceUrl": "https://tecstaff.jp/2026-11-4-elf-mn1-ranking.html",
+    "sourceName": "ソニーショップ テックスタッフ",
+    "originalImageUrl": "https://tecstaff.jp/wp-content/uploads/2026/10/2a8f3c2a47edaa97840710663338e929.png",
+    "originalImageArticleUrl": "https://tecstaff.jp/2026-11-4-elf-mn1-ranking.html",
+    "displayDate": "2026-11-05"
+  },
+  "TCL": {
+    "title": "サムスンがTCL CSOT株を10%超取得、パネル供給網を強化",
+    "summary": "サムスン電子が、TCL傘下のディスプレイパネルメーカーであるCSOT（China Star Optoelectronics Technology）の株式を10.16%取得しました。液晶パネル価格の変動が激しい中、競合である中国勢との資本提携を通じ、パネルの安定調達と供給網の強靭化を図る狙いがあります。",
+    "insight": "大型液晶市場における中国メーカーの支配力が高まる中、サムスンが直接出資を行うことでサプライチェーンを囲い込む戦略が鮮明になっています。ディスプレイ技術がコモディティ化する一方で、安定供給と価格交渉力が競争の主戦場となっているエンジニアとして注目すべき動きです。",
+    "sourceUrl": "https://electronics.economictimes.indiatimes.com/news/components-hardware/samsung-electronics-acquires-10-16-stake-in-tcl-csot/135534834",
+    "sourceName": "electronics.economictimes.indiatimes.com",
+    "originalImageUrl": "https://etimg.etb2bimg.com/thumb/msid-135534834,imgsize-473789,width-1200,height=627,overlay-etelectronics,resizemode-75/news/components-hardware/samsung-electronics-acquires-10-16-stake-in-tcl-csot.jpg",
+    "originalImageArticleUrl": "https://electronics.economictimes.indiatimes.com/news/components-hardware/samsung-electronics-acquires-10-16-stake-in-tcl-csot/135534834",
+    "displayDate": "2026-11-05"
+  },
+  "Projector": {
+    "title": "XGIMI、4K/120Hz対応の新型プロジェクター発売",
+    "summary": "XGIMIがスマートプロジェクター「HORIZON 30」シリーズを11月5日より順次発売。4K解像度と120Hzの高リフレッシュレートに対応し、映像品質とスムーズな描画性能を両立した最新モデルです。",
+    "insight": "プロジェクター市場でも4K/120Hzが標準になりつつあり、ハイフレームレート対応はゲーミング用途での需要増を予感させます。映像処理回路の進化とともに、低遅延技術がどこまで最適化されているか、エンジニア目線でチェックしたいポイントです。",
+    "sourceUrl": "https://prtimes.jp/main/html/rd/p/000000108.000075566.html",
+    "sourceName": "PR TIMES",
+    "originalImageUrl": "https://prcdn.freetls.fastly.net/release_image/75566/108/75566-108-09e0eef1979b17bd55032c5c5a78800e-1920x1080.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+    "originalImageArticleUrl": "https://prtimes.jp/main/html/rd/p/000000108.000075566.html",
+    "displayDate": "2026-11-05"
+  },
+  "LED Wall Display": {
+    "title": "空港にAIホログラム「Amelia」が登場、今後の案内体験はどう変わる？",
+    "summary": "ボストン・ローガン国際空港が、AIアバターによる案内システム「Amelia」を導入。Proto社製のホログラム技術を活用し、多言語対応の会話やリアルタイムのTSA待ち時間案内などを提供。スタッフの負担軽減と旅客の利便性向上を目指す新たな旅客体験の形として注目されています。",
+    "insight": "空港のような広域施設における空間コンピューティングとAIの融合は、単なるデジタルサイネージから双方向インターフェースへの転換点を示しています。エンジニアとしては、低遅延なリアルタイムデータ連携と、物理的な存在感を最大化する映像レンダリングの最適化が、今後のUX向上の鍵となります。",
+    "sourceUrl": "https://www.digitalsignagetoday.com/articles/ai-avatar-concierge-helping-boston-airport-travelers-navigate-flight-journey/",
+    "sourceName": "Digital Signage Today | Latest Media",
+    "originalImageUrl": "https://nmgprod.s3.amazonaws.com/media/file/c9/2d/93ce765362d56fa2fb30b625e465/cover_image__ebT20YF5__Amelia_LoganAirport_Massport_Prot.jpg.360x190_q85_crop_upscale.webp",
+    "originalImageArticleUrl": "https://www.digitalsignagetoday.com/articles/ai-avatar-concierge-helping-boston-airport-travelers-navigate-flight-journey/",
+    "displayDate": "2026-11-05"
+  },
+  "TV": {
+    "title": "Googleが130万台のAndroid TVボットネットを解体",
+    "summary": "Googleが、約130万台のAndroid TVデバイスを感染させ、密かに稼働していたボットネット「BadBox」を解体しました。このマルウェアは広告詐欺やデータ収集を行っており、サプライチェーン攻撃を通じて正規のデバイスにプリインストールされた状態で流通していたことが判明しています。",
+    "insight": "デバイスのサプライチェーン攻撃は、OSレベルでの信頼性を損なうため非常に危険です。IoT開発者は、初期ファームウェアの整合性確認やセキュリティアップデートの適用フローにおいて、供給元の信頼性をどう担保するかが極めて重要であることを再認識すべきです。",
+    "sourceUrl": "https://gigazine.net/news/20261105-xcpe-down/",
+    "sourceName": "GIGAZINE",
+    "originalImageUrl": "https://i.gzn.jp/img/2026/11/05/xcpe-down/00.jpg",
+    "originalImageArticleUrl": "https://gigazine.net/news/20261105-xcpe-down/",
+    "displayDate": "2026-11-05"
+  },
+  "Production Monitor": {
+    "title": "Nikon ZR大型ファームウェア更新：Log3G10対応",
+    "summary": "Nikonのシネマカメラ「Nikon ZR」に初のメジャーアップデートとなるVer.2.00が発表されました。H.265でのLog3G10収録や、R3D NE収録時のLUT適用時フォーカスピーキング表示、HDMI経由の3D LUT出力など、プロの制作ワークフローを大幅に強化する機能が追加されます。",
+    "insight": "ハードウェアの仕様をファームウェアで拡張し、RED開発の強みを活かした柔軟な色管理を実現しています。特に外部モニタリングへのLUT反映や収録フォーマットの拡充は、ポストプロダクションの効率化を目指すエンジニアにとって注目すべき進化です。",
+    "sourceUrl": "https://www.cined.com/nikon-zr-firmware-2-00-detailed-log3g10-in-h-265-selectable-high-iso-nr-and-3d-lut-over-hdmi/",
+    "sourceName": "CineD",
+    "originalImageUrl": "https://www.cined.com/content/uploads/2026/11/Nikon-ZR-Firmware-2-feat-300x169.jpg",
+    "originalImageArticleUrl": "https://www.cined.com/nikon-zr-firmware-2-00-detailed-log3g10-in-h-265-selectable-high-iso-nr-and-3d-lut-over-hdmi/",
+    "displayDate": "2026-11-05"
+  },
+  "Camera Control": {
+    "title": "Motorolaの新スマホに見る「専用アクションセンサー」の可能性",
+    "summary": "Motorolaのフラッグシップ機「Signature 27」の詳細が公開されました。特に注目すべきは、カメラ撮影や特定のインタラクションに最適化された「専用アクションセンサー」の搭載です。高輝度ディスプレイと併せ、スマホカメラのハードウェア制御における新たなアプローチを示しています。",
+    "insight": "ソフトウェア処理だけでなく、専用のハードウェアセンサーを介した入力インターフェースの実装は、UI/UXや低レイテンシ制御の観点で非常に興味深い。特にカメラの起動や操作を物理レベルで高速化する設計は、今後のモバイルデバイス開発においてハードウェアアクセラレーションの新たなトレンドになりそうです。",
+    "sourceUrl": "https://petapixel.com/2026/11/04/the-motorola-signature-27-has-a-dedicated-action-sensor-and-ludicrously-bright-screen/",
+    "sourceName": "PetaPixel",
+    "originalImageUrl": "https://petapixel.com/assets/uploads/2026/11/Screenshot-2026-11-04-at-13.54.58-2.jpg",
+    "originalImageArticleUrl": "https://petapixel.com/2026/11/04/the-motorola-signature-27-has-a-dedicated-action-sensor-and-ludicrously-bright-screen/",
+    "displayDate": "2026-11-05"
+  }
+}
