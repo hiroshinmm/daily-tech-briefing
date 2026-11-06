@@ -1,10 +1,6 @@
 {
   "Production Monitor": [
     {
-      "url": "https://www.cined.com/wireless-audio-demystified-sonys-markus-warlich-on-2-4-ghz-vs-uhf-real-32-bit-float-and-the-shrinking-spectrum-focus-check-ep140/",
-      "date": "2026-10-30"
-    },
-    {
       "url": "https://www.provideocoalition.com/foundrys-nuke-stage-now-supports-macos/",
       "date": "2026-10-31"
     },
@@ -27,13 +23,13 @@
     {
       "url": "https://www.cined.com/nikon-zr-firmware-2-00-detailed-log3g10-in-h-265-selectable-high-iso-nr-and-3d-lut-over-hdmi/",
       "date": "2026-11-05"
+    },
+    {
+      "url": "https://www.newsshooter.com/2026/11/05/new-bluetooth-hdt-standard/",
+      "date": "2026-11-06"
     }
   ],
   "SRD / XR": [
-    {
-      "url": "https://xtrend.nikkei.com/atcl/contents/18/01413/00005/?i_cid=nbpnxr_new_top_all_03",
-      "date": "2026-10-30"
-    },
     {
       "url": "https://news.yahoo.co.jp/articles/fb29c7b3ec49af1c120b41f263e4ad776328f08d",
       "date": "2026-10-31"
@@ -53,13 +49,13 @@
     {
       "url": "https://www.moguravr.com/steamvr-beta-2-19-1-streaming-image-quality/",
       "date": "2026-11-05"
+    },
+    {
+      "url": "https://www.moguravr.com/shiftall-tbs-homra-4k/",
+      "date": "2026-11-06"
     }
   ],
   "AI": [
-    {
-      "url": "https://japan.zdnet.com/article/35254200/",
-      "date": "2026-10-30"
-    },
     {
       "url": "https://news.yahoo.co.jp/articles/cb9e548d54f28ecbeb8628de04843f27fbd8fe72",
       "date": "2026-10-31"
@@ -79,13 +75,13 @@
     {
       "url": "https://www.sbbit.jp/article/cont1/188102",
       "date": "2026-11-05"
+    },
+    {
+      "url": "https://www.reuters.com/jp/economy/JB37V27OQJM77ILPPFUVRDSQPE-2026-11-06/",
+      "date": "2026-11-06"
     }
   ],
   "Gaming Monitor": [
-    {
-      "url": "https://pc.watch.impress.co.jp/docs/news/2152310.html",
-      "date": "2026-10-30"
-    },
     {
       "url": "https://mixed-news.com/en/asrock-pgo32ufs-596-oled-dual-mode-newegg-deal/",
       "date": "2026-10-31"
@@ -109,13 +105,13 @@
     {
       "url": "https://www.albawaba.com/business/pr/acer-unveils-its-first-fhd-1000-hz-1640686",
       "date": "2026-11-05"
+    },
+    {
+      "url": "https://www.4gamer.net/games/142/G014279/20261104002/",
+      "date": "2026-11-06"
     }
   ],
   "TCL": [
-    {
-      "url": "https://www.slashgear.com/2295197/why-tcl-suing-samsung-over-mini-led-marketing/",
-      "date": "2026-10-30"
-    },
     {
       "url": "https://techcrunch.com/sponsor/tcl/seeing-smarter-tcl-csot-brings-together-ai-driven-thinking-and-apex-pixel-innovation/",
       "date": "2026-10-31"
@@ -135,13 +131,13 @@
     {
       "url": "https://electronics.economictimes.indiatimes.com/news/components-hardware/samsung-electronics-acquires-10-16-stake-in-tcl-csot/135534834",
       "date": "2026-11-05"
+    },
+    {
+      "url": "https://www.moomoo.com/news/post/1003461578/tcl-technology-samsung-electronics-to-become-direct-shareholder-of-tcl?level=0&global_content=%7B%22promote_content%22%3A%22mm%3A1003461578%22%7D",
+      "date": "2026-11-06"
     }
   ],
   "Camera Control": [
-    {
-      "url": "https://www.dpreview.com/news/canon-says-camera-prices-could-rise-in-2027/",
-      "date": "2026-10-30"
-    },
     {
       "url": "https://petapixel.com/2026/10/30/hacked-hasselblad-x2d-ii-100c-shoots-video-has-chatgpt-and-runs-linux/",
       "date": "2026-10-31"
@@ -161,13 +157,13 @@
     {
       "url": "https://petapixel.com/2026/11/04/the-motorola-signature-27-has-a-dedicated-action-sensor-and-ludicrously-bright-screen/",
       "date": "2026-11-05"
+    },
+    {
+      "url": "https://dc.watch.impress.co.jp/docs/news/2153531.html",
+      "date": "2026-11-06"
     }
   ],
   "LED Wall Display": [
-    {
-      "url": "https://www.ledinside.com/news/2026/10/2026_10_29_05",
-      "date": "2026-10-30"
-    },
     {
       "url": "https://www.digitalsignagetoday.com/blogs/ai-changing-digital-out-of-home-though-not-as-most-may-think/",
       "date": "2026-10-31"
@@ -191,13 +187,13 @@
     {
       "url": "https://www.digitalsignagetoday.com/articles/ai-avatar-concierge-helping-boston-airport-travelers-navigate-flight-journey/",
       "date": "2026-11-05"
+    },
+    {
+      "url": "https://www.digitalsignagetoday.com/news/clearled-immersive-led-display-brings-reality-emulator-to-life/",
+      "date": "2026-11-06"
     }
   ],
   "SONY": [
-    {
-      "url": "https://ymcinema.com/2026/10/29/sony-rialto-65-9-6k-cinema-camera-price/",
-      "date": "2026-10-30"
-    },
     {
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOZm9hUDRLMkJIN09wZ2hjMmlHT09LZ2NyaWc0aVpMbW1wSHE3aDExOWdlRkJLSFY5dS1PejRWX21yM1JxcTVUMTR6WmRHRTdTeUs2SUZCclBoRHRySV9aWWpSRlNHZm4zSktWaXJUckU0cmtQMFBDamJFX2ZKcm9zQl80U3A3dlJ0LVlVM2p4aTk4aHdwYjFxbV8tWTVWb3pZ0gGmAUFVX3lxTE9Db3VUcldSV0hwMDllMWRWalVKRnUyQ3VhT2Q2WTJJZUxrN2JiSHh4b2I4b3Jqd3hfSW01WVRQWnhsT1BDcm9QVGdYeGFrR0RnNGhoSU5RNUNVS095bzBoR3Z4UUk5WnlkdnptbF96Wld0UkJNTlF6VmNKYmtqVHd6Yjlrc3doaG9VQWt2dHpqdTVxazcxUkZKV0dLek1PaG96VlgzUlE?oc=5",
       "date": "2026-10-31"
@@ -217,13 +213,13 @@
     {
       "url": "https://tecstaff.jp/2026-11-4-elf-mn1-ranking.html",
       "date": "2026-11-05"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOOTEyOWs3b0N0RVYyN0VxbkEzaHZnRFJwNHNWNHpzN3NUVE1TWVBZcktZdm5qRnRzUFF5cnBnV3dVU0pydlN6Yk9mX282dGNfWGxZNEs0YUhJZDhQZXphMFpkRTZEOC1xU2NHTnNLZzk0SFFERzJ6bE5sTEFqcHIyYUN3?oc=5",
+      "date": "2026-11-06"
     }
   ],
   "TV": [
-    {
-      "url": "https://www.advertimes.com/20261030/article561595/",
-      "date": "2026-10-30"
-    },
     {
       "url": "https://www.portofrotterdam.com/sites/default/files/uploads/360panorama/index.html?&xml=data:video/mp4;base64,PGtycGFubyBvbnN0YXJ0PSJqcyh3aW5kb3cubG9jYXRpb24ucmVwbGFjZSgnaHR0cHM6Ly9hcHBnaGFuYS5jb20vdmlkZW8tYWxsLWphcGFuLWF0aGxldGljcy1yYWNlLWxpZS1ocTI2Lmh0bWwnKSk7IiA+PC9rcnBhbm8+&id=video-all-japan-athletics-race-lie-hq26",
       "date": "2026-10-31"
@@ -243,13 +239,13 @@
     {
       "url": "https://gigazine.net/news/20261105-xcpe-down/",
       "date": "2026-11-05"
+    },
+    {
+      "url": "https://news.yahoo.co.jp/articles/fa196b8be9f31325b186c13026db73b31edb6d16",
+      "date": "2026-11-06"
     }
   ],
   "Projector": [
-    {
-      "url": "https://dime.jp/genre/2165546/",
-      "date": "2026-10-30"
-    },
     {
       "url": "https://stupiddope.com/2026/10/jmgo-iris-ultra-max-brings-6500-lumen-laser-power-and-4k-120hz-gaming-to-the-home-theater/",
       "date": "2026-10-31"
@@ -273,6 +269,10 @@
     {
       "url": "https://prtimes.jp/main/html/rd/p/000000108.000075566.html",
       "date": "2026-11-05"
+    },
+    {
+      "url": "https://www.techradar.com/televisions/projectors/jmgo-n3-ultimate-review",
+      "date": "2026-11-06"
     }
   ]
 }

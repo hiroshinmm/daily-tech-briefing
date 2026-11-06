@@ -1,0 +1,102 @@
+{
+  "SRD / XR": {
+    "title": "ShiftallとTBS、超低遅延配信デバイス「HOMRA 4K」を発表",
+    "summary": "ShiftallとTBSが、プロの映像制作・配信現場向けの次世代配信デバイス「HOMRA 4K」を共同開発しました。超低遅延配信を実現し、VTuber配信やライブ制作での活用が見込まれています。発売は2027年3月予定、価格は約10万円。",
+    "insight": "プロ向け配信で重要となる「超低遅延」をデバイスレベルでいかに担保するかが注目です。VTuberのリアルタイムインタラクションやXRライブ配信において、ハードウェアによる遅延解消は体験の質を左右する重要な要素となります。",
+    "sourceUrl": "https://www.moguravr.com/shiftall-tbs-homra-4k/",
+    "sourceName": "Mogura VR",
+    "originalImageUrl": "https://assets.moguravr.com/uploads/2026/11/d2b54b6b935c12f4fabb0e4740279f84-kix.xpohi7eybtpf-300x158.webp",
+    "originalImageArticleUrl": "https://www.moguravr.com/shiftall-tbs-homra-4k/",
+    "displayDate": "2026-11-06"
+  },
+  "AI": {
+    "title": "OpenAIが「GPT-6 Cyber」を限定公開、リスクは「重大」",
+    "summary": "OpenAIが、サイバーセキュリティ特化型と見られる「GPT-6 Cyber」を限定的に公開しました。同モデルはリスク区分が「重大」に指定されており、AIによる高度な攻撃手法や脆弱性探知の悪用可能性について警戒感が高まっています。",
+    "insight": "エンジニアはAIによるコード生成の利便性だけでなく、サイバー攻撃の自動化リスクを再認識する必要があります。今後はAIの出力に対するセキュリティガードレールや、AIを活用した防御手法の構築がより一層重要になります。",
+    "sourceUrl": "https://www.reuters.com/jp/economy/JB37V27OQJM77ILPPFUVRDSQPE-2026-11-06/",
+    "sourceName": "Reuters",
+    "originalImageUrl": "https://www.reuters.com/resizer/v2/NIBSZMMLS5I7RIZASF5W2UYGAU.jpg?auth=8fb21377c8d75ba9cd01ca3427aa8050db46699d8690e4bd759bff8a2c888721&height=1005&width=1920&quality=80&smart=true",
+    "originalImageArticleUrl": "https://www.reuters.com/jp/economy/JB37V27OQJM77ILPPFUVRDSQPE-2026-11-06/",
+    "displayDate": "2026-11-06"
+  },
+  "Gaming Monitor": {
+    "title": "マウスの動きをAIで最適化？Corsair新製品",
+    "summary": "Corsairの新型ワイヤレスマウス「SABRE v3 PRO PureVector」が登場。エイムトレーニングサービス「Aimlabs」と連携し、ユーザーの個別の手の動きに合わせてセンサーの挙動を最適化できるというユニークな機能を搭載しています。",
+    "insight": "ハードウェアの性能だけでなく、ソフトウェア（Aimlabs）との連携によるユーザー体験のパーソナライズが進んでいます。センサーのキャリブレーションに機械学習的なアプローチを導入するトレンドは、ゲーミングデバイスの新たな差別化要因となりそうです。",
+    "sourceUrl": "https://www.4gamer.net/games/142/G014279/20261104002/",
+    "sourceName": "4Gamer.net − 最新記事",
+    "originalImageUrl": "https://www.4gamer.net/games/142/G014279/20261104002/SS/005.jpg",
+    "originalImageArticleUrl": "https://www.4gamer.net/games/142/G014279/20261104002/",
+    "displayDate": "2026-11-06"
+  },
+  "TCL": {
+    "title": "サムスン電子、TCL傘下CSOTの株主に",
+    "summary": "TCL傘下のディスプレイ大手CSOTに対し、サムスン電子が直接出資を行うことが明らかになりました。今回の取引により、サムスンはCSOTの株主となり、パネル調達や技術提携における両社の関係がさらに深まる見通しです。",
+    "insight": "ディスプレイ業界のサプライチェーン再編を示唆する動きであり、パネルの大型化と高精細化における垂直統合・提携が加速しています。エンジニアとしては、サムスンとTCLの協業によるパネル製造技術の共有や、次世代ディスプレイ開発のトレンド変化に注目すべきです。",
+    "sourceUrl": "https://www.moomoo.com/news/post/1003461578/tcl-technology-samsung-electronics-to-become-direct-shareholder-of-tcl?level=0&global_content=%7B%22promote_content%22%3A%22mm%3A1003461578%22%7D",
+    "sourceName": "Moomoo",
+    "originalImageUrl": "https://pubimg.futunn.com/2022050900000297f3031bc9d6b.jpg",
+    "originalImageArticleUrl": "https://www.moomoo.com/news/post/1003461578/tcl-technology-samsung-electronics-to-become-direct-shareholder-of-tcl?level=0&global_content=%7B%22promote_content%22%3A%22mm%3A1003461578%22%7D",
+    "displayDate": "2026-11-06"
+  },
+  "Camera Control": {
+    "title": "折りたたみ式ハンドル搭載の新型カメラジンバル「ZHIYUN WEEBILL 5」",
+    "summary": "ケンコー・トキナーからカメラ用ジンバル「ZHIYUN WEEBILL 5」が発売。最大の特徴は、2本目のハンドルを折りたたみ式にした独創的な構造です。さらにAIモジュールにも対応しており、撮影体験を向上させる設計が注目されています。",
+    "insight": "メカニカルな可変機構とAIによる被写体追従の統合は、ハードウェアの物理設計とソフトウェア最適化の好例です。ジンバルのような複雑な制御系デバイスにおいて、物理的な操作性と演算処理の融合が製品寿命と使い勝手にどう寄与するかのケーススタディとして興味深いです。",
+    "sourceUrl": "https://dc.watch.impress.co.jp/docs/news/2153531.html",
+    "sourceName": "デジカメ Watch",
+    "originalImageUrl": "https://dc.watch.impress.co.jp/img/dcw/list/2153/531/x01.jpg",
+    "originalImageArticleUrl": "https://dc.watch.impress.co.jp/docs/news/2153531.html",
+    "displayDate": "2026-11-06"
+  },
+  "SONY": {
+    "title": "ソニー、グラスレス3D技術を6インチ画面に凝縮",
+    "summary": "ソニーが、特殊なメガネを使用せずに3D立体視が可能な「空間再現ディスプレイ」の技術を、6インチのデスクトップサイズにまで小型化した最新モデルを発表しました。キャラクター鑑賞やクリエイティブ用途を想定したコンパクトな設計が特徴です。",
+    "insight": "ライトフィールドディスプレイ（空間再現ディスプレイ）の小型化は、AR/VRにおける視差バリア技術の精緻化を意味しており、モバイルデバイスやHMDの未来像に大きく影響します。エンジニアとしては、この物理的な光学層と、リアルタイムのレンダリングパイプラインをどう最適化しているかに注目すべきでしょう。",
+    "sourceUrl": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOOTEyOWs3b0N0RVYyN0VxbkEzaHZnRFJwNHNWNHpzN3NUVE1TWVBZcktZdm5qRnRzUFF5cnBnV3dVU0pydlN6Yk9mX282dGNfWGxZNEs0YUhJZDhQZXphMFpkRTZEOC1xU2NHTnNLZzk0SFFERzJ6bE5sTEFqcHIyYUN3?oc=5",
+    "sourceName": "New Atlas",
+    "originalImageUrl": null,
+    "originalImageArticleUrl": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOOTEyOWs3b0N0RVYyN0VxbkEzaHZnRFJwNHNWNHpzN3NUVE1TWVBZcktZdm5qRnRzUFF5cnBnV3dVU0pydlN6Yk9mX282dGNfWGxZNEs0YUhJZDhQZXphMFpkRTZEOC1xU2NHTnNLZzk0SFFERzJ6bE5sTEFqcHIyYUN3?oc=5",
+    "displayDate": "2026-11-06"
+  },
+  "TV": {
+    "title": "フジテレビ、ドラマ制作に生成AI活用で工数最大8割削減",
+    "summary": "フジテレビがドラマ制作において生成AIを積極的に導入し、背景や特殊効果の生成を行うことで、制作工程の工数を最大8割削減することに成功しました。この取り組みは、効率化だけでなく表現の幅を広げる一方で、局内では著作権や演出への影響について慎重な意見も出ており、今後の制作現場のスタンダードになり得るか注目されています。",
+    "insight": "生成AIによる映像生成は、VFXや背景制作におけるコスト・時間を劇的に短縮する強力なツールとして実証されました。エンジニアの観点では、AIのクリエイティブ活用において「いかに既存の制作パイプラインにシームレスに組み込むか」というワークフローの自動化技術が、今後のメディア業界の競争力を左右する鍵となります。",
+    "sourceUrl": "https://news.yahoo.co.jp/articles/fa196b8be9f31325b186c13026db73b31edb6d16",
+    "sourceName": "Yahoo!ニュース",
+    "originalImageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261106-00010000-dempat-000-1-view.jpg?exp=10800",
+    "originalImageArticleUrl": "https://news.yahoo.co.jp/articles/fa196b8be9f31325b186c13026db73b31edb6d16",
+    "displayDate": "2026-11-06"
+  },
+  "Projector": {
+    "title": "昼間は使いにくい？プロジェクター「JMGO N3」の輝度特性",
+    "summary": "TechRadarによる「JMGO N3 Ultimate」のレビューが公開。極めて高い輝度を誇るものの、夜間使用時にはその明るさが必ずしも利点として機能しない側面があることが指摘されています。",
+    "insight": "ハードウェアのスペック（最大輝度）が必ずしもユーザー体験（UX）に直結しないという好例です。輝度の高さとコントラスト・色再現のバランスという、ディスプレイ技術におけるトレードオフを再考する良い契機となります。",
+    "sourceUrl": "https://www.techradar.com/televisions/projectors/jmgo-n3-ultimate-review",
+    "sourceName": "TechRadar",
+    "originalImageUrl": "https://cdn.mos.cms.futurecdn.net/NT4vw929GQg25JRUCJGRJS-2560-80.jpg",
+    "originalImageArticleUrl": "https://www.techradar.com/televisions/projectors/jmgo-n3-ultimate-review",
+    "displayDate": "2026-11-06"
+  },
+  "LED Wall Display": {
+    "title": "次世代の没入型体験：曲面LEDウォールの進化",
+    "summary": "ブリストル大学の「Reality Emulator」に採用されたClearLEDの1.2mmピクセルピッチ曲面LEDウォールが話題です。1,562個の柔軟なモジュールを組み合わせ、継ぎ目のない卵型の没入空間を実現しました。AIやゲームエンジンを用いたシミュレーション研究における、次世代の可視化基盤として期待されています。",
+    "insight": "従来のフラットなLEDパネルとは異なり、曲率を持たせた柔軟なモジュール設計は、空間全体の没入感を劇的に向上させるエンジニアリングの好例です。ピクセルピッチを微細化しつつ、構造的な整合性とシームレスな映像表現を両立させる技術は、今後メタバースやフィジカルAIの検証現場で標準的な要件となるでしょう。",
+    "sourceUrl": "https://www.digitalsignagetoday.com/news/clearled-immersive-led-display-brings-reality-emulator-to-life/",
+    "sourceName": "Digital Signage Today",
+    "originalImageUrl": "https://nmgprod.s3.amazonaws.com/media/file/cc/17/2ad7f0e8c15a0fa70afaa5322a59/cover_image__uwAk0g4V__Clear_LED.jpeg.360x190_q85_crop_upscale.webp",
+    "originalImageArticleUrl": "https://www.digitalsignagetoday.com/news/clearled-immersive-led-display-brings-reality-emulator-to-life/",
+    "displayDate": "2026-11-06"
+  },
+  "Production Monitor": {
+    "title": "Bluetooth HDT: 通信速度4倍の新規格が登場",
+    "summary": "Bluetooth SIGが、従来のBluetoothと比較してデータ転送速度を約4倍に引き上げる新規格「Bluetooth High Data Throughput (HDT)」を承認しました。これにより、さらなる大容量通信の高速化や省電力性能、信頼性の向上が期待されています。",
+    "insight": "通信プロトコルの刷新により、高解像度映像やロスレスオーディオのリアルタイム転送がより安定的かつ低遅延に行えるようになる可能性があります。エンジニアとしては、この帯域幅の拡大がモバイル機器の周辺環境や将来的なワイヤレス制作フローにどう影響するか注目が必要です。",
+    "sourceUrl": "https://www.newsshooter.com/2026/11/05/new-bluetooth-hdt-standard/",
+    "sourceName": "Newsshooter",
+    "originalImageUrl": "https://media.newsshooter.com/wp-content/uploads/2026/11/Bluetooth.jpg",
+    "originalImageArticleUrl": "https://www.newsshooter.com/2026/11/05/new-bluetooth-hdt-standard/",
+    "displayDate": "2026-11-06"
+  }
+}
