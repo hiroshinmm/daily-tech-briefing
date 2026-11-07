@@ -1,0 +1,102 @@
+{
+  "AI": {
+    "title": "「AIがAIを作る」自動化トレンドの最前線",
+    "summary": "大手テック企業がAI開発ツールを戦略的に買収・蓄積しています。単なるAI活用から、AIモデル自体を効率的に開発・最適化するための「AIによるAI開発」へと、競争の軸がシフトしている状況を解説しています。",
+    "insight": "AIモデルの構築において、自動化や効率化ツールの重要性が高まっており、単なるモデル単体の性能競争から、AI開発パイプラインそのものの競争へとフェーズが変わっています。エンジニアとしては、特定のLLM利用だけでなく、AI開発のプロセス全体を最適化するMLOpsやAutoMLの知識がより重要になります。",
+    "sourceUrl": "https://exawizards.com/column/ai-trend/news-11-07-2026-2/",
+    "sourceName": "株式会社エクサウィザーズ",
+    "originalImageUrl": "https://exawizards.com/column/wp-content/uploads/2026/11/スクリーンショット-2026-11-07-9.32.05.png",
+    "originalImageArticleUrl": "https://exawizards.com/column/ai-trend/news-11-07-2026-2/",
+    "displayDate": "2026-11-07"
+  },
+  "SRD / XR": {
+    "title": "XREAL AURA発表：Android XR搭載スマートグラスの可能性",
+    "summary": "XREALが発表したAndroid XR搭載スマートグラス「XREAL AURA」が話題です。スタンドアローンでの動作を実現し、これまでの外部接続型グラスとは異なるUXが期待されています。その期待と技術的な課題について各所で検証が進んでいます。",
+    "insight": "Android XRプラットフォームの採用により、OSレベルでの空間コンピューティング体験がどこまで洗練されるかが焦点です。ハードウェア単体でのトラッキング性能や、バッテリー・発熱の制御というモバイルXR特有のエンジニアリング課題をどう解決しているか注目すべきです。",
+    "sourceUrl": "https://www.businessinsider.jp/article/2611-xreal-aura-first-android-xr-glasses-japan/",
+    "sourceName": "Business Insider Japan",
+    "originalImageUrl": "https://media.loom-app.com/loom/2026/11/06/f0c04927-823d-415c-9567-d30883b6d15b/original.jpg?w=1200&h=630",
+    "originalImageArticleUrl": "https://www.businessinsider.jp/article/2611-xreal-aura-first-android-xr-glasses-japan/",
+    "displayDate": "2026-11-07"
+  },
+  "SONY": {
+    "title": "ソニーの空間再現ディスプレイ「ELF-MN1」の真価とは",
+    "summary": "ソニーが展開する裸眼立体視可能な小型空間再現ディスプレイ「ELF-MN1」の実機体験レポート。従来のディスプレイと異なり、特別な眼鏡なしで3Dオブジェクトをリアルに表示できる技術のポテンシャルと、その没入感について詳細に解説されています。",
+    "insight": "エンジニアリングの観点では、視線追跡センサーとレンズ技術の高度な統合による低遅延な空間表現が鍵です。UI/UX設計における「物理的な実在感」をどうプログラミングで制御するかという新たなインターフェース開発のヒントが詰まっています。",
+    "sourceUrl": "https://www.moguravr.com/elf-mn1-review/",
+    "sourceName": "Mogura VR",
+    "originalImageUrl": "https://assets.moguravr.com/uploads/2026/11/fa24b7e235912ada4ee87bc21d69188d-kix.v354d2d2h0xv.webp",
+    "originalImageArticleUrl": "https://www.moguravr.com/elf-mn1-review/",
+    "displayDate": "2026-11-07"
+  },
+  "TV": {
+    "title": "Roku初の有機ELテレビが999ドルに値下げ",
+    "summary": "Rokuが展開する初の有機EL（OLED）テレビが999ドルまで値下げされ、ゲーマーにとって非常に魅力的な選択肢となりました。高画質とコストパフォーマンスを両立し、ディスプレイ市場で新たな競争を生んでいます。",
+    "insight": "ハードウェアのコモディティ化が進む中、Rokuのようなプラットフォーム企業がOLEDに注力するのは、ソフトウェア体験だけでなく没入型の視聴体験で差別化を図る戦略です。エンジニアの視点では、低価格帯での高品質パネルの採用は、今後のリビング用ディスプレイの標準スペックが底上げされる重要な兆候と言えます。",
+    "sourceUrl": "https://theinventory.com/roku-55-inch-pro-series-smart-tv-4k-oled-120hz-2026-rokutv-5fe372bd",
+    "sourceName": "The Inventory",
+    "originalImageUrl": "https://theinventory.com/cdn-cgi/image/width=1200,quality=85,format=auto/https://assets.theinventory.com/media/roku-55-inch-pro-series-smart-tv-4k-oled-120hz-2026-rokutv-5fe372bd-1789323549876-1200x630.png",
+    "originalImageArticleUrl": "https://theinventory.com/roku-55-inch-pro-series-smart-tv-4k-oled-120hz-2026-rokutv-5fe372bd",
+    "displayDate": "2026-11-07"
+  },
+  "TCL": {
+    "title": "TCL CSOTが次世代OLED量産へ、製造装置搬入を開始",
+    "summary": "TCLのディスプレイ製造子会社であるCSOTが、広州にある「t8」生産ラインへの製造装置搬入を開始しました。これは印刷方式OLED（IJP OLED）パネルの量産に向けた重要なマイルストーンであり、次世代ディスプレイ技術の商用化が一歩前進したことを示しています。",
+    "insight": "印刷方式OLEDは、従来の蒸着方式と比較して材料の利用効率が高く、中大型パネルの低コスト化を実現する鍵となる技術です。エンジニアの視点では、大型パネルの量産歩留まりとRGB画素の精密制御が、今後のプレミアムTV市場の競争優位性を左右する重要な要素となります。",
+    "sourceUrl": "https://www.prnewswire.com/news-releases/tcl-csot-begins-equipment-move-in-at-its-t8-production-line-302931951.html",
+    "sourceName": "PR Newswire",
+    "originalImageUrl": "https://mmx.prnewswire.com/media/MS2028797/20261105231341EST_image1.jpg?id=OA3062328&p=facebook",
+    "originalImageArticleUrl": "https://www.prnewswire.com/news-releases/tcl-csot-begins-equipment-move-in-at-its-t8-production-line-302931951.html",
+    "displayDate": "2026-11-07"
+  },
+  "Gaming Monitor": {
+    "title": "Acerの500Hz QD-OLEDモニターが約7.5万円に",
+    "summary": "Acerの500Hz駆動対応QD-OLEDゲーミングモニターが499.99ドルで販売されています。超高リフレッシュレートの恩恵を受けるには、PC側の描画性能が不可欠であり、ハイエンド環境のポテンシャルを最大限に引き出すためのハードウェア構成が重要となります。",
+    "insight": "500Hzという極めて高いリフレッシュレートは、入力遅延の最小化や動体視力の追従においてエンジニアリング上の興味深い挑戦となります。特にフレームレートを安定させるためのCPU/GPUボトルネックの解消や、高フレームレートを維持する描画負荷の最適化は、低レイテンシシステム開発の知見に直結します。",
+    "sourceUrl": "https://mixed-news.com/en/acer-predator-x27u-f5-500hz-qd-oled-monitor-newegg-deal/",
+    "sourceName": "MIXED News",
+    "originalImageUrl": "https://mixed-news.com/en/wp-content/uploads/2026/11/nov6-acer500-0.jpg",
+    "originalImageArticleUrl": "https://mixed-news.com/en/acer-predator-x27u-f5-500hz-qd-oled-monitor-newegg-deal/",
+    "displayDate": "2026-11-07"
+  },
+  "Projector": {
+    "title": "4K@120Hz対応の最新プロジェクターが登場",
+    "summary": "JMGOから最新のフラッグシッププロジェクター「IRIS Ultra Max」および「IRIS Ultra」が発表されました。最大の特徴は4K解像度と120Hzの高リフレッシュレートに対応している点で、ホームシアター市場における高画質・高フレームレート化の流れを象徴しています。",
+    "insight": "プロジェクターにおいて4Kかつ120Hzのサポートは、ハイエンドPCゲーミング環境との親和性が非常に高まっていることを示唆しています。映像処理エンジンの高性能化に伴い、従来のホームシアター用途だけでなく、低遅延が求められるインタラクティブな視聴体験への転換点となる技術です。",
+    "sourceUrl": "https://dtimes.jp/post-1453131/",
+    "sourceName": "Dtimes",
+    "originalImageUrl": "https://dtimes.jp/wp-content/uploads/2026/11/dtimes-engine-d883c23fcaefa11eed852c33fa94c39d-20261106-671ae5.jpg",
+    "originalImageArticleUrl": "https://dtimes.jp/post-1453131/",
+    "displayDate": "2026-11-07"
+  },
+  "LED Wall Display": {
+    "title": "番組演出の進化：LEDウォールとライブトリガーの同期",
+    "summary": "英TV番組「Catchphrase」において、大型の湾曲LEDウォールとメディアサーバー「Hippotizer」を用いた高度な映像演出が導入されました。リアルタイムなトリガー制御により、動的なグラフィック表示と照明演出を完全に同期させるシステム構成が注目されています。",
+    "insight": "リアルタイムレンダリングと物理的LEDウォールの同期は、放送現場における低遅延な信号処理技術の重要性を示しています。エンジニア視点では、単なる表示デバイスとしてのLEDではなく、イベント駆動型の制御スタックをどのように低遅延で統合するかが、没入型体験の鍵となります。",
+    "sourceUrl": "https://www.4rfv.co.uk/industrynews/336712/catchphrase_returns_with_curved_led_wall_and_live_triggers_driven_by_hippotizer",
+    "sourceName": "4RFV",
+    "originalImageUrl": "http://www.4rfv.co.uk/newsimages/1_336712_catchphrase.jpg",
+    "originalImageArticleUrl": "https://www.4rfv.co.uk/industrynews/336712/catchphrase_returns_with_curved_led_wall_and_live_triggers_driven_by_hippotizer",
+    "displayDate": "2026-11-07"
+  },
+  "Production Monitor": {
+    "title": "DaVinci Resolve 21.2登場、M5チップで5倍高速化",
+    "summary": "Blackmagic Designが「DaVinci Resolve 21.2」をリリースしました。最新のApple M5 Pro/Maxチップでレンダリング速度が最大5倍に向上したほか、PROLED XDRタッチスクリーンへの対応、Gen 6カラーサイエンスLUTの導入、Studio版へのAI機能追加など、編集効率を劇的に高めるアップデートが含まれています。",
+    "insight": "最新ハードウェアの性能を最大限に引き出す最適化とAIによるワークフローの自動化が進んでいます。ソフトウェアエンジニアにとっても、特定のチップアーキテクチャに最適化したバイナリの設計や、AIを用いたクリエイティブツール実装のベンチマークとして注目に値します。",
+    "sourceUrl": "https://www.cined.com/davinci-resolve-21-2-released-proled-xdr-touch-support-gen-6-color-science-luts-up-to-5x-faster-rendering-on-m5-pro-and-m5-max/",
+    "sourceName": "CineD",
+    "originalImageUrl": "https://www.cined.com/content/uploads/2026/11/download-2-300x169.jpg",
+    "originalImageArticleUrl": "https://www.cined.com/davinci-resolve-21-2-released-proled-xdr-touch-support-gen-6-color-science-luts-up-to-5x-faster-rendering-on-m5-pro-and-m5-max/",
+    "displayDate": "2026-11-07"
+  },
+  "Camera Control": {
+    "title": "Sigma fp2の画質に迫る：HDR常時撮影の設計思想",
+    "summary": "Sigma fp2に関する詳細な画質分析が公開されました。同機は「常時HDR撮影（Full-time HDR）」をコンセプトに据えており、従来のカメラとは一線を画すアプローチがとられています。その設計上のコストや、得られるメリットについて深い洞察が語られています。",
+    "insight": "ハードウェアの処理能力向上により、従来のHDRのような合成工程を前提としない「常時HDR」設計が可能になっています。計算写真学（Computational Photography）の知見がカメラのセンサー信号処理にどう組み込まれているかを理解することは、今後の画像処理エンジニアリングにおいて重要な示唆となります。",
+    "sourceUrl": "https://www.dpreview.com/articles/a-deep-dive-into-the-sigma-fp2s-image-quality-finds-a-camera-thats-unconventional-to-its-core/",
+    "sourceName": "DPReview",
+    "originalImageUrl": "https://www.dpreview.com/wp-content/uploads/2026/11/PI_Sigma_FP2_top_plate.jpg",
+    "originalImageArticleUrl": "https://www.dpreview.com/articles/a-deep-dive-into-the-sigma-fp2s-image-quality-finds-a-camera-thats-unconventional-to-its-core/",
+    "displayDate": "2026-11-07"
+  }
+}
