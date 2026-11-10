@@ -1,0 +1,21 @@
+{
+  "AI": {
+    "title": "グーグルが語る「AIエージェント時代」の到来",
+    "summary": "Googleは、AIが単なる生成ツールから特定のタスクを自律的に実行する「AIエージェント」へと進化する時代が到来すると予測。これに伴い、特化型チップの需要が爆発的に増加すると見ており、インフラ構築での覇権争いが加速しています。",
+    "insight": "LLMの推論から自律的な行動へ、AIアプリケーションのパラダイムシフトが本格化しています。エンジニアとしては、従来のプロンプトエンジニアリングだけでなく、エージェントが外部ツールを効率的に利用するためのアーキテクチャ設計や、レイテンシを最小化する推論基盤の構築が今後の腕の見せ所となります。",
+    "sourceUrl": "https://news.yahoo.co.jp/articles/60c6f5fbaef08bb446edbba392a15dbe1a501922",
+    "sourceName": "Yahoo!ニュース",
+    "originalImageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261110-00000046-cnippou-000-1-view.jpg?exp=10800",
+    "originalImageArticleUrl": "https://news.yahoo.co.jp/articles/60c6f5fbaef08bb446edbba392a15dbe1a501922",
+    "displayDate": "2026-11-10"
+  },
+  "SRD / XR": null,
+  "Gaming Monitor": null,
+  "SONY": null,
+  "TCL": null,
+  "TV": null,
+  "Projector": null,
+  "Camera Control": null,
+  "Production Monitor": null,
+  "LED Wall Display": null
+}
