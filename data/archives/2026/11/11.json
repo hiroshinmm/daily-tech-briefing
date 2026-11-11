@@ -1,0 +1,102 @@
+{
+  "SRD / XR": {
+    "title": "Meta、PixelworksとVR技術の複数年契約を締結",
+    "summary": "Metaが映像処理技術で知られるPixelworksと、VRデバイスに関する複数年契約を締結しました。この発表を受けてPixelworksの株価が急騰。次世代VRヘッドセットにおける視覚体験の向上に向けた技術提携として注目されています。",
+    "insight": "Pixelworksのビジュアルプロセッサ技術がQuestシリーズに組み込まれることで、モバイルVRにおける画質と遅延の最適化が進む可能性があります。ハードウェアの制約が厳しいモバイルVRにおいて、専用チップによるレンダリング処理の補完は重要なトレンドです。",
+    "sourceUrl": "https://finance.biggo.jp/news/70779fb1-e42b-4650-b343-6aa4e2b4d360",
+    "sourceName": "BigGo ファイナンス",
+    "originalImageUrl": "https://img.biggo.com/_JQxHaljKl45WPWWxGyh4IjvtLEYzBYwMWkPjmIcmXY/fit/1200/0/sm/0/aHR0cHM6Ly9pbWcuYmdvLm9uZS9uZXdzLWltYWdlL2FpX2dlbmVyYXRlZC8yMDI2LTExLzcwNzc5ZmIxLWU0MmItNDY1MC1iMzQzLTZhYTRlMmI0ZDM2MF8xNzk0MzIyNzE5X2RlZmF1bHQuanBn.jpg",
+    "originalImageArticleUrl": "https://finance.biggo.jp/news/70779fb1-e42b-4650-b343-6aa4e2b4d360",
+    "displayDate": "2026-11-11"
+  },
+  "AI": {
+    "title": "製造業におけるAIエージェント活用の最前線",
+    "summary": "AWSが公開したレポートでは、製造業7社が全社基盤としてAIエージェントを導入した際の実践例や直面した課題が語られています。実験段階から実運用へ移行する際の技術的・組織的な障壁がリアルに共有されており、今後のAI導入の参考になる内容です。",
+    "insight": "AIエージェントの導入は単なる技術実装ではなく、既存システムとのデータ連携やガバナンス設計が鍵となります。特に製造現場での活用においては、AIの出力をどう制御し、どのように継続的な運用フローに乗せるかという『運用の定着化』がエンジニアにとっての最重要課題です。",
+    "sourceUrl": "https://aws.amazon.com/jp/blogs/news/genai-roundtable-202610/",
+    "sourceName": "Amazon Web Services (AWS)",
+    "originalImageUrl": "https://d2908q01vomqb2.cloudfront.net/b3f0c7f6bb763af1be91d9e74eabfeb199dc1f1f/2026/11/10/featured-genai-roundtable-20261026-1260x630.jpg",
+    "originalImageArticleUrl": "https://aws.amazon.com/jp/blogs/news/genai-roundtable-202610/",
+    "displayDate": "2026-11-11"
+  },
+  "Gaming Monitor": {
+    "title": "量子コンピュータ「黎明」が56量子ビットへ進化",
+    "summary": "理化学研究所は、量子コンピュータ「黎明」を56量子ビットの「System Model H2」へとアップグレードしました。従来のスパコンの限界を超えた計算能力を目指し、新たな開発フェーズへ移行しています。",
+    "insight": "量子ビット数の増加だけでなく、エラー訂正やノイズ耐性といった実用化に向けたエンジニアリングの進展に注目です。特定のアルゴリズムにおいて古典計算を圧倒する量子超越性の達成に向けた、ハード・ソフト両面の最適化技術が今後のトレンドになります。",
+    "sourceUrl": "https://pc.watch.impress.co.jp/docs/news/2155393.html",
+    "sourceName": "PC Watch",
+    "originalImageUrl": "https://pc.watch.impress.co.jp/img/pcw/list/2155/393/1.jpg",
+    "originalImageArticleUrl": "https://pc.watch.impress.co.jp/docs/news/2155393.html",
+    "displayDate": "2026-11-11"
+  },
+  "SONY": {
+    "title": "ソニーが新型カメラを登録！α7S IV登場の予感",
+    "summary": "米国でソニーの新型カメラと思われるコード「WW491229」が登録されました。新バッテリーが採用されていることから、動画特化機「α7S IV」の可能性が高いと業界で話題になっています。競合他社の進化が激しい中、次世代の映像制作ツールとしてどのようなスペックで登場するのか注目が集まっています。",
+    "insight": "新バッテリー採用は電源制御や消費電力設計の刷新を意味し、長時間撮影時の熱設計やデータ転送性能が向上している可能性があります。特にスタック型CMOSセンサーの進化と組み合わせた、ダイナミックレンジや読み出し速度の向上にエンジニアとして注目すべきです。",
+    "sourceUrl": "https://cameota.com/sony/53075.html",
+    "sourceName": "CAMEOTA.com",
+    "originalImageUrl": "https://cameota.com/wp-content/uploads/2026/11/Sony-register-a-new-WW491229.jpg",
+    "originalImageArticleUrl": "https://cameota.com/sony/53075.html",
+    "displayDate": "2026-11-11"
+  },
+  "TV": {
+    "title": "TBSHD中間決算、広告減によるテレビ事業減益",
+    "summary": "TBSホールディングスの2025年3月期中間決算は、増収減益となりました。スポット広告の軟調により、中核であるテレビ事業の営業利益が前年同期比で半減する厳しい結果となりました。",
+    "insight": "マスメディアの広告モデルが構造的な変革期にあることを示す事例です。エンジニアリング視点では、テレビ視聴率に依存しないデジタルプラットフォームの構築や、収益源の多角化（DX）が急務であると言えます。",
+    "sourceUrl": "https://media-innovation.jp/article/2026/11/11/143967.html",
+    "sourceName": "Media Innovation",
+    "originalImageUrl": "https://media-innovation.jp/imgs/ogp_f/37475.png",
+    "originalImageArticleUrl": "https://media-innovation.jp/article/2026/11/11/143967.html",
+    "displayDate": "2026-11-11"
+  },
+  "TCL": {
+    "title": "TCL、2026年発売製品よりメーカー3年保証を導入へ",
+    "summary": "TCLは2026年以降に発売される対象のテレビおよびモニター製品に対し、メーカー保証期間を従来の期間から3年へと延長することを発表しました。製品の信頼性と顧客満足度の向上を狙います。",
+    "insight": "家電製品の標準保証期間が1〜2年である中で、3年保証への延長は製品寿命や品質への自信を示す強力な差別化要因となります。エンジニアリングの視点では、設計上の耐久性試験やライフサイクル管理（部品供給や修理体制）を長期スパンで最適化する仕組みが整ったことを示唆しており、ハードウェア製品の品質管理戦略として注目に値します。",
+    "sourceUrl": "https://prtimes.jp/main/html/rd/p/000000029.000121487.html",
+    "sourceName": "PR TIMES",
+    "originalImageUrl": "https://prcdn.freetls.fastly.net/release_image/121487/29/121487-29-0ac2bd741bd6b64f5566d371f8ee123c-3840x2160.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+    "originalImageArticleUrl": "https://prtimes.jp/main/html/rd/p/000000029.000121487.html",
+    "displayDate": "2026-11-11"
+  },
+  "Camera Control": {
+    "title": "VSCOがAI学習への利用停止を明言、規約改定でプライバシー保護を強化",
+    "summary": "写真共有アプリのVSCOが利用規約を改定し、ユーザーが投稿した写真をAIの学習や生成モデルのトレーニングに利用しないことを明確に規定しました。かつて利用規約の曖昧さから批判を浴びた経緯があり、クリエイターの権利保護に向けた信頼回復の動きとして注目されています。",
+    "insight": "AI学習データにおける著作権とプライバシーの問題は、今やテック企業にとって避けて通れない信頼性の根幹です。エンジニアリングの観点からは、単にAIモデルを構築するだけでなく、データガバナンスと透明性をどう実装し規約レベルで保証するかが、ユーザーのエンゲージメント維持に直結する時代になったと言えます。",
+    "sourceUrl": "https://petapixel.com/2026/11/10/vsco-updates-its-policy-to-explicitly-state-it-wont-train-ai-on-your-photos/",
+    "sourceName": "PetaPixel",
+    "originalImageUrl": "https://petapixel.com/assets/uploads/2026/05/vsco-logo-featured.jpg",
+    "originalImageArticleUrl": "https://petapixel.com/2026/11/10/vsco-updates-its-policy-to-explicitly-state-it-wont-train-ai-on-your-photos/",
+    "displayDate": "2026-11-11"
+  },
+  "Projector": {
+    "title": "Adobe Premiereに音声分離AIが登場、編集ワークフローを加速",
+    "summary": "Adobeは「Adobe MAX 2026」にてPremiere Proの大型アップデートを発表。特に注目すべきは、AIを活用して音声を要素ごとに分離し、個別のトラックとして編集可能にする機能です。これにより、複雑なオーディオ編集の大幅な効率化が期待されます。",
+    "insight": "音声から背景音やノイズを分離する処理は、これまで高度なDSPや複雑なプラグインが必要でしたが、ネイティブ機能化で標準ワークフローに組み込まれます。コンテキスト認識を用いたメディア処理の進化は、エンジニアにとってもAIパイプライン設計の参考になるはずです。",
+    "sourceUrl": "https://av.watch.impress.co.jp/docs/news/2155212.html",
+    "sourceName": "AV Watch",
+    "originalImageUrl": "https://av.watch.impress.co.jp/img/avw/list/2155/212/ad1.jpg",
+    "originalImageArticleUrl": "https://av.watch.impress.co.jp/docs/news/2155212.html",
+    "displayDate": "2026-11-11"
+  },
+  "Production Monitor": {
+    "title": "SIGMA fpをハックするコミュニティ活動",
+    "summary": "SIGMA fpのコミュニティプロジェクト「fpSup」により、純正では非対応だったOG4K（3840x2560）のオープンゲート記録やロスレス圧縮CinemaDNG、さらにはGyroflow用データの出力など、カメラの限界を引き出す非公式アップデートが提供されています。",
+    "insight": "ファームウェアのハックはメーカー保証外ですが、ハードウェアのスペックをソフトウェアで解放する試みは技術者として非常に刺激的です。特に既存のハードウェア制約を回避して機能拡張を行うアプローチは、エンジニアリングにおける「制約の再定義」の好例と言えます。",
+    "sourceUrl": "https://www.cined.com/sigma-fp-fpsup-mods-add-og4k-open-gate-lossless-cinemadng-gyroflow-data-raw-monitoring/",
+    "sourceName": "CineD",
+    "originalImageUrl": "https://www.cined.com/content/uploads/2026/11/sigma-fp-in-hand-cined-featured-16x9-1-300x169.jpg",
+    "originalImageArticleUrl": "https://www.cined.com/sigma-fp-fpsup-mods-add-og4k-open-gate-lossless-cinemadng-gyroflow-data-raw-monitoring/",
+    "displayDate": "2026-11-11"
+  },
+  "LED Wall Display": {
+    "title": "デジタルサイネージのAI管理：EasySignageがMCP対応AIを発表",
+    "summary": "EasySignageが、ClaudeやChatGPT、Geminiと連携し、自然言語でディスプレイネットワークを管理できる「AIアシスタント」機能を発表しました。Model Context Protocol（MCP）を採用しており、画面のスケジュール管理やプレイリスト操作をAIが直接実行可能です。",
+    "insight": "デジタルサイネージにおけるMCP（Model Context Protocol）の活用は、API連携の標準化を加速し、運用の自動化を大きく前進させる技術的ブレイクスルーです。今後はAIエージェントがハードウェアのリソースや管理システムと直接対話する、オーケストレーションの自律化がエンジニアリングの焦点となるでしょう。",
+    "sourceUrl": "https://www.digitalsignagetoday.com/news/easysignage-launches-ai-assistant/",
+    "sourceName": "Digital Signage Today | Latest Media",
+    "originalImageUrl": "https://nmgprod.s3.amazonaws.com/media/file/4d/13/f79d39a71cae2583213cb0f8bb95/cover_image__evSL3PTX__AdobeStock_2033339244.jpeg.360x190_q85_crop_upscale.webp",
+    "originalImageArticleUrl": "https://www.digitalsignagetoday.com/news/easysignage-launches-ai-assistant/",
+    "displayDate": "2026-11-11"
+  }
+}

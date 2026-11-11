@@ -1,10 +1,6 @@
 {
   "Production Monitor": [
     {
-      "url": "https://www.provideocoalition.com/php-vulnerability-have-you-updated-yours-on-your-web-server-after-the-warning/",
-      "date": "2026-11-04"
-    },
-    {
       "url": "https://www.cined.com/nikon-zr-firmware-2-00-detailed-log3g10-in-h-265-selectable-high-iso-nr-and-3d-lut-over-hdmi/",
       "date": "2026-11-05"
     },
@@ -23,6 +19,10 @@
     {
       "url": "https://www.cined.com/honor-magic9-pro-max-first-look-arri-color-science-at-a-fraction-of-the-price/",
       "date": "2026-11-09"
+    },
+    {
+      "url": "https://www.cined.com/sigma-fp-fpsup-mods-add-og4k-open-gate-lossless-cinemadng-gyroflow-data-raw-monitoring/",
+      "date": "2026-11-11"
     }
   ],
   "SRD / XR": [
@@ -45,6 +45,10 @@
     {
       "url": "https://www.moguravr.com/vr-ar-mr-weekly-2026-11-9/",
       "date": "2026-11-09"
+    },
+    {
+      "url": "https://finance.biggo.jp/news/70779fb1-e42b-4650-b343-6aa4e2b4d360",
+      "date": "2026-11-11"
     }
   ],
   "AI": [
@@ -71,13 +75,13 @@
     {
       "url": "https://news.yahoo.co.jp/articles/60c6f5fbaef08bb446edbba392a15dbe1a501922",
       "date": "2026-11-10"
+    },
+    {
+      "url": "https://aws.amazon.com/jp/blogs/news/genai-roundtable-202610/",
+      "date": "2026-11-11"
     }
   ],
   "Gaming Monitor": [
-    {
-      "url": "https://www.bgr.com/2305958/asus-pc-monitor-stops-bullet/",
-      "date": "2026-11-04"
-    },
     {
       "url": "https://www.albawaba.com/business/pr/acer-unveils-its-first-fhd-1000-hz-1640686",
       "date": "2026-11-05"
@@ -97,6 +101,10 @@
     {
       "url": "https://pc.watch.impress.co.jp/docs/news/2154666.html",
       "date": "2026-11-09"
+    },
+    {
+      "url": "https://pc.watch.impress.co.jp/docs/news/2155393.html",
+      "date": "2026-11-11"
     }
   ],
   "TCL": [
@@ -119,6 +127,10 @@
     {
       "url": "https://iphone-mania.jp/apple-608479/",
       "date": "2026-11-09"
+    },
+    {
+      "url": "https://prtimes.jp/main/html/rd/p/000000029.000121487.html",
+      "date": "2026-11-11"
     }
   ],
   "Camera Control": [
@@ -141,13 +153,13 @@
     {
       "url": "https://www.dpreview.com/interviews/gopro-says-its-action-camera-reputation-is-hard-to-shake/",
       "date": "2026-11-09"
+    },
+    {
+      "url": "https://petapixel.com/2026/11/10/vsco-updates-its-policy-to-explicitly-state-it-wont-train-ai-on-your-photos/",
+      "date": "2026-11-11"
     }
   ],
   "LED Wall Display": [
-    {
-      "url": "//www.ledinside.com/news/2026/11/2026_11_03_01",
-      "date": "2026-11-04"
-    },
     {
       "url": "https://www.digitalsignagetoday.com/articles/ai-avatar-concierge-helping-boston-airport-travelers-navigate-flight-journey/",
       "date": "2026-11-05"
@@ -167,6 +179,10 @@
     {
       "url": "https://www.digitalsignagetoday.com/news/georgia-school-digital-sign-flashes-porn-image/",
       "date": "2026-11-09"
+    },
+    {
+      "url": "https://www.digitalsignagetoday.com/news/easysignage-launches-ai-assistant/",
+      "date": "2026-11-11"
     }
   ],
   "SONY": [
@@ -189,6 +205,10 @@
     {
       "url": "https://getnews.jp/archives/3753726/gate",
       "date": "2026-11-09"
+    },
+    {
+      "url": "https://cameota.com/sony/53075.html",
+      "date": "2026-11-11"
     }
   ],
   "TV": [
@@ -211,13 +231,13 @@
     {
       "url": "https://www.tv-tokyo.co.jp/tabletennis/news/2026/11/042899.html",
       "date": "2026-11-09"
+    },
+    {
+      "url": "https://media-innovation.jp/article/2026/11/11/143967.html",
+      "date": "2026-11-11"
     }
   ],
   "Projector": [
-    {
-      "url": "https://www.phileweb.com/review/article/202611/04/6708.html",
-      "date": "2026-11-04"
-    },
     {
       "url": "https://prtimes.jp/main/html/rd/p/000000108.000075566.html",
       "date": "2026-11-05"
@@ -237,6 +257,10 @@
     {
       "url": "https://www.yankodesign.com/2026/11/08/optomas-599-4k-projector-casts-a-150-inch-screen-for-the-price-of-an-android-phone/amp/",
       "date": "2026-11-09"
+    },
+    {
+      "url": "https://av.watch.impress.co.jp/docs/news/2155212.html",
+      "date": "2026-11-11"
     }
   ]
 }
