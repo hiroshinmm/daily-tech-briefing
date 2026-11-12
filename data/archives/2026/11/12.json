@@ -1,0 +1,102 @@
+{
+  "SRD / XR": {
+    "title": "生成AIで業務改善！関テレ視聴率レポートの舞台裏",
+    "summary": "関西テレビが、毎週月曜日に丸一日を要していた視聴率レポート作成業務を生成AIの活用により劇的に効率化しました。VR FORUMにて、この自動化に至るまでのプロセスの舞台裏が公開され、注目を集めています。",
+    "insight": "レガシーな定型業務をLLMで自動化する好例です。単なる自動化だけでなく、精度と運用の安定性をどう担保したかが技術的な見どころです。",
+    "sourceUrl": "https://branc.jp/article/2026/11/12/3284.html",
+    "sourceName": "Brand New Creativity",
+    "originalImageUrl": "https://branc.jp/imgs/ogp_f/14732.jpg",
+    "originalImageArticleUrl": "https://branc.jp/article/2026/11/12/3284.html",
+    "displayDate": "2026-11-12"
+  },
+  "AI": {
+    "title": "攻撃側のAI活用と防御の最前線",
+    "summary": "アルカディア社への不正アクセスにAIが利用された事例や、ユナイテッド航空によるAIエージェントのアクセス制限など、AIの悪用リスクが現実のものとなっています。これに対し、日立製作所が脆弱性検出にAIを活用する新サービスを開始するなど、AI時代のセキュリティ対策が喫緊の課題となっています。",
+    "insight": "AIを利用した攻撃手法の高度化に対し、防御側もAIを組み込んだ診断やペネトレーションテストでの対抗が必須となっています。セキュリティエンジニアとして、既存のルールベースの防衛だけでなく、敵対的生成AIを考慮したリスクモデルの再設計が求められる時期に来ています。",
+    "sourceUrl": "https://www.nikkei.com/article/DGXZQOUC02ACK0S6A101C2000000/",
+    "sourceName": "日本経済新聞",
+    "originalImageUrl": "https://article-image-ix.nikkei.com/https%3A%2F%2Fimgix-proxy.n8s.jp%2FDSXZQO3861854011112026000000-1.jpg?auto=compress&bg=FFFF&crop=focalpoint&fit=crop&fm=jpg&fp-y=0.3&h=630&w=1200&s=fb3a51a2abb149e40b4d5a8d20a29b3e",
+    "originalImageArticleUrl": "https://www.nikkei.com/article/DGXZQOUC02ACK0S6A101C2000000/",
+    "displayDate": "2026-11-12"
+  },
+  "Gaming Monitor": {
+    "title": "Googleの「判断だけAI」APIが提供開始、コスト効率に注目",
+    "summary": "Googleは、文章生成を行わず「判定処理」に特化したAPI「Gemini Decisions API」を公開しました。入力内容の評価や分類などの処理に特化しており、出力トークンが課金されないため非常に低コストで利用可能です。",
+    "insight": "従来のLLMによる生成コストやレイテンシが課題だったエンジニアにとって、判断特化型モデルの選択肢が増えることはビジネスロジックへの組み込みを加速させます。特に出力課金がない点は、大規模データセットの分類タスクなどで劇的なコスト削減が見込めるため要注目です。",
+    "sourceUrl": "https://pc.watch.impress.co.jp/docs/news/2155749.html",
+    "sourceName": "PC Watch",
+    "originalImageUrl": "https://pc.watch.impress.co.jp/img/pcw/list/2155/749/3.jpg",
+    "originalImageArticleUrl": "https://pc.watch.impress.co.jp/docs/news/2155749.html",
+    "displayDate": "2026-11-12"
+  },
+  "SONY": {
+    "title": "ソニー、6インチの空間再現ディスプレイ「ELF-MN1」発売",
+    "summary": "ソニーは、裸眼で立体視が可能な空間再現ディスプレイの小型モデル「ELF-MN1」を発売しました。6インチというデスクに置きやすいサイズ感で、クリエイティブな現場や店頭展示など、手軽な3D体験の場を広げます。",
+    "insight": "立体視技術は専用のメガネを必要としない「裸眼立体視」へとシフトしており、特に小型化されたことでパーソナルユースやUI設計のデバッグツールとしての価値が高まっています。エンジニアにとっては、WebGL等を用いた3Dコンテンツ開発における新たな検証デバイスとして注目すべきプロダクトです。",
+    "sourceUrl": "https://cgworld.jp/flashnews/02-2611-xyn--elf-mn1.html",
+    "sourceName": "CGWORLD.jp",
+    "originalImageUrl": "https://cgworld.jp/flashnews/assets_c/2026/11/img_001%20%281%29-thumb-866x486-90703.jpg",
+    "originalImageArticleUrl": "https://cgworld.jp/flashnews/02-2611-xyn--elf-mn1.html",
+    "displayDate": "2026-11-12"
+  },
+  "TCL": {
+    "title": "2026年版：Mini LED TVの技術トレンドと市場競争",
+    "summary": "RTINGSの最新評価において、TCLがMini LED TVのトップブランドの一つとして選出されました。ブラックフライデーを控え、高性能なMini LEDモデルの大幅な価格改定が進む中、消費者および市場の注目が集まっています。",
+    "insight": "バックライト制御技術であるMini LEDの普及により、高コントラストと高輝度を両立するモデルの価格優位性が強まっています。エンジニア視点では、ディスプレイ制御アルゴリズムやパネル駆動技術の成熟が、コンシューマー向け製品の付加価値をどう変えているのか注視すべきです。",
+    "sourceUrl": "https://www.rtings.com/tv/reviews/best/mini-led",
+    "sourceName": "RTINGS.com",
+    "originalImageUrl": "https://i.rtings.com/assets/pages/azXvnjS4/best-mini-led-tvs-20250108-medium.jpg?format=auto",
+    "originalImageArticleUrl": "https://www.rtings.com/tv/reviews/best/mini-led",
+    "displayDate": "2026-11-12"
+  },
+  "Projector": {
+    "title": "コスパ最強？Xgimiの新作4Kプロジェクター",
+    "summary": "TechRadarによるXgimi Elfin Flip 4Kのレビュー記事。低価格ながら、鮮やかな色彩表現とゲーミング機能を備えており、ホームシアター入門機として高い評価を得ていることが紹介されています。",
+    "insight": "プロジェクターの低価格帯における性能向上が著しく、高リフレッシュレート対応や低遅延モードなど、ゲーミング用途への最適化が進んでいます。ハードウェアの進化とソフトウェア処理の融合により、家庭用シアター体験のハードルがさらに下がっている点に注目です。",
+    "sourceUrl": "https://www.techradar.com/televisions/projectors/xgimi-elfin-flip-4k-review",
+    "sourceName": "TechRadar",
+    "originalImageUrl": "https://cdn.mos.cms.futurecdn.net/ZWG9PC4V5ToavW6nUGuUED-2560-80.jpg",
+    "originalImageArticleUrl": "https://www.techradar.com/televisions/projectors/xgimi-elfin-flip-4k-review",
+    "displayDate": "2026-11-12"
+  },
+  "Production Monitor": {
+    "title": "Sony a7 IVの隠し機能：ファームウェア解析の現状",
+    "summary": "Sony a7 IVのファームウェアを解析するコミュニティプロジェクトにより、サービスモード経由でのシャッターアングル設定や、隠された5K 3:2スキャンモードなどの存在が明らかになりました。AIの支援によりカメラの内部構造解析が容易になっており、ハードウェアの制限をソフトウェアで拡張する試みが注目されています。",
+    "insight": "AIツールが組み込みファームウェアの解析速度を劇的に向上させており、リバースエンジニアリングによる機能解放が以前よりも容易になっています。エンジニアとしては、メーカーが意図的に隠している機能や設計思想を、こうした非公式な調査を通じて深く理解する良い教訓となります。",
+    "sourceUrl": "https://www.cined.com/sony-a7-iv-shutter-angle-hack-explained-service-mode-hidden-lut-code-de-squeeze-and-5k-32-scan-mode/",
+    "sourceName": "CineD",
+    "originalImageUrl": "https://www.cined.com/content/uploads/2021/10/Sony-a7-IV-1-300x169.jpg",
+    "originalImageArticleUrl": "https://www.cined.com/sony-a7-iv-shutter-angle-hack-explained-service-mode-hidden-lut-code-de-squeeze-and-5k-32-scan-mode/",
+    "displayDate": "2026-11-12"
+  },
+  "TV": {
+    "title": "TVアニメ『マッシュル』第3期が2027年1月に放送決定",
+    "summary": "人気TVアニメ『マッシュル-MASHLE-』の第3期が、2027年1月9日から放送開始されることが発表されました。追加キャストとして斉藤壮馬さん、鈴木崚汰さんの出演も決定し、ジャパンプレミアの開催も予定されています。",
+    "insight": "コンテンツ配信の長期戦略として、人気作品の続編決定とキャスト発表はファンコミュニティの維持に不可欠です。エンジニア視点では、こうした大規模なプロモーションや放送開始に伴うアクセス集中（トラフィックスパイク）に備えたインフラのスケーラビリティ設計が重要です。",
+    "sourceUrl": "https://spice.eplus.jp/articles/350311",
+    "sourceName": "エンタメ特化型情報メディア スパイス",
+    "originalImageUrl": null,
+    "originalImageArticleUrl": "https://spice.eplus.jp/articles/350311",
+    "displayDate": "2026-11-12"
+  },
+  "Camera Control": {
+    "title": "腰位置ファインダーのレトロデジカメがKickstarterで爆発的ヒット",
+    "summary": "Kickstarterで腰位置（ウエストレベル）ファインダーを採用したレトロデザインのデジカメが、目標額を大幅に上回る27万ドル（約4,000万円超）の資金を調達しました。デジタル時代にあえて撮影体験のプロセスを重視する製品が、熱狂的な支持を集めています。",
+    "insight": "レトロな光学系や物理的なUIへの回帰は、効率化が進む現代のソフトウェア開発においても「体験の儀式化」として参考になるUXトレンドです。ハードウェアとソフトウェアが融合したプロダクトにおいて、あえて不便さや操作感を設計に盛り込むことが、ユーザーコミュニティの強い愛着を引き出す要因となっています。",
+    "sourceUrl": "https://petapixel.com/2026/11/11/this-retro-inspired-waist-level-digital-camera-already-raised-270k-on-kickstarter/",
+    "sourceName": "PetaPixel",
+    "originalImageUrl": "https://petapixel.com/assets/uploads/2026/11/campix-7.jpg",
+    "originalImageArticleUrl": "https://petapixel.com/2026/11/11/this-retro-inspired-waist-level-digital-camera-already-raised-270k-on-kickstarter/",
+    "displayDate": "2026-11-12"
+  },
+  "LED Wall Display": {
+    "title": "DOOHが変える「公共・医療」の現場",
+    "summary": "デジタルサイネージ(DOOH)が、単なる広告媒体から公共性・専門性の高い情報伝達のインフラへ進化しています。特に医療機関や高齢者施設において、適切な場所と文脈で健康・ケア情報を届ける「ポイント・オブ・ケア」の手法が注目されており、信頼性と配信証明の重要性が高まっています。",
+    "insight": "エンジニア視点では、単なるコンテンツ配信ではなく、会場ごとの配信証明(Proof of Posting)やアクセシビリティを考慮したUXデザインが重要です。特に機密性の高い医療現場では、プライバシーを保護しつつ、データに基づいた動的なコンテンツ配信をいかにセキュアに実装するかが鍵となります。",
+    "sourceUrl": "https://www.digitalsignagetoday.com/blogs/public-health-at-the-point-of-care-how-place-based-dooh-drives-action-in-clinics-senior-centers/",
+    "sourceName": "Digital Signage Today",
+    "originalImageUrl": "https://nmgprod.s3.amazonaws.com/media/file/8e/4e/3bd753d7a497e4672cc963a16469/cover_image__7cjgg99f__AdobeStock_2208225473.jpeg.360x190_q85_crop_upscale.webp",
+    "originalImageArticleUrl": "https://www.digitalsignagetoday.com/blogs/public-health-at-the-point-of-care-how-place-based-dooh-drives-action-in-clinics-senior-centers/",
+    "displayDate": "2026-11-12"
+  }
+}
