@@ -1,10 +1,6 @@
 {
   "Production Monitor": [
     {
-      "url": "https://www.newsshooter.com/2026/11/05/new-bluetooth-hdt-standard/",
-      "date": "2026-11-06"
-    },
-    {
       "url": "https://www.cined.com/davinci-resolve-21-2-released-proled-xdr-touch-support-gen-6-color-science-luts-up-to-5x-faster-rendering-on-m5-pro-and-m5-max/",
       "date": "2026-11-07"
     },
@@ -23,13 +19,13 @@
     {
       "url": "https://www.cined.com/sony-a7-iv-shutter-angle-hack-explained-service-mode-hidden-lut-code-de-squeeze-and-5k-32-scan-mode/",
       "date": "2026-11-12"
+    },
+    {
+      "url": "https://www.cined.com/blackmagic-ambisonic-microphone-announced-7th-order-ambisonics-108-mems-microphones-single-usb-c-cable/",
+      "date": "2026-11-13"
     }
   ],
   "SRD / XR": [
-    {
-      "url": "https://www.moguravr.com/shiftall-tbs-homra-4k/",
-      "date": "2026-11-06"
-    },
     {
       "url": "https://www.businessinsider.jp/article/2611-xreal-aura-first-android-xr-glasses-japan/",
       "date": "2026-11-07"
@@ -49,13 +45,13 @@
     {
       "url": "https://branc.jp/article/2026/11/12/3284.html",
       "date": "2026-11-12"
+    },
+    {
+      "url": "https://www.moguravr.com/blackmagic-ambisonic-microphone/",
+      "date": "2026-11-13"
     }
   ],
   "AI": [
-    {
-      "url": "https://www.reuters.com/jp/economy/JB37V27OQJM77ILPPFUVRDSQPE-2026-11-06/",
-      "date": "2026-11-06"
-    },
     {
       "url": "https://exawizards.com/column/ai-trend/news-11-07-2026-2/",
       "date": "2026-11-07"
@@ -79,13 +75,13 @@
     {
       "url": "https://www.nikkei.com/article/DGXZQOUC02ACK0S6A101C2000000/",
       "date": "2026-11-12"
+    },
+    {
+      "url": "https://news.yahoo.co.jp/articles/db42f1b0919cfeca6c8ebd5044b850491e4cb304",
+      "date": "2026-11-13"
     }
   ],
   "Gaming Monitor": [
-    {
-      "url": "https://www.4gamer.net/games/142/G014279/20261104002/",
-      "date": "2026-11-06"
-    },
     {
       "url": "https://mixed-news.com/en/acer-predator-x27u-f5-500hz-qd-oled-monitor-newegg-deal/",
       "date": "2026-11-07"
@@ -105,13 +101,13 @@
     {
       "url": "https://pc.watch.impress.co.jp/docs/news/2155749.html",
       "date": "2026-11-12"
+    },
+    {
+      "url": "https://www.4gamer.net/games/999/G999901/20261112027/",
+      "date": "2026-11-13"
     }
   ],
   "TCL": [
-    {
-      "url": "https://www.moomoo.com/news/post/1003461578/tcl-technology-samsung-electronics-to-become-direct-shareholder-of-tcl?level=0&global_content=%7B%22promote_content%22%3A%22mm%3A1003461578%22%7D",
-      "date": "2026-11-06"
-    },
     {
       "url": "https://www.prnewswire.com/news-releases/tcl-csot-begins-equipment-move-in-at-its-t8-production-line-302931951.html",
       "date": "2026-11-07"
@@ -131,13 +127,13 @@
     {
       "url": "https://www.rtings.com/tv/reviews/best/mini-led",
       "date": "2026-11-12"
+    },
+    {
+      "url": "https://av.watch.impress.co.jp/docs/topic/avwaward/2155465.html",
+      "date": "2026-11-13"
     }
   ],
   "Camera Control": [
-    {
-      "url": "https://dc.watch.impress.co.jp/docs/news/2153531.html",
-      "date": "2026-11-06"
-    },
     {
       "url": "https://www.dpreview.com/articles/a-deep-dive-into-the-sigma-fp2s-image-quality-finds-a-camera-thats-unconventional-to-its-core/",
       "date": "2026-11-07"
@@ -157,13 +153,13 @@
     {
       "url": "https://petapixel.com/2026/11/11/this-retro-inspired-waist-level-digital-camera-already-raised-270k-on-kickstarter/",
       "date": "2026-11-12"
+    },
+    {
+      "url": "https://petapixel.com/2026/11/12/sharge-disk-pro-2-review-now-thats-how-you-take-customer-feedback/",
+      "date": "2026-11-13"
     }
   ],
   "LED Wall Display": [
-    {
-      "url": "https://www.digitalsignagetoday.com/news/clearled-immersive-led-display-brings-reality-emulator-to-life/",
-      "date": "2026-11-06"
-    },
     {
       "url": "https://www.4rfv.co.uk/industrynews/336712/catchphrase_returns_with_curved_led_wall_and_live_triggers_driven_by_hippotizer",
       "date": "2026-11-07"
@@ -183,13 +179,13 @@
     {
       "url": "https://www.digitalsignagetoday.com/blogs/public-health-at-the-point-of-care-how-place-based-dooh-drives-action-in-clinics-senior-centers/",
       "date": "2026-11-12"
+    },
+    {
+      "url": "//www.ledinside.com/news/2026/11/2026_11_12_05",
+      "date": "2026-11-13"
     }
   ],
   "SONY": [
-    {
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOOTEyOWs3b0N0RVYyN0VxbkEzaHZnRFJwNHNWNHpzN3NUVE1TWVBZcktZdm5qRnRzUFF5cnBnV3dVU0pydlN6Yk9mX282dGNfWGxZNEs0YUhJZDhQZXphMFpkRTZEOC1xU2NHTnNLZzk0SFFERzJ6bE5sTEFqcHIyYUN3?oc=5",
-      "date": "2026-11-06"
-    },
     {
       "url": "https://www.moguravr.com/elf-mn1-review/",
       "date": "2026-11-07"
@@ -209,13 +205,13 @@
     {
       "url": "https://cgworld.jp/flashnews/02-2611-xyn--elf-mn1.html",
       "date": "2026-11-12"
+    },
+    {
+      "url": "https://cameota.com/sony/53075.html",
+      "date": "2026-11-13"
     }
   ],
   "TV": [
-    {
-      "url": "https://news.yahoo.co.jp/articles/fa196b8be9f31325b186c13026db73b31edb6d16",
-      "date": "2026-11-06"
-    },
     {
       "url": "https://theinventory.com/roku-55-inch-pro-series-smart-tv-4k-oled-120hz-2026-rokutv-5fe372bd",
       "date": "2026-11-07"
@@ -235,13 +231,13 @@
     {
       "url": "https://spice.eplus.jp/articles/350311",
       "date": "2026-11-12"
+    },
+    {
+      "url": "https://gate-one.co.jp/news/press/119770/",
+      "date": "2026-11-13"
     }
   ],
   "Projector": [
-    {
-      "url": "https://www.techradar.com/televisions/projectors/jmgo-n3-ultimate-review",
-      "date": "2026-11-06"
-    },
     {
       "url": "https://dtimes.jp/post-1453131/",
       "date": "2026-11-07"
@@ -261,6 +257,10 @@
     {
       "url": "https://www.techradar.com/televisions/projectors/xgimi-elfin-flip-4k-review",
       "date": "2026-11-12"
+    },
+    {
+      "url": "https://av.watch.impress.co.jp/docs/news/2156065.html",
+      "date": "2026-11-13"
     }
   ]
 }

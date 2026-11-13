@@ -1,0 +1,102 @@
+{
+  "Gaming Monitor": {
+    "title": "日本ファルコム名作群がX68000で現代に蘇る",
+    "summary": "BEEPが手掛けるプロジェクトにて、『ザナドゥ』『ソーサリアン』『ダイナソア』といった日本ファルコムの名作が、当時のハイエンド機であるX68000向けに移植されることが発表されました。レトロゲーム文化の継承と技術的探求が融合した注目の取り組みです。",
+    "insight": "レトロPCアーキテクチャへの移植は、当時の限られたリソースでいかに表現を最適化するかというアルゴリズムやメモリ管理の知見を再評価する良い機会です。現代のソフトウェア開発においても、制約下でのパフォーマンス追求や移植におけるエミュレーションの設計思想は非常に示唆に富んでいます。",
+    "sourceUrl": "https://www.4gamer.net/games/999/G999901/20261112027/",
+    "sourceName": "4Gamer.net − 最新記事",
+    "originalImageUrl": "https://www.4gamer.net/games/999/G999901/20261112027/SS/001.jpg",
+    "originalImageArticleUrl": "https://www.4gamer.net/games/999/G999901/20261112027/",
+    "displayDate": "2026-11-13"
+  },
+  "AI": {
+    "title": "AI投資は27年末に1.4兆ドルへ、加速する企業主導の投資",
+    "summary": "ゴールドマン・サックスの予測によると、AI関連の機器および知財への投資額は2027年末までに1.4兆ドル規模に達する見込みです。AI技術の社会実装が本格化する中で、企業による資本投下が市場を牽引し、ハードウェアからアプリケーションまで幅広い領域で急速な発展が続くと予想されています。",
+    "insight": "AIへの巨額投資は、インフラ需要の継続だけでなく、エッジAIやローカルLLMといった実用的な社会実装フェーズへの移行を示唆しています。エンジニアとしては、単なるモデル構築にとどまらず、コスト効率の良い推論実行環境やAIエージェントの業務統合を考慮したアーキテクチャ設計が求められるでしょう。",
+    "sourceUrl": "https://news.yahoo.co.jp/articles/db42f1b0919cfeca6c8ebd5044b850491e4cb304",
+    "sourceName": "Yahoo!ニュース",
+    "originalImageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261113-00000072-reut-000-1-view.jpg?exp=10800",
+    "originalImageArticleUrl": "https://news.yahoo.co.jp/articles/db42f1b0919cfeca6c8ebd5044b850491e4cb304",
+    "displayDate": "2026-11-13"
+  },
+  "SONY": {
+    "title": "ソニー新型カメラ「WW491229」が登録！α7S IVか",
+    "summary": "ソニーが米国で新型カメラ「WW491229」を登録しました。新型バッテリーの採用が噂されており、以前から期待が高まっている動画特化型ミラーレス「α7S IV」ではないかと海外メディアを中心に大きな話題となっています。",
+    "insight": "新製品の型番登録は、サプライチェーンの動向や次世代バッテリー技術の採用を推測する貴重な手がかりです。特にα7Sシリーズは高感度耐性と動画性能がエンジニアリング的にも評価が高く、センサーの読み出し速度や熱排熱設計がどう進化するかが注目点です。",
+    "sourceUrl": "https://cameota.com/sony/53075.html",
+    "sourceName": "CAMEOTA.com",
+    "originalImageUrl": "https://cameota.com/wp-content/uploads/2026/11/Sony-register-a-new-WW491229.jpg",
+    "originalImageArticleUrl": "https://cameota.com/sony/53075.html",
+    "displayDate": "2026-11-13"
+  },
+  "SRD / XR": {
+    "title": "サムスンとPOSTECH、厚さ1.5mmのARグラス技術を開発",
+    "summary": "韓国のPOSTECHとサムスン電子が、屋外での視認性を確保しつつ光学モジュールの厚さをわずか1.5ミリに抑えた新しいARグラス技術を開発しました。ウェアラブルデバイスの小型化に向けた大きな前進です。",
+    "insight": "ARグラスの普及において最大の課題である「サイズと重量」に対し、光学系を極限まで薄型化するアプローチは非常に重要です。モバイル向けディスプレイ技術のノウハウを持つサムスンが、屋外での高輝度表示と薄型化を両立できた点は、今後のプロダクト開発における重要なベンチマークとなります。",
+    "sourceUrl": "https://www.moguravr.com/blackmagic-ambisonic-microphone/",
+    "sourceName": "Mogura VR",
+    "originalImageUrl": "https://assets.moguravr.com/uploads/2026/11/dd028b00797cf6aaff73b93c275ab807-kix.299wwdgm0yhr-300x226.webp",
+    "originalImageArticleUrl": "https://www.moguravr.com/blackmagic-ambisonic-microphone/",
+    "displayDate": "2026-11-13"
+  },
+  "Projector": {
+    "title": "Anker AIマイク活用術：ささやき声も高精度認識",
+    "summary": "AnkerのAIボイスレコーダー「Soundcore Work」がファームウェア更新によりAI音声入力ツール「Typeless」と連携可能に。ボイスレコーダーを高品質な外付けマイクとして使用でき、ささやく程度の小さな声でも高精度な音声入力が可能になります。",
+    "insight": "ハードウェアとソフトウェアの境界を超えた連携は、UXを向上させる典型的な好例です。MCUが特定の入出力プロセスを最適化することで、ノイズ耐性を高めるエンジニアリングのアプローチは、音声UI開発における重要な示唆を与えてくれます。",
+    "sourceUrl": "https://av.watch.impress.co.jp/docs/news/2156065.html",
+    "sourceName": "AV Watch",
+    "originalImageUrl": "https://av.watch.impress.co.jp/img/avw/list/2156/065/DSC01837.jpg",
+    "originalImageArticleUrl": "https://av.watch.impress.co.jp/docs/news/2156065.html",
+    "displayDate": "2026-11-13"
+  },
+  "TCL": {
+    "title": "老舗ブランドを脅かすTCLの台頭",
+    "summary": "26年にわたり液晶テレビ市場を牽引してきた「ブラビア」などの老舗ブランドに対し、コストパフォーマンスと技術力でTCLが猛追しています。単なる安価な製品という立ち位置を超え、AV専門メディアの評価でも存在感を高めており、市場の勢力図が大きく塗り替えられようとしています。",
+    "insight": "低価格帯からのブランド伸長は、量産技術と垂直統合によるコスト優位性が鍵となっています。エンジニアとしては、単なる価格競争だけでなく、NXTPAPERのような独自の表示技術やAI活用によるUXの差別化がいかに市場評価を変えるかに注目すべきです。",
+    "sourceUrl": "https://av.watch.impress.co.jp/docs/topic/avwaward/2155465.html",
+    "sourceName": "AV Watch",
+    "originalImageUrl": "https://av.watch.impress.co.jp/img/avw/list/2155/465/zada.jpg",
+    "originalImageArticleUrl": "https://av.watch.impress.co.jp/docs/topic/avwaward/2155465.html",
+    "displayDate": "2026-11-13"
+  },
+  "LED Wall Display": {
+    "title": "透明度95%の衝撃：Absenの新ホログラフィックLED「JD Pro」",
+    "summary": "Absenが発表したホログラフィックLEDスクリーン「JD Pro」は、95%という驚異的な透明度と、1平米あたり6.6kgという超軽量設計を実現しました。建築物の外観や店舗の窓を活かしたデジタルサイネージの新たな可能性を切り拓く技術です。",
+    "insight": "建築一体型のLEDディスプレイにおいて、荷重制限と採光の両立は設計上の大きな障壁でしたが、この極薄・軽量化は設置場所の制約を大きく緩和します。物理的な空間とデジタルの映像をシームレスに融合させるこのアプローチは、今後のUI/UXデザインにおける重要なトレンドとなるでしょう。",
+    "sourceUrl": "//www.ledinside.com/news/2026/11/2026_11_12_05",
+    "sourceName": "LEDinside",
+    "originalImageUrl": null,
+    "originalImageArticleUrl": "//www.ledinside.com/news/2026/11/2026_11_12_05",
+    "displayDate": "2026-11-13"
+  },
+  "TV": {
+    "title": "コンビニ店頭の「ファミマTV」が購買に与える影響",
+    "summary": "ファミリーマートの店頭サイネージ「ファミマTV」の視聴者インタビューを通じて、消費者が意識していなくても購買行動に影響を与える「積み立て消費」という現象が浮き彫りになりました。店頭でのリテールメディアの重要性が高まっています。",
+    "insight": "デジタルサイネージが店舗内のCX（顧客体験）を向上させ、無意識の刷り込みによる購買転換を生み出している点は非常に興味深いです。エンジニアとしては、単なる広告表示だけでなく、位置情報や購買データと連携した動的なコンテンツ制御など、リテールDXの最適化技術として注目すべきトピックです。",
+    "sourceUrl": "https://gate-one.co.jp/news/press/119770/",
+    "sourceName": "https://gate-one.co.jp/",
+    "originalImageUrl": "https://gate-one.co.jp/assets/img/common/ogp.webp",
+    "originalImageArticleUrl": "https://gate-one.co.jp/news/press/119770/",
+    "displayDate": "2026-11-13"
+  },
+  "Production Monitor": {
+    "title": "Blackmagicが7次Ambisonicマイクを発表",
+    "summary": "Blackmagic Designは、108個のMEMSマイクを内蔵し、USB-Cケーブル1本で7次Ambisonicの空間オーディオを収録可能な「Blackmagic Ambisonic Microphone」を発表しました。12月に1,695ドルで発売予定です。",
+    "insight": "108個ものMEMS素子を球体に配置し、マイク内部で空間エンコードを完結させるという設計は、ハードウェアによる信号処理の最適化として非常に興味深いです。高次Ambisonicsの収録が簡易化されることで、Apple Vision Proなどの空間コンピューティング向けコンテンツ制作のハードルが大きく下がることが期待されます。",
+    "sourceUrl": "https://www.cined.com/blackmagic-ambisonic-microphone-announced-7th-order-ambisonics-108-mems-microphones-single-usb-c-cable/",
+    "sourceName": "CineD",
+    "originalImageUrl": "https://www.cined.com/content/uploads/2026/11/blackmagic-ambisonic-microphone-forest-featured-16x9-1-300x169.jpg",
+    "originalImageArticleUrl": "https://www.cined.com/blackmagic-ambisonic-microphone-announced-7th-order-ambisonics-108-mems-microphones-single-usb-c-cable/",
+    "displayDate": "2026-11-13"
+  },
+  "Camera Control": {
+    "title": "ユーザーの声で進化するガジェット開発",
+    "summary": "能動的冷却機能を備えたSSDハブ「Sharge Disk Pro 2」が、前モデルのファンの騒音に対するユーザーの不満をわずか数ヶ月で解消し、即座に改良版をリリースした事例を紹介。顧客フィードバックを迅速に製品改善へ繋げる開発サイクルが注目されています。",
+    "insight": "ハードウェア開発において、設計段階で露見したUX上の課題を迅速に回収し、短期間で次期モデルに反映させるアジャイルな姿勢は、現代のプロダクト作りにおいて非常に強力な競争力となります。エンジニアリングチームにとって、フィードバックループをいかに短縮できるかが製品の顧客満足度を決定づける好例です。",
+    "sourceUrl": "https://petapixel.com/2026/11/12/sharge-disk-pro-2-review-now-thats-how-you-take-customer-feedback/",
+    "sourceName": "PetaPixel",
+    "originalImageUrl": "https://petapixel.com/assets/uploads/2026/11/Sharge-Disk-Pro-2-Review-Now-Thats-How-You-Take-Customer-Feedback.jpg",
+    "originalImageArticleUrl": "https://petapixel.com/2026/11/12/sharge-disk-pro-2-review-now-thats-how-you-take-customer-feedback/",
+    "displayDate": "2026-11-13"
+  }
+}
