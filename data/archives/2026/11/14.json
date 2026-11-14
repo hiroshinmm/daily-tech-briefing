@@ -1,0 +1,102 @@
+{
+  "AI": {
+    "title": "AIの無断学習・利用に関する規制案が浮上",
+    "summary": "日本政府が、AIの学習や生成における声や肖像の無断利用を規制する検討を本格化させています。著作権保護とAI技術の健全な発展を両立させるため、侵害行為の定義や法整備に向けた議論が急速に進んでいます。",
+    "insight": "AIモデルの学習データにおける権利侵害は、法務のみならずエンジニアにとっても利用データの選定や商用利用時のリスク管理として重要です。モデルの透明性（データセットの来歴管理）を確保する技術的な実装の需要が今後さらに高まるでしょう。",
+    "sourceUrl": "https://news.yahoo.co.jp/pickup/6602494",
+    "sourceName": "Yahoo!ニュース",
+    "originalImageUrl": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/11/14/70caae19a8283fd383492ce3b613b1fef723c62d9ef9bd04641b4dad78ef4ac6.jpg",
+    "originalImageArticleUrl": "https://news.yahoo.co.jp/pickup/6602494",
+    "displayDate": "2026-11-14"
+  },
+  "SRD / XR": {
+    "title": "Pixel WatchでAndroid XRグラスを操作可能に",
+    "summary": "Pixel Watchに、Android XRグラスを制御する新たなジェスチャー機能が追加されました。手首の動きだけで音楽再生やAIアシスタント「Gemini」の呼び出しが可能になり、ウェアラブル同士の連携によるXR体験の向上が注目されています。",
+    "insight": "スマートウォッチをXRグラスのコントローラーとして活用するUI/UX設計は、入力デバイスの新たな可能性を示唆しています。特に手首の加速度センサーやジャイロを活用したジェスチャー制御は、スマホを取り出さずに空間コンピューティングを操作する実用的なインターフェースとして参考になります。",
+    "sourceUrl": "https://www.zaikei.co.jp/article/20261114/877577.html",
+    "sourceName": "財経新聞",
+    "originalImageUrl": "https://www.zaikei.co.jp/files/general/20261114082714ayA0big.png",
+    "originalImageArticleUrl": "https://www.zaikei.co.jp/article/20261114/877577.html",
+    "displayDate": "2026-11-14"
+  },
+  "TV": {
+    "title": "サッカー日本代表「日本×ブラジル」戦、テレ朝で生中継",
+    "summary": "シンガポールで開催されるサッカー日本代表対ブラジル代表の一戦が、テレビ朝日系列で生中継されることが決定しました。解説には松木安太郎氏と内田篤人氏が名を連ねており、注目度の高い試合となります。",
+    "insight": "リアルタイム配信では遅延（レイテンシ）が課題となりますが、スポーツ中継はインフラエンジニアにとって極めて高い可用性とスケーラビリティを要するエッジケースです。サーバーサイドの負荷対策やCDNの構成、リアルタイム通信プロトコルの最適化を議論する良いきっかけになります。",
+    "sourceUrl": "https://news.yahoo.co.jp/articles/c4d405d0884e751bbb6d57a68dbb68b15a922ec4",
+    "sourceName": "Yahoo!ニュース",
+    "originalImageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261114-00010001-goal-000-1-view.jpg?exp=10800",
+    "originalImageArticleUrl": "https://news.yahoo.co.jp/articles/c4d405d0884e751bbb6d57a68dbb68b15a922ec4",
+    "displayDate": "2026-11-14"
+  },
+  "TCL": {
+    "title": "TCL CSOTが360HzノートPC用OLEDパネルを発表",
+    "summary": "TCL傘下のCSOTが、Lenovo Legionの試作機向けに世界最速となる360Hz駆動のノートPC用OLEDパネルを公開しました。これはSamsungの300Hzを上回るスペックであり、ディスプレイ技術の進化を象徴する成果です。",
+    "insight": "OLEDの高リフレッシュレート化は、ゲーミングPC市場の差別化要因として重要です。特にインクジェット印刷方式による次世代パネルの量産技術も控えており、ディスプレイの製造コスト構造がどう変化するのか注視しておく必要があります。",
+    "sourceUrl": "https://finance.biggo.com/news/90b0b83b-1d22-4426-a95d-b1af85c70260",
+    "sourceName": "BigGo Finance",
+    "originalImageUrl": "https://img.biggo.com/m67AcicQP_vmYwrzP6gIok4Y4_38UzRz0s5momhZi8o/fit/1200/0/sm/0/aHR0cHM6Ly9pbWcuYmdvLm9uZS9uZXdzLWltYWdlL2FpX2dlbmVyYXRlZC8yMDI2LTExLzkwYjBiODNiLTFkMjItNDQyNi1hOTVkLWIxYWY4NWM3MDI2MF8xNzk0NTk4NzI4X2RlZmF1bHQuanBn.jpg",
+    "originalImageArticleUrl": "https://finance.biggo.com/news/90b0b83b-1d22-4426-a95d-b1af85c70260",
+    "displayDate": "2026-11-14"
+  },
+  "Production Monitor": {
+    "title": "Nikon Z30の限界突破：非公式ファームウェアModが登場",
+    "summary": "Nikon Z30向けの実験的ファームウェアMod「Wonder Lantern」が公開されました。このハックにより、4K撮影時のビットレートを最大200Mbpsまで引き上げ、スローモーション撮影時間を3分から25分へ大幅延長。さらにゼブラ表示やカスタムアスペクト比など、本来の仕様を超える機能強化が実現されています。",
+    "insight": "メーカーのファームウェアをパッチして制限を解除する手法は、カメラ界隈でもコミュニティ主導のAI解析によって加速しています。既存ハードウェアのポテンシャルを引き出すリバースエンジニアリングの事例として、組み込みエンジニアにとっても興味深いトピックです。",
+    "sourceUrl": "https://www.cined.com/nikon-z30-wonder-lantern-mod-adds-higher-bitrates-200-mbps-4k-25-minute-slow-motion-photo-zebras/",
+    "sourceName": "CineD",
+    "originalImageUrl": "https://www.cined.com/content/uploads/2026/11/nikon-z30-featured-16x9-1-300x169.jpg",
+    "originalImageArticleUrl": "https://www.cined.com/nikon-z30-wonder-lantern-mod-adds-higher-bitrates-200-mbps-4k-25-minute-slow-motion-photo-zebras/",
+    "displayDate": "2026-11-14"
+  },
+  "SONY": {
+    "title": "Sonyが新カメラを認証登録、A7S IV登場の予兆か",
+    "summary": "Sonyが無線認証機関に新型カメラを登録したことが判明し、次世代モデル「A7S IV」の発表に対する期待と憶測が高まっています。シネマラインFX5のリリースと合わせ、プロ向け映像機器のラインナップ拡充が続いています。",
+    "insight": "カメラの認証情報リークは、画像処理エンジンやセンサーの世代交代を予測する重要な指標です。特にA7S IVのような特定用途向けモデルでは、高感度性能や読み出し速度の向上といったハードウェアのボトルネック解消が技術的な焦点となります。",
+    "sourceUrl": "https://www.imaging-resource.com/news/sony-registers-new-camera-sparking-a7s-iv-speculation/",
+    "sourceName": "Imaging Resource",
+    "originalImageUrl": "https://media.imaging-resource.com/2026/11/12193527/a7siii-black.jpg",
+    "originalImageArticleUrl": "https://www.imaging-resource.com/news/sony-registers-new-camera-sparking-a7s-iv-speculation/",
+    "displayDate": "2026-11-14"
+  },
+  "Gaming Monitor": {
+    "title": "32型4K OLEDモニターが649ドルに、価格破壊が進行中",
+    "summary": "Acerが32インチ・4K・240Hz駆動のOLED（有機EL）ゲーミングモニターを649.99ドルで発表しました。高性能な有機ELパネルを採用しながら、この価格帯を実現したことは市場に大きなインパクトを与えています。",
+    "insight": "OLEDモニターの低価格化は、デスクトップ環境における高画質化の転換点となります。高リフレッシュレートと応答速度を両立するパネルコストの低下は、今後ハイエンドスペックが一般普及層へ浸透する開発の追い風となるでしょう。",
+    "sourceUrl": "https://mixed-news.com/en/acer-predator-x32-4k-oled-240hz-649-newegg/",
+    "sourceName": "MIXED News",
+    "originalImageUrl": "https://mixed-news.com/en/wp-content/uploads/2026/11/mn-acer-PD1zNlK5.jpg",
+    "originalImageArticleUrl": "https://mixed-news.com/en/acer-predator-x32-4k-oled-240hz-649-newegg/",
+    "displayDate": "2026-11-14"
+  },
+  "Projector": {
+    "title": "BenQ 4Kプロジェクターで叶える大迫力スタジアム体験",
+    "summary": "BenQの4Kプロジェクター「TK705STi」を活用し、自宅リビングやオフィスをスタジアム化する楽しみ方が注目されています。高精細な4K映像と短焦点技術を組み合わせることで、場所を選ばず大画面でのスポーツ観戦を最適化する手法が紹介されており、没入感のある映像体験が身近になっています。",
+    "insight": "プロジェクターの短焦点技術は、限られたスペースを最大限に活用できるため、オフィスや狭いリビングの空間設計において非常に有用です。4K解像度と高輝度性能の向上により、専用のシアタールームでなくても高品質な映像体験を構築できる時代になってきています。",
+    "sourceUrl": "https://www.walkerplus.com/article/1450082/",
+    "sourceName": "ウォーカープラス",
+    "originalImageUrl": "https://news.walkerplus.com/article/1450082/18859042_615.jpg",
+    "originalImageArticleUrl": "https://www.walkerplus.com/article/1450082/",
+    "displayDate": "2026-11-14"
+  },
+  "LED Wall Display": {
+    "title": "DOOH業界が標準化へ：OAAAが推進する技術革新",
+    "summary": "OAAA（米屋外広告協会）が「プログラム・オートメーション・センター・オブ・エクセレンス」を設立。断片化されていたデジタル屋外広告（DOOH）の購入、測定、技術連携を統一規格化し、デジタルメディアのような効率的なプログラマティック取引の実現を目指す。",
+    "insight": "ハードウェア性能の向上だけでなく、今後は業界標準のAPIや共通のデータ構造による「運用の自動化」がエンジニアの重要な課題となる。Omnichannel戦略の一環として、OOHをAPI統合可能なインフラへと進化させる動きに注目すべき。",
+    "sourceUrl": "https://www.digitalsignagetoday.com/articles/oaaa-center-of-excellence-aims-to-make-ooh-easier-to-buy-integrate/",
+    "sourceName": "Digital Signage Today | Latest Media",
+    "originalImageUrl": "https://nmgprod.s3.amazonaws.com/media/file/c9/cd/16e02aa6957168d520ec5dbe1f20/cover_image__SlHndGZX__OAAA_COO_Patrick_Dolan.jpg.360x190_q85_crop_upscale.webp",
+    "originalImageArticleUrl": "https://www.digitalsignagetoday.com/articles/oaaa-center-of-excellence-aims-to-make-ooh-easier-to-buy-integrate/",
+    "displayDate": "2026-11-14"
+  },
+  "Camera Control": {
+    "title": "Sonyの巨大な65mmセンサー・ウェハーが公開",
+    "summary": "Sonyが新型シネマカメラ「Rialto 65mm」に搭載される大判センサーのウェハーを公開しました。1枚のウェハーからわずか16個しか取れない巨大なセンサーサイズは圧巻で、製造コストや歩留まりの厳しさを物語っています。",
+    "insight": "大型センサーの製造は物理的な欠陥率との戦いであり、歩留まりの低さは高価格の要因となります。エンジニアリング視点では、大規模ダイの製造における露光技術と品質管理の難しさを考察する良い事例です。",
+    "sourceUrl": "https://www.sonyalpharumors.com/look-at-this-new-sony-65mm-sensor-wafer/",
+    "sourceName": "sonyalpharumors",
+    "originalImageUrl": "https://www.sonyalpharumors.com/wp-content/uploads/2026/11/Sony-65mm.png",
+    "originalImageArticleUrl": "https://www.sonyalpharumors.com/look-at-this-new-sony-65mm-sensor-wafer/",
+    "displayDate": "2026-11-14"
+  }
+}

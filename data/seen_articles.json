@@ -1,10 +1,6 @@
 {
   "Production Monitor": [
     {
-      "url": "https://www.cined.com/davinci-resolve-21-2-released-proled-xdr-touch-support-gen-6-color-science-luts-up-to-5x-faster-rendering-on-m5-pro-and-m5-max/",
-      "date": "2026-11-07"
-    },
-    {
       "url": "https://www.cined.com/steve-yedlin-and-rian-johnson-release-chromagraph-camera-film-color-pipeline-for-iphone-stills-grain-halation-and-a-raw-gallery/",
       "date": "2026-11-08"
     },
@@ -23,13 +19,13 @@
     {
       "url": "https://www.cined.com/blackmagic-ambisonic-microphone-announced-7th-order-ambisonics-108-mems-microphones-single-usb-c-cable/",
       "date": "2026-11-13"
+    },
+    {
+      "url": "https://www.cined.com/nikon-z30-wonder-lantern-mod-adds-higher-bitrates-200-mbps-4k-25-minute-slow-motion-photo-zebras/",
+      "date": "2026-11-14"
     }
   ],
   "SRD / XR": [
-    {
-      "url": "https://www.businessinsider.jp/article/2611-xreal-aura-first-android-xr-glasses-japan/",
-      "date": "2026-11-07"
-    },
     {
       "url": "https://www.zaikei.co.jp/article/20261107/876546.html",
       "date": "2026-11-08"
@@ -49,13 +45,13 @@
     {
       "url": "https://www.moguravr.com/blackmagic-ambisonic-microphone/",
       "date": "2026-11-13"
+    },
+    {
+      "url": "https://www.zaikei.co.jp/article/20261114/877577.html",
+      "date": "2026-11-14"
     }
   ],
   "AI": [
-    {
-      "url": "https://exawizards.com/column/ai-trend/news-11-07-2026-2/",
-      "date": "2026-11-07"
-    },
     {
       "url": "https://exawizards.com/column/ai-trend/news-11-08-2026/",
       "date": "2026-11-08"
@@ -79,13 +75,13 @@
     {
       "url": "https://news.yahoo.co.jp/articles/db42f1b0919cfeca6c8ebd5044b850491e4cb304",
       "date": "2026-11-13"
+    },
+    {
+      "url": "https://news.yahoo.co.jp/pickup/6602494",
+      "date": "2026-11-14"
     }
   ],
   "Gaming Monitor": [
-    {
-      "url": "https://mixed-news.com/en/acer-predator-x27u-f5-500hz-qd-oled-monitor-newegg-deal/",
-      "date": "2026-11-07"
-    },
     {
       "url": "https://www.pcguide.com/deals/this-blazing-fast-400hz-ktc-gaming-monitor-just-got-a-15-price-cut-on-amazon/",
       "date": "2026-11-08"
@@ -105,13 +101,13 @@
     {
       "url": "https://www.4gamer.net/games/999/G999901/20261112027/",
       "date": "2026-11-13"
+    },
+    {
+      "url": "https://mixed-news.com/en/acer-predator-x32-4k-oled-240hz-649-newegg/",
+      "date": "2026-11-14"
     }
   ],
   "TCL": [
-    {
-      "url": "https://www.prnewswire.com/news-releases/tcl-csot-begins-equipment-move-in-at-its-t8-production-line-302931951.html",
-      "date": "2026-11-07"
-    },
     {
       "url": "https://www.techpowerup.com/354558/tcl-csot-inkjet-oled-t8-factory-begins-equipment-installation-phase",
       "date": "2026-11-08"
@@ -131,13 +127,13 @@
     {
       "url": "https://av.watch.impress.co.jp/docs/topic/avwaward/2155465.html",
       "date": "2026-11-13"
+    },
+    {
+      "url": "https://finance.biggo.com/news/90b0b83b-1d22-4426-a95d-b1af85c70260",
+      "date": "2026-11-14"
     }
   ],
   "Camera Control": [
-    {
-      "url": "https://www.dpreview.com/articles/a-deep-dive-into-the-sigma-fp2s-image-quality-finds-a-camera-thats-unconventional-to-its-core/",
-      "date": "2026-11-07"
-    },
     {
       "url": "https://www.sonyalpharumors.com/tamrons-first-results-since-sonys-buyout-bid-no-word-on-the-deal-but-oem-lens-orders-jump-36/",
       "date": "2026-11-08"
@@ -157,13 +153,13 @@
     {
       "url": "https://petapixel.com/2026/11/12/sharge-disk-pro-2-review-now-thats-how-you-take-customer-feedback/",
       "date": "2026-11-13"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/look-at-this-new-sony-65mm-sensor-wafer/",
+      "date": "2026-11-14"
     }
   ],
   "LED Wall Display": [
-    {
-      "url": "https://www.4rfv.co.uk/industrynews/336712/catchphrase_returns_with_curved_led_wall_and_live_triggers_driven_by_hippotizer",
-      "date": "2026-11-07"
-    },
     {
       "url": "https://www.digitalsignagetoday.com/news/on-completes-av-integration-at-brazil-art-space/",
       "date": "2026-11-08"
@@ -183,13 +179,13 @@
     {
       "url": "//www.ledinside.com/news/2026/11/2026_11_12_05",
       "date": "2026-11-13"
+    },
+    {
+      "url": "https://www.digitalsignagetoday.com/articles/oaaa-center-of-excellence-aims-to-make-ooh-easier-to-buy-integrate/",
+      "date": "2026-11-14"
     }
   ],
   "SONY": [
-    {
-      "url": "https://www.moguravr.com/elf-mn1-review/",
-      "date": "2026-11-07"
-    },
     {
       "url": "https://www.moguravr.com/elf-mn1-review/",
       "date": "2026-11-08"
@@ -209,13 +205,13 @@
     {
       "url": "https://cameota.com/sony/53075.html",
       "date": "2026-11-13"
+    },
+    {
+      "url": "https://www.imaging-resource.com/news/sony-registers-new-camera-sparking-a7s-iv-speculation/",
+      "date": "2026-11-14"
     }
   ],
   "TV": [
-    {
-      "url": "https://theinventory.com/roku-55-inch-pro-series-smart-tv-4k-oled-120hz-2026-rokutv-5fe372bd",
-      "date": "2026-11-07"
-    },
     {
       "url": "https://news.yahoo.co.jp/articles/57ec5e1a5de653e47c3c8b444ef3d8753296adde",
       "date": "2026-11-08"
@@ -235,13 +231,13 @@
     {
       "url": "https://gate-one.co.jp/news/press/119770/",
       "date": "2026-11-13"
+    },
+    {
+      "url": "https://news.yahoo.co.jp/articles/c4d405d0884e751bbb6d57a68dbb68b15a922ec4",
+      "date": "2026-11-14"
     }
   ],
   "Projector": [
-    {
-      "url": "https://dtimes.jp/post-1453131/",
-      "date": "2026-11-07"
-    },
     {
       "url": "https://internetcom.jp/211320/jmgo-iris-ultra-max-japan-launch",
       "date": "2026-11-08"
@@ -261,6 +257,10 @@
     {
       "url": "https://av.watch.impress.co.jp/docs/news/2156065.html",
       "date": "2026-11-13"
+    },
+    {
+      "url": "https://www.walkerplus.com/article/1450082/",
+      "date": "2026-11-14"
     }
   ]
 }
