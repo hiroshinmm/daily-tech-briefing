@@ -1,0 +1,102 @@
+{
+  "AI": {
+    "title": "検察の取り調べをAIが監視・分析へ",
+    "summary": "AIが検事の取り調べ録画を解析し、不適切な言動がないかを自動的にチェックするシステムが年度内に導入される見通しとなりました。取り調べの適正化と効率的な監視を目的に、表情や音声からやり取りの妥当性を評価します。",
+    "insight": "映像・音声解析モデルを用いた「監査の自動化」は、法執行機関における重要なデジタルトランスフォーメーションです。エンジニアとしては、高精度な感情解析やマルチモーダルなコンテキスト理解が、社会基盤の信頼性担保にどう寄与できるかという実装と倫理のバランスが鍵となります。",
+    "sourceUrl": "https://news.yahoo.co.jp/articles/581c3d8cd1a1a3cfd2aef32f4539655bdcedf662",
+    "sourceName": "Yahoo!ニュース",
+    "originalImageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261115-00000004-asahi-000-2-view.jpg?exp=10800",
+    "originalImageArticleUrl": "https://news.yahoo.co.jp/articles/581c3d8cd1a1a3cfd2aef32f4539655bdcedf662",
+    "displayDate": "2026-11-15"
+  },
+  "SRD / XR": {
+    "title": "Pixel WatchでXRグラスを直感操作する新UI",
+    "summary": "Pixel Watchを活用し、Android XRグラスを3種類のジェスチャーで操作する新機能が話題です。音楽再生やGeminiの呼び出しが可能になり、XRデバイスの操作体験におけるスマホ不要のウェアラブル連携が加速しています。",
+    "insight": "XRデバイスのUX課題である「入力インターフェース」に対して、既存のスマートウォッチのモーションセンサーをHMDの入力デバイスとして流用するアプローチは非常に現実的かつ合理的です。空間コンピューティングにおける『マルチデバイス連携による入力最適化』の好例と言えます。",
+    "sourceUrl": "https://www.zaikei.co.jp/article/20261114/877577.html",
+    "sourceName": "財経新聞",
+    "originalImageUrl": "https://www.zaikei.co.jp/files/general/20261114082714ayA0big.png",
+    "originalImageArticleUrl": "https://www.zaikei.co.jp/article/20261114/877577.html",
+    "displayDate": "2026-11-15"
+  },
+  "SONY": {
+    "title": "噂の新型「α7S IV」：動画機か、それとも超高感度への原点回帰か",
+    "summary": "次期モデル「α7S IV」の登場を巡る予測が業界で話題です。動画制作ツールとしての地位を確立した現在、ソニーが「S」本来のアイデンティティである「超高感度撮影」にどこまで回帰するのか、そのコンセプトの方向性に注目が集まっています。FX5などの最新機種との差別化要因が議論の焦点です。",
+    "insight": "センサーの画素数とS/N比のバランス設計は、エンジニアリングにおけるトレードオフの好例です。多目的化するミラーレスカメラ市場において、特定の用途に特化したアーキテクチャがどう最適化されるのかは、製品戦略の興味深いベンチマークとなります。",
+    "sourceUrl": "https://digicame-info.com/2026/11/7sivs.html",
+    "sourceName": "デジカメinfo",
+    "originalImageUrl": "https://digicame-info.com/assets_c/2020/07/sony_a7sIII_of_001-thumb-320x320-4689.jpg",
+    "originalImageArticleUrl": "https://digicame-info.com/2026/11/7sivs.html",
+    "displayDate": "2026-11-15"
+  },
+  "TCL": {
+    "title": "TCL CSOT、次世代4サブピクセルOLEDを発表",
+    "summary": "TCL CSOTは、青色リン光技術を採用した新しい4サブピクセル方式のデュアルモードOLEDパネルを発表しました。この技術は、高いリフレッシュレートと省電力性能を両立し、色再現性を維持しながら消費電力を削減できる点が特徴です。",
+    "insight": "従来のRGB3画素構成に青色サブピクセルを追加した4サブピクセル構造は、輝度と寿命のバランスを最適化するためのハードウェア制御における重要なアプローチです。高リフレッシュレート化が進むディスプレイ市場において、低消費電力と高精細を両立させる回路・駆動制御の進化は今後のモバイル製品の設計基準を左右するでしょう。",
+    "sourceUrl": "https://www.technetbooks.com/2026/11/tcl-csot-unveils-4-subpixel-dual-mode.html",
+    "sourceName": "Technetbook",
+    "originalImageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgEmxtbXy44R6DCRIzOOAG970XozN4mn7bemDhGyp4JLTKfiA5K0C8GtAv7FarbXnMVgbjI0qfjsSGNNR24aaRvTs-bwh0_kACsjIH2d30RKsx6JT4UcCVSp7z7do1IZziqHnHaZpIQwTjcVGbCfoRPoB45L9zknXDSvemTRckcwDCmTfBf35nOaufUA9o/w1280-h720-p-k-no-nu/CSOT%20Unveils%204%20Subpixel%20Dual%20Mode%20OLED%20Panels%20with%20Blue%20Phosphorescence.webp",
+    "originalImageArticleUrl": "https://www.technetbooks.com/2026/11/tcl-csot-unveils-4-subpixel-dual-mode.html",
+    "displayDate": "2026-11-15"
+  },
+  "Gaming Monitor": {
+    "title": "AOCが275Hz駆動の予算重視型1440pモニターを発売",
+    "summary": "AOCが24.5インチのFast IPSパネルを採用し、1440p解像度で275Hzのリフレッシュレートを実現した新型ゲーミングモニターを発表しました。高リフレッシュレートと高精細さを両立させつつ、価格を抑えた構成が特徴です。",
+    "insight": "Fast IPS技術の進歩により、高解像度と超高リフレッシュレートの両立がミドルレンジ以下の価格帯まで普及してきました。エンジニアの作業環境においても、高密度かつ滑らかな表示環境を低コストで構築しやすくなった点は注目すべきトレンドです。",
+    "sourceUrl": "https://www.gizmochina.com/2026/11/14/aoc-q25g5ze8-gaming-monitor-launched-specs-price/",
+    "sourceName": "Gizmochina",
+    "originalImageUrl": "https://www.gizmochina.com/wp-content/uploads/2026/11/aoc-q25g5ze8-monitor-launched.png",
+    "originalImageArticleUrl": "https://www.gizmochina.com/2026/11/14/aoc-q25g5ze8-gaming-monitor-launched-specs-price/",
+    "displayDate": "2026-11-15"
+  },
+  "Projector": {
+    "title": "Netflix、4Kプラン値上げの影響と視聴環境",
+    "summary": "Netflixが約2年ぶりに料金を改定。4K対応の「プレミアム」プランは月額2,590円となりました。高解像度コンテンツの維持コスト増に伴い、家庭の視聴環境やプロジェクター導入における「4K体験の価値」が改めて問われるタイミングです。",
+    "insight": "ストリーミング配信の価格改定は、ハイエンドな視聴環境を構築する際の運用コストに直結します。エンジニアとしては、単なる画質だけでなく、ビットレート最適化やローカルネットワーク帯域の確保など、高精細コンテンツを安定して楽しむためのシステム設計の重要性が再認識されます。",
+    "sourceUrl": "https://topics.smt.docomo.ne.jp/amp/article/phileweb/trend/phileweb-news__d-av__66383",
+    "sourceName": "dメニューニュース",
+    "originalImageUrl": "https://img.topics.smt.news.goo.ne.jp/picture/phileweb/m_phileweb-news__d-av__66383.jpg",
+    "originalImageArticleUrl": "https://topics.smt.docomo.ne.jp/amp/article/phileweb/trend/phileweb-news__d-av__66383",
+    "displayDate": "2026-11-15"
+  },
+  "Production Monitor": {
+    "title": "iPhoneが外部モニターに？SmallRigの新ソリューション",
+    "summary": "iPhoneの高性能ディスプレイをカメラのオンボードモニターとして活用可能にする、SmallRigのマグネット式アタッチメントが登場しました。撮影現場の機材構成をより軽量かつスマートに最適化する新しい選択肢です。",
+    "insight": "既存のハードウェア（iPhone）を他のデバイスの周辺機器として再利用する設計は、開発者にとって「既存資産の最大活用」という点で興味深いアプローチです。特化した専用モニターではなく、汎用端末を拡張する思想は、UXやシステム構築における疎結合な設計思想にも通じます。",
+    "sourceUrl": "https://www.newsshooter.com/2026/11/14/smallrig-solution-to-magnetically-attach-your-iphone-duo-to-a-camera/",
+    "sourceName": "Newsshooter",
+    "originalImageUrl": "https://media.newsshooter.com/wp-content/uploads/2026/11/SmallRig.jpg",
+    "originalImageArticleUrl": "https://www.newsshooter.com/2026/11/14/smallrig-solution-to-magnetically-attach-your-iphone-duo-to-a-camera/",
+    "displayDate": "2026-11-15"
+  },
+  "TV": {
+    "title": "長期放送のドキュメンタリー番組の社会的意義",
+    "summary": "1994年から続く日本テレビの『NNNドキュメント』は、時代ごとの社会課題を記録し続ける長寿番組です。テレビメディアが持つアーカイブ機能と、その時々の世相を切り取るジャーナリズムの重要性が再評価されています。",
+    "insight": "エンジニアにとっても、ログやデータを蓄積し、後から振り返ることで新たな価値を発見するアーカイブの概念は重要です。短期的なトレンドに左右されず、長期的な視点でコンテンツや情報を管理し続ける「継続性の価値」について考えてみてはいかがでしょうか。",
+    "sourceUrl": "https://www.ntv.co.jp/document/",
+    "sourceName": "日本テレビ",
+    "originalImageUrl": "https://www.ntv.co.jp/document/r_images/ogp.jpg",
+    "originalImageArticleUrl": "https://www.ntv.co.jp/document/",
+    "displayDate": "2026-11-15"
+  },
+  "Camera Control": {
+    "title": "Adobe最新画像編集ツールの技術的注意点",
+    "summary": "Adobeがリリースした最新の画像編集ツールについて、プロダクトマネージャーへの取材を通じてその機能の仕組みや活用法を解説。実際に試用した際に生じた疑問点とともに、エンジニアが知っておくべき技術的な要点をまとめています。",
+    "insight": "Adobeの生成AIや最新編集ツールは、単なる機能追加ではなく、データ処理のパイプラインやモデルの推論プロセスに大きな変化をもたらしています。APIを利用するエンジニア視点では、自動化の精度だけでなく、処理のブラックボックス化による制約条件を把握することが重要です。",
+    "sourceUrl": "https://www.dpreview.com/news/what-you-should-know-before-using-adobes-latest-photo-editing-tools/",
+    "sourceName": "DPReview",
+    "originalImageUrl": "https://www.dpreview.com/wp-content/uploads/2026/11/gn-adobe-logos.jpg",
+    "originalImageArticleUrl": "https://www.dpreview.com/news/what-you-should-know-before-using-adobes-latest-photo-editing-tools/",
+    "displayDate": "2026-11-15"
+  },
+  "LED Wall Display": {
+    "title": "屋外LEDの微細化：ElysiumLEDが新シリーズ発表",
+    "summary": "ElysiumLEDが、屋外環境でも高精細な表示を維持できる「CORE Outdoor」シリーズをリリース。MicroLED-in-Package技術を採用し、0.93mmから1.56mmのピクセルピッチを実現。直射日光下でもクリアな画質と、雨や埃に耐える堅牢性を両立させ、建築や公共空間での高精細な映像体験を可能にしています。",
+    "insight": "屋外用LEDディスプレイにおいて、これまで課題だった高精細化（微細ピクセルピッチ）と耐環境性の両立がMIP（MicroLED-in-Package）技術で進化しています。特に熱管理と防水・防塵設計の精度は、高輝度・高密度なLEDモジュールを屋外実装する際のエンジニアリング上の鍵となります。",
+    "sourceUrl": "https://www.digitalsignagetoday.com/news/elysiumled-intro-outdoor-led-display-series/",
+    "sourceName": "Digital Signage Today | Latest Media",
+    "originalImageUrl": "https://nmgprod.s3.amazonaws.com/media/file/25/d7/25c5c4d8b5e3701743d65847c2d4/cover_image__znPfgQQU__elysium.webp.360x190_q85_crop_upscale.webp",
+    "originalImageArticleUrl": "https://www.digitalsignagetoday.com/news/elysiumled-intro-outdoor-led-display-series/",
+    "displayDate": "2026-11-15"
+  }
+}
