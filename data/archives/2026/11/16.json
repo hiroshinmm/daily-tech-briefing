@@ -1,0 +1,102 @@
+{
+  "SRD / XR": {
+    "title": "Meta Questストア、アプリ内課金が有料販売を上回る転換点",
+    "summary": "Meta Questストアの上位50タイトルにおいて、アプリ内課金による収益が初めて有料販売（アップフロント）による収益を上回りました。VRコンテンツの収益モデルが、買い切り型から継続課金型へ本格的に移行しつつあることを示しています。",
+    "insight": "このトレンドは、VR市場が「一過性の体験」から「長期的なプラットフォームとしてのエンゲージメント」にシフトしていることを示唆しています。エンジニアとしては、単発のデリバリーだけでなく、継続的なライブ運営やエコシステム構築に耐えうるバックエンド設計が重要になるでしょう。",
+    "sourceUrl": "https://www.moguravr.com/vr-ar-mr-weekly-2026-11-16/",
+    "sourceName": "Mogura VR",
+    "originalImageUrl": "https://assets.moguravr.com/uploads/2026/11/e757a37b930a3ec537fb3335a21c6e3d-kix.943acj8rzjx9-300x158.webp",
+    "originalImageArticleUrl": "https://www.moguravr.com/vr-ar-mr-weekly-2026-11-16/",
+    "displayDate": "2026-11-16"
+  },
+  "AI": {
+    "title": "8割が未理解のコードをマージ：AI開発の罠",
+    "summary": "TestMu AIの最新レポートにより、ソフトウェア開発チームの81%が、十分に内容を理解していないAI生成コードをソースコードにマージした経験があることが判明しました。開発効率向上の影で、コード品質とセキュリティのリスクが顕在化しています。",
+    "insight": "AIコーディング支援ツールの導入で「書く」速度は上がりましたが、レビューなしでのマージは技術的負債や脆弱性の温床となります。コードレビュープロセスをAI活用前提で見直し、自動テストと静的解析によるゲートウェイを強化することがエンジニアリングの急務です。",
+    "sourceUrl": "https://kyodonewsprwire.jp/release/202611130170",
+    "sourceName": "共同通信PRワイヤー",
+    "originalImageUrl": "https://kyodonewsprwire.jp/prwfile/release/M107864/202611130170/_prw_OI1fl_458bQBZ6.jpg",
+    "originalImageArticleUrl": "https://kyodonewsprwire.jp/release/202611130170",
+    "displayDate": "2026-11-16"
+  },
+  "Gaming Monitor": {
+    "title": "ゲーミングモニター市場、OLED普及へ",
+    "summary": "中国市場のゲーム産業拡大を背景に、SamsungやLGといった大手メーカーがゲーミングモニター向けOLEDパネルの供給を加速させています。価格競争も始まっており、27型QD-OLEDモデルが大幅値下げされるなど、ハイエンドな映像体験がより身近になっています。",
+    "insight": "OLEDモニターの低価格化は、エンジニアの作業環境や検証環境におけるHDRコンテンツ制作やUI確認の基準を変える可能性があります。高リフレッシュレートと応答速度の向上は、リアルタイムグラフィックスのデバッグにおいて非常に重要な進化です。",
+    "sourceUrl": "https://news.jkn.co.kr/editions/english/post/1097218",
+    "sourceName": "JKN - 재경일보",
+    "originalImageUrl": "https://images.jkn.co.kr/data/images/full/111/62/1116262.jpg?v=1794786979&width=1200&height=630",
+    "originalImageArticleUrl": "https://news.jkn.co.kr/editions/english/post/1097218",
+    "displayDate": "2026-11-16"
+  },
+  "TCL": {
+    "title": "TCL CEOが語る「AI時代のディスプレイの定義権」",
+    "summary": "TCL科技の王成CEOは、AI時代のディスプレイメーカーは単なるサプライヤーではなく、製品の在り方を決定する「定義権」を持つべきだと主張しました。また、同社は2027年末までに広州で印刷OLEDラインの量産を開始する計画を明かしています。",
+    "insight": "印刷OLEDは製造コストの大幅な削減と大型化に適した技術であり、ディスプレイ業界のパラダイムシフトを予感させます。AIとの統合が進む中、ディスプレイが受動的な表示デバイスから、AIとのインターフェースとしての製品定義へ進化していく動向は要注目です。",
+    "sourceUrl": "https://finance.biggo.jp/news/956771e7-c402-467c-b9ef-3b8f1a83bc16",
+    "sourceName": "BigGo ファイナンス",
+    "originalImageUrl": "https://img.biggo.com/-7Jy4vF7j0FUZqQI-3qAvVdnlsPi2GXRnzhp-uxs-Oo/fit/1200/0/sm/0/aHR0cHM6Ly9pbWcuYmdvLm9uZS9uZXdzLWltYWdlL2FpX2dlbmVyYXRlZC8yMDI2LTExLzk1Njc3MWU3LWM0MDItNDY3Yy1iOWVmLTNiOGYxYTgzYmMxNl8xNzk0NzUzMTY0X2RlZmF1bHQuanBn.jpg",
+    "originalImageArticleUrl": "https://finance.biggo.jp/news/956771e7-c402-467c-b9ef-3b8f1a83bc16",
+    "displayDate": "2026-11-16"
+  },
+  "Projector": {
+    "title": "Netflixが日本で料金改定。全プランが値上げへ",
+    "summary": "Netflixが日本国内の月額料金を改定しました。「広告つきスタンダード」は890円から990円へ、「スタンダード」は1,590円から1,790円へ、4K対応の「プレミアム」は2,290円から2,590円へと、全プランで値上げが実施されています。",
+    "insight": "ストリーミングサービスの価格戦略は、データセンターの運用コストやコンテンツ制作費の高騰を反映する重要な指標です。エンジニアとしては、サブスクリプション型のサービス設計において、提供価値に対する価格設定の妥当性と、値上げによるチャーンレートへの影響をどう分析するかという視点が参考になります。",
+    "sourceUrl": "https://av.watch.impress.co.jp/docs/news/2156523.html",
+    "sourceName": "AV Watch",
+    "originalImageUrl": "https://av.watch.impress.co.jp/img/avw/list/2156/523/net.jpg",
+    "originalImageArticleUrl": "https://av.watch.impress.co.jp/docs/news/2156523.html",
+    "displayDate": "2026-11-16"
+  },
+  "SONY": {
+    "title": "山崎貴監督も活用、次世代制作現場とソニーの技術連携",
+    "summary": "山崎貴監督の最新インタビューにて、映画『ゴジラ-0.0』制作現場におけるソニーの最新ディスプレイ「BRAVIA 9 II」の活用事例が公開。カメラから表示環境まで一貫したソニーの技術が、クリエイティブの品質管理にどう寄与しているかが注目されています。",
+    "insight": "プロフェッショナルな映像制作において、撮影機材だけでなく、それを確認するリファレンスモニターの精度がワークフローの根幹を成しています。特に色再現性やピーク輝度の制御といったハードウェア性能が、後工程での調整工数をいかに削減できるかという点がエンジニアリング観点での重要な示唆となります。",
+    "sourceUrl": "https://kunkoku.jp/bravia9ii-yamazaki.html",
+    "sourceName": "ソニーが基本的に好き。",
+    "originalImageUrl": "https://kunkoku.jp/wp-content/uploads/2026/11/261110g01.jpg",
+    "originalImageArticleUrl": "https://kunkoku.jp/bravia9ii-yamazaki.html",
+    "displayDate": "2026-11-16"
+  },
+  "Production Monitor": {
+    "title": "NANLITE照明、ファームウェアで色温度範囲を大幅拡大",
+    "summary": "NANLITEのPavoSlimシリーズが最新ファームウェアで色温度範囲を拡張。従来の2700K-7500Kから、2400K-12000Kへと大幅に拡大され、より幅広い撮影現場やクリエイティブなライティング表現に対応可能となりました。",
+    "insight": "ハードウェアの仕様を変えずにソフトウェアのアップデートで機能拡張を行う事例です。エンジニアリングの視点では、ファームウェアによってハードウェアの限界を引き出すキャリブレーション技術の重要性が再認識できます。",
+    "sourceUrl": "https://www.newsshooter.com/2026/11/15/nanlite-pavoslim-60c-60cl-120c-240c-240cl-firmware-updates/",
+    "sourceName": "Newsshooter",
+    "originalImageUrl": "https://media.newsshooter.com/wp-content/uploads/2026/11/NANLITE.jpg",
+    "originalImageArticleUrl": "https://www.newsshooter.com/2026/11/15/nanlite-pavoslim-60c-60cl-120c-240c-240cl-firmware-updates/",
+    "displayDate": "2026-11-16"
+  },
+  "TV": {
+    "title": "プラットワークスが専門チャンネル事業を承継",
+    "summary": "プラットワークスが、ソニー・ミュージックソリューションズから音楽専門チャンネル「MUSIC ON! TV」および「アジアドラマチックTV」の運営事業を承継することを発表しました。メディア環境の変化に伴う事業再編の一環として注目されます。",
+    "insight": "コンテンツ配信の多様化が進む中、レガシーな放送メディア事業の譲渡や統合が加速しています。エンジニアとしては、このような放送プラットフォームの技術的統合や、OTTサービスへの移行に伴うアーキテクチャ再構築の知見が重要になります。",
+    "sourceUrl": "https://www.musicman.co.jp/business/751745",
+    "sourceName": "音楽業界総合情報サイト",
+    "originalImageUrl": null,
+    "originalImageArticleUrl": "https://www.musicman.co.jp/business/751745",
+    "displayDate": "2026-11-16"
+  },
+  "Camera Control": {
+    "title": "Lightroomに待望のベクトルスコープ機能が追加",
+    "summary": "Lightroomに、映像編集でおなじみのカラー評価ツール「ベクトルスコープ」が実装されました。これまで外部プラグインで補っていた色補正の精度を、標準ツールだけで大幅に高めることが可能になります。",
+    "insight": "ベクトルスコープは色相と彩度を直感的に可視化し、肌の色やホワイトバランスの追い込みに非常に有効なツールです。プロ向けのカラーグレーディング技術が標準ツールに降りてきたことで、静止画編集のワークフローにおけるカラーマネジメントがより厳密なものへ変化するでしょう。",
+    "sourceUrl": "https://petapixel.com/2026/11/15/how-to-use-vectorscope-in-lightroom/",
+    "sourceName": "PetaPixel",
+    "originalImageUrl": "https://petapixel.com/assets/uploads/2026/11/vectorscope-vs-exposure.jpg",
+    "originalImageArticleUrl": "https://petapixel.com/2026/11/15/how-to-use-vectorscope-in-lightroom/",
+    "displayDate": "2026-11-16"
+  },
+  "LED Wall Display": {
+    "title": "大規模ディスプレイ運用の効率化：Extreme Networksとの連携",
+    "summary": "Uniguest社がExtreme Networksと提携し、大規模なIPTVやデジタルサイネージの展開・管理を簡素化するソリューションを発表しました。Extreme Fabric Attach技術を活用し、メディアプレイヤーの自動認識とポリシー適用を自動化することで、スタジアムやアリーナといった広大なネットワーク環境での運用コストと構築の複雑さを大幅に削減します。",
+    "insight": "ネットワーク層とAV制御層を統合し、デバイスプロビジョニングを自動化するトレンドは、大規模LEDディスプレイ運用において重要です。SDN技術をAVシステムに組み込むことで、物理的な結線や個別のコンフィグ作業を削減し、スケーラビリティを確保するアーキテクチャ設計が推奨されます。",
+    "sourceUrl": "https://www.digitalsignagetoday.com/news/uniguest-extreme-networks-join-forces-to-simplify-digital-signage-deployments/",
+    "sourceName": "Digital Signage Today",
+    "originalImageUrl": "https://nmgprod.s3.amazonaws.com/media/file/be/4f/e7ea83efbf7b30ec8bb3ba6b7229/cover_image__yAUZmyPI__Uniguest_extreme_networks.png.360x190_q85_crop_upscale.webp",
+    "originalImageArticleUrl": "https://www.digitalsignagetoday.com/news/uniguest-extreme-networks-join-forces-to-simplify-digital-signage-deployments/",
+    "displayDate": "2026-11-16"
+  }
+}

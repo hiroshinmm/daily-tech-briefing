@@ -1,10 +1,6 @@
 {
   "Production Monitor": [
     {
-      "url": "https://www.cined.com/honor-magic9-pro-max-first-look-arri-color-science-at-a-fraction-of-the-price/",
-      "date": "2026-11-09"
-    },
-    {
       "url": "https://www.cined.com/sigma-fp-fpsup-mods-add-og4k-open-gate-lossless-cinemadng-gyroflow-data-raw-monitoring/",
       "date": "2026-11-11"
     },
@@ -23,13 +19,13 @@
     {
       "url": "https://www.newsshooter.com/2026/11/14/smallrig-solution-to-magnetically-attach-your-iphone-duo-to-a-camera/",
       "date": "2026-11-15"
+    },
+    {
+      "url": "https://www.newsshooter.com/2026/11/15/nanlite-pavoslim-60c-60cl-120c-240c-240cl-firmware-updates/",
+      "date": "2026-11-16"
     }
   ],
   "SRD / XR": [
-    {
-      "url": "https://www.moguravr.com/vr-ar-mr-weekly-2026-11-9/",
-      "date": "2026-11-09"
-    },
     {
       "url": "https://finance.biggo.jp/news/70779fb1-e42b-4650-b343-6aa4e2b4d360",
       "date": "2026-11-11"
@@ -49,13 +45,13 @@
     {
       "url": "https://www.zaikei.co.jp/article/20261114/877577.html",
       "date": "2026-11-15"
+    },
+    {
+      "url": "https://www.moguravr.com/vr-ar-mr-weekly-2026-11-16/",
+      "date": "2026-11-16"
     }
   ],
   "AI": [
-    {
-      "url": "https://ai.watch.impress.co.jp/docs/news/2154669.html",
-      "date": "2026-11-09"
-    },
     {
       "url": "https://news.yahoo.co.jp/articles/60c6f5fbaef08bb446edbba392a15dbe1a501922",
       "date": "2026-11-10"
@@ -79,13 +75,13 @@
     {
       "url": "https://news.yahoo.co.jp/articles/581c3d8cd1a1a3cfd2aef32f4539655bdcedf662",
       "date": "2026-11-15"
+    },
+    {
+      "url": "https://kyodonewsprwire.jp/release/202611130170",
+      "date": "2026-11-16"
     }
   ],
   "Gaming Monitor": [
-    {
-      "url": "https://pc.watch.impress.co.jp/docs/news/2154666.html",
-      "date": "2026-11-09"
-    },
     {
       "url": "https://pc.watch.impress.co.jp/docs/news/2155393.html",
       "date": "2026-11-11"
@@ -105,13 +101,13 @@
     {
       "url": "https://www.gizmochina.com/2026/11/14/aoc-q25g5ze8-gaming-monitor-launched-specs-price/",
       "date": "2026-11-15"
+    },
+    {
+      "url": "https://news.jkn.co.kr/editions/english/post/1097218",
+      "date": "2026-11-16"
     }
   ],
   "TCL": [
-    {
-      "url": "https://iphone-mania.jp/apple-608479/",
-      "date": "2026-11-09"
-    },
     {
       "url": "https://prtimes.jp/main/html/rd/p/000000029.000121487.html",
       "date": "2026-11-11"
@@ -131,13 +127,13 @@
     {
       "url": "https://www.technetbooks.com/2026/11/tcl-csot-unveils-4-subpixel-dual-mode.html",
       "date": "2026-11-15"
+    },
+    {
+      "url": "https://finance.biggo.jp/news/956771e7-c402-467c-b9ef-3b8f1a83bc16",
+      "date": "2026-11-16"
     }
   ],
   "Camera Control": [
-    {
-      "url": "https://www.dpreview.com/interviews/gopro-says-its-action-camera-reputation-is-hard-to-shake/",
-      "date": "2026-11-09"
-    },
     {
       "url": "https://petapixel.com/2026/11/10/vsco-updates-its-policy-to-explicitly-state-it-wont-train-ai-on-your-photos/",
       "date": "2026-11-11"
@@ -157,13 +153,13 @@
     {
       "url": "https://www.dpreview.com/news/what-you-should-know-before-using-adobes-latest-photo-editing-tools/",
       "date": "2026-11-15"
+    },
+    {
+      "url": "https://petapixel.com/2026/11/15/how-to-use-vectorscope-in-lightroom/",
+      "date": "2026-11-16"
     }
   ],
   "LED Wall Display": [
-    {
-      "url": "https://www.digitalsignagetoday.com/news/georgia-school-digital-sign-flashes-porn-image/",
-      "date": "2026-11-09"
-    },
     {
       "url": "https://www.digitalsignagetoday.com/news/easysignage-launches-ai-assistant/",
       "date": "2026-11-11"
@@ -183,13 +179,13 @@
     {
       "url": "https://www.digitalsignagetoday.com/news/elysiumled-intro-outdoor-led-display-series/",
       "date": "2026-11-15"
+    },
+    {
+      "url": "https://www.digitalsignagetoday.com/news/uniguest-extreme-networks-join-forces-to-simplify-digital-signage-deployments/",
+      "date": "2026-11-16"
     }
   ],
   "SONY": [
-    {
-      "url": "https://getnews.jp/archives/3753726/gate",
-      "date": "2026-11-09"
-    },
     {
       "url": "https://cameota.com/sony/53075.html",
       "date": "2026-11-11"
@@ -209,13 +205,13 @@
     {
       "url": "https://digicame-info.com/2026/11/7sivs.html",
       "date": "2026-11-15"
+    },
+    {
+      "url": "https://kunkoku.jp/bravia9ii-yamazaki.html",
+      "date": "2026-11-16"
     }
   ],
   "TV": [
-    {
-      "url": "https://www.tv-tokyo.co.jp/tabletennis/news/2026/11/042899.html",
-      "date": "2026-11-09"
-    },
     {
       "url": "https://media-innovation.jp/article/2026/11/11/143967.html",
       "date": "2026-11-11"
@@ -235,13 +231,13 @@
     {
       "url": "https://www.ntv.co.jp/document/",
       "date": "2026-11-15"
+    },
+    {
+      "url": "https://www.musicman.co.jp/business/751745",
+      "date": "2026-11-16"
     }
   ],
   "Projector": [
-    {
-      "url": "https://www.yankodesign.com/2026/11/08/optomas-599-4k-projector-casts-a-150-inch-screen-for-the-price-of-an-android-phone/amp/",
-      "date": "2026-11-09"
-    },
     {
       "url": "https://av.watch.impress.co.jp/docs/news/2155212.html",
       "date": "2026-11-11"
@@ -261,6 +257,10 @@
     {
       "url": "https://topics.smt.docomo.ne.jp/amp/article/phileweb/trend/phileweb-news__d-av__66383",
       "date": "2026-11-15"
+    },
+    {
+      "url": "https://av.watch.impress.co.jp/docs/news/2156523.html",
+      "date": "2026-11-16"
     }
   ]
 }
