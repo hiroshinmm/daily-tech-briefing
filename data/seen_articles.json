@@ -23,6 +23,10 @@
     {
       "url": "https://www.newsshooter.com/2026/11/15/nanlite-pavoslim-60c-60cl-120c-240c-240cl-firmware-updates/",
       "date": "2026-11-16"
+    },
+    {
+      "url": "https://www.cined.com/memory-costs-hit-canon-fujifilm-nikon-and-sony-canon-plans-price-increases-from-2027/",
+      "date": "2026-11-17"
     }
   ],
   "SRD / XR": [
@@ -49,13 +53,13 @@
     {
       "url": "https://www.moguravr.com/vr-ar-mr-weekly-2026-11-16/",
       "date": "2026-11-16"
+    },
+    {
+      "url": "https://www.minyu-net.com/release/prtimes/detail/57445",
+      "date": "2026-11-17"
     }
   ],
   "AI": [
-    {
-      "url": "https://news.yahoo.co.jp/articles/60c6f5fbaef08bb446edbba392a15dbe1a501922",
-      "date": "2026-11-10"
-    },
     {
       "url": "https://aws.amazon.com/jp/blogs/news/genai-roundtable-202610/",
       "date": "2026-11-11"
@@ -79,6 +83,10 @@
     {
       "url": "https://kyodonewsprwire.jp/release/202611130170",
       "date": "2026-11-16"
+    },
+    {
+      "url": "https://japan.cnet.com/article/35254969/",
+      "date": "2026-11-17"
     }
   ],
   "Gaming Monitor": [
@@ -105,6 +113,10 @@
     {
       "url": "https://news.jkn.co.kr/editions/english/post/1097218",
       "date": "2026-11-16"
+    },
+    {
+      "url": "https://pc.watch.impress.co.jp/docs/news/2157036.html",
+      "date": "2026-11-17"
     }
   ],
   "TCL": [
@@ -131,6 +143,10 @@
     {
       "url": "https://finance.biggo.jp/news/956771e7-c402-467c-b9ef-3b8f1a83bc16",
       "date": "2026-11-16"
+    },
+    {
+      "url": "https://www.digitimes.com/news/a20261117VL205/tcl-csot-oled-panel-display-efficiency.html",
+      "date": "2026-11-17"
     }
   ],
   "Camera Control": [
@@ -157,6 +173,10 @@
     {
       "url": "https://petapixel.com/2026/11/15/how-to-use-vectorscope-in-lightroom/",
       "date": "2026-11-16"
+    },
+    {
+      "url": "https://petapixel.com/2026/11/16/how-iphone-duos-unlock-with-front-camera-works-and-how-its-different-than-face-id/",
+      "date": "2026-11-17"
     }
   ],
   "LED Wall Display": [
@@ -183,6 +203,10 @@
     {
       "url": "https://www.digitalsignagetoday.com/news/uniguest-extreme-networks-join-forces-to-simplify-digital-signage-deployments/",
       "date": "2026-11-16"
+    },
+    {
+      "url": "https://www.devdiscourse.com/article/international/4007648-us-stocks-wall-st-falls-as-nvidia-jitters-cloud-sentiment-ahead-of-results",
+      "date": "2026-11-17"
     }
   ],
   "SONY": [
@@ -209,6 +233,10 @@
     {
       "url": "https://kunkoku.jp/bravia9ii-yamazaki.html",
       "date": "2026-11-16"
+    },
+    {
+      "url": "https://journalarta.com/en/2026/11/17/sony-27-inch-gaming-monitor-dualsense-dock/",
+      "date": "2026-11-17"
     }
   ],
   "TV": [
@@ -235,6 +263,10 @@
     {
       "url": "https://www.musicman.co.jp/business/751745",
       "date": "2026-11-16"
+    },
+    {
+      "url": "https://news.yahoo.co.jp/articles/bb99ac80b9f1e9f21a53d6c5c3d5d5b4b2f15d91",
+      "date": "2026-11-17"
     }
   ],
   "Projector": [
@@ -261,6 +293,10 @@
     {
       "url": "https://av.watch.impress.co.jp/docs/news/2156523.html",
       "date": "2026-11-16"
+    },
+    {
+      "url": "https://av.watch.impress.co.jp/docs/news/2156782.html",
+      "date": "2026-11-17"
     }
   ]
 }

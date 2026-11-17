@@ -1,0 +1,102 @@
+{
+  "AI": {
+    "title": "Googleが警鐘：AIによる脆弱性攻撃の自動化を確認",
+    "summary": "Googleは、AIがシステムの脆弱性発見から攻撃コードの作成・実行までを自動的に行う事例を初めて確認したと報告しました。サイバー攻撃の高度化と高速化が現実味を帯びており、セキュリティ対策の転換が求められています。",
+    "insight": "AIが攻撃フェーズを自動化することで、脆弱性の発見から悪用までのタイムラインが劇的に短縮されます。エンジニアは従来のパッチ管理だけでなく、AIエージェントによる攻撃を想定した適応型セキュリティや防御AIの導入を検討すべき段階に来ています。",
+    "sourceUrl": "https://japan.cnet.com/article/35254969/",
+    "sourceName": "CNET Japan",
+    "originalImageUrl": "https://japan.cnet.com/storage/2026/11/17/655a3e73dfadb3ea0d622e6be5dcecfc/large.jpg",
+    "originalImageArticleUrl": "https://japan.cnet.com/article/35254969/",
+    "displayDate": "2026-11-17"
+  },
+  "SRD / XR": {
+    "title": "LINE活用でVR安全教育！建設現場のマンネリを解消",
+    "summary": "建設業の安全教育における課題「マンネリ化」に対し、LINEを通じて毎朝実写360度のショート体験学習を配信する「KYミニッツ」が提供開始されました。現場に合わせた教材を手軽に学べる仕組みです。",
+    "insight": "日々のルーチンに組み込める「マイクロラーニング」×「VR」の組み合わせは、高い継続率と実効性を両立させる優れたUI/UXの実例です。エンジニア視点では、低トラフィックなプラットフォームを入り口にしつつ、リッチコンテンツへ遷移させるアーキテクチャ設計が参考になります。",
+    "sourceUrl": "https://www.minyu-net.com/release/prtimes/detail/57445",
+    "sourceName": "福島民友新聞社",
+    "originalImageUrl": "https://prcdn.freetls.fastly.net/release_image/20924/204/20924-204-5b42ad1d24fca0b59df9c85ad688f818-530x510.png?width=536&quality=85%2C75&format=jpeg&auto=webp&fit=bounds&bg-color=fff",
+    "originalImageArticleUrl": "https://www.minyu-net.com/release/prtimes/detail/57445",
+    "displayDate": "2026-11-17"
+  },
+  "TV": {
+    "title": "レグザが挑む「Pure RGB」新時代の映像技術",
+    "summary": "東芝のテレビブランド「レグザ」が、最新の映像技術「Pure RGB」を発表。従来のRGB構成をさらに突き詰め、想像を超えた高画質と映像体験の実現を目指す。メーカーが目指す究極のディスプレイ性能として、映像エンジンとパネル制御の高度な最適化が注目されている。",
+    "insight": "ディスプレイのハードウェア進化が飽和する中、Pure RGBのような純粋な色再現への回帰は、カラーマネジメントの観点からも重要です。ソフトウェアによる画像処理エンジンとパネルハードウェアの密接な連携は、今後のディスプレイ技術における差別化の核心となります。",
+    "sourceUrl": "https://news.yahoo.co.jp/articles/bb99ac80b9f1e9f21a53d6c5c3d5d5b4b2f15d91",
+    "sourceName": "PHILE WEB",
+    "originalImageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261117-00131735-phileweb-000-1-view.jpg?exp=10800",
+    "originalImageArticleUrl": "https://news.yahoo.co.jp/articles/bb99ac80b9f1e9f21a53d6c5c3d5d5b4b2f15d91",
+    "displayDate": "2026-11-17"
+  },
+  "TCL": {
+    "title": "TCL CSOTが青色リン光OLEDの効率化を実証",
+    "summary": "TCL CSOTは、DTC 2026にて次世代の青色リン光OLEDパネルを公開しました。これはOLEDの課題である「青色発光材料の寿命と効率」を劇的に改善する技術であり、次世代ディスプレイの核心的なブレークスルーとして期待されています。",
+    "insight": "青色リン光材料は有機ELの長年の技術的ハードルであり、実用化は次世代ディスプレイのエネルギー効率を大きく左右します。量産化に向けたマテリアル技術の進展は、今後のパネル市場におけるTCLの競争力を決定づける重要なトレンドです。",
+    "sourceUrl": "https://www.digitimes.com/news/a20261117VL205/tcl-csot-oled-panel-display-efficiency.html",
+    "sourceName": "digitimes",
+    "originalImageUrl": "https://img.digitimes.com/newsshow/20261117vl205_files/2_b.jpg",
+    "originalImageArticleUrl": "https://www.digitimes.com/news/a20261117VL205/tcl-csot-oled-panel-display-efficiency.html",
+    "displayDate": "2026-11-17"
+  },
+  "LED Wall Display": {
+    "title": "MicroLEDが変える通信！光インターコネクトの新展開",
+    "summary": "Polar Light TechnologiesがMicroLED技術を用いた光インターコネクトでFoxconnと合意しました。光を用いた高速なデータ伝送技術は、次世代コンピューティングの鍵として注目されています。",
+    "insight": "従来の銅線に代わり、光でチップ間を接続する「光インターコネクト」は、AIサーバー等のボトルネック解消に不可欠な技術です。MicroLEDの微細加工技術がディスプレイ以外へ転用され、ハードウェアの通信基盤を刷新しつつある点はエンジニアとして要注目です。",
+    "sourceUrl": "https://www.devdiscourse.com/article/international/4007648-us-stocks-wall-st-falls-as-nvidia-jitters-cloud-sentiment-ahead-of-results",
+    "sourceName": "LEDinside",
+    "originalImageUrl": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/imagegallery/25_06_2019_19_12_10_0069135.jpg&width=920&format=jpeg",
+    "originalImageArticleUrl": "https://www.devdiscourse.com/article/international/4007648-us-stocks-wall-st-falls-as-nvidia-jitters-cloud-sentiment-ahead-of-results",
+    "displayDate": "2026-11-17"
+  },
+  "SONY": {
+    "title": "Sonyの「DualSense充電台付き」ゲーミングモニターが話題",
+    "summary": "Sonyの27インチゲーミングモニターに、DualSenseコントローラーを収納・充電できるドックを統合したユニークなモデルが登場。Black Fridayに向けたセールも開始されており、機能性と実用性を兼ね備えた周辺機器として注目を集めています。",
+    "insight": "ハードウェア設計において、周辺機器（コントローラー）の充電ステーションをディスプレイ筐体に統合するアプローチは、デスクの省スペース化を求めるユーザーにとって合理的です。UI/UXだけでなく、こうした物理的な周辺機器との連携を考慮した「デスクエコシステム」の最適化は、PC周辺機器開発における重要な差別化要素になり得ます。",
+    "sourceUrl": "https://journalarta.com/en/2026/11/17/sony-27-inch-gaming-monitor-dualsense-dock/",
+    "sourceName": "JournalArta",
+    "originalImageUrl": "https://journalarta.com/wp-content/uploads/2026/11/sony-27-inch-gaming-monitor-adds-a-fold-down-dualsense-dock-ja-discover-1536x864.jpg",
+    "originalImageArticleUrl": "https://journalarta.com/en/2026/11/17/sony-27-inch-gaming-monitor-dualsense-dock/",
+    "displayDate": "2026-11-17"
+  },
+  "Production Monitor": {
+    "title": "カメラ業界、メモリコスト高騰による価格改定へ",
+    "summary": "キヤノン、富士フイルム、ニコン、ソニーなどの大手カメラメーカーが、メモリ等の部品コスト高騰の影響を受け、収益を圧迫されています。特にキヤノンは2027年以降の製品価格引き上げを明言しており、世界的な半導体・メモリ不足の長期化がハードウェア価格に直結する懸念が高まっています。",
+    "insight": "エンジニアとしては、ハードウェア製品のBOMコスト変動が製品ライフサイクルや価格戦略に与える影響を再認識させられます。特にメモリ（DRAM/NAND）の価格推移は、供給網全体に波及する先行指標として注視すべきでしょう。",
+    "sourceUrl": "https://www.cined.com/memory-costs-hit-canon-fujifilm-nikon-and-sony-canon-plans-price-increases-from-2027/",
+    "sourceName": "CineD",
+    "originalImageUrl": "https://www.cined.com/content/uploads/2026/08/Canon-EOS-C400-and-C80-with-lens-attached-300x169.jpg",
+    "originalImageArticleUrl": "https://www.cined.com/memory-costs-hit-canon-fujifilm-nikon-and-sony-canon-plans-price-increases-from-2027/",
+    "displayDate": "2026-11-17"
+  },
+  "Projector": {
+    "title": "TVS REGZAが4Kレーザープロジェクターを発売",
+    "summary": "TVS REGZAは、RGB3色レーザー光源を搭載し、最大4000 ISOルーメンの明るさを実現したフラッグシップ4Kプロジェクター「RLC-V7S」シリーズを11月27日に発売する。昼間の明るい環境下でも鮮明な映像投写が可能です。",
+    "insight": "RGB三原色を個別のレーザーダイオードで発光させる方式は、単一レーザー＋蛍光体方式と比較して色域の広さと輝度効率が格段に向上します。エンジニア視点では、このクラスで4000ルーメンという高出力を排熱設計や筐体サイズにどう落とし込んでいるのか、冷却システムと静音性のバランスに注目です。",
+    "sourceUrl": "https://av.watch.impress.co.jp/docs/news/2156782.html",
+    "sourceName": "AV Watch",
+    "originalImageUrl": "https://av.watch.impress.co.jp/img/avw/list/2156/782/578A4147.jpg",
+    "originalImageArticleUrl": "https://av.watch.impress.co.jp/docs/news/2156782.html",
+    "displayDate": "2026-11-17"
+  },
+  "Camera Control": {
+    "title": "iPhone Duoの前面カメラによるロック解除、Face IDとの違いは？",
+    "summary": "iOS 27のベータ版にて、Face ID非搭載の「iPhone Duo」が前面カメラを利用した新しいロック解除方式に対応しました。従来のFace IDとは異なる仕組みで、カメラ技術による認証の多様化が進んでいます。",
+    "insight": "Face IDの深度センシング技術とは異なり、画像認識アルゴリズムや機械学習による推論で認証を補完している可能性が高いです。ハードウェアコストを抑えつつセキュリティと利便性を両立させる、エンジニア視点での認証系UI/UXの最適化事例として注目です。",
+    "sourceUrl": "https://petapixel.com/2026/11/16/how-iphone-duos-unlock-with-front-camera-works-and-how-its-different-than-face-id/",
+    "sourceName": "PetaPixel",
+    "originalImageUrl": "https://petapixel.com/assets/uploads/2026/11/iphone-duo-face-unlock.jpg",
+    "originalImageArticleUrl": "https://petapixel.com/2026/11/16/how-iphone-duos-unlock-with-front-camera-works-and-how-its-different-than-face-id/",
+    "displayDate": "2026-11-17"
+  },
+  "Gaming Monitor": {
+    "title": "Microsoft 365大規模障害の原因はサーバーの潜在的なバグ",
+    "summary": "11月13日に発生し約24時間続いたMicrosoft 365の障害について、Microsoftは「サーバーの潜在的なバグ」が原因であると報告しました。ExchangeやTeamsなど、広範なクラウドサービスが影響を受ける事態となりました。",
+    "insight": "クラウドインフラにおいて、コードベースに潜む潜在的なバグが単一障害点となり得るリスクを再認識させられます。特に大規模分散システムでは、監視体制の強化に加え、障害発生時の切り戻し（ロールバック）戦略や、影響範囲を局所化するアーキテクチャ設計の重要性が改めて問われます。",
+    "sourceUrl": "https://pc.watch.impress.co.jp/docs/news/2157036.html",
+    "sourceName": "PC Watch",
+    "originalImageUrl": "https://pc.watch.impress.co.jp/img/pcw/list/2157/036/01.jpg",
+    "originalImageArticleUrl": "https://pc.watch.impress.co.jp/docs/news/2157036.html",
+    "displayDate": "2026-11-17"
+  }
+}
