@@ -1,0 +1,102 @@
+{
+  "SRD / XR": {
+    "title": "VeriSilicon、AIグラス向けチップサブシステムを発表",
+    "summary": "VeriSiliconが、AI搭載ARグラスなどのXRデバイス開発を加速させる、高度にカスタマイズ可能なチップサブシステムを発表しました。低消費電力と高効率なAI推論処理の両立が期待されます。",
+    "insight": "AIグラスには、エッジ側での極めて高い電力効率と低レイテンシの推論処理が求められます。単なるSoCではなく、構成可能なサブシステムとして提供されることで、メーカーごとの機能要件に最適化したハードウェア開発が加速するでしょう。",
+    "sourceUrl": "https://www.unite.ai/ja/verisilicon-unveils-configurable-chip-subsystem-for-ai-glasses/",
+    "sourceName": "Unite.AI",
+    "originalImageUrl": "https://www.unite.ai/wp-content/uploads/2026/11/verisilicon-unveils-configurable-chip-subsystem-for-ai-glasses.jpg",
+    "originalImageArticleUrl": "https://www.unite.ai/ja/verisilicon-unveils-configurable-chip-subsystem-for-ai-glasses/",
+    "displayDate": "2026-11-18"
+  },
+  "AI": {
+    "title": "noteがAI学習対価をクリエイターに還元",
+    "summary": "noteは、大手AI事業者から受領した対価を、AI学習や回答生成にコンテンツが参照されたクリエイターへ分配する仕組みを開始しました。権利保護と創作活動の支援を両立させる先駆的な取り組みです。",
+    "insight": "AIモデルの学習データ利用における著作権と収益還元の議論が具体化しています。エンジニアとしては、学習データセットの透明性確保だけでなく、クローリングと報酬のサイクルを自動化するバックエンドの設計が今後の課題になるでしょう。",
+    "sourceUrl": "https://note.jp/n/n0a7b3781d396?cdr=1",
+    "sourceName": "note株式会社",
+    "originalImageUrl": "https://assets.st-note.com/production/uploads/images/337226522/rectangle_large_type_2_f872ea9242d3cc4a84681e91e24f102c.png?fit=bounds&quality=85&width=1280",
+    "originalImageArticleUrl": "https://note.jp/n/n0a7b3781d396?cdr=1",
+    "displayDate": "2026-11-18"
+  },
+  "Gaming Monitor": {
+    "title": "量子ドット有機EL採用のゲーミングモニターが登場",
+    "summary": "アイ・オー・データ機器は、ゲーミングブランド「GigaCrysta」の「GCFX」シリーズより、量子ドット有機EL（QD-OLED）パネルを搭載した27インチディスプレイなど3製品を12月中旬に発売すると発表しました。鮮やかな発色と高速応答性を両立した次世代パネルの採用により、ハイエンドゲーマー向けの選択肢がさらに広がります。",
+    "insight": "量子ドット有機ELは、従来の有機ELと比較して色域の広さと輝度の高さに強みがあり、HDRコンテンツや高グラフィックなゲーム体験を大きく向上させます。エンジニアの観点からは、こうしたディスプレイ側のスペック向上に伴い、GPUの描画負荷やカラーマネジメントにおける要件の変化にも注目すべきでしょう。",
+    "sourceUrl": "https://www.4gamer.net/games/278/G027801/20261118008/",
+    "sourceName": "4Gamer.net − 最新記事",
+    "originalImageUrl": "https://www.4gamer.net/games/278/G027801/20261118008/SS/002.jpg",
+    "originalImageArticleUrl": "https://www.4gamer.net/games/278/G027801/20261118008/",
+    "displayDate": "2026-11-18"
+  },
+  "Projector": {
+    "title": "AWOL Vision、40万円を切る4K超短焦点プロジェクターを発売",
+    "summary": "AWOL Visionは、超短焦点4Kレーザープロジェクター「Aetherion Plus」を日本市場で発売した。価格は37万9800円と、同社のフラッグシップモデルを下回る価格設定でありながら、Google TV搭載、Dolby Vision対応など最新トレンドを網羅したエントリー向けモデルとして展開される。",
+    "insight": "超短焦点プロジェクターにおける価格破壊は、家庭内ディスプレイの選択肢を大きく変えつつあります。技術的には、狭小スペースでも大画面を実現する光学設計と、Google TVによるシームレスなUI統合が、既存のハイエンドテレビ市場に対する強力な代替案になり得ます。",
+    "sourceUrl": "https://av.watch.impress.co.jp/docs/news/2157157.html",
+    "sourceName": "AV Watch",
+    "originalImageUrl": "https://av.watch.impress.co.jp/img/avw/list/2157/157/3.jpg",
+    "originalImageArticleUrl": "https://av.watch.impress.co.jp/docs/news/2157157.html",
+    "displayDate": "2026-11-18"
+  },
+  "SONY": {
+    "title": "ソニー、車載カメラモジュール事業を鴻海へ売却",
+    "summary": "ソニーグループが車載カメラモジュール事業を約72億円で台湾の鴻海精密工業（Foxconn）に売却すると発表しました。2027年4月の事業譲渡を予定しており、ソニーは競争の激しい車載向け製品のポートフォリオ見直しを進めます。",
+    "insight": "車載カメラは高信頼性が求められる一方、汎用品化が進み利益率の維持が課題となります。技術のコモディティ化を見極め、特定のハードウェア製造から高付加価値なイメージセンサー単体提供やソフトウェア・アルゴリズム開発へリソースを集中させる戦略転換の重要性が読み取れます。",
+    "sourceUrl": "https://mirrorless-camera.info/news/sony-news/59059.html",
+    "sourceName": "日本経済新聞",
+    "originalImageUrl": "https://mirrorless-camera.info/wp-content/uploads/2026/05/20260510_001.jpg",
+    "originalImageArticleUrl": "https://mirrorless-camera.info/news/sony-news/59059.html",
+    "displayDate": "2026-11-18"
+  },
+  "TV": {
+    "title": "YouTube、テレビでの「共視聴」を再生回数に算入へ",
+    "summary": "YouTubeが、テレビなどの大画面デバイスで複数人が同時に視聴する「共視聴（Co-viewing）」を、再生回数に反映させる新たな計測手法を導入します。これにより、3人で視聴すれば3回分としてカウントされる仕組みとなり、広告価値の再評価につながる見込みです。",
+    "insight": "メディアプラットフォームにおける分散型アルゴリズムと視聴ログ計測の精緻化は、広告エンジニアにとって注視すべき変化です。AIによる視聴者数推定や、マルチデバイス間での一貫した行動トラッキング技術は、今後の広告配信最適化やUX改善において非常に重要な指標となるでしょう。",
+    "sourceUrl": "https://finance.biggo.jp/news/535d44d0-bdad-472d-bfe0-34d660121c45",
+    "sourceName": "BigGo ファイナンス",
+    "originalImageUrl": "https://img.biggo.com/dnkCXjZTaUlGHYE5vfGZlUQpX6ZfnSUjLptAqh0_S_I/fit/1200/0/sm/0/aHR0cHM6Ly9pbWcuYmdvLm9uZS9uZXdzLWltYWdlL2FpX2dlbmVyYXRlZC8yMDI2LTExLzUzNWQ0NGQwLWJkYWQtNDcyZC1iZmUwLTM0ZDY2MDEyMWM0NV8xNzk0OTcxMzc3X2RlZmF1bHQuanBn.jpg",
+    "originalImageArticleUrl": "https://finance.biggo.jp/news/535d44d0-bdad-472d-bfe0-34d660121c45",
+    "displayDate": "2026-11-18"
+  },
+  "Production Monitor": {
+    "title": "Final Cut Pro 13がMotionVFX統合で進化",
+    "summary": "AppleはFinal Cut Pro 13をリリースし、買収したMotionVFXのツールキットをアプリ内に完全統合しました。トラッキング、ロトスコーピング、フィルムルックなどプロ級の機能を標準搭載し、クリエイター向けの新サブスク「Apple Creator Studio」と合わせ、編集ワークフローを大幅に効率化します。",
+    "insight": "今回の統合は、サードパーティ製プラグインに頼っていた機能をネイティブ化し、エコシステムを囲い込むAppleの戦略を示しています。エンジニア視点では、既存ツールへの強力な垂直統合がUXをどう変えるか、そしてプラグイン市場の将来的な再編に注目すべきです。",
+    "sourceUrl": "https://www.cined.com/final-cut-pro-13-first-look-the-motionvfx-library-is-why-i-am-subscribing-to-apple-creator-studio/",
+    "sourceName": "CineD",
+    "originalImageUrl": "https://www.cined.com/content/uploads/2026/11/apple-final-cut-pro-13-about-window-creator-studio-featured-16x9-1-300x169.jpg",
+    "originalImageArticleUrl": "https://www.cined.com/final-cut-pro-13-first-look-the-motionvfx-library-is-why-i-am-subscribing-to-apple-creator-studio/",
+    "displayDate": "2026-11-18"
+  },
+  "TCL": {
+    "title": "TCL CSOTが1250Hzの超高速ゲーミングパネルを公開",
+    "summary": "TCL傘下のディスプレイメーカーCSOTが、27インチQHD解像度でリフレッシュレート1250Hzに達する驚異的なゲーミングパネルを公開しました。従来の高速パネルを遥かに凌駕する仕様で、将来のeスポーツ環境を大きく変える可能性があります。",
+    "insight": "リフレッシュレートの追求はついに1kHzの壁を突破しました。高フレームレート化はモーションブラーを劇的に低減させますが、GPUの描画負荷やインターフェースの帯域幅といったボトルネックに対し、エンジニアリングとしてどう解決していくかが今後の注目点です。",
+    "sourceUrl": "https://www.technetbooks.com/2026/11/tcl-csot-shows-27-inch-qhd-gaming-panel.html",
+    "sourceName": "Technetbook",
+    "originalImageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhnAGd0a3PbCg4D8KDxQwMhSglRzhxfKv66AaWBBnCfWXn3I6hJ3NqpGM1eMgO0hqE9jqini3RncCBH9vGjRVPpnKrKxmdbcGbRcSUiGe2bWutLf5_PFOeo3yaNgR9ZPaJzQy2286mCIk2367YbWCtkasR66eNVtFT3in8NpGY2pgaiLyH1bZmBQ67ohsw/w1280-h720-p-k-no-nu/TCL%20CSOT%20Shows%2027%20Inch%20QHD%20Gaming%20Panel%20Reaching%201250%20Hz.jpg",
+    "originalImageArticleUrl": "https://www.technetbooks.com/2026/11/tcl-csot-shows-27-inch-qhd-gaming-panel.html",
+    "displayDate": "2026-11-18"
+  },
+  "LED Wall Display": {
+    "title": "デジタルサイネージ運用の落とし穴：6ヶ月で陳腐化させないために",
+    "summary": "デジタルサイネージ導入後、約6ヶ月でコンテンツが更新されず「静止画化」する現象が多発しています。原因はハードウェアの故障ではなく、運用責任者の不在とコンテンツ更新予算の欠如です。本記事では、役割の明確化、期限付きスケジューリング、定例レビューの導入など、ネットワークを新鮮に保つための具体的な組織的解決策を提言しています。",
+    "insight": "エンジニアとしては、単なる死活監視（オンライン状態）だけでなく、コンテンツの有効性を保証する「コンテンツ管理の自動化」やスクリーンショットによる視覚的モニタリングの重要性を再認識すべきです。プロジェクト成功の定義に「導入後の更新運用」を含め、継続的なシステム利用を担保する設計が不可欠です。",
+    "sourceUrl": "https://www.digitalsignagetoday.com/blogs/why-digital-signage-networks-go-stale-in-month-6/",
+    "sourceName": "Digital Signage Today",
+    "originalImageUrl": "https://nmgprod.s3.amazonaws.com/media/file/24/7b/c89e4b61ac57dca512ef0b4ca2a8/cover_image__ZhUTLJvi__AdobeStock_125381598.jpeg.360x190_q85_crop_upscale.webp",
+    "originalImageArticleUrl": "https://www.digitalsignagetoday.com/blogs/why-digital-signage-networks-go-stale-in-month-6/",
+    "displayDate": "2026-11-18"
+  },
+  "Camera Control": {
+    "title": "パナソニックの新作シネマカメラ「LUMIX SHX1」発表",
+    "summary": "パナソニックは、Lマウントを採用したボックス型コンパクトシネマカメラ「LUMIX SHX1」を2027年1月に発売する。6Kフルサイズセンサーを搭載し、4K120pの無制限記録に対応。価格はボディ単体で約81万円の見込み。",
+    "insight": "シネマカメラの小型化と高性能化は、開発機材のトレンドとして注目です。特にLマウントの採用と高い熱管理が求められる4K120pの長時間記録対応は、実装レベルでも高い排熱設計やデータスループットの最適化技術が反映されていると考えられます。",
+    "sourceUrl": "https://dc.watch.impress.co.jp/docs/news/2157141.html",
+    "sourceName": "デジカメ Watch",
+    "originalImageUrl": "https://dc.watch.impress.co.jp/img/dcw/list/2157/141/5.jpg",
+    "originalImageArticleUrl": "https://dc.watch.impress.co.jp/docs/news/2157141.html",
+    "displayDate": "2026-11-18"
+  }
+}
