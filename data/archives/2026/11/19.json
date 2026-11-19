@@ -1,0 +1,102 @@
+{
+  "SRD / XR": {
+    "title": "理経の消防団向けVR訓練システムが受賞",
+    "summary": "理経が千葉県と共同開発した消防団員向け火災現場対応学習用VR「Firefighter Training VR」が、令和8年度「消防防災科学技術賞」の優秀賞を受賞しました。VR技術が実際の防災・教育現場で高い評価を得ています。",
+    "insight": "VRによるシミュレーションは、物理的な危険を伴う消防訓練においてリスクゼロで反復練習を可能にする強力なツールです。今後は単なる再現だけでなく、バイオメトリクスと連動したストレス耐性トレーニングなど、UXの高度化がエンジニアリングの焦点になるでしょう。",
+    "sourceUrl": "https://www.nikkei.com/nkd/disclosure/tdnr/20261118583058/",
+    "sourceName": "日本経済新聞",
+    "originalImageUrl": "https://www.nikkei.com/nkd/disclosure/tdnr/20261118583058/thumbnail/?ttype=ogp",
+    "originalImageArticleUrl": "https://www.nikkei.com/nkd/disclosure/tdnr/20261118583058/",
+    "displayDate": "2026-11-19"
+  },
+  "AI": {
+    "title": "2027年AI支出4兆ドル超へ：インフラ需要が加速",
+    "summary": "Gartnerの予測によると、世界のAI関連支出は2027年までに4兆ドルを突破し、そのうち59%をインフラが占める見通しです。AI開発競争の焦点がソフトウェア層から、半導体やデータセンターなどのハードウェア基盤へとシフトしていることが浮き彫りとなりました。",
+    "insight": "AIモデルの進化に伴い、今後は計算リソースや電力供給能力が開発のボトルネックとなる可能性が高いです。エンジニアとしては、単なるアルゴリズムの選定だけでなく、推論の効率化やハードウェア最適化のスキルセットがより重要視されるようになるでしょう。",
+    "sourceUrl": "https://finance.biggo.jp/news/b823a403-e18f-4788-89c9-66b81ccd5e2a",
+    "sourceName": "BigGo ファイナンス",
+    "originalImageUrl": "https://img.biggo.com/QOG44uJTHxAdBSm2Hk2t7zgesVcdttIfDZmWh2vtdjA/fit/1200/0/sm/0/aHR0cHM6Ly9pbWcuYmdvLm9uZS9uZXdzLWltYWdlL2FpX2dlbmVyYXRlZC8yMDI2LTExL2I4MjNhNDAzLWUxOGYtNDc4OC04OWM5LTY2YjgxY2NkNWUyYV8xNzk1MDU5NTc4X2RlZmF1bHQuanBn.jpg",
+    "originalImageArticleUrl": "https://finance.biggo.jp/news/b823a403-e18f-4788-89c9-66b81ccd5e2a",
+    "displayDate": "2026-11-19"
+  },
+  "TCL": {
+    "title": "TCLが500Hz OLEDパネルを発表：焼き付き補償技術を搭載",
+    "summary": "TCL CSOTが、世界最高クラスの500Hzリフレッシュレートを実現したOLEDゲーミングパネルを発表しました。最大の特徴は、独自のリアルタイム焼き付き補償アルゴリズムを内蔵している点です。これにより、OLED特有の課題である焼き付きを抑制し、長期間の使用でも画質劣化を最小限に抑えることが可能になります。",
+    "insight": "ハードウェアレベルでのリアルタイム画像処理による焼き付き補償は、OLEDの信頼性を高める重要なブレイクスルーです。エンジニアの観点からは、静的なUI要素のレンダリングを最適化するアルゴリズムと、高リフレッシュレート環境におけるパネルの駆動設計の両面から注目に値します。",
+    "sourceUrl": "https://finance.biggo.com/news/ef036baf-32b1-45fe-9340-9ce774ac0fec",
+    "sourceName": "BigGo Finance",
+    "originalImageUrl": "https://img.biggo.com/Q6r9pDC7GohOhUyoDSMm4MBeXsXnREloxobLAIexZ1Q/fit/1200/0/sm/0/aHR0cHM6Ly9pbWcuYmdvLm9uZS9uZXdzLWltYWdlL2FpX2dlbmVyYXRlZC8yMDI2LTExL2VmMDM2YmFmLTMyYjEtNDVmZS05MzQwLTljZTc3NGFjMGZlY18xNzk1MDEzOTk2X2RlZmF1bHQuanBn.jpg",
+    "originalImageArticleUrl": "https://finance.biggo.com/news/ef036baf-32b1-45fe-9340-9ce774ac0fec",
+    "displayDate": "2026-11-19"
+  },
+  "SONY": {
+    "title": "ソニーが車載カメラ事業を売却、センサー事業へ集中",
+    "summary": "ソニーグループが車載カメラモジュール事業の売却を発表しました。競争が激化する車載市場から撤退し、強みであるCMOSイメージセンサーなどのコアデバイス技術の開発・製造に経営資源を集中させる戦略への転換が鮮明になっています。",
+    "insight": "デバイスのコモディティ化が進む中、完成品・モジュールから高付加価値な半導体・部品製造へシフトする戦略は、ハードウェアエンジニアリングの今後の方向性を示唆しています。車載市場という巨大な需要を捨ててでも、技術的優位性の高い領域に特化する意思決定は、利益率改善に向けた典型的なポートフォリオ・リバランスと言えます。",
+    "sourceUrl": "https://xtech.nikkei.com/atcl/nxt/column/18/00001/12189/",
+    "sourceName": "日経クロステック",
+    "originalImageUrl": "https://xtech.nikkei.com/atcl/nxt/column/18/00001/12189/topm.jpg?20220512",
+    "originalImageArticleUrl": "https://xtech.nikkei.com/atcl/nxt/column/18/00001/12189/",
+    "displayDate": "2026-11-19"
+  },
+  "Gaming Monitor": {
+    "title": "Googleの新モデル「Gemini 4 Neon」登場",
+    "summary": "GoogleがGemini 4ファミリーの新モデル「Gemini 4 Neon」を発表しました。Carbonモデルより25%安価ながら、AA IndexではOpus 5.5を上回る性能を実現しており、コストパフォーマンスと高性能を両立させた「ちょうどいい」モデルとして注目されています。",
+    "insight": "APIコストと推論性能のバランスが最適化されており、実用的なLLMアプリケーション開発の選択肢が広がりました。キャッシュ済み入力の価格設定など、プロダクション環境でのトークンコスト削減戦略に直結するアップデートです。",
+    "sourceUrl": "https://pc.watch.impress.co.jp/docs/news/2157745.html",
+    "sourceName": "PC Watch",
+    "originalImageUrl": "https://pc.watch.impress.co.jp/img/pcw/list/2157/745/3.png",
+    "originalImageArticleUrl": "https://pc.watch.impress.co.jp/docs/news/2157745.html",
+    "displayDate": "2026-11-19"
+  },
+  "TV": {
+    "title": "懐かしの名作も！ドラマ50作以上が無料配信",
+    "summary": "「北の国から」「silent」「救命病棟24時」など、新旧のドラマ50タイトル以上が期間限定で無料配信されることが発表されました。名作を再視聴できる貴重な機会です。",
+    "insight": "コンテンツの無料開放によるプラットフォームのユーザーベース拡大と、長期的なファン層の維持は非常に有効な戦略です。エンジニアの観点からは、これだけのアーカイブを低遅延で配信するためのCDN構成や、トラフィック急増に耐えるインフラ設計の重要性が再認識されます。",
+    "sourceUrl": "https://news.yahoo.co.jp/articles/df0f5ffb28bd0bf54e72db12d972cae282b9a34b",
+    "sourceName": "TVガイドWeb",
+    "originalImageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261119-00000015-tvguidew-000-1-view.jpg?exp=10800",
+    "originalImageArticleUrl": "https://news.yahoo.co.jp/articles/df0f5ffb28bd0bf54e72db12d972cae282b9a34b",
+    "displayDate": "2026-11-19"
+  },
+  "LED Wall Display": {
+    "title": "シネマの常識を変える：サムスンのLEDシアター「Onyx」",
+    "summary": "米アリゾナ州の映画館RoadHouse Cinemasが、サムスンの映画用LEDディスプレイ「Onyx」を州内で初めて導入しました。従来のプロジェクター方式（48nit）を大きく上回る300nitの輝度と4K/120fpsの滑らかな映像表現により、映画体験の質を劇的に向上させています。高輝度・高コントラストなLEDウォールが映画館の標準を刷新する可能性があります。",
+    "insight": "DCI準拠のLEDウォールは従来のプロジェクターが抱える課題を解消し、HDR映像の忠実な再現を可能にします。エンジニアとしては、ディスプレイの輝度向上に伴う排熱設計の最適化や、高フレームレート再生時のデータ伝送帯域の制御技術が、今後より重要視されるポイントになるでしょう。",
+    "sourceUrl": "https://www.digitalsignagetoday.com/news/roadhouse-cinemas-deploys-samsung-onyx-display/",
+    "sourceName": "Digital Signage Today",
+    "originalImageUrl": "https://nmgprod.s3.amazonaws.com/media/file/d6/72/56fb59b9223464ca038d0d773447/cover_image__8vjwZhIE__samsung_roadhouse.jpg.360x190_q85_crop_upscale.webp",
+    "originalImageArticleUrl": "https://www.digitalsignagetoday.com/news/roadhouse-cinemas-deploys-samsung-onyx-display/",
+    "displayDate": "2026-11-19"
+  },
+  "Projector": {
+    "title": "Inter BEE 2026開幕、最新映像技術の最前線",
+    "summary": "幕張メッセにてメディア総合イベント「Inter BEE 2026」が開幕しました。ソニーの空間再現ディスプレイや、パナソニックの超短焦点プロジェクタ、キヤノンによるリアル×バーチャルの共演など、放送・映像制作の最新テクノロジーが多数展示され、業界のトレンドを牽引する技術動向が公開されています。",
+    "insight": "映像制作の現場では、バーチャルプロダクションや空間再現ディスプレイといった、リアルタイム性と没入感を両立する技術の重要性が増しています。開発者視点では、これらの高精細な映像を遅延なく処理するレンダリングエンジンやハードウェア連携の実装技術が今後の差別化要因となるでしょう。",
+    "sourceUrl": "https://av.watch.impress.co.jp/docs/news/2157665.html",
+    "sourceName": "AV Watch",
+    "originalImageUrl": "https://av.watch.impress.co.jp/img/avw/list/2157/665/_DSC6024.jpg",
+    "originalImageArticleUrl": "https://av.watch.impress.co.jp/docs/news/2157665.html",
+    "displayDate": "2026-11-19"
+  },
+  "Camera Control": {
+    "title": "Capture OneがHasselblad X2D IIの有線テザー撮影に対応",
+    "summary": "Capture One 16.9.1がアップデートされ、Hasselblad X2D II 100Cの有線テザー撮影をサポートしました。利用にはカメラ側のファームウェア1.4.15.7への更新が必要です。",
+    "insight": "プロフェッショナルな現場では、RAWデータの高速転送と安定したテザー環境がワークフローのボトルネックになりがちです。カメラのAPIやプロトコル実装がファームウェア単位で拡張される事例は、外部ハードウェアとの連携における互換性管理の重要性を再確認させます。",
+    "sourceUrl": "https://www.dpreview.com/news/capture-one-adds-wired-tethering-for-the-hasselblad-x2d-ii-100c/",
+    "sourceName": "DPReview",
+    "originalImageUrl": "https://www.dpreview.com/wp-content/uploads/2026/11/Capture-One-Studio-16x9-Lead-1.jpg",
+    "originalImageArticleUrl": "https://www.dpreview.com/news/capture-one-adds-wired-tethering-for-the-hasselblad-x2d-ii-100c/",
+    "displayDate": "2026-11-19"
+  },
+  "Production Monitor": {
+    "title": "映像制作者向けプラットフォーム「rushes」がレンタル機能を開始",
+    "summary": "11月20日のVimeo On Demand終了に伴い、ビデオ制作プラットフォーム「rushes」が新たな動画レンタル機能を発表しました。制作者は自身のWebサイトで作品を直接レンタル販売でき、売上の90%を保持できるため、クリエイターの収益還元を重視したVimeoの代替手段として注目されています。",
+    "insight": "プラットフォームの閉鎖に伴う移行期において、クリエイターが自律的にコンテンツを配信・収益化できる仕組みの需要が高まっています。技術的には、外部埋め込み可能なAPIと柔軟な決済ロジックを統合したプラットフォーム設計が、今後の配信プラットフォームのスタンダードになるでしょう。",
+    "sourceUrl": "https://www.cined.com/rushes-rentals-launched-vimeo-on-demand-alternative-with-90-revenue-share-and-rentals-from-your-own-website/",
+    "sourceName": "CineD",
+    "originalImageUrl": "https://www.cined.com/content/uploads/2026/11/Rushes-Presents_-Rentals-feature2-300x169.jpg",
+    "originalImageArticleUrl": "https://www.cined.com/rushes-rentals-launched-vimeo-on-demand-alternative-with-90-revenue-share-and-rentals-from-your-own-website/",
+    "displayDate": "2026-11-19"
+  }
+}
