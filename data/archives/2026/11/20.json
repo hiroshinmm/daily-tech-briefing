@@ -1,0 +1,102 @@
+{
+  "AI": {
+    "title": "DeNA「AI社員」が拓く業務効率化の最前線",
+    "summary": "DeNAがほぼ1人分の業務をこなす「AI社員」サービスを外部提供開始しました。単なるチャットボットを超え、具体的な実務遂行能力を備えたAIが企業の現場に浸透することで、業務プロセスそのものの劇的な効率化が期待されています。",
+    "insight": "AIエージェントの価値は、タスクの自動化だけでなく、既存の社内ワークフローへの統合深さにあります。エンジニアとしては、API連携やマルチエージェントオーケストレーションを駆使し、どうビジネスプロセスを自律化させるかのアーキテクチャ設計が重要になります。",
+    "sourceUrl": "https://news.yahoo.co.jp/articles/178e02ce6ff12e999ef3cba4a3f90e688e609fd0",
+    "sourceName": "産経新聞",
+    "originalImageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261120-00000070-san-000-1-view.jpg?exp=10800",
+    "originalImageArticleUrl": "https://news.yahoo.co.jp/articles/178e02ce6ff12e999ef3cba4a3f90e688e609fd0",
+    "displayDate": "2026-11-20"
+  },
+  "SRD / XR": {
+    "title": "地方自治体の新たなDX戦術：VRChat活用事例が拡大中",
+    "summary": "横須賀市や北九州市など、地方自治体がVRChatを活用した独自の公式ワールドを展開しています。商店街の再現や地域ブランディングなど、単なる観光PRにとどまらないユニークな施策が注目されています。",
+    "insight": "メタバース上での地域コミュニティ形成は、物理的な距離を超えた関係人口創出の新たなモデルケースとなり得ます。エンジニアの視点では、低レイテンシかつ没入感のあるワールド最適化技術や、外部APIと連携した自治体固有のサービス実装が今後の差別化要因となるでしょう。",
+    "sourceUrl": "https://www.moguravr.com/municipal-vrchat-worlds-2026/",
+    "sourceName": "Mogura VR",
+    "originalImageUrl": "https://assets.moguravr.com/uploads/2026/11/a0f4a9d5a4514f68467665797156d846-kix.yxuv6oia0102-300x124.webp",
+    "originalImageArticleUrl": "https://www.moguravr.com/municipal-vrchat-worlds-2026/",
+    "displayDate": "2026-11-20"
+  },
+  "SONY": {
+    "title": "ソニー、車載カメラモジュール事業をFoxconnへ譲渡",
+    "summary": "ソニーセミコンダクタソリューションズが、車載カメラモジュール事業をFoxconn（鴻海精密工業）に譲渡することを決定しました。今後は高付加価値なイメージセンサー事業に経営資源を集中させる狙いです。",
+    "insight": "イメージセンサーのリーディングカンパニーがモジュール製造から撤退し、ファウンドリ・EMS大手への譲渡を選択した点は、サプライチェーンの再編を示唆しています。車載市場におけるセンサー単体供給への特化が、今後の技術ロードマップにどのような影響を与えるか注目されます。",
+    "sourceUrl": "https://www.ept.ca/foxconn-acquires-automotive-camera-module-business-from-sony-semiconductor-solutions/",
+    "sourceName": "Electronic Products & Technology",
+    "originalImageUrl": "https://www.ept.ca/wp-content/uploads/2026/11/Screenshot-2026-11-18-at-11.53.08-AM.png",
+    "originalImageArticleUrl": "https://www.ept.ca/foxconn-acquires-automotive-camera-module-business-from-sony-semiconductor-solutions/",
+    "displayDate": "2026-11-20"
+  },
+  "TCL": {
+    "title": "TCL CSOTが500Hzの印刷式OLEDを発表",
+    "summary": "TCL CSOTは「DTC2026」にて、500Hzという極めて高いリフレッシュレートを実現した印刷式有機EL（IJP OLED）ディスプレイを公開しました。AI時代の高度な表示技術として、製造コストの低減と高性能を両立させる印刷技術の進化が注目されています。",
+    "insight": "インクジェット印刷技術によるOLEDパネル製造は、従来の蒸着方式に比べ大判化や低コスト化が容易であり、ディスプレイ業界の大きな転換点となり得ます。高リフレッシュレートはゲーミング用途だけでなく、今後AIが生成するリアルタイムグラフィックスの滑らかな表示にも不可欠な技術要素です。",
+    "sourceUrl": "https://topics.smt.docomo.ne.jp/article/av_watch/trend/av_watch-2158111?utm_source=dnews&utm_medium=article&utm_campaign=contentsmatch4",
+    "sourceName": "ｄメニューニュース",
+    "originalImageUrl": "https://img.topics.smt.news.goo.ne.jp/picture/av_watch/m_av_watch-2158111.jpg",
+    "originalImageArticleUrl": "https://topics.smt.docomo.ne.jp/article/av_watch/trend/av_watch-2158111?utm_source=dnews&utm_medium=article&utm_campaign=contentsmatch4",
+    "displayDate": "2026-11-20"
+  },
+  "TV": {
+    "title": "国際政治の舞台裏：米中露会談のインパクト",
+    "summary": "米中露会談において、トランプ大統領が相手国の主張を牽制した動きが話題です。与党内からも「中身の有無に関わらず政治的インパクトが大きい」との声が上がっており、今後の外交戦略におけるデジタル外交や情報戦の重要性が改めて注目されています。",
+    "insight": "国際政治における対話は、合意内容だけでなく、誰がどのようなスタンスを公に示したかという『情報の発信プロセス』自体が強力なメッセージになります。エンジニアとしても、システムやサービスのグローバル展開において、技術的仕様以上に『どのような文脈で情報を公開・伝達するか』という戦略的コミュニケーションの重要性を再認識すべきです。",
+    "sourceUrl": "https://news.yahoo.co.jp/articles/64eb1b79b78dd25cafd4185dc745ace6ff9fcfce",
+    "sourceName": "FNNプライムオンライン（フジテレビ系）",
+    "originalImageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261120-01256215-fnn-000-1-thumb.jpg?exp=10800",
+    "originalImageArticleUrl": "https://news.yahoo.co.jp/articles/64eb1b79b78dd25cafd4185dc745ace6ff9fcfce",
+    "displayDate": "2026-11-20"
+  },
+  "Production Monitor": {
+    "title": "Instagram、動画の無断転載対策を強化",
+    "summary": "MetaがInstagramにおいて、オリジナルの動画を保護するツールを導入しました。自動スキャンによりコピーを検知するほか、音声のAIマッチングによる照合テストも開始。AIで映像を改変されたコンテンツにも対応し、著作権保護を強化します。",
+    "insight": "AIを利用した音声マッチングは、従来のハッシュベースの照合よりも堅牢な著作権保護を可能にする重要な技術トレンドです。開発現場においても、コンテンツの正当性証明や自動追跡のアルゴリズム実装において、同様の音声解析技術の応用が期待されます。",
+    "sourceUrl": "https://www.cined.com/instagram-content-protection-launched-automatic-repost-detection-credit-links-and-ai-spoken-word-matching-test/",
+    "sourceName": "CineD",
+    "originalImageUrl": "https://www.cined.com/content/uploads/2026/11/instagram-content-protection-featured-300x169.jpg",
+    "originalImageArticleUrl": "https://www.cined.com/instagram-content-protection-launched-automatic-repost-detection-credit-links-and-ai-spoken-word-matching-test/",
+    "displayDate": "2026-11-20"
+  },
+  "Gaming Monitor": {
+    "title": "NANDフラッシュ価格が下落へ、2027年Q1予測",
+    "summary": "調査会社TrendForceは、長らく高止まりしていたNANDフラッシュ市場の需給バランスが2027年に逆転し、第1四半期に最大5%、第2四半期にも同程度の価格下落が起こるという予測を発表しました。これまでの値上がり基調から一転し、SSDなどのストレージ単価が再び低下する可能性があります。",
+    "insight": "NAND価格の変動は、サーバー向けストレージの調達コストや、オンプレミス環境のインフラ投資計画に直結する重要な先行指標です。クラウドネイティブな開発者にとっても、今後数四半期でストレージ単価の最適化余地が生まれる可能性を考慮しておくべきでしょう。",
+    "sourceUrl": "https://pc.watch.impress.co.jp/docs/news/2158129.html",
+    "sourceName": "PC Watch",
+    "originalImageUrl": "https://pc.watch.impress.co.jp/img/pcw/list/2158/129/1.jpg",
+    "originalImageArticleUrl": "https://pc.watch.impress.co.jp/docs/news/2158129.html",
+    "displayDate": "2026-11-20"
+  },
+  "Projector": {
+    "title": "TCL CSOTが500Hzの印刷式有機ELディスプレイを発表",
+    "summary": "TCL CSOTが「DTC2026」にて、リフレッシュレート500Hzを実現したゲーミング向け印刷式有機ELディスプレイを発表。従来の蒸着方式よりもコスト効率に優れた印刷技術で、高リフレッシュレートを実現しました。",
+    "insight": "印刷式OLEDは製造工程の効率化により大画面化やコスト低減が期待される技術です。この技術で500Hzもの高駆動を実現したことは、ゲーミングモニター分野における製造プロセスとパネル性能の両面で大きなブレイクスルーと言えます。",
+    "sourceUrl": "https://av.watch.impress.co.jp/docs/news/2158111.html",
+    "sourceName": "AV Watch",
+    "originalImageUrl": "https://av.watch.impress.co.jp/img/avw/list/2158/111/20261119061717EST_image_2.jpg",
+    "originalImageArticleUrl": "https://av.watch.impress.co.jp/docs/news/2158111.html",
+    "displayDate": "2026-11-20"
+  },
+  "LED Wall Display": {
+    "title": "空港のデジタルサイネージ、SoC化で運用効率を劇的改善",
+    "summary": "ブリスベン空港が950台のディスプレイをLG製SoC内蔵モデルへ刷新。外部メディアプレーヤーを廃止し、集中管理システム「SuperSign CMS」により、運用監視の自動化とネットワーク構成の簡素化を実現しました。",
+    "insight": "インフラ構築において、SoC内蔵ディスプレイを活用して外部プレーヤーを排除する設計は、保守ポイントを減らし、死活監視を効率化する優れたプラクティスです。ハードと管理ソフトを統合することで、24/7稼働が求められるシステムにおける障害対応の自動化と運用の安定性が向上します。",
+    "sourceUrl": "https://www.digitalsignagetoday.com/news/brisbane-airport-taps-lg-displays-cms-for-digital-infrastructure-upgrade/",
+    "sourceName": "Digital Signage Today",
+    "originalImageUrl": "https://nmgprod.s3.amazonaws.com/media/file/06/32/782023f0bb07942b670e775afa6f/cover_image__NNQkf1xx__LG_Brisbane.jpg.360x190_q85_crop_upscale.webp",
+    "originalImageArticleUrl": "https://www.digitalsignagetoday.com/news/brisbane-airport-taps-lg-displays-cms-for-digital-infrastructure-upgrade/",
+    "displayDate": "2026-11-20"
+  },
+  "Camera Control": {
+    "title": "Appleカメラソフト部門の責任者が退職：今後の開発への影響は？",
+    "summary": "Appleで写真・カメラソフトウェア開発の指揮を執ってきたJon McCormack氏が退職した。GoogleやAdobeで要職を歴任した同氏の功績は大きく、Appleの今後の画像処理エンジンやカメラAPIの戦略的な方向性に影響を与える可能性があると注目されています。",
+    "insight": "Appleのような垂直統合型の企業において、主要なソフトウェア部門のリーダー交代は、API公開やOSレベルでの画像処理アルゴリズムの刷新を予感させます。エンジニアの視点では、今後のWWDCやiOSのアップデートにおけるカメラ関連APIの変化を追うことで、画像処理のトレンドをいち早く掴めるかもしれません。",
+    "sourceUrl": "https://petapixel.com/2026/11/19/apples-camera-and-photo-software-lead-jon-mccormack-has-retired/",
+    "sourceName": "PetaPixel",
+    "originalImageUrl": "https://petapixel.com/assets/uploads/2026/11/Apples-Camera-and-Photo-Software-Lead-Jon-McCormack-Has-Retired.jpg",
+    "originalImageArticleUrl": "https://petapixel.com/2026/11/19/apples-camera-and-photo-software-lead-jon-mccormack-has-retired/",
+    "displayDate": "2026-11-20"
+  }
+}

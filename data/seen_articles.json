@@ -1,10 +1,6 @@
 {
   "Production Monitor": [
     {
-      "url": "https://www.cined.com/blackmagic-ambisonic-microphone-announced-7th-order-ambisonics-108-mems-microphones-single-usb-c-cable/",
-      "date": "2026-11-13"
-    },
-    {
       "url": "https://www.cined.com/nikon-z30-wonder-lantern-mod-adds-higher-bitrates-200-mbps-4k-25-minute-slow-motion-photo-zebras/",
       "date": "2026-11-14"
     },
@@ -27,13 +23,13 @@
     {
       "url": "https://www.cined.com/rushes-rentals-launched-vimeo-on-demand-alternative-with-90-revenue-share-and-rentals-from-your-own-website/",
       "date": "2026-11-19"
+    },
+    {
+      "url": "https://www.cined.com/instagram-content-protection-launched-automatic-repost-detection-credit-links-and-ai-spoken-word-matching-test/",
+      "date": "2026-11-20"
     }
   ],
   "SRD / XR": [
-    {
-      "url": "https://www.moguravr.com/blackmagic-ambisonic-microphone/",
-      "date": "2026-11-13"
-    },
     {
       "url": "https://www.zaikei.co.jp/article/20261114/877577.html",
       "date": "2026-11-14"
@@ -57,13 +53,13 @@
     {
       "url": "https://www.nikkei.com/nkd/disclosure/tdnr/20261118583058/",
       "date": "2026-11-19"
+    },
+    {
+      "url": "https://www.moguravr.com/municipal-vrchat-worlds-2026/",
+      "date": "2026-11-20"
     }
   ],
   "AI": [
-    {
-      "url": "https://news.yahoo.co.jp/articles/db42f1b0919cfeca6c8ebd5044b850491e4cb304",
-      "date": "2026-11-13"
-    },
     {
       "url": "https://news.yahoo.co.jp/pickup/6602494",
       "date": "2026-11-14"
@@ -87,13 +83,13 @@
     {
       "url": "https://finance.biggo.jp/news/b823a403-e18f-4788-89c9-66b81ccd5e2a",
       "date": "2026-11-19"
+    },
+    {
+      "url": "https://news.yahoo.co.jp/articles/178e02ce6ff12e999ef3cba4a3f90e688e609fd0",
+      "date": "2026-11-20"
     }
   ],
   "Gaming Monitor": [
-    {
-      "url": "https://www.4gamer.net/games/999/G999901/20261112027/",
-      "date": "2026-11-13"
-    },
     {
       "url": "https://mixed-news.com/en/acer-predator-x32-4k-oled-240hz-649-newegg/",
       "date": "2026-11-14"
@@ -117,13 +113,13 @@
     {
       "url": "https://pc.watch.impress.co.jp/docs/news/2157745.html",
       "date": "2026-11-19"
+    },
+    {
+      "url": "https://pc.watch.impress.co.jp/docs/news/2158129.html",
+      "date": "2026-11-20"
     }
   ],
   "TCL": [
-    {
-      "url": "https://av.watch.impress.co.jp/docs/topic/avwaward/2155465.html",
-      "date": "2026-11-13"
-    },
     {
       "url": "https://finance.biggo.com/news/90b0b83b-1d22-4426-a95d-b1af85c70260",
       "date": "2026-11-14"
@@ -147,13 +143,13 @@
     {
       "url": "https://finance.biggo.com/news/ef036baf-32b1-45fe-9340-9ce774ac0fec",
       "date": "2026-11-19"
+    },
+    {
+      "url": "https://topics.smt.docomo.ne.jp/article/av_watch/trend/av_watch-2158111?utm_source=dnews&utm_medium=article&utm_campaign=contentsmatch4",
+      "date": "2026-11-20"
     }
   ],
   "Camera Control": [
-    {
-      "url": "https://petapixel.com/2026/11/12/sharge-disk-pro-2-review-now-thats-how-you-take-customer-feedback/",
-      "date": "2026-11-13"
-    },
     {
       "url": "https://www.sonyalpharumors.com/look-at-this-new-sony-65mm-sensor-wafer/",
       "date": "2026-11-14"
@@ -177,13 +173,13 @@
     {
       "url": "https://www.dpreview.com/news/capture-one-adds-wired-tethering-for-the-hasselblad-x2d-ii-100c/",
       "date": "2026-11-19"
+    },
+    {
+      "url": "https://petapixel.com/2026/11/19/apples-camera-and-photo-software-lead-jon-mccormack-has-retired/",
+      "date": "2026-11-20"
     }
   ],
   "LED Wall Display": [
-    {
-      "url": "//www.ledinside.com/news/2026/11/2026_11_12_05",
-      "date": "2026-11-13"
-    },
     {
       "url": "https://www.digitalsignagetoday.com/articles/oaaa-center-of-excellence-aims-to-make-ooh-easier-to-buy-integrate/",
       "date": "2026-11-14"
@@ -207,13 +203,13 @@
     {
       "url": "https://www.digitalsignagetoday.com/news/roadhouse-cinemas-deploys-samsung-onyx-display/",
       "date": "2026-11-19"
+    },
+    {
+      "url": "https://www.digitalsignagetoday.com/news/brisbane-airport-taps-lg-displays-cms-for-digital-infrastructure-upgrade/",
+      "date": "2026-11-20"
     }
   ],
   "SONY": [
-    {
-      "url": "https://cameota.com/sony/53075.html",
-      "date": "2026-11-13"
-    },
     {
       "url": "https://www.imaging-resource.com/news/sony-registers-new-camera-sparking-a7s-iv-speculation/",
       "date": "2026-11-14"
@@ -237,13 +233,13 @@
     {
       "url": "https://xtech.nikkei.com/atcl/nxt/column/18/00001/12189/",
       "date": "2026-11-19"
+    },
+    {
+      "url": "https://www.ept.ca/foxconn-acquires-automotive-camera-module-business-from-sony-semiconductor-solutions/",
+      "date": "2026-11-20"
     }
   ],
   "TV": [
-    {
-      "url": "https://gate-one.co.jp/news/press/119770/",
-      "date": "2026-11-13"
-    },
     {
       "url": "https://news.yahoo.co.jp/articles/c4d405d0884e751bbb6d57a68dbb68b15a922ec4",
       "date": "2026-11-14"
@@ -267,13 +263,13 @@
     {
       "url": "https://news.yahoo.co.jp/articles/df0f5ffb28bd0bf54e72db12d972cae282b9a34b",
       "date": "2026-11-19"
+    },
+    {
+      "url": "https://news.yahoo.co.jp/articles/64eb1b79b78dd25cafd4185dc745ace6ff9fcfce",
+      "date": "2026-11-20"
     }
   ],
   "Projector": [
-    {
-      "url": "https://av.watch.impress.co.jp/docs/news/2156065.html",
-      "date": "2026-11-13"
-    },
     {
       "url": "https://www.walkerplus.com/article/1450082/",
       "date": "2026-11-14"
@@ -297,6 +293,10 @@
     {
       "url": "https://av.watch.impress.co.jp/docs/news/2157665.html",
       "date": "2026-11-19"
+    },
+    {
+      "url": "https://av.watch.impress.co.jp/docs/news/2158111.html",
+      "date": "2026-11-20"
     }
   ]
 }
