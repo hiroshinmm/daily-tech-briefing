@@ -1,0 +1,102 @@
+{
+  "SRD / XR": {
+    "title": "カバー社、AR専用スタジオを開設。VTuber配信の進化",
+    "summary": "ホロライブプロダクションを運営するカバーが、AR技術に特化した専用スタジオを開設。リアル空間とバーチャルキャラクターを高度に合成する環境を整え、エンターテインメントの没入体験を強化します。",
+    "insight": "配信のDX化において、リアルタイム合成の品質は視聴維持率に直結する重要指標です。専用スタジオによる安定したAR描画は、メタバースやデジタルツイン技術の商用利用にも応用可能な技術基盤となります。",
+    "sourceUrl": "https://coveredge.cover-corp.com/list/7845",
+    "sourceName": "COVERedge",
+    "originalImageUrl": "https://coveredge.cover-corp.com/wp-content/uploads/2026/11/JP_1119.webp",
+    "originalImageArticleUrl": "https://coveredge.cover-corp.com/list/7845",
+    "displayDate": "2026-11-21"
+  },
+  "AI": {
+    "title": "数学の難問をAIが解決：AIの新たな可能性",
+    "summary": "AIが数学界の長年の難問を解決したという報告が注目を集めています。従来の計算機的なアプローチを超え、AIが自律的に複雑な論理的洞察を導き出せる可能性を示しており、科学発見のプロセスを根本から変える転換点となるかもしれません。",
+    "insight": "この成果は、AIが単なるパターンマッチングのツールではなく、科学的発見を加速させる『推論エンジン』へ進化していることを示唆しています。エンジニアとしては、単なる生成AIモデルの利用にとどまらず、AIを科学的・論理的プロセスのパートナーとして組み込む手法を模索すべきでしょう。",
+    "sourceUrl": "https://www.washingtonpost.com/technology/2026/11/20/using-anthropic-ai-mathematician-claims-have-solved-riemann-hypothesis/",
+    "sourceName": "The Washington Post",
+    "originalImageUrl": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/VHMQHGWS4GYXN2Z6EVXORYOAWE.jpg&w=1440",
+    "originalImageArticleUrl": "https://www.washingtonpost.com/technology/2026/11/20/using-anthropic-ai-mathematician-claims-have-solved-riemann-hypothesis/",
+    "displayDate": "2026-11-21"
+  },
+  "Gaming Monitor": {
+    "title": "デュアルモード液晶が熱い！4Kと高リフレッシュレートの両立",
+    "summary": "MSIのゲーミングモニターがセール対象となり、1枚のパネルで「4K 160Hz」と「1080p 320Hz」を切り替えられるデュアルモード機能が注目されています。高精細な映像体験と競技性の高いゲーム体験を1台で完結できる、現代のディスプレイ技術の進歩を象徴する製品です。",
+    "insight": "液晶の駆動モードを切り替える技術は、FPGAベースの高度なスケーリング処理やパネルのレスポンス最適化が鍵となっています。ハードウェアレベルでの動的な解像度とリフレッシュレートの切り替えは、今後ゲーミングデバイスの標準スペックとして定着していくでしょう。",
+    "sourceUrl": "https://mixed-news.com/en/msi-mag-272urdfa-e16-4k-160hz-320hz-monitor-amazon-deal/",
+    "sourceName": "MIXED News",
+    "originalImageUrl": "https://mixed-news.com/en/wp-content/uploads/2026/11/QNuZjHDc5sbhSnVdLHkBhi-1920-80.jpg",
+    "originalImageArticleUrl": "https://mixed-news.com/en/msi-mag-272urdfa-e16-4k-160hz-320hz-monitor-amazon-deal/",
+    "displayDate": "2026-11-21"
+  },
+  "SONY": {
+    "title": "ソニー、グラスレス3Dディスプレイ「ELF-MN1」需要増で店頭展示開始",
+    "summary": "ソニーの裸眼3Dディスプレイ「ELF-MN1」が予測を上回る注文を獲得し、好調な滑り出しを見せています。これを受け、実機を体験できる店頭デモンストレーションが開始されました。空間再現ディスプレイ技術が市場に広く受け入れられ始めています。",
+    "insight": "レンチキュラーレンズを用いた空間再現技術は、従来の2Dディスプレイでは不可能だった立体的なUXを実現します。エンジニアの視点では、UI/UX設計において物理的な視差を計算に含める空間コンピューティング対応の知見が今後重要になるでしょう。",
+    "sourceUrl": "https://www.techtimes.com/articles/331118/20261119/sony-elf-mn1-glasses-free-3d-display-store-demos-start-friday-orders-exceed-forecast.htm",
+    "sourceName": "Tech Times",
+    "originalImageUrl": "https://d.techtimes.com/en/full/478787/sony-store-nagoya.jpg",
+    "originalImageArticleUrl": "https://www.techtimes.com/articles/331118/20261119/sony-elf-mn1-glasses-free-3d-display-store-demos-start-friday-orders-exceed-forecast.htm",
+    "displayDate": "2026-11-21"
+  },
+  "TV": {
+    "title": "「Venue101」でCHIKA＆JISOOがテレビ初パフォーマンス",
+    "summary": "NHKの音楽番組「Venue101」にて、CHIKAとJISOOによる注目のコラボパフォーマンスが実現。テレビ初披露となる貴重なステージということもあり、SNSや音楽ファンを中心に大きな話題となっています。",
+    "insight": "コンテンツ配信の多様化が進む現代においても、ライブパフォーマンスの同時視聴体験を生むテレビのメディアパワーは依然として強力です。SNSでの拡散を前提とした演出と、テレビ特有の高品質な放送技術の組み合わせは、ファンエンゲージメントを最大化する強力な戦略といえます。",
+    "sourceUrl": "https://www.fukuishimbun.co.jp/articles/-/2751957",
+    "sourceName": "福井新聞社",
+    "originalImageUrl": "https://fki.ismcdn.jp/mwimgs/e/7/-/img_e70e771500061863c1ecc664123730481017014.jpg",
+    "originalImageArticleUrl": "https://www.fukuishimbun.co.jp/articles/-/2751957",
+    "displayDate": "2026-11-21"
+  },
+  "TCL": {
+    "title": "TCL CSOTがリフレッシュレート1250Hzのディスプレイを開発",
+    "summary": "TCL傘下のCSOTが、QHD解像度で驚異的な1250Hzのリフレッシュレートを実現する次世代ディスプレイのプロトタイプを発表しました。超高速描画技術により、ゲーミングモニターの性能限界を大幅に引き上げる可能性を示唆しています。",
+    "insight": "この技術は高移動度酸化物（Ultrahigh-mobility oxide）半導体技術の進歩によるもので、従来のパネル設計の常識を覆すものです。低レイテンシ・高フレームレートを求めるeスポーツや産業用シミュレータ分野でのパネル選定基準を塗り替える可能性があります。",
+    "sourceUrl": "https://www.techpowerup.com/355063/tcl-csot-prototype-reaches-1250-hz-at-full-qhd-resolution",
+    "sourceName": "TechPowerUp",
+    "originalImageUrl": "https://www.techpowerup.com/img/2AjenAUHqi8gv0Y9.jpg",
+    "originalImageArticleUrl": "https://www.techpowerup.com/355063/tcl-csot-prototype-reaches-1250-hz-at-full-qhd-resolution",
+    "displayDate": "2026-11-21"
+  },
+  "Production Monitor": {
+    "title": "カメラファームウェア改変の裏側：仕組みとリスク",
+    "summary": "カメラのファームウェアをハックし、独自機能を追加する手法（カードローダー、サービスモード、パッチ適用）を解説。技術的な仕組みだけでなく、特定のファームウェアバージョンへの依存性やリカバリーの難易度、コミュニティによるMODを導入する際のリスク管理について深掘りしています。",
+    "insight": "組み込みシステムのアップデートにおいて、パッチ適用がハードウェアの挙動をどう変えるかというプロセスは、開発者にとっても興味深いブラックボックスです。独自MODの導入におけるバージョン依存やリスク管理は、非公式のバイナリを扱う際のセキュリティや安定性確保の教訓としても示唆に富んでいます。",
+    "sourceUrl": "https://www.cined.com/how-camera-firmware-hacks-work-risks-recovery-explained/",
+    "sourceName": "CineD",
+    "originalImageUrl": "https://www.cined.com/content/uploads/2019/10/SIGMA-fp-and-Samsung-T5-SSD-gaffered-on-the-viewfinder-Image-Credit-cinema5D-300x169.jpg",
+    "originalImageArticleUrl": "https://www.cined.com/how-camera-firmware-hacks-work-risks-recovery-explained/",
+    "displayDate": "2026-11-21"
+  },
+  "Projector": {
+    "title": "QobuzがApple TVに対応、最大192kHz/24bitのハイレゾ再生",
+    "summary": "高音質ストリーミングサービス「Qobuz」がApple TV向けアプリをリリース。tvOS 26以降の第4世代以降のApple TVで、最大192kHz/24bitのハイレゾ音源再生に対応し、リビングでの本格的なリスニング体験を追求しています。",
+    "insight": "オーディオの伝送フォーマットにおいて、ストリーミング環境でのハイレゾ対応は今後も重要な技術指標となります。アプリ側のデコード処理能力や、tvOSのオーディオ出力パススルーにおけるビットパーフェクトな再生環境の確保がエンジニアリング上の注目点です。",
+    "sourceUrl": "https://av.watch.impress.co.jp/docs/news/2158215.html",
+    "sourceName": "AV Watch",
+    "originalImageUrl": "https://av.watch.impress.co.jp/img/avw/list/2158/215/main.jpg",
+    "originalImageArticleUrl": "https://av.watch.impress.co.jp/docs/news/2158215.html",
+    "displayDate": "2026-11-21"
+  },
+  "LED Wall Display": {
+    "title": "SoC活用によるデジタルサイネージの運用効率化",
+    "summary": "フィットネスジムチェーンが、特定メーカーに依存しない柔軟なデジタルサイネージ運用へ移行。ディスプレイ内蔵のSoC（System-on-Chip）を活用することで、外部プレーヤーを減らし、コンテンツ配信の一元管理と複数拠点での同期再生を実現しました。",
+    "insight": "ハードウェアの特定ベンダー縛りを排除する「プラットフォーム非依存」のアプローチは、大規模展開時の保守性と拡張性を大きく向上させます。また、SoC採用は設置スペースや故障箇所の削減にも寄与するため、IoTデバイス選定における重要な評価指標となります。",
+    "sourceUrl": "https://www.digitalsignagetoday.com/articles/fitness-cartel-pumps-up-digital-signage-strategy/",
+    "sourceName": "Digital Signage Today",
+    "originalImageUrl": "https://nmgprod.s3.amazonaws.com/media/file/c5/db/703f5e041ca26e55fbdd169017f8/cover_image__VJyUHAyr__Fitness_cartel_fusion_signge.png.360x190_q85_crop_upscale.webp",
+    "originalImageArticleUrl": "https://www.digitalsignagetoday.com/articles/fitness-cartel-pumps-up-digital-signage-strategy/",
+    "displayDate": "2026-11-21"
+  },
+  "Camera Control": {
+    "title": "Appleカメラ部門の責任者が退職：AI時代への移行を示唆",
+    "summary": "Appleで8年以上カメラおよび写真アプリを統括してきたジョン・マコーミック氏が退職しました。彼は「AIによる写真加工」に対して慎重な姿勢を示していた人物です。後任は置かれず、今後のカメラ開発チームはAppleのAI統合を主導する部門の管轄下に入ることが報じられています。",
+    "insight": "カメラの制御と画像処理において、ハードウェアの物理的な性能とAIによる演算処理の境界線が急速に消滅しつつあります。今回の人事異動は、Appleが写真体験の定義を『レンズを通した記録』から『AIによる生成・最適化』へ本格的に舵を切った象徴的な出来事と言えるでしょう。",
+    "sourceUrl": "https://www.dpreview.com/news/apples-iphone-camera-chief-has-retired/",
+    "sourceName": "DPReview",
+    "originalImageUrl": "https://www.dpreview.com/wp-content/uploads/2026/11/iphone_18_pro_colors.jpg",
+    "originalImageArticleUrl": "https://www.dpreview.com/news/apples-iphone-camera-chief-has-retired/",
+    "displayDate": "2026-11-21"
+  }
+}
