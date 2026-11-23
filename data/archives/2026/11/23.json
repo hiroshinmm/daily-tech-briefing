@@ -1,0 +1,102 @@
+{
+  "SRD / XR": {
+    "title": "Android XR搭載「XREAL AURA」実機レビュー",
+    "summary": "Android XRを搭載した注目のARグラス「XREAL AURA」がいよいよ登場。開封から実際の操作感までを速報形式でレポート。空間コンピューティングの新たな可能性を探る。",
+    "insight": "Android XRというOS層での統合により、スタンドアロン機としての利便性が飛躍的に向上しています。モバイル空間コンピューティングのハードウェア開発やUI/UX設計に従事するエンジニアにとって、OSレベルの制御と空間操作のUXを評価する重要なベンチマークになるでしょう。",
+    "sourceUrl": "https://news.yahoo.co.jp/expert/articles/551b481b462a2f3b2d359f4081683146a655830c",
+    "sourceName": "Yahoo!ニュース",
+    "originalImageUrl": "https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/creators/10023273/02771996/title-1795329447240.jpeg?exp=10800",
+    "originalImageArticleUrl": "https://news.yahoo.co.jp/expert/articles/551b481b462a2f3b2d359f4081683146a655830c",
+    "displayDate": "2026-11-23"
+  },
+  "AI": {
+    "title": "「エージェント決済」の到来と決済UXの変革",
+    "summary": "AIがユーザーの代わりに買い物や支払いを自動で行う「エージェント決済」の仕組みと、それに伴うセキュリティや安全網の重要性が注目されています。利便性が向上する一方で、不正利用を防ぐための技術的な対策が急務となっています。",
+    "insight": "AIエージェントの自律化は、従来のUI/UXを「指示待ち」から「代行」へと根本的に変えます。エンジニアには、単なる決済APIの実装だけでなく、AIの挙動を監視するガバナンスレイヤーや、異常検知アルゴリズムの堅牢な実装が強く求められるようになります。",
+    "sourceUrl": "https://ai.watch.impress.co.jp/docs/serial/glossary/2158372.html",
+    "sourceName": "株式会社インプレス",
+    "originalImageUrl": "https://ai.watch.impress.co.jp/img/aiw/list/2158/372/0.jpg",
+    "originalImageArticleUrl": "https://ai.watch.impress.co.jp/docs/serial/glossary/2158372.html",
+    "displayDate": "2026-11-23"
+  },
+  "TCL": {
+    "title": "TCLのQD-Mini LEDモニターがOLEDの対抗馬として台頭",
+    "summary": "TCLから7万円台という戦略的な価格でQD-Mini LEDモニターが登場し、これまでハイエンド用途でOLED一択だったディスプレイ市場に新たな現実解を提示しています。コストパフォーマンスの高さが注目されています。",
+    "insight": "Mini LEDはローカルディミングによる高コントラストと、焼き付きリスクがない長寿命という点で、長時間のデスクワークや静止画表示が多いエンジニアの作業環境に最適です。OLEDの画質と比較しても実用十分なスペックであり、今後のモニター選びにおける有力な選択肢となるでしょう。",
+    "sourceUrl": "https://finance.biggo.jp/news/d451c9ae-c53f-431d-905c-7914b75b353f",
+    "sourceName": "BigGo ファイナンス",
+    "originalImageUrl": "https://img.biggo.com/637uN3GX6XOI31vqu6m7Kp1ixURxQ77KwLlc8pSsC14/fit/1200/0/sm/0/aHR0cHM6Ly9pbWcuYmdvLm9uZS9uZXdzLWltYWdlL2FpX2dlbmVyYXRlZC8yMDI2LTExL2Q0NTFjOWFlLWM1M2YtNDMxZC05MDVjLTc5MTRiNzViMzUzZl8xNzk1NDAwOTQzX2RlZmF1bHQud2VicA.jpg",
+    "originalImageArticleUrl": "https://finance.biggo.jp/news/d451c9ae-c53f-431d-905c-7914b75b353f",
+    "displayDate": "2026-11-23"
+  },
+  "Gaming Monitor": {
+    "title": "ゲーミングモニター市場：2035年に向けたトレンド",
+    "summary": "Gaming Monitor Stand Marketの調査レポートによると、2035年に向けて、プレミアムなエルゴノミクスアームやデュアルモニター環境への需要が市場を牽引し、アップグレードサイクルを促進していることが示されました。",
+    "insight": "ソフトウェアエンジニアの生産性向上において、デスク環境のエルゴノミクスは直接的に影響します。今後は高リフレッシュレートのパネル性能だけでなく、デュアルモニターや縦置き構成を支えるアームの堅牢性が重要な技術選定要素となるでしょう。",
+    "sourceUrl": "https://www.indexbox.io/blog/gaming-monitor-stand-market-forecast-to-2035-premium-ergonomic-arms-and-dual-monitor-setups-drive-upgrade-cycle/",
+    "sourceName": "IndexBox",
+    "originalImageUrl": "https://www.indexbox.io/landing/img/blog/custom-report-v2/world-kw-gaming-monitor-stand-840-market-analysis-forecast-size-trends-and-insights-1795379490.webp",
+    "originalImageArticleUrl": "https://www.indexbox.io/blog/gaming-monitor-stand-market-forecast-to-2035-premium-ergonomic-arms-and-dual-monitor-setups-drive-upgrade-cycle/",
+    "displayDate": "2026-11-23"
+  },
+  "SONY": {
+    "title": "ソニーカメラの改造ファームウェアが話題に",
+    "summary": "ソニー製ミラーレスカメラの機能を拡張する「改造ファームウェア」の話題がRedditなどの海外掲示板で議論を呼んでいます。特にA7 IVなどのモデル向けに公開された非公式ファームウェアが、一部コミュニティで投稿禁止措置を受けるなど、注目と物議を醸しています。",
+    "insight": "ファームウェアの改造は、メーカーが制限している機能（Open Gate撮影など）を解放できるため技術的興味を惹く一方、知的財産やセキュリティ、保証規約の観点から議論が分かれます。組込みソフトウェアの解析や書き換えにおけるハッキングの境界線という点で、エンジニアとしても興味深いトピックです。",
+    "sourceUrl": "https://mirrorless-camera.info/rumor/sony-rumor/59147.html",
+    "sourceName": "ミラーレスカメラ情報",
+    "originalImageUrl": "https://mirrorless-camera.info/wp-content/uploads/2026/05/20260510_001.jpg",
+    "originalImageArticleUrl": "https://mirrorless-camera.info/rumor/sony-rumor/59147.html",
+    "displayDate": "2026-11-23"
+  },
+  "Projector": {
+    "title": "Aladdin X、ブラックフライデーで最大30%OFF",
+    "summary": "Aladdin Xの各種プロジェクターが、ブラックフライデーセールで過去最安の最大30％オフになっています。最上位モデルの「Aladdin X3 Laser 4K」も対象に含まれており、ホームシアター環境の構築を検討しているエンジニアにとっては見逃せないチャンスです。",
+    "insight": "レーザー光源搭載モデルは、従来の高圧水銀ランプに比べ長寿命かつ高輝度であり、メンテナンス性の観点からもエンジニアの自宅オフィス環境に適しています。特に4Kモデルのセールは、ディスプレイ性能を重視する層にとって、画質と設置スペースのトレードオフを解消する良い投資となるでしょう。",
+    "sourceUrl": "https://corriente.jp/aladdin-x-black-friday-2026-sale/",
+    "sourceName": "CoRRiENTE",
+    "originalImageUrl": "https://corriente.jp/wp-content/uploads/2026/11/aladdin-kv.webp",
+    "originalImageArticleUrl": "https://corriente.jp/aladdin-x-black-friday-2026-sale/",
+    "displayDate": "2026-11-23"
+  },
+  "TV": {
+    "title": "タワレコで1100万件の個人情報流出",
+    "summary": "タワーレコードの通販サイトにおいて、約1100万件の会員個人情報が流出した可能性があることが判明しました。うち278万件については氏名や生年月日などの詳細情報が含まれており、同社は現在サイトを停止し原因究明を進めています。",
+    "insight": "大規模な個人情報流出は、認証基盤やDBの堅牢性だけでなく、サードパーティ製ライブラリや運用プロセスの脆弱性が突かれるケースが多いです。エンジニアとしては、ログ監視の徹底と、万が一の漏洩時にも被害を最小化するデータマスキングや暗号化設計の重要性を改めて再認識すべきです。",
+    "sourceUrl": "https://news.yahoo.co.jp/articles/fccef82d45533511a8aba86ef1f3192e35500526",
+    "sourceName": "FNNプライムオンライン（フジテレビ系）",
+    "originalImageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261123-01257552-fnn-000-1-thumb.jpg?exp=10800",
+    "originalImageArticleUrl": "https://news.yahoo.co.jp/articles/fccef82d45533511a8aba86ef1f3192e35500526",
+    "displayDate": "2026-11-23"
+  },
+  "LED Wall Display": {
+    "title": "Gemini NeonによるLEDウォールFPGA性能が6.4倍に向上",
+    "summary": "Gemini Neon技術の導入により、LEDウォールの描画に使用されるFPGAのフレームレートが6.4倍に飛躍的に向上したという報告がありました。これにより高解像度コンテンツのリアルタイム処理能力が大幅に改善されます。",
+    "insight": "FPGAのハードウェアアクセラレーション最適化は、高精細なLEDビジュアル環境における低レイテンシ化の鍵となります。特に映像同期と描画パイプラインの並列処理を見直すことで、従来の限界を大きく超えるパフォーマンス向上が可能であることを示しています。",
+    "sourceUrl": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5nXzBFWWh5MlhxWTFhN0ZsWGl0LVBtdUVJNnYwWjhMSFhLZ2dqOGxPV1JjZGpnd25MNWMwTGxHSk85dw?oc=5",
+    "sourceName": "Digg",
+    "originalImageUrl": null,
+    "originalImageArticleUrl": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5nXzBFWWh5MlhxWTFhN0ZsWGl0LVBtdUVJNnYwWjhMSFhLZ2dqOGxPV1JjZGpnd25MNWMwTGxHSk85dw?oc=5",
+    "displayDate": "2026-11-23"
+  },
+  "Camera Control": {
+    "title": "Sony Alpha Redditがカメラハッキング情報を禁止",
+    "summary": "Sony Alphaの公式Redditコミュニティが、カメラハッキングに関する話題や情報の投稿を禁止しました。これに伴い、ユーザーはPMCA-RE Reloadedなどのオープンソースプロジェクトの進捗を確認するために、GitHubなどの外部プラットフォームへ移行せざるを得なくなっています。",
+    "insight": "メーカー製ファームウェアの制約を超えて機能を拡張するカメラハッキングは、エンジニアリング視点ではデバイスの可能性を再定義する興味深い活動です。コミュニティの閉鎖は、知的財産やセキュリティポリシーとオープンソース文化の衝突を浮き彫りにしており、今後のハードウェア改変トレンドの行方が注目されます。",
+    "sourceUrl": "https://www.sonyalpharumors.com/sony-alpha-reddit-bans-the-reporting-about-camera-hacking/",
+    "sourceName": "sonyalpharumors",
+    "originalImageUrl": "https://www.sonyalpharumors.com/wp-content/uploads/2026/11/Screenshot-2026-11-18-at-14.05.21.png",
+    "originalImageArticleUrl": "https://www.sonyalpharumors.com/sony-alpha-reddit-bans-the-reporting-about-camera-hacking/",
+    "displayDate": "2026-11-23"
+  },
+  "Production Monitor": {
+    "title": "映像モニターの進化：マルチスタンダードからマルチレートへ",
+    "summary": "かつて「マルチスタンダード（対応信号規格）」で語られていた映像モニターが、現代では「マルチレート（対応伝送速度）」へと焦点が移っています。映像技術の進化に伴うハードウェア要件の変化を振り返る技術的考察記事です。",
+    "insight": "ソフトウェアエンジニアとして意識したいのは、物理レイヤーの規格が「特定の信号方式」への依存から「データ転送レート」の汎用的な処理へと抽象化されている点です。ハードウェアが単なるインターフェースの変換器から、より高速なデータストリームを柔軟に制御する計算機へと進化している好例と言えます。",
+    "sourceUrl": "https://www.provideocoalition.com/how-we-evolved-from-bi-standard-multistandard-to-bi-rate-multirate-monitors/",
+    "sourceName": "ProVideo Coalition",
+    "originalImageUrl": "https://www.provideocoalition.com/wp-content/uploads/120-Hz-monitor.jpeg",
+    "originalImageArticleUrl": "https://www.provideocoalition.com/how-we-evolved-from-bi-standard-multistandard-to-bi-rate-multirate-monitors/",
+    "displayDate": "2026-11-23"
+  }
+}
