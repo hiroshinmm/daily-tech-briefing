@@ -1,0 +1,102 @@
+{
+  "AI": {
+    "title": "なぜAI活用で現場は忙しくなるのか？",
+    "summary": "ITRが「自律型AIと人の協働」について解説。AIに業務を任せれば効率化が進むはずが、実際には連携や管理の手間が増え、現場が以前より多忙になる逆説的な現象が指摘されています。",
+    "insight": "AI導入において、単なるタスクの自動化だけでなく、AIとのインターフェース維持や不整合の調整コストを考慮したシステム設計が不可欠です。エンジニアは『AIを使うこと』そのものが新たな負荷にならないよう、人間中心のワークフロー設計を再考すべきです。",
+    "sourceUrl": "https://news.yahoo.co.jp/articles/9c09d3976cb197e524d978319fe37615ae89350b",
+    "sourceName": "Yahoo!ニュース",
+    "originalImageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261126-35254898-zdnet-000-1-view.jpg?exp=10800",
+    "originalImageArticleUrl": "https://news.yahoo.co.jp/articles/9c09d3976cb197e524d978319fe37615ae89350b",
+    "displayDate": "2026-11-26"
+  },
+  "SRD / XR": {
+    "title": "PimaxがVRヘッドセット用部品データを公開",
+    "summary": "Pimax社が超軽量VR「Dream Air」シリーズ向けに、フロントプレートの公式STEPデータを「Printables」で無料公開しました。ユーザーによる3Dプリントを活用したカスタマイズを推奨する取り組みです。",
+    "insight": "ハードウェアメーカーが公式にCADデータ（STEP形式）を公開し、コミュニティによるモデリングを促進する動きは、オープンソースハードウェアのトレンドとして注目に値します。エンジニアリング視点では、ユーザー参加型の周辺機器エコシステム構築における優れた事例と言えます。",
+    "sourceUrl": "https://panora.tokyo/archives/164731",
+    "sourceName": "PANORA",
+    "originalImageUrl": "https://asset.panora.tokyo/wp-content/uploads/2026/11/26122510/191510-15-20c29e952b951af3952451c8b7d34f2b-1292x651-1.webp",
+    "originalImageArticleUrl": "https://panora.tokyo/archives/164731",
+    "displayDate": "2026-11-26"
+  },
+  "SONY": {
+    "title": "ソニー、12月1日にサプライズ発表か？",
+    "summary": "複数の情報源により、12月1日にソニーが新製品をサプライズ発表する可能性があると報じられています。詳細は不明ですが、同社のカメラ関連の動向に注目が集まっており、年末商戦に向けた動きや新しいプロダクトラインの展開が期待されています。",
+    "insight": "カメラのハードウェアにおいて、ソニーのCMOSセンサー技術は他社フラグシップモデル（例：Motorola）にも採用されるなど、依然として業界のデファクトスタンダードです。ソフトウェアエンジニアとしては、ハードウェアのスペック更新だけでなく、それに伴う画像処理パイプラインやAIによる自動撮影アルゴリズムの進化に注目すべきでしょう。",
+    "sourceUrl": "https://mirrorless-camera.info/rumor/sony-rumor/59187.html",
+    "sourceName": "ミラーレスカメラ情報",
+    "originalImageUrl": "https://mirrorless-camera.info/wp-content/uploads/2023/12/20231208_001.jpg",
+    "originalImageArticleUrl": "https://mirrorless-camera.info/rumor/sony-rumor/59187.html",
+    "displayDate": "2026-11-26"
+  },
+  "TCL": {
+    "title": "TCL、ネブラスカ州司法長官から監視疑惑で提訴",
+    "summary": "ネブラスカ州司法長官が、TCLのスマートテレビがユーザーの個人情報を不法に収集・監視しているとして提訴しました。消費者のプライバシーとスマートデバイスのデータ取り扱いに関する重要な法務リスクが浮上しています。",
+    "insight": "IoTデバイスにおけるプライバシー保護とデータ収集の透明性は、エンジニアが設計段階から考慮すべき最優先事項です。本件は、OSレベルでのトラッキングやテレメトリの実装が法的なリスクに直結する可能性を示しており、ガバナンス遵守の重要性を再認識させる事例です。",
+    "sourceUrl": "https://chadronradio.com/attorney-general-hilgers-files-suit-against-tcl-for-illegally-spying-on-nebraskans/",
+    "sourceName": "chadronradio.com",
+    "originalImageUrl": "https://media-chadronradio.s3.amazonaws.com/uploads/2024/08/Mike-Hilgers-News-Release.png",
+    "originalImageArticleUrl": "https://chadronradio.com/attorney-general-hilgers-files-suit-against-tcl-for-illegally-spying-on-nebraskans/",
+    "displayDate": "2026-11-26"
+  },
+  "Camera Control": {
+    "title": "モトローラ最新フラッグシップ、全カメラ5000万画素の衝撃",
+    "summary": "モトローラが、全搭載カメラで5000万画素を実現したフラッグシップスマートフォン「motorola signature」を12月4日に発売する。最新のイメージセンサー技術による高精細な撮影体験に注目が集まる。",
+    "insight": "モバイルデバイスにおけるマルチカメラ構成の標準が、高解像度化へシフトしていることを示唆しています。エンジニアとしては、全カメラ同等画素によるシームレスなレンズ切り替えと、その膨大な画像処理を行うISP（画像信号処理プロセッサ）の最適化に技術的関心が寄せられます。",
+    "sourceUrl": "https://dc.watch.impress.co.jp/docs/news/2159445.html",
+    "sourceName": "デジカメ Watch",
+    "originalImageUrl": "https://dc.watch.impress.co.jp/img/dcw/list/2159/445/01.jpg",
+    "originalImageArticleUrl": "https://dc.watch.impress.co.jp/docs/news/2159445.html",
+    "displayDate": "2026-11-26"
+  },
+  "Gaming Monitor": {
+    "title": "3DMarkモバイル版にCPU性能計測テストが追加",
+    "summary": "ベンチマークアプリ「3DMark」のスマホ向け（Android/iOS/iPadOS）版に、新たなCPU性能テスト「CPU Rumble」が追加されました。最新版にアップデートすることで無料で利用可能になり、モバイル環境におけるゲーミング性能の評価手法が拡充されています。",
+    "insight": "モバイルSoCのマルチスレッド性能や演算処理能力を可視化する指標が標準化されることは、モバイルゲーム開発における最適化の基準策定に大きく貢献します。クロスプラットフォーム開発において、デバイス間のスペック差を定量的に比較する際の重要なデータソースとなりそうです。",
+    "sourceUrl": "https://www.4gamer.net/games/143/G014363/20261126014/",
+    "sourceName": "4Gamer.net − 最新記事",
+    "originalImageUrl": "https://www.4gamer.net/games/143/G014363/20261126014/SS/002.jpg",
+    "originalImageArticleUrl": "https://www.4gamer.net/games/143/G014363/20261126014/",
+    "displayDate": "2026-11-26"
+  },
+  "Projector": {
+    "title": "Amazonブラックフライデー開始！最新プロジェクターもセール対象",
+    "summary": "11月27日から開始されるAmazonブラックフライデー先行セールに合わせ、XGIMIをはじめとする人気メーカーのプロジェクターがセール対象となります。最新モデルも含め、ホームシアター環境を構築するチャンスです。",
+    "insight": "プロジェクターの映像品質を左右する光学エンジンや投写精度の技術進化は目覚ましく、最近のモデルは自動台形補正などの自動化機能が充実しています。ハードウェアの進化とセールのタイミングを組み合わせ、自宅の作業環境をより没入感のあるものにアップデートする好機と言えるでしょう。",
+    "sourceUrl": "https://av.watch.impress.co.jp/docs/news/2159427.html",
+    "sourceName": "AV Watch",
+    "originalImageUrl": "https://av.watch.impress.co.jp/img/avw/list/2159/427/ama.jpg",
+    "originalImageArticleUrl": "https://av.watch.impress.co.jp/docs/news/2159427.html",
+    "displayDate": "2026-11-26"
+  },
+  "TV": {
+    "title": "ブラックフライデーでOLEDテレビが大幅割引",
+    "summary": "Best Buyなどの大手小売店にて、ブラックフライデーセールの一環としてLGやSamsung、SonyなどのOLED（有機EL）テレビが最大57%OFF（最大1,500ドル引き）という大幅な割引価格で販売されています。",
+    "insight": "OLEDパネルの製造コスト低下と歩留まり改善が、消費者がハイエンドディスプレイを手に取りやすい価格帯を実現しています。エンジニアとしては、HDRコンテンツのレンダリングや色再現性のテスト環境として、この時期のセールでプロ仕様のディスプレイを導入する良いタイミングと言えます。",
+    "sourceUrl": "https://www.cnet.com/tech/home-entertainment/best-buy-black-friday-oled-tv-deals/",
+    "sourceName": "CNET",
+    "originalImageUrl": "https://www.cnet.com/wp-content/uploads/sites/2/best-buy-oled-tv-sale.jpg?resize=1200,675",
+    "originalImageArticleUrl": "https://www.cnet.com/tech/home-entertainment/best-buy-black-friday-oled-tv-deals/",
+    "displayDate": "2026-11-26"
+  },
+  "Production Monitor": {
+    "title": "Vimeo対抗の動画プラットフォーム「Movity」が登場",
+    "summary": "映像制作者向けの新たな動画プラットフォーム「Movity」がローンチされました。Vimeoの代替を目指し、フレームレベルでの高度な検索機能やH.265 4K配信を備えています。最大の特徴は、生成AI作品を排除し、人間の映画監督による作品のみを厳選して扱うというポリシーです。",
+    "insight": "AI生成コンテンツが溢れる中で「人間による作品」の価値を保証するプラットフォームの台頭は、コンテンツ管理におけるメタデータ戦略の新たな方向性を示唆しています。技術的には、膨大な映像からカラーパレットやダイアログに基づいたフレームレベル検索を実現するインフラ設計が、今後の動画配信プラットフォームにおける競争優位性の鍵となるでしょう。",
+    "sourceUrl": "https://www.cined.com/movity-video-platform-launched-a-vimeo-alternative-with-frame-level-search-h-265-4k-streaming-ai-made-work-excluded/",
+    "sourceName": "CineD",
+    "originalImageUrl": "https://www.cined.com/content/uploads/2026/11/Cover-with-logo-300x169.jpg",
+    "originalImageArticleUrl": "https://www.cined.com/movity-video-platform-launched-a-vimeo-alternative-with-frame-level-search-h-265-4k-streaming-ai-made-work-excluded/",
+    "displayDate": "2026-11-26"
+  },
+  "LED Wall Display": {
+    "title": "マイクロLEDの次なる挑戦：スマートグラスで決済体験を刷新",
+    "summary": "中国UnionPayとSkyneaの提携により、MicroLEDライトエンジンを搭載したスマートグラスによるQRコード決済の実証実験が開始されました。リアルタイム翻訳や視線入力を用いた決済など、次世代のウェアラブルデバイスにおけるMicroLEDの実用化が進んでいます。",
+    "insight": "MicroLEDは高輝度かつ超小型であるため、AR/スマートグラスの光学エンジンとして理想的です。エンジニアとしては、単なる表示デバイスとしてではなく、センサーやカメラと連動する「空間コンピューティングのインターフェース」としての開発パラダイムへの転換に注目すべきです。",
+    "sourceUrl": "https://www.tradingview.com/news/gurufocus:476c25f0f094b:0-nvidia-stocks-drop-8-55-as-huang-rally-fully-unwinds/",
+    "sourceName": "LEDinside",
+    "originalImageUrl": "https://s.tradingview.com/static/images/illustrations/news-story.jpg",
+    "originalImageArticleUrl": "https://www.tradingview.com/news/gurufocus:476c25f0f094b:0-nvidia-stocks-drop-8-55-as-huang-rally-fully-unwinds/",
+    "displayDate": "2026-11-26"
+  }
+}

@@ -1,18 +1,6 @@
 {
   "Production Monitor": [
     {
-      "url": "https://www.cined.com/memory-costs-hit-canon-fujifilm-nikon-and-sony-canon-plans-price-increases-from-2027/",
-      "date": "2026-11-17"
-    },
-    {
-      "url": "https://www.cined.com/final-cut-pro-13-first-look-the-motionvfx-library-is-why-i-am-subscribing-to-apple-creator-studio/",
-      "date": "2026-11-18"
-    },
-    {
-      "url": "https://www.cined.com/rushes-rentals-launched-vimeo-on-demand-alternative-with-90-revenue-share-and-rentals-from-your-own-website/",
-      "date": "2026-11-19"
-    },
-    {
       "url": "https://www.cined.com/instagram-content-protection-launched-automatic-repost-detection-credit-links-and-ai-spoken-word-matching-test/",
       "date": "2026-11-20"
     },
@@ -27,21 +15,13 @@
     {
       "url": "https://www.provideocoalition.com/how-we-evolved-from-bi-standard-multistandard-to-bi-rate-multirate-monitors/",
       "date": "2026-11-23"
+    },
+    {
+      "url": "https://www.cined.com/movity-video-platform-launched-a-vimeo-alternative-with-frame-level-search-h-265-4k-streaming-ai-made-work-excluded/",
+      "date": "2026-11-26"
     }
   ],
   "SRD / XR": [
-    {
-      "url": "https://www.minyu-net.com/release/prtimes/detail/57445",
-      "date": "2026-11-17"
-    },
-    {
-      "url": "https://www.unite.ai/ja/verisilicon-unveils-configurable-chip-subsystem-for-ai-glasses/",
-      "date": "2026-11-18"
-    },
-    {
-      "url": "https://www.nikkei.com/nkd/disclosure/tdnr/20261118583058/",
-      "date": "2026-11-19"
-    },
     {
       "url": "https://www.moguravr.com/municipal-vrchat-worlds-2026/",
       "date": "2026-11-20"
@@ -57,21 +37,13 @@
     {
       "url": "https://news.yahoo.co.jp/expert/articles/551b481b462a2f3b2d359f4081683146a655830c",
       "date": "2026-11-23"
+    },
+    {
+      "url": "https://panora.tokyo/archives/164731",
+      "date": "2026-11-26"
     }
   ],
   "AI": [
-    {
-      "url": "https://japan.cnet.com/article/35254969/",
-      "date": "2026-11-17"
-    },
-    {
-      "url": "https://note.jp/n/n0a7b3781d396?cdr=1",
-      "date": "2026-11-18"
-    },
-    {
-      "url": "https://finance.biggo.jp/news/b823a403-e18f-4788-89c9-66b81ccd5e2a",
-      "date": "2026-11-19"
-    },
     {
       "url": "https://news.yahoo.co.jp/articles/178e02ce6ff12e999ef3cba4a3f90e688e609fd0",
       "date": "2026-11-20"
@@ -87,21 +59,13 @@
     {
       "url": "https://ai.watch.impress.co.jp/docs/serial/glossary/2158372.html",
       "date": "2026-11-23"
+    },
+    {
+      "url": "https://news.yahoo.co.jp/articles/9c09d3976cb197e524d978319fe37615ae89350b",
+      "date": "2026-11-26"
     }
   ],
   "Gaming Monitor": [
-    {
-      "url": "https://pc.watch.impress.co.jp/docs/news/2157036.html",
-      "date": "2026-11-17"
-    },
-    {
-      "url": "https://www.4gamer.net/games/278/G027801/20261118008/",
-      "date": "2026-11-18"
-    },
-    {
-      "url": "https://pc.watch.impress.co.jp/docs/news/2157745.html",
-      "date": "2026-11-19"
-    },
     {
       "url": "https://pc.watch.impress.co.jp/docs/news/2158129.html",
       "date": "2026-11-20"
@@ -117,21 +81,13 @@
     {
       "url": "https://www.indexbox.io/blog/gaming-monitor-stand-market-forecast-to-2035-premium-ergonomic-arms-and-dual-monitor-setups-drive-upgrade-cycle/",
       "date": "2026-11-23"
+    },
+    {
+      "url": "https://www.4gamer.net/games/143/G014363/20261126014/",
+      "date": "2026-11-26"
     }
   ],
   "TCL": [
-    {
-      "url": "https://www.digitimes.com/news/a20261117VL205/tcl-csot-oled-panel-display-efficiency.html",
-      "date": "2026-11-17"
-    },
-    {
-      "url": "https://www.technetbooks.com/2026/11/tcl-csot-shows-27-inch-qhd-gaming-panel.html",
-      "date": "2026-11-18"
-    },
-    {
-      "url": "https://finance.biggo.com/news/ef036baf-32b1-45fe-9340-9ce774ac0fec",
-      "date": "2026-11-19"
-    },
     {
       "url": "https://topics.smt.docomo.ne.jp/article/av_watch/trend/av_watch-2158111?utm_source=dnews&utm_medium=article&utm_campaign=contentsmatch4",
       "date": "2026-11-20"
@@ -147,21 +103,13 @@
     {
       "url": "https://finance.biggo.jp/news/d451c9ae-c53f-431d-905c-7914b75b353f",
       "date": "2026-11-23"
+    },
+    {
+      "url": "https://chadronradio.com/attorney-general-hilgers-files-suit-against-tcl-for-illegally-spying-on-nebraskans/",
+      "date": "2026-11-26"
     }
   ],
   "Camera Control": [
-    {
-      "url": "https://petapixel.com/2026/11/16/how-iphone-duos-unlock-with-front-camera-works-and-how-its-different-than-face-id/",
-      "date": "2026-11-17"
-    },
-    {
-      "url": "https://dc.watch.impress.co.jp/docs/news/2157141.html",
-      "date": "2026-11-18"
-    },
-    {
-      "url": "https://www.dpreview.com/news/capture-one-adds-wired-tethering-for-the-hasselblad-x2d-ii-100c/",
-      "date": "2026-11-19"
-    },
     {
       "url": "https://petapixel.com/2026/11/19/apples-camera-and-photo-software-lead-jon-mccormack-has-retired/",
       "date": "2026-11-20"
@@ -177,21 +125,13 @@
     {
       "url": "https://www.sonyalpharumors.com/sony-alpha-reddit-bans-the-reporting-about-camera-hacking/",
       "date": "2026-11-23"
+    },
+    {
+      "url": "https://dc.watch.impress.co.jp/docs/news/2159445.html",
+      "date": "2026-11-26"
     }
   ],
   "LED Wall Display": [
-    {
-      "url": "https://www.devdiscourse.com/article/international/4007648-us-stocks-wall-st-falls-as-nvidia-jitters-cloud-sentiment-ahead-of-results",
-      "date": "2026-11-17"
-    },
-    {
-      "url": "https://www.digitalsignagetoday.com/blogs/why-digital-signage-networks-go-stale-in-month-6/",
-      "date": "2026-11-18"
-    },
-    {
-      "url": "https://www.digitalsignagetoday.com/news/roadhouse-cinemas-deploys-samsung-onyx-display/",
-      "date": "2026-11-19"
-    },
     {
       "url": "https://www.digitalsignagetoday.com/news/brisbane-airport-taps-lg-displays-cms-for-digital-infrastructure-upgrade/",
       "date": "2026-11-20"
@@ -207,21 +147,13 @@
     {
       "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5nXzBFWWh5MlhxWTFhN0ZsWGl0LVBtdUVJNnYwWjhMSFhLZ2dqOGxPV1JjZGpnd25MNWMwTGxHSk85dw?oc=5",
       "date": "2026-11-23"
+    },
+    {
+      "url": "https://www.tradingview.com/news/gurufocus:476c25f0f094b:0-nvidia-stocks-drop-8-55-as-huang-rally-fully-unwinds/",
+      "date": "2026-11-26"
     }
   ],
   "SONY": [
-    {
-      "url": "https://journalarta.com/en/2026/11/17/sony-27-inch-gaming-monitor-dualsense-dock/",
-      "date": "2026-11-17"
-    },
-    {
-      "url": "https://mirrorless-camera.info/news/sony-news/59059.html",
-      "date": "2026-11-18"
-    },
-    {
-      "url": "https://xtech.nikkei.com/atcl/nxt/column/18/00001/12189/",
-      "date": "2026-11-19"
-    },
     {
       "url": "https://www.ept.ca/foxconn-acquires-automotive-camera-module-business-from-sony-semiconductor-solutions/",
       "date": "2026-11-20"
@@ -237,21 +169,13 @@
     {
       "url": "https://mirrorless-camera.info/rumor/sony-rumor/59147.html",
       "date": "2026-11-23"
+    },
+    {
+      "url": "https://mirrorless-camera.info/rumor/sony-rumor/59187.html",
+      "date": "2026-11-26"
     }
   ],
   "TV": [
-    {
-      "url": "https://news.yahoo.co.jp/articles/bb99ac80b9f1e9f21a53d6c5c3d5d5b4b2f15d91",
-      "date": "2026-11-17"
-    },
-    {
-      "url": "https://finance.biggo.jp/news/535d44d0-bdad-472d-bfe0-34d660121c45",
-      "date": "2026-11-18"
-    },
-    {
-      "url": "https://news.yahoo.co.jp/articles/df0f5ffb28bd0bf54e72db12d972cae282b9a34b",
-      "date": "2026-11-19"
-    },
     {
       "url": "https://news.yahoo.co.jp/articles/64eb1b79b78dd25cafd4185dc745ace6ff9fcfce",
       "date": "2026-11-20"
@@ -267,21 +191,13 @@
     {
       "url": "https://news.yahoo.co.jp/articles/fccef82d45533511a8aba86ef1f3192e35500526",
       "date": "2026-11-23"
+    },
+    {
+      "url": "https://www.cnet.com/tech/home-entertainment/best-buy-black-friday-oled-tv-deals/",
+      "date": "2026-11-26"
     }
   ],
   "Projector": [
-    {
-      "url": "https://av.watch.impress.co.jp/docs/news/2156782.html",
-      "date": "2026-11-17"
-    },
-    {
-      "url": "https://av.watch.impress.co.jp/docs/news/2157157.html",
-      "date": "2026-11-18"
-    },
-    {
-      "url": "https://av.watch.impress.co.jp/docs/news/2157665.html",
-      "date": "2026-11-19"
-    },
     {
       "url": "https://av.watch.impress.co.jp/docs/news/2158111.html",
       "date": "2026-11-20"
@@ -297,6 +213,10 @@
     {
       "url": "https://corriente.jp/aladdin-x-black-friday-2026-sale/",
       "date": "2026-11-23"
+    },
+    {
+      "url": "https://av.watch.impress.co.jp/docs/news/2159427.html",
+      "date": "2026-11-26"
     }
   ]
 }
