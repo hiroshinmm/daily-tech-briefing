@@ -1,10 +1,6 @@
 {
   "Production Monitor": [
     {
-      "url": "https://www.cined.com/instagram-content-protection-launched-automatic-repost-detection-credit-links-and-ai-spoken-word-matching-test/",
-      "date": "2026-11-20"
-    },
-    {
       "url": "https://www.cined.com/how-camera-firmware-hacks-work-risks-recovery-explained/",
       "date": "2026-11-21"
     },
@@ -19,13 +15,13 @@
     {
       "url": "https://www.cined.com/movity-video-platform-launched-a-vimeo-alternative-with-frame-level-search-h-265-4k-streaming-ai-made-work-excluded/",
       "date": "2026-11-26"
+    },
+    {
+      "url": "https://www.provideocoalition.com/flipp-technology-next-gen-oled-monitors-will-be-cheaper-last-longer/",
+      "date": "2026-11-27"
     }
   ],
   "SRD / XR": [
-    {
-      "url": "https://www.moguravr.com/municipal-vrchat-worlds-2026/",
-      "date": "2026-11-20"
-    },
     {
       "url": "https://coveredge.cover-corp.com/list/7845",
       "date": "2026-11-21"
@@ -41,13 +37,13 @@
     {
       "url": "https://panora.tokyo/archives/164731",
       "date": "2026-11-26"
+    },
+    {
+      "url": "https://berise.co.jp/topics/sagyoukiroku_smart-glasses_value/",
+      "date": "2026-11-27"
     }
   ],
   "AI": [
-    {
-      "url": "https://news.yahoo.co.jp/articles/178e02ce6ff12e999ef3cba4a3f90e688e609fd0",
-      "date": "2026-11-20"
-    },
     {
       "url": "https://www.washingtonpost.com/technology/2026/11/20/using-anthropic-ai-mathematician-claims-have-solved-riemann-hypothesis/",
       "date": "2026-11-21"
@@ -63,13 +59,13 @@
     {
       "url": "https://news.yahoo.co.jp/articles/9c09d3976cb197e524d978319fe37615ae89350b",
       "date": "2026-11-26"
+    },
+    {
+      "url": "https://hackernoon.com/ai-writes-code-faster-than-you-can-review-it-now-what",
+      "date": "2026-11-27"
     }
   ],
   "Gaming Monitor": [
-    {
-      "url": "https://pc.watch.impress.co.jp/docs/news/2158129.html",
-      "date": "2026-11-20"
-    },
     {
       "url": "https://mixed-news.com/en/msi-mag-272urdfa-e16-4k-160hz-320hz-monitor-amazon-deal/",
       "date": "2026-11-21"
@@ -85,13 +81,13 @@
     {
       "url": "https://www.4gamer.net/games/143/G014363/20261126014/",
       "date": "2026-11-26"
+    },
+    {
+      "url": "https://pc.watch.impress.co.jp/docs/news/2159894.html",
+      "date": "2026-11-27"
     }
   ],
   "TCL": [
-    {
-      "url": "https://topics.smt.docomo.ne.jp/article/av_watch/trend/av_watch-2158111?utm_source=dnews&utm_medium=article&utm_campaign=contentsmatch4",
-      "date": "2026-11-20"
-    },
     {
       "url": "https://www.techpowerup.com/355063/tcl-csot-prototype-reaches-1250-hz-at-full-qhd-resolution",
       "date": "2026-11-21"
@@ -107,13 +103,13 @@
     {
       "url": "https://chadronradio.com/attorney-general-hilgers-files-suit-against-tcl-for-illegally-spying-on-nebraskans/",
       "date": "2026-11-26"
+    },
+    {
+      "url": "https://www.prnewswire.com/news-releases/tcl-csot-showcases-value-chain-collaboration-at-dtc2026-from-materials-to-end-device-applications-302951416.html",
+      "date": "2026-11-27"
     }
   ],
   "Camera Control": [
-    {
-      "url": "https://petapixel.com/2026/11/19/apples-camera-and-photo-software-lead-jon-mccormack-has-retired/",
-      "date": "2026-11-20"
-    },
     {
       "url": "https://www.dpreview.com/news/apples-iphone-camera-chief-has-retired/",
       "date": "2026-11-21"
@@ -129,13 +125,13 @@
     {
       "url": "https://dc.watch.impress.co.jp/docs/news/2159445.html",
       "date": "2026-11-26"
+    },
+    {
+      "url": "https://dc.watch.impress.co.jp/docs/news/campaign/2159210.html",
+      "date": "2026-11-27"
     }
   ],
   "LED Wall Display": [
-    {
-      "url": "https://www.digitalsignagetoday.com/news/brisbane-airport-taps-lg-displays-cms-for-digital-infrastructure-upgrade/",
-      "date": "2026-11-20"
-    },
     {
       "url": "https://www.digitalsignagetoday.com/articles/fitness-cartel-pumps-up-digital-signage-strategy/",
       "date": "2026-11-21"
@@ -151,13 +147,13 @@
     {
       "url": "https://www.tradingview.com/news/gurufocus:476c25f0f094b:0-nvidia-stocks-drop-8-55-as-huang-rally-fully-unwinds/",
       "date": "2026-11-26"
+    },
+    {
+      "url": "https://www.4rfv.co.uk/industrynews/337509/highlands_college_installs_led_wall_for_teaching_and_broadcasts",
+      "date": "2026-11-27"
     }
   ],
   "SONY": [
-    {
-      "url": "https://www.ept.ca/foxconn-acquires-automotive-camera-module-business-from-sony-semiconductor-solutions/",
-      "date": "2026-11-20"
-    },
     {
       "url": "https://www.techtimes.com/articles/331118/20261119/sony-elf-mn1-glasses-free-3d-display-store-demos-start-friday-orders-exceed-forecast.htm",
       "date": "2026-11-21"
@@ -173,13 +169,13 @@
     {
       "url": "https://mirrorless-camera.info/rumor/sony-rumor/59187.html",
       "date": "2026-11-26"
+    },
+    {
+      "url": "https://www.sonyalpharumors.com/arcane-lantern-aims-to-extend-open-gate-on-all-sony-alpha-and-fx-camera-and-to-remove-the-15fps-limit-on-third-party-lenses/",
+      "date": "2026-11-27"
     }
   ],
   "TV": [
-    {
-      "url": "https://news.yahoo.co.jp/articles/64eb1b79b78dd25cafd4185dc745ace6ff9fcfce",
-      "date": "2026-11-20"
-    },
     {
       "url": "https://www.fukuishimbun.co.jp/articles/-/2751957",
       "date": "2026-11-21"
@@ -195,13 +191,13 @@
     {
       "url": "https://www.cnet.com/tech/home-entertainment/best-buy-black-friday-oled-tv-deals/",
       "date": "2026-11-26"
+    },
+    {
+      "url": "https://www.cnet.com/tech/home-entertainment/best-buy-black-friday-oled-tv-deals/",
+      "date": "2026-11-27"
     }
   ],
   "Projector": [
-    {
-      "url": "https://av.watch.impress.co.jp/docs/news/2158111.html",
-      "date": "2026-11-20"
-    },
     {
       "url": "https://av.watch.impress.co.jp/docs/news/2158215.html",
       "date": "2026-11-21"
@@ -217,6 +213,10 @@
     {
       "url": "https://av.watch.impress.co.jp/docs/news/2159427.html",
       "date": "2026-11-26"
+    },
+    {
+      "url": "https://www.jiji.com/jc/article?k=000000034.000168708&g=prt",
+      "date": "2026-11-27"
     }
   ]
 }

@@ -1,0 +1,102 @@
+{
+  "AI": {
+    "title": "AIが書くコードの「レビュー負荷」どう対処する？",
+    "summary": "生成AIの普及により、コード生成のスピードは飛躍的に向上しました。しかし、AIが生成したコードを人間がレビューするコストは膨大です。本記事では、この「コード生成速度とレビュー能力の不一致」というエンジニアリングにおける新たなボトルネックにどう立ち向かうべきか、その課題と対策を考察します。",
+    "insight": "AI生成コードの信頼性を担保するためには、従来の人間によるレビューに依存するフローを見直し、自動化テストや静的解析ツールをパイプラインに深く統合することが不可欠です。また、エンジニアには「コードを書く」スキル以上に、AIが出力したロジックの脆弱性や保守性を素早く見抜くレビューエンジニアリング能力が求められています。",
+    "sourceUrl": "https://hackernoon.com/ai-writes-code-faster-than-you-can-review-it-now-what",
+    "sourceName": "HackerNoon",
+    "originalImageUrl": "https://hackernoon.imgix.net/images/ySK5UmEKUigi6gZlUx5UYDhUNhk1-px92vtz.jpeg",
+    "originalImageArticleUrl": "https://hackernoon.com/ai-writes-code-faster-than-you-can-review-it-now-what",
+    "displayDate": "2026-11-27"
+  },
+  "SRD / XR": {
+    "title": "スマートグラス活用：現場DXの真の価値とは",
+    "summary": "スマートグラスの現場導入において、単なるスマホの置き換えではなく、両手が空くことや作業記録の効率化など「ウェアラブル化」がもたらす本質的な価値について考察する記事。実業務への定着に向けた課題と解決策が論じられています。",
+    "insight": "エンジニア視点では、単にデバイスを変えるだけでなく、UI/UXをハンズフリー環境に最適化する設計が現場定着の鍵となります。導入コスト対効果だけでなく、作業者のコンテキストを考慮した入力インターフェースの検討が重要です。",
+    "sourceUrl": "https://berise.co.jp/topics/sagyoukiroku_smart-glasses_value/",
+    "sourceName": "株式会社ビーライズ",
+    "originalImageUrl": "https://berise.co.jp/wp/wp-content/uploads/2026/11/名称未設定のデザイン-1-1.webp",
+    "originalImageArticleUrl": "https://berise.co.jp/topics/sagyoukiroku_smart-glasses_value/",
+    "displayDate": "2026-11-27"
+  },
+  "Gaming Monitor": {
+    "title": "DeNAが相槌対応の音声認識モデルを無償公開",
+    "summary": "DeNAは、音声対話中の「相づち」を正確に認識・処理できる日本語音声認識（ASR）モデル3種をHugging Faceで無償公開しました。音声AI対話における応答の自然さを向上させるためのもので、開発者が自身のプロダクトに組み込みやすい形式となっています。",
+    "insight": "音声AIにおけるUX向上には、単なるテキスト変換精度だけでなく、自然な間や相づちをいかにコンテキストとして保持するかが重要です。こうしたモデルのオープンソース化は、AIキャラクターやコンシェルジュ系サービスの対話体験を一段階引き上げる技術的基盤となります。",
+    "sourceUrl": "https://pc.watch.impress.co.jp/docs/news/2159894.html",
+    "sourceName": "PC Watch",
+    "originalImageUrl": "https://pc.watch.impress.co.jp/img/pcw/list/2159/894/1.jpg",
+    "originalImageArticleUrl": "https://pc.watch.impress.co.jp/docs/news/2159894.html",
+    "displayDate": "2026-11-27"
+  },
+  "Projector": {
+    "title": "Amazonブラックフライデー開始！プロジェクターも最大50%OFF",
+    "summary": "11月27日よりAmazonブラックフライデー先行セールが開始。AWOL VisionやXGIMIといった高精細な4Kレーザープロジェクターが最大50%OFFとなるなど、ホームシアター環境のアップグレードに適した年間最安値級のセールが展開されています。",
+    "insight": "最新の4Kレーザープロジェクターは、単なる映像投影機を超え、空間設計やUI/UXを含めた高度なデジタル体験を提供しています。高性能モデルが割引されるこの時期は、開発環境の周辺機器を見直すだけでなく、視覚的UXの研究や高リフレッシュレート環境の構築を検討する絶好の機会です。",
+    "sourceUrl": "https://www.jiji.com/jc/article?k=000000034.000168708&g=prt",
+    "sourceName": "時事ドットコム",
+    "originalImageUrl": "https://prcdn.freetls.fastly.net/release_image/168708/34/168708-34-007dc1c20f5d5c1085bdb48290b1d3fd-1350x686.png",
+    "originalImageArticleUrl": "https://www.jiji.com/jc/article?k=000000034.000168708&g=prt",
+    "displayDate": "2026-11-27"
+  },
+  "TCL": {
+    "title": "TCL CSOTが次世代ディスプレイ技術をDTC2026で公開",
+    "summary": "TCL傘下のディスプレイ大手CSOTは、年次カンファレンス「DTC2026」にて、材料から最終製品までを統合したバリューチェーンの強みを強調しました。次世代ディスプレイ技術の開発とエコシステム連携の強化が示されています。",
+    "insight": "ディスプレイ業界では材料工学とデバイス実装の垂直統合が競争力の源泉となっており、CSOTの戦略はパネルメーカーの枠を超えたソリューション展開を示唆しています。エンジニア視点では、MiniLEDなどの高度な光学設計と量産プロセスにおけるサプライチェーン最適化の動向を注視すべきです。",
+    "sourceUrl": "https://www.prnewswire.com/news-releases/tcl-csot-showcases-value-chain-collaboration-at-dtc2026-from-materials-to-end-device-applications-302951416.html",
+    "sourceName": "PR Newswire",
+    "originalImageUrl": "https://mmx.prnewswire.com/media/MS2043480/20261126090605EST_image_1.jpg?id=OA3102407&p=facebook",
+    "originalImageArticleUrl": "https://www.prnewswire.com/news-releases/tcl-csot-showcases-value-chain-collaboration-at-dtc2026-from-materials-to-end-device-applications-302951416.html",
+    "displayDate": "2026-11-27"
+  },
+  "TV": {
+    "title": "Black FridayでOLED/MiniLEDテレビが大幅割引",
+    "summary": "ブラックフライデーセールに伴い、Sony、LG、Samsungなどの最新OLED（有機EL）およびMiniLEDテレビが、最大57%OFFや1,700ドル引きといった過去最大級の値下げで販売されています。ハイエンドモデルを手に入れる絶好の機会となっています。",
+    "insight": "ディスプレイ技術のコモディティ化と価格競争が加速しており、エンジニアにとって開発環境やテスト用モニターの更新コストが下がっています。特に144Hz対応などのゲーミングスペックが標準化しつつあるため、高リフレッシュレート環境の構築を検討する良いタイミングです。",
+    "sourceUrl": "https://www.cnet.com/tech/home-entertainment/best-buy-black-friday-oled-tv-deals/",
+    "sourceName": "CNET",
+    "originalImageUrl": "https://www.cnet.com/wp-content/uploads/sites/2/best-buy-oled-tv-sale.jpg?resize=1200,675",
+    "originalImageArticleUrl": "https://www.cnet.com/tech/home-entertainment/best-buy-black-friday-oled-tv-deals/",
+    "displayDate": "2026-11-27"
+  },
+  "Production Monitor": {
+    "title": "次世代OLED「FLiPP」：2029年に性能と効率が飛躍",
+    "summary": "LG Displayが発表した次世代OLED技術「FLiPP」が注目されています。2029年登場予定のこの技術は、従来比で輝度を1.6倍、寿命を2.4倍に向上させつつ、消費電力を13%削減可能です。Tandem技術の進化により、ディスプレイ市場の次なる章を切り拓こうとしています。",
+    "insight": "ディスプレイの物理的な寿命と電力効率の改善は、エッジデバイスや長時間運用するモニターの設計において重要なブレイクスルーです。低消費電力化は熱制御の課題を軽減し、高輝度・長寿命は産業用モニターとしての信頼性を大きく高めるでしょう。",
+    "sourceUrl": "https://www.provideocoalition.com/flipp-technology-next-gen-oled-monitors-will-be-cheaper-last-longer/",
+    "sourceName": "ProVideo Coalition",
+    "originalImageUrl": "https://www.provideocoalition.com/wp-content/uploads/lgdisplayflipp001.jpg",
+    "originalImageArticleUrl": "https://www.provideocoalition.com/flipp-technology-next-gen-oled-monitors-will-be-cheaper-last-longer/",
+    "displayDate": "2026-11-27"
+  },
+  "SONY": {
+    "title": "ソニー製カメラの15fps制限を突破？有志による改造ファームウェア計画",
+    "summary": "ソニーのAlphaおよびFXシリーズにおいて、サードパーティ製レンズ使用時の15fps制限解除や、Open Gate記録の拡張を目指すプロジェクト「Arcane Lantern」が注目を集めています。コミュニティ主導でファームウェアの制約を回避しようとする動きが活発化しており、ハードウェア性能のポテンシャルを解放する試みとして話題です。",
+    "insight": "ファームウェアの解析による機能制限の解除は、クローズドな製品仕様に対してエンジニアリングの観点からリバースエンジニアリングを行う面白い事例です。メーカー側が意図的に設けた制限をバイパスする仕組みを理解することは、組込みOSや周辺機器の通信プロトコルへの深い洞察につながります。",
+    "sourceUrl": "https://www.sonyalpharumors.com/arcane-lantern-aims-to-extend-open-gate-on-all-sony-alpha-and-fx-camera-and-to-remove-the-15fps-limit-on-third-party-lenses/",
+    "sourceName": "SonyAlphaRumors",
+    "originalImageUrl": "https://www.sonyalpharumors.com/wp-content/uploads/2026/11/Sony-A7IV-hacking.png",
+    "originalImageArticleUrl": "https://www.sonyalpharumors.com/arcane-lantern-aims-to-extend-open-gate-on-all-sony-alpha-and-fx-camera-and-to-remove-the-15fps-limit-on-third-party-lenses/",
+    "displayDate": "2026-11-27"
+  },
+  "Camera Control": {
+    "title": "Amazonブラックフライデーで機材をアップデート",
+    "summary": "Amazonブラックフライデーが開催中。DJIのジンバルカメラからLexarやNextorageの高速ストレージ、BenQのモニターやLED照明まで、カメラ・映像制作に関わる機材が大幅割引で販売されています。",
+    "insight": "ストレージや照明などの周辺機器はエンジニアのデスク環境にも直結するアイテムが多く、特にThunderbolt 5対応製品や高演色LEDのセールは要チェックです。開発環境の効率化やデスク周りのアップデートを検討する好機と言えます。",
+    "sourceUrl": "https://dc.watch.impress.co.jp/docs/news/campaign/2159210.html",
+    "sourceName": "デジカメ Watch",
+    "originalImageUrl": "https://dc.watch.impress.co.jp/img/dcw/list/2159/210/01.jpg",
+    "originalImageArticleUrl": "https://dc.watch.impress.co.jp/docs/news/campaign/2159210.html",
+    "displayDate": "2026-11-27"
+  },
+  "LED Wall Display": {
+    "title": "ams OSRAMとサムスンが次世代MicroLEDで提携",
+    "summary": "ams OSRAMがSamsung Displayと戦略的提携を発表。ams OSRAMの微細化・量産技術とサムスンの転写技術を融合し、次世代の超小型MicroLEDディスプレイの商用化を目指す。今後数年間の共同開発プログラムが始動する。",
+    "insight": "MicroLEDの課題である大規模な転写（Mass Transfer）工程が、OSRAMの epitaxy技術とサムスンの独自技術で効率化される可能性があります。製造プロセスの革新はコスト低減の鍵であり、ディスプレイの次世代スタンダードを左右する重要な動向です。",
+    "sourceUrl": "https://www.4rfv.co.uk/industrynews/337509/highlands_college_installs_led_wall_for_teaching_and_broadcasts",
+    "sourceName": "LEDinside",
+    "originalImageUrl": "http://www.4rfv.co.uk/newsimages/1_337509_highlands.jpg",
+    "originalImageArticleUrl": "https://www.4rfv.co.uk/industrynews/337509/highlands_college_installs_led_wall_for_teaching_and_broadcasts",
+    "displayDate": "2026-11-27"
+  }
+}
