@@ -1,10 +1,6 @@
 {
   "Production Monitor": [
     {
-      "url": "https://www.cined.com/how-camera-firmware-hacks-work-risks-recovery-explained/",
-      "date": "2026-11-21"
-    },
-    {
       "url": "https://www.newsshooter.com/2026/11/20/i-o-data-thunderbolt-5-ssd-first-look-at-inter-bee-2026/",
       "date": "2026-11-22"
     },
@@ -19,13 +15,13 @@
     {
       "url": "https://www.provideocoalition.com/flipp-technology-next-gen-oled-monitors-will-be-cheaper-last-longer/",
       "date": "2026-11-27"
+    },
+    {
+      "url": "https://www.cined.com/new-york-times-photoshop-2027-freelance-photographers-generative-ai-c2pa-metadata/",
+      "date": "2026-11-28"
     }
   ],
   "SRD / XR": [
-    {
-      "url": "https://coveredge.cover-corp.com/list/7845",
-      "date": "2026-11-21"
-    },
     {
       "url": "https://dig-it.media/thundervolt/article/917920/",
       "date": "2026-11-22"
@@ -41,13 +37,13 @@
     {
       "url": "https://berise.co.jp/topics/sagyoukiroku_smart-glasses_value/",
       "date": "2026-11-27"
+    },
+    {
+      "url": "https://www.moguravr.com/feath-works-ovr-dummyheadmic-vorbit-asmr/",
+      "date": "2026-11-28"
     }
   ],
   "AI": [
-    {
-      "url": "https://www.washingtonpost.com/technology/2026/11/20/using-anthropic-ai-mathematician-claims-have-solved-riemann-hypothesis/",
-      "date": "2026-11-21"
-    },
     {
       "url": "https://finance.biggo.jp/news/c132374d-8b9c-4693-91fc-616afae88090",
       "date": "2026-11-22"
@@ -63,13 +59,13 @@
     {
       "url": "https://hackernoon.com/ai-writes-code-faster-than-you-can-review-it-now-what",
       "date": "2026-11-27"
+    },
+    {
+      "url": "https://www.sbbit.jp/article/st/188849",
+      "date": "2026-11-28"
     }
   ],
   "Gaming Monitor": [
-    {
-      "url": "https://mixed-news.com/en/msi-mag-272urdfa-e16-4k-160hz-320hz-monitor-amazon-deal/",
-      "date": "2026-11-21"
-    },
     {
       "url": "https://digg.com/tech/heski3t7",
       "date": "2026-11-22"
@@ -85,13 +81,13 @@
     {
       "url": "https://pc.watch.impress.co.jp/docs/news/2159894.html",
       "date": "2026-11-27"
+    },
+    {
+      "url": "https://pc.watch.impress.co.jp/docs/news/todays_sales/2160189.html",
+      "date": "2026-11-28"
     }
   ],
   "TCL": [
-    {
-      "url": "https://www.techpowerup.com/355063/tcl-csot-prototype-reaches-1250-hz-at-full-qhd-resolution",
-      "date": "2026-11-21"
-    },
     {
       "url": "https://www.tweaktown.com/news/114801/tcls-new-monitor-panel-hits-1250hz-at-native-1440p-without-dropping-to-1080p/index.html",
       "date": "2026-11-22"
@@ -107,13 +103,13 @@
     {
       "url": "https://www.prnewswire.com/news-releases/tcl-csot-showcases-value-chain-collaboration-at-dtc2026-from-materials-to-end-device-applications-302951416.html",
       "date": "2026-11-27"
+    },
+    {
+      "url": "https://www.mccookgazette.com/news/nebraska-sues-tcl-over-smart-tv-surveillance-claims-b20d5cdd",
+      "date": "2026-11-28"
     }
   ],
   "Camera Control": [
-    {
-      "url": "https://www.dpreview.com/news/apples-iphone-camera-chief-has-retired/",
-      "date": "2026-11-21"
-    },
     {
       "url": "https://www.dpreview.com/articles/the-vibe-code-revolution-ai-hackers-are-rewriting-what-your-camera-can-do/",
       "date": "2026-11-22"
@@ -129,13 +125,13 @@
     {
       "url": "https://dc.watch.impress.co.jp/docs/news/campaign/2159210.html",
       "date": "2026-11-27"
+    },
+    {
+      "url": "https://petapixel.com/2026/11/27/pgytech-retrova-gives-the-iphone-a-400mm-reach-and-a-real-camera-feel/",
+      "date": "2026-11-28"
     }
   ],
   "LED Wall Display": [
-    {
-      "url": "https://www.digitalsignagetoday.com/articles/fitness-cartel-pumps-up-digital-signage-strategy/",
-      "date": "2026-11-21"
-    },
     {
       "url": "https://pasqualepillitteri.it/en/news/35384/kinetic-led-walls-how-they-work",
       "date": "2026-11-22"
@@ -151,13 +147,13 @@
     {
       "url": "https://www.4rfv.co.uk/industrynews/337509/highlands_college_installs_led_wall_for_teaching_and_broadcasts",
       "date": "2026-11-27"
+    },
+    {
+      "url": "//www.ledinside.com/news/2026/11/2026_11_26_02",
+      "date": "2026-11-28"
     }
   ],
   "SONY": [
-    {
-      "url": "https://www.techtimes.com/articles/331118/20261119/sony-elf-mn1-glasses-free-3d-display-store-demos-start-friday-orders-exceed-forecast.htm",
-      "date": "2026-11-21"
-    },
     {
       "url": "https://digicame-info.com/2026/11/ww816852.html",
       "date": "2026-11-22"
@@ -173,13 +169,13 @@
     {
       "url": "https://www.sonyalpharumors.com/arcane-lantern-aims-to-extend-open-gate-on-all-sony-alpha-and-fx-camera-and-to-remove-the-15fps-limit-on-third-party-lenses/",
       "date": "2026-11-27"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPOXl3emM4bS0zSDlvQURLSkRXODZBa3ZFVlpVeXNsaHBRZWNEeTBqT1o0UFpPNHV4dU9maUYtT3BtcU5aRkhjVUpHdm9ueXR6WmIzZTZ1cTVjMlJyYnJYcmRrWlZnY0wtdVJEa25HektfbnZlSG94ekpZVjhxNlFwNndSQWpCZzB2eW83bHNrc21DQVRkNDVKQ0trMUl3amNjY1pHZzBaN2xPcGItTG1jNXk2UEs?oc=5",
+      "date": "2026-11-28"
     }
   ],
   "TV": [
-    {
-      "url": "https://www.fukuishimbun.co.jp/articles/-/2751957",
-      "date": "2026-11-21"
-    },
     {
       "url": "https://news.yahoo.co.jp/articles/70a57f042d7109ed6aad50d4a46ff10e78cb0132",
       "date": "2026-11-22"
@@ -195,13 +191,13 @@
     {
       "url": "https://www.cnet.com/tech/home-entertainment/best-buy-black-friday-oled-tv-deals/",
       "date": "2026-11-27"
+    },
+    {
+      "url": "https://news.yahoo.co.jp/articles/38659f3c550b3404f499a30ba2cb05700b6bfc43",
+      "date": "2026-11-28"
     }
   ],
   "Projector": [
-    {
-      "url": "https://av.watch.impress.co.jp/docs/news/2158215.html",
-      "date": "2026-11-21"
-    },
     {
       "url": "https://www.igeekphone.com/jmgo-n5s-ultra-4k-triple-laser-projector-review-5200-cvia-brightness-240hz-vrr-gaming-and-dolby-vision/",
       "date": "2026-11-22"
@@ -217,6 +213,10 @@
     {
       "url": "https://www.jiji.com/jc/article?k=000000034.000168708&g=prt",
       "date": "2026-11-27"
+    },
+    {
+      "url": "https://www.pcmag.com/news/projector-deals-black-friday-2026",
+      "date": "2026-11-28"
     }
   ]
 }

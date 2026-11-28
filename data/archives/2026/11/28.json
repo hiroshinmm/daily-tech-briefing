@@ -1,0 +1,102 @@
+{
+  "Gaming Monitor": {
+    "title": "Amazonブラックフライデー：OLED/4Kモニターの狙い目",
+    "summary": "Amazonのブラックフライデー先行セールが開催中。特にASUSのProArt OLEDモニターや高リフレッシュレートのゲーミングモデルが大幅値下げされています。開発環境のアップグレードを検討する絶好の機会です。",
+    "insight": "開発者の生産性向上において、高精細なOLEDパネルや広色域のProArtシリーズは、長時間作業の目への負担軽減や視認性向上に直結します。特にセールを活用したマルチモニター構成の刷新は、コードレビュー効率を最大化する有力な投資と言えます。",
+    "sourceUrl": "https://pc.watch.impress.co.jp/docs/news/todays_sales/2160189.html",
+    "sourceName": "PC Watch",
+    "originalImageUrl": "https://pc.watch.impress.co.jp/img/pcw/list/2160/189/01.jpg",
+    "originalImageArticleUrl": "https://pc.watch.impress.co.jp/docs/news/todays_sales/2160189.html",
+    "displayDate": "2026-11-28"
+  },
+  "AI": {
+    "title": "Sakana AIが防衛特化子会社「Sakana Defense」を設立",
+    "summary": "日本のスタートアップであるSakana AIが、防衛に特化した子会社「Sakana Defense」を設立しました。自衛隊の指揮統制AIの開発など、安全保障分野におけるAI導入を加速させる体制を整えています。",
+    "insight": "AI技術が国防・指揮統制という極めてミッションクリティカルな領域へ本格的に進出する兆しです。エンジニアとしては、エッジでの低レイテンシ推論や、閉域環境での強固なセキュリティを担保するアーキテクチャの重要性が今後さらに高まると予想されます。",
+    "sourceUrl": "https://www.sbbit.jp/article/st/188849",
+    "sourceName": "ビジネス+IT",
+    "originalImageUrl": null,
+    "originalImageArticleUrl": "https://www.sbbit.jp/article/st/188849",
+    "displayDate": "2026-11-28"
+  },
+  "SRD / XR": {
+    "title": "個人開発者がSteamでASMR音響アプリ2種をリリース",
+    "summary": "個人開発者のfeath氏が、VRユーザー向けの「OVR-DummyHeadMic」とVTuber向けの「VOrbit ASMR」という2つの音声収録アプリをSteamで発売しました。これらはバイノーラル録音や空間音響表現を強化するツールとして注目されています。",
+    "insight": "バイノーラルオーディオはVR空間の没入感を高める重要な要素であり、こうしたニッチかつ高機能な専用アプリの登場は、個人開発のクリエイターが手軽に高品質なXRコンテンツを作るためのインフラが整いつつあることを示しています。エンジニア視点では、デスクトップ環境でいかに低遅延かつ高精度な空間音響ミキシングを実現しているか、実装の最適化手法に注目すると面白いでしょう。",
+    "sourceUrl": "https://www.moguravr.com/feath-works-ovr-dummyheadmic-vorbit-asmr/",
+    "sourceName": "Mogura VR",
+    "originalImageUrl": "https://assets.moguravr.com/uploads/2026/11/2725eb77d67135e27ed5c3e62a33d79c-kix.cf1qmb81inqq-300x172.webp",
+    "originalImageArticleUrl": "https://www.moguravr.com/feath-works-ovr-dummyheadmic-vorbit-asmr/",
+    "displayDate": "2026-11-28"
+  },
+  "Projector": {
+    "title": "Black Fridayで見逃せない！4Kレーザープロジェクターのセール祭",
+    "summary": "ブラックフライデーを迎え、Hisense、Epson、ViewSonic、AWOL Visionなどの主要メーカーが高性能な4Kレーザープロジェクターを大幅割引で展開中。数千ドルの割引やゲーミング特化モデルなど、ホームシアター環境のアップグレードに絶好の機会が到来しています。",
+    "insight": "最新のレーザー投影技術は、色再現性と高輝度を両立させており、静音性や応答速度の面でゲーミング用途にも十分耐えうるレベルに達しています。エンジニアとしては、単なる視聴デバイスとしてだけでなく、高解像度・高リフレッシュレート環境を活かしたマルチディスプレイ的活用も検討の価値があります。",
+    "sourceUrl": "https://www.pcmag.com/news/projector-deals-black-friday-2026",
+    "sourceName": "PCMag",
+    "originalImageUrl": "https://i.pcmag.com/imagery/articles/05U8Bo4AewlPweiSq63oTdf-10.fit_lim.size_1200x630.v1795818170.png",
+    "originalImageArticleUrl": "https://www.pcmag.com/news/projector-deals-black-friday-2026",
+    "displayDate": "2026-11-28"
+  },
+  "Production Monitor": {
+    "title": "NYTがPhotoshop 2027を禁止、生成AIのメタデータ問題",
+    "summary": "ニューヨーク・タイムズ紙は、フリーランスの写真家に対しAdobe Photoshop 2027の使用を禁止しました。同ツールがユーザーの意図しない生成AI処理をバックグラウンドで行い、AI生成であることを示すメタデータを埋め込むリスクがあるためです。Adobe側の自動ラベル付け仕様と、写真の真正性を重視する報道機関の間で摩擦が生じています。",
+    "insight": "ソフトウェアが勝手に付与する隠れたメタデータは、データの真正性を担保する上で重大なリスクとなり得ます。AI機能が統合されたツールを開発・採用する際は、その副作用がコンプライアンスや法的要件にどう影響するかを深く理解する必要があります。",
+    "sourceUrl": "https://www.cined.com/new-york-times-photoshop-2027-freelance-photographers-generative-ai-c2pa-metadata/",
+    "sourceName": "CineD",
+    "originalImageUrl": "https://www.cined.com/content/uploads/2026/11/new-york-times-photoshop-2027-featured-v3-300x169.jpg",
+    "originalImageArticleUrl": "https://www.cined.com/new-york-times-photoshop-2027-freelance-photographers-generative-ai-c2pa-metadata/",
+    "displayDate": "2026-11-28"
+  },
+  "TV": {
+    "title": "フジ『FNS27時間テレビ』が3年ぶりに復活",
+    "summary": "フジテレビの大型特番『FNS27時間テレビ』が、3年間の休止期間を経て2027年夏に復活することが決定しました。長時間の生放送というスタイルは、配信全盛の時代において依然として強い注目を集めるコンテンツです。",
+    "insight": "大規模な長時間生放送におけるシステム負荷分散や、リアルタイム視聴者数に耐えうるインフラ構成は、エンジニアリングの観点からも非常に興味深い事例です。可用性と耐障害性の設計思想について、チーム内で議論してみるのも良いでしょう。",
+    "sourceUrl": "https://news.yahoo.co.jp/articles/38659f3c550b3404f499a30ba2cb05700b6bfc43",
+    "sourceName": "TV LIFE web",
+    "originalImageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261128-00010001-tvlife-000-1-view.jpg?exp=10800",
+    "originalImageArticleUrl": "https://news.yahoo.co.jp/articles/38659f3c550b3404f499a30ba2cb05700b6bfc43",
+    "displayDate": "2026-11-28"
+  },
+  "TCL": {
+    "title": "TCLのスマートテレビ監視疑惑でネブラスカ州が提訴",
+    "summary": "TCL製のスマートテレビにおける監視機能およびプライバシー保護に関する懸念を巡り、ネブラスカ州が同社を提訴しました。ブラックフライデーのセールでTCL製品が注目される中、ハードウェアの機能だけでなく、プライバシーとデータ収集の是非が重要な議題となっています。",
+    "insight": "スマートテレビは現在、OSを搭載した立派なコンピュータであり、OSのプライバシー設定やデータ送信先を精査する必要があります。エンジニアとしては、デバイスが収集するテレメトリデータが適切に管理されているか、ネットワークレベルでの監視・制御が可能かといった「セキュリティ・バイ・デザイン」の観点を改めて意識すべきです。",
+    "sourceUrl": "https://www.mccookgazette.com/news/nebraska-sues-tcl-over-smart-tv-surveillance-claims-b20d5cdd",
+    "sourceName": "McCook Gazette",
+    "originalImageUrl": null,
+    "originalImageArticleUrl": "https://www.mccookgazette.com/news/nebraska-sues-tcl-over-smart-tv-surveillance-claims-b20d5cdd",
+    "displayDate": "2026-11-28"
+  },
+  "SONY": {
+    "title": "ソニーが1月にαシリーズ新製品発表イベントを開催へ",
+    "summary": "ソニーが来年1月に大規模なαシリーズの発表イベントを開催することが確実視されています。詳細は不明ですが、待望のハイエンドモデル（α7S IVなど）の登場に対する期待が高まっており、年末年始の業界動向として注目されています。",
+    "insight": "イメージセンサー技術の進化がカメラの性能をどう引き上げるかに注目が集まっています。特に高速読み出しや低照度特性の向上は、映像制作エンジニアにとってもAI画像処理との親和性という観点で興味深いポイントです。",
+    "sourceUrl": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPOXl3emM4bS0zSDlvQURLSkRXODZBa3ZFVlpVeXNsaHBRZWNEeTBqT1o0UFpPNHV4dU9maUYtT3BtcU5aRkhjVUpHdm9ueXR6WmIzZTZ1cTVjMlJyYnJYcmRrWlZnY0wtdVJEa25HektfbnZlSG94ekpZVjhxNlFwNndSQWpCZzB2eW83bHNrc21DQVRkNDVKQ0trMUl3amNjY1pHZzBaN2xPcGItTG1jNXk2UEs?oc=5",
+    "sourceName": "SonyAlphaRumors",
+    "originalImageUrl": null,
+    "originalImageArticleUrl": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPOXl3emM4bS0zSDlvQURLSkRXODZBa3ZFVlpVeXNsaHBRZWNEeTBqT1o0UFpPNHV4dU9maUYtT3BtcU5aRkhjVUpHdm9ueXR6WmIzZTZ1cTVjMlJyYnJYcmRrWlZnY0wtdVJEa25HektfbnZlSG94ekpZVjhxNlFwNndSQWpCZzB2eW83bHNrc21DQVRkNDVKQ0trMUl3amNjY1pHZzBaN2xPcGItTG1jNXk2UEs?oc=5",
+    "displayDate": "2026-11-28"
+  },
+  "Camera Control": {
+    "title": "iPhoneが本格カメラに！PGYTECHの新拡張キット",
+    "summary": "PGYTECHからiPhone向けの新製品「RetroVa」が登場。400mm相当の望遠レンズとグリップを備え、スマホを一眼レフのような操作感と撮影能力に拡張する。モバイル写真の限界を押し広げる注目アイテムです。",
+    "insight": "ハードウェアによる光学拡張は、センサーサイズに制約のあるスマホ撮影において、依然として有効なアプローチです。デジタル処理によるAI補正が主流となる中で、物理的なレンズ設計が操作体験にどう影響するかは、ガジェット開発のUI/UXを考える上で興味深い事例です。",
+    "sourceUrl": "https://petapixel.com/2026/11/27/pgytech-retrova-gives-the-iphone-a-400mm-reach-and-a-real-camera-feel/",
+    "sourceName": "PetaPixel",
+    "originalImageUrl": "https://petapixel.com/assets/uploads/2026/11/1-PGYTech-RetroVa-kit-hero-1-1600x840.jpg",
+    "originalImageArticleUrl": "https://petapixel.com/2026/11/27/pgytech-retrova-gives-the-iphone-a-400mm-reach-and-a-real-camera-feel/",
+    "displayDate": "2026-11-28"
+  },
+  "LED Wall Display": {
+    "title": "ams OSRAMとSamsungが次世代MicroLEDで戦略的提携",
+    "summary": "ams OSRAMとSamsung Displayが、次世代の超小型MicroLED技術の共同開発で提携しました。ams OSRAMの8インチLED製造技術とSamsungの転写技術を組み合わせ、MicroLEDディスプレイの商用化を加速させます。",
+    "insight": "MicroLEDの課題である量産性とコスト最適化において、半導体メーカーとディスプレイ大手の強力なタッグが形成されました。特に量産技術の確立は、将来のARデバイスや高輝度ディスプレイにおける重要な転換点となります。",
+    "sourceUrl": "//www.ledinside.com/news/2026/11/2026_11_26_02",
+    "sourceName": "LEDinside",
+    "originalImageUrl": null,
+    "originalImageArticleUrl": "//www.ledinside.com/news/2026/11/2026_11_26_02",
+    "displayDate": "2026-11-28"
+  }
+}
